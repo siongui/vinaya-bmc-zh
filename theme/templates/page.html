@@ -1,0 +1,11 @@
+{% extends "layout/content.html" %}
+{% set content_css_class = "page" %}
+{#
+{% block title %}{{ content.title }} - {{ super() }}{% endblock %}
+#}
+{% block title %}{{ content.title }}{% endblock %}
+{%- block article_metadata -%}
+  {%- if page.modified -%}
+  最後更新: {{ page.modified | strftime("%b %d, %Y") }}
+  {%- endif -%}
+{%- endblock -%}

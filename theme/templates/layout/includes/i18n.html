@@ -1,0 +1,22 @@
+{% macro lang_code2name(code) -%}
+  {%- if   code == 'en'    -%}   English
+  {%- elif code == 'zh'    -%}   中文
+  {%- elif code == 'th'    -%}   ไทย
+  {%- elif code == 'zh_TW' -%}   中文 (繁體)
+  {%- elif code == 'zh_CN' -%}   中文 (简体)
+  {%- elif code == 'zh-hant' -%}   傳統中文
+  {%- elif code == 'zh-hans' -%}   简体中文
+  {%- else -%}{{ code }}{%- endif -%}
+{%- endmacro %}
+
+{% macro translations_for(writing, SITEURL) -%}
+  {%- if writing.translations -%}
+    {%- for translation in writing.translations -%}
+      {%- if translation.slug == 'index' -%}
+        <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ SITEURL }}/{{ translation.url | replace("index/", "") }}">{{ lang_code2name(translation.lang) }}</a></div>
+      {%- else -%}
+        <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ SITEURL }}/{{ translation.url }}">{{ lang_code2name(translation.lang) }}</a></div>
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+{%- endmacro %}
