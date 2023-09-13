@@ -49,7 +49,7 @@
      - 　依止
 
    * - `\　　Choosing a mentor <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_4>`__
-     - 　　選擇導師（依止師）
+     - 　　選擇導師
 
    * - `\　　Taking dependence <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_5>`__
      - 　　請求依止
@@ -82,7 +82,7 @@
      - 　還俗
 
    * - `\　　State of mind <https://www.dhammatalks.org/vinaya/bmc/Section0009.html#sigil_toc_id_14>`__
-     - 　　心理狀態（精神狀態）
+     - 　　心理狀態
 
    * - `\　　Intention <https://www.dhammatalks.org/vinaya/bmc/Section0009.html#sigil_toc_id_15>`__
      - 　　意圖
@@ -92,6 +92,108 @@
 
    * - `\　　The witness <https://www.dhammatalks.org/vinaya/bmc/Section0009.html#sigil_toc_id_17>`__
      - 　　見證人
+
+   * - `\　Pārājika <https://www.dhammatalks.org/vinaya/bmc/Section0010.html>`__
+     - 　波羅夷
+
+   * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__
+     - 　　1
+
+   * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2>`__
+     - 　　2
+
+   * - `\　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3>`__
+     - 　　3
+
+   * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4>`__
+     - 　　4
+
+   * - `\　Saṅghādisesa <https://www.dhammatalks.org/vinaya/bmc/Section0011.html>`__
+     - 　僧殘
+
+   * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1>`__
+     - 　　1
+
+   * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2>`__
+     - 　　2
+
+   * - `\　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3>`__
+     - 　　3
+
+   * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4>`__
+     - 　　4
+
+   * - `\　　5 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg5>`__
+     - 　　5
+
+   * - `\　　6 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg6>`__
+     - 　　6
+
+   * - `\　　7 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg7>`__
+     - 　　7
+
+   * - `\　　8 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8>`__
+     - 　　8
+
+   * - `\　　9 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9>`__
+     - 　　9
+
+   * - `\　　10 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10>`__
+     - 　　10
+
+   * - `\　　11 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11>`__
+     - 　　11
+
+   * - `\　　12 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12>`__
+     - 　　12
+
+   * - `\　　13 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13>`__
+     - 　　13
+
+   * - `\　Aniyata <https://www.dhammatalks.org/vinaya/bmc/Section0012.html>`__
+     - 　不定法
+
+   * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay1>`__
+     - 　　1
+
+   * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay2>`__
+     - 　　2
+
+   * - `\　Nissaggiya Pācittiya <https://www.dhammatalks.org/vinaya/bmc/Section0013.html>`__
+     - 　尼薩耆波逸提
+
+   * - `\　　One: The Robe-cloth Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP_ChOne>`__
+     - 　　第一 衣品
+
+   * - `\　　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1>`__
+     - 　　　1
+
+   * - `\　　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2>`__
+     - 　　　2
+
+   * - `\　　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3>`__
+     - 　　　3
+
+   * - `\　　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP4>`__
+     - 　　　4
+
+   * - `\　　　5 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5>`__
+     - 　　　5
+
+   * - `\　　　6 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6>`__
+     - 　　　6
+
+   * - `\　　　7 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7>`__
+     - 　　　7
+
+   * - `\　　　8 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP8>`__
+     - 　　　8
+
+   * - `\　　　9 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP8>`__
+     - 　　　9
+
+   * - `\　　　10 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP10>`__
+     - 　　　10
 
 ..
    * - 
