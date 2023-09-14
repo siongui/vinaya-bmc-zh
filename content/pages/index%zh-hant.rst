@@ -97,67 +97,67 @@
      - 　波羅夷
 
    * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__
-     - 　　1
+     - 　　一
 
    * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2>`__
-     - 　　2
+     - 　　二
 
    * - `\　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3>`__
-     - 　　3
+     - 　　三
 
    * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4>`__
-     - 　　4
+     - 　　四
 
    * - `\　Saṅghādisesa <https://www.dhammatalks.org/vinaya/bmc/Section0011.html>`__
      - 　僧殘
 
    * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1>`__
-     - 　　1
+     - 　　一
 
    * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2>`__
-     - 　　2
+     - 　　二
 
    * - `\　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3>`__
-     - 　　3
+     - 　　三
 
    * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4>`__
-     - 　　4
+     - 　　四
 
    * - `\　　5 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg5>`__
-     - 　　5
+     - 　　五
 
    * - `\　　6 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg6>`__
-     - 　　6
+     - 　　六
 
    * - `\　　7 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg7>`__
-     - 　　7
+     - 　　七
 
    * - `\　　8 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8>`__
-     - 　　8
+     - 　　八
 
    * - `\　　9 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9>`__
-     - 　　9
+     - 　　九
 
    * - `\　　10 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10>`__
-     - 　　10
+     - 　　十
 
    * - `\　　11 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11>`__
-     - 　　11
+     - 　　十一
 
    * - `\　　12 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12>`__
-     - 　　12
+     - 　　十二
 
    * - `\　　13 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13>`__
-     - 　　13
+     - 　　十三
 
    * - `\　Aniyata <https://www.dhammatalks.org/vinaya/bmc/Section0012.html>`__
      - 　不定法
 
    * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay1>`__
-     - 　　1
+     - 　　一
 
    * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay2>`__
-     - 　　2
+     - 　　二
 
    * - `\　Nissaggiya Pācittiya <https://www.dhammatalks.org/vinaya/bmc/Section0013.html>`__
      - 　尼薩耆波逸提
@@ -166,34 +166,136 @@
      - 　　第一 衣品
 
    * - `\　　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1>`__
-     - 　　　1
+     - 　　　一
 
    * - `\　　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2>`__
-     - 　　　2
+     - 　　　二
 
    * - `\　　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3>`__
-     - 　　　3
+     - 　　　三
 
    * - `\　　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP4>`__
-     - 　　　4
+     - 　　　四
 
    * - `\　　　5 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5>`__
-     - 　　　5
+     - 　　　五
 
    * - `\　　　6 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6>`__
-     - 　　　6
+     - 　　　六
 
    * - `\　　　7 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7>`__
-     - 　　　7
+     - 　　　七
 
    * - `\　　　8 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP8>`__
-     - 　　　8
+     - 　　　八
 
    * - `\　　　9 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP8>`__
-     - 　　　9
+     - 　　　九
 
    * - `\　　　10 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP10>`__
-     - 　　　10
+     - 　　　十
+
+   * - `\　　Two: The Silk Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0014.html>`__
+     - 　　第二 蠶絲品
+
+   * - `\　　　11 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP11>`__
+     - 　　　十一
+
+   * - `\　　　12 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP12>`__
+     - 　　　十二
+
+   * - `\　　　13 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP13>`__
+     - 　　　十三
+
+   * - `\　　　14 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP14>`__
+     - 　　　十四
+
+   * - `\　　　15 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15>`__
+     - 　　　十五
+
+   * - `\　　　16 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP16>`__
+     - 　　　十六
+
+   * - `\　　　17 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP17>`__
+     - 　　　十七
+
+   * - `\　　　18 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18>`__
+     - 　　　十八
+
+   * - `\　　　19 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19>`__
+     - 　　　十九
+
+   * - `\　　　20 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20>`__
+     - 　　　二十
+
+   * - `\　　Three: The Bowl Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0015.html>`__
+     - 　　第三 缽品
+
+   * - `\　　　21 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21>`__
+     - 　　　二十一
+
+   * - `\　　　22 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22>`__
+     - 　　　二十二
+
+   * - `\　　　23 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23>`__
+     - 　　　二十三
+
+   * - `\　　　24 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24>`__
+     - 　　　二十四
+
+   * - `\　　　25 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP25>`__
+     - 　　　二十五
+
+   * - `\　　　26 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP26>`__
+     - 　　　二十六
+
+   * - `\　　　27 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP27>`__
+     - 　　　二十七
+
+   * - `\　　　28 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28>`__
+     - 　　　二十八
+
+   * - `\　　　29 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29>`__
+     - 　　　二十九
+
+   * - `\　　　30 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30>`__
+     - 　　　三十
+
+   * - `\　Pācittiya <https://www.dhammatalks.org/vinaya/bmc/Section0016.html>`__
+     - 　波逸提
+
+   * - `\　　One: The Lie Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc_ChOne>`__
+     - 　　第一 虛妄語品
+
+   * - `\　　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1>`__
+     - 　　　一
+
+   * - `\　　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2>`__
+     - 　　　二
+
+   * - `\　　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc3>`__
+     - 　　　三
+
+   * - `\　　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4>`__
+     - 　　　四
+
+   * - `\　　　5 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc5>`__
+     - 　　　五
+
+   * - `\　　　6 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc6>`__
+     - 　　　六
+
+   * - `\　　　7 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7>`__
+     - 　　　七
+
+   * - `\　　　8 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc8>`__
+     - 　　　八
+
+   * - `\　　　9 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9>`__
+     - 　　　九
+
+   * - `\　　　10 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10>`__
+     - 　　　十
 
 ..
    * - 
