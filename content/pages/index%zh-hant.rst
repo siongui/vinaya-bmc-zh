@@ -297,6 +297,99 @@
    * - `\　　　10 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10>`__
      - 　　　十
 
+   * - `\　　Two: The Living Plant Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0017.html>`__
+     - 　　第二 生物村品
+
+   * - `\　　　11 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11>`__
+     - 　　　十一
+
+   * - `\　　　12 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc12>`__
+     - 　　　十二
+
+   * - `\　　　13 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc13>`__
+     - 　　　十三
+
+   * - `\　　　14 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc14>`__
+     - 　　　十四
+
+   * - `\　　　15 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc15>`__
+     - 　　　十五
+
+   * - `\　　　16 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc16>`__
+     - 　　　十六
+
+   * - `\　　　17 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc17>`__
+     - 　　　十七
+
+   * - `\　　　18 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc18>`__
+     - 　　　十八
+
+   * - `\　　　19 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc19>`__
+     - 　　　十九
+
+   * - `\　　　20 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc20>`__
+     - 　　　二十
+
+   * - `\　　Three: The Exhortation Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0018.html>`__
+     - 　　第三 教誡品
+
+   * - `\　　　21 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc21>`__
+     - 　　　二十一
+
+   * - `\　　　22 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc22>`__
+     - 　　　二十二
+
+   * - `\　　　23 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc23>`__
+     - 　　　二十三
+
+   * - `\　　　24 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc24>`__
+     - 　　　二十四
+
+   * - `\　　　25 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc25>`__
+     - 　　　二十五
+
+   * - `\　　　26 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc26>`__
+     - 　　　二十六
+
+   * - `\　　　27 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc27>`__
+     - 　　　二十七
+
+   * - `\　　　28 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc28>`__
+     - 　　　二十八
+
+   * - `\　　　29 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc29>`__
+     - 　　　二十九
+
+   * - `\　　　30 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc30>`__
+     - 　　　三十
+
+   * - `\　　Four: The Food Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0019.html>`__
+     - 　　第四 食物品
+
+   * - `\　　　Staple foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_18>`__
+     - 　　　主食(噉食, *bhojaniya*)
+
+   * - `\　　　Non-staple foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_19>`__
+     - 　　　副食(嚼食, *khādaniya*)
+
+   * - `\　　　Juice drinks <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_20>`__
+     - 　　　果汁飲料
+
+   * - `\　　　The five tonics <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_21>`__
+     - 　　　五種補品
+
+   * - `\　　　Medicines <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_22>`__
+     - 　　　藥物
+
+   * - `\　　　Keeping and consuming <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_23>`__
+     - 　　　存放以及食用
+
+   * - `\　　　Mixed foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_24>`__
+     - 　　　混合食物
+
+   * - `\　　　31 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc31>`__
+     - 　　　三十一
+
 ..
    * - 
      - 
