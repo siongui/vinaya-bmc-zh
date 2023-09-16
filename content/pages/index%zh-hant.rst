@@ -43,7 +43,7 @@
      - 　波羅提木叉
 
    * - `\　　Offenses <https://www.dhammatalks.org/vinaya/bmc/Section0007.html#sigil_toc_id_3>`__
-     - 　　犯戒
+     - 　　犯戒 *āpatti*
 
    * - `\　Nissaya <https://www.dhammatalks.org/vinaya/bmc/Section0008.html>`__
      - 　依止
@@ -151,7 +151,7 @@
      - 　　十三
 
    * - `\　Aniyata <https://www.dhammatalks.org/vinaya/bmc/Section0012.html>`__
-     - 　不定法
+     - 　不定
 
    * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay1>`__
      - 　　一
@@ -367,28 +367,241 @@
      - 　　第四 食物品
 
    * - `\　　　Staple foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_18>`__
-     - 　　　主食(噉食, *bhojaniya*)
+     - 　　　主食(噉食 *bhojaniya* - 時限藥 *yāvakālika*)
 
    * - `\　　　Non-staple foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_19>`__
-     - 　　　副食(嚼食, *khādaniya*)
+     - 　　　副食(嚼食 *khādaniya* - 時限藥 *yāvakālika*)
 
    * - `\　　　Juice drinks <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_20>`__
-     - 　　　果汁飲料
+     - 　　　果汁飲料(夜分藥 *yāmakālika*)
 
    * - `\　　　The five tonics <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_21>`__
-     - 　　　五種補品
+     - 　　　五種補品(七日藥 *sattāhakālika*)
 
    * - `\　　　Medicines <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_22>`__
-     - 　　　藥物
+     - 　　　藥物(終生藥/盡壽藥 *yāvajivika*)
 
    * - `\　　　Keeping and consuming <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_23>`__
-     - 　　　存放以及食用
+     - 　　　存放及食用
 
    * - `\　　　Mixed foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_24>`__
      - 　　　混合食物
 
    * - `\　　　31 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc31>`__
      - 　　　三十一
+
+   * - `\　　　32 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32>`__
+     - 　　　三十二
+
+   * - `\　　　33 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33>`__
+     - 　　　三十三
+
+   * - `\　　　34 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc34>`__
+     - 　　　三十四
+
+   * - `\　　　35 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35>`__
+     - 　　　三十五
+
+   * - `\　　　36 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc36>`__
+     - 　　　三十六
+
+   * - `\　　　37 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc37>`__
+     - 　　　三十七
+
+   * - `\　　　38 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38>`__
+     - 　　　三十八
+
+   * - `\　　　39 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc39>`__
+     - 　　　三十九
+
+   * - `\　　　40 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40>`__
+     - 　　　四十
+
+   * - `\　　Five: The Naked Ascetic Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0020.html>`__
+     - 　　第五 裸行者品
+
+   * - `\　　　41 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc41>`__
+     - 　　　四十一
+
+   * - `\　　　42 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc42>`__
+     - 　　　四十二
+
+   * - `\　　　43 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc43>`__
+     - 　　　四十三
+
+   * - `\　　　44 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44>`__
+     - 　　　四十四
+
+   * - `\　　　45 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45>`__
+     - 　　　四十五
+
+   * - `\　　　46 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46>`__
+     - 　　　四十六
+
+   * - `\　　　47 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47>`__
+     - 　　　四十七
+
+   * - `\　　　48 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc48>`__
+     - 　　　四十八
+
+   * - `\　　　49 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc49>`__
+     - 　　　四十九
+
+   * - `\　　　50 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc50>`__
+     - 　　　五十
+
+   * - `\　　Six: The Alcoholic Drink Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0021.html>`__
+     - 　　第六 飲谷酒品
+
+   * - `\　　　51 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc51>`__
+     - 　　　五十一
+
+   * - `\　　　52 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc52>`__
+     - 　　　五十二
+
+   * - `\　　　53 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc53>`__
+     - 　　　五十三
+
+   * - `\　　　54 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54>`__
+     - 　　　五十四
+
+   * - `\　　　55 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc55>`__
+     - 　　　五十五
+
+   * - `\　　　56 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc56>`__
+     - 　　　五十六
+
+   * - `\　　　57 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57>`__
+     - 　　　五十七
+
+   * - `\　　　58 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58>`__
+     - 　　　五十八
+
+   * - `\　　　59 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59>`__
+     - 　　　五十九
+
+   * - `\　　　60 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc60>`__
+     - 　　　六十
+
+   * - `\　　Seven: The Animal Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0022.html>`__
+     - 　　第七 有生物品
+
+   * - `\　　　61 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61>`__
+     - 　　　六十一
+
+   * - `\　　　62 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc62>`__
+     - 　　　六十二
+
+   * - `\　　　63 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc63>`__
+     - 　　　六十三
+
+   * - `\　　　64 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64>`__
+     - 　　　六十四
+
+   * - `\　　　65 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc65>`__
+     - 　　　六十五
+
+   * - `\　　　66 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc66>`__
+     - 　　　六十六
+
+   * - `\　　　67 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67>`__
+     - 　　　六十七
+
+   * - `\　　　68 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc68>`__
+     - 　　　六十八
+
+   * - `\　　　69 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc69>`__
+     - 　　　六十九
+
+   * - `\　　　70 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc70>`__
+     - 　　　七十
+
+   * - `\　　Eight: The In-accordance-with-the-Rule Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0023.html>`__
+     - 　　第八 如法品
+
+   * - `\　　　71 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc71>`__
+     - 　　　七十一
+
+   * - `\　　　72 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc72>`__
+     - 　　　七十二
+
+   * - `\　　　73 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc73>`__
+     - 　　　七十三
+
+   * - `\　　　74 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74>`__
+     - 　　　七十四
+
+   * - `\　　　75 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc75>`__
+     - 　　　七十五
+
+   * - `\　　　76 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76>`__
+     - 　　　七十六
+
+   * - `\　　　77 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc77>`__
+     - 　　　七十七
+
+   * - `\　　　78 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc78>`__
+     - 　　　七十八
+
+   * - `\　　　79 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc79>`__
+     - 　　　七十九
+
+   * - `\　　　80 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc80>`__
+     - 　　　八十
+
+   * - `\　　　81 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc81>`__
+     - 　　　八十一
+
+   * - `\　　　82 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82>`__
+     - 　　　八十二
+
+   * - `\　　Nine: The Valuable Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0024.html>`__
+     - 　　第九 寶品
+
+   * - `\　　　83 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc83>`__
+     - 　　　八十三
+
+   * - `\　　　84 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84>`__
+     - 　　　八十四
+
+   * - `\　　　85 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc85>`__
+     - 　　　八十五
+
+   * - `\　　　86 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86>`__
+     - 　　　八十六
+
+   * - `\　　　87 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc87>`__
+     - 　　　八十七
+
+   * - `\　　　88 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc88>`__
+     - 　　　八十八
+
+   * - `\　　　89 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89>`__
+     - 　　　八十九
+
+   * - `\　　　90 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc90>`__
+     - 　　　九十
+
+   * - `\　　　91 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc91>`__
+     - 　　　九十一
+
+   * - `\　　　92 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc92>`__
+     - 　　　九十二
+
+   * - `\　Pāṭidesanīya <https://www.dhammatalks.org/vinaya/bmc/Section0025.html>`__
+     - 　應悔過
+
+   * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd1>`__
+     - 　　一
+
+   * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd2>`__
+     - 　　二
+
+   * - `\　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd3>`__
+     - 　　三
+
+   * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd4>`__
+     - 　　四
 
 ..
    * - 
