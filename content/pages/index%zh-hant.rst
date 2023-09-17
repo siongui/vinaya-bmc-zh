@@ -8,6 +8,9 @@
 :orig_eng_link: https://www.dhammatalks.org/vinaya/bmc/Section0000.html
 
 
+.. role:: hidden
+   :class: is-hidden
+
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
    :widths: auto
@@ -43,7 +46,8 @@
      - 　波羅提木叉
 
    * - `\　　Offenses <https://www.dhammatalks.org/vinaya/bmc/Section0007.html#sigil_toc_id_3>`__
-     - 　　犯戒 *āpatti*
+     - 　　犯戒
+       :hidden:`*āpatti*`
 
    * - `\　Nissaya <https://www.dhammatalks.org/vinaya/bmc/Section0008.html>`__
      - 　依止
@@ -161,6 +165,7 @@
 
    * - `\　Nissaggiya Pācittiya <https://www.dhammatalks.org/vinaya/bmc/Section0013.html>`__
      - 　尼薩耆波逸提
+       :hidden:`(捨墮)`
 
    * - `\　　One: The Robe-cloth Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP_ChOne>`__
      - 　　第一 衣品
@@ -263,6 +268,7 @@
 
    * - `\　Pācittiya <https://www.dhammatalks.org/vinaya/bmc/Section0016.html>`__
      - 　波逸提
+       :hidden:`(單墮)`
 
    * - `\　　One: The Lie Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc_ChOne>`__
      - 　　第一 虛妄語品
@@ -367,19 +373,24 @@
      - 　　第四 食物品
 
    * - `\　　　Staple foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_18>`__
-     - 　　　主食(噉食 *bhojaniya* - 時限藥 *yāvakālika*)
+     - 　　　主食
+       :hidden:`(噉食 *bhojaniya* - 時限藥 *yāvakālika*)`
 
    * - `\　　　Non-staple foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_19>`__
-     - 　　　副食(嚼食 *khādaniya* - 時限藥 *yāvakālika*)
+     - 　　　副食
+       :hidden:`(嚼食 *khādaniya* - 時限藥 *yāvakālika*)`
 
    * - `\　　　Juice drinks <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_20>`__
-     - 　　　果汁飲料(夜分藥 *yāmakālika*)
+     - 　　　果汁飲料
+       :hidden:`(夜分藥 *yāmakālika*)`
 
    * - `\　　　The five tonics <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_21>`__
-     - 　　　五種補品(七日藥 *sattāhakālika*)
+     - 　　　五種補品
+       :hidden:`(七日藥 *sattāhakālika*)`
 
    * - `\　　　Medicines <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_22>`__
-     - 　　　藥物(終生藥/盡壽藥 *yāvajivika*)
+     - 　　　藥物
+       :hidden:`(終生藥/盡壽藥 *yāvajivika*)`
 
    * - `\　　　Keeping and consuming <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_23>`__
      - 　　　存放及食用
@@ -602,6 +613,231 @@
 
    * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd4>`__
      - 　　四
+
+   * - `\　Sekhiya <https://www.dhammatalks.org/vinaya/bmc/Section0026.html>`__
+     - 　應學
+
+   * - `\　　One: The 26 Dealing with Proper Behavior <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk_ChOne>`__
+     - 　　第一 二十六條關於適當行為
+
+   * - `\　　　1 [2] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk1>`__
+     - 　　　一 [二]
+
+   * - `\　　　3 [4] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk3>`__
+     - 　　　三 [四]
+
+   * - `\　　　5 [6] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk5>`__
+     - 　　　五 [六]
+
+   * - `\　　　7 [8] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk7>`__
+     - 　　　七 [八]
+
+   * - `\　　　9 [10] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk9>`__
+     - 　　　九 [十]
+
+   * - `\　　　11 [12] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk11>`__
+     - 　　　十一 [十二]
+
+   * - `\　　　13 [14] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk13>`__
+     - 　　　十三 [十四]
+
+   * - `\　　　15 [16] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk15>`__
+     - 　　　十五 [十六]
+
+   * - `\　　　17 [18] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk17>`__
+     - 　　　十七 [十八]
+
+   * - `\　　　19 [20] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk19>`__
+     - 　　　十九 [二十]
+
+   * - `\　　　21 [22] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk21>`__
+     - 　　　二十一 [二十二]
+
+   * - `\　　　23 [24] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk23>`__
+     - 　　　二十三 [二十四]
+
+   * - `\　　　25 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk25>`__
+     - 　　　二十五
+
+   * - `\　　　26 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk26>`__
+     - 　　　二十六
+
+   * - `\　　Two: The 30 Dealing with Food <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk_ChTwo>`__
+     - 　　第二 三十條關於食物
+
+   * - `\　　　27 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk27>`__
+     - 　　　二十七
+
+   * - `\　　　28 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk28>`__
+     - 　　　二十八
+
+   * - `\　　　29 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk29>`__
+     - 　　　二十九
+
+   * - `\　　　30 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk30>`__
+     - 　　　三十
+
+   * - `\　　　31 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk31>`__
+     - 　　　三十一
+
+   * - `\　　　32 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk32>`__
+     - 　　　三十二
+
+   * - `\　　　33 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk33>`__
+     - 　　　三十三
+
+   * - `\　　　34 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk34>`__
+     - 　　　三十四
+
+   * - `\　　　35 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk35>`__
+     - 　　　三十五
+
+   * - `\　　　36 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk36>`__
+     - 　　　三十六
+
+   * - `\　　　37 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk37>`__
+     - 　　　三十七
+
+   * - `\　　　38 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk38>`__
+     - 　　　三十八
+
+   * - `\　　　39 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk39>`__
+     - 　　　三十九
+
+   * - `\　　　40 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk40>`__
+     - 　　　四十
+
+   * - `\　　　41 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk41>`__
+     - 　　　四十一
+
+   * - `\　　　42 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk42>`__
+     - 　　　四十二
+
+   * - `\　　　43 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk43>`__
+     - 　　　四十三
+
+   * - `\　　　44 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk44>`__
+     - 　　　四十四
+
+   * - `\　　　45 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk45>`__
+     - 　　　四十五
+
+   * - `\　　　46 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk46>`__
+     - 　　　四十六
+
+   * - `\　　　47 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk47>`__
+     - 　　　四十七
+
+   * - `\　　　48 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk48>`__
+     - 　　　四十八
+
+   * - `\　　　49 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk49>`__
+     - 　　　四十九
+
+   * - `\　　　50 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk50>`__
+     - 　　　五十
+
+   * - `\　　　51 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk51>`__
+     - 　　　五十一
+
+   * - `\　　　52 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk52>`__
+     - 　　　五十二
+
+   * - `\　　　53 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk53>`__
+     - 　　　五十三
+
+   * - `\　　　54 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk54>`__
+     - 　　　五十四
+
+   * - `\　　　55 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk55>`__
+     - 　　　五十五
+
+   * - `\　　　56 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk56>`__
+     - 　　　五十六
+
+   * - `\　　Three: The 16 Dealing with Teaching Dhamma <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk_ChThree>`__
+     - 　　第三 十六條關於說法
+
+   * - `\　　　57 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk57>`__
+     - 　　　五十七
+
+   * - `\　　　58 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk58>`__
+     - 　　　五十八
+
+   * - `\　　　59 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk59>`__
+     - 　　　五十九
+
+   * - `\　　　60 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk60>`__
+     - 　　　六十
+
+   * - `\　　　61 [62] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk61>`__
+     - 　　　六十一 [六十二]
+
+   * - `\　　　63 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk63>`__
+     - 　　　六十三
+
+   * - `\　　　64 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk64>`__
+     - 　　　六十四
+
+   * - `\　　　65 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk65>`__
+     - 　　　六十五
+
+   * - `\　　　66 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk66>`__
+     - 　　　六十六
+
+   * - `\　　　67 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk67>`__
+     - 　　　六十七
+
+   * - `\　　　68 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk68>`__
+     - 　　　六十八
+
+   * - `\　　　69 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk69>`__
+     - 　　　六十九
+
+   * - `\　　　70 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk70>`__
+     - 　　　七十
+
+   * - `\　　　71 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk71>`__
+     - 　　　七十一
+
+   * - `\　　　72 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk72>`__
+     - 　　　七十二
+
+   * - `\　　Four: The 3 Miscellaneous Rules <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk_ChFour>`__
+     - 　　第四 三條雜項規則
+
+   * - `\　　　73 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk73>`__
+     - 　　　七十三
+
+   * - `\　　　74 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk74>`__
+     - 　　　七十四
+
+   * - `\　　　75 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk75>`__
+     - 　　　七十五
+
+   * - `\　Adhikaraṇa-samatha <https://www.dhammatalks.org/vinaya/bmc/Section0027.html>`__
+     - 　滅諍
+
+   * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As1>`__
+     - 　　一
+
+   * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As2>`__
+     - 　　二
+
+   * - `\　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As3>`__
+     - 　　三
+
+   * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As4>`__
+     - 　　四
+
+   * - `\　　5 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As5>`__
+     - 　　五
+
+   * - `\　　6 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As6>`__
+     - 　　六
+
+   * - `\　　7 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As7>`__
+     - 　　七
 
 ..
    * - 
