@@ -839,6 +839,75 @@
    * - `\　　7 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As7>`__
      - 　　七
 
+   * - `\　Appendices <https://www.dhammatalks.org/vinaya/bmc/Section0028.html>`__
+     - 　附錄
+
+   * - `\　　I. Controversial points: Dawn and dawnrise <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI>`__
+     - 　　一、爭議點：明相及明相出
+
+       ..
+          Google Search: 拂曉 明相
+          每日天文現象| 交通部中央氣象署 https://www.cwa.gov.tw/V8/C/K/astronomy_day.html
+          曙暮光 Twilight
+          律制生活：佛教的飲食規制　聖嚴法師著 http://www.book853.com/show.aspx?id=45&cid=54&page=26
+          聖嚴法師數位典藏 律制生活159 http://old.ddc.shengyen.org/mobile/text/05-05/159.php
+          所謂明相出，即是能夠見到光明相時，在屋外伸手能夠辨別手紋時，便叫見明相，解釋成拂曉時分，比較切近。
+
+   * - `\　　II. Controversial points: Sugata measures <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixII>`__
+     - 　　二、爭議點：善逝計量單位
+
+   * - `\　　III. Controversial points: Meals <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII>`__
+     - 　　三、爭議點：進餐
+
+   * - `\　　IV. Pali formulae: Determination <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIV>`__
+     - 　　四、巴利公式：決意
+
+   * - `\　　V. Pali formulae: Shared ownership <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV>`__
+     - 　　五、巴利公式：共享所有權
+
+   * - `\　　VI. Pali formulae: Forfeiture <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVI>`__
+     - 　　六、巴利公式：捨棄
+
+   * - `\　　VII. Pali formulae: Confession <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVII>`__
+     - 　　七、巴利公式：懺悔罪過
+
+   * - `\　　VIII. Pali formulae: Transaction Statements <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII>`__
+     - 　　八、巴利公式：羯磨告白宣告
+
+       ..
+          Google Search: 僧團羯磨
+          僧團「羯磨」的的涵義與種類 by 寂靜精舍 Santa Vihāra
+          https://m.facebook.com/media/set/?set=a.906576973101592&type=3
+          《護僧須知》
+          僧團「羯磨」的的涵義與種類
+          覓寂比丘 編譯
+
+          羯磨（kamma）：是指律制僧團法定的會議。然而「羯磨」不同於一般的會議，而是佛陀在《律藏》制定的僧團法定運作會議。
+          羯磨分為四種：聽許羯磨、單白羯磨、白二羯磨和白四羯磨。
+          1.聽許羯磨（apalokanakammaṃ,求聽羯磨；同意羯磨）：是一種對僧團告知（sāveti）三次的羯磨。這類羯磨包括僧團對邪見沙彌施以不攝受、不共住的處罰（daṇḍakamma），以及對不受勸比丘施以梵罰（brahmadaṇḍa）等羯磨。
+          2.單白羯磨（ñattikammaṃ,僅白羯磨）：是一種對僧團告白（ñatti）一次的羯磨。這類羯磨包括僧團的布薩、自恣等羯磨。
+          3.白二羯磨（ñattidutiyakammaṃ,以告白為第二的羯磨）：是一種對僧團一次告白和隨後一次宣告（anussāvana）的羯磨；即一次告白加一次宣告為白二羯磨。這類羯磨包括僧團的結界（結不離衣界和結布薩堂等）及授與卡提那衣等羯磨。
+          4.白四羯磨（ñatticatutthakammaṃ,以告白為第四的羯磨）：是一種對僧團一次告白和隨後三次宣告的羯磨；即一次告白加三次宣告為白四羯磨。這類羯磨包括受具足戒、給犯僧初餘罪比丘的出罪等羯磨。
+          「告白（ñatti）」：是一種制式〔法定〕的羯磨語內容──將羯磨的事項或目的向僧團宣告，這類似於現今會議的提案。
+          「宣告（anussāvana）」：是一種制式的羯磨語──即重述告白的內容，並在詢問僧眾是否同意此內容後作總結。
+          僧團羯磨必須同時具備五個條件，才算有效的羯磨；如果其中任何一個條件失壞或有缺失，該項羯磨即無效。這五個條件為──
+          1.對象成就（vatthusampatti）：是指羯磨的對象要合乎規定，例如：被羯磨的對象應在場就不能缺席；應承認自白就不能沉默不語；求受具足戒者必須為滿二十歲者、非般達卡等十三種不能受具足戒的人，等等。
+          2.告白成就（ñattisampatti,提案成就）：在宣說告白時，避免五種過失：沒提及對象、沒提及僧團、沒提及人、沒有告白或最後才告白。
+          3.宣告成就（anussāvanasampatti,隨羯磨語成就）：在宣說羯磨語時，避免五種過失──沒提及對象、沒提及僧團、沒提及人、缺少宣告或非時宣告。
+          4.界成就（sīmāsampatti）：舉行羯磨的界場沒有界相破損、無界相、界重疊等十一種失壞、缺失。
+          5.眾成就（parisāsampatti）：參加羯磨的合格比丘達到法定人數；界內除了如法請假的比丘外，不能有其他比丘（不來參加）；僧團成員必須處在伸手所及處之內。舉行僧團羯磨有法定人數的規定，至少為四位合格的清淨比丘。因羯磨種類的不同，法定人數的規定稍有不同──一般僧團羯磨的法定人數為至少四位比丘；在邊地受具足戒、自恣、授與卡提那衣等羯磨必須至少五位比丘才能執行；在中印度的受具足戒羯磨至少十位比丘才能執行；對犯僧初餘罪比丘的出罪羯磨至少二十位比丘才能執行。
+          律制僧團的羯磨不同於一般會議，是採取完全民主的全數決。在舉行羯磨的告白（ñatti）及宣告（anussāvana）期間，若有在場的比丘提出異議，該羯磨即無效。
+          VinsA.(pg. 391-413); VinlṬ.(pg. 2.0265-295)
+
+   * - `\　　　Rebukes <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_25>`__
+     - 　　　訶責
+
+   * - `\　　　Verdicts <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_26>`__
+     - 　　　判決
+
+   * - `\　　　Others <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_27>`__
+     - 　　　其他
+
 ..
    * - 
      - 
