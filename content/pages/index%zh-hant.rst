@@ -872,7 +872,7 @@
      - 　　七、巴利公式：懺悔罪過
 
    * - `\　　VIII. Pali formulae: Transaction Statements <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII>`__
-     - 　　八、巴利公式：羯磨告白宣告
+     - 　　八、巴利公式：羯磨告白宣告文
 
        ..
           Google Search: 僧團羯磨
@@ -908,6 +908,24 @@
    * - `\　　　Others <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_27>`__
      - 　　　其他
 
+   * - `\　　IX. Thullaccaya offenses <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIX>`__
+     - 　　九、偷蘭遮罪
+
+   * - `\　　　Thullaccayas in the Sutta Vibhaṅga <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_28>`__
+     - 　　　經分別裡的偷蘭遮罪
+
+   * - `\　　　Thullaccayas in the Khandhakas <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_29>`__
+     - 　　　犍度裡的偷蘭遮罪
+
+   * - `\　　X. A pupil’s duties as attendant to his mentor <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX>`__
+     - 　　十、弟子作為導師侍者的職責
+
+   * - `\　Glossary <https://www.dhammatalks.org/vinaya/bmc/Section0029.html>`__
+     - 　詞彙表
+
+   * - `\　Rule Index <https://www.dhammatalks.org/vinaya/bmc/Section0030.html>`__
+     - 　規則索引
+
 ..
    * - 
      - 
@@ -915,3 +933,31 @@
 .. 全形空格（　）
 
 （未完待續）
+
+..
+   **漢譯參考**
+
+   - `僧團「羯磨」的的涵義與種類 覓寂比丘 編譯 <https://m.facebook.com/media/set/?set=a.906576973101592&type=3>`_
+   - `南傳佛教資料庫 <https://onedrive.live.com/?authkey=%21ALmYY8amFTE5Ljc&id=B7AD4DBC5664F05C%21107&cid=B7AD4DBC5664F05C>`__
+   - `Google Search 白四羯磨 <https://www.google.com/search?q=%E7%99%BD%E5%9B%9B%E7%BE%AF%E7%A3%A8>`__
+   - `聖嚴法師數位典藏 戒律學綱要 259 <http://old.ddc.shengyen.org/mobile/text/01-03/259.php>`_
+   - `[PDF] 「七滅諍法」的程序正義與配套措施 釋昭慧 <https://www.hcu.edu.tw/Upload/TempFiles/76ee1d49d40f4230a19de0f39b03548a.pdf>`__
+   - `[PDF] 四諍和滅諍 林崇安編 <http://www.ss.ncu.edu.tw/~calin/article2008/13_6.pdf>`__
+   - `受戒、舍戒及其他 - 济群法师主页 <https://masterjiqun.com/index.php?app=@article&ac=show&id=2>`__
+   - `漢傳「受戒法」之考察 釋惠敏 <https://www.chibs.edu.tw/ch_html/chbj/09/chbj0904.htm>`__
+
+     提要
+
+     唐朝之後，漢傳之律學主要是以道宣律師（596～667）之「南山宗」為依據。本文首先對於「受比丘戒法」中之「一白三羯磨」(the Motion and the Three Annoucements；提案說一次，聲明三次），以「南山宗」對於「白」文之五句分析與「羯磨」文之二分、三段之解析為例，考察巴利語律藏原義後建議︰「南山宗」所分「白」文之第三、四句，應該合為「若僧時到，僧忍聽僧授某甲具足戒，某乙為和尚」一句來理解；而「羯磨」文也應該合「誰諸長老忍僧與某甲授具足戒，某乙為和尚者默然」為一句，及「僧已忍與某甲授具足戒竟，某乙為和尚」也如是。
+
+     其次，對漢傳各類「受菩薩戒法」作文獻考察後發現︰現行傳戒儀式之主要依據是見月律師（1602～79）所編《傳戒正範》，將《瑜伽菩薩戒品》之「三說請佛證明」作為「正授戒體法」的羯磨文；反之，將「三問能受戒否」之羯磨文判為與「納受戒體」無關之「明開導戒法」，這是與古傳「湛然本」等「受菩薩戒法」相違。
+
+     〔目次〕
+
+     一、受比丘戒法之「一白三羯磨」
+
+     1. 白文（the Motion；提案文）
+
+     2.羯磨文（the Annoucements；聲明文）
+
+   - `原始佛教聖典之集成－第三項主體部分的論究 <https://yinshun-edu.org.tw/zh-hant/Master_yinshun/y35_05_04_03>`__
