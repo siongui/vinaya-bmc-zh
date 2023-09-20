@@ -872,7 +872,7 @@
      - 　　七、巴利公式：懺悔罪過
 
    * - `\　　VIII. Pali formulae: Transaction Statements <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII>`__
-     - 　　八、巴利公式：羯磨告白宣告文
+     - 　　八、巴利公式：羯磨文
 
        ..
           Google Search: 僧團羯磨
@@ -926,6 +926,84 @@
    * - `\　Rule Index <https://www.dhammatalks.org/vinaya/bmc/Section0030.html>`__
      - 　規則索引
 
+   * - `\　　Right Speech <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_30>`__
+     - 　　正語
+
+   * - `\　　　Lying <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_31>`__
+     - 　　　妄語
+
+   * - `\　　　Divisive speech <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_32>`__
+     - 　　　兩舌
+
+   * - `\　　　Abusive speech <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_33>`__
+     - 　　　惡口
+
+   * - `\　　　Idle chatter <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_34>`__
+     - 　　　綺語
+
+   * - `\　　Right Action <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_35>`__
+     - 　　正業
+
+   * - `\　　　Killing <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_36>`__
+     - 　　　殺生
+
+   * - `\　　　Taking what is not given <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_37>`__
+     - 　　　不與取(偷盜)
+
+   * - `\　　　Sexual Misconduct <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_38>`__
+     - 　　　邪淫
+
+   * - `\　　Right Livelihood <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_39>`__
+     - 　　正命
+
+   * - `\　　　General <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_40>`__
+     - 　　　通則
+
+   * - `\　　　Robes <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_41>`__
+     - 　　　袈裟
+
+   * - `\　　　Food <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_42>`__
+     - 　　　食物
+
+   * - `\　　　Lodgings <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_43>`__
+     - 　　　住所
+
+   * - `\　　　Medicine <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_44>`__
+     - 　　　醫藥
+
+   * - `\　　　Money <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_45>`__
+     - 　　　金錢
+
+   * - `\　　　Bowls and other requisites <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_46>`__
+     - 　　　缽及其他必需品
+
+   * - `\　　Communal Harmony <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_47>`__
+     - 　　和合僧
+
+   * - `\　　The Etiquette of a Contemplative <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_48>`__
+     - 　　沙門威儀
+
+   * - `\　Select Bibliography <https://www.dhammatalks.org/vinaya/bmc/Section0031.html>`__
+     - 　選擇參考書目
+
+   * - `\　Addendum <https://www.dhammatalks.org/vinaya/bmc/Section0032.html>`__
+     - 　補遺
+
+   * - `BMC II: The Khandhaka Rules <https://www.dhammatalks.org/vinaya/bmc/Section0034.html>`__
+     - 佛教修道準則 第二冊：犍度 規則
+
+   * - `\　Cover <https://www.dhammatalks.org/vinaya/bmc/Section0033.html>`__
+     - `\　封面 <https://www.dhammatalks.org/vinaya/bmc/Section0033.html>`__
+
+   * - `\　Copyright <https://www.dhammatalks.org/vinaya/bmc/Section0035.html>`__
+     - 　版權
+
+   * - `\　Abbreviations <https://www.dhammatalks.org/vinaya/bmc/Section0036.html>`__
+     - 　縮寫
+
+   * - `\　Preface <https://www.dhammatalks.org/vinaya/bmc/Section0037.html>`__
+     - 　前言
+
 ..
    * - 
      - 
@@ -961,3 +1039,5 @@
      2.羯磨文（the Annoucements；聲明文）
 
    - `原始佛教聖典之集成－第三項主體部分的論究 <https://yinshun-edu.org.tw/zh-hant/Master_yinshun/y35_05_04_03>`__
+   - `中國(佛教) - 維基百科，自由的百科全書 <https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9C%8B_(%E4%BD%9B%E6%95%99)>`__
+   - `永光集－第五節佛教的中國與邊地 <https://yinshun-edu.org.tw/zh-hant/book/export/html/3704>`__
