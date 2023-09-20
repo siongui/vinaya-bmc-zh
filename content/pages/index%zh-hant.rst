@@ -86,7 +86,7 @@
      - 　還俗
 
    * - `\　　State of mind <https://www.dhammatalks.org/vinaya/bmc/Section0009.html#sigil_toc_id_14>`__
-     - 　　心理狀態
+     - 　　精神狀態
 
    * - `\　　Intention <https://www.dhammatalks.org/vinaya/bmc/Section0009.html#sigil_toc_id_15>`__
      - 　　意圖
@@ -1053,6 +1053,39 @@
      - 　　　　裝飾
 
    * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_62>`__
+     - 　　　戒條
+
+   * - `\　　Cloth Requisites <https://www.dhammatalks.org/vinaya/bmc/Section0041.html>`__
+     - 　　布料要求
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_63>`__
+     - 　　　討論
+
+   * - `\　　　　Robe material <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_64>`__
+     - 　　　　袈裟材質
+
+   * - `\　　　　Making Robes: Sewing Instructions <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_65>`__
+     - 　　　　製作袈裟：縫紉說明
+
+   * - `\　　　　Repairing Robes <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_66>`__
+     - 　　　　修補袈裟
+
+   * - `\　　　　Making Robes: Sewing Equipment <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_67>`__
+     - 　　　　製作袈裟：縫紉設備
+
+   * - `\　　　　Making Robes: Dyeing <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_68>`__
+     - 　　　　製作袈裟：染色
+
+   * - `\　　　　Washing Robes <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_69>`__
+     - 　　　　洗袈裟
+
+   * - `\　　　　Other Cloth Requisites <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_70>`__
+     - 　　　　其他布料要求
+
+   * - `\　　　　Dressing <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_71>`__
+     - 　　　　穿衣
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_72>`__
      - 　　　戒條
 
 ..
