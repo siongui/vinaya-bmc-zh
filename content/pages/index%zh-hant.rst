@@ -16,7 +16,7 @@
    :widths: auto
 
    * - `BMC I: The Pāṭimokkha Rules <https://www.dhammatalks.org/vinaya/bmc/Section0001.html>`__
-     - 佛教修道準則 第一冊：波羅提木叉 規則
+     - 佛教修道準則 第一冊：波羅提木叉 戒條
 
    * - `\　Contents <https://www.dhammatalks.org/vinaya/bmc/Section0000.html>`__
      - `\　內容 <{filename}index%zh-hant.rst>`_
@@ -804,7 +804,7 @@
      - 　　　七十二
 
    * - `\　　Four: The 3 Miscellaneous Rules <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk_ChFour>`__
-     - 　　第四 三條雜項規則
+     - 　　第四 三條雜戒
 
    * - `\　　　73 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk73>`__
      - 　　　七十三
@@ -924,7 +924,7 @@
      - 　詞彙表
 
    * - `\　Rule Index <https://www.dhammatalks.org/vinaya/bmc/Section0030.html>`__
-     - 　規則索引
+     - 　戒條索引
 
    * - `\　　Right Speech <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_30>`__
      - 　　正語
@@ -957,7 +957,7 @@
      - 　　正命
 
    * - `\　　　General <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_40>`__
-     - 　　　通則
+     - 　　　概要
 
    * - `\　　　Robes <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_41>`__
      - 　　　袈裟
@@ -990,7 +990,7 @@
      - 　補遺
 
    * - `BMC II: The Khandhaka Rules <https://www.dhammatalks.org/vinaya/bmc/Section0034.html>`__
-     - 佛教修道準則 第二冊：犍度 規則
+     - 佛教修道準則 第二冊：犍度 戒條
 
    * - `\　Cover <https://www.dhammatalks.org/vinaya/bmc/Section0033.html>`__
      - `\　封面 <https://www.dhammatalks.org/vinaya/bmc/Section0033.html>`__
@@ -1003,6 +1003,57 @@
 
    * - `\　Preface <https://www.dhammatalks.org/vinaya/bmc/Section0037.html>`__
      - 　前言
+
+   * - `\　The Khandhakas <https://www.dhammatalks.org/vinaya/bmc/Section0038.html>`__
+     - 　犍度
+
+   * - `\　　Format <https://www.dhammatalks.org/vinaya/bmc/Section0038.html#sigil_toc_id_49>`__
+     - 　　格式
+
+   * - `\　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0038.html#sigil_toc_id_50>`__
+     - 　　戒條
+
+   * - `\　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0038.html#sigil_toc_id_51>`__
+     - 　　討論
+
+   * - `\　General <https://www.dhammatalks.org/vinaya/bmc/Section0039.html>`__
+     - 　概要
+
+   * - `\　　Personal Grooming <https://www.dhammatalks.org/vinaya/bmc/Section0040.html>`__
+     - 　　個人儀容儀表
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_52>`__
+     - 　　　討論
+
+   * - `\　　　　Bathing <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_53>`__
+     - 　　　　沐浴
+
+   * - `\　　　　Care of the teeth <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_54>`__
+     - 　　　　牙齒照料
+
+   * - `\　　　　Hair of the head <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_55>`__
+     - 　　　　頭部的頭髮
+
+   * - `\　　　　Beard <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_56>`__
+     - 　　　　鬍鬚
+
+   * - `\　　　　Face <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_57>`__
+     - 　　　　臉
+
+   * - `\　　　　Hair of the body <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_58>`__
+     - 　　　　體毛
+
+   * - `\　　　　Nails <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_59>`__
+     - 　　　　指甲
+
+   * - `\　　　　Ears <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_60>`__
+     - 　　　　耳朵
+
+   * - `\　　　　Ornamentation <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_61>`__
+     - 　　　　裝飾
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_62>`__
+     - 　　　戒條
 
 ..
    * - 
