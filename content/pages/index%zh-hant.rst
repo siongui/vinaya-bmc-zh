@@ -1050,7 +1050,7 @@
      - 　　　　耳朵
 
    * - `\　　　　Ornamentation <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_61>`__
-     - 　　　　裝飾
+     - 　　　　裝飾物
 
    * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_62>`__
      - 　　　戒條
@@ -1083,9 +1083,54 @@
      - 　　　　其他布料要求
 
    * - `\　　　　Dressing <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_71>`__
-     - 　　　　穿衣
+     - 　　　　穿著
 
    * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_72>`__
+     - 　　　戒條
+
+   * - `\　　Alms Bowls & Other Accessories <https://www.dhammatalks.org/vinaya/bmc/Section0042.html>`__
+     - 　　缽及其他附屬物
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0042.html#sigil_toc_id_73>`__
+     - 　　　討論
+
+   * - `\　　　　Alms bowls <https://www.dhammatalks.org/vinaya/bmc/Section0042.html#sigil_toc_id_74>`__
+     - 　　　　缽
+
+   * - `\　　　　Footwear <https://www.dhammatalks.org/vinaya/bmc/Section0042.html#sigil_toc_id_75>`__
+     - 　　　　鞋類
+
+   * - `\　　　　Water strainers <https://www.dhammatalks.org/vinaya/bmc/Section0042.html#sigil_toc_id_76>`__
+     - 　　　　濾水器
+
+   * - `\　　　　Miscellaneous accessories <https://www.dhammatalks.org/vinaya/bmc/Section0042.html#sigil_toc_id_77>`__
+     - 　　　　雜項附屬物
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0042.html#sigil_toc_id_78>`__
+     - 　　　戒條
+
+   * - `\　　Food <https://www.dhammatalks.org/vinaya/bmc/Section0043.html>`__
+     - 　　食物
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0043.html#sigil_toc_id_79>`__
+     - 　　　討論
+
+   * - `\　　　　Cooking & storing foods <https://www.dhammatalks.org/vinaya/bmc/Section0043.html#sigil_toc_id_80>`__
+     - 　　　　烹飪和儲存食物
+
+   * - `\　　　　Eating <https://www.dhammatalks.org/vinaya/bmc/Section0043.html#sigil_toc_id_81>`__
+     - 　　　　食用
+
+   * - `\　　　　Famine allowances <https://www.dhammatalks.org/vinaya/bmc/Section0043.html#sigil_toc_id_82>`__
+     - 　　　　飢荒開緣
+
+   * - `\　　　　Garlic <https://www.dhammatalks.org/vinaya/bmc/Section0043.html#sigil_toc_id_83>`__
+     - 　　　　蒜
+
+   * - `\　　　　Green gram <https://www.dhammatalks.org/vinaya/bmc/Section0043.html#sigil_toc_id_84>`__
+     - 　　　　綠豆
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0043.html#sigil_toc_id_85>`__
      - 　　　戒條
 
 ..
