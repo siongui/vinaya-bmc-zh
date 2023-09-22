@@ -1133,6 +1133,65 @@
    * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0043.html#sigil_toc_id_85>`__
      - 　　　戒條
 
+   * - `\　　Medicine <https://www.dhammatalks.org/vinaya/bmc/Section0044.html>`__
+     - 　　醫藥
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0044.html#sigil_toc_id_86>`__
+     - 　　　討論
+
+   * - `\　　　　Support medicine <https://www.dhammatalks.org/vinaya/bmc/Section0044.html#sigil_toc_id_87>`__
+     - 　　　　腐尿藥(陳棄藥)
+
+   * - `\　　　　The five tonics <https://www.dhammatalks.org/vinaya/bmc/Section0044.html#sigil_toc_id_88>`__
+     - 　　　　五種補品
+
+   * - `\　　　　Life-long medicines <https://www.dhammatalks.org/vinaya/bmc/Section0044.html#sigil_toc_id_89>`__
+     - 　　　　終生藥
+
+   * - `\　　　　Specific treatments <https://www.dhammatalks.org/vinaya/bmc/Section0044.html#sigil_toc_id_90>`__
+     - 　　　　特定治療方法
+
+   * - `\　　　　Medical procedures <https://www.dhammatalks.org/vinaya/bmc/Section0044.html#sigil_toc_id_91>`__
+     - 　　　　醫療手術
+
+   * - `\　　　　The Great Standards <https://www.dhammatalks.org/vinaya/bmc/Section0044.html#sigil_toc_id_92>`__
+     - 　　　　四大教示
+
+       ..
+          https://www.facebook.com/238740526277955/posts/539201356231869/
+
+          四大教示，巴利語 cattāro mahāpadesā，意為檢驗佛法的四個標準。在經律中，有兩種四大教示：一、出現在經藏《長部·大品》的稱為「經的四大教示」 (Sutte cattāro mahāpadesā)，二、出現在《律藏·大品‧藥篇》的稱為「篇章的四大教示」(Khandhake cattāro mahāpadesā)。篇章的四大教示為判斷是否隨順於佛陀所許可的四種方法，屬於律制的檢驗標準，在此不作詳論。
+
+          https://c.cari.com.my/forum.php?mod=viewthread&tid=3788384
+
+          2015年12月11日 觅寂尊者在马来西亚悉达林三藏研习营的讲稿。
+
+          四大教法，巴利语「Cattāro Mahāpadesā」，意思是确认佛法的四大准则。在经律中，有两种四大教法：一个是出现在经藏《长部&#8231;大品》的称为「经的四大教法」（Sutte cattāro mahāpadesā），第二个是出现在《律藏&#8231;大品&#8231;药犍度》的称为「犍度的四大教法」（Khandhake cattāro mahāpadesā）。犍度的四大教法为判断是否随顺于佛陀所许可的四种方法，属于律制的检验标准；经的四大教法，是佛陀在八十岁那年在财富城的阿难塔庙中所教导的，记载在《大般涅槃经》。
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0044.html#sigil_toc_id_93>`__
+     - 　　　戒條
+
+   * - `\　　Lodgings <https://www.dhammatalks.org/vinaya/bmc/Section0045.html>`__
+     - 　　住所(臥坐處)
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0045.html#sigil_toc_id_94>`__
+     - 　　　討論
+
+   * - `\　　　　Outdoor resting spots <https://www.dhammatalks.org/vinaya/bmc/Section0045.html#sigil_toc_id_95>`__
+     - 　　　　樹下住(戶外休息處)
+
+   * - `\　　　　Dwellings <https://www.dhammatalks.org/vinaya/bmc/Section0045.html#sigil_toc_id_96>`__
+     - 　　　　精舍
+
+   * - `\　　　　Furnishings <https://www.dhammatalks.org/vinaya/bmc/Section0045.html#sigil_toc_id_97>`__
+     - 　　　　室內陳設
+
+   * - `\　　　　Etiquette with regard to lodgings <https://www.dhammatalks.org/vinaya/bmc/Section0045.html#sigil_toc_id_98>`__
+     - 　　　　關於住所的威儀
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0045.html#sigil_toc_id_99>`__
+     - 　　　戒條
+
 ..
    * - 
      - 
