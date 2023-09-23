@@ -1178,7 +1178,7 @@
      - 　　　討論
 
    * - `\　　　　Outdoor resting spots <https://www.dhammatalks.org/vinaya/bmc/Section0045.html#sigil_toc_id_95>`__
-     - 　　　　樹下住(戶外休息處)
+     - 　　　　戶外休息處(樹下住)
 
    * - `\　　　　Dwellings <https://www.dhammatalks.org/vinaya/bmc/Section0045.html#sigil_toc_id_96>`__
      - 　　　　精舍
@@ -1191,6 +1191,93 @@
 
    * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0045.html#sigil_toc_id_99>`__
      - 　　　戒條
+
+   * - `\　　Monastery Buildings & Property <https://www.dhammatalks.org/vinaya/bmc/Section0046.html>`__
+     - 　　寺院建築和財產
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0046.html#sigil_toc_id_100>`__
+     - 　　　討論
+
+   * - `\　　　　Monasteries <https://www.dhammatalks.org/vinaya/bmc/Section0046.html#sigil_toc_id_101>`__
+     - 　　　　寺院
+
+   * - `\　　　　Buildings <https://www.dhammatalks.org/vinaya/bmc/Section0046.html#sigil_toc_id_102>`__
+     - 　　　　建築
+
+   * - `\　　　　Monastery property <https://www.dhammatalks.org/vinaya/bmc/Section0046.html#sigil_toc_id_103>`__
+     - 　　　　寺院財產
+
+   * - `\　　　　Cetiya property <https://www.dhammatalks.org/vinaya/bmc/Section0046.html#sigil_toc_id_104>`__
+     - 　　　　支提/制多(塔)財產
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0046.html#sigil_toc_id_105>`__
+     - 　　　戒條
+
+   * - `\　　Respect <https://www.dhammatalks.org/vinaya/bmc/Section0047.html>`__
+     - 　　恭敬
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0047.html#sigil_toc_id_106>`__
+     - 　　　討論
+
+   * - `\　　　　Paying homage <https://www.dhammatalks.org/vinaya/bmc/Section0047.html#sigil_toc_id_107>`__
+     - 　　　　禮敬
+
+   * - `\　　　　Teaching Dhamma <https://www.dhammatalks.org/vinaya/bmc/Section0047.html#sigil_toc_id_108>`__
+     - 　　　　說法
+
+   * - `\　　　　Exceptions to seniority <https://www.dhammatalks.org/vinaya/bmc/Section0047.html#sigil_toc_id_109>`__
+     - 　　　　年長戒臘的例外情況
+
+   * - `\　　　　Responding to criticism <https://www.dhammatalks.org/vinaya/bmc/Section0047.html#sigil_toc_id_110>`__
+     - 　　　　回應批評
+
+   * - `\　　　　Jokes <https://www.dhammatalks.org/vinaya/bmc/Section0047.html#sigil_toc_id_111>`__
+     - 　　　　玩笑
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0047.html#sigil_toc_id_112>`__
+     - 　　　戒條
+
+   * - `\　　Protocols <https://www.dhammatalks.org/vinaya/bmc/Section0048.html>`__
+     - 　　行儀
+
+   * - `\　　　Incoming Bhikkhus’ Protocol <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_113>`__
+     - 　　　客住者的行儀
+
+   * - `\　　　Resident Bhikkhus’ Protocol <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_114>`__
+     - 　　　原住者的行儀
+
+   * - `\　　　Departing Bhikkhus’ Protocol <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_115>`__
+     - 　　　遠行者的行儀
+
+   * - `\　　　Anumodanā Protocol <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_116>`__
+     - 　　　隨喜的行儀
+
+   * - `\　　　Meal-hall Protocol <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_117>`__
+     - 　　　食堂的行儀
+
+   * - `\　　　Alms-going Protocol <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_118>`__
+     - 　　　托缽者的行儀
+
+   * - `\　　　Wilderness Protocol <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_119>`__
+     - 　　　林野住者的行儀
+
+   * - `\　　　Lodging Protocol <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_120>`__
+     - 　　　臥坐處的行儀
+
+   * - `\　　　Sauna Protocol <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_121>`__
+     - 　　　蒸汽(桑拿)浴室的行儀
+
+   * - `\　　　Restroom Protocol <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_122>`__
+     - 　　　廁所的行儀
+
+   * - `\　　　Protocol toward one’s Preceptor <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_123>`__
+     - 　　　對戒師的行儀
+
+   * - `\　　　Protocol toward one’s Pupil <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_124>`__
+     - 　　　對弟子的行儀
+
+   * - `\　　　Cullavagga XII.2.8 <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_125>`__
+     - 　　　小品.十二.2.8
 
 ..
    * - 
