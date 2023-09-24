@@ -1056,7 +1056,7 @@
      - 　　　戒條
 
    * - `\　　Cloth Requisites <https://www.dhammatalks.org/vinaya/bmc/Section0041.html>`__
-     - 　　布料要求
+     - 　　衣要求
 
    * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_63>`__
      - 　　　討論
@@ -1080,7 +1080,7 @@
      - 　　　　洗袈裟
 
    * - `\　　　　Other Cloth Requisites <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_70>`__
-     - 　　　　其他布料要求
+     - 　　　　其他衣要求
 
    * - `\　　　　Dressing <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_71>`__
      - 　　　　穿著
@@ -1278,6 +1278,86 @@
 
    * - `\　　　Cullavagga XII.2.8 <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_125>`__
      - 　　　小品.十二.2.8
+
+   * - `\　　Misbehavior <https://www.dhammatalks.org/vinaya/bmc/Section0049.html>`__
+     - 　　不當行為
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0049.html#sigil_toc_id_126>`__
+     - 　　　討論
+
+   * - `\　　　　Bad habits <https://www.dhammatalks.org/vinaya/bmc/Section0049.html#sigil_toc_id_127>`__
+     - 　　　　壞習慣
+
+   * - `\　　　　Wrong livelihood <https://www.dhammatalks.org/vinaya/bmc/Section0049.html#sigil_toc_id_128>`__
+     - 　　　　邪命
+
+   * - `\　　　　Cruelty <https://www.dhammatalks.org/vinaya/bmc/Section0049.html#sigil_toc_id_129>`__
+     - 　　　　殘忍
+
+   * - `\　　　　Destructive behavior <https://www.dhammatalks.org/vinaya/bmc/Section0049.html#sigil_toc_id_130>`__
+     - 　　　　破壞性行為
+
+   * - `\　　　　Self-mutilation <https://www.dhammatalks.org/vinaya/bmc/Section0049.html#sigil_toc_id_131>`__
+     - 　　　　自殘
+
+   * - `\　　　　Charms & omens <https://www.dhammatalks.org/vinaya/bmc/Section0049.html#sigil_toc_id_132>`__
+     - 　　　　符咒和預兆
+
+   * - `\　　　　Displaying psychic powers <https://www.dhammatalks.org/vinaya/bmc/Section0049.html#sigil_toc_id_133>`__
+     - 　　　　展現神通
+
+   * - `\　　　　Off-limits <https://www.dhammatalks.org/vinaya/bmc/Section0049.html#sigil_toc_id_134>`__
+     - 　　　　禁區(非行處)
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0049.html#sigil_toc_id_135>`__
+     - 　　　戒條
+
+   * - `\　　Rains-residence <https://www.dhammatalks.org/vinaya/bmc/Section0050.html>`__
+     - 　　雨安居
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_136>`__
+     - 　　　討論
+
+   * - `\　　　　Periods of residence <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_137>`__
+     - 　　　　安居時段
+
+   * - `\　　　　Entering for the Rains <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_138>`__
+     - 　　　　入雨安居
+
+   * - `\　　　　Breaking one’s promise <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_139>`__
+     - 　　　　違背諾言(破安居)
+
+   * - `\　　　　Determination <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_140>`__
+     - 　　　　決意
+
+   * - `\　　　　Duration <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_141>`__
+     - 　　　　持續時間
+
+   * - `\　　　　Seven-day business <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_142>`__
+     - 　　　　七日事務
+
+   * - `\　　　　Obstacles <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_143>`__
+     - 　　　　障難
+
+   * - `\　　　　Non-dhamma agreements <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_144>`__
+     - 　　　　不符合佛法的約定
+
+   * - `\　　　　Gifts of cloth <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_145>`__
+     - 　　　　贈送衣
+
+   * - `\　　　　Privileges <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_146>`__
+     - 　　　　特殊待遇(方便利益)
+
+       ..
+          http://www.book853.com/show.aspx?id=45&cid=54&page=24
+          律制生活：佛教的飲食規制　聖嚴法師著
+          迦絺那衣是什麼？
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_147>`__
+     - 　　　戒條
+
+   * - `\　Community Transactions <https://www.dhammatalks.org/vinaya/bmc/Section0051.html>`__
+     - 　僧伽羯磨
 
 ..
    * - 
