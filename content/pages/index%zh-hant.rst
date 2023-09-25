@@ -1056,7 +1056,7 @@
      - 　　　戒條
 
    * - `\　　Cloth Requisites <https://www.dhammatalks.org/vinaya/bmc/Section0041.html>`__
-     - 　　衣要求
+     - 　　布要求
 
    * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_63>`__
      - 　　　討論
@@ -1080,7 +1080,7 @@
      - 　　　　洗袈裟
 
    * - `\　　　　Other Cloth Requisites <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_70>`__
-     - 　　　　其他衣要求
+     - 　　　　其他布要求
 
    * - `\　　　　Dressing <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_71>`__
      - 　　　　穿著
@@ -1240,6 +1240,11 @@
    * - `\　　Protocols <https://www.dhammatalks.org/vinaya/bmc/Section0048.html>`__
      - 　　行儀
 
+       ..
+          Google 沙彌律儀: https://www.google.com/search?q=%E6%B2%99%E5%BD%8C%E5%BE%8B%E5%84%80
+          牟尼佛法流通網
+          《沙彌律儀要略集註》全集pdf 電子書《戒律學綱要》Wiki: http://www.muni-buddha.com.tw/monk_wiki/religious_discipline_wiki.html
+
    * - `\　　　Incoming Bhikkhus’ Protocol <https://www.dhammatalks.org/vinaya/bmc/Section0048.html#sigil_toc_id_113>`__
      - 　　　客住者的行儀
 
@@ -1340,13 +1345,13 @@
      - 　　　　障難
 
    * - `\　　　　Non-dhamma agreements <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_144>`__
-     - 　　　　不符合佛法的約定
+     - 　　　　非如法約定
 
    * - `\　　　　Gifts of cloth <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_145>`__
-     - 　　　　贈送衣
+     - 　　　　贈布
 
    * - `\　　　　Privileges <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_146>`__
-     - 　　　　特殊待遇(方便利益)
+     - 　　　　方便利益
 
        ..
           http://www.book853.com/show.aspx?id=45&cid=54&page=24
@@ -1358,6 +1363,62 @@
 
    * - `\　Community Transactions <https://www.dhammatalks.org/vinaya/bmc/Section0051.html>`__
      - 　僧伽羯磨
+
+       ..
+          Google 羯磨 種類: https://www.google.com/search?q=%E7%BE%AF%E7%A3%A8+%E7%A8%AE%E9%A1%9E
+          法鼓全集 數位隨身版 http://old.ddc.shengyen.org/mobile/
+          僧團「羯磨」的的涵義與種類 by 寂靜精舍 Santa Vihāra
+          https://m.facebook.com/media/set/?set=a.906576973101592&type=3
+          《護僧須知》
+          僧團「羯磨」的的涵義與種類
+          覓寂比丘 編譯
+
+          羯磨（kamma）：是指律制僧團法定的會議。然而「羯磨」不同於一般的會議，而是佛陀在《律藏》制定的僧團法定運作會議。
+          羯磨分為四種：聽許羯磨、單白羯磨、白二羯磨和白四羯磨。
+          1.聽許羯磨（apalokanakammaṃ,求聽羯磨；同意羯磨）：是一種對僧團告知（sāveti）三次的羯磨。這類羯磨包括僧團對邪見沙彌施以不攝受、不共住的處罰（daṇḍakamma），以及對不受勸比丘施以梵罰（brahmadaṇḍa）等羯磨。
+          2.單白羯磨（ñattikammaṃ,僅白羯磨）：是一種對僧團告白（ñatti）一次的羯磨。這類羯磨包括僧團的布薩、自恣等羯磨。
+          3.白二羯磨（ñattidutiyakammaṃ,以告白為第二的羯磨）：是一種對僧團一次告白和隨後一次宣告（anussāvana）的羯磨；即一次告白加一次宣告為白二羯磨。這類羯磨包括僧團的結界（結不離衣界和結布薩堂等）及授與卡提那衣等羯磨。
+          4.白四羯磨（ñatticatutthakammaṃ,以告白為第四的羯磨）：是一種對僧團一次告白和隨後三次宣告的羯磨；即一次告白加三次宣告為白四羯磨。這類羯磨包括受具足戒、給犯僧初餘罪比丘的出罪等羯磨。
+          「告白（ñatti）」：是一種制式〔法定〕的羯磨語內容──將羯磨的事項或目的向僧團宣告，這類似於現今會議的提案。
+          「宣告（anussāvana）」：是一種制式的羯磨語──即重述告白的內容，並在詢問僧眾是否同意此內容後作總結。
+          僧團羯磨必須同時具備五個條件，才算有效的羯磨；如果其中任何一個條件失壞或有缺失，該項羯磨即無效。這五個條件為──
+          1.對象成就（vatthusampatti）：是指羯磨的對象要合乎規定，例如：被羯磨的對象應在場就不能缺席；應承認自白就不能沉默不語；求受具足戒者必須為滿二十歲者、非般達卡等十三種不能受具足戒的人，等等。
+          2.告白成就（ñattisampatti,提案成就）：在宣說告白時，避免五種過失：沒提及對象、沒提及僧團、沒提及人、沒有告白或最後才告白。
+          3.宣告成就（anussāvanasampatti,隨羯磨語成就）：在宣說羯磨語時，避免五種過失──沒提及對象、沒提及僧團、沒提及人、缺少宣告或非時宣告。
+          4.界成就（sīmāsampatti）：舉行羯磨的界場沒有界相破損、無界相、界重疊等十一種失壞、缺失。
+          5.眾成就（parisāsampatti）：參加羯磨的合格比丘達到法定人數；界內除了如法請假的比丘外，不能有其他比丘（不來參加）；僧團成員必須處在伸手所及處之內。舉行僧團羯磨有法定人數的規定，至少為四位合格的清淨比丘。因羯磨種類的不同，法定人數的規定稍有不同──一般僧團羯磨的法定人數為至少四位比丘；在邊地受具足戒、自恣、授與卡提那衣等羯磨必須至少五位比丘才能執行；在中印度的受具足戒羯磨至少十位比丘才能執行；對犯僧初餘罪比丘的出罪羯磨至少二十位比丘才能執行。
+          律制僧團的羯磨不同於一般會議，是採取完全民主的全數決。在舉行羯磨的告白（ñatti）及宣告（anussāvana）期間，若有在場的比丘提出異議，該羯磨即無效。
+          VinsA.(pg. 391-413); VinlṬ.(pg. 2.0265-295)
+
+          生善羯磨與治罪羯磨
+          一白三羯磨
+
+          戒律學綱要 300: http://old.ddc.shengyen.org/mobile/text/01-03/300.php
+          所謂羯磨法的規定，便是用來判斷羯磨法的是否合乎要求。這個規定，是要具備四個條件，羯磨才能成立。這四個條件是：
+
+   * - `\　　Community Transactions <https://www.dhammatalks.org/vinaya/bmc/Section0052.html>`__
+     - 　　僧伽羯磨
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0052.html#sigil_toc_id_148>`__
+     - 　　　討論
+
+   * - `\　　　　The validity of the object <https://www.dhammatalks.org/vinaya/bmc/Section0052.html#sigil_toc_id_149>`__
+     - 　　　　對象成就
+
+   * - `\　　　　The validity of the transaction statement <https://www.dhammatalks.org/vinaya/bmc/Section0052.html#sigil_toc_id_150>`__
+     - 　　　　羯磨文成就
+
+   * - `\　　　　The validity of the assembly <https://www.dhammatalks.org/vinaya/bmc/Section0052.html#sigil_toc_id_151>`__
+     - 　　　　眾成就
+
+   * - `\　　　　The validity of the territory <https://www.dhammatalks.org/vinaya/bmc/Section0052.html#sigil_toc_id_152>`__
+     - 　　　　界成就
+
+   * - `\　　　　Offenses <https://www.dhammatalks.org/vinaya/bmc/Section0052.html#sigil_toc_id_153>`__
+     - 　　　　犯戒
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0052.html#sigil_toc_id_154>`__
+     - 　　　戒條
 
 ..
    * - 
