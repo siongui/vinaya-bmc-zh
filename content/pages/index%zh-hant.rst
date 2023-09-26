@@ -1420,7 +1420,90 @@
    * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0052.html#sigil_toc_id_154>`__
      - 　　　戒條
 
+   * - `\　　Territories <https://www.dhammatalks.org/vinaya/bmc/Section0053.html>`__
+     - 　　界場
+
+       ..
+          Google "界場" 羯磨: https://www.google.com/search?q=%22%E7%95%8C%E5%A0%B4%22+%E7%BE%AF%E7%A3%A8
+
+          《清净道论》－羯磨与结界法
+          https://www.facebook.com/notes/%E4%B8%8A%E5%BA%A7%E9%83%A8%E5%8E%9F%E5%A7%8B%E4%BD%9B%E6%95%99%E4%BA%A4%E6%B5%81%E5%8C%BA/%E6%B8%85%E5%87%80%E9%81%93%E8%AE%BA%E7%BE%AF%E7%A3%A8%E4%B8%8E%E7%BB%93%E7%95%8C%E6%B3%95/183762755024517/
+          在舉行羯磨的時候，如果是僧羯磨（比庫做羯磨 ... 平時界場裡面用電有個很方便的拔的東西，而且你會發現到上座部佛教的那些界場，水龍頭全部不會拉進界場裡面，電也不會拉進 ...
+
+          佛光大辭典 (慈怡法師主編)
+          戒場
+          指授戒及布薩說戒之道場。如授三昧耶戒之道場，稱三昧耶戒場。在戒場內設戒壇，行授戒作法。戒場本無建築屋舍之必要，僅須於空地有結界標示即成，然為防風雨之故，古來大抵係堂內受戒與露地結界受戒兼行之。其與戒壇相異之處，戒壇乃由平地立一稍高之土壇而成，戒場則僅限平地。但亦有稱戒壇為壇場，或混稱為壇場者。舉辦授戒會道場之人師，稱為戒場主，一般多指該授戒會道場之寺院住持。又戒場主常兼任引禮師，亦常兼任授戒會三師之得戒和尚。（參閱「戒壇」2917、「結界」5181） p2913
+
+          結界
+          梵語 sīmā-bandha，或 bandhaya-sīman（音譯畔陀也死曼）。依作法而區劃一定之地域。(一)乃依「白二羯磨」之法，隨處劃定一定之界區，以免僧眾動輒違犯別眾、離宿、宿煮等過失。有關結界之範圍、方法等，諸律所說頗有出入，今依四分律所整理者，大別為攝僧界、攝衣界、攝食界等三種。
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0053.html#sigil_toc_id_155>`__
+     - 　　　討論
+
+   * - `\　　　　Territories not tied off <https://www.dhammatalks.org/vinaya/bmc/Section0053.html#sigil_toc_id_156>`__
+     - 　　　　非束縛界(自然界)
+
+   * - `\　　　　Tied-off territories <https://www.dhammatalks.org/vinaya/bmc/Section0053.html#sigil_toc_id_157>`__
+     - 　　　　束縛界(作法界)
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0053.html#sigil_toc_id_158>`__
+     - 　　　戒條
+
+   * - `\　　Ordination <https://www.dhammatalks.org/vinaya/bmc/Section0054.html>`__
+     - 　　傳戒
+
+       ..
+          http://buddhaspace.org/dict/fk/data/%25E5%2582%25B3%25E6%2588%2592.html
+          佛光大辭典 (慈怡法師主編)
+          傳戒
+          指傳授戒律予出家之僧尼或在家居士之儀式。又稱開戒、放戒。就求戒者而言，則稱受戒、納戒、進戒。戒分五戒、八戒、十戒、具足戒、菩薩戒等。具足戒為授於比丘、比丘尼者；十戒為授於沙彌、沙彌尼者；八戒及五戒為授於在家之優婆塞、優婆夷者；菩薩戒則不論出家、在家皆可傳授。
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0054.html#sigil_toc_id_159>`__
+     - 　　　討論
+
+   * - `\　　　　Going-forth & Acceptance <https://www.dhammatalks.org/vinaya/bmc/Section0054.html#sigil_toc_id_160>`__
+     - 　　　　出家 & 受具足戒
+
+   * - `\　　　　The validity of the object <https://www.dhammatalks.org/vinaya/bmc/Section0054.html#sigil_toc_id_161>`__
+     - 　　　　對象成就
+
+   * - `\　　　　The validity of the assembly <https://www.dhammatalks.org/vinaya/bmc/Section0054.html#sigil_toc_id_162>`__
+     - 　　　　眾成就
+
+   * - `\　　　　The validity of the transaction statement <https://www.dhammatalks.org/vinaya/bmc/Section0054.html#sigil_toc_id_163>`__
+     - 　　　　羯磨文成就
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0054.html#sigil_toc_id_164>`__
+     - 　　　戒條
+
+   * - `\　　Uposatha <https://www.dhammatalks.org/vinaya/bmc/Section0055.html>`__
+     - 　　布薩
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_165>`__
+     - 　　　討論
+
+   * - `\　　　　Uposatha days <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_166>`__
+     - 　　　　布薩日
+
+   * - `\　　　　Location <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_167>`__
+     - 　　　　地點
+
+   * - `\　　　　Unity <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_168>`__
+     - 　　　　和合
+
 ..
+   * - `\　　 <>`__
+     - 　　
+
+   * - `\　　　Discussions <>`__
+     - 　　　討論
+
+   * - `\　　　　 <>`__
+     - 　　　　
+
+   * - `\　　　Rules <>`__
+     - 　　　戒條
+
    * - 
      - 
 
