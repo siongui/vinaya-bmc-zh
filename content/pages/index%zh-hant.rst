@@ -1491,6 +1491,45 @@
    * - `\　　　　Unity <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_168>`__
      - 　　　　和合
 
+   * - `\　　　　Excluded individuals <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_169>`__
+     - 　　　　應被遣出者
+
+   * - `\　　　　Preliminaries <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_170>`__
+     - 　　　　預備工作
+
+   * - `\　　　　Confession <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_171>`__
+     - 　　　　懺悔罪過
+
+   * - `\　　　　Reciting the Pāṭimokkha <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_172>`__
+     - 　　　　誦波羅提木叉(四比丘以上)
+
+   * - `\　　　　Mutual purity <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_173>`__
+     - 　　　　相向說淨言(三比丘)
+
+   * - `\　　　　Purity <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_174>`__
+     - 　　　　說淨言(二比丘)
+
+   * - `\　　　　Determination <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_175>`__
+     - 　　　　決意(單比丘)
+
+   * - `\　　　　Borderline quorums <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_176>`__
+     - 　　　　臨界法定人數
+
+   * - `\　　　　Traveling <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_177>`__
+     - 　　　　移動
+
+   * - `\　　　　Special cases: unity <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_178>`__
+     - 　　　　特殊情況：和合
+
+   * - `\　　　　Special cases: accusations <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_179>`__
+     - 　　　　特殊情況：對眾問難法
+
+   * - `\　　　　Special cases: canceling the Pāṭimokkha <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_180>`__
+     - 　　　　特殊情況：取消波羅提木叉
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_181>`__
+     - 　　　戒條
+
 ..
    * - `\　　 <>`__
      - 　　
