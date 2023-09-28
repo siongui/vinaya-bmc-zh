@@ -1450,7 +1450,7 @@
      - 　　　戒條
 
    * - `\　　Ordination <https://www.dhammatalks.org/vinaya/bmc/Section0054.html>`__
-     - 　　傳戒
+     - 　　授戒
 
        ..
           http://buddhaspace.org/dict/fk/data/%25E5%2582%25B3%25E6%2588%2592.html
@@ -1462,7 +1462,7 @@
      - 　　　討論
 
    * - `\　　　　Going-forth & Acceptance <https://www.dhammatalks.org/vinaya/bmc/Section0054.html#sigil_toc_id_160>`__
-     - 　　　　出家 & 受具足戒
+     - 　　　　出家 & 具足(戒)
 
    * - `\　　　　The validity of the object <https://www.dhammatalks.org/vinaya/bmc/Section0054.html#sigil_toc_id_161>`__
      - 　　　　對象成就
@@ -1522,13 +1522,24 @@
      - 　　　　特殊情況：和合
 
    * - `\　　　　Special cases: accusations <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_179>`__
-     - 　　　　特殊情況：對眾問難法
+     - 　　　　特殊情況：指控
+
+       .. 對眾問難法???
 
    * - `\　　　　Special cases: canceling the Pāṭimokkha <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_180>`__
      - 　　　　特殊情況：取消波羅提木叉
 
    * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_181>`__
      - 　　　戒條
+
+   * - `\　　Invitation <https://www.dhammatalks.org/vinaya/bmc/Section0056.html>`__
+     - 　　自恣
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_182>`__
+     - 　　　討論
+
+   * - `\　　　　Invitation days <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_183>`__
+     - 　　　　自恣日
 
 ..
    * - `\　　 <>`__
