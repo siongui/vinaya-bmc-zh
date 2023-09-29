@@ -1479,6 +1479,13 @@
    * - `\　　Uposatha <https://www.dhammatalks.org/vinaya/bmc/Section0055.html>`__
      - 　　布薩
 
+       ..
+          https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-HFU/nx020900.htm
+          佛教布薩制度的研究 羅因
+          台灣大學中文研究所
+          華梵大學 第六次儒佛會通學術研討會論文集--下冊  ( 2002.07 ) 頁407-426
+          華梵大學哲學系,  [臺灣 臺北]
+
    * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_165>`__
      - 　　　討論
 
@@ -1540,6 +1547,70 @@
 
    * - `\　　　　Invitation days <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_183>`__
      - 　　　　自恣日
+
+   * - `\　　　　Conveying invitation <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_184>`__
+     - 　　　　與自恣(傳達自恣)
+
+       ..
+          http://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati10.pdf
+          上座部比丘戒經與註釋
+
+   * - `\　　　　Preliminary duties <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_185>`__
+     - 　　　　預備職責
+
+   * - `\　　　　Quorum <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_186>`__
+     - 　　　　法定人數
+
+   * - `\　　　　Community Invitation <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_187>`__
+     - 　　　　僧團自恣(五比丘以上)
+
+   * - `\　　　　Mutual Invitation <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_188>`__
+     - 　　　　相向自恣(二至四比丘)
+
+   * - `\　　　　Determination <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_189>`__
+     - 　　　　決意(單比丘)
+
+   * - `\　　　　Borderline quorums <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_190>`__
+     - 　　　　臨界法定人數
+
+   * - `\　　　　Accusations <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_191>`__
+     - 　　　　指控
+
+   * - `\　　　　Special cases: two groups <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_192>`__
+     - 　　　　特殊情況：兩群
+
+   * - `\　　　　Special cases: delayed Invitation <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_193>`__
+     - 　　　　特殊情況：延遲自恣
+
+   * - `\　　　　Special cases: hostile neighbors <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_194>`__
+     - 　　　　特殊情況：敵對鄰居
+
+   * - `\　　　　Other issues <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_195>`__
+     - 　　　　其他議題
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#sigil_toc_id_196>`__
+     - 　　　戒條
+
+   * - `\　　Kaṭhina <https://www.dhammatalks.org/vinaya/bmc/Section0057.html>`__
+     - 　　功德衣(迦絺那衣)
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0057.html#sigil_toc_id_197>`__
+     - 　　　討論
+
+   * - `\　　　　Time period <https://www.dhammatalks.org/vinaya/bmc/Section0057.html#sigil_toc_id_198>`__
+     - 　　　　時段
+
+   * - `\　　　　The donor <https://www.dhammatalks.org/vinaya/bmc/Section0057.html#sigil_toc_id_199>`__
+     - 　　　　施主
+
+   * - `\　　　　The cloth <https://www.dhammatalks.org/vinaya/bmc/Section0057.html#sigil_toc_id_200>`__
+     - 　　　　布料
+
+   * - `\　　　　Transaction <https://www.dhammatalks.org/vinaya/bmc/Section0057.html#sigil_toc_id_201>`__
+     - 　　　　羯磨
+
+   * - `\　　　　Making the robe <https://www.dhammatalks.org/vinaya/bmc/Section0057.html#sigil_toc_id_202>`__
+     - 　　　　製作袈裟
 
 ..
    * - `\　　 <>`__
