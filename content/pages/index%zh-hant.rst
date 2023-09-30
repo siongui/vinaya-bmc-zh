@@ -1612,6 +1612,85 @@
    * - `\　　　　Making the robe <https://www.dhammatalks.org/vinaya/bmc/Section0057.html#sigil_toc_id_202>`__
      - 　　　　製作袈裟
 
+   * - `\　　　　Spreading <https://www.dhammatalks.org/vinaya/bmc/Section0057.html#sigil_toc_id_203>`__
+     - 　　　　敷展(鋪展)
+
+   * - `\　　　　Privileges <https://www.dhammatalks.org/vinaya/bmc/Section0057.html#sigil_toc_id_204>`__
+     - 　　　　方便利益
+
+   * - `\　　　　Dismantling the kaṭhina <https://www.dhammatalks.org/vinaya/bmc/Section0057.html#sigil_toc_id_205>`__
+     - 　　　　捨功德衣
+
+       ..
+          【第四章·迦絺那衣法·第一节·受衣时节】
+          https://masterjiqun.com/index.php?app=@article&ac=show&id=605
+          「迦絺那」名義和權利之研究=A Study of “Kathina”
+          https://buddhism.lib.ntu.edu.tw/search/search_detail.jsp?seq=125910&comefrom=authorinfo
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0057.html#sigil_toc_id_206>`__
+     - 　　　戒條
+
+   * - `\　　Community Officials <https://www.dhammatalks.org/vinaya/bmc/Section0058.html>`__
+     - 　　僧團執事
+
+       ..
+          寺院有哪些「職位」？「人事變動」分哪些程序
+          http://m.fodizi.tw/fojiaozhishi/25060.html
+          https://www.pusa123.com/pusa/wenhua/xuefo/changshi/128826.shtml
+          佛在世時，僧團就有維那、守庫藏人、知食人等執事。
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0058.html#sigil_toc_id_207>`__
+     - 　　　討論
+
+   * - `\　　　　General qualifications <https://www.dhammatalks.org/vinaya/bmc/Section0058.html#sigil_toc_id_208>`__
+     - 　　　　一般資格
+
+   * - `\　　　　Robe-cloth officials <https://www.dhammatalks.org/vinaya/bmc/Section0058.html#sigil_toc_id_209>`__
+     - 　　　　衣布執事
+
+   * - `\　　　　Food officials <https://www.dhammatalks.org/vinaya/bmc/Section0058.html#sigil_toc_id_210>`__
+     - 　　　　食物執事
+
+       ..
+          https://suttacentral.net/lzh-sarv-kd14/lzh/taisho?lang=en&reference=none&highlight=false
+          Sarvāstivāda Vinaya	十誦律
+          14. Sayanāsana Khandhaka	臥具法
+          知敷臥具人
+          知食人
+          知作器比丘
+          知分臥具人
+          知事人
+
+   * - `\　　　　Lodging officials <https://www.dhammatalks.org/vinaya/bmc/Section0058.html#sigil_toc_id_211>`__
+     - 　　　　臥坐處執事
+
+   * - `\　　　　Miscellaneous <https://www.dhammatalks.org/vinaya/bmc/Section0058.html#sigil_toc_id_212>`__
+     - 　　　　雜項
+
+   * - `\　　　　Work supervisors <https://www.dhammatalks.org/vinaya/bmc/Section0058.html#sigil_toc_id_213>`__
+     - 　　　　工作督導員
+
+   * - `\　　　　Removing officials from office <https://www.dhammatalks.org/vinaya/bmc/Section0058.html#sigil_toc_id_214>`__
+     - 　　　　罷免執事職務
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0058.html#sigil_toc_id_215>`__
+     - 　　　戒條
+
+   * - `\　　Penance & Probation <https://www.dhammatalks.org/vinaya/bmc/Section0059.html>`__
+     - 　　摩那埵 & 波利婆沙
+
+       ..
+          摩那埵- 比丘僧尼戒律儀
+          https://www.dharmazen.org/X1Chinese/D45Dictionary/D09Sila001/D09-1-0006.htm
+          僧殘：梵語 samghāvaśesa，音譯為僧伽婆尸沙、僧伽胝施沙。意即眾餘、眾決斷、僧初殘。此罪次於波羅夷，被列入重罪。犯此罪者，即被處罰別住之刑，並依教團作法，受六夜摩那埵（mānāpya，巴 mānatta，即悅眾意、意喜之意）之滅罪法，洗淨殘餘之罪垢，始可恢復僧尼之資格，故稱僧殘。
+
+          六夜摩那埵，即六夜間被褫奪種種權利，另外住宿之意，與所謂禁足同義。如再掩飾其罪垢不肯坦白，即加罰相當日數之波利婆沙（parivāsa，意即重別住），後再受六夜摩那埵。僧殘罪在教團屬於重罪，故其作法甚為嚴肅莊重。初被告被傳至眾僧之前受警誡，令其自覺後，告訴其所犯之罪名與事實，如能坦白吐露並悔過，則僅處以六夜摩那埵。教團對於摩那埵之被告，必依一白三羯磨之作法，三度提出動議，徵詢眾僧之同意。六夜摩那埵結束後，被告須在比丘二十人以上（比丘尼則須有比丘、比丘尼各二十人以上）之大眾前告白懺悔，教團亦依法作完儀式，令其復位。僧殘罪在比丘有故意失精等十三種，比丘尼有婚姻媒妁等十七種，其中七種係僧尼共通者。波利婆沙Parivāsa是驅逐有犯僧殘之比丘、比丘尼而令住一特定居所，故稱為別住。英文為abode , stay , sojourn；the expulsion of a guilty member Buddh。
+
+          犯僧殘者於僧眾面前呵責犯過比丘，並宣告剝奪其三十五事之權利，如奪其供給、證正他事之權利等。五事共有七項，故合成三十五事，稱奪三十五事。此三十五事中。初十奪其師德，次十奪其隨意所行，次十事奪其供事，後餘五不聽于知他事。應順行此法，若違犯一事，罪則不滅，不得與出罪羯磨。
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0059.html#sigil_toc_id_216>`__
+     - 　　　討論
+
 ..
    * - `\　　 <>`__
      - 　　
