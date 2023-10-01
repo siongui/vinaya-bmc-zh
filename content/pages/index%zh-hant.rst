@@ -1732,6 +1732,10 @@
 
 （未完待續）
 
+----
+
+`漢譯參考 <{filename}reference/chinese-translation%zh-hant.rst>`_
+
 ..
    **漢譯參考**
 
