@@ -1677,7 +1677,7 @@
      - 　　　戒條
 
    * - `\　　Penance & Probation <https://www.dhammatalks.org/vinaya/bmc/Section0059.html>`__
-     - 　　摩那埵 & 波利婆沙
+     - 　　贖罪(摩那埵) & 別住(波利婆沙)
 
        ..
           摩那埵- 比丘僧尼戒律儀
@@ -1690,6 +1690,27 @@
 
    * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0059.html#sigil_toc_id_216>`__
      - 　　　討論
+
+   * - `\　　　　Formal statements & transactions <https://www.dhammatalks.org/vinaya/bmc/Section0059.html#sigil_toc_id_217>`__
+     - 　　　　正式聲明 & 羯磨
+
+   * - `\　　　　Penance <https://www.dhammatalks.org/vinaya/bmc/Section0059.html#sigil_toc_id_218>`__
+     - 　　　　贖罪(摩那埵)
+
+   * - `\　　　　Probation <https://www.dhammatalks.org/vinaya/bmc/Section0059.html#sigil_toc_id_219>`__
+     - 　　　　別住(波利婆沙)
+
+   * - `\　　　　Multiple offenses <https://www.dhammatalks.org/vinaya/bmc/Section0059.html#sigil_toc_id_220>`__
+     - 　　　　多次犯戒
+
+   * - `\　　　　Shared offenses <https://www.dhammatalks.org/vinaya/bmc/Section0059.html#sigil_toc_id_221>`__
+     - 　　　　共同犯戒
+
+   * - `\　　　　Interruptions <https://www.dhammatalks.org/vinaya/bmc/Section0059.html#sigil_toc_id_222>`__
+     - 　　　　中斷
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0059.html#sigil_toc_id_223>`__
+     - 　　　戒條
 
 ..
    * - `\　　 <>`__
