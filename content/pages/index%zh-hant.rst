@@ -1718,9 +1718,108 @@
    * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0060.html#sigil_toc_id_224>`__
      - 　　　討論
 
+   * - `\　　　　Discipline for offenses <https://www.dhammatalks.org/vinaya/bmc/Section0060.html#sigil_toc_id_225>`__
+     - 　　　　犯戒治罪
+
+   * - `\　　　　Relations with the laity <https://www.dhammatalks.org/vinaya/bmc/Section0060.html#sigil_toc_id_226>`__
+     - 　　　　與在家眾的關係
+
+   * - `\　　　　Other disciplinary measures <https://www.dhammatalks.org/vinaya/bmc/Section0060.html#sigil_toc_id_227>`__
+     - 　　　　其他治罪措施
+
+   * - `\　　　　Abuse of the system <https://www.dhammatalks.org/vinaya/bmc/Section0060.html#sigil_toc_id_228>`__
+     - 　　　　濫用體制
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0060.html#sigil_toc_id_229>`__
+     - 　　　戒條
+
+   * - `\　　Schism <https://www.dhammatalks.org/vinaya/bmc/Section0061.html>`__
+     - 　　破僧
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0061.html#sigil_toc_id_230>`__
+     - 　　　討論
+
+   * - `\　　　　Behavior during a schism <https://www.dhammatalks.org/vinaya/bmc/Section0061.html#sigil_toc_id_231>`__
+     - 　　　　破僧時行為
+
+   * - `\　　　　Ending schism <https://www.dhammatalks.org/vinaya/bmc/Section0061.html#sigil_toc_id_232>`__
+     - 　　　　結束破僧
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0061.html#sigil_toc_id_233>`__
+     - 　　　戒條
+
+   * - `\　　Inheritance <https://www.dhammatalks.org/vinaya/bmc/Section0063.html>`__
+     - 　　繼承
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0063.html#sigil_toc_id_234>`__
+     - 　　　討論
+
+   * - `\　　　　Belongings <https://www.dhammatalks.org/vinaya/bmc/Section0063.html#sigil_toc_id_235>`__
+     - 　　　　所有物
+
+   * - `\　　　　Funerals <https://www.dhammatalks.org/vinaya/bmc/Section0063.html#sigil_toc_id_236>`__
+     - 　　　　葬禮
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0063.html#sigil_toc_id_237>`__
+     - 　　　戒條
+
+   * - `\　Co-religionists <https://www.dhammatalks.org/vinaya/bmc/Section0064.html>`__
+     - 　同教眾
+
+   * - `\　　Bhikkhunīs <https://www.dhammatalks.org/vinaya/bmc/Section0065.html>`__
+     - 　　比丘尼
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0065.html#sigil_toc_id_238>`__
+     - 　　　討論
+
+   * - `\　　　　Communal relations <https://www.dhammatalks.org/vinaya/bmc/Section0065.html#sigil_toc_id_239>`__
+     - 　　　　僧團關係
+
+   * - `\　　　　Individual relations <https://www.dhammatalks.org/vinaya/bmc/Section0065.html#sigil_toc_id_240>`__
+     - 　　　　個人關係
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0065.html#sigil_toc_id_241>`__
+     - 　　　戒條
+
+   * - `\　　Novices <https://www.dhammatalks.org/vinaya/bmc/Section0066.html>`__
+     - 　　沙彌
+
+   * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0066.html#sigil_toc_id_242>`__
+     - 　　　討論
+
+   * - `\　　　　Training <https://www.dhammatalks.org/vinaya/bmc/Section0066.html#sigil_toc_id_243>`__
+     - 　　　　學處
+
+   * - `\　　　　Dependence <https://www.dhammatalks.org/vinaya/bmc/Section0066.html#sigil_toc_id_244>`__
+     - 　　　　依止
+
+   * - `\　　　　Punishment <https://www.dhammatalks.org/vinaya/bmc/Section0066.html#sigil_toc_id_245>`__
+     - 　　　　處罰
+
+   * - `\　　　　Expulsion <https://www.dhammatalks.org/vinaya/bmc/Section0066.html#sigil_toc_id_246>`__
+     - 　　　　滅擯
+
+   * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0066.html#sigil_toc_id_247>`__
+     - 　　　戒條
+
+   * - `\　Appendices <https://www.dhammatalks.org/vinaya/bmc/Section0067.html>`__
+     - 　附錄
+
+   * - `\　　General Transaction Statements <https://www.dhammatalks.org/vinaya/bmc/Section0068.html>`__
+     - 　　一般羯磨文
+
+   * - `\　　　A. Territories (sīmā) <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_248>`__
+     - 　　　A. 界場
+
+   * - `\　　　B. Uposatha halls <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_249>`__
+     - 　　　B. 戒堂
+
 ..
    * - `\　　 <>`__
      - 　　
+
+   * - `\　　　 <>`__
+     - 　　　
 
    * - `\　　　Discussions <>`__
      - 　　　討論
