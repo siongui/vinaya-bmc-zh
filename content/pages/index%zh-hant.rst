@@ -1736,6 +1736,10 @@
    * - `\　　Schism <https://www.dhammatalks.org/vinaya/bmc/Section0061.html>`__
      - 　　破僧
 
+       ..
+          https://zh.wikipedia.org/zh-hant/%E7%A0%B4%E5%83%A7
+          破僧（梵語：Saghabheda）是指佛教出家僧團分化。
+
    * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0061.html#sigil_toc_id_230>`__
      - 　　　討論
 
@@ -1765,6 +1769,10 @@
 
    * - `\　Co-religionists <https://www.dhammatalks.org/vinaya/bmc/Section0064.html>`__
      - 　同教眾
+
+       ..
+          https://zh.wikipedia.org/zh-hant/%E4%B8%83%E9%83%A8%E7%9C%BE
+          佛教中的七眾，又名七部眾、七部弟子，是指出家五眾和在家二眾的合稱，是佛教徒的集合。
 
    * - `\　　Bhikkhunīs <https://www.dhammatalks.org/vinaya/bmc/Section0065.html>`__
      - 　　比丘尼
