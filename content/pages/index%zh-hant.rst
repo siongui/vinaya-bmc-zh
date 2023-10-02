@@ -1056,7 +1056,7 @@
      - 　　　戒條
 
    * - `\　　Cloth Requisites <https://www.dhammatalks.org/vinaya/bmc/Section0041.html>`__
-     - 　　布要求
+     - 　　衣要求
 
    * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_63>`__
      - 　　　討論
@@ -1080,7 +1080,7 @@
      - 　　　　洗袈裟
 
    * - `\　　　　Other Cloth Requisites <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_70>`__
-     - 　　　　其他布要求
+     - 　　　　其他衣要求
 
    * - `\　　　　Dressing <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_71>`__
      - 　　　　穿著
@@ -1776,7 +1776,7 @@
      - 　　　　僧團關係
 
    * - `\　　　　Individual relations <https://www.dhammatalks.org/vinaya/bmc/Section0065.html#sigil_toc_id_240>`__
-     - 　　　　個人關係
+     - 　　　　個體關係
 
    * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0065.html#sigil_toc_id_241>`__
      - 　　　戒條
