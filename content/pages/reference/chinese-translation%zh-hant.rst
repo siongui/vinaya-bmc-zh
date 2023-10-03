@@ -7,20 +7,10 @@
 :og_image: {static}/extra/Dharma_wheel.png
 
 
-- `Splendid Moons - uposatha moonday calendar <https://splendidmoons.github.io/>`_
-- `每日天文現象| 交通部中央氣象署 <https://www.cwa.gov.tw/V8/C/K/astronomy_day.html>`_
+.. contents:: 目錄
 
-  ..
-          Google Search: 拂曉 明相
-          曙暮光 Twilight
-          律制生活：佛教的飲食規制　聖嚴法師著 http://www.book853.com/show.aspx?id=45&cid=54&page=26
-          聖嚴法師數位典藏 律制生活159 http://old.ddc.shengyen.org/mobile/text/05-05/159.php
-          所謂明相出，即是能夠見到光明相時，在屋外伸手能夠辨別手紋時，便叫見明相，解釋成拂曉時分，比較切近。
+----
 
-- `Bhikkhu Manual <https://bhikkhu-manual.github.io/>`_
-- `上座部比丘戒經與註釋 <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc#%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B>`_
-- `比庫巴帝摩卡 瑪欣德尊者 <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc#%E6%AF%94%E5%BA%AB%E5%B7%B4%E5%B8%9D%E6%91%A9%E5%8D%A1-%E7%91%AA%E6%AC%A3%E5%BE%B7%E5%B0%8A%E8%80%85>`_
-- `沙馬内拉學處 瑪欣德尊者 <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc#%E6%B2%99%E9%A6%AC%E5%86%85%E6%8B%89%E5%AD%B8%E8%99%95-%E7%91%AA%E6%AC%A3%E5%BE%B7%E5%B0%8A%E8%80%85>`_
 
 - `法鼓全集 數位隨身版 <http://old.ddc.shengyen.org/mobile/>`_
 
@@ -630,8 +620,59 @@
        / 編譯者：庫那威羅 比丘等 Guṇavīra Bhikkhu and others
 
 - `清淨之道  瑪欣德尊者 1/2 - Lotus Amita - udn部落格 <https://blog.udn.com/mobile/milene/158092625>`_
+- `［第129期］悟因法師 談戒說律（一） - 香光莊嚴雜誌 <http://www.gayamagazine.org/periodical/detail/180>`_
+
+  ..
+     治罪羯磨—辨明罪相以滅惡
+     戒律的「輕重」，可以從什麼地方來看？具足戒分為「五篇」、「七聚」、
+     「八段」，這是依戒條犯罪大小、懺悔方式等的分類。「五篇」是波羅夷、僧
+     殘、波逸提、波羅提提舍尼、突吉羅。「七聚」是在五篇的基礎上，增加了偷
+     蘭遮（偷蘭遮為初、二篇的近方便與次方便罪），並將突吉羅分為惡作（身業違犯）、
+     惡說（語業違犯）兩聚。「八段」是依《戒本》結構對戒條的分類—波羅夷、
+     僧殘、尼薩耆波逸提、波逸提、波羅提提舍尼、眾學法、七滅諍法
+
+  * `釋悟因 - 臺大佛學數位圖書館 ::: 佛學著者規範資料庫 <https://buddhism.lib.ntu.edu.tw/author/authorinfo.jsp?ID=64915>`_
+  * `香光莊嚴=Glorious Buddhism Magazine - 臺大佛學數位圖書館 <https://buddhism.lib.ntu.edu.tw/DLMBS/toModule.do?prefix=/website&page=/periodical.jsp?seq=161>`_
+
+
+線上閱藏
+++++++++
+
+- `NTI Reader - Nan Tien 南天 Institute (NTI) Buddhist Text Reader <https://ntireader.org/>`_
+
+  * `Sarvāstivādavinaya (Shi Song Lu) 十誦律 - NTI Reader <https://ntireader.org/taisho/t1435_56.html>`_
+
+- `漢文大藏經：優雅地閱讀佛經 deerpark.app <https://deerpark.app/>`_
+
+  * `四分律（卷1） - 漢文大藏經：優雅地閱讀佛經 deerpark.app <https://deerpark.app/reader/T1428/1>`_
+
+
+天文曆法
+++++++++
+
+- `Splendid Moons - uposatha moonday calendar <https://splendidmoons.github.io/>`_
+- `每日天文現象| 交通部中央氣象署 <https://www.cwa.gov.tw/V8/C/K/astronomy_day.html>`_
+
+  ..
+          Google Search: 拂曉 明相
+          曙暮光 Twilight
+          律制生活：佛教的飲食規制　聖嚴法師著 http://www.book853.com/show.aspx?id=45&cid=54&page=26
+          聖嚴法師數位典藏 律制生活159 http://old.ddc.shengyen.org/mobile/text/05-05/159.php
+          所謂明相出，即是能夠見到光明相時，在屋外伸手能夠辨別手紋時，便叫見明相，解釋成拂曉時分，比較切近。
+
+
+戒律著作
+++++++++
+
+- `Bhikkhu Manual <https://bhikkhu-manual.github.io/>`_
+- `上座部比丘戒經與註釋 法增比丘 <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc#%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B>`_
+- `比庫巴帝摩卡 瑪欣德尊者 <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc#%E6%AF%94%E5%BA%AB%E5%B7%B4%E5%B8%9D%E6%91%A9%E5%8D%A1-%E7%91%AA%E6%AC%A3%E5%BE%B7%E5%B0%8A%E8%80%85>`_
+- `沙馬内拉學處 瑪欣德尊者 <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc#%E6%B2%99%E9%A6%AC%E5%86%85%E6%8B%89%E5%AD%B8%E8%99%95-%E7%91%AA%E6%AC%A3%E5%BE%B7%E5%B0%8A%E8%80%85>`_
 - `巴利律比丘戒研究 李鳳媚 - Google Search <https://www.google.com/search?q=%E5%B7%B4%E5%88%A9%E5%BE%8B%E6%AF%94%E4%B8%98%E6%88%92%E7%A0%94%E7%A9%B6+%E6%9D%8E%E9%B3%B3%E5%AA%9A>`_
 
   * `巴利律藏聖典 - 祇樹給孤獨園林 <http://www.charity.idv.tw/d1/d1.htm>`_
   * `[PDF] 比丘波羅提木叉 - 法雨道場 <http://www.dhammarain.org.tw/canon/vinaya/bhikkhupatimokkha-pc.pdf>`_
   * `[PDF] 巴利律比丘戒譯注 by 李鳳媚 - 靜慮林 <https://www.shineling.org/wp-content/uploads/2021/01/Vinaya.pdf>`_
+  * `巴利文《律藏》比丘戒律研究 - Google Search <https://www.google.com/search?q=%E5%B7%B4%E5%88%A9%E6%96%87%E3%80%8A%E5%BE%8B%E8%97%8F%E3%80%8B%E6%AF%94%E4%B8%98%E6%88%92%E5%BE%8B%E7%A0%94%E7%A9%B6>`_
+  * `法雨道場--閱讀三藏 <https://dhammarain.github.io/canon/canon1.html>`_
+

@@ -1822,6 +1822,18 @@
    * - `\　　　B. Uposatha halls <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_249>`__
      - 　　　B. 戒堂
 
+   * - `\　　　C. A food storage place (Mv.VI.33.2) <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_250>`__
+     - 　　　C. 食物庫藏處(大品.六.33.2)
+
+   * - `\　　　D. Community officials <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_251>`__
+     - 　　　D. 僧團執事
+
+   * - `\　　　E. Kaṭhina <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_252>`__
+     - 　　　E. 功德衣(迦絺那衣)
+
+   * - `\　　　F. Giving robes & bowl to those who tended the sick <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_253>`__
+     - 　　　F. 給衣缽予照顧病人者
+
 ..
    * - `\　　 <>`__
      - 　　
