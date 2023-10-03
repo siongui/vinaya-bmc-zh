@@ -633,6 +633,20 @@
 
   * `釋悟因 - 臺大佛學數位圖書館 ::: 佛學著者規範資料庫 <https://buddhism.lib.ntu.edu.tw/author/authorinfo.jsp?ID=64915>`_
   * `香光莊嚴=Glorious Buddhism Magazine - 臺大佛學數位圖書館 <https://buddhism.lib.ntu.edu.tw/DLMBS/toModule.do?prefix=/website&page=/periodical.jsp?seq=161>`_
+  * `獅子吼站精華區 - 談戒說律(1) - 『香光莊嚴』４９期 <https://buddhaspace.org/gem_browse.php/fpath=gem/brd/Buddhism/I/F001014I&num=7>`_
+  * `悟因法師談戒說律 - Google Search <https://www.google.com/search?q=%E6%82%9F%E5%9B%A0%E6%B3%95%E5%B8%AB%E8%AB%87%E6%88%92%E8%AA%AA%E5%BE%8B>`_
+  * `老實修行，以戒為師: 戒律研修 <https://dharma-yinlung.blogspot.com/2023/01/blog-post_31.html>`_
+  * `悟因法師 談戒說律（一） - 釋悟因 - Google Books <https://books.google.com/books?id=LaxTDwAAQBAJ&pg=PP1&lpg=PP1&dq=%E6%82%9F%E5%9B%A0%E6%B3%95%E5%B8%AB%E8%AB%87%E6%88%92%E8%AA%AA%E5%BE%8B>`_
+
+- `羯磨 庫藏 - Google Search <https://www.google.com/search?q=%E7%BE%AF%E7%A3%A8+%E5%BA%AB%E8%97%8F>`_
+
+  * `羯磨 - 維基文庫，自由的圖書館 <https://zh.m.wikisource.org/zh-hant/%E7%BE%AF%E7%A3%A8>`_
+
+    ..
+       羯磨一卷(出曇無德律)
+       曹魏安息沙門曇諦譯
+       差守庫藏物人羯磨文
+       持亡者衣鉢與看病人羯磨文
 
 
 線上閱藏
@@ -661,8 +675,8 @@
           所謂明相出，即是能夠見到光明相時，在屋外伸手能夠辨別手紋時，便叫見明相，解釋成拂曉時分，比較切近。
 
 
-戒律著作
-++++++++
+巴利聖典戒律著作
+++++++++++++++++
 
 - `Bhikkhu Manual <https://bhikkhu-manual.github.io/>`_
 - `上座部比丘戒經與註釋 法增比丘 <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc#%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B>`_
