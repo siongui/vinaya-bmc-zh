@@ -1834,6 +1834,15 @@
    * - `\　　　F. Giving robes & bowl to those who tended the sick <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_253>`__
      - 　　　F. 給衣缽予照顧病人者
 
+   * - `\　　　G. Complete motions for shortened community invitations <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_254>`__
+     - 　　　G. 簡略僧團自恣完整白文(提案文)
+
+   * - `\　　　H. Invitation-delay <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_255>`__
+     - 　　　H. 自恣延遲
+
+   * - `\　　　I. An insanity authorization (Mv.II.25.3-4) <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_256>`__
+     - 　　　I. 准與狂癡(大品.二.25.3-4)
+
 ..
    * - `\　　 <>`__
      - 　　
