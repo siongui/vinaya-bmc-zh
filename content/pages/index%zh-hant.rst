@@ -1843,6 +1843,48 @@
    * - `\　　　I. An insanity authorization (Mv.II.25.3-4) <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_256>`__
      - 　　　I. 准與狂癡(大品.二.25.3-4)
 
+   * - `\　　Going-forth & Acceptance <https://www.dhammatalks.org/vinaya/bmc/Section0069.html>`__
+     - 　　出家 & 具足戒
+
+   * - `\　　　A. Going-forth (Mv.I.54.3) <https://www.dhammatalks.org/vinaya/bmc/Section0069.html#sigil_toc_id_257>`__
+     - 　　　A. 出家(大品.一.54.3)
+
+   * - `\　　　B. Acceptance <https://www.dhammatalks.org/vinaya/bmc/Section0069.html#sigil_toc_id_258>`__
+     - 　　　B. 具足戒
+
+   * - `\　　　C. Accepting a pair of applicants: <https://www.dhammatalks.org/vinaya/bmc/Section0069.html#sigil_toc_id_259>`__
+     - 　　　C. 授一對戒子:
+
+   * - `\　　　D. Admonition <https://www.dhammatalks.org/vinaya/bmc/Section0069.html#sigil_toc_id_260>`__
+     - 　　　D. 敎誡
+
+       ..
+          http://www.dhammarain.org.tw/canon/vinaya/Vinayamukha_II_III-cei_ri_kan_yiau_2-3.html#%E6%95%8E%E8%AA%A1%E6%96%87
+          敎誡文 (anusāsana, admonition)
+          戒律綱要
+          The Entrance to the Vinaya
+          Vinayamukha (Ⅱ、Ⅲ)省略版
+          泰僧皇   公拍耶跋折羅禪那婆羅娑親王 禦輯
+          黃謹良 敬摭譯
+          訂正：2005.2.
+          原出版者：Mahāmakuṭarājavidyālaya
+          King Mahā Makuta’s Academy
+          Bangkok  1992
+          台灣 法雨道場
+
+   * - `\　　　E. Probation for an applicant previously ordained in another religion: <https://www.dhammatalks.org/vinaya/bmc/Section0069.html#sigil_toc_id_261>`__
+     - 　　　E. 外道乞四月共住
+
+       ..
+          https://www.google.com/search?q=%E5%A4%96%E9%81%93+%E5%9B%9B%E6%9C%88+%E7%BE%AF%E7%A3%A8
+          外道 四月 羯磨 - Google Search
+          T22n1428_034 四分律第34卷
+          https://tripitaka.cbeta.org/T22n1428_034
+          我某甲外道，從眾僧乞四月共住，願僧慈愍故，與我四月共住。』如是第二、第三說已，安彼外道著眼見耳不聞處，眾中應差堪能作羯磨者如上，作 ...
+          https://www2.buddhistdoor.net/dictionary/details/%E5%A4%96%E9%81%93%E5%87%BA%E5%AE%B6%E5%9B%9B%E6%9C%88%E8%A9%A6%E4%B9%8B
+          外道出家四月試之
+          亦名：外道從僧乞四月共住羯磨、四月共住羯磨、乞四月共住羯磨、與外道同住法
+
 ..
    * - `\　　 <>`__
      - 　　
