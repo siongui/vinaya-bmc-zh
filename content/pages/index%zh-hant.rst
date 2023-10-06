@@ -1885,6 +1885,33 @@
           外道出家四月試之
           亦名：外道從僧乞四月共住羯磨、四月共住羯磨、乞四月共住羯磨、與外道同住法
 
+   * - `\　　Vuṭṭhāna-vidhī for Saṅghādisesa Offenses <https://www.dhammatalks.org/vinaya/bmc/Section0070.html>`__
+     - 　　僧殘罪出罪
+
+   * - `\　　　A. For one unconcealed offense <https://www.dhammatalks.org/vinaya/bmc/Section0070.html#sigil_toc_id_262>`__
+     - 　　　A. 對不覆藏罪者
+
+   * - `\　　　B. For one concealed offense <https://www.dhammatalks.org/vinaya/bmc/Section0070.html#sigil_toc_id_263>`__
+     - 　　　B. 對覆藏罪者
+
+   * - `\　　　C. Aggha-samodhāna-parivāsa (Combined Probation) <https://www.dhammatalks.org/vinaya/bmc/Section0070.html#sigil_toc_id_264>`__
+     - 　　　C. Aggha-samodhāna-parivāsa (合一別住)
+
+   * - `\　　　D. Missaka-samodhāna-parivāsa (Mixed Combination for Offenses of Different Bases) <https://www.dhammatalks.org/vinaya/bmc/Section0070.html#sigil_toc_id_265>`__
+     - 　　　D. Missaka-samodhāna-parivāsa (不同種類罪混合合一別住)
+
+   * - `\　　　E. Odhāna-samodhāna (Nullifying Combination) ( = Mūlāya paṭikassanā—Sending Back to the Beginning) <https://www.dhammatalks.org/vinaya/bmc/Section0070.html#sigil_toc_id_266>`__
+     - 　　　E. Odhāna-samodhāna (廢止合一) ( = Mūlāya paṭikassanā—本日治,送回根本)
+
+   * - `\　　　F. Suddhanta-parivāsa (Purifying Probation) <https://www.dhammatalks.org/vinaya/bmc/Section0070.html#sigil_toc_id_267>`__
+     - 　　　F. Suddhanta-parivāsa (清淨別住)
+
+   * - `\　　Disciplinary Transactions <https://www.dhammatalks.org/vinaya/bmc/Section0071.html>`__
+     - 　　治罪羯磨
+
+   * - `\　　　A. Censure <https://www.dhammatalks.org/vinaya/bmc/Section0071.html#sigil_toc_id_268>`__
+     - 　　　A. 呵責(苦切)
+
 ..
    * - `\　　 <>`__
      - 　　

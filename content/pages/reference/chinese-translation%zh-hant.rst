@@ -613,6 +613,8 @@
 
     .. 此那那由比丘心亂狂癡，或憶說戒，或不憶說戒，或來或不來。若僧時到，僧忍聽。與此比丘作心亂狂癡羯磨，若憶若不憶，若來若不來，僧作羯磨說戒。白如是。』羯磨准作。」
 
+- `舉罪與出罪 ——構成清淨僧團的兩個必備條件—— | 仁俊法師電子文庫 <http://renjun.org/%E8%88%89%E7%BD%AA%E8%88%87%E5%87%BA%E7%BD%AA-%E6%A7%8B%E6%88%90%E6%B8%85%E6%B7%A8%E5%83%A7%E5%9C%98%E7%9A%84%E5%85%A9%E5%80%8B%E5%BF%85%E5%82%99%E6%A2%9D%E4%BB%B6.html>`_
+
 
 線上閱藏
 ++++++++
@@ -654,6 +656,15 @@
   * `[PDF] 巴利律比丘戒譯注 by 李鳳媚 - 靜慮林 <https://www.shineling.org/wp-content/uploads/2021/01/Vinaya.pdf>`_
   * `巴利文《律藏》比丘戒律研究 - Google Search <https://www.google.com/search?q=%E5%B7%B4%E5%88%A9%E6%96%87%E3%80%8A%E5%BE%8B%E8%97%8F%E3%80%8B%E6%AF%94%E4%B8%98%E6%88%92%E5%BE%8B%E7%A0%94%E7%A9%B6>`_
   * `法雨道場--閱讀三藏 <https://dhammarain.github.io/canon/canon1.html>`_
+
+- `戒律綱要 The Entrance to the Vinaya - Google Search <https://www.google.com/search?q=%E6%88%92%E5%BE%8B%E7%B6%B1%E8%A6%81+The+Entrance+to+the+Vinaya>`_
+
+  * `[PDF] 戒律綱要(The Entrance to the Vinaya); Vinayamukha (Ⅱ、Ⅲ)省略版，泰僧皇 公拍耶跋折羅禪那婆羅娑親王 禦輯; 黃謹良 敬摭譯 <https://dhammarain.github.io/canon/vinaya/Vinayamukha_II_III-cei_ri_kan_yiau_2-3.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/Vinayamukha_II_III-cei_ri_kan_yiau_2-3.pdf>`__)
+  * `[PDF] 题名“戒律綱要”庶幾名體切合 (南传戒学汇编) <https://www.dhammatalks.net/Chinese/Sila_precepts.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/Sila_precepts.pdf>`__)
+  * `泰國大藏經律藏　戒律綱要 - 普陀文集部落格 - udn部落格 <https://blog.udn.com/mobile/ptt1/7684611>`_
+  * `泰國大藏經律藏·戒律綱要 | 巴利相應長部律藏向群多語比較研修 <https://sieii.wordpress.com/2011/07/24/%E6%B3%B0%E5%9C%8B%E5%A4%A7%E8%97%8F%E7%B6%93%E5%BE%8B%E8%97%8F%C2%B7%E6%88%92%E5%BE%8B%E7%B6%B1%E8%A6%81/>`_
 
 - `僧團「羯磨」的的涵義與種類 覓寂比丘 編譯 <https://m.facebook.com/media/set/?set=a.906576973101592&type=3>`_
 
