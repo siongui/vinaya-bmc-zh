@@ -1912,6 +1912,18 @@
    * - `\　　　A. Censure <https://www.dhammatalks.org/vinaya/bmc/Section0071.html#sigil_toc_id_268>`__
      - 　　　A. 呵責(苦切)
 
+   * - `\　　　B. Further punishment <https://www.dhammatalks.org/vinaya/bmc/Section0071.html#sigil_toc_id_269>`__
+     - 　　　B. 罪處所(覓罪相)
+
+   * - `\　　　C. Demotion <https://www.dhammatalks.org/vinaya/bmc/Section0071.html#sigil_toc_id_270>`__
+     - 　　　C. 依止
+
+   * - `\　　　D. Banishment <https://www.dhammatalks.org/vinaya/bmc/Section0071.html#sigil_toc_id_271>`__
+     - 　　　D. 驅出
+
+   * - `\　　　E. Reconciliation <https://www.dhammatalks.org/vinaya/bmc/Section0071.html#sigil_toc_id_272>`__
+     - 　　　E. 下意
+
 ..
    * - `\　　 <>`__
      - 　　
