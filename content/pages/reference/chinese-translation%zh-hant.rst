@@ -635,6 +635,17 @@
 
     .. 律蔵の羯磨には、人数の点からいって、四比丘でなしう. る羯磨、五比丘でなす羯磨、十比丘でなす羯磨 ... 下意羯磨 (patisāraniya). 拳罪羯磨 (ukkhepaniya). 罪を見ざる ...
 
+- `[PDF] (summary) パーリ律文献における懲罰的羯磨の研究 氏名 青 野 道 彦 <https://repository.dl.itc.u-tokyo.ac.jp/record/7947/files/A31188_summary.pdf>`_
+  (`PDF mirror <{static}/extra/pdf-mirror/A31188_summary.pdf>`__)
+- `遮不至白衣家/下意 - Google Search <https://www.google.com/search?q=%E9%81%AE%E4%B8%8D%E8%87%B3%E7%99%BD%E8%A1%A3%E5%AE%B6%2F%E4%B8%8B%E6%84%8F>`_
+
+  * `[PDF] T2795 四部律并論要用抄 - 佛學數位圖書館 <http://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra24/T85n2795.pdf>`_
+
+- `懲戒 羯磨 - Google Search <https://www.google.com/search?q=%E6%87%B2%E6%88%92+%E7%BE%AF%E7%A3%A8>`_
+
+  * `[PDF] 原始佛教僧伽の統治法が、律藏中に規定されて居る様 佐藤密雄 <https://archives.bukkyo-u.ac.jp/rp-contents/BN/0021/BN00210R054.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/BN00210R054.pdf>`__)
+
 - `本日治 samodhāna - Google Search <https://www.google.com/search?q=%E6%9C%AC%E6%97%A5%E6%B2%BB+samodh%C4%81na>`_
 - `"清淨邊別住" - Google Search <https://www.google.com/search?q=%22%E6%B8%85%E6%B7%A8%E9%82%8A%E5%88%A5%E4%BD%8F%22>`_
 
@@ -649,9 +660,15 @@
   * `[PDF] Kavkhavitarani nama Matikatthakatha 《疑惑度脫》名為 本母註釋書 （覓寂比丘）譯 <http://www.agamarama.com/Ch_Tipitaka(s)_htm/V/jiebenzhu.pdf>`_
     (`PDF mirror <{static}/extra/pdf-mirror/jiebenzhu.pdf>`__)
 
+- `白话《四分律》第四分 杂揵度之三 <https://www.quanxue.cn/ct_fojia/sifenl/sifenl87.html>`_
+
 
 線上閱藏
 ++++++++
+
+- `CBETA 漢文大藏經 (mobile) <https://tripitaka.cbeta.org/mobile/index.php>`_
+
+  * `大藏經補編　第19冊 - No.103 禪林象器箋 (30卷) - 【無著道忠著】 - 第 15 卷 <https://tripitaka.cbeta.org/mobile/index.php?index=B19n0103_015>`_
 
 - `NTI Reader - Nan Tien 南天 Institute (NTI) Buddhist Text Reader <https://ntireader.org/>`_
 
@@ -741,6 +758,8 @@
 
 - `清淨之道  瑪欣德尊者 1/2 - Lotus Amita - udn部落格 <https://blog.udn.com/mobile/milene/158092625>`_
 - `清淨之道  瑪欣德尊者 2/2 - Lotus Amita - udn部落格 <https://blog.udn.com/mobile/milene/158094493>`_
+- `[PDF] 依止 (Nissaya) Ṭhānissaro Bhikkhu <https://dhammarain.github.io/books/nissaya.pdf>`_
+  (`PDF mirror <{static}/extra/pdf-mirror/nissaya.pdf>`__)
 
 
 爭議
