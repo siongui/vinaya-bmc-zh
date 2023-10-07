@@ -616,6 +616,39 @@
 - `舉罪與出罪 ——構成清淨僧團的兩個必備條件—— | 仁俊法師電子文庫 <http://renjun.org/%E8%88%89%E7%BD%AA%E8%88%87%E5%87%BA%E7%BD%AA-%E6%A7%8B%E6%88%90%E6%B8%85%E6%B7%A8%E5%83%A7%E5%9C%98%E7%9A%84%E5%85%A9%E5%80%8B%E5%BF%85%E5%82%99%E6%A2%9D%E4%BB%B6.html>`_
 - `下意羯磨 - Google Search <https://www.google.com/search?q=%E4%B8%8B%E6%84%8F%E7%BE%AF%E7%A3%A8>`_
 
+  * `AN.2.202-230 - 莊春江工作站 <https://agama.buddhason.org/AN/AN0421.htm>`_
+
+    ..
+       增支部2集202-230經(莊春江譯)
+
+       「比丘們！緣於二個理由，波羅提木叉被如來為弟子們安立……（中略）波羅提木叉誦說被安立……波羅提木叉擱置被安立……自恣被安立……自恣擱置被安立……苦切羯磨被安立……依止羯磨被安立……驅擯羯磨被安立……下意羯磨被安立……舉罪羯磨被安立……給與別住被安立……本日治被安立……給與摩那埵被安立……出罪被安立……復權被安立……驅擯被安立……具足戒被安立……白羯磨被安立……白二羯磨被安立……白四羯磨被安立……在未安立的上被安立……在已安立的上者被隨安立(補制)……安立面前毘尼被安立……憶念毘尼被安立……不癡毘尼被安立……承認作的事(自言治)被安立……多數決被安立……覓罪相被安立……草覆蓋被安立，哪二個？為了僧團的良善狀態、為了僧團的安樂狀態……為了難羞愧人們的折伏、為了美善比丘們的樂住……為了當生諸漏的自制、為了來世諸漏的防衛……為了當生諸敵意的自制、為了來世諸敵意的防衛……為了當生諸敵意的自制、為了來世諸罪過的防衛……為了當生諸害怕的自制、為了來世諸害怕的防衛……為了當生諸不善法的自制、為了來世諸不善法的防衛……為了對在家人的憐愍、為了對惡欲求比丘們黨翼的斷絕……為了無淨信者們的淨信、為了有淨信者們的增大……為了正法的存續、為了律的資助，比丘們！緣於這二個理由，如來為弟子安立草覆蓋。」
+
+       毘尼中略[品]終了。
+
+  * `[PDF] 懲罰羯磨制定年の推定 　森　章司 <http://www.sakya-muni.jp/pdf/mono21_ke11.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/mono21_ke11.pdf>`__)
+
+    .. 下意羯磨（paTisAraNiya-kamma）：信心あり、浄心ある在家者に礼を失する行為をなし. た者に、サンガの命によってその在家者に対して悔過させる。 不見罪挙羯磨（ApattiyA ...
+
+  * `[PDF] 律蔵とカルマン by 平川彰 · 1974 <https://otani.repo.nii.ac.jp/record/7619/files/BGS_020-04.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/BGS_020-04.pdf>`__)
+
+    .. 律蔵の羯磨には、人数の点からいって、四比丘でなしう. る羯磨、五比丘でなす羯磨、十比丘でなす羯磨 ... 下意羯磨 (patisāraniya). 拳罪羯磨 (ukkhepaniya). 罪を見ざる ...
+
+- `本日治 samodhāna - Google Search <https://www.google.com/search?q=%E6%9C%AC%E6%97%A5%E6%B2%BB+samodh%C4%81na>`_
+- `"清淨邊別住" - Google Search <https://www.google.com/search?q=%22%E6%B8%85%E6%B7%A8%E9%82%8A%E5%88%A5%E4%BD%8F%22>`_
+
+  * `[PDF] 伝統仏教の比丘戒律 本篇（上） 片山一良 <http://repo.komazawa-u.ac.jp/opac/repository/all/14048/KJ00005114310.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/KJ00005114310.pdf>`__)
+
+    ..
+       り治す「本日治」 (mūlāya patikassati) の罰が与えられる。 「復帰」 (abbhāna)とは,. すべてを終えて許される出罪のことであり,そのための儀式には20人の僧団が求め ...
+
+- `付加 "合一別住" - Google Search <https://www.google.com/search?q=%E4%BB%98%E5%8A%A0+%22%E5%90%88%E4%B8%80%E5%88%A5%E4%BD%8F%22>`_
+
+  * `[PDF] Kavkhavitarani nama Matikatthakatha 《疑惑度脫》名為 本母註釋書 （覓寂比丘）譯 <http://www.agamarama.com/Ch_Tipitaka(s)_htm/V/jiebenzhu.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/jiebenzhu.pdf>`__)
+
 
 線上閱藏
 ++++++++

@@ -1857,6 +1857,7 @@
 
    * - `\　　　D. Admonition <https://www.dhammatalks.org/vinaya/bmc/Section0069.html#sigil_toc_id_260>`__
      - 　　　D. 敎誡
+       :hidden:`諫曉`
 
        ..
           http://www.dhammarain.org.tw/canon/vinaya/Vinayamukha_II_III-cei_ri_kan_yiau_2-3.html#%E6%95%8E%E8%AA%A1%E6%96%87
@@ -1895,16 +1896,16 @@
      - 　　　B. 對覆藏罪者
 
    * - `\　　　C. Aggha-samodhāna-parivāsa (Combined Probation) <https://www.dhammatalks.org/vinaya/bmc/Section0070.html#sigil_toc_id_264>`__
-     - 　　　C. Aggha-samodhāna-parivāsa (合一別住)
+     - 　　　C. Aggha-samodhāna-parivāsa (等日合一別住)
 
    * - `\　　　D. Missaka-samodhāna-parivāsa (Mixed Combination for Offenses of Different Bases) <https://www.dhammatalks.org/vinaya/bmc/Section0070.html#sigil_toc_id_265>`__
-     - 　　　D. Missaka-samodhāna-parivāsa (不同種類罪混合合一別住)
+     - 　　　D. Missaka-samodhāna-parivāsa (複合合一別住)
 
    * - `\　　　E. Odhāna-samodhāna (Nullifying Combination) ( = Mūlāya paṭikassanā—Sending Back to the Beginning) <https://www.dhammatalks.org/vinaya/bmc/Section0070.html#sigil_toc_id_266>`__
-     - 　　　E. Odhāna-samodhāna (廢止合一) ( = Mūlāya paṭikassanā—本日治,送回根本)
+     - 　　　E. Odhāna-samodhāna (除去合一) ( = Mūlāya paṭikassanā—本日治)
 
    * - `\　　　F. Suddhanta-parivāsa (Purifying Probation) <https://www.dhammatalks.org/vinaya/bmc/Section0070.html#sigil_toc_id_267>`__
-     - 　　　F. Suddhanta-parivāsa (清淨別住)
+     - 　　　F. Suddhanta-parivāsa (清淨邊別住)
 
    * - `\　　Disciplinary Transactions <https://www.dhammatalks.org/vinaya/bmc/Section0071.html>`__
      - 　　治罪羯磨
@@ -1922,7 +1923,7 @@
      - 　　　D. 驅出
 
    * - `\　　　E. Reconciliation <https://www.dhammatalks.org/vinaya/bmc/Section0071.html#sigil_toc_id_272>`__
-     - 　　　E. 下意
+     - 　　　E. 下意(遮不至白衣家)
 
 ..
    * - `\　　 <>`__
