@@ -1925,6 +1925,51 @@
    * - `\　　　E. Reconciliation <https://www.dhammatalks.org/vinaya/bmc/Section0071.html#sigil_toc_id_272>`__
      - 　　　E. 下意(遮不至白衣家)
 
+   * - `\　　　F. Suspension for not seeing an offense <https://www.dhammatalks.org/vinaya/bmc/Section0071.html#sigil_toc_id_273>`__
+     - 　　　F. 不見罪舉
+
+   * - `\　　　G. Suspension for not making amends for an offense <https://www.dhammatalks.org/vinaya/bmc/Section0071.html#sigil_toc_id_274>`__
+     - 　　　G. 不懺悔罪舉
+
+   * - `\　　　H. Suspension for not relinquishing an evil view <https://www.dhammatalks.org/vinaya/bmc/Section0071.html#sigil_toc_id_275>`__
+     - 　　　H. 不捨惡見舉
+
+   * - `\　　　I. Rescinding disciplinary acts <https://www.dhammatalks.org/vinaya/bmc/Section0071.html#sigil_toc_id_276>`__
+     - 　　　I. 解罪處分
+
+   * - `\　　　J. Overturning the bowl <https://www.dhammatalks.org/vinaya/bmc/Section0071.html#sigil_toc_id_277>`__
+     - 　　　J. 覆缽
+
+       ..
+          [0411b05] 十種不現前羯 磨者：覆鉢羯磨、仰鉢羯磨、作學家羯磨、捨 學家羯磨、治僧伽藍羯磨、監僧伽藍民羯
+          磨、使沙彌羯磨、不禮拜羯磨、不共語羯 磨、不供養羯磨，是名十不現前羯磨。
+
+          十誦律
+
+   * - `\　　Technical Terms <https://www.dhammatalks.org/vinaya/bmc/Section0072.html>`__
+     - 　　技術術語
+
+   * - `\　　　A. Sampatti: The Validity of Community Transactions <https://www.dhammatalks.org/vinaya/bmc/Section0072.html#sigil_toc_id_278>`__
+     - 　　　A. Sampatti: 僧伽羯磨成就
+
+   * - `\　　　B. Saṁvāsa: Separate & Common Affiliation <https://www.dhammatalks.org/vinaya/bmc/Section0072.html#sigil_toc_id_279>`__
+     - 　　　B. Saṁvāsa: 共住
+
+   * - `\　　　C. Saṅghassa kaṭhinaṁ: The Community’s Kaṭhina <https://www.dhammatalks.org/vinaya/bmc/Section0072.html#sigil_toc_id_280>`__
+     - 　　　C. Saṅghassa kaṭhinaṁ: 僧團功德衣
+
+   * - `\　　　D. Anāmāsa <https://www.dhammatalks.org/vinaya/bmc/Section0072.html#sigil_toc_id_281>`__
+     - 　　　D. Anāmāsa
+
+   * - `\　　　E. Agocara: Improper Range <https://www.dhammatalks.org/vinaya/bmc/Section0072.html#sigil_toc_id_282>`__
+     - 　　　E. Agocara: 非行處(不行境)
+
+   * - `\　Glossary <https://www.dhammatalks.org/vinaya/bmc/Section0073.html>`__
+     - 　詞彙表
+
+   * - `\　Select Bibliography <https://www.dhammatalks.org/vinaya/bmc/Section0074.html>`__
+     - 　選擇參考書目
+
 ..
    * - `\　　 <>`__
      - 　　
