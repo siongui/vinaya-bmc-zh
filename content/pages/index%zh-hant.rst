@@ -1970,29 +1970,6 @@
    * - `\　Select Bibliography <https://www.dhammatalks.org/vinaya/bmc/Section0074.html>`__
      - 　選擇參考書目
 
-..
-   * - `\　　 <>`__
-     - 　　
-
-   * - `\　　　 <>`__
-     - 　　　
-
-   * - `\　　　Discussions <>`__
-     - 　　　討論
-
-   * - `\　　　　 <>`__
-     - 　　　　
-
-   * - `\　　　Rules <>`__
-     - 　　　戒條
-
-   * - 
-     - 
-
-.. 全形空格（　）
-
-（未完待續）
-
 ----
 
 `漢譯參考 <{filename}reference/chinese-translation%zh-hant.rst>`_
