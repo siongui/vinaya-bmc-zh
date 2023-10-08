@@ -547,17 +547,6 @@
 
           犯僧殘者於僧眾面前呵責犯過比丘，並宣告剝奪其三十五事之權利，如奪其供給、證正他事之權利等。五事共有七項，故合成三十五事，稱奪三十五事。此三十五事中。初十奪其師德，次十奪其隨意所行，次十事奪其供事，後餘五不聽于知他事。應順行此法，若違犯一事，罪則不滅，不得與出罪羯磨。
 
-- `tajjanīya-kamma 羯磨 - Google Search <https://www.google.com/search?q=tajjan%C4%ABya-kamma+%E7%BE%AF%E7%A3%A8>`_
-- `[PDF] 生善羯磨與治罪羯磨 - 佛學數位圖書館 <https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag576928.pdf>`_
-
-  ..
-     佛教的羯磨法依性質，可以分為「生善羯磨」與「治罪羯磨」，或「生
-     善羯磨」與「滅惡羯磨」，這是從兩個面向來促進僧眾的和合。律典裡提到：
-     「有二種羯磨，一治罪羯磨，二成善羯磨。治罪羯磨者：謂苦切羯磨、依止羯
-     磨、驅出羯磨、下意羯磨、擯羯磨，如是等苦惱羯磨，是名治罪羯磨。成善羯
-     磨者：謂受戒羯磨、布薩羯磨、自恣羯磨、出罪羯磨、布草羯磨，如是等能成
-     善法羯磨，是名成善羯磨。」
-
 - `四分律 亡僧 遺物 - Google Search <https://www.google.com/search?q=%E5%9B%9B%E5%88%86%E5%BE%8B+%E4%BA%A1%E5%83%A7+%E9%81%BA%E7%89%A9>`_
 
   * `僧物 - 佛光大辭典 (慈怡法師主編) <http://buddhaspace.org/dict/fk/data/%25E5%2583%25A7%25E7%2589%25A9.html>`_
@@ -597,69 +586,7 @@
   * `老實修行，以戒為師: 戒律研修 <https://dharma-yinlung.blogspot.com/2023/01/blog-post_31.html>`_
   * `悟因法師 談戒說律（一） - 釋悟因 - Google Books <https://books.google.com/books?id=LaxTDwAAQBAJ&pg=PP1&lpg=PP1&dq=%E6%82%9F%E5%9B%A0%E6%B3%95%E5%B8%AB%E8%AB%87%E6%88%92%E8%AA%AA%E5%BE%8B>`_
 
-- `羯磨 庫藏 - Google Search <https://www.google.com/search?q=%E7%BE%AF%E7%A3%A8+%E5%BA%AB%E8%97%8F>`_
-
-  * `羯磨 - 維基文庫，自由的圖書館 <https://zh.m.wikisource.org/zh-hant/%E7%BE%AF%E7%A3%A8>`_
-
-    ..
-       羯磨一卷(出曇無德律)
-       曹魏安息沙門曇諦譯
-       差守庫藏物人羯磨文
-       持亡者衣鉢與看病人羯磨文
-
-- `狂癡 羯磨 - Google Search <https://www.google.com/search?q=%E7%8B%82%E7%99%A1+%E7%BE%AF%E7%A3%A8>`_
-
-  * `T1809 僧羯磨 - 佛學數位圖書館 <http://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra17/T40n1809.pdf>`_
-
-    .. 此那那由比丘心亂狂癡，或憶說戒，或不憶說戒，或來或不來。若僧時到，僧忍聽。與此比丘作心亂狂癡羯磨，若憶若不憶，若來若不來，僧作羯磨說戒。白如是。』羯磨准作。」
-
 - `舉罪與出罪 ——構成清淨僧團的兩個必備條件—— | 仁俊法師電子文庫 <http://renjun.org/%E8%88%89%E7%BD%AA%E8%88%87%E5%87%BA%E7%BD%AA-%E6%A7%8B%E6%88%90%E6%B8%85%E6%B7%A8%E5%83%A7%E5%9C%98%E7%9A%84%E5%85%A9%E5%80%8B%E5%BF%85%E5%82%99%E6%A2%9D%E4%BB%B6.html>`_
-- `下意羯磨 - Google Search <https://www.google.com/search?q=%E4%B8%8B%E6%84%8F%E7%BE%AF%E7%A3%A8>`_
-
-  * `AN.2.202-230 - 莊春江工作站 <https://agama.buddhason.org/AN/AN0421.htm>`_
-
-    ..
-       增支部2集202-230經(莊春江譯)
-
-       「比丘們！緣於二個理由，波羅提木叉被如來為弟子們安立……（中略）波羅提木叉誦說被安立……波羅提木叉擱置被安立……自恣被安立……自恣擱置被安立……苦切羯磨被安立……依止羯磨被安立……驅擯羯磨被安立……下意羯磨被安立……舉罪羯磨被安立……給與別住被安立……本日治被安立……給與摩那埵被安立……出罪被安立……復權被安立……驅擯被安立……具足戒被安立……白羯磨被安立……白二羯磨被安立……白四羯磨被安立……在未安立的上被安立……在已安立的上者被隨安立(補制)……安立面前毘尼被安立……憶念毘尼被安立……不癡毘尼被安立……承認作的事(自言治)被安立……多數決被安立……覓罪相被安立……草覆蓋被安立，哪二個？為了僧團的良善狀態、為了僧團的安樂狀態……為了難羞愧人們的折伏、為了美善比丘們的樂住……為了當生諸漏的自制、為了來世諸漏的防衛……為了當生諸敵意的自制、為了來世諸敵意的防衛……為了當生諸敵意的自制、為了來世諸罪過的防衛……為了當生諸害怕的自制、為了來世諸害怕的防衛……為了當生諸不善法的自制、為了來世諸不善法的防衛……為了對在家人的憐愍、為了對惡欲求比丘們黨翼的斷絕……為了無淨信者們的淨信、為了有淨信者們的增大……為了正法的存續、為了律的資助，比丘們！緣於這二個理由，如來為弟子安立草覆蓋。」
-
-       毘尼中略[品]終了。
-
-  * `[PDF] 懲罰羯磨制定年の推定 　森　章司 <http://www.sakya-muni.jp/pdf/mono21_ke11.pdf>`_
-    (`PDF mirror <{static}/extra/pdf-mirror/mono21_ke11.pdf>`__)
-
-    .. 下意羯磨（paTisAraNiya-kamma）：信心あり、浄心ある在家者に礼を失する行為をなし. た者に、サンガの命によってその在家者に対して悔過させる。 不見罪挙羯磨（ApattiyA ...
-
-  * `[PDF] 律蔵とカルマン by 平川彰 · 1974 <https://otani.repo.nii.ac.jp/record/7619/files/BGS_020-04.pdf>`_
-    (`PDF mirror <{static}/extra/pdf-mirror/BGS_020-04.pdf>`__)
-
-    .. 律蔵の羯磨には、人数の点からいって、四比丘でなしう. る羯磨、五比丘でなす羯磨、十比丘でなす羯磨 ... 下意羯磨 (patisāraniya). 拳罪羯磨 (ukkhepaniya). 罪を見ざる ...
-
-- `[PDF] (summary) パーリ律文献における懲罰的羯磨の研究 氏名 青 野 道 彦 <https://repository.dl.itc.u-tokyo.ac.jp/record/7947/files/A31188_summary.pdf>`_
-  (`PDF mirror <{static}/extra/pdf-mirror/A31188_summary.pdf>`__)
-- `遮不至白衣家/下意 - Google Search <https://www.google.com/search?q=%E9%81%AE%E4%B8%8D%E8%87%B3%E7%99%BD%E8%A1%A3%E5%AE%B6%2F%E4%B8%8B%E6%84%8F>`_
-
-  * `[PDF] T2795 四部律并論要用抄 - 佛學數位圖書館 <http://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra24/T85n2795.pdf>`_
-
-- `懲戒 羯磨 - Google Search <https://www.google.com/search?q=%E6%87%B2%E6%88%92+%E7%BE%AF%E7%A3%A8>`_
-
-  * `[PDF] 原始佛教僧伽の統治法が、律藏中に規定されて居る様 佐藤密雄 <https://archives.bukkyo-u.ac.jp/rp-contents/BN/0021/BN00210R054.pdf>`_
-    (`PDF mirror <{static}/extra/pdf-mirror/BN00210R054.pdf>`__)
-
-- `本日治 samodhāna - Google Search <https://www.google.com/search?q=%E6%9C%AC%E6%97%A5%E6%B2%BB+samodh%C4%81na>`_
-- `"清淨邊別住" - Google Search <https://www.google.com/search?q=%22%E6%B8%85%E6%B7%A8%E9%82%8A%E5%88%A5%E4%BD%8F%22>`_
-
-  * `[PDF] 伝統仏教の比丘戒律 本篇（上） 片山一良 <http://repo.komazawa-u.ac.jp/opac/repository/all/14048/KJ00005114310.pdf>`_
-    (`PDF mirror <{static}/extra/pdf-mirror/KJ00005114310.pdf>`__)
-
-    ..
-       り治す「本日治」 (mūlāya patikassati) の罰が与えられる。 「復帰」 (abbhāna)とは,. すべてを終えて許される出罪のことであり,そのための儀式には20人の僧団が求め ...
-
-- `付加 "合一別住" - Google Search <https://www.google.com/search?q=%E4%BB%98%E5%8A%A0+%22%E5%90%88%E4%B8%80%E5%88%A5%E4%BD%8F%22>`_
-
-  * `[PDF] Kavkhavitarani nama Matikatthakatha 《疑惑度脫》名為 本母註釋書 （覓寂比丘）譯 <http://www.agamarama.com/Ch_Tipitaka(s)_htm/V/jiebenzhu.pdf>`_
-    (`PDF mirror <{static}/extra/pdf-mirror/jiebenzhu.pdf>`__)
-
 - `白话《四分律》第四分 杂揵度之三 <https://www.quanxue.cn/ct_fojia/sifenl/sifenl87.html>`_
 
 
@@ -814,6 +741,83 @@
 - `清淨之道  瑪欣德尊者 2/2 - Lotus Amita - udn部落格 <https://blog.udn.com/mobile/milene/158094493>`_
 - `[PDF] 依止 (Nissaya) Ṭhānissaro Bhikkhu <https://dhammarain.github.io/books/nissaya.pdf>`_
   (`PDF mirror <{static}/extra/pdf-mirror/nissaya.pdf>`__)
+
+
+羯磨
+++++
+
+- `tajjanīya-kamma 羯磨 - Google Search <https://www.google.com/search?q=tajjan%C4%ABya-kamma+%E7%BE%AF%E7%A3%A8>`_
+- `[PDF] 生善羯磨與治罪羯磨 - 佛學數位圖書館 <https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag576928.pdf>`_
+
+  ..
+     佛教的羯磨法依性質，可以分為「生善羯磨」與「治罪羯磨」，或「生
+     善羯磨」與「滅惡羯磨」，這是從兩個面向來促進僧眾的和合。律典裡提到：
+     「有二種羯磨，一治罪羯磨，二成善羯磨。治罪羯磨者：謂苦切羯磨、依止羯
+     磨、驅出羯磨、下意羯磨、擯羯磨，如是等苦惱羯磨，是名治罪羯磨。成善羯
+     磨者：謂受戒羯磨、布薩羯磨、自恣羯磨、出罪羯磨、布草羯磨，如是等能成
+     善法羯磨，是名成善羯磨。」
+
+- `羯磨 庫藏 - Google Search <https://www.google.com/search?q=%E7%BE%AF%E7%A3%A8+%E5%BA%AB%E8%97%8F>`_
+
+  * `羯磨 - 維基文庫，自由的圖書館 <https://zh.m.wikisource.org/zh-hant/%E7%BE%AF%E7%A3%A8>`_
+
+    ..
+       羯磨一卷(出曇無德律)
+       曹魏安息沙門曇諦譯
+       差守庫藏物人羯磨文
+       持亡者衣鉢與看病人羯磨文
+
+- `狂癡 羯磨 - Google Search <https://www.google.com/search?q=%E7%8B%82%E7%99%A1+%E7%BE%AF%E7%A3%A8>`_
+
+  * `T1809 僧羯磨 - 佛學數位圖書館 <http://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra17/T40n1809.pdf>`_
+
+    .. 此那那由比丘心亂狂癡，或憶說戒，或不憶說戒，或來或不來。若僧時到，僧忍聽。與此比丘作心亂狂癡羯磨，若憶若不憶，若來若不來，僧作羯磨說戒。白如是。』羯磨准作。」
+
+- `下意羯磨 - Google Search <https://www.google.com/search?q=%E4%B8%8B%E6%84%8F%E7%BE%AF%E7%A3%A8>`_
+
+  * `AN.2.202-230 - 莊春江工作站 <https://agama.buddhason.org/AN/AN0421.htm>`_
+
+    ..
+       增支部2集202-230經(莊春江譯)
+
+       「比丘們！緣於二個理由，波羅提木叉被如來為弟子們安立……（中略）波羅提木叉誦說被安立……波羅提木叉擱置被安立……自恣被安立……自恣擱置被安立……苦切羯磨被安立……依止羯磨被安立……驅擯羯磨被安立……下意羯磨被安立……舉罪羯磨被安立……給與別住被安立……本日治被安立……給與摩那埵被安立……出罪被安立……復權被安立……驅擯被安立……具足戒被安立……白羯磨被安立……白二羯磨被安立……白四羯磨被安立……在未安立的上被安立……在已安立的上者被隨安立(補制)……安立面前毘尼被安立……憶念毘尼被安立……不癡毘尼被安立……承認作的事(自言治)被安立……多數決被安立……覓罪相被安立……草覆蓋被安立，哪二個？為了僧團的良善狀態、為了僧團的安樂狀態……為了難羞愧人們的折伏、為了美善比丘們的樂住……為了當生諸漏的自制、為了來世諸漏的防衛……為了當生諸敵意的自制、為了來世諸敵意的防衛……為了當生諸敵意的自制、為了來世諸罪過的防衛……為了當生諸害怕的自制、為了來世諸害怕的防衛……為了當生諸不善法的自制、為了來世諸不善法的防衛……為了對在家人的憐愍、為了對惡欲求比丘們黨翼的斷絕……為了無淨信者們的淨信、為了有淨信者們的增大……為了正法的存續、為了律的資助，比丘們！緣於這二個理由，如來為弟子安立草覆蓋。」
+
+       毘尼中略[品]終了。
+
+  * `[PDF] 懲罰羯磨制定年の推定 　森　章司 <http://www.sakya-muni.jp/pdf/mono21_ke11.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/mono21_ke11.pdf>`__)
+
+    .. 下意羯磨（paTisAraNiya-kamma）：信心あり、浄心ある在家者に礼を失する行為をなし. た者に、サンガの命によってその在家者に対して悔過させる。 不見罪挙羯磨（ApattiyA ...
+
+  * `[PDF] 律蔵とカルマン by 平川彰 · 1974 <https://otani.repo.nii.ac.jp/record/7619/files/BGS_020-04.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/BGS_020-04.pdf>`__)
+
+    .. 律蔵の羯磨には、人数の点からいって、四比丘でなしう. る羯磨、五比丘でなす羯磨、十比丘でなす羯磨 ... 下意羯磨 (patisāraniya). 拳罪羯磨 (ukkhepaniya). 罪を見ざる ...
+
+- `[PDF] (summary) パーリ律文献における懲罰的羯磨の研究 氏名 青 野 道 彦 <https://repository.dl.itc.u-tokyo.ac.jp/record/7947/files/A31188_summary.pdf>`_
+  (`PDF mirror <{static}/extra/pdf-mirror/A31188_summary.pdf>`__)
+- `遮不至白衣家/下意 - Google Search <https://www.google.com/search?q=%E9%81%AE%E4%B8%8D%E8%87%B3%E7%99%BD%E8%A1%A3%E5%AE%B6%2F%E4%B8%8B%E6%84%8F>`_
+
+  * `[PDF] T2795 四部律并論要用抄 - 佛學數位圖書館 <http://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra24/T85n2795.pdf>`_
+
+- `懲戒 羯磨 - Google Search <https://www.google.com/search?q=%E6%87%B2%E6%88%92+%E7%BE%AF%E7%A3%A8>`_
+
+  * `[PDF] 原始佛教僧伽の統治法が、律藏中に規定されて居る様 佐藤密雄 <https://archives.bukkyo-u.ac.jp/rp-contents/BN/0021/BN00210R054.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/BN00210R054.pdf>`__)
+
+- `本日治 samodhāna - Google Search <https://www.google.com/search?q=%E6%9C%AC%E6%97%A5%E6%B2%BB+samodh%C4%81na>`_
+- `"清淨邊別住" - Google Search <https://www.google.com/search?q=%22%E6%B8%85%E6%B7%A8%E9%82%8A%E5%88%A5%E4%BD%8F%22>`_
+
+  * `[PDF] 伝統仏教の比丘戒律 本篇（上） 片山一良 <http://repo.komazawa-u.ac.jp/opac/repository/all/14048/KJ00005114310.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/KJ00005114310.pdf>`__)
+
+    ..
+       り治す「本日治」 (mūlāya patikassati) の罰が与えられる。 「復帰」 (abbhāna)とは,. すべてを終えて許される出罪のことであり,そのための儀式には20人の僧団が求め ...
+
+- `付加 "合一別住" - Google Search <https://www.google.com/search?q=%E4%BB%98%E5%8A%A0+%22%E5%90%88%E4%B8%80%E5%88%A5%E4%BD%8F%22>`_
+
+  * `[PDF] Kavkhavitarani nama Matikatthakatha 《疑惑度脫》名為 本母註釋書 （覓寂比丘）譯 <http://www.agamarama.com/Ch_Tipitaka(s)_htm/V/jiebenzhu.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/jiebenzhu.pdf>`__)
 
 
 爭議
