@@ -248,7 +248,7 @@
 
 - `舉罪與出罪 ——構成清淨僧團的兩個必備條件—— | 仁俊法師電子文庫 <http://renjun.org/%E8%88%89%E7%BD%AA%E8%88%87%E5%87%BA%E7%BD%AA-%E6%A7%8B%E6%88%90%E6%B8%85%E6%B7%A8%E5%83%A7%E5%9C%98%E7%9A%84%E5%85%A9%E5%80%8B%E5%BF%85%E5%82%99%E6%A2%9D%E4%BB%B6.html>`_
 - `白话《四分律》第四分 杂揵度之三 <https://www.quanxue.cn/ct_fojia/sifenl/sifenl87.html>`_
-
+- `介紹佛經中的律部 | PDF <https://www.scribd.com/doc/30769453/%E4%BB%8B%E7%B4%B9%E4%BD%9B%E7%B6%93%E4%B8%AD%E7%9A%84%E5%BE%8B%E9%83%A8>`_
 
 
 巴利戒律
@@ -347,6 +347,8 @@
 - `南传上座部佛教典籍 - 上座部佛教专题 - 清净莲海佛学文库(非赢利，纯公益网站) <http://fotxt.jixiangyun.com/bencandy.php?fid-433-id-14050-page-1.htm>`_
 - `[PDF] 佛教比丘戒 - Vihara Buddha Gotama <https://vbgnet.org/Articles/The-Buddhist-Monks-Precepts%20-Chinese-2009.pdf>`_
   (`PDF mirror <{static}/extra/pdf-mirror/The-Buddhist-Monks-Precepts-Chinese-2009.pdf>`__)
+- [PDF] 疑惑度脫（Kaṅkhāvitaraṇī）名為 本母註釋書 - 覓寂比丘
+  (`PDF mirror <{static}/extra/pdf-mirror/overcoming-doubts-unfinished.pdf>`__)
 
 
 羯磨
