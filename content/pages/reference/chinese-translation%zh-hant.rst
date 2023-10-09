@@ -11,166 +11,12 @@
 
 ----
 
-
-- `法鼓全集 數位隨身版 <http://old.ddc.shengyen.org/mobile/>`_
-
-  * `戒律學綱要 <http://old.ddc.shengyen.org/mobile/toc/01/01-03/index.php>`_
-  * `律制生活 <http://old.ddc.shengyen.org/mobile/toc/05/05-05/index.php>`_
-
-    + `佛教的飲食規制 <http://old.ddc.shengyen.org/mobile/toc/05/05-05/d5.php>`_
-
 - `原始佛教聖典之集成 - 印順導師佛學著作集 <https://yinshun-edu.org.tw/zh-hant/Master_yinshun/y35>`_
 - `佛弟子文庫 <http://m.fodizi.tw/>`_
 - `見賢思齊（一名廣化律師弘法故事集） <https://book.bfnn.org/books2/1868.htm>`_
-- `《沙彌律儀要略集註》全集pdf 電子書《戒律學綱要》Wiki - 牟尼佛法流通網 <http://www.muni-buddha.com.tw/monk_wiki/religious_discipline_wiki.html>`_
 
-  ..
-          Google 沙彌律儀: https://www.google.com/search?q=%E6%B2%99%E5%BD%8C%E5%BE%8B%E5%84%80
 
-- `[PDF] 「七滅諍法」的程序正義與配套措施 釋昭慧 <https://www.hcu.edu.tw/Upload/TempFiles/76ee1d49d40f4230a19de0f39b03548a.pdf>`__
-- `內觀雜誌 - Google Search <https://www.google.com/search?q=%E5%85%A7%E8%A7%80%E9%9B%9C%E8%AA%8C>`__
 
-  * `[PDF] 四諍和滅諍 林崇安編 <http://www.ss.ncu.edu.tw/~calin/article2008/13_6.pdf>`__
-  * `[PDF] 內觀雜誌第 100 期【2013 年 12 月】 <https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-BJ010/bj010640859.pdf>`__
-
-    ..
-       【本期重點】佛教戒律專題研究：（1）八敬法的演變。（2）佛教戒律
-       專題研究資料：四諍和滅諍。（3）南傳比丘尼犍度摘要。（4）八敬法
-       資料。
-
-       佛告阿難：「比丘諍事，法非法律非律，罪非罪，輕罪重罪，可治罪. 不可治罪，法羯磨、非法羯磨，和合羯磨、不和合羯磨，應作、不應. 作羯磨。阿難！若有如是事起，應疾集僧 ...
-
-  * `[PDF] 內觀雜誌第 99 期【2013 年 11 月】 <https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-BJ010/bj010640854.pdf>`__
-
-    ..
-       【本期重點】：佛教戒律專題研究：（1）佛教律藏的集成和
-       演變，（2）戒經略探，（3）戒經中墮法條文的次第和部派的
-       演變。佛教戒律專題研究資料：（1）相言諍事與拘睒彌事件，
-       （2）阿難與越比尼罪。
-
-- `受戒、舍戒及其他 - 济群法师主页 <https://masterjiqun.com/index.php?app=@article&ac=show&id=2>`__
-- `漢傳「受戒法」之考察 釋惠敏 <https://www.chibs.edu.tw/ch_html/chbj/09/chbj0904.htm>`__
-
-  ..
-     提要
-
-     唐朝之後，漢傳之律學主要是以道宣律師（596～667）之「南山宗」為依據。本文首先對於「受比丘戒法」中之「一白三羯磨」(the Motion and the Three Annoucements；提案說一次，聲明三次），以「南山宗」對於「白」文之五句分析與「羯磨」文之二分、三段之解析為例，考察巴利語律藏原義後建議︰「南山宗」所分「白」文之第三、四句，應該合為「若僧時到，僧忍聽僧授某甲具足戒，某乙為和尚」一句來理解；而「羯磨」文也應該合「誰諸長老忍僧與某甲授具足戒，某乙為和尚者默然」為一句，及「僧已忍與某甲授具足戒竟，某乙為和尚」也如是。
-
-     其次，對漢傳各類「受菩薩戒法」作文獻考察後發現︰現行傳戒儀式之主要依據是見月律師（1602～79）所編《傳戒正範》，將《瑜伽菩薩戒品》之「三說請佛證明」作為「正授戒體法」的羯磨文；反之，將「三問能受戒否」之羯磨文判為與「納受戒體」無關之「明開導戒法」，這是與古傳「湛然本」等「受菩薩戒法」相違。
-
-     〔目次〕
-
-     一、受比丘戒法之「一白三羯磨」
-
-     1. 白文（the Motion；提案文）
-
-     2.羯磨文（the Annoucements；聲明文）
-
-- `白四羯磨 - Google Search <https://www.google.com/search?q=%E7%99%BD%E5%9B%9B%E7%BE%AF%E7%A3%A8>`__
-- `聖嚴法師數位典藏 戒律學綱要 259 <http://old.ddc.shengyen.org/mobile/text/01-03/259.php>`_
-- `原始佛教聖典之集成－第三項主體部分的論究 <https://yinshun-edu.org.tw/zh-hant/Master_yinshun/y35_05_04_03>`__
-- `中國(佛教) - 維基百科，自由的百科全書 <https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9C%8B_(%E4%BD%9B%E6%95%99)>`__
-- `永光集－第五節佛教的中國與邊地 <https://yinshun-edu.org.tw/zh-hant/book/export/html/3704>`__
-
-  ..
-          Google 羯磨 種類: https://www.google.com/search?q=%E7%BE%AF%E7%A3%A8+%E7%A8%AE%E9%A1%9E
-
-          生善羯磨與治罪羯磨
-          一白三羯磨
-
-          戒律學綱要 300: http://old.ddc.shengyen.org/mobile/text/01-03/300.php
-          所謂羯磨法的規定，便是用來判斷羯磨法的是否合乎要求。這個規定，是要具備四個條件，羯磨才能成立。這四個條件是：
-
-       ..
-          Google "界場" 羯磨: https://www.google.com/search?q=%22%E7%95%8C%E5%A0%B4%22+%E7%BE%AF%E7%A3%A8
-
-          《清净道论》－羯磨与结界法
-          https://www.facebook.com/notes/%E4%B8%8A%E5%BA%A7%E9%83%A8%E5%8E%9F%E5%A7%8B%E4%BD%9B%E6%95%99%E4%BA%A4%E6%B5%81%E5%8C%BA/%E6%B8%85%E5%87%80%E9%81%93%E8%AE%BA%E7%BE%AF%E7%A3%A8%E4%B8%8E%E7%BB%93%E7%95%8C%E6%B3%95/183762755024517/
-          在舉行羯磨的時候，如果是僧羯磨（比庫做羯磨 ... 平時界場裡面用電有個很方便的拔的東西，而且你會發現到上座部佛教的那些界場，水龍頭全部不會拉進界場裡面，電也不會拉進 ...
-
-          佛光大辭典 (慈怡法師主編)
-          戒場
-          指授戒及布薩說戒之道場。如授三昧耶戒之道場，稱三昧耶戒場。在戒場內設戒壇，行授戒作法。戒場本無建築屋舍之必要，僅須於空地有結界標示即成，然為防風雨之故，古來大抵係堂內受戒與露地結界受戒兼行之。其與戒壇相異之處，戒壇乃由平地立一稍高之土壇而成，戒場則僅限平地。但亦有稱戒壇為壇場，或混稱為壇場者。舉辦授戒會道場之人師，稱為戒場主，一般多指該授戒會道場之寺院住持。又戒場主常兼任引禮師，亦常兼任授戒會三師之得戒和尚。（參閱「戒壇」2917、「結界」5181） p2913
-
-          結界
-          梵語 sīmā-bandha，或 bandhaya-sīman（音譯畔陀也死曼）。依作法而區劃一定之地域。(一)乃依「白二羯磨」之法，隨處劃定一定之界區，以免僧眾動輒違犯別眾、離宿、宿煮等過失。有關結界之範圍、方法等，諸律所說頗有出入，今依四分律所整理者，大別為攝僧界、攝衣界、攝食界等三種。
-
-       ..
-          http://buddhaspace.org/dict/fk/data/%25E5%2582%25B3%25E6%2588%2592.html
-          佛光大辭典 (慈怡法師主編)
-          傳戒
-          指傳授戒律予出家之僧尼或在家居士之儀式。又稱開戒、放戒。就求戒者而言，則稱受戒、納戒、進戒。戒分五戒、八戒、十戒、具足戒、菩薩戒等。具足戒為授於比丘、比丘尼者；十戒為授於沙彌、沙彌尼者；八戒及五戒為授於在家之優婆塞、優婆夷者；菩薩戒則不論出家、在家皆可傳授。
-
-       ..
-          https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-HFU/nx020900.htm
-          佛教布薩制度的研究 羅因
-          台灣大學中文研究所
-          華梵大學 第六次儒佛會通學術研討會論文集--下冊  ( 2002.07 ) 頁407-426
-          華梵大學哲學系,  [臺灣 臺北]
-
-       ..
-          【第四章·迦絺那衣法·第一节·受衣时节】
-          https://masterjiqun.com/index.php?app=@article&ac=show&id=605
-          「迦絺那」名義和權利之研究=A Study of “Kathina”
-          https://buddhism.lib.ntu.edu.tw/search/search_detail.jsp?seq=125910&comefrom=authorinfo
-
-       ..
-          寺院有哪些「職位」？「人事變動」分哪些程序
-          http://m.fodizi.tw/fojiaozhishi/25060.html
-          https://www.pusa123.com/pusa/wenhua/xuefo/changshi/128826.shtml
-          佛在世時，僧團就有維那、守庫藏人、知食人等執事。
-
-       ..
-          https://suttacentral.net/lzh-sarv-kd14/lzh/taisho?lang=en&reference=none&highlight=false
-          Sarvāstivāda Vinaya	十誦律
-          14. Sayanāsana Khandhaka	臥具法
-          知敷臥具人
-          知食人
-          知作器比丘
-          知分臥具人
-          知事人
-
-- `四分律 亡僧 遺物 - Google Search <https://www.google.com/search?q=%E5%9B%9B%E5%88%86%E5%BE%8B+%E4%BA%A1%E5%83%A7+%E9%81%BA%E7%89%A9>`_
-
-  * `僧物 - 佛光大辭典 (慈怡法師主編) <http://buddhaspace.org/dict/fk/data/%25E5%2583%25A7%25E7%2589%25A9.html>`_
-
-    ..
-       梵語 sājghika，巴利語同。即屬於僧尼團體之一切物資。又作僧祇物、僧伽物。除個人之私有物三衣一鉢外，施予個人之衣物，乃至房屋、土地等皆為共有財產，均與僧團經濟有關。以離欲修行為宗旨之釋尊教團中，對個人之私蓄有嚴格之規定。關於僧團物之取用，雖因時因地而異，惟其精神仍傳承至今。
-
-       一般而言，僧物可分為二種：(一)四方僧物，又稱招提僧物、十方僧物、常住僧物，係僧伽所共用，而為教團之共有物，現前之僧不得私自處置。例如寺舍、田園、僕畜等皆屬之。(二)現前僧物，指現前僧（住於一寺眼前所見之比丘、比丘尼）所特用之物，即施主布施予現前僧之物，或指喪亡比丘之遺物。此外，四分律行事鈔卷中更分僧物為四種：(一)常住常住物，指大眾共用之物，如寺舍、田園、花果、樹林等，體通十方，不可分用。(二)十方常住物，指供大眾所食用之餅飯等現熟物，乃通於十方，唯限本處受用，故稱十方常住物。(三)現前現前物，指施予現前僧之物或各自之私物，係考慮現前僧之多少而供養者。(四)十方現前物，指將比丘之遺物分予十方僧者。〔正法念處經卷一十善業道品、大方等大集經卷四十四、善見律毘婆沙卷九、五分律卷二十五、四分律卷四十一、摩訶僧祇律卷二十八、十誦律卷八、卷十、卷二十八、薩婆多毘尼毘婆沙卷二、卷三、卷五、根本薩婆多部律攝卷八、有部尼陀那卷五、四分律行事鈔資持記卷中一下、釋氏要覽卷中、南海寄歸內法傳卷四亡財僧現〕（參閱「三寶物」703、「六物」1274） p5736
-
-  * `试论原始僧团的财物制度（上） 作者：释恭融 <http://www.pacilution.com/ShowArticle.asp?ArticleID=6418>`_
-
-- `parivāsa 中文 - Google Search <https://www.google.com/search?q=pariv%C4%81sa+%E4%B8%AD%E6%96%87>`__
-
-  * `[PDF] 「自然界」之研究 by 屈大成 · 2014 - 佛學數位圖書館 <http://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag543289.pdf>`__
-  * `[PDF] 大佛史-第一卷-上冊.pdf - 靜慮林 <https://www.shineling.org/wp-content/uploads/2020/10/%E5%A4%A7%E4%BD%9B%E5%8F%B2-%E7%AC%AC%E4%B8%80%E5%8D%B7-%E4%B8%8A%E5%86%8A.pdf>`_
-  * `[PDF] 依止(Nissaya) - 法雨道場 <http://www.dhammarain.org.tw/books/nissaya.pdf>`_
-
-    ..
-       / 原著者：他尼沙羅 比丘 Thanissaro Bhikkhu
-       / 編譯者：庫那威羅 比丘等 Guṇavīra Bhikkhu and others
-
-- `［第129期］悟因法師 談戒說律（一） - 香光莊嚴雜誌 <http://www.gayamagazine.org/periodical/detail/180>`_
-
-  ..
-     治罪羯磨—辨明罪相以滅惡
-     戒律的「輕重」，可以從什麼地方來看？具足戒分為「五篇」、「七聚」、
-     「八段」，這是依戒條犯罪大小、懺悔方式等的分類。「五篇」是波羅夷、僧
-     殘、波逸提、波羅提提舍尼、突吉羅。「七聚」是在五篇的基礎上，增加了偷
-     蘭遮（偷蘭遮為初、二篇的近方便與次方便罪），並將突吉羅分為惡作（身業違犯）、
-     惡說（語業違犯）兩聚。「八段」是依《戒本》結構對戒條的分類—波羅夷、
-     僧殘、尼薩耆波逸提、波逸提、波羅提提舍尼、眾學法、七滅諍法
-
-  * `釋悟因 - 臺大佛學數位圖書館 ::: 佛學著者規範資料庫 <https://buddhism.lib.ntu.edu.tw/author/authorinfo.jsp?ID=64915>`_
-  * `香光莊嚴=Glorious Buddhism Magazine - 臺大佛學數位圖書館 <https://buddhism.lib.ntu.edu.tw/DLMBS/toModule.do?prefix=/website&page=/periodical.jsp?seq=161>`_
-  * `獅子吼站精華區 - 談戒說律(1) - 『香光莊嚴』４９期 <https://buddhaspace.org/gem_browse.php/fpath=gem/brd/Buddhism/I/F001014I&num=7>`_
-  * `悟因法師談戒說律 - Google Search <https://www.google.com/search?q=%E6%82%9F%E5%9B%A0%E6%B3%95%E5%B8%AB%E8%AB%87%E6%88%92%E8%AA%AA%E5%BE%8B>`_
-  * `老實修行，以戒為師: 戒律研修 <https://dharma-yinlung.blogspot.com/2023/01/blog-post_31.html>`_
-  * `悟因法師 談戒說律（一） - 釋悟因 - Google Books <https://books.google.com/books?id=LaxTDwAAQBAJ&pg=PP1&lpg=PP1&dq=%E6%82%9F%E5%9B%A0%E6%B3%95%E5%B8%AB%E8%AB%87%E6%88%92%E8%AA%AA%E5%BE%8B>`_
-
-- `舉罪與出罪 ——構成清淨僧團的兩個必備條件—— | 仁俊法師電子文庫 <http://renjun.org/%E8%88%89%E7%BD%AA%E8%88%87%E5%87%BA%E7%BD%AA-%E6%A7%8B%E6%88%90%E6%B8%85%E6%B7%A8%E5%83%A7%E5%9C%98%E7%9A%84%E5%85%A9%E5%80%8B%E5%BF%85%E5%82%99%E6%A2%9D%E4%BB%B6.html>`_
-- `白话《四分律》第四分 杂揵度之三 <https://www.quanxue.cn/ct_fojia/sifenl/sifenl87.html>`_
 
 
 線上閱藏
@@ -257,8 +103,155 @@
           所謂明相出，即是能夠見到光明相時，在屋外伸手能夠辨別手紋時，便叫見明相，解釋成拂曉時分，比較切近。
 
 
-巴利聖典戒律著作
-++++++++++++++++
+漢傳戒律
+++++++++
+
+- `法鼓全集 數位隨身版 <http://old.ddc.shengyen.org/mobile/>`_
+
+  * `戒律學綱要 <http://old.ddc.shengyen.org/mobile/toc/01/01-03/index.php>`_
+  * `律制生活 <http://old.ddc.shengyen.org/mobile/toc/05/05-05/index.php>`_
+
+    + `佛教的飲食規制 <http://old.ddc.shengyen.org/mobile/toc/05/05-05/d5.php>`_
+
+- `[PDF] 「七滅諍法」的程序正義與配套措施 釋昭慧 <https://www.hcu.edu.tw/Upload/TempFiles/76ee1d49d40f4230a19de0f39b03548a.pdf>`__
+- `內觀雜誌 - Google Search <https://www.google.com/search?q=%E5%85%A7%E8%A7%80%E9%9B%9C%E8%AA%8C>`__
+
+  * `[PDF] 四諍和滅諍 林崇安編 <http://www.ss.ncu.edu.tw/~calin/article2008/13_6.pdf>`__
+  * `[PDF] 內觀雜誌第 100 期【2013 年 12 月】 <https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-BJ010/bj010640859.pdf>`__
+
+    ..
+       【本期重點】佛教戒律專題研究：（1）八敬法的演變。（2）佛教戒律
+       專題研究資料：四諍和滅諍。（3）南傳比丘尼犍度摘要。（4）八敬法
+       資料。
+
+       佛告阿難：「比丘諍事，法非法律非律，罪非罪，輕罪重罪，可治罪. 不可治罪，法羯磨、非法羯磨，和合羯磨、不和合羯磨，應作、不應. 作羯磨。阿難！若有如是事起，應疾集僧 ...
+
+  * `[PDF] 內觀雜誌第 99 期【2013 年 11 月】 <https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-BJ010/bj010640854.pdf>`__
+
+    ..
+       【本期重點】：佛教戒律專題研究：（1）佛教律藏的集成和
+       演變，（2）戒經略探，（3）戒經中墮法條文的次第和部派的
+       演變。佛教戒律專題研究資料：（1）相言諍事與拘睒彌事件，
+       （2）阿難與越比尼罪。
+
+- `《沙彌律儀要略集註》全集pdf 電子書《戒律學綱要》Wiki - 牟尼佛法流通網 <http://www.muni-buddha.com.tw/monk_wiki/religious_discipline_wiki.html>`_
+
+  ..
+          Google 沙彌律儀: https://www.google.com/search?q=%E6%B2%99%E5%BD%8C%E5%BE%8B%E5%84%80
+
+- `受戒、舍戒及其他 - 济群法师主页 <https://masterjiqun.com/index.php?app=@article&ac=show&id=2>`__
+- `漢傳「受戒法」之考察 釋惠敏 <https://www.chibs.edu.tw/ch_html/chbj/09/chbj0904.htm>`__
+
+  ..
+     提要
+
+     唐朝之後，漢傳之律學主要是以道宣律師（596～667）之「南山宗」為依據。本文首先對於「受比丘戒法」中之「一白三羯磨」(the Motion and the Three Annoucements；提案說一次，聲明三次），以「南山宗」對於「白」文之五句分析與「羯磨」文之二分、三段之解析為例，考察巴利語律藏原義後建議︰「南山宗」所分「白」文之第三、四句，應該合為「若僧時到，僧忍聽僧授某甲具足戒，某乙為和尚」一句來理解；而「羯磨」文也應該合「誰諸長老忍僧與某甲授具足戒，某乙為和尚者默然」為一句，及「僧已忍與某甲授具足戒竟，某乙為和尚」也如是。
+
+     其次，對漢傳各類「受菩薩戒法」作文獻考察後發現︰現行傳戒儀式之主要依據是見月律師（1602～79）所編《傳戒正範》，將《瑜伽菩薩戒品》之「三說請佛證明」作為「正授戒體法」的羯磨文；反之，將「三問能受戒否」之羯磨文判為與「納受戒體」無關之「明開導戒法」，這是與古傳「湛然本」等「受菩薩戒法」相違。
+
+     〔目次〕
+
+     一、受比丘戒法之「一白三羯磨」
+
+     1. 白文（the Motion；提案文）
+
+     2.羯磨文（the Annoucements；聲明文）
+
+- `原始佛教聖典之集成－第三項主體部分的論究 <https://yinshun-edu.org.tw/zh-hant/Master_yinshun/y35_05_04_03>`__
+
+  ..
+          Google 羯磨 種類: https://www.google.com/search?q=%E7%BE%AF%E7%A3%A8+%E7%A8%AE%E9%A1%9E
+
+          生善羯磨與治罪羯磨
+          一白三羯磨
+
+          戒律學綱要 300: http://old.ddc.shengyen.org/mobile/text/01-03/300.php
+          所謂羯磨法的規定，便是用來判斷羯磨法的是否合乎要求。這個規定，是要具備四個條件，羯磨才能成立。這四個條件是：
+
+       ..
+          Google "界場" 羯磨: https://www.google.com/search?q=%22%E7%95%8C%E5%A0%B4%22+%E7%BE%AF%E7%A3%A8
+
+          《清净道论》－羯磨与结界法
+          https://www.facebook.com/notes/%E4%B8%8A%E5%BA%A7%E9%83%A8%E5%8E%9F%E5%A7%8B%E4%BD%9B%E6%95%99%E4%BA%A4%E6%B5%81%E5%8C%BA/%E6%B8%85%E5%87%80%E9%81%93%E8%AE%BA%E7%BE%AF%E7%A3%A8%E4%B8%8E%E7%BB%93%E7%95%8C%E6%B3%95/183762755024517/
+          在舉行羯磨的時候，如果是僧羯磨（比庫做羯磨 ... 平時界場裡面用電有個很方便的拔的東西，而且你會發現到上座部佛教的那些界場，水龍頭全部不會拉進界場裡面，電也不會拉進 ...
+
+          佛光大辭典 (慈怡法師主編)
+          戒場
+          指授戒及布薩說戒之道場。如授三昧耶戒之道場，稱三昧耶戒場。在戒場內設戒壇，行授戒作法。戒場本無建築屋舍之必要，僅須於空地有結界標示即成，然為防風雨之故，古來大抵係堂內受戒與露地結界受戒兼行之。其與戒壇相異之處，戒壇乃由平地立一稍高之土壇而成，戒場則僅限平地。但亦有稱戒壇為壇場，或混稱為壇場者。舉辦授戒會道場之人師，稱為戒場主，一般多指該授戒會道場之寺院住持。又戒場主常兼任引禮師，亦常兼任授戒會三師之得戒和尚。（參閱「戒壇」2917、「結界」5181） p2913
+
+          結界
+          梵語 sīmā-bandha，或 bandhaya-sīman（音譯畔陀也死曼）。依作法而區劃一定之地域。(一)乃依「白二羯磨」之法，隨處劃定一定之界區，以免僧眾動輒違犯別眾、離宿、宿煮等過失。有關結界之範圍、方法等，諸律所說頗有出入，今依四分律所整理者，大別為攝僧界、攝衣界、攝食界等三種。
+
+       ..
+          http://buddhaspace.org/dict/fk/data/%25E5%2582%25B3%25E6%2588%2592.html
+          佛光大辭典 (慈怡法師主編)
+          傳戒
+          指傳授戒律予出家之僧尼或在家居士之儀式。又稱開戒、放戒。就求戒者而言，則稱受戒、納戒、進戒。戒分五戒、八戒、十戒、具足戒、菩薩戒等。具足戒為授於比丘、比丘尼者；十戒為授於沙彌、沙彌尼者；八戒及五戒為授於在家之優婆塞、優婆夷者；菩薩戒則不論出家、在家皆可傳授。
+
+       ..
+          https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-HFU/nx020900.htm
+          佛教布薩制度的研究 羅因
+          台灣大學中文研究所
+          華梵大學 第六次儒佛會通學術研討會論文集--下冊  ( 2002.07 ) 頁407-426
+          華梵大學哲學系,  [臺灣 臺北]
+
+       ..
+          【第四章·迦絺那衣法·第一节·受衣时节】
+          https://masterjiqun.com/index.php?app=@article&ac=show&id=605
+          「迦絺那」名義和權利之研究=A Study of “Kathina”
+          https://buddhism.lib.ntu.edu.tw/search/search_detail.jsp?seq=125910&comefrom=authorinfo
+
+       ..
+          寺院有哪些「職位」？「人事變動」分哪些程序
+          http://m.fodizi.tw/fojiaozhishi/25060.html
+          https://www.pusa123.com/pusa/wenhua/xuefo/changshi/128826.shtml
+          佛在世時，僧團就有維那、守庫藏人、知食人等執事。
+
+       ..
+          https://suttacentral.net/lzh-sarv-kd14/lzh/taisho?lang=en&reference=none&highlight=false
+          Sarvāstivāda Vinaya	十誦律
+          14. Sayanāsana Khandhaka	臥具法
+          知敷臥具人
+          知食人
+          知作器比丘
+          知分臥具人
+          知事人
+
+- `四分律 亡僧 遺物 - Google Search <https://www.google.com/search?q=%E5%9B%9B%E5%88%86%E5%BE%8B+%E4%BA%A1%E5%83%A7+%E9%81%BA%E7%89%A9>`_
+
+  * `僧物 - 佛光大辭典 (慈怡法師主編) <http://buddhaspace.org/dict/fk/data/%25E5%2583%25A7%25E7%2589%25A9.html>`_
+
+    ..
+       梵語 sājghika，巴利語同。即屬於僧尼團體之一切物資。又作僧祇物、僧伽物。除個人之私有物三衣一鉢外，施予個人之衣物，乃至房屋、土地等皆為共有財產，均與僧團經濟有關。以離欲修行為宗旨之釋尊教團中，對個人之私蓄有嚴格之規定。關於僧團物之取用，雖因時因地而異，惟其精神仍傳承至今。
+
+       一般而言，僧物可分為二種：(一)四方僧物，又稱招提僧物、十方僧物、常住僧物，係僧伽所共用，而為教團之共有物，現前之僧不得私自處置。例如寺舍、田園、僕畜等皆屬之。(二)現前僧物，指現前僧（住於一寺眼前所見之比丘、比丘尼）所特用之物，即施主布施予現前僧之物，或指喪亡比丘之遺物。此外，四分律行事鈔卷中更分僧物為四種：(一)常住常住物，指大眾共用之物，如寺舍、田園、花果、樹林等，體通十方，不可分用。(二)十方常住物，指供大眾所食用之餅飯等現熟物，乃通於十方，唯限本處受用，故稱十方常住物。(三)現前現前物，指施予現前僧之物或各自之私物，係考慮現前僧之多少而供養者。(四)十方現前物，指將比丘之遺物分予十方僧者。〔正法念處經卷一十善業道品、大方等大集經卷四十四、善見律毘婆沙卷九、五分律卷二十五、四分律卷四十一、摩訶僧祇律卷二十八、十誦律卷八、卷十、卷二十八、薩婆多毘尼毘婆沙卷二、卷三、卷五、根本薩婆多部律攝卷八、有部尼陀那卷五、四分律行事鈔資持記卷中一下、釋氏要覽卷中、南海寄歸內法傳卷四亡財僧現〕（參閱「三寶物」703、「六物」1274） p5736
+
+  * `试论原始僧团的财物制度（上） 作者：释恭融 <http://www.pacilution.com/ShowArticle.asp?ArticleID=6418>`_
+
+- `［第129期］悟因法師 談戒說律（一） - 香光莊嚴雜誌 <http://www.gayamagazine.org/periodical/detail/180>`_
+
+  ..
+     治罪羯磨—辨明罪相以滅惡
+     戒律的「輕重」，可以從什麼地方來看？具足戒分為「五篇」、「七聚」、
+     「八段」，這是依戒條犯罪大小、懺悔方式等的分類。「五篇」是波羅夷、僧
+     殘、波逸提、波羅提提舍尼、突吉羅。「七聚」是在五篇的基礎上，增加了偷
+     蘭遮（偷蘭遮為初、二篇的近方便與次方便罪），並將突吉羅分為惡作（身業違犯）、
+     惡說（語業違犯）兩聚。「八段」是依《戒本》結構對戒條的分類—波羅夷、
+     僧殘、尼薩耆波逸提、波逸提、波羅提提舍尼、眾學法、七滅諍法
+
+  * `釋悟因 - 臺大佛學數位圖書館 ::: 佛學著者規範資料庫 <https://buddhism.lib.ntu.edu.tw/author/authorinfo.jsp?ID=64915>`_
+  * `香光莊嚴=Glorious Buddhism Magazine - 臺大佛學數位圖書館 <https://buddhism.lib.ntu.edu.tw/DLMBS/toModule.do?prefix=/website&page=/periodical.jsp?seq=161>`_
+  * `獅子吼站精華區 - 談戒說律(1) - 『香光莊嚴』４９期 <https://buddhaspace.org/gem_browse.php/fpath=gem/brd/Buddhism/I/F001014I&num=7>`_
+  * `悟因法師談戒說律 - Google Search <https://www.google.com/search?q=%E6%82%9F%E5%9B%A0%E6%B3%95%E5%B8%AB%E8%AB%87%E6%88%92%E8%AA%AA%E5%BE%8B>`_
+  * `老實修行，以戒為師: 戒律研修 <https://dharma-yinlung.blogspot.com/2023/01/blog-post_31.html>`_
+  * `悟因法師 談戒說律（一） - 釋悟因 - Google Books <https://books.google.com/books?id=LaxTDwAAQBAJ&pg=PP1&lpg=PP1&dq=%E6%82%9F%E5%9B%A0%E6%B3%95%E5%B8%AB%E8%AB%87%E6%88%92%E8%AA%AA%E5%BE%8B>`_
+
+- `舉罪與出罪 ——構成清淨僧團的兩個必備條件—— | 仁俊法師電子文庫 <http://renjun.org/%E8%88%89%E7%BD%AA%E8%88%87%E5%87%BA%E7%BD%AA-%E6%A7%8B%E6%88%90%E6%B8%85%E6%B7%A8%E5%83%A7%E5%9C%98%E7%9A%84%E5%85%A9%E5%80%8B%E5%BF%85%E5%82%99%E6%A2%9D%E4%BB%B6.html>`_
+- `白话《四分律》第四分 杂揵度之三 <https://www.quanxue.cn/ct_fojia/sifenl/sifenl87.html>`_
+
+
+巴利戒律
+++++++++
 
 - `Bhikkhu Manual <https://bhikkhu-manual.github.io/>`_
 - `上座部比丘戒經與註釋 法增比丘 <https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc#%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B>`_
@@ -271,6 +264,10 @@
   * `[PDF] 巴利律比丘戒譯注 by 李鳳媚 - 靜慮林 <https://www.shineling.org/wp-content/uploads/2021/01/Vinaya.pdf>`_
   * `巴利文《律藏》比丘戒律研究 - Google Search <https://www.google.com/search?q=%E5%B7%B4%E5%88%A9%E6%96%87%E3%80%8A%E5%BE%8B%E8%97%8F%E3%80%8B%E6%AF%94%E4%B8%98%E6%88%92%E5%BE%8B%E7%A0%94%E7%A9%B6>`_
   * `法雨道場--閱讀三藏 <https://dhammarain.github.io/canon/canon1.html>`_
+  * `pali-bhikkhu-vinaya-study巴利律比丘戒研究李凤媚电子书392页 pali-bhikkhu-vinaya-study巴利律比丘戒研究李凤媚书籍扫描PDF版-易道宝 <https://www.ydaobao.com/pali-bhikkuu3q.html>`_
+  * `《巴利律比丘戒译注》作者：李凤媚【PDF】 <http://admin.zasq.net/~zazww/forum.php?mod=viewthread&tid=483925>`_
+  * `比丘戒研究-李凤媚2013-05-31 11:44:22 来源 <http://www.nibbana.cn/html/2013/tuijian1_0531/8136.html>`_
+  * `[PDF] 巴利律比丘戒与泰国礼仪之探讨 - 中国佛教协会 <https://www.chinabuddhism.com.cn/fayin/dharma/2014.6/2014.pdf>`_
 
 - `戒律綱要 The Entrance to the Vinaya - Google Search <https://www.google.com/search?q=%E6%88%92%E5%BE%8B%E7%B6%B1%E8%A6%81+The+Entrance+to+the+Vinaya>`_
 
@@ -324,10 +321,32 @@
 - `清淨之道  瑪欣德尊者 2/2 - Lotus Amita - udn部落格 <https://blog.udn.com/mobile/milene/158094493>`_
 - `[PDF] 依止 (Nissaya) Ṭhānissaro Bhikkhu <https://dhammarain.github.io/books/nissaya.pdf>`_
   (`PDF mirror <{static}/extra/pdf-mirror/nissaya.pdf>`__)
+- `parivāsa 中文 - Google Search <https://www.google.com/search?q=pariv%C4%81sa+%E4%B8%AD%E6%96%87>`__
+
+  * `[PDF] 「自然界」之研究 by 屈大成 · 2014 - 佛學數位圖書館 <http://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag543289.pdf>`__
+  * `[PDF] 大佛史-第一卷-上冊.pdf - 靜慮林 <https://www.shineling.org/wp-content/uploads/2020/10/%E5%A4%A7%E4%BD%9B%E5%8F%B2-%E7%AC%AC%E4%B8%80%E5%8D%B7-%E4%B8%8A%E5%86%8A.pdf>`_
+  * `[PDF] 依止(Nissaya) - 法雨道場 <http://www.dhammarain.org.tw/books/nissaya.pdf>`_
+
+    ..
+       / 原著者：他尼沙羅 比丘 Thanissaro Bhikkhu
+       / 編譯者：庫那威羅 比丘等 Guṇavīra Bhikkhu and others
+
+- `巴梵戒律原典與編譯著概介（下1） - 中国人民大学 - 佛教与宗教学理论研究所 <https://isbrt.ruc.edu.cn/index.php?type=newsview&id=383>`_
+
+  ..
+     佛教圖書館館訊 第二十三期 89年 9月
+     巴梵戒律原典與編譯著概介（下）
+     英國布里斯托大學神學與宗教研究所博士生　釋自軒
+
+- `南传上座部佛教典籍 - 上座部佛教专题 - 清净莲海佛学文库(非赢利，纯公益网站) <http://fotxt.jixiangyun.com/bencandy.php?fid-433-id-14050-page-1.htm>`_
 
 
 羯磨
 ++++
+
+- `白四羯磨 - Google Search <https://www.google.com/search?q=%E7%99%BD%E5%9B%9B%E7%BE%AF%E7%A3%A8>`__
+
+  * `聖嚴法師數位典藏 戒律學綱要 259 <http://old.ddc.shengyen.org/mobile/text/01-03/259.php>`_
 
 - `僧殘出罪法 <{filename}getting-up-community-initial-subsequent%zh-hant.rst>`_
 
@@ -412,6 +431,13 @@
 
   * `[PDF] Kavkhavitarani nama Matikatthakatha 《疑惑度脫》名為 本母註釋書 （覓寂比丘）譯 <http://www.agamarama.com/Ch_Tipitaka(s)_htm/V/jiebenzhu.pdf>`_
     (`PDF mirror <{static}/extra/pdf-mirror/jiebenzhu.pdf>`__)
+
+
+佛教「中國」
+++++++++++++
+
+- `中國(佛教) - 維基百科，自由的百科全書 <https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9C%8B_(%E4%BD%9B%E6%95%99)>`__
+- `永光集－第五節佛教的中國與邊地 <https://yinshun-edu.org.tw/zh-hant/book/export/html/3704>`__
 
 
 爭議
