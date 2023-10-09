@@ -250,6 +250,7 @@
 - `白话《四分律》第四分 杂揵度之三 <https://www.quanxue.cn/ct_fojia/sifenl/sifenl87.html>`_
 
 
+
 巴利戒律
 ++++++++
 
@@ -264,10 +265,15 @@
   * `[PDF] 巴利律比丘戒譯注 by 李鳳媚 - 靜慮林 <https://www.shineling.org/wp-content/uploads/2021/01/Vinaya.pdf>`_
   * `巴利文《律藏》比丘戒律研究 - Google Search <https://www.google.com/search?q=%E5%B7%B4%E5%88%A9%E6%96%87%E3%80%8A%E5%BE%8B%E8%97%8F%E3%80%8B%E6%AF%94%E4%B8%98%E6%88%92%E5%BE%8B%E7%A0%94%E7%A9%B6>`_
   * `法雨道場--閱讀三藏 <https://dhammarain.github.io/canon/canon1.html>`_
-  * `pali-bhikkhu-vinaya-study巴利律比丘戒研究李凤媚电子书392页 pali-bhikkhu-vinaya-study巴利律比丘戒研究李凤媚书籍扫描PDF版-易道宝 <https://www.ydaobao.com/pali-bhikkuu3q.html>`_
-  * `《巴利律比丘戒译注》作者：李凤媚【PDF】 <http://admin.zasq.net/~zazww/forum.php?mod=viewthread&tid=483925>`_
-  * `比丘戒研究-李凤媚2013-05-31 11:44:22 来源 <http://www.nibbana.cn/html/2013/tuijian1_0531/8136.html>`_
+
+    ..
+       * `pali-bhikkhu-vinaya-study巴利律比丘戒研究李凤媚电子书392页 pali-bhikkhu-vinaya-study巴利律比丘戒研究李凤媚书籍扫描PDF版-易道宝 <https://www.ydaobao.com/pali-bhikkuu3q.html>`_
+       * `《巴利律比丘戒译注》作者：李凤媚【PDF】 <http://admin.zasq.net/~zazww/forum.php?mod=viewthread&tid=483925>`_
+       * `比丘戒研究-李凤媚2013-05-31 11:44:22 来源 <http://www.nibbana.cn/html/2013/tuijian1_0531/8136.html>`_
+
   * `[PDF] 巴利律比丘戒与泰国礼仪之探讨 - 中国佛教协会 <https://www.chinabuddhism.com.cn/fayin/dharma/2014.6/2014.pdf>`_
+  * `[PDF] 淺談「比丘戒捨墮十」的意義與其淨人角色現代的應用 - 中華佛學研究所 <https://www.chibs.edu.tw/ch_html/chbs/09/chbs0907.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/chbs0907.pdf>`__)
 
 - `戒律綱要 The Entrance to the Vinaya - Google Search <https://www.google.com/search?q=%E6%88%92%E5%BE%8B%E7%B6%B1%E8%A6%81+The+Entrance+to+the+Vinaya>`_
 
