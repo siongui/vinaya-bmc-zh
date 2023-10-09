@@ -345,6 +345,8 @@
      英國布里斯托大學神學與宗教研究所博士生　釋自軒
 
 - `南传上座部佛教典籍 - 上座部佛教专题 - 清净莲海佛学文库(非赢利，纯公益网站) <http://fotxt.jixiangyun.com/bencandy.php?fid-433-id-14050-page-1.htm>`_
+- `[PDF] 佛教比丘戒 - Vihara Buddha Gotama <https://vbgnet.org/Articles/The-Buddhist-Monks-Precepts%20-Chinese-2009.pdf>`_
+  (`PDF mirror <{static}/extra/pdf-mirror/The-Buddhist-Monks-Precepts-Chinese-2009.pdf>`__)
 
 
 羯磨
