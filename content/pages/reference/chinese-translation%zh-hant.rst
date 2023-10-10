@@ -16,14 +16,12 @@
 - `見賢思齊（一名廣化律師弘法故事集） <https://book.bfnn.org/books2/1868.htm>`_
 
 
-
-
-
 線上閱藏
 ++++++++
 
 - `CBETA 漢文大藏經 (mobile) <https://tripitaka.cbeta.org/mobile/index.php>`_
 
+  * `漢譯南傳大藏經 <https://tripitaka.cbeta.org/mobile/index.php?index=N>`_
   * `大藏經補編　第19冊 - No.103 禪林象器箋 (30卷) - 【無著道忠著】 - 第 15 卷 <https://tripitaka.cbeta.org/mobile/index.php?index=B19n0103_015>`_
 
 - `NTI Reader - Nan Tien 南天 Institute (NTI) Buddhist Text Reader <https://ntireader.org/>`_
@@ -312,6 +310,10 @@
           VinsA.(pg. 391-413); VinlṬ.(pg. 2.0265-295)
 
 - `南傳佛教資料庫 (覓寂比丘) <https://onedrive.live.com/?authkey=%21ALmYY8amFTE5Ljc&id=B7AD4DBC5664F05C%21107&cid=B7AD4DBC5664F05C>`__
+
+  * [PDF] 疑惑度脫（Kaṅkhāvitaraṇī）名為 本母註釋書 - 覓寂比丘
+    (`PDF mirror <{static}/extra/pdf-mirror/overcoming-doubts-unfinished.pdf>`__)
+
 - `檢驗佛法的標準—四大教示 <https://www.facebook.com/238740526277955/posts/539201356231869/>`_
 
   ..
@@ -347,12 +349,14 @@
 - `南传上座部佛教典籍 - 上座部佛教专题 - 清净莲海佛学文库(非赢利，纯公益网站) <http://fotxt.jixiangyun.com/bencandy.php?fid-433-id-14050-page-1.htm>`_
 - `[PDF] 佛教比丘戒 - Vihara Buddha Gotama <https://vbgnet.org/Articles/The-Buddhist-Monks-Precepts%20-Chinese-2009.pdf>`_
   (`PDF mirror <{static}/extra/pdf-mirror/The-Buddhist-Monks-Precepts-Chinese-2009.pdf>`__)
-- [PDF] 疑惑度脫（Kaṅkhāvitaraṇī）名為 本母註釋書 - 覓寂比丘
-  (`PDF mirror <{static}/extra/pdf-mirror/overcoming-doubts-unfinished.pdf>`__)
+
+
+專有名詞
+++++++++
 
 
 羯磨
-++++
+####
 
 - `白四羯磨 - Google Search <https://www.google.com/search?q=%E7%99%BD%E5%9B%9B%E7%BE%AF%E7%A3%A8>`__
 
@@ -444,10 +448,28 @@
 
 
 佛教「中國」
-++++++++++++
+############
 
 - `中國(佛教) - 維基百科，自由的百科全書 <https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9C%8B_(%E4%BD%9B%E6%95%99)>`__
 - `永光集－第五節佛教的中國與邊地 <https://yinshun-edu.org.tw/zh-hant/book/export/html/3704>`__
+
+
+共住(同住) & 異住
+#################
+
+- `共住 異住 - Google Search <https://www.google.com/search?q=%E5%85%B1%E4%BD%8F%20%E7%95%B0%E4%BD%8F>`_
+
+  * `初期大乘佛教之起源與開展－第三節  部派間的交往 <https://yinshun-edu.org.tw/zh-hant/book/export/html/3430>`_
+
+    .. 「異住」就是破僧，定義及處分，如《摩訶僧祇律》卷二六（大正二二‧四四一上）說：. 「一住處，共一界，別眾布薩，別自恣，別作僧事，是名破僧。
+
+  * `初期大乘佛教之起源與開展（卷6） - 漢文大藏經 <https://deerpark.app/reader/Y0035/6>`_
+
+    .. 如上面所說破僧比丘等「異住比丘」，《十誦律》也譯為「不共住」。這也是「盡壽不應共語、共住、共食；不共佛、法 ...
+
+  * `2. Uposatha Khandhaka 布薩法 - SuttaCentral <https://suttacentral.net/lzh-mi-kd2/lzh/taisho>`_
+
+    .. 見異住比丘作同住想。見T 0128a15 已憶問共說戒。有一住處。諸比丘集欲布薩T 0128a16 說戒。見異住比丘。於界疑於比丘無疑。不T 0128a17 憶不問便說戒。有一住處。諸 ...
 
 
 爭議

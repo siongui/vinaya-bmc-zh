@@ -1953,7 +1953,7 @@
      - 　　　A. Sampatti: 僧伽羯磨成就
 
    * - `\　　　B. Saṁvāsa: Separate & Common Affiliation <https://www.dhammatalks.org/vinaya/bmc/Section0072.html#sigil_toc_id_279>`__
-     - 　　　B. Saṁvāsa: 共住
+     - 　　　B. Saṁvāsa: 異 & 共住
 
    * - `\　　　C. Saṅghassa kaṭhinaṁ: The Community’s Kaṭhina <https://www.dhammatalks.org/vinaya/bmc/Section0072.html#sigil_toc_id_280>`__
      - 　　　C. Saṅghassa kaṭhinaṁ: 僧團功德衣
