@@ -28,7 +28,7 @@
      - `\　版權 <{filename}Section0002%zh-hant.rst>`__
 
    * - `\　Quotation <https://www.dhammatalks.org/vinaya/bmc/Section0003.html>`__
-     - 　引述
+     - `\　引述 <{filename}Section0003%zh-hant.rst>`__
 
    * - `\　Abbreviations <https://www.dhammatalks.org/vinaya/bmc/Section0004.html>`__
      - 　縮寫
