@@ -25,7 +25,7 @@
      - `\　封面 <https://www.dhammatalks.org/vinaya/bmc/Cover.html>`__
 
    * - `\　Copyright <https://www.dhammatalks.org/vinaya/bmc/Section0002.html>`__
-     - 　版權
+     - `\　版權 <{filename}Section0002%zh-hant.rst>`__
 
    * - `\　Quotation <https://www.dhammatalks.org/vinaya/bmc/Section0003.html>`__
      - 　引述
