@@ -31,7 +31,7 @@
      - `\　引述 <{filename}Section0003%zh-hant.rst>`__
 
    * - `\　Abbreviations <https://www.dhammatalks.org/vinaya/bmc/Section0004.html>`__
-     - 　縮寫
+     - `\　縮寫 <{filename}Section0004%zh-hant.rst>`__
 
    * - `\　Preface <https://www.dhammatalks.org/vinaya/bmc/Section0005.html>`__
      - 　前言

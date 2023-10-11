@@ -339,6 +339,7 @@
        / 原著者：他尼沙羅 比丘 Thanissaro Bhikkhu
        / 編譯者：庫那威羅 比丘等 Guṇavīra Bhikkhu and others
 
+- `巴梵戒律原典與編譯著概介（上） - 香光尼僧團 <http://www.gaya.org.tw/journal/m20/20-book2.htm>`_
 - `巴梵戒律原典與編譯著概介（下1） - 中国人民大学 - 佛教与宗教学理论研究所 <https://isbrt.ruc.edu.cn/index.php?type=newsview&id=383>`_
 
   ..
@@ -349,6 +350,19 @@
 - `南传上座部佛教典籍 - 上座部佛教专题 - 清净莲海佛学文库(非赢利，纯公益网站) <http://fotxt.jixiangyun.com/bencandy.php?fid-433-id-14050-page-1.htm>`_
 - `[PDF] 佛教比丘戒 - Vihara Buddha Gotama <https://vbgnet.org/Articles/The-Buddhist-Monks-Precepts%20-Chinese-2009.pdf>`_
   (`PDF mirror <{static}/extra/pdf-mirror/The-Buddhist-Monks-Precepts-Chinese-2009.pdf>`__)
+- `Vimativinodanī 疑 - Google Search <https://www.google.com/search?q=Vimativinodan%C4%AB+%E7%96%91>`_
+
+  * `除疑疏-數位典藏與學習聯合目錄 <https://catalog.digitalarchives.tw/item/00/61/10/fb.html>`_
+
+    .. 附註:此夾貝葉經以緬文抄刻巴利語成書，初步整理其抄刻內容為《除疑疏》(Vimativinodanī tīkā，巴利語直譯中文題名)，屬巴利三藏中《律藏》之疏鈔。容分為五個部份，分別擁有出版標記頁，分別記載其抄刻完成年代，大致完成於緬曆1225年9月(約西元1863年)，於第三與第四部份的出版標記頁詳載捐獻者資料，此件經文完整。
+
+  * `[PDF] 《未來史》研究 - 中華佛學研究所 <http://www.chibs.edu.tw/ch_html/chbs/14/chbs1404.pdf>`_
+
+    .. Vimativinodanī. （《斷疑》），是有關對律的再注釋的書（sub-commentary），而不是《書. 史》記載的Vimaticchedanī。據DPPN，Vimaticchedanī 是對阿
+
+  * `南傳巴利聖典在故宮 - 香光尼僧團 <http://www.gaya.org.tw/journal/m51/51-main3.htm>`_
+
+    .. 除疑（Vimativinodanī）, 1, 巴利語, 1902, 贈善025919. 26, 除疑疏（Vimativinodanī tīkā）, 1, 巴利語, 1904, 贈善025900. 27, 攝律義（Vinayasaṅgaha）（第二冊）, 2 ...
 
 
 專有名詞
