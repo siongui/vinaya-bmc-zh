@@ -38,7 +38,7 @@
      - `\　縮寫 <{filename}Section0004%zh-hant.rst>`__
 
    * - `\　Preface <https://www.dhammatalks.org/vinaya/bmc/Section0005.html>`__
-     - 　序言
+     - `\　序言 <{filename}Section0005%zh-hant.rst>`__
 
    * - `\　Dhamma-Vinaya <https://www.dhammatalks.org/vinaya/bmc/Section0006.html>`__
      - 　法與律
