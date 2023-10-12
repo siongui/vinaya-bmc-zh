@@ -11,6 +11,10 @@
 .. role:: hidden
    :class: is-hidden
 
+.. container:: has-text-right is-size-7 mb-1
+
+   `漢譯序言 <{filename}reference/preface-chinese-translation%zh-hant.rst>`__
+
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
    :widths: auto
@@ -34,7 +38,7 @@
      - `\　縮寫 <{filename}Section0004%zh-hant.rst>`__
 
    * - `\　Preface <https://www.dhammatalks.org/vinaya/bmc/Section0005.html>`__
-     - 　前言
+     - 　序言
 
    * - `\　Dhamma-Vinaya <https://www.dhammatalks.org/vinaya/bmc/Section0006.html>`__
      - 　法與律
@@ -1969,7 +1973,3 @@
 
    * - `\　Select Bibliography <https://www.dhammatalks.org/vinaya/bmc/Section0074.html>`__
      - 　選擇參考書目
-
-----
-
-`漢譯參考 <{filename}reference/chinese-translation%zh-hant.rst>`_
