@@ -41,7 +41,7 @@
      - `\　序言 <{filename}Section0005%zh-hant.rst>`__
 
    * - `\　Dhamma-Vinaya <https://www.dhammatalks.org/vinaya/bmc/Section0006.html>`__
-     - 　法與律
+     - `\　法與律 <{filename}Section0006%zh-hant.rst>`__
 
    * - `\　　Disagreements among the texts <https://www.dhammatalks.org/vinaya/bmc/Section0006.html#sigil_toc_id_2>`__
      - 　　文本之間的分歧
