@@ -69,4 +69,28 @@
 
      - 隨著時間的推移，僧團內有漏的因緣最終開始出現。 `《跋陀利經》 <{filename}reference/external-link%zh-hant.rst#mn65>`_ （《中部》65經）佛陀在生涯的後期將這些因緣列出為五個：
 
+   * - .. container:: notification
+
+          Ven. Bhaddāli: “Why is it, venerable sir, that there used to be fewer training rules and more bhikkhus established in the knowledge of Awakening? And why is it that there are now more training rules and fewer bhikkhus established in the knowledge of Awakening?” [Bhaddāli, who has been unwilling to abide by the training rules, seems to be suggesting that the rise in the number of training rules is itself the cause for fewer bhikkhus’ attaining Awakening. The Buddha, however, offers a different explanation.]
+
+          The Buddha: “So it is, Bhaddāli. When beings have begun to degenerate and the true Dhamma has begun to disappear, there are more training rules and fewer bhikkhus established in the knowledge of Awakening. The Teacher does not lay down a training rule for his disciples as long as there are no cases where the conditions that offer a foothold for the effluents have arisen in the Community. But when there are cases where the conditions that offer a foothold for the effluents have arisen in the Community, then the Teacher lays down a training rule for his disciples so as to counteract those very conditions.
+
+          “There are no cases where the conditions that offer a foothold for the effluents have arisen in the Community as long as the Community has not become large. But when the Community has become large, then there are cases where the conditions that offer a foothold for the effluents arise in the Community, and the Teacher then lays down a training rule for his disciples so as to counteract those very conditions.... When the Community possesses great material gains... great status... a large body of learning… When the Community is long-standing, then there are cases where the conditions that offer a foothold for the effluents arise in the Community, and the Teacher then lays down a training rule for his disciples so as to counteract those very conditions.”
+
+     - .. container:: notification
+
+          〔跋陀利曰：〕「師尊！依何因、何緣，昔日學處較少而悟入住立之比丘較多耶？又，師尊！依何因、何緣，今日學處較多而悟入住立之比丘〔反〕較少耶？」[跋陀利一直不願意遵守戒律，他似乎在暗示戒律數量的增加本身就是導致證悟的比丘減少的原因。然而，佛陀提供了不同的解釋。]
+
+          〔世尊曰：〕「跋陀利！其實如次：即於諸有情衰落、正法滅沒時，學處較多而悟入住立之比丘較少。跋陀利！在此少許漏住法不現於僧團之期間內，師對諸弟子不予制定學處。跋陀利！若有少許漏住法出現僧團中時，此時師為防衛彼等諸漏住法，而為諸弟子制定學處。
+
+          跋陀利！僧眾不達廣大期間，在此，無少許漏住法出現於僧團中。然而，跋陀利！僧眾達廣大期間時，在此，少許漏住法出現於僧團中。此時，師為防護彼等漏住法，對諸弟子制定學處也。跋陀利！僧團不達〔追求〕最勝利養……乃至……〔不〕達最勝名聞……〔不〕達〔世俗〕多聞……〔不〕達經驗豐富期間（十臘），在此無少許漏住法顯現於僧團中。然而，跋陀利！僧團到達經驗豐富時，在此，少許漏住法出現於僧團中。此時，師為防衛彼等漏住法，對諸弟子制定學處也。
+
+   * - Thus the rules themselves were not the cause for degeneracy in the Community, and the conditions that provided a foothold for the effluents were not themselves effluents. Rather, the growing complexity of the Community provided the opportunity for bhikkhus to act on the basis of their defilements in a growing variety of ways, and the rules—although they could not prevent any of the five conditions—had to become correspondingly complex to counteract the opportunities those conditions provided for unenlightened behavior.
+
+     - 因此，戒律本身並不是僧團墮落的原因，為有漏提供立足點的因緣本身也不是有漏。相反，僧團的日益複雜性為比丘們提供了機會，以越來越多的方式根據他們的煩惱採取行動，而戒律——儘管它們不能阻止五種因緣中的任何一種——必須變得相對應地複雜以抵銷這些因緣為無明的行為提供的機會。
+
+   * - Even when these conditions did arise, though, the Buddha did not set out a full code at once. Instead, he formulated rules one at a time in response to events. The considerations that went into formulating each rule are best illustrated by the events surrounding the formulation of the first.
+
+     - 然而，即使這些因緣確實出現，佛陀也沒有立即制定完整的戒律。相反，他針對事件一次一個地制戒。制定每個戒條時所考慮的因素可以透過圍繞第一個戒條制定時的事件得到最好的說明。
+
 (未完待續)
