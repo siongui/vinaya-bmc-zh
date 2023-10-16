@@ -25,5 +25,5 @@
 
        .. container:: has-text-right is-italic
 
-          —`長部16經 <https://agama.buddhason.org/DN/DN16.htm>`__
+          —`《長部》16經 <{filename}reference/external-link%zh-hant.rst#dn16>`__
 

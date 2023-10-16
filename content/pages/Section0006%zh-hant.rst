@@ -67,6 +67,6 @@
 
    * - As time passed, the conditions that provided an opening for the effluents within the Community eventually began to appear. The Bhaddāli Sutta (MN 65) presents the Buddha at a later point in his career listing these conditions as five:
 
-     - 隨著時間的推移，僧團內有漏的因緣最終開始出現。 `《跋陀離經》 <https://sutra.mobi/chilin/zhong/content/065.html>`_ （《中部》65經）佛陀在生涯的後期將這些因緣列出為五個：
+     - 隨著時間的推移，僧團內有漏的因緣最終開始出現。 `《跋陀利經》 <{filename}reference/external-link%zh-hant.rst#mn65>`_ （《中部》65經）佛陀在生涯的後期將這些因緣列出為五個：
 
 (未完待續)
