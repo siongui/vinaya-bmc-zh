@@ -11,6 +11,46 @@
 
 ----
 
+犍度
+++++
+
+.. list-table::
+   :header-rows: 1
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - 編號
+     - 連結
+
+   * - .. _cv-x-5:
+
+       | Cv.X.5
+       | 《小品》.十.5
+     - | `五　〔摩訶波闍波提瞿曇彌所問〕比丘尼犍度 (元亨寺 漢譯南傳大藏經 通妙 譯) <https://deerpark.app/reader/N0002/20#0345a03>`_
+         (`tripitaka.cbeta.org/mobile <https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020>`__)
+
+----
+
+附隨
+++++
+
+.. list-table::
+   :header-rows: 1
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - 編號
+     - 連結
+
+   * - .. _pv-xii-2:
+
+       | Pv.XII.2
+       | 《附隨》.十二.2
+     - | `二 - 第十二　小諍 - 附隨 (元亨寺 漢譯南傳大藏經 通妙 譯) <https://deerpark.app/reader/N0003/12#0260a12>`_
+         (`tripitaka.cbeta.org/mobile <https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_012>`__)
+
+----
+
 長部
 ++++
 
@@ -25,7 +65,8 @@
 
    * - .. _dn16:
 
-       DN 16
+       | DN 16
+       | 《長部》16經
      - Mahāparinibbānasuttaṃ
      - | `大般湼槃經 (志蓮淨苑 蕭式球 譯) <https://sutra.mobi/chilin/chang/content/16.html>`_
        | `般涅槃大經 (莊春江譯) <https://agama.buddhason.org/DN/DN16.htm>`_
@@ -49,7 +90,8 @@
 
    * - .. _mn65:
 
-       MN 65
+       | MN 65
+       | 《中部》65經
      - Bhaddālisuttaṃ
      - | `跋陀離經 (志蓮淨苑 蕭式球 譯) <https://sutra.mobi/chilin/zhong/content/065.html>`_
        | `跋大哩經 (莊春江 譯) <https://agama.buddhason.org/MN/MN065.htm>`_
