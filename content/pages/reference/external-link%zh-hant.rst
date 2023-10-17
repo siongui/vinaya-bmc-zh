@@ -73,6 +73,7 @@
        | `大般涅槃經 (元亨寺 漢譯南傳大藏經 通妙 譯) <https://tripitaka.cbeta.org/mobile/index.php?index=N07n0004_016>`_
          (`deerpark.app <https://deerpark.app/reader/N0004/16#0021a03>`__)
        | `大槃涅槃經第十六 (南傳長部經典 江鍊百譯 | 2卷 | CBETA B0003) <https://deerpark.app/reader/B0003/2#0046b31>`_
+       | `南傳大般湼槃經 (巴宙譯 | 1卷 | CBETA B0018) <https://deerpark.app/reader/B0018/1>`_
 
 ----
 
@@ -97,5 +98,8 @@
        | `跋大哩經 (莊春江 譯) <https://agama.buddhason.org/MN/MN065.htm>`_
        | `跋陀利經 (元亨寺 漢譯南傳大藏經 通妙 譯) <https://tripitaka.cbeta.org/mobile/index.php?index=N10n0005_007>`_
          (`deerpark.app <https://deerpark.app/reader/N0005/7#0202a02>`__)
+
+       .. | `南傳中部經典 (芝峯譯 | 1卷 | CBETA B0004) <https://deerpark.app/reader/B0004>`_
+
        | `跋陀利 - Google Search <https://www.google.com/search?q=%E8%B7%8B%E9%99%80%E5%88%A9>`_
        | `中阿含194經/跋陀和利經([後]大品)(莊春江標點) <https://agama.buddhason.org/MA/MA194.htm>`_

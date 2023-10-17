@@ -93,4 +93,8 @@
 
      - 然而，即使這些因緣確實出現，佛陀也沒有立即制定完整的戒律。相反，他針對事件一次一個地制戒。制定每個戒條時所考慮的因素可以透過圍繞第一個戒條制定時的事件得到最好的說明。
 
+   * - Ven. Sudinna, the story goes, had strong faith in the Buddha and had ordained after receiving his parents’ grudging consent. He was their only child and, though married, was childless. His parents, fearing that the government would confiscate their property at their death if it had no heir, devised various schemes to lure Ven. Sudinna back to the lay life, but to no avail. Finally, his mother realized that he was firm in his intention to stay a bhikkhu and so asked him at least to have intercourse with his former wife so that their property would have an heir. Ven. Sudinna consented, took his wife into the forest, and had intercourse three times.
+
+     - 據說， `須提那迦蘭陀子 <https://dictionary.sutta.org/browse/s/sudinna-kalandakaputta/>`_ 尊者對佛陀有著堅定的信心，並在父母勉強同意後出家。他是父母唯一的孩子，雖然已婚，但沒有孩子。他的父母擔心，如果他們死後沒有繼承人，政府會沒收他們的財產，因此設計了各種計劃來引誘須提那尊者重回俗家生活，但卻無效。最後，他的母親意識到他做比丘的決心很堅定，所以要求他至少和他的前妻發生性關係，這樣他們的財產就有繼承人。須提那尊者答應了，帶著妻子走進森林，發生了三次性關係。
+
 (未完待續)
