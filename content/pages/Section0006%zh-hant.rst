@@ -14,7 +14,7 @@
 
    * - Dhamma-Vinaya was the Buddha’s own name for the religion he founded. Dhamma—the truth—is what he discovered and pointed out as advice for all who want to gain release from suffering. Vinaya—discipline—is what he formulated as rules, ideals, and standards of behavior for those of his followers who go forth from home life to take up the quest for release in greater earnestness. Although this book deals primarily with discipline, we should note at the outset that total training in the Buddha’s path requires that Dhamma and Vinaya function together. In theory they may be separate, but in the person who practices them they merge as qualities developed in the mind and character.
 
-     - Dhamma-Vinaya（法與律）是佛陀對他所創立的宗教的自己的名字。法——真理——是他發現並指出的，作為對所有想要從痛苦中解脫的人的建議。律（Vinaya）是他為追隨者制定的規則、理想和行為標準。這些追隨者離開家庭生活，更加認真地尋求解脫。雖然本書主要討論戒律，但我們首先應該注意，佛陀道路上的全面修行需要法與律的共同作用。從理論上講，它們可能是分開的，但對於實踐它們的人來說，它們作為心靈和性格中發展的品質而融合在一起。
+     - Dhamma-Vinaya（法與律）是佛陀對自己所創立的宗教的名字。法（Dhamma）——真理——是他發現並指出的，作為對所有想要從痛苦中解脫的人的建議。律（Vinaya）是他為追隨者制定的規則、理想和行為標準。這些追隨者離開家庭生活，更加認真地尋求解脫。雖然本書主要討論戒律，但我們首先應該注意，佛陀道路上的全面修行需要法與律的共同作用。從理論上講，它們可能是分開的，但對於實踐它們的人來說，它們作為心靈和性格中發展的品質而融合在一起。
 
    * - .. container:: notification
 
@@ -22,7 +22,7 @@
 
      - .. container:: notification
 
-          “瞿曇彌！若汝所知之法，‘此法導致冷靜而非熱情、導致離繫而非繫縛、導致損減而非積集、導致謙遜而非自誇、導致滿足而非不滿足、資長閑寂而非糾纏、導致精勤而非懈怠、導致易養而非難養者’：妳可以肯定：‘此是法、此是律、此是導師之言教。’”—《小品》.十.5
+          “瞿曇彌！若汝所知之法，‘此法導致冷靜而非熱情、導致離繫而非繫縛、導致損減而非積集、導致謙遜而非自誇、導致滿足而非不滿足、資長閑寂而非糾纏、導致精勤而非懈怠、導致易養而非難養者’：汝可以肯定：‘此是法、此是律、此是導師之言教。’”—《小品》.十.5
 
        ..
           https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020
@@ -63,11 +63,11 @@
 
    * - In the early years of the Buddha’s career, the texts tell us, there was no need to formulate monastic disciplinary rules. All of the bhikkhus in his following—the Community of bhikkhunīs had not yet been started—were men of high personal attainments who had succeeded in subduing many or all of their mental defilements. They knew his teachings well and behaved accordingly. The Canon tells of how Ven. Sāriputta, one of the Buddha’s foremost disciples, asked the Buddha at an early date to formulate a Pāṭimokkha, or code of rules, to ensure that the celibate life the Buddha had founded would last long, just as a thread holding together a floral arrangement ensures that the flowers are not scattered by the wind. The Buddha replied that the time for such a code had not yet come, for even the most backward of the men in the Community at that time had already had their first glimpse of the goal. Only when mental effluents (*āsava*) made themselves felt in the Community would there be a need for a Pāṭimokkha.
 
-     - 文獻告訴我們，在佛陀生涯的早期，沒有必要制戒。他追隨者中的所有比丘——比丘尼僧團尚未成立——都是具有很高個人成就的人，他們已經成功地降伏了許多或全部的心理煩惱。他們非常了解他的教導，並按照他的教導行事。《聖典》講述了舍利弗尊者是佛陀的上首弟子之一，他很早就請求佛陀制定《波羅提木叉》戒律，以確保佛陀所創立的梵行生活能夠久住，就像用一根線將插花連接在一起一樣，花不會被風吹散。佛陀回答說，制戒的時候還沒有到來，因為即使是當時僧團中最落後的人也已經得法眼淨。只有當有漏（ *āsava* ）在僧團中出現時，才會需要《波羅提木叉》。
+     - 文獻告訴我們，在佛陀生涯的早期，沒有必要制戒。他追隨者中的所有比丘——比丘尼僧團尚未成立——都是具有很高個人成就的人，他們已經成功地降伏了許多或全部的心理煩惱。他們非常了解他的教導，並按照他的教導行事。《聖典》講述了舍利弗尊者是佛陀的上首弟子之一，他很早就請求佛陀制定《波羅提木叉》戒律，以確保佛陀所創立的梵行生活能夠久住，就像用一根線將插花連接在一起一樣，花不會被風吹散。佛陀回答說，制戒的時候還沒有到來，因為即使是當時僧團中最落後的人也已經得法眼淨。只有當漏（ *āsava* ）在僧團中出現時，才會需要《波羅提木叉》。
 
    * - As time passed, the conditions that provided an opening for the effluents within the Community eventually began to appear. The Bhaddāli Sutta (MN 65) presents the Buddha at a later point in his career listing these conditions as five:
 
-     - 隨著時間的推移，僧團內有漏的因緣最終開始出現。 `《跋陀利經》 <{filename}reference/external-link%zh-hant.rst#mn65>`_ （《中部》65經）佛陀在生涯的後期將這些因緣列出為五個：
+     - 隨著時間的推移，僧團內漏的因緣最終開始出現。 `《跋陀利經》 <{filename}reference/external-link%zh-hant.rst#mn65>`_ （《中部》65經）佛陀在生涯的後期將這些因緣列出為五個：
 
    * - .. container:: notification
 
@@ -87,7 +87,7 @@
 
    * - Thus the rules themselves were not the cause for degeneracy in the Community, and the conditions that provided a foothold for the effluents were not themselves effluents. Rather, the growing complexity of the Community provided the opportunity for bhikkhus to act on the basis of their defilements in a growing variety of ways, and the rules—although they could not prevent any of the five conditions—had to become correspondingly complex to counteract the opportunities those conditions provided for unenlightened behavior.
 
-     - 因此，戒律本身並不是僧團墮落的原因，為有漏提供立足點的因緣本身也不是有漏。相反，僧團的日益複雜性為比丘們提供了機會，以越來越多的方式根據他們的煩惱採取行動，而戒律——儘管它們不能阻止五種因緣中的任何一種——必須變得相對應地複雜以抵銷這些因緣為無明的行為提供的機會。
+     - 因此，戒律本身並不是僧團墮落的原因，為漏提供立足點的因緣本身也不是漏。相反，僧團的日益複雜性為比丘們提供了機會，以越來越多的方式根據他們的煩惱採取行動，而戒律——儘管它們不能阻止五種因緣中的任何一種——必須變得相對應地複雜以抵銷這些因緣為無明的行為提供的機會。
 
    * - Even when these conditions did arise, though, the Buddha did not set out a full code at once. Instead, he formulated rules one at a time in response to events. The considerations that went into formulating each rule are best illustrated by the events surrounding the formulation of the first.
 
