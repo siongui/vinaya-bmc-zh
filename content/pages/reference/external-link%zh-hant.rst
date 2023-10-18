@@ -11,6 +11,43 @@
 
 ----
 
+線上閱讀
+++++++++
+
+- 巴利文獻
+
+  * 緬甸版
+
+    + `Pāli Tipiṭaka <https://tipitaka.sutta.org/>`_ (My work)
+    + `Pāḷi Tipiṭaka <https://tipitaka.org/>`_ (VRI)
+    + `Chaṭṭha Saṅgāyana Pāḷi Tipiṭaka <https://tipitaka.app/>`_
+
+  * 泰國版
+
+    + `พระไตรปิฎก ออนไลน์ - Google Search <https://www.google.com/search?q=%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%8E%E0%B8%81+%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C>`_
+      (`翻譯 <https://translate.google.com/?sl=auto&tl=zh-TW&text=%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%8E%E0%B8%81%20%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C>`__)
+    + `พระไตรปิฎกออนไลน์ ฉบับมหาจุฬาลงกรณราชวิทยาลัย ๔๕ เล่ม <https://tripitaka-online.blogspot.com/2016/09/tpd-main.html>`_
+      摩訶朱拉隆功皇家大學版
+      (`翻譯 <https://translate.google.com/?sl=th&tl=zh-TW&text=%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%8E%E0%B8%81%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%0A%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%20%E0%B9%94%E0%B9%95%20%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1>`__)
+    + `84000 พระธรรมขันธ์ 84000.org พระไตรปิฎก <https://84000.org/>`_
+      (`翻譯 <https://translate.google.com/?sl=th&tl=zh-TW&text=84000%20%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%2084000.org%20%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%8E%E0%B8%81>`__)
+
+  * 斯里蘭卡版(錫蘭版)
+
+    + `Sri Lanka Buddha Jayanti Tipitaka - Google Search <https://www.google.com/search?q=Sri+Lanka+Buddha+Jayanti+Tipitaka>`_
+    + `Buddhist Publication Society (BPS) Tipitaka <https://www.bps.lk/tipitaka/>`_
+    + `Welcome / පිළිගනිමු | බුද්ධ ජයන්ති ත්‍රිපිටකය <https://tipitaka.lk/>`_
+      (`翻譯 <https://translate.google.com/?sl=auto&tl=en&text=%E0%B6%B6%E0%B7%94%E0%B6%AF%E0%B7%8A%E0%B6%B0%20%E0%B6%A2%E0%B6%BA%E0%B6%B1%E0%B7%8A%E0%B6%AD%E0%B7%92%20%E0%B6%AD%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%92%E0%B6%B4%E0%B7%92%E0%B6%A7%E0%B6%9A%E0%B6%BA>`__)
+      (`GitHub <https://github.com/pathnirvana/tipitaka.lk>`__)
+
+  * PTS版(`巴利文獻協會 <https://palitextsociety.org/>`_)
+
+    + `版權資訊 <https://palitextsociety.org/copyright-information/>`__
+
+- 漢傳文獻
+
+----
+
 犍度
 ++++
 

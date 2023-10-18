@@ -14,6 +14,7 @@
 - `原始佛教聖典之集成 - 印順導師佛學著作集 <https://yinshun-edu.org.tw/zh-hant/Master_yinshun/y35>`_
 - `佛弟子文庫 <http://m.fodizi.tw/>`_
 - `見賢思齊（一名廣化律師弘法故事集） <https://book.bfnn.org/books2/1868.htm>`_
+- `外部連結 <{filename}external-link%zh-hant.rst>`__
 
 
 線上閱藏
