@@ -101,8 +101,17 @@
          + `tripitaka.cbeta.org/mobile <https://tripitaka.cbeta.org/mobile/index.php?index=N07n0004_016>`__
          + `deerpark.app <https://deerpark.app/reader/N0004/16>`__
 
-       * `大槃涅槃經第十六 (南傳長部經典 江鍊百譯 | 2卷 | CBETA B0003) <https://deerpark.app/reader/B0003/2#0046b31>`_
-       * `南傳大般湼槃經 (巴宙譯 | 1卷 | CBETA B0018) <https://deerpark.app/reader/B0018/1>`_
+       * 大槃涅槃經第十六 (南傳長部經典 江鍊百 譯)
+
+         + `tripitaka.cbeta.org <https://tripitaka.cbeta.org/B06n0003_002#0046b31>`__
+         + `tripitaka.cbeta.org/mobile <https://tripitaka.cbeta.org/mobile/index.php?index=B06n0003_002#0046b31>`__
+         + `deerpark.app <https://deerpark.app/reader/B0003/2#0046b31>`__
+
+       * 南傳大般湼槃經 (巴宙 譯)
+
+         + `tripitaka.cbeta.org <https://tripitaka.cbeta.org/B07n0018_001>`__
+         + `tripitaka.cbeta.org/mobile <https://tripitaka.cbeta.org/mobile/index.php?index=B07n0018_001>`__
+         + `deerpark.app <https://deerpark.app/reader/B0018/1>`__
 
 ----
 
@@ -125,15 +134,30 @@
 
      - `Bhaddālisuttaṃ <https://tipitaka.sutta.org/romn/cscd/s0202m/mul1/#:~:text=Bhadd%C4%81lisutta%E1%B9%83>`__
 
-     - * `跋陀離經 (志蓮淨苑 蕭式球 譯) <https://sutra.mobi/chilin/zhong/content/065.html>`_
-       * `跋大哩經 (莊春江 譯) <https://agama.buddhason.org/MN/MN065.htm>`_
-       * 跋陀利經 (元亨寺 漢譯南傳大藏經 通妙 譯
+     - * 跋陀離經 (志蓮淨苑 蕭式球 譯)
+
+         + `sutra.mobi <https://sutra.mobi/chilin/zhong/content/065.html>`__
+         + `靜慮林 <https://www.shineling.org/mn65/>`__
+
+       * 跋大哩經 (莊春江 譯)
+
+         + `莊春江工作站 <https://agama.buddhason.org/MN/MN065.htm>`__
+         + `sutra.mobi <https://sutra.mobi/zcj/zhong/content/065.html>`__
+         + `suttacentral.net <https://suttacentral.net/mn65/zh/zhuang>`__
+
+       * 跋陀利經 (元亨寺 漢譯南傳大藏經 通妙 譯)
 
          + `tripitaka.cbeta.org <https://tripitaka.cbeta.org/N10n0005_007#0202a02>`__
          + `tripitaka.cbeta.org/mobile <https://tripitaka.cbeta.org/mobile/index.php?index=N10n0005_007#0202a02>`__
          + `deerpark.app <https://deerpark.app/reader/N0005/7#0202a02>`__
 
-       .. | `南傳中部經典 (芝峯譯 | 1卷 | CBETA B0004) <https://deerpark.app/reader/B0004>`_
+       ..
+          | `南傳中部經典 (芝峯譯 | 1卷 | CBETA B0004) <https://deerpark.app/reader/B0004>`_
+          `跋陀利 - Google Search <https://www.google.com/search?q=%E8%B7%8B%E9%99%80%E5%88%A9>`_
 
-       * `跋陀利 - Google Search <https://www.google.com/search?q=%E8%B7%8B%E9%99%80%E5%88%A9>`_
-       * `中阿含194經/跋陀和利經([後]大品)(莊春江標點) <https://agama.buddhason.org/MA/MA194.htm>`_
+       * 中阿含194經/跋陀和利經
+
+         + `tripitaka.cbeta.org <https://tripitaka.cbeta.org/T01n0026_051>`__
+         + `tripitaka.cbeta.org/mobile <https://tripitaka.cbeta.org/mobile/index.php?index=T01n0026_051>`__
+         + `NTI Reader <https://ntireader.org/taisho/t0026_51.html>`__
+         + `莊春江工作站 <https://agama.buddhason.org/MA/MA194.htm>`__
