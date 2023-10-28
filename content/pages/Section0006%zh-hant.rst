@@ -101,4 +101,50 @@
 
      - 他立刻感到後悔，並最終向同儕比丘坦白了自己的行為。消息傳到了佛陀那裡，佛陀召開了一次僧團會議，詢問了須提那尊者，並訶責了他。訶責分為兩個主要部分。第一部分，佛陀提醒須提那尊者，指出他作為 *samaṇa* （沙門）的地位，以及他的行為與他的地位不相稱。此外，佛陀向他指出了教法的目的，並指出他的行為與這些目的背道而馳。這裡的意思是須提那尊者的行為不僅與佛法的內容不符，而且還冷酷無情地漠視佛陀弘揚佛法的慈悲目的。
 
+   * - .. container:: notification
+
+          “‘Worthless man, it is unseemly, out of line, unsuitable, and unworthy of a contemplative; improper and not to be done…. Haven’t I taught the Dhamma in many ways for the sake of dispassion and not for passion; for unfettering and not for fettering; for freedom from clinging and not for clinging? Yet here, while I have taught the Dhamma for dispassion, you set your heart on passion; while I have taught the Dhamma for unfettering, you set your heart on being fettered; while I have taught the Dhamma for freedom from clinging, you set your heart on clinging.
+
+          “‘Worthless man, haven’t I taught the Dhamma in many ways for the fading of passion, the sobering of intoxication, the subduing of thirst, the destruction of attachment, the severing of the round, the ending of craving, dispassion, cessation, unbinding? Haven’t I in many ways advocated abandoning sensual pleasures, comprehending sensual perceptions, subduing sensual thirst, destroying sensual thoughts, calming sensual fevers? Worthless man, it would be better that your penis be stuck into the mouth of a poisonous snake than into a woman’s vagina. It would be better that your penis be stuck into the mouth of a black viper than into a woman’s vagina. It would be better that your penis be stuck into a pit of burning embers, blazing and glowing, than into a woman’s vagina. Why is that? For that reason you would undergo death or death-like suffering, but you would not on that account, at the break-up of the body, after death, fall into a plane of deprivation, a bad destination, a lower realm, hell. But for this reason you would, at the break-up of the body, after death, fall into a plane of deprivation, a bad destination, a lower realm, hell….
+
+          “‘Worthless man, this neither inspires faith in the faithless nor increases the faithful. Rather, it inspires lack of faith in the faithless and wavering in some of the faithful.’”
+
+     - .. container:: notification
+
+          「愚人！此非相應法、非隨順行、非威儀、非沙門行、非清淨行、非所當為……我以種種方便為離欲而說法，非為具欲；為離縛而說法，非為具縛；為無著而說法，非為有著。然而，須提那！汝實將我所說離欲法，以為具欲；所說離縛法，以為具縛；所說無著法，以為有著。
+
+          愚人！我以種種方便，豈非為離欲而說法；為破憍慢、為調伏渴愛、為除去執著、為斷絕輪迴、為滅盡愛、為離欲、為證滅、為涅槃而說法耶？我以種種方便，豈非說諸欲之斷滅、說諸欲想之遍知、說諸欲渴之調伏、說諸欲尋之滅除、說諸欲熱之止靜耶？愚人！寧入男根於毒蛇口中，亦勿入於女根中。寧入男根於恐怖毒牙口中，亦勿入於女根中。寧入男根於燃盛之火坑中，亦勿入於女根中。何以故？由彼因緣，實可能受死或等於死之苦，而身壞命終後，不生於惡處、惡道、苦趣、地獄。然而，由此因緣，身壞命終後，當生惡處、惡道、苦趣、地獄……
+
+          愚人！此非令未信者生信，已信者增長也。此實是使未信者不生信，已信者部分轉向他去也。」
+
+       ..
+          https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0023a10
+          https://deerpark.app/reader/T1428/1#0570a29
+          https://tripitaka.cbeta.org/mobile/index.php?index=T22n1428_001#0570a29
+          https://tripitaka.cbeta.org/mobile/index.php?index=T22n1421_001#0003a29
+
+   * - The second part of the rebuke dealt in terms of personal qualities: those that a bhikkhu practicing discipline is to abandon, and those he is to develop.
+
+     - 訶責的第二部分涉及個人素質：比丘修習戒律時應捨棄的素質，以及修持戒律時應培養的素質。
+
+   * - .. container:: notification
+
+          “Then the Blessed One, having in many ways rebuked Ven. Sudinna, having spoken in dispraise of being burdensome, demanding, arrogant, discontented, entangled, and indolent; in various ways having spoken in praise of being unburdensome, undemanding, modest, content, scrupulous, austere, gracious, self-effacing, and energetic; having given a Dhamma talk on what is seemly and becoming for bhikkhus, addressed the bhikkhus.”
+
+     - .. container:: notification
+
+          「如是，世尊以種種方便呵責尊者須提那後，說難扶養、難教養、多欲不知足、參與眾中、放逸之非。然後，以種種方便，說易扶養、易教養、清淨少欲知足、好頭陀行、端正而不參與眾中、勇猛精進之美，並且為諸比丘說隨順適切之法後，謂諸比丘曰：」
+
+   * - This was where the Buddha formulated the training rule, after first stating his reasons for doing so.
+
+     - 佛陀在先陳述他這樣做的理由之後，制定學處。
+
+   * - .. container:: notification
+
+          “‘In that case, bhikkhus, I will formulate a training rule for the bhikkhus with ten aims in mind: the excellence of the Community, the comfort of the Community, the curbing of the impudent, the comfort of well-behaved bhikkhus, the restraint of effluents related to the present life, the prevention of effluents related to the next life, the arousing of faith in the faithless, the increase of the faithful, the establishment of the true Dhamma, and the fostering of discipline.’”
+
+     - .. container:: notification
+
+          「諸比丘！然，以十利故，我為諸比丘制立學處，為攝僧、為僧安樂、為調伏惡人、為善比丘得安樂住、為防護現世漏、為滅後世漏、為令未信者生信、為令已信者增長、為令正法久住、為敬重律。」
+
 (未完待續)
