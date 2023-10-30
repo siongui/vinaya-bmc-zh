@@ -147,4 +147,20 @@
 
           「諸比丘！然，以十利故，我為諸比丘制立學處，為攝僧、為僧安樂、為調伏惡人、為善比丘得安樂住、為防護現世漏、為滅後世漏、為令未信者生信、為令已信者增長、為令正法久住、為敬重律。」
 
+   * - These reasons fall into three main types. The first two are external: 1) to ensure peace and well being within the Community itself, and 2) to foster and protect faith among the laity, on whom the bhikkhus depend for their support. (The origin stories of the various rules depict the laity as being very quick to generalize. One bhikkhu misbehaves, and they complain, “How can these Sakyan-son monks do that?”) The third type of reason, though, is internal: The rule is to help restrain and prevent mental effluents within the individual bhikkhus. Thus the rules aim not only at the external well being of the Community but also at the internal well being of the individual. This latter point soon becomes apparent to anyone who seriously tries to keep to the rules, for they foster mindfulness and circumspection in one’s actions, qualities that carry over into the training of the mind.
+
+     - 這些原因主要分為三種。前兩者是外在的：1）確保僧團內部的和平與福祉，以及2）培養和保護在家人的信仰，比丘們依賴他們的支持。（各種戒律的起源故事都描述了居士非常容易一概而論。一位比丘行為不端，他們抱怨道：「這些釋迦子沙門怎麼能這麼做呢？」）第三種原因是內在的：戒律是為了幫助限制和防止個別比丘們的精神煩惱。因此，規則不僅旨在實現僧團的外在福祉，而且還旨在實現個人的內在福祉。對於任何認真遵守戒律的人來說，後一點很快就會變得顯而易見，因為它們培養了一個人行動中的正念和謹慎，這些品質會延續到心的訓練中。
+
+   * - Over the course of time the Buddha formulated more than 200 major and minor rules, forming the Pāṭimokkha that was recited fortnightly in each Community of bhikkhus. In addition, he formulated many other minor rules that were memorized by those of his followers who specialized in the subject of discipline, but nothing is known for sure of what format they used to organize this body of knowledge during his lifetime.
+
+     - 隨著時間的推移，佛陀制定了超過 200 條主要和次要的戒律，形成了每個比丘僧團每半月念誦的《波羅提木叉》。此外，他還制定了許多其他小戒條，這些戒條被他的那些專精戒律的追隨者記住了，但我們無法確定他們在他一生中使用什麼格式來組織這一知識體系。
+
+   * - After his total nibbāna, though, his followers made a concerted effort to establish a standard canon of Dhamma and Vinaya, and the Pali Canon as we know it began to take shape. The Vinaya was organized into two main parts: 1) the Sutta Vibhaṅga, the ‘Exposition of the Text’ (which from here on we will refer to simply as the Vibhaṅga), containing almost all the material dealing with the Pāṭimokkha rules; and 2) the Khandhakas, or Groupings, which contain the remaining material organized loosely according to subject matter. The Khandhakas themselves are divided into two parts, the Mahāvagga, or Greater Chapter, and the Cullavagga, or Lesser Chapter. Historians estimate that the Vibhaṅga and Khandhakas reached their present form in approximately the 2nd century B.C.E., and that the Parivāra, or Addenda—a summary and study guide—was added a few centuries later, closing the Vinaya Piṭaka, the part of the Canon dealing with discipline.
+
+     - 然而，在他無餘涅槃之後，他的追隨者齊心協力建立了標準的法和律經典，而我們所知的巴利聖典開始成形。戒律分為兩個主要部分：1）Sutta Vibhaṅga《經分別》，即「文本的解釋」（從這裡開始，我們將簡稱為 Vibhaṅga），包含幾乎所有涉及《波羅提木叉》戒條的材料； 2) Khandhaka《犍度》或稱篇章，其中包含根據主題鬆散組織的剩餘材料。《犍度》本身分為兩部分：Mahāvagga（大品）和 Cullavagga（小品）。歷史學家估計，《經分別》和《犍度》在大約公元前2世紀達到了現在的形式，而 Parivāra 或稱《附隨》——一份總結和學習指南——在幾個世紀後被添加，完成了《律藏》（Vinaya Piṭaka），即聖典有關戒律的部份。
+
+   * - Because the purpose of this volume is to translate and explain the Pāṭimokkha, we are most directly concerned with the Vibhaṅga. It is organized as follows: The rules in the Pāṭimokkha are presented one by one, each rule preceded by an origin story relating the events leading up to its formulation. In some instances a rule went through one or more reformulations, in which case an additional story is provided for each amendment to show what prompted it. With each new formulation of a rule, any previous formulations were automatically rescinded. Otherwise, the added restrictions or allowances contained in the reformulations would have been rendered meaningless. Thus, the final formulation of the rule is the authoritative one, with the earlier formulations holding only historical interest.
+
+     - 因為本冊的目的是翻譯和解釋《波羅提木叉》，所以我們最直接關心的是《經分別》。它的組織如下：《波羅提木叉》中的戒條一個接一個介紹，每條戒條之前都有一個起源故事，講述了導致其制定的事件。在某些情況下，一條戒條經歷了一次或多次重新制定，在這種情況下，為每一項修正提供了一個額外的故事，以顯示促使其發生的原因。隨著戒條的每一個新的制定，任何先前的制定都將自動廢除。否則，重新制定中所包含的附加限制或開緣將變得毫無意義。因此，該戒條的最終表述具有權威性，而早期的表述僅具有歷史意義。
+
 (未完待續)
