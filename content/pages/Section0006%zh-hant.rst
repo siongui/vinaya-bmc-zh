@@ -163,4 +163,49 @@
 
      - 因為本冊的目的是翻譯和解釋《波羅提木叉》，所以我們最直接關心的是《經分別》。它的組織如下：《波羅提木叉》中的戒條一個接一個介紹，每條戒條之前都有一個起源故事，講述了導致其制定的事件。在某些情況下，一條戒條經歷了一次或多次重新制定，在這種情況下，為每一項修正提供了一個額外的故事，以顯示促使其發生的原因。隨著戒條的每一個新的制定，任何先前的制定都將自動廢除。否則，重新制定中所包含的附加限制或開緣將變得毫無意義。因此，該戒條的最終表述具有權威性，而早期的表述僅具有歷史意義。
 
+   * - After the final statement of the rule is a word-analysis (*pada-bhājaniya*), which explains in detail most of the important terms in the rule. For many of the rules this analysis includes one or more “wheels,” or tables, giving the contingencies connected with the rule, working out all their possible permutations and passing judgment as to what penalty, if any, each permutation entails. For example, the discussion of the first rule contains a wheel that gives all the objects with which a person might have sexual intercourse, lists them against the variables of the sort of intercourse and whether or not the bhikkhu involved gives his consent, and announces the penalty for each possible combination of factors.
+
+     - 戒條的最後陳述之後是語句解說 (*pada-bhājaniya*)，它詳細解釋了戒條中的大多數重要術語。對於許多戒條，這種解說包括一個或多個「輪子」，或稱表格，給出與戒條相關的意外情況，計算出所有可能的排列，並判斷每種排列所帶來的懲罰（如果有的話）。例如，第一條戒條的討論包含一個輪子，給出一個人可能發生性交的所有物體，根據性交類型以及所涉及的比丘是否同意的變數列出它們，並宣布對每種可能的因素組合的懲罰。
+
+       ..
+          （報告書） 上座部仏教僧侶の喫煙に関する研究 ―戒律文献の ...
+          たばこ総合研究センター
+          https://www.tasc.or.jp › assist › archives › pdf
+          PDF by 青野道彦 — 『ヴィナヤピタカ』の各条文には、それをブッダが制定した経緯を記した因縁譚. (vatthu) と註釈である語句解説 (padabhājaniya) が必ず付随している。先ず、因縁譚を.
+          https://www.tasc.or.jp/assist/archives/h27/pdf/2015_05B_aono.pdf
+
+          世人の非難を受けて制定された律規 定―パーリ律比丘分別を ...
+          佛光大學
+          https://cbsweb.fgu.edu.tw › file_center › get_file
+          PDF
+          ... padabhājaniya）、学処が. 例外的に適用されない事例を示した「無罪」（anāpatti）からなる 4。 本稿で注目するのはこのうちの「因縁譚」であるが、その記述は総. じて波 ...
+          https://cbsweb.fgu.edu.tw/file_center/get_file.php?type=newspaper_menu&id=JDg2IQ==&file=2018091909391486.pdf
+
+          初期佛教梵行思想之研究
+          佛學數位圖書館
+          https://buddhism.lib.ntu.edu.tw › JR-AN
+          PDF by 黃柏棋 · 2007 — ... (Padabhājaniya). 一併為巴利律藏《經分別》(Suttavibhanga)之部分——裡面將「梵. 行」解釋為僧團生活的宗教倫理之理想,其中包含了乞士相關的行. 為特徵,而最重要的
+          https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-AN/an149191.pdf
+          句配分
+
+          学処の
+          導入経緯を説明した「因縁譚」（vatthu）、仏により制定（paññatti） さ
+          れた「学処」（sikkhāpada）、仏により改定（anupaññatti）された「学処」、
+          学処の語句の意味を説明した「語義解説」（padabhājaniya）、学処が
+          例外的に適用されない事例を示した「無罪」（anāpatti）からなる 4
+
+          - 12 -
+          解 釈 し て い る の か 検 討 し た い 14。
+          4-2-1. シ ガ レ ッ ト ・ ク ー ン と Vikālabhojanasikkhāpada
+          4-2-1-1. Vikālabhojanasikkhāpada の 考 察
+          Vikālabhojanasikkhāpada（ 波 逸 提 第 37 条 ） は 、 比 丘 が 非 時 に 食 事 を 取 る こ と を 禁 止
+          す る 規 定 で あ り 、こ れ に 違 反 し た 場 合 に は「 波 逸 提 」の 罪 に な る 。以 下 に 条 文 を 示 す 。
+          非 時 (vikāla) に 噛 む も の (khādaniya) を 噛 み 、又 は 、食 す も の (bhojaniya) を 食 す 比
+          丘 に は 波 逸 提 が あ る 15。
+          『 ヴ ィ ナ ヤ ピ タ カ 』 の 各 条 文 に は 、 そ れ を ブ ッ ダ が 制 定 し た 経 緯 を 記 し た 因 縁 譚
+          (vatthu) と 註 釈 で あ る 語 句 解 説 (padabhājaniya) が 必 ず 付 随 し て い る 。 先 ず 、 因 縁 譚を
+          見 る と 、 こ の 禁 止 規 定 は 比 丘 達 に と っ て 元 々 暗 黙 の 掟 で あ っ た が 、 そ れ を 犯 し た 比 丘
+          が い た の で 、 ブ ッ ダ に よ り 成 文 化 さ れ た と い う 16。
+          続 い て 、語 句 解 説 を 確 認 す る と 、「 非 時 」と は「 正 午
+
 (未完待續)
