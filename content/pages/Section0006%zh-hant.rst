@@ -157,7 +157,7 @@
 
    * - After his total nibbāna, though, his followers made a concerted effort to establish a standard canon of Dhamma and Vinaya, and the Pali Canon as we know it began to take shape. The Vinaya was organized into two main parts: 1) the Sutta Vibhaṅga, the ‘Exposition of the Text’ (which from here on we will refer to simply as the Vibhaṅga), containing almost all the material dealing with the Pāṭimokkha rules; and 2) the Khandhakas, or Groupings, which contain the remaining material organized loosely according to subject matter. The Khandhakas themselves are divided into two parts, the Mahāvagga, or Greater Chapter, and the Cullavagga, or Lesser Chapter. Historians estimate that the Vibhaṅga and Khandhakas reached their present form in approximately the 2nd century B.C.E., and that the Parivāra, or Addenda—a summary and study guide—was added a few centuries later, closing the Vinaya Piṭaka, the part of the Canon dealing with discipline.
 
-     - 然而，在他無餘涅槃之後，他的追隨者齊心協力建立了標準的法和律經典，而我們所知的巴利聖典開始成形。戒律分為兩個主要部分：1）Sutta Vibhaṅga《經分別》，即「文本的解釋」（從這裡開始，我們將簡稱為 Vibhaṅga），包含幾乎所有涉及《波羅提木叉》戒條的材料； 2) Khandhaka《犍度》或稱篇章，其中包含根據主題鬆散組織的剩餘材料。《犍度》本身分為兩部分：Mahāvagga（大品）和 Cullavagga（小品）。歷史學家估計，《經分別》和《犍度》在大約公元前2世紀達到了現在的形式，而 Parivāra 或稱《附隨》——一份總結和學習指南——在幾個世紀後被添加，完成了《律藏》（Vinaya Piṭaka），即聖典有關戒律的部份。
+     - 然而，在他無餘涅槃之後，他的追隨者齊心協力建立了標準的法和律經典，而我們所知的《巴利聖典》開始成形。戒律分為兩個主要部分：1）Sutta Vibhaṅga《經分別》，即「文本的解釋」（從這裡開始，我們將簡稱為 Vibhaṅga），包含幾乎所有涉及《波羅提木叉》戒條的材料； 2) Khandhaka《犍度》或稱篇章，其中包含根據主題鬆散組織的剩餘材料。《犍度》本身分為兩部分：Mahāvagga（大品）和 Cullavagga（小品）。歷史學家估計，《經分別》和《犍度》在大約公元前2世紀達到了現在的形式，而 Parivāra 或稱《附隨》——一份總結和學習指南——在幾個世紀後被添加，完成了《律藏》（Vinaya Piṭaka），即《聖典》有關戒律的部份。
 
    * - Because the purpose of this volume is to translate and explain the Pāṭimokkha, we are most directly concerned with the Vibhaṅga. It is organized as follows: The rules in the Pāṭimokkha are presented one by one, each rule preceded by an origin story relating the events leading up to its formulation. In some instances a rule went through one or more reformulations, in which case an additional story is provided for each amendment to show what prompted it. With each new formulation of a rule, any previous formulations were automatically rescinded. Otherwise, the added restrictions or allowances contained in the reformulations would have been rendered meaningless. Thus, the final formulation of the rule is the authoritative one, with the earlier formulations holding only historical interest.
 
@@ -218,6 +218,23 @@
 
    * - The Vibhaṅga forms the basis for most of the explanations of the training rules given in this volume. However, there are many questions on which the Vibhaṅga is silent or unclear. To answer these questions, I have turned either to the Khandhakas or to the commentarial literature that has grown up around the Vinaya over the course of the centuries. The primary works I have consulted are these:
 
-     - 《經分別》構成了本冊大部分學處解釋的基礎。然而，有許多問題《經分別》沒有提及或不清楚。為了回答這些問題，我要麼求助於《犍度》，要麼求助於幾個世紀以來圍繞戒律發展起來的注釋文獻。我查閱過的主要著作有：
+     - 《經分別》構成了本冊大部分學處解釋的基礎。然而，有許多問題《經分別》沒有提及或不清楚。為了回答這些問題，我要麼求助於《犍度》，要麼求助於幾個世紀以來圍繞戒律發展起來的註釋文獻。我查閱過的主要著作有：
+
+   * - 1) The *Samanta-pāsādikā*—“The Thoroughly Inspiring”—(from here on referred to as the Commentary), a commentary on the Vinaya Piṭaka compiled in the 5th century C.E. by Bhadantācariya Buddhaghosa, who based his work on ancient commentaries. The originals for these ancient commentaries may have been brought to Sri Lanka from India and translated into Sinhalese, but frequent references throughout the commentaries to places and people in Sri Lanka show that much of the material in the commentaries was composed in Sri Lanka. From internal evidence in Buddhaghosa’s writings—he compiled commentaries on a major portion of the Canon—historians have estimated that the ancient commentaries were collected over a span of several centuries and closed in approximately the 4th century C.E. Buddhaghosa’s work thus contains material much older than his date would indicate.
+
+     - 1） *Samanta-pāsādikā* 《一切善見》－「徹底啟發」－（以下簡稱《義註》），是由 尊敬的導師 `佛音`_ (Bhadantācariya Buddhaghosa) 在古代註釋的基礎上於公元5世紀編撰的一部律藏註釋。這些古代註釋的原件可能是從印度帶到斯里蘭卡並翻譯成僧伽羅語，但註釋中經常提到斯里蘭卡的地方和人物，這表明註釋中的大部分材料是在斯里蘭卡撰寫的。根據佛音著作中的內部證據（他對《聖典》的主要部分進行了註釋），歷史學家估計這些古代註釋是在幾個世紀的時間裡收集起來的，並於大約公元4世紀完成。因此，佛音的作品中包含的材料比他的時期所顯示的要古老得多。
+
+   * - By Buddhaghosa’s time a belief had grown up that the ancient commentaries were the work of the Buddha’s immediate disciples and thus indisputably conveyed the true intent of the Canon. However, as we shall see below, the ancient commentaries themselves did not make such exalted claims for themselves.
+
+     - 到了佛音時代，人們逐漸相信古代註釋是佛陀直接弟子的作品，因而無可爭議地傳達了《聖典》的真實意圖。然而，正如我們將在下面看到的，古代註釋本身並沒有做出如此崇高的宣稱。
+
+   * - Still, the existence of this belief in the 5th century placed certain constraints on Buddhaghosa’s work. At points where the ancient commentaries conflicted with the Canon, he had to write the discrepancies off as copier’s mistakes or else side with the commentaries against the Canon. At a few points, such as his explanation of `Pc 9 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9>`__, he provides arguments effectively demolishing the ancient commentaries’ interpretation but then backs off, saying that the ancient commentaries must be right because their authors knew the Buddha’s intentions. Perhaps pressure from the elder bhikkhus at the Mahāvihāra in Anurādhapura—the place where the ancient commentaries had been preserved and where Buddhaghosa was allowed to do his work—was what made him back off in this way. At any rate, only on points where the different ancient commentaries were silent or gave divergent opinions did he feel free to express his own.
+
+     - 儘管如此，這種在五世紀存在的相信還是對佛音的作品造成了一定的限制。當古代註釋與《聖典》發生衝突時，他必須將這些差異作為抄寫者的錯誤予以記錄，否則就站在反對《聖典》的註釋一邊。在一些要點上，例如他對《波逸提九》的解釋，他提供了有效地推翻古代註釋解釋的論據，但隨後又退縮了，說古代註釋一定是正確的，因為它們的作者知道佛陀的意圖。也許是來自 `阿努拉德普勒 大寺`_ 的年長比丘的壓力——那裡保存著古代註釋，佛音也被允許在那裡做他的工作——是讓他如此退縮的原因。 無論如何，只有在不同的古代註釋沒有提及或有不同意見的地方，他才可以自由地表達自己的觀點。
+
+       .. TODO FIXME: add link to 《波逸提九》
+
+.. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
+.. _阿努拉德普勒 大寺: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA
 
 (未完待續)
