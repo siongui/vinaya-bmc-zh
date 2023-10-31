@@ -208,4 +208,16 @@
           が い た の で 、 ブ ッ ダ に よ り 成 文 化 さ れ た と い う 16。
           続 い て 、語 句 解 説 を 確 認 す る と 、「 非 時 」と は「 正 午
 
+   * - Following the word-analysis for each rule is a section of non-offense clauses, listing extenuating circumstances under which a bhikkhu would be exempted from the penalty imposed by the rule.
+
+     - 每條戒條的語句解說之後是不犯條款部分，列出了比丘可以免除該戒條所施加的處罰的情有可原的情況。
+
+   * - Finally, for the major rules, there is the Vinīta-vatthu, or Precedents, listing various cases related to the rule and giving verdicts as to what penalty, if any, they entail.
+
+     - 最後，對於主要戒條，有 Vinīta-vatthu（先例），列出了與該戒條相關的各種案例，並就這些戒條所帶來的懲罰（如果有的話）給出了判決。
+
+   * - The Vibhaṅga forms the basis for most of the explanations of the training rules given in this volume. However, there are many questions on which the Vibhaṅga is silent or unclear. To answer these questions, I have turned either to the Khandhakas or to the commentarial literature that has grown up around the Vinaya over the course of the centuries. The primary works I have consulted are these:
+
+     - 《經分別》構成了本冊大部分學處解釋的基礎。然而，有許多問題《經分別》沒有提及或不清楚。為了回答這些問題，我要麼求助於《犍度》，要麼求助於幾個世紀以來圍繞戒律發展起來的注釋文獻。我查閱過的主要著作有：
+
 (未完待續)
