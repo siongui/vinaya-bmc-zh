@@ -222,7 +222,7 @@
 
    * - 1) The *Samanta-pāsādikā*—“The Thoroughly Inspiring”—(from here on referred to as the Commentary), a commentary on the Vinaya Piṭaka compiled in the 5th century C.E. by Bhadantācariya Buddhaghosa, who based his work on ancient commentaries. The originals for these ancient commentaries may have been brought to Sri Lanka from India and translated into Sinhalese, but frequent references throughout the commentaries to places and people in Sri Lanka show that much of the material in the commentaries was composed in Sri Lanka. From internal evidence in Buddhaghosa’s writings—he compiled commentaries on a major portion of the Canon—historians have estimated that the ancient commentaries were collected over a span of several centuries and closed in approximately the 4th century C.E. Buddhaghosa’s work thus contains material much older than his date would indicate.
 
-     - 1） *Samanta-pāsādikā* 《一切善見》－「徹底啟發」－（以下簡稱《義註》），是由 尊敬的導師 `佛音`_ (Bhadantācariya Buddhaghosa) 在古代註釋的基礎上於公元5世紀編撰的一部律藏註釋。這些古代註釋的原件可能是從印度帶到斯里蘭卡並翻譯成僧伽羅語，但註釋中經常提到斯里蘭卡的地方和人物，這表明註釋中的大部分材料是在斯里蘭卡撰寫的。根據佛音著作中的內部證據（他對《聖典》的主要部分進行了註釋），歷史學家估計這些古代註釋是在幾個世紀的時間裡收集起來的，並於大約公元4世紀完成。因此，佛音的作品中包含的材料比他的時期所顯示的要古老得多。
+     - 1） *Samanta-pāsādikā* `《一切善見》`_ 、《普端嚴》 －「徹底啟發」－（以下簡稱《義註》），是由 尊敬的導師 `佛音`_ (Bhadantācariya Buddhaghosa) 在古代註釋的基礎上於公元5世紀編撰的一部律藏註釋。這些古代註釋的原件可能是從印度帶到斯里蘭卡並翻譯成僧伽羅語，但註釋中經常提到斯里蘭卡的地方和人物，這表明註釋中的大部分材料是在斯里蘭卡撰寫的。根據佛音著作中的內部證據（他對《聖典》的主要部分進行了註釋），歷史學家估計這些古代註釋是在幾個世紀的時間裡收集起來的，並於大約公元4世紀完成。因此，佛音的作品中包含的材料比他的時期所顯示的要古老得多。
 
    * - By Buddhaghosa’s time a belief had grown up that the ancient commentaries were the work of the Buddha’s immediate disciples and thus indisputably conveyed the true intent of the Canon. However, as we shall see below, the ancient commentaries themselves did not make such exalted claims for themselves.
 
@@ -239,7 +239,13 @@
           印度佛教史 155
           在錫蘭方面，有一位木扠伽摩尼王，在阿㝹羅陀補羅，建設精舍、大塔、銅殿等，厚供僧伽。由於諸王的外護，佛教順利發展，佛教未至之前，本來為供尼乾子（耆那教徒）而建的無畏山寺，也轉而供給了大寺的長老摩訶帝須。其後又由諸多王臣的護持，建立的寺塔頗多。錫蘭佛教本屬印度的一支，本書當以另篇介紹，故此處從略。
 
+   * - 2) The *Kaṅkhā-vitaraṇī*—“The Subjugator of Uncertainty”—(the K/Commentary), a commentary on the Pāṭimokkha also compiled by Buddhaghosa. Although this work is largely a synopsis of material in the Commentary, it contains some independent material, in particular a system of classifying the offenses under each training rule into their component factors. It also contradicts the Commentary from time to time, suggesting that it may have been based on a commentarial tradition different from the one underlying the Commentary.
+
+     - 2） *Kaṅkhā-vitaraṇī* `《疑惑度脫》`_ －「不確定性的征服者」－（K/《義註》），也是佛音編撰的《波羅提木叉》的註釋。雖然這部作品主要是《義註》中材料的概要，但它包含一些獨立的材料，特別是將每個學處下的違規行為分類為其組成因素的體系。它也不時與《義註》相矛盾，表明它可能基於與《義註》所依據的註釋傳統是不同的註釋傳統。
+
+.. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _阿㝹羅陀補羅 大寺: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA
+.. _《疑惑度脫》: https://zh.wikipedia.org/zh-hant/%E7%BE%A9%E8%A8%BB#%E8%A6%BA%E9%9F%B3
 
 (未完待續)
