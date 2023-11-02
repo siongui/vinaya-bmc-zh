@@ -262,11 +262,39 @@
           《法句義注》選(1)
           https://books.google.co.th/books?id=IbfJEAAAQBAJ&pg=PA85&lpg=PA85&dq=Mah%C4%81s%C4%81min&source=bl&ots=hg7czsbHNR&sig=ACfU3U0VAkdTe7dgjVu3yj3um_mLiCY0lg&hl=en&sa=X&ved=2ahUKEwjewfqg_aKCAxWejVYBHQCQA3o4ChDoAXoECAIQAw#v=onepage&q=Mah%C4%81s%C4%81min&f=false
 
+   * - 4) The *Vimati-vinodanī*—“The Remover of Perplexity”—(the V/Sub-commentary), another 12th-century sub-commentary, written in southern India by a Ven. Kassapa, who also wrote the *Mohavicchedanī*, a synopsis of the Abhidhamma Piṭaka and Buddhaghosa’s commentaries on it.
+
+     - 4) *Vimati-vinodanī* 《除疑》－「困惑的消除者」－（V/《複註》），另一本 12 世紀的《複註》，由 `迦葉尊者`_ 在南印度撰寫，他也寫了《斷除愚痴》（ *Mohavicchedanī* ）、是 `《論藏》`_ 和佛音對其的註釋的概要。
+
+       ..
+          https://catalog.digitalarchives.tw/item/00/61/10/fb.html
+          附註:此夾貝葉經以緬文抄刻巴利語成書，初步整理其抄刻內容為《除疑疏》(Vimativinodanī tīkā，巴利語直譯中文題名)，屬巴利三藏中《律藏》之疏鈔。容分為五個部份，分別擁有出版標記頁，分別記載其抄刻完成年代，大致完成於緬曆1225年9月(約西元1863年)，於第三與第四部份的出版標記頁詳載捐獻者資料，此件經文完整。
+
+          https://www.google.com/search?q=Mohavicchedan%C4%AB+%E6%B3%A8
+          法雨道場
+          http://www.dhammarain.org.tw › pali_primary
+          PDF
+          ... 注. 意：be 動詞之「人稱、數」配合B。 Page 141. 131. 9. 如果有智比丘住在村莊的話 ... 【Mohavicchedanī】 《斷除愚痴》. 3. Abhidhammatthasaṅgaho.
+          245 pages
+          http://www.dhammarain.org.tw/books/pali_primary.pdf
+
+          國家圖書館期刊文獻資訊網
+          https://tpl.ncl.edu.tw › NclService › pdfdownload
+          中華佛學研究第十四期頁155-197(民國一○二年),新北
+          https://tpl.ncl.edu.tw/NclService/pdfdownload?filePath=lV8OirTfsslWcCxIpLbUfhQHstx_oOBLEeG7r4Jkh8R7B-nXoXiU7_sxgJXR66er&imgType=Bn5sH4BGpJw=&key=Vdw2GJWz4hMq2TwkIcCSl2UoTtnIdg7HoUvOD7nyBh8eVVU9OyINO4qBZJhLTxWd&xmlId=0006751583
+          名為kassapa 的行者撰有《斷癡論》(Mohavicchedanī) 10、《斷. 疑》(Vimaticchedanī) 11、《佛史》(Buddhavaṃsa) 12 和《未來. 史》四本書。 若真如《書史》所述,
+
+          台語與佛典: 書房夜話 263：巴利文獻書目
+          https://yifertw.blogspot.com/2020/09/263.html
+          Abhidhammamātikāpāḷi【Mohavicchedanī】 阿毘達摩論母《斷除愚痴》.
+
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _阿㝹羅陀補羅 大寺: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA
 .. _《疑惑度脫》: https://zh.wikipedia.org/zh-hant/%E7%BE%A9%E8%A8%BB#%E8%A6%BA%E9%9F%B3
 .. _波羅迦羅摩巴忽一世: https://gmhjohnny.wordpress.com/2020/06/12/%E9%8C%AB%E8%98%AD%E7%8E%8B%E5%9C%8B%E7%BE%85%E9%97%8D%E6%B3%A2%E7%BE%85%E8%BF%A6%E7%BE%85%E6%91%A9%E5%B7%B4%E5%BF%BD%E4%B8%80%E4%B8%96%E5%A4%A7%E7%8E%8B%E4%B8%80%EF%BC%9A%E8%8B%B1%E9%9B%84%E5%B0%91/
 .. _Parakrāmabāhu I: https://en.wikipedia.org/wiki/Parakramabahu_I
+.. _《論藏》: https://zh.wikipedia.org/zh-hant/%E8%AB%96%E8%97%8F
+.. _迦葉尊者: https://en.wikipedia.org/wiki/Mah%C4%81kassapa_Thera
 
 (未完待續)
