@@ -241,11 +241,11 @@
 
    * - 2) The *Kaṅkhā-vitaraṇī*—“The Subjugator of Uncertainty”—(the K/Commentary), a commentary on the Pāṭimokkha also compiled by Buddhaghosa. Although this work is largely a synopsis of material in the Commentary, it contains some independent material, in particular a system of classifying the offenses under each training rule into their component factors. It also contradicts the Commentary from time to time, suggesting that it may have been based on a commentarial tradition different from the one underlying the Commentary.
 
-     - 2） *Kaṅkhā-vitaraṇī* `《疑惑度脫》`_ －「不確定性的征服者」－（K/《義註》），也是佛音編撰的《波羅提木叉》的註釋。雖然這部作品主要是《義註》中材料的概要，但它包含一些獨立的材料，特別是將每個學處下的違規行為分類為其組成因素的體系。它也不時與《義註》相矛盾，表明它可能基於與《義註》所依據的註釋傳統是不同的註釋傳統。
+     - 2） *Kaṅkhā-vitaraṇī* `《疑惑度脫》`_ －「不確定性的征服者」－（K/《義註》），也是佛音編撰的《波羅提木叉》的註釋。雖然這部作品主要是《義註》中材料的概要，但它包含一些獨立的材料，特別是將每個學處下的違規行為分類為其組成因素的體系。它也不時與《義註》相矛盾，表明它所基於的註釋傳統可能與《義註》所依據的註釋傳統不同。
 
    * - 3) The *Sārattha-dīpanī*—“The Essence-Meaning Illustrator”—(the Sub-commentary), a sub-commentary on the Commentary, written in Sri Lanka in the 12th century C.E. by a Ven. Sāriputta, the first Mahāsāmin, or head of the Sri Lankan Saṅgha, after that Saṅgha was reformed and unified under the patronage of King Parakrāmabāhu I. This work not only explains the Commentary but also deals with points in the Canon itself, sometimes indicating passages where the Commentary has deviated from the Canon. It also quotes as authoritative the judgments of three ancient texts—the Gaṇṭhipadas, which are no longer extant—and of Ven. Buddhadatta, a scholar of the 4th century C.E. who wrote two extant Vinaya guides.
 
-     - 3) *Sārattha-dīpanī* 《闡明實義》、《實義燈疏》、《心義燈》 ——「精義說明者」——（《複註》），是《義註》的再註釋，於公元 12 世紀在斯里蘭卡，由沙利子(Sāriputta)尊者撰寫，他是第一任摩訶薩明(Mahāsāmin)，斯里蘭卡僧伽的領袖。之後，僧伽在 `羅闍波羅迦羅摩巴忽一世`_ (`Parakrāmabāhu I`_) 的贊助下進行了改革和統一。這部著作不僅解釋了《義註》，也涉及《聖典》本身的要點，有時指出了《義註》已偏離《聖典》的段落。它也將三部古代文獻的判斷做為權威引述，包含現已不復存在的《隱晦文句》（Gaṇṭhipada），以及兩本現存的戒律指南，由公元 4 世紀的學者佛授(Buddhadatta)尊者撰寫。
+     - 3) *Sārattha-dīpanī* 《闡明實義》、《實義燈疏》、《心義燈》 ——「精義說明者」——（《複註》），是《義註》的再註釋，於公元 12 世紀在斯里蘭卡，由沙利子(Sāriputta)尊者撰寫，他是第一任摩訶薩明(Mahāsāmin)，斯里蘭卡僧伽的領袖。之後，僧伽在 `波羅迦羅摩巴忽一世`_ (`Parakrāmabāhu I`_) 的贊助下進行了改革和統一。這部著作不僅解釋了《義註》，也涉及《聖典》本身的要點，有時指出了《義註》已偏離《聖典》的段落。它也將三部古代文獻的判斷做為權威引述，包含現已不復存在的《隱晦文句》（Gaṇṭhipada），以及兩本現存的戒律指南，由公元 4 世紀的學者佛授(Buddhadatta)尊者撰寫。
 
        ..
           https://www.google.com/search?q=S%C4%81rattha-d%C4%ABpan%C4%AB+%E8%A8%BB
@@ -266,7 +266,7 @@
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _阿㝹羅陀補羅 大寺: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA
 .. _《疑惑度脫》: https://zh.wikipedia.org/zh-hant/%E7%BE%A9%E8%A8%BB#%E8%A6%BA%E9%9F%B3
-.. _羅闍波羅迦羅摩巴忽一世: https://gmhjohnny.wordpress.com/2020/06/12/%E9%8C%AB%E8%98%AD%E7%8E%8B%E5%9C%8B%E7%BE%85%E9%97%8D%E6%B3%A2%E7%BE%85%E8%BF%A6%E7%BE%85%E6%91%A9%E5%B7%B4%E5%BF%BD%E4%B8%80%E4%B8%96%E5%A4%A7%E7%8E%8B%E4%B8%80%EF%BC%9A%E8%8B%B1%E9%9B%84%E5%B0%91/
+.. _波羅迦羅摩巴忽一世: https://gmhjohnny.wordpress.com/2020/06/12/%E9%8C%AB%E8%98%AD%E7%8E%8B%E5%9C%8B%E7%BE%85%E9%97%8D%E6%B3%A2%E7%BE%85%E8%BF%A6%E7%BE%85%E6%91%A9%E5%B7%B4%E5%BF%BD%E4%B8%80%E4%B8%96%E5%A4%A7%E7%8E%8B%E4%B8%80%EF%BC%9A%E8%8B%B1%E9%9B%84%E5%B0%91/
 .. _Parakrāmabāhu I: https://en.wikipedia.org/wiki/Parakramabahu_I
 
 (未完待續)
