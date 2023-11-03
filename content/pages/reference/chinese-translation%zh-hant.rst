@@ -324,7 +324,7 @@
 
 - `覓寂尊者 - Google Search <https://www.google.com/search?q=%E8%A6%93%E5%AF%82%E5%B0%8A%E8%80%85>`_
 
-  * `小誦經註 佛音尊者 註釋 覓寂尊者 中譯 <https://www.taiwandipa.org.tw/images/k/k3936-0.pdf>`_
+  * `[PDF] 小誦經註 佛音尊者 註釋 覓寂尊者 中譯 <https://www.taiwandipa.org.tw/images/k/k3936-0.pdf>`_
     (`PDF mirror <{static}/extra/pdf-mirror/santagavesaka-bhikkhu/k3936-0.pdf>`__)
 
 - `溫宗堃 - Google Search <https://www.google.com/search?q=%E6%BA%AB%E5%AE%97%E5%A0%83>`_
@@ -335,6 +335,12 @@
     (`PDF mirror <{static}/extra/pdf-mirror/tzung-kuen-wen/Suttatkwen.sutta.org-DrPecenko.pdf.pdf>`__)
 
     + `(PDF) 《顯揚隱義》與《心義寶函》 - Suttatkwen.sutta.org/DrPecenko.pdf · 佛教、㊞度教、㊞度傳統、神與㊛神；世界㊪教入門、環境與文化 入門 (與其他老師合開)。 - DOKUMEN.TIPS <https://dokumen.tips/documents/eecefc-ccecicoeecfeoe.html>`_
+
+  * `巴利註釋文獻裡的乾觀者 溫宗堃 <https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-BM054/bm054128190.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/tzung-kuen-wen/bm054128190.pdf>`__)
+
+- `[PDF] 《未來史》研究 ——主要與漢譯彌勒「下生經」比對 釋見量 <http://www.chibs.edu.tw/ch_html/chbs/14/chbs1404.pdf>`_
+  (`PDF mirror <{static}/extra/pdf-mirror/chbs1404.pdf>`__)
 
 
 專有名詞
