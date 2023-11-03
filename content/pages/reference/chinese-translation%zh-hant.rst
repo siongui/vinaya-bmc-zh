@@ -314,6 +314,19 @@
     .. 除疑（Vimativinodanī）, 1, 巴利語, 1902, 贈善025919. 26, 除疑疏（Vimativinodanī tīkā）, 1, 巴利語, 1904, 贈善025900. 27, 攝律義（Vinayasaṅgaha）（第二冊）, 2 ...
 
 
+巴利藏外文獻
+++++++++++++
+
+- `溫宗堃 - Google Search <https://www.google.com/search?q=%E6%BA%AB%E5%AE%97%E5%A0%83>`_
+
+  * `[PDF] 巴利註釋書的古層 —《雜阿含經》與《相應部註》語句交會的幾個例子 》語句交會的幾個例子— 溫宗堃 <https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-AN/an148761.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/tzung-kuen-wen/an148761.pdf>`__)
+  * `[PDF] 《顯揚隱義》與《心義寶函》——㆕部《尼柯耶》的《古疏》與《疏》 Dr. Primoz Pecenko 原著 溫宗堃 譯 <http://kusala.online-dhamma.net/%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99/%E5%8D%97%E5%82%B3%E4%BD%9B%E6%95%99%E5%9C%96%E6%9B%B8%E9%A4%A8%20Theravada%20Buddhism%20E-Library/043%20%E8%AB%96%E6%96%87/%E9%A1%AF%E6%8F%9A%E9%9A%B1%E7%BE%A9%E8%88%87%E7%9C%9F%E7%BE%A9%E5%AF%B6%E5%87%BD.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/tzung-kuen-wen/%E9%A1%AF%E6%8F%9A%E9%9A%B1%E7%BE%A9%E8%88%87%E7%9C%9F%E7%BE%A9%E5%AF%B6%E5%87%BD.pdf>`__)
+
+    + `(PDF) 《顯揚隱義》與《心義寶函》 - Suttatkwen.sutta.org/DrPecenko.pdf · 佛教、㊞度教、㊞度傳統、神與㊛神；世界㊪教入門、環境與文化 入門 (與其他老師合開)。 - DOKUMEN.TIPS <https://dokumen.tips/documents/eecefc-ccecicoeecfeoe.html?>`_
+
+
 專有名詞
 ++++++++
 
