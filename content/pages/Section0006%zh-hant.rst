@@ -245,7 +245,7 @@
 
    * - 3) The *Sārattha-dīpanī*—“The Essence-Meaning Illustrator”—(the Sub-commentary), a sub-commentary on the Commentary, written in Sri Lanka in the 12th century C.E. by a Ven. Sāriputta, the first Mahāsāmin, or head of the Sri Lankan Saṅgha, after that Saṅgha was reformed and unified under the patronage of King Parakrāmabāhu I. This work not only explains the Commentary but also deals with points in the Canon itself, sometimes indicating passages where the Commentary has deviated from the Canon. It also quotes as authoritative the judgments of three ancient texts—the Gaṇṭhipadas, which are no longer extant—and of Ven. Buddhadatta, a scholar of the 4th century C.E. who wrote two extant Vinaya guides.
 
-     - 3) *Sārattha-dīpanī* 《闡明實義》、《實義燈疏》、《心義燈》 ——「精義說明者」——（《複註》），是《義註》的再註釋，於公元 12 世紀在斯里蘭卡，由沙利子(Sāriputta)尊者撰寫，他是第一任摩訶薩明(Mahāsāmin)，斯里蘭卡僧伽的領袖。之後，僧伽在 `波羅迦羅摩巴忽一世`_ (`Parakrāmabāhu I`_) 的贊助下進行了改革和統一。這部著作不僅解釋了《義註》，也涉及《聖典》本身的要點，有時指出了《義註》已偏離《聖典》的段落。它也將三部古代文獻的判斷做為權威引述，包含現已不復存在的《隱晦文句》（Gaṇṭhipada），以及兩本現存的戒律指南，由公元 4 世紀的學者佛授(Buddhadatta)尊者撰寫。
+     - 3） *Sārattha-dīpanī* 《闡明實義》、《實義燈疏》、《心義燈》 ——「精義說明者」——（《複註》），是《義註》的再註釋，於公元 12 世紀在斯里蘭卡，由沙利子(Sāriputta)尊者撰寫，他是第一任摩訶薩明(Mahāsāmin)，斯里蘭卡僧伽的領袖。之後，僧伽在 `波羅迦羅摩巴忽一世`_ (`Parakrāmabāhu I`_) 的贊助下進行了改革和統一。這部著作不僅解釋了《義註》，也涉及《聖典》本身的要點，有時指出了《義註》已偏離《聖典》的段落。它也將三部古代文獻的判斷做為權威引述，包含現已不復存在的《隱晦文句》（Gaṇṭhipada），以及兩本現存的戒律指南，由公元 4 世紀的學者佛授(Buddhadatta)尊者撰寫。
 
        ..
           https://www.google.com/search?q=S%C4%81rattha-d%C4%ABpan%C4%AB+%E8%A8%BB
@@ -264,7 +264,7 @@
 
    * - 4) The *Vimati-vinodanī*—“The Remover of Perplexity”—(the V/Sub-commentary), another 12th-century sub-commentary, written in southern India by a Ven. Kassapa, who also wrote the *Mohavicchedanī*, a synopsis of the Abhidhamma Piṭaka and Buddhaghosa’s commentaries on it.
 
-     - 4) *Vimati-vinodanī* 《除疑》－「困惑的消除者」－（V/《複註》），另一本 12 世紀的《複註》，由 `迦葉尊者`_ 在南印度撰寫，他也寫了《斷除愚痴》（ *Mohavicchedanī* ）、是 `《論藏》`_ 和佛音對其的註釋的概要。
+     - 4） *Vimati-vinodanī* 《除疑》－「困惑的消除者」－（V/《複註》），另一本 12 世紀的《複註》，由 `迦葉尊者`_ 在南印度撰寫，他也寫了《斷除愚痴》（ *Mohavicchedanī* ）、是 `《論藏》`_ 和佛音對其的註釋的概要。
 
        ..
           https://catalog.digitalarchives.tw/item/00/61/10/fb.html
@@ -298,6 +298,18 @@
           馬哈希尊者傳.pdf
           https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E9%A6%AC%E5%93%88%E5%B8%8C%E5%B0%8A%E8%80%85%E5%82%B3.pdf
           佛龍（Buddhanāga，為《度疑新疏》（Kandhā New ṭīkā）的編. 者）、文法學家目犍連（Moggallāna，《巴利同義語字典》. （Abhidhānappadīpikā）的編者）等等。
+
+   * - 6) The *Attha-yojanā*—“The Interpretation of the Meaning”—(the A/Sub-commentary), a sub-commentary that—unlike the works of Vens. Sāriputta, Kassapa, and Buddhanāga—does little more than analyze the language of the Commentary. This was written in the 15th century C.E. by a Chieng Mai grammarian named Ven. Ñāṇakitti.
+
+     - 6） *Attha-yojanā*——「意義的解釋」——（A/《複註》），是一本再註釋書——與沙利子、迦葉和佛龍尊者的著作不同——所做的只不過是分析《義註》的語言。這是由一位名叫智名(Ñāṇakitti)尊者的清邁文法學家於公元 15 世紀撰寫的。
+
+   * - From here on “the ancient commentaries” will denote the original commentaries that Buddhaghosa had to work with, and “the commentaries” all seven works listed above.
+
+     - 從這裡開始，「古代註釋」指佛音所著的原始註釋，而「註釋」則指上面列出的所有七部作品。
+
+   * - In addition to the Canon and the commentaries, I have referred to the texts listed in the Bibliography. Three of these deserve special mention here.
+
+     - 除了《聖典》和註釋之外，我還參考了參考書目中列出的文本。其中三個值得特別一提。
 
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
