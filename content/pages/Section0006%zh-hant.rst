@@ -311,6 +311,10 @@
 
      - 除了《聖典》和註釋之外，我還參考了參考書目中列出的文本。其中三個值得特別一提。
 
+   * - 1) The *Pubbasikkhā-vaṇṇanā*, a large compendium of rules from the Canon and the Commentary, compiled in 1860 by Phra Amarabhirakkhit (Amaro Koed), a pupil of King Rāma IV. This was the first comprehensive Vinaya guide compiled for use in the Dhammayut sect, which was founded by Rāma IV while he was still a monk. Although this book was officially supplanted by the *Vinaya-mukha* (see below), many Communities in Thailand, especially among the Kammaṭṭhāna forest tradition, still prefer it as more authoritative. The book contains a minimum of explanatory material, but it does occasionally provide interpretations of the Canon that cannot be traced directly to the Commentary. Many of these interpretations were carried over into the *Vinaya-mukha*, so a bhikkhu practicing in Thailand would be well advised to know them. Thus I have made reference to them wherever relevant.
+
+     - 1） *Pubbasikkhā-vaṇṇanā* ，一部來自《聖典》和《義註》的大型戒條綱要，由 `拉瑪四世`_ 國王的弟子 Phra Amarabhirakkhit (Amaro Koed) 於 1860 年編撰。這是第一本供 `法宗派`_ 使用的綜合戒律指南，該教派是由拉瑪四世在還是比丘時創立的。儘管這本書已正式被《戒律入口》（見下文）取代，但泰國的許多僧團，尤其是 `泰國森林傳統`_ 中，仍然更偏好它，更具權威性。本書包含最少的解釋性資料，但偶爾也會提供對《聖典》的解釋，這些解釋無法直接追溯到《義註》。其中許多解釋都被帶入到了《戒律入口》中，所以在泰國修行的比丘最好了解它們。因此，我在相關的地方會提到它們。
+
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _阿㝹羅陀補羅 大寺: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA
@@ -320,5 +324,8 @@
 .. _《論藏》: https://zh.wikipedia.org/zh-hant/%E8%AB%96%E8%97%8F
 .. _迦舍博尊者: https://en.wikipedia.org/wiki/Mah%C4%81kassapa_Thera
 .. _阿㝹羅陀補羅: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92
+.. _拉瑪四世: https://zh.wikipedia.org/zh-hant/%E6%8B%89%E7%8E%9B%E5%9B%9B%E4%B8%96
+.. _法宗派: https://zh.wikipedia.org/zh-hant/%E6%B3%95%E7%9B%B8%E5%BA%94%E6%B4%BE
+.. _泰國森林傳統: https://en.wikipedia.org/wiki/Thai_Forest_Tradition
 
 (未完待續)
