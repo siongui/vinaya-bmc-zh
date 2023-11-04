@@ -336,11 +336,19 @@
 
     + `(PDF) 《顯揚隱義》與《心義寶函》 - Suttatkwen.sutta.org/DrPecenko.pdf · 佛教、㊞度教、㊞度傳統、神與㊛神；世界㊪教入門、環境與文化 入門 (與其他老師合開)。 - DOKUMEN.TIPS <https://dokumen.tips/documents/eecefc-ccecicoeecfeoe.html>`_
 
-  * `巴利註釋文獻裡的乾觀者 溫宗堃 <https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-BM054/bm054128190.pdf>`_
+  * `[PDF] 巴利註釋文獻裡的乾觀者 溫宗堃 <https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-BM054/bm054128190.pdf>`_
     (`PDF mirror <{static}/extra/pdf-mirror/tzung-kuen-wen/bm054128190.pdf>`__)
+
+  * `[PDF] 馬哈希尊者傳 <https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E9%A6%AC%E5%93%88%E5%B8%8C%E5%B0%8A%E8%80%85%E5%82%B3.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/tzung-kuen-wen/mahaasi-biography.pdf>`__)
 
 - `[PDF] 《未來史》研究 ——主要與漢譯彌勒「下生經」比對 釋見量 <http://www.chibs.edu.tw/ch_html/chbs/14/chbs1404.pdf>`_
   (`PDF mirror <{static}/extra/pdf-mirror/chbs1404.pdf>`__)
+
+- `財團法人台灣佛教龍樹林基金會 | Nāuyana Taiwan <https://www.nauyana.org.tw/>`_
+
+  * `[PDF] 聖法大長老自傳 <https://www.nauyana.org.tw/download/autobiography.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/nauyana/autobiography.pdf>`__)
 
 
 專有名詞
