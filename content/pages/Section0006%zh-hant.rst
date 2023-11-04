@@ -264,7 +264,7 @@
 
    * - 4) The *Vimati-vinodanī*—“The Remover of Perplexity”—(the V/Sub-commentary), another 12th-century sub-commentary, written in southern India by a Ven. Kassapa, who also wrote the *Mohavicchedanī*, a synopsis of the Abhidhamma Piṭaka and Buddhaghosa’s commentaries on it.
 
-     - 4） *Vimati-vinodanī* 《除疑》－「困惑的消除者」－（V/《複註》），另一本 12 世紀的《複註》，由 `迦葉尊者`_ 在南印度撰寫，他也寫了《斷除愚痴》（ *Mohavicchedanī* ）、是 `《論藏》`_ 和佛音對其的註釋的概要。
+     - 4） *Vimati-vinodanī* 《除疑》－「困惑的消除者」－（V/《複註》），另一本 12 世紀的《複註》，由 `迦舍博尊者`_ 在南印度撰寫，他也寫了《斷除愚痴》（ *Mohavicchedanī* ）、是 `《論藏》`_ 和佛音對其的註釋的概要。
 
        ..
           https://catalog.digitalarchives.tw/item/00/61/10/fb.html
@@ -301,7 +301,7 @@
 
    * - 6) The *Attha-yojanā*—“The Interpretation of the Meaning”—(the A/Sub-commentary), a sub-commentary that—unlike the works of Vens. Sāriputta, Kassapa, and Buddhanāga—does little more than analyze the language of the Commentary. This was written in the 15th century C.E. by a Chieng Mai grammarian named Ven. Ñāṇakitti.
 
-     - 6） *Attha-yojanā*——「意義的解釋」——（A/《複註》），是一本再註釋書——與沙利子、迦葉和佛龍尊者的著作不同——所做的只不過是分析《義註》的語言。這是由一位名叫智名(Ñāṇakitti)尊者的清邁文法學家於公元 15 世紀撰寫的。
+     - 6） *Attha-yojanā*——「意義的解釋」——（A/《複註》），是一本再註釋書——與沙利子、迦舍博和佛龍尊者的著作不同——所做的只不過是分析《義註》的語言。這是由一位名叫智名(Ñāṇakitti)尊者的清邁文法學家於公元 15 世紀撰寫的。
 
    * - From here on “the ancient commentaries” will denote the original commentaries that Buddhaghosa had to work with, and “the commentaries” all seven works listed above.
 
@@ -318,7 +318,7 @@
 .. _波羅迦羅摩巴忽一世: https://gmhjohnny.wordpress.com/2020/06/12/%E9%8C%AB%E8%98%AD%E7%8E%8B%E5%9C%8B%E7%BE%85%E9%97%8D%E6%B3%A2%E7%BE%85%E8%BF%A6%E7%BE%85%E6%91%A9%E5%B7%B4%E5%BF%BD%E4%B8%80%E4%B8%96%E5%A4%A7%E7%8E%8B%E4%B8%80%EF%BC%9A%E8%8B%B1%E9%9B%84%E5%B0%91/
 .. _Parakrāmabāhu I: https://en.wikipedia.org/wiki/Parakramabahu_I
 .. _《論藏》: https://zh.wikipedia.org/zh-hant/%E8%AB%96%E8%97%8F
-.. _迦葉尊者: https://en.wikipedia.org/wiki/Mah%C4%81kassapa_Thera
+.. _迦舍博尊者: https://en.wikipedia.org/wiki/Mah%C4%81kassapa_Thera
 .. _阿㝹羅陀補羅: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92
 
 (未完待續)
