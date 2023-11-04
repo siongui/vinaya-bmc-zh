@@ -369,6 +369,14 @@
     + `《法句義注》選(1) - Google Books <https://books.google.com/books/about/%E6%B3%95%E5%8F%A5%E7%BE%A9%E6%B3%A8_%E9%81%B8_1.html?id=IbfJEAAAQBAJ>`_
     + `專欄 -  【律海掬漚】雨安居（一） 坦尼沙羅尊者（Ṭhānissaro Bhikkhu） <http://www.gayamagazine.org/article/detail/3956>`_
 
+- `法雨道場 <http://www.dhammarain.org.tw/>`_
+  (`GitHub Pages <https://dhammarain.github.io/>`__)
+
+  * `[PDF] 巴利語入門 釋性恩(Dhammajīvī) <http://www.dhammarain.org.tw/books/pali_primary.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/dhammarain/pali_primary.pdf>`__)
+
+- `台語與佛典: 書房夜話 263：巴利文獻書目 <https://yifertw.blogspot.com/2020/09/263.html>`_
+
 
 專有名詞
 ++++++++
