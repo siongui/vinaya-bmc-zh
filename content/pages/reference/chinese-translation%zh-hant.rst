@@ -342,13 +342,32 @@
   * `[PDF] 馬哈希尊者傳 <https://mbscnn.org/ckfinder/userfiles/files/%E5%87%BA%E7%89%88%E5%93%81/%E9%A6%AC%E5%93%88%E5%B8%8C%E5%B0%8A%E8%80%85%E5%82%B3.pdf>`_
     (`PDF mirror <{static}/extra/pdf-mirror/tzung-kuen-wen/mahaasi-biography.pdf>`__)
 
+- `青野道彥 - Google Search <https://www.google.com/search?q=%E9%9D%92%E9%87%8E%E9%81%93%E5%BD%A5>`_
+
+  * `[PDF] 上座部仏教僧侶の喫煙に関する研究（報告書）青野道彦 <https://www.tasc.or.jp/assist/archives/h27/pdf/2015_05B_aono.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/aono-michihiko/2015_05B_aono.pdf>`__)
+
+  * `[PDF] 世人の非難を受けて制定された律規定―パーリ律比丘分別を参照して― 青野道彥 <https://cbsweb.fgu.edu.tw/file_center/get_file.php?type=newspaper_menu&id=JDg2IQ==&file=2018091909391486.pdf>`_
+    (`PDF mirror <{static}/extra/pdf-mirror/aono-michihiko/2018091909391486.pdf>`__)
+
 - `[PDF] 《未來史》研究 ——主要與漢譯彌勒「下生經」比對 釋見量 <http://www.chibs.edu.tw/ch_html/chbs/14/chbs1404.pdf>`_
   (`PDF mirror <{static}/extra/pdf-mirror/chbs1404.pdf>`__)
+
+- `[PDF] 初期佛教梵行思想之研究 黃柏棋 <http://www.tt034.org.tw/upload/cht/134/1105_file_1.pdf>`_
+  (`PDF mirror <{static}/extra/pdf-mirror/tt034-an149191.pdf>`__)
+  (`佛學數位圖書館 <https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-AN/an149191.pdf>`__)
 
 - `財團法人台灣佛教龍樹林基金會 | Nāuyana Taiwan <https://www.nauyana.org.tw/>`_
 
   * `[PDF] 聖法大長老自傳 <https://www.nauyana.org.tw/download/autobiography.pdf>`_
     (`PDF mirror <{static}/extra/pdf-mirror/nauyana/autobiography.pdf>`__)
+
+- `香光莊嚴雜誌 <http://www.gayamagazine.org/magazine>`_
+
+  * `香光莊嚴雜誌144期 2023, Apr 20 <http://www.gayamagazine.org/periodical/detail/202>`_
+
+    + `《法句義注》選(1) - Google Books <https://books.google.com/books/about/%E6%B3%95%E5%8F%A5%E7%BE%A9%E6%B3%A8_%E9%81%B8_1.html?id=IbfJEAAAQBAJ>`_
+    + `專欄 -  【律海掬漚】雨安居（一） 坦尼沙羅尊者（Ṭhānissaro Bhikkhu） <http://www.gayamagazine.org/article/detail/3956>`_
 
 
 專有名詞
