@@ -230,6 +230,7 @@
     (`PDF mirror <{static}/extra/pdf-mirror/Sila_precepts.pdf>`__)
   * `泰國大藏經律藏　戒律綱要 - 普陀文集部落格 - udn部落格 <https://blog.udn.com/mobile/ptt1/7684611>`_
   * `泰國大藏經律藏·戒律綱要 | 巴利相應長部律藏向群多語比較研修 <https://sieii.wordpress.com/2011/07/24/%E6%B3%B0%E5%9C%8B%E5%A4%A7%E8%97%8F%E7%B6%93%E5%BE%8B%E8%97%8F%C2%B7%E6%88%92%E5%BE%8B%E7%B6%B1%E8%A6%81/>`_
+  * `The entrance to the Vinaya=Vinayamukha - 佛學數位圖書館 <https://buddhism.lib.ntu.edu.tw/search/search_detail.jsp?seq=285322&comefrom=authorinfo>`_
 
 - `僧團「羯磨」的的涵義與種類 覓寂比丘 編譯 <https://m.facebook.com/media/set/?set=a.906576973101592&type=3>`_
 
@@ -312,6 +313,10 @@
   * `南傳巴利聖典在故宮 - 香光尼僧團 <http://www.gaya.org.tw/journal/m51/51-main3.htm>`_
 
     .. 除疑（Vimativinodanī）, 1, 巴利語, 1902, 贈善025919. 26, 除疑疏（Vimativinodanī tīkā）, 1, 巴利語, 1904, 贈善025900. 27, 攝律義（Vinayasaṅgaha）（第二冊）, 2 ...
+- `Vinaya Class <https://vinaya-class.github.io/>`_
+  (`GitHub <https://github.com/vinaya-class/vinaya-class.github.io>`__)
+
+  * `Monks giving food to lay people: Against the Vinaya? - Q & A - Discuss & Discover <https://discourse.suttacentral.net/t/monks-giving-food-to-lay-people-against-the-vinaya/13591>`_
 
 
 巴利文獻相關

@@ -313,7 +313,11 @@
 
    * - 1) The *Pubbasikkhā-vaṇṇanā*, a large compendium of rules from the Canon and the Commentary, compiled in 1860 by Phra Amarabhirakkhit (Amaro Koed), a pupil of King Rāma IV. This was the first comprehensive Vinaya guide compiled for use in the Dhammayut sect, which was founded by Rāma IV while he was still a monk. Although this book was officially supplanted by the *Vinaya-mukha* (see below), many Communities in Thailand, especially among the Kammaṭṭhāna forest tradition, still prefer it as more authoritative. The book contains a minimum of explanatory material, but it does occasionally provide interpretations of the Canon that cannot be traced directly to the Commentary. Many of these interpretations were carried over into the *Vinaya-mukha*, so a bhikkhu practicing in Thailand would be well advised to know them. Thus I have made reference to them wherever relevant.
 
-     - 1） *Pubbasikkhā-vaṇṇanā* ，一部來自《聖典》和《義註》的大型戒條綱要，由 `拉瑪四世`_ 國王的弟子 Phra Amarabhirakkhit (Amaro Koed) 於 1860 年編撰。這是第一本供 `法宗派`_ 使用的綜合戒律指南，該教派是由拉瑪四世在還是比丘時創立的。儘管這本書已正式被《戒律入口》（見下文）取代，但泰國的許多僧團，尤其是 `泰國森林傳統`_ 中，仍然更偏好它，更具權威性。本書包含最少的解釋性資料，但偶爾也會提供對《聖典》的解釋，這些解釋無法直接追溯到《義註》。其中許多解釋都被帶入到了《戒律入口》中，所以在泰國修行的比丘最好了解它們。因此，我在相關的地方會提到它們。
+     - 1） `Pubba <https://dictionary.sutta.org/browse/p/pubba/>`_\ `sikkhā <https://dictionary.sutta.org/browse/s/sikkh%C4%81/>`_-`vaṇṇanā <https://dictionary.sutta.org/browse/v/va%E1%B9%87%E1%B9%87an%C4%81/>`_ ，一部來自《聖典》和《義註》的大型戒條綱要，由 `拉瑪四世`_ 國王的弟子 Phra Amarabhirakkhit (Amaro Koed) 於 1860 年編撰。這是第一本供 `法宗派`_ 使用的綜合戒律指南，該教派是由拉瑪四世在還是比丘時創立的。儘管這本書已正式被《戒律入口》（見下文）取代，但泰國的許多僧團，尤其是 `泰國森林傳統`_ 中，仍然更偏好它，更具權威性。本書包含最少的解釋性資料，但偶爾也會提供對《聖典》的解釋，這些解釋無法直接追溯到《義註》。其中許多解釋都被帶入到了《戒律入口》中，所以在泰國修行的比丘最好了解它們。因此，我在相關的地方會提到它們。
+
+       ..
+          reStructuredText: How to remove space after a hyperlink - Stack Overflow
+          https://stackoverflow.com/a/40458723
 
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
