@@ -44,7 +44,7 @@
      - `\　法與律 <{filename}Section0006%zh-hant.rst>`__
 
    * - `\　　Disagreements among the texts <https://www.dhammatalks.org/vinaya/bmc/Section0006.html#sigil_toc_id_2>`__
-     - 　　文本之間的分歧
+     - `\　　文本之間的分歧 <{filename}Section0006%zh-hant.rst#disagreements-among-the-texts>`__
 
    * - `\　Pāṭimokkha <https://www.dhammatalks.org/vinaya/bmc/Section0007.html>`__
      - 　波羅提木叉

@@ -319,6 +319,28 @@
           reStructuredText: How to remove space after a hyperlink - Stack Overflow
           https://stackoverflow.com/a/40458723
 
+   * - 2) The *Vinaya-mukha*, a guide to the Vinaya written in Thai in the early 20th century by Prince Vajirañāṇavarorasa, a son of King Rāma IV who ordained as a bhikkhu and eventually held the position of Supreme Patriarch of the Thai Saṅgha for many years. This work he wrote as part of his attempt both to create a centralized, bhikkhu-administered ecclesiastical organization for the Thai Saṅgha and to unite its two major sects. The attempt at unification failed, but the attempt at centralization succeeded, and the book is still used as the official textbook on Vinaya for the examinations run by the Thai Council of Elders. Prince Vajirañāṇa in his interpretations often disagrees openly not only with the commentaries, but also with the Vibhaṅga itself. Some of his disagreements with the commentaries are well taken, some not.
+
+     - 2） 《戒律入口》（ *Vinaya-mukha* ），20世紀初由 `Vajirañāṇavarorasa 王子`_ 所著的泰語戒律指南。他是 `拉瑪四世`_ 國王之兒子，受戒成為比丘，最終成為了 `泰國僧伽的僧王`_ 多年。他寫這本書是他為泰國僧伽創建一個中央集權的、由比丘管理的教團組織，並統一其兩個主要教派的嘗試的一部分。統一的嘗試失敗了，但中央集權的嘗試成功了，這本書仍然被用作泰國長老會考試的官方戒律教科書。金剛智(Vajirañāṇa)王子在他的解釋中不僅經常公開地不同意註釋，而且也不同意《經分別》本身。他對註釋的一些不同意見得到了廣泛接受，而另一些則沒有。
+
+   * - I include the book here both for the valuable suggestions it makes for dealing with unclear points in the older texts and because it is taken as authoritative through much of Thailand. It has been translated into English, as *The Entrance to the Vinaya*, but the translation is so flawed that I have chosen to translate anew all the passages I quote from it.
+
+     - 我在此包括這本書，一方面是因為它為處理舊文本中的不清楚之處提出了寶貴的建議，另一方面因為它在泰國大部分地區被視為權威。它已被翻譯成英文，書名 `The Entrance to the Vinaya`_ ，但翻譯有很大缺陷，因此我選擇重新翻譯我引用的所有段落。
+
+   * - 3) *The Book of Discipline*, a translation of almost the entire Vinaya Piṭaka into English by Miss I. B. Horner. Although I have learned much from Miss Horner’s work, there are points where my translations and conclusions differ from hers. Because many readers will want to check the information in this book against hers, I have marked these points with a “(§).” Anyone curious as to which interpretation is correct should check the passages in question against the primary sources listed in the Bibliography at the back of this book.
+
+     - 3） 《戒律書》，是 I. B. Horner 小姐將幾乎整部律藏翻譯成英文。雖然我從 Horner 小姐的著作中學到了很多東西，但我的翻譯和結論與她的在某些地方有所不同。因為許多讀者想要將本書中的資訊與她的進行核對，所以我用「(§)」標記了這些地方。任何好奇哪種解釋是正確的人應該根據本書後面參考書目中列出的主要來源檢查相關段落。
+
+
+.. _disagreements-among-the-texts:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Disagreements among the texts**
+     - **文本之間的分歧**
+
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _阿㝹羅陀補羅 大寺: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA
@@ -331,5 +353,8 @@
 .. _拉瑪四世: https://zh.wikipedia.org/zh-hant/%E6%8B%89%E7%8E%9B%E5%9B%9B%E4%B8%96
 .. _法宗派: https://zh.wikipedia.org/zh-hant/%E6%B3%95%E7%9B%B8%E5%BA%94%E6%B4%BE
 .. _泰國森林傳統: https://en.wikipedia.org/wiki/Thai_Forest_Tradition
+.. _Vajirañāṇavarorasa 王子: https://en.wikipedia.org/wiki/Vajirananavarorasa
+.. _泰國僧伽的僧王: https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%9B%BD%E5%83%A7%E7%8E%8B
+.. _The Entrance to the Vinaya: https://www.google.com/search?q=The+Entrance+to+the+Vinaya
 
 (未完待續)
