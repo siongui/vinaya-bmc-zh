@@ -358,6 +358,36 @@
           四大教法
           http://www.charity.idv.tw/o/o38.htm
 
+   * - .. container:: notification
+
+          “There is the case where a bhikkhu says this: ‘Face-to-face with the Blessed One have I heard this, face-to-face have I received this: This is the Dhamma, this is the Vinaya, this is the Teacher’s instruction.’ His statement is neither to be approved nor scorned. Without approval or scorn, take careful note of his words and make them stand against the Suttas and tally them against the Vinaya. If, on making them stand against the Suttas and tallying them against the Vinaya, you find that they don’t stand with the Suttas or tally with the Vinaya, you may conclude: ‘This is not the word of the Blessed One; this bhikkhu has misunderstood it’—and you should reject it. But if… they stand with the Suttas and tally with the Vinaya, you may conclude: ‘This is the word of the Blessed One; this bhikkhu has understood it rightly.’”
+
+          [The same criteria are to be used when the bhikkhu cites as his authority a Community with well-known leading elders; a monastery with many learned elders who know the tradition, who have memorized the Dhamma, the Vinaya, and the Mātikā (the precursor to the Abhidhamma as we know it); or a single elder who knows the tradition.]
+
+     - .. container:: notification
+
+          “比丘們，如果有一位比丘說： ‘賢友，我曾在佛陀跟前聽聞及受持這些法、這些律、這些導師的教誡。’ 比丘們，首先不要對這位比丘的說話隨喜，也不要排斥，好好地記著這些字句，然後和經核對，和律比較，如果在和經核對、和律比較時不相符，便可得出一個結論：肯定這不是佛陀的說話，這位比丘受持錯誤。因此應該捨棄它。如果在和經核對、和律比較時相符，便可得出一個結論：肯定這是佛陀的說話，這位比丘受持正確。
+
+          [當比丘引用具有知名長老的團體作為其權威時，應使用相同的標準；一座寺院，有許多博學的長老，他們了解傳承，背誦佛法、戒律和\ `論母 <https://dictionary.sutta.org/browse/m/m%C4%81tik%C4%81/>`__\ （我們所知的\ `阿毘達摩 <https://zh.wikipedia.org/wiki/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8>`_\ 的前身）；或一位了解傳統的長者。]
+
+   * - In other words, the determining factor in deciding a correct understanding is not personal authority but consistency. Only if a statement stands up under comparison with what is known of the Canon should it be accepted as true Dhamma or Vinaya. This standard was enunciated when the texts were still orally transmitted, but applied to our situation at present it means that we cannot take the assumed reliability of a particular printed edition as definitive. If a certain reading seems more consistent than its alternatives with what is known of the rest of the Canon, then—regardless of the edition in which it is found—it should be preferred. If two variant readings seem equally consistent with the known Canon, they may both be treated with respect.
+
+     - 換句話說，判別正確理解的決定因素不是個人權威，而是一致性。只有當一個陳述與已知的《聖典》相比較時站得住腳，它才可以被接受為真正的法或律。該標準是在文本仍在口頭傳播時闡明的，但應用於我們目前的情況意味著我們不能將特定印刷版本的假定可靠性視為最完整可靠的。如果某種拼讀看起來比它的另一拼讀更符合已知的《聖典》其餘部分，那麼——無論它是在哪個版本中找到的——它應該是首選。如果兩種不同的拼讀看起來與已知的《聖典》同樣一致，那麼它們都可受到尊重。
+
+   * - The second level of difficulty in dealing with differences among the texts is that there are points on which the Vibhaṅga is at variance with the wording of the Pāṭimokkha rules, and the commentaries are at variance with the Canon. This forces us to decide which strata of the texts to take as definitive. As far as discrepancies between the Vibhaṅga and the rules are concerned, the following passage in the Cullavagga (X.4) suggests that the Buddha himself gave preference to the way the bhikkhus worked out the rules in the Vibhaṅga:
+
+     - 處理文本之間差異的第二層困難是，《經分別》與《波羅提木叉》戒條的措詞有些不一致，而且註釋與《聖典》也有不一致。這迫使我們決定將文本的哪一部分視為最完整可靠的。至於《經分別》與戒條之間的差異，《小品》（十.4）中的以下段落表明佛陀本人更傾向於比丘們理解《經分別》中戒條的方式：
+
+       ..
+          别再理解错了！work out 不是“出去工作”，最常用的是这4个意思
+          https://www.sohu.com/a/592190287_121124318
+          ①健身，锻炼(视作不及物动词)
+          ②解决(问题)(视作及物动词)
+          ③了解，理解(视作及物动词）
+          ④进展(视作不及物动词)
+
+       https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0344a12
+
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _阿㝹羅陀補羅 大寺: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA
