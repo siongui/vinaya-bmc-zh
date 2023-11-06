@@ -275,6 +275,9 @@
 
           四大教法，巴利语「Cattāro Mahāpadesā」，意思是确认佛法的四大准则。在经律中，有两种四大教法：一个是出现在经藏《长部&#8231;大品》的称为「经的四大教法」（Sutte cattāro mahāpadesā），第二个是出现在《律藏&#8231;大品&#8231;药犍度》的称为「犍度的四大教法」（Khandhake cattāro mahāpadesā）。犍度的四大教法为判断是否随顺于佛陀所许可的四种方法，属于律制的检验标准；经的四大教法，是佛陀在八十岁那年在财富城的阿难塔庙中所教导的，记载在《大般涅槃经》。
 
+  * `四大教法 <http://www.charity.idv.tw/o/o38.htm>`__
+  * `以佛法研究佛法－七釋尊時代的印度國族 <https://yinshun-edu.org.tw/en/Master_yinshun/y16_02_07>`_
+
 - `清淨之道  瑪欣德尊者 1/2 - Lotus Amita - udn部落格 <https://blog.udn.com/mobile/milene/158092625>`_
 - `清淨之道  瑪欣德尊者 2/2 - Lotus Amita - udn部落格 <https://blog.udn.com/mobile/milene/158094493>`_
 - `[PDF] 依止 (Nissaya) Ṭhānissaro Bhikkhu <https://dhammarain.github.io/books/nissaya.pdf>`_

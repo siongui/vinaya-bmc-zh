@@ -1159,7 +1159,7 @@
      - 　　　　醫療手術
 
    * - `\　　　　The Great Standards <https://www.dhammatalks.org/vinaya/bmc/Section0044.html#sigil_toc_id_92>`__
-     - 　　　　四大教示
+     - 　　　　《四大教示》
 
        ..
           https://www.facebook.com/238740526277955/posts/539201356231869/

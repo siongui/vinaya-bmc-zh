@@ -230,9 +230,9 @@
 
    * - Still, the existence of this belief in the 5th century placed certain constraints on Buddhaghosa’s work. At points where the ancient commentaries conflicted with the Canon, he had to write the discrepancies off as copier’s mistakes or else side with the commentaries against the Canon. At a few points, such as his explanation of `Pc 9 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9>`__, he provides arguments effectively demolishing the ancient commentaries’ interpretation but then backs off, saying that the ancient commentaries must be right because their authors knew the Buddha’s intentions. Perhaps pressure from the elder bhikkhus at the Mahāvihāra in Anurādhapura—the place where the ancient commentaries had been preserved and where Buddhaghosa was allowed to do his work—was what made him back off in this way. At any rate, only on points where the different ancient commentaries were silent or gave divergent opinions did he feel free to express his own.
 
-     - 儘管如此，這種在五世紀存在的相信還是對佛音的作品造成了一定的限制。當古代註釋與《聖典》發生衝突時，他必須將這些差異作為抄寫者的錯誤予以記錄，否則就站在反對《聖典》的註釋一邊。在一些要點上，例如他對《波逸提九》的解釋，他提供了有效地推翻古代註釋解釋的論據，但隨後又退縮了，說古代註釋一定是正確的，因為它們的作者知道佛陀的意圖。也許是來自 `阿㝹羅陀補羅 大寺`_ 的長老比丘們的壓力——那裡保存著古代註釋，佛音也被允許在那裡做他的工作——是讓他如此退縮的原因。無論如何，只有在不同的古代註釋沒有提及或有不同意見的地方，他才可以自由地表達自己的觀點。
+     - 儘管如此，這種在五世紀存在的相信還是對佛音的作品造成了一定的限制。當古代註釋與《聖典》發生衝突時，他必須將這些差異作為抄寫者的錯誤予以記錄，否則就站在反對《聖典》的註釋一邊。在一些要點上，例如他對\ `《波逸提》九 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9>`__\ 的解釋，他提供了有效地推翻古代註釋解釋的論據，但隨後又退縮了，說古代註釋一定是正確的，因為它們的作者知道佛陀的意圖。也許是來自 `阿㝹羅陀補羅 大寺`_ 的長老比丘們的壓力——那裡保存著古代註釋，佛音也被允許在那裡做他的工作——是讓他如此退縮的原因。無論如何，只有在不同的古代註釋沒有提及或有不同意見的地方，他才可以自由地表達自己的觀點。
 
-       .. TODO FIXME: add link to 《波逸提九》
+       .. TODO FIXME: replace link to 《波逸提》九
 
        ..
           http://old.ddc.shengyen.org/mobile/text/02-01/155.php
@@ -332,6 +332,7 @@
      - 3） 《戒律書》，是 I. B. Horner 小姐將幾乎整部律藏翻譯成英文。雖然我從 Horner 小姐的著作中學到了很多東西，但我的翻譯和結論與她的在某些地方有所不同。因為許多讀者想要將本書中的資訊與她的進行核對，所以我用「(§)」標記了這些地方。任何好奇哪種解釋是正確的人應該根據本書後面參考書目中列出的主要來源檢查相關段落。
 
 
+.. _sigil_toc_id_2:
 .. _disagreements-among-the-texts:
 
 .. list-table::
@@ -340,6 +341,22 @@
 
    * - **Disagreements among the texts**
      - **文本之間的分歧**
+
+   * - There are two levels of difficulty in trying to collate all these various texts. The first is that the Canon and Commentary, in Pali, exist in four major printed editions: Thai, Burmese, Sri Lankan, and European (printed by the Pali Text Society (PTS)). Although these editions are largely in agreement, they occasionally differ in ways that can have an important practical impact. Thus, where the editions differ, I have had to choose the reading that seems most reasonable and consistent with the rest of the Canon. In some cases, this has meant adopting a reading followed in only one edition against a reading followed in all the others (see, for example, the discussions under `Sg 3 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3>`__ & `4 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4>`__). Where different readings seem equally reasonable, I have given the alternative readings as well.
+     - 試圖整理所有這些不同的文本有兩個層次的困難。首先，巴利的《聖典》和《義註》有四個主要印刷版：泰國版、緬甸版、斯里蘭卡版和歐洲版（由\ `巴利文獻協會（PTS） <https://palitextsociety.org/>`_\ 印刷）。儘管這些版本在很大程度上是一致的，但它們偶爾在某些方面存在差異，從而產生重要的實際影響。因此，當版本不同時，我必須選擇看起來最合理且與《聖典》的其餘部分一致的拼讀。在某些情況下，這意味著採用僅在一個版本中遵循的拼讀，而不是在所有其他版本中遵循的拼讀（例如，請參閱\ `《僧殘》三 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3>`__\ 和\ `《僧殘》四 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4>`__\ 中的討論）。如果不同的拼讀看起來同樣合理，我也給了替代的拼讀。
+
+       .. TODO FIXME: replace link to 《僧殘》三 and 《僧殘》四
+
+   * - In using the principle of internal consistency here, I am following the Great Standards that—as the Mahāparinibbāna Sutta (DN 16) reports—the Buddha formulated at Bhoganagara shortly before his passing away:
+     - 在這裡使用內在一致性原則時，我遵循的是佛陀在圓寂前不久在\ `負彌城 <https://www.google.com/search?q=%E8%B2%A0%E5%BD%8C%E5%9F%8E>`_\ 制定的《四大教示》——正如《大般涅槃經》（\ `《長部》16經 <{filename}reference/external-link%zh-hant.rst#dn16>`__\ ）所記述的那樣：
+
+       ..
+          https://www.google.com/search?q=Bhoganagara+%E4%B8%AD%E6%96%87
+          以佛法研究佛法－七釋尊時代的印度國族
+          https://yinshun-edu.org.tw/en/Master_yinshun/y16_02_07
+          https://www.google.com/search?q=%E8%B2%A0%E5%BD%8C%E5%9F%8E
+          四大教法
+          http://www.charity.idv.tw/o/o38.htm
 
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
