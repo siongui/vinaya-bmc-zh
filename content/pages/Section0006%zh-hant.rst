@@ -418,6 +418,20 @@
 
      - 至於《義註》與《經分別》的矛盾，這是一個比較有爭議的領域，有兩個極端的想法。一是完全拒絕《義註》，因為它不是佛陀的教言，因為現代歷史學術已經明確地表明，它所包含的材料可以追溯到佛陀入滅後數百年。另一個極端是接受《義註》完全取代《經分別》，這與圍繞它產生的傳統信仰是一致的：它是在第一次結集時撰寫的，旨在表達那些撰寫《經分別》的人的真實意圖，但不知何故無法做到把他們真正想說的話放進《聖典》本身。雖然每個極端的倡導者都可以引用傳統資料來為自己辯護，但兩個極端都不符合《四大教示》中的兩項教示——上文已提到一項，下文將提到另一項——《四大教示》是佛陀起初為判斷戒律所允許的和不允許的，以及符不符合法與律而制定的
 
+   * - In support of the first extreme, it is possible to cite the origin story to `NP 15 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15>`_, which quotes the Buddha as saying, “What has not been formulated (as a rule) should not be formulated, and what has been formulated should not be rescinded, but one should dwell in conformity and in accordance with the rules that have been formulated.”
+
+     - 為了支持第一種極端，可以引用\ `《捨墮》一五 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15>`_\ 的起源故事，其中引用了佛陀的話說：「未制不得制，已制不得壞，隨所制之戒而持住。」
+
+       .. TODO FIXME: replace link to 《捨墮》一五
+
+   * - From this statement, it is possible to argue that the Commentary has no legislative authority at all. One of its most controversial aspects—and this applies to the Sub-commentary as well—is a tendency not only to explain passages in the Canon but also to extrapolate from them, assigning prohibitions and allowances in areas that the Canon did not cover. This would appear to be in violation of the above statement. However, we must remember that the rules formulated by the Buddha include not only prohibitions but also allowances. As the Dhamma-Vinaya has spread to many nations, encountering new cultures, and has endured over time, encountering new technologies, the question has often arisen: Is everything not allowed prohibited? Is everything not prohibited allowed? Either position carried to its extreme would create huge problems in the practice. To say that everything not allowed is prohibited would prevent bhikkhus from utilizing many harmless conveniences; to say that everything not prohibited is allowed would give countless defilements free rein.
+
+     - 從這個說法來看，可以說《義註》根本沒有制戒權。它最具爭議性的方面之一（這也適用於《複註》）是傾向於不僅解釋《聖典》中的段落，而且還從中進行推斷，在《聖典》未涵蓋的領域中指定禁止和許可。這似乎違反了上述聲明。然而，我們必須記住，佛陀制定的戒條不僅包括禁止，還包括允許。隨著法與律傳播到許多國家，遇到新的文化，並隨著時間的推移，遇到新科技，經常出現這樣的問題：是不是一切不允許的事情都被禁止了？一切不被禁止的事情都是允許的嗎？任何一種走向極端的立場都會在實踐中產生巨大的問題。如果說一切不被允許的事情都是被禁止的，就會阻止比丘們利用許多無害的方便；如果說一切不被禁止的事情都是允許的，就會讓無數的煩惱肆意妄為。
+
+   * - The Buddha, however, had enough foresight to see that, over the course of many centuries, new situations would arise that had not existed in his lifetime, and there would be a need to extend the principles of the Vinaya to cover those situations as well. Thus, `Mv.VI.40.1 <https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.40.1>`_ reports that he established the following four guidelines for judgment—called the Great Standards (not to be confused with the Great Standards given in `DN 16 <https://www.dhammatalks.org/suttas/DN/DN16.html>`__ and mentioned above)—for judging cases not mentioned in the rules:
+
+     - 然而，佛陀有足夠的遠見，他看到，在許多個世紀的時間推移，將會出現他有生之年中不存在的新情況，因此需要擴展戒律的原則以涵蓋這些情況。因此，\ `《大品》.六.40.1 <https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0328a05>`_\ 記述說，他制定了以下四項判斷指南——稱為《四大教示》（不要與\ `《長部》16經 <{filename}reference/external-link%zh-hant.rst#dn16>`__\ 中給出的《四大教示》和上面提到的混淆）——用於判斷戒條中未提及的情況：
+
 
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
