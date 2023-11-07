@@ -410,6 +410,14 @@
 
      - 這段經文暗示，早在佛陀時代，比丘們就已經開始想辦法來解釋這些戒條，在某些情況下，這些戒條並不完全符合佛陀最初制定的方式。有些人讀到這段話時認為，佛陀雖然聽任了這種發展，但卻對此不滿意。然而，這與《聖典》中佛陀高度讚揚\ `優婆離尊者 <https://zh.wikipedia.org/wiki/%E5%84%AA%E5%A9%86%E9%9B%A2>`_\ 的許多段落相矛盾。優婆離尊者是比丘弟子中，就戒律知識而言是第一的，負責向其他比丘教導戒律，並且對我們現在所擁有的戒律的形成負有主要責任。佛陀在這段經文中似乎更可能只是說，為了避免不必要的爭議，比丘們弄清楚戒條意思的方式應該照原樣接受。
 
+   * - Because this development eventually led to the Vibhaṅga, we can be fairly confident that in adhering to the Vibhaṅga we are acting as the Buddha would have us do. And when we check the few places where the Vibhaṅga deviates from the wording of the rules, we find that almost invariably it has tried to reconcile contradictions among the rules themselves, and between the rules and the Khandhakas, so as to make the Vinaya a more coherent whole. This is particularly true with rules that touch on Community transactions. Apparently, many of these rules were formulated before the general patterns for transactions were finalized in the Khandhakas. Thus, after the patterns were established, the compilers of the Vibhaṅga were sometimes forced to deviate from the wording of the original rules to bring them into line with the patterns.
+
+     - 因為這種發展最終導致了《經分別》，所以我們可以相當有信心地相信，在遵從《經分別》時，我們正在按照佛陀的要求行事。當我們檢視《經分別》中與戒條措詞有偏差的少數地方時，我們發現它幾乎無一例外地試圖調和戒條本身、以及戒條與《犍度》之間的矛盾，從而使戒律成為一個更連貫的整體。對於涉及僧伽羯磨的戒條尤其如此。顯然，在《犍度》裡，羯磨的一般模式最終確定之前，其中許多戒條已制定。因此，在模式確立後，《經分別》的編纂者有時被迫偏離原始戒條的措詞，以使其與模式保持一致。
+
+   * - As for contradictions between the Commentary and the Vibhaṅga, this is a more controversial area, with two extremes of thought. One is to reject the Commentary entirely, as it is not the Buddha’s word, for modern historical scholarship has shown decisively that it contains material dating many hundreds of years after the Buddha’s passing away. The other extreme is to accept the Commentary as superseding the Vibhaṅga entirely, in line with the traditional belief that grew up around it: that it was composed at the First Council to express the true intent of those who composed the Vibhaṅga and yet somehow were unable to put what they really meant to say into the Canon itself. Although exponents of each extreme can cite traditional sources in their defense, neither extreme complies with the two sets of Great Standards—the one mentioned above, the other below—that the Buddha formulated for judging what is and is not allowable under the Vinaya, and what does and does not count as Dhamma-Vinaya in the first place.
+
+     - 至於《義註》與《經分別》的矛盾，這是一個比較有爭議的領域，有兩個極端的想法。一是完全拒絕《義註》，因為它不是佛陀的教言，因為現代歷史學術已經明確地表明，它所包含的材料可以追溯到佛陀入滅後數百年。另一個極端是接受《義註》完全取代《經分別》，這與圍繞它產生的傳統信仰是一致的：它是在第一次結集時撰寫的，旨在表達那些撰寫《經分別》的人的真實意圖，但不知何故無法做到把他們真正想說的話放進《聖典》本身。雖然每個極端的倡導者都可以引用傳統資料來為自己辯護，但兩個極端都不符合《四大教示》中的兩項教示——上文已提到一項，下文將提到另一項——《四大教示》是佛陀起初為判斷戒律所允許的和不允許的，以及符不符合法與律而制定的
+
 
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
