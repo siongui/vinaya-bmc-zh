@@ -376,7 +376,7 @@
 
    * - The second level of difficulty in dealing with differences among the texts is that there are points on which the Vibhaṅga is at variance with the wording of the Pāṭimokkha rules, and the commentaries are at variance with the Canon. This forces us to decide which strata of the texts to take as definitive. As far as discrepancies between the Vibhaṅga and the rules are concerned, the following passage in the Cullavagga (X.4) suggests that the Buddha himself gave preference to the way the bhikkhus worked out the rules in the Vibhaṅga:
 
-     - 處理文本之間差異的第二層困難是，《經分別》與《波羅提木叉》戒條的措詞有些不一致，而且註釋與《聖典》也有不一致。這迫使我們決定將文本的哪一部分視為最完整可靠的。至於《經分別》與戒條之間的差異，《小品》（十.4）中的以下段落表明佛陀本人更傾向於比丘們理解《經分別》中戒條的方式：
+     - 處理文本之間差異的第二層困難是，《經分別》與《波羅提木叉》戒條的措詞有些不一致，而且註釋與《聖典》也有不一致。這迫使我們決定將文本的哪一部分視為最完整可靠的。至於《經分別》與戒條之間的差異，\ `《小品》（十.4） <https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0344a12>`_\ 中的以下段落表明佛陀本人更傾向於比丘們理解《經分別》中戒條的方式：
 
        ..
           别再理解错了！work out 不是“出去工作”，最常用的是这4个意思
@@ -386,7 +386,30 @@
           ③了解，理解(视作及物动词）
           ④进展(视作不及物动词)
 
-       https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0344a12
+   * - .. container:: notification
+
+          “As she was standing to one side, Mahāpajāpatī Gotamī said to the Blessed One: ‘Venerable sir, those rules of training for the bhikkhunīs that are in common with those for the bhikkhus: What line of conduct should we follow in regard to them?’
+
+          “‘Those rules of training for the bhikkhunīs, Gotamī, that are in common with those for the bhikkhus: *As the bhikkhus train themselves, so should you train yourselves.*’… (emphasis added).
+
+          “‘And those rules of training for bhikkhunīs that are not in common with those for bhikkhus, venerable sir: What line of conduct should we follow in regard to them?’
+
+          “‘Those rules of training for the bhikkhunīs, Gotamī, that are not in common with those for the bhikkhus: Train yourselves in them as they are formulated.’”
+
+     - .. container:: notification
+
+          於一面立已，摩訶波闍波提瞿曇彌白世尊：「世尊！比丘尼之學處有與比丘共通者，於彼學處，我等如何為之耶？」
+
+          「瞿曇彌！比丘尼之學處與比丘共通者，\ *應如諸比丘之所學而學其學處！*\ 」
+
+          「比丘尼之學處有與比丘不共通者，於彼學處，我等應如何為之耶？」
+
+          「瞿曇彌！比丘尼之學處與比丘不共通者，隨所制之學處而學之！」
+
+   * - This passage implies that already in the time of the Buddha the bhikkhus had begun working out a way to interpret the rules that in some cases was not exactly in line with the way the Buddha had originally formulated them. Some people have read this passage as suggesting that the Buddha, though resigned to this development, was displeased with it. This, however, would contradict the many passages in the Canon where the Buddha speaks in high praise of Ven. Upāli, the foremost of his bhikkhu disciples in terms of his knowledge of Vinaya, who was responsible for teaching the rules to the other bhikkhus and who was largely responsible for the shape of the Vinaya as we now have it. It seems more likely that the Buddha in this passage is simply saying that, to avoid unnecessary controversy, the way the bhikkhus had worked out the implications of the rules was to be accepted as is.
+
+     - 這段經文暗示，早在佛陀時代，比丘們就已經開始想辦法來解釋這些戒條，在某些情況下，這些戒條並不完全符合佛陀最初制定的方式。有些人讀到這段話時認為，佛陀雖然聽任了這種發展，但卻對此不滿意。然而，這與《聖典》中佛陀高度讚揚\ `優婆離尊者 <https://zh.wikipedia.org/wiki/%E5%84%AA%E5%A9%86%E9%9B%A2>`_\ 的許多段落相矛盾。優婆離尊者是比丘弟子中，就戒律知識而言是第一的，負責向其他比丘教導戒律，並且對我們現在所擁有的戒律的形成負有主要責任。佛陀在這段經文中似乎更可能只是說，為了避免不必要的爭議，比丘們弄清楚戒條意思的方式應該照原樣接受。
+
 
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
