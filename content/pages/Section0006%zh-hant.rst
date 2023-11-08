@@ -347,8 +347,8 @@
 
        .. TODO FIXME: replace link to 《僧殘》三 and 《僧殘》四
 
-   * - In using the principle of internal consistency here, I am following the Great Standards that—as the Mahāparinibbāna Sutta (DN 16) reports—the Buddha formulated at Bhoganagara shortly before his passing away:
-     - 在這裡使用內在一致性原則時，我遵循的是佛陀在圓寂前不久在\ `負彌城 <https://www.google.com/search?q=%E8%B2%A0%E5%BD%8C%E5%9F%8E>`_\ 制定的《四大教示》——正如《大般涅槃經》（\ `《長部》16經 <{filename}reference/external-link%zh-hant.rst#dn16>`__\ ）所記述的那樣：
+   * - In using the principle of internal consistency here, I am following the Great Standards that—as the Mahāparinibbāna Sutta (`DN 16`_) reports—the Buddha formulated at Bhoganagara shortly before his passing away:
+     - 在這裡使用內在一致性原則時，我遵循的是佛陀在圓寂前不久在\ `負彌城 <https://www.google.com/search?q=%E8%B2%A0%E5%BD%8C%E5%9F%8E>`_\ 制定的《四大教示》——正如《大般涅槃經》（\ `《長部》16經`_\ ）所記述的那樣：
 
        ..
           https://www.google.com/search?q=Bhoganagara+%E4%B8%AD%E6%96%87
@@ -428,9 +428,9 @@
 
      - 從這個說法來看，可以說《義註》根本沒有制戒權。它最具爭議性的方面之一（這也適用於《複註》）是傾向於不僅解釋《聖典》中的段落，而且還從中進行推斷，在《聖典》未涵蓋的領域中指定禁止和許可。這似乎違反了上述聲明。然而，我們必須記住，佛陀制定的戒條不僅包括禁止，還包括允許。隨著法與律傳播到許多國家，遇到新的文化，並隨著時間的推移，遇到新科技，經常出現這樣的問題：是不是一切不允許的事情都被禁止了？一切不被禁止的事情都是允許的嗎？任何一種走向極端的立場都會在實踐中產生巨大的問題。如果說一切不被允許的事情都是被禁止的，就會阻止比丘們利用許多無害的方便；如果說一切不被禁止的事情都是允許的，就會讓無數的煩惱肆意妄為。
 
-   * - The Buddha, however, had enough foresight to see that, over the course of many centuries, new situations would arise that had not existed in his lifetime, and there would be a need to extend the principles of the Vinaya to cover those situations as well. Thus, `Mv.VI.40.1 <https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.40.1>`_ reports that he established the following four guidelines for judgment—called the Great Standards (not to be confused with the Great Standards given in `DN 16 <https://www.dhammatalks.org/suttas/DN/DN16.html>`__ and mentioned above)—for judging cases not mentioned in the rules:
+   * - The Buddha, however, had enough foresight to see that, over the course of many centuries, new situations would arise that had not existed in his lifetime, and there would be a need to extend the principles of the Vinaya to cover those situations as well. Thus, `Mv.VI.40.1`_ reports that he established the following four guidelines for judgment—called the Great Standards (not to be confused with the Great Standards given in `DN 16`_ and mentioned above)—for judging cases not mentioned in the rules:
 
-     - 然而，佛陀有足夠的遠見，他看到，在許多個世紀的時間推移，將會出現他有生之年中不存在的新情況，因此需要擴展戒律的原則以涵蓋這些情況。因此，\ `《大品》.六.40.1 <https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0328a05>`__\ 記述說，他制定了以下四項判斷指南——稱為《四大教示》（不要與\ `《長部》16經 <{filename}reference/external-link%zh-hant.rst#dn16>`__\ 中給出的《四大教示》和上面提到的混淆）——用於判斷戒條中未提及的情況：
+     - 然而，佛陀有足夠的遠見，他看到，在許多個世紀的時間推移，將會出現他有生之年中不存在的新情況，因此需要擴展戒律的原則以涵蓋這些情況。因此，\ `《大品》.六.40.1`_\ 記述說，他制定了以下四項判斷指南——稱為《四大教示》（不要與\ `《長部》16經`_\ 中給出的《四大教示》和上面提到的混淆）——用於判斷戒條中未提及的情況：
 
    * - .. container:: notification
 
@@ -440,7 +440,7 @@
 
           “And whatever I have not permitted, saying, ‘This is allowable,’ if it conforms with what is not allowable, if it goes against what is allowable, that is not allowable for you.
 
-          “And whatever I have not permitted, saying, ‘This is allowable,’ if it conforms with what is allowable, if it goes against what is not allowable, that is allowable for you.”—`Mv.VI.40.1 <https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts40_1>`__
+          “And whatever I have not permitted, saying, ‘This is allowable,’ if it conforms with what is allowable, if it goes against what is not allowable, that is allowable for you.”—`Mv.VI.40.1`_
 
      - .. container:: notification
 
@@ -450,15 +450,15 @@
 
           諸比丘！如此，我雖未許曰：『相應。』若順不相應事，違相應事者，此，汝等為不相應也。
 
-          諸比丘！如此，我雖未許曰：『相應。』若順相應事，違不相應事者，此，汝等為相應也。」——`《大品》.六.40.1 <https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0328a05>`__
+          諸比丘！如此，我雖未許曰：『相應。』若順相應事，違不相應事者，此，汝等為相應也。」——`《大品》.六.40.1`_
 
    * - Thus it is easy to see that the Commentary and Sub-commentary, in extrapolating from the rules in the Canon to assign new prohibitions and allowances, are simply exercising their right to apply these Great Standards. The question in weighing these commentaries, then, is not whether they have the right to extrapolate from the Canon to formulate prohibitions and allowances, but whether they have applied these Standards in a wise and appropriate way. We ourselves will have recourse to these Standards in the course of this book, both to evaluate the judgments of the commentaries and to determine how the principles of Vinaya apply to new situations today.
 
      - 由此容易看出，《義註》和《複註》從《聖典》的戒條中推斷出新的禁止和許可，只是在行使其適用這《四大教示》的權利。那麼，權衡這些註釋的問題不在於他們是否有權從《聖典》中推斷以制定禁止和許可，而在於他們是否以明智和適當的方式應用了這《四大教示》。在本書的過程中，我們自己也會依靠這《四大教示》，既用以評估註釋的判斷，並且也決定戒律的原則如何應用於當今的新情況。
 
-   * - The second extreme, however, argues that we have no right to pass judgment on the authority of the Commentary at all. This position, however, runs counter to the principle of consistency espoused in the Great Standards mentioned in `DN 16 <https://www.dhammatalks.org/suttas/DN/DN16.html>`__ (and discussed above) for judging what is and isn’t the word of the Buddha. Just as variant readings in the Canon should be judged for consistency with what is already known of the Canon, explanations of the Canon given by later teachers have to be judged for their consistency with the known Canon as well.
+   * - The second extreme, however, argues that we have no right to pass judgment on the authority of the Commentary at all. This position, however, runs counter to the principle of consistency espoused in the Great Standards mentioned in `DN 16`_ (and discussed above) for judging what is and isn’t the word of the Buddha. Just as variant readings in the Canon should be judged for consistency with what is already known of the Canon, explanations of the Canon given by later teachers have to be judged for their consistency with the known Canon as well.
 
-     - 然而，第二種極端則認為我們根本沒有權利對《義註》的權威性做出判斷。然而，這個立場違背了\ `《長部》16經 <{filename}reference/external-link%zh-hant.rst#dn16>`__\ 中提到的《四大教示》（以及上面討論的）中所奉行的一致性原則，用於判斷什麼是佛陀之言，什麼不是佛陀之言。正如《聖典》中的不同拼讀應被判斷是否與已知的經典一致一樣，後來的導師們對《聖典》的解釋也必須被判斷是否與已知的《聖典》一致。
+     - 然而，第二種極端則認為我們根本沒有權利對《義註》的權威性做出判斷。然而，這個立場違背了\ `《長部》16經`_\ 中提到的《四大教示》（以及上面討論的）中所奉行的一致性原則，用於判斷什麼是佛陀之言，什麼不是佛陀之言。正如《聖典》中的不同拼讀應被判斷是否與已知的經典一致一樣，後來的導師們對《聖典》的解釋也必須被判斷是否與已知的《聖典》一致。
 
    * - This point is borne out by three important passages in the texts. One is the narrative of the Second Council, during which the bhikkhus of Vesālī defended ten practices on the grounds that they had learned them from their teachers. The elders who judged the case, though, insisted on evaluating the practices in terms of whether they adhered to the Canon. The primary point of controversy—the question of whose authority was greater, the Canon’s or the teachers’—was point six:
 
@@ -498,13 +498,13 @@
 
      - 正如長老們在會議的主持中所表明的那樣，這意味著只有在符合《聖典》的情況下才能遵循依止師（古譯：阿闍梨）和戒師（古譯：和尚）的做法。
 
-   * - The second passage is the discussion of the Great Standards in the Commentary to `DN 16 <https://www.dhammatalks.org/suttas/DN/DN16.html>`__, which concludes that the commentaries are to be accepted only where they are in agreement with the Canon. Apparently the teachers who compiled the ancient commentaries took a more modest view of their authority than did the elders of the Mahāvihāra at the time of Buddhaghosa, and did not pretend to supersede the Canon as the final word on what is and is not true Dhamma and Vinaya.
+   * - The second passage is the discussion of the Great Standards in the Commentary to `DN 16`_, which concludes that the commentaries are to be accepted only where they are in agreement with the Canon. Apparently the teachers who compiled the ancient commentaries took a more modest view of their authority than did the elders of the Mahāvihāra at the time of Buddhaghosa, and did not pretend to supersede the Canon as the final word on what is and is not true Dhamma and Vinaya.
 
-     - 第二段是針對\ `《長部》16經 <{filename}reference/external-link%zh-hant.rst#dn16>`__\ 的《義註》中《四大教示》的討論，其結論是註釋只有在與《聖典》一致的情況下才被接受。顯然，編纂古代註釋的導師們比佛音時代\ `大寺 <https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA>`__\ （Mahāvihāra）的長老們對自己的權威持更為謙虛的態度，並且沒有假裝取代《聖典》去為什麼是或不是真正的法與律做最終定論。
+     - 第二段是針對\ `《長部》16經`_\ 的《義註》中《四大教示》的討論，其結論是註釋只有在與《聖典》一致的情況下才被接受。顯然，編纂古代註釋的導師們比佛音時代\ `大寺 <https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA>`__\ （Mahāvihāra）的長老們對自己的權威持更為謙虛的態度，並且沒有假裝取代《聖典》去為什麼是或不是真正的法與律做最終定論。
 
-   * - The third passage, a discussion in the Commentary to `Pr 1 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__, further elaborates this point by listing four levels of Vinaya, in descending order of authority: the level found in the Canon, the level based on the four Great Standards given in `Mv.VI.40.1 <https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.40.1>`__, the level found in the Commentary, and the level based on one’s personal opinion. Any disagreement among these sources, this passage notes, should be settled by siding with the opinion of the higher authority. Thus the Commentary to the Vinaya puts itself only on the third level of authority, adding that not all of the Commentary qualifies even for that level. The opinions of Vinaya experts after the first generation of commentators, even though included in the Commentary, count only as personal opinion. At present there is no way of knowing for sure which opinions are first-generation and which are not, although the opinions of Sri Lankan Vinaya experts named in the Commentary would obviously fall in the latter category.
+   * - The third passage, a discussion in the Commentary to `Pr 1 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__, further elaborates this point by listing four levels of Vinaya, in descending order of authority: the level found in the Canon, the level based on the four Great Standards given in `Mv.VI.40.1`_, the level found in the Commentary, and the level based on one’s personal opinion. Any disagreement among these sources, this passage notes, should be settled by siding with the opinion of the higher authority. Thus the Commentary to the Vinaya puts itself only on the third level of authority, adding that not all of the Commentary qualifies even for that level. The opinions of Vinaya experts after the first generation of commentators, even though included in the Commentary, count only as personal opinion. At present there is no way of knowing for sure which opinions are first-generation and which are not, although the opinions of Sri Lankan Vinaya experts named in the Commentary would obviously fall in the latter category.
 
-     - 第三段是針對\ `《波羅夷》一 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__\ 的《義註》中的討論，進一步闡述了這一點，按照權威性由高到低，列出了戒律的四個階層：《聖典》中找到的層級，基於\ `《大品》.六.40.1 <https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0328a05>`__\ 裡《四大教示》的層級，《義註》中找到的層級，以及基於個人意見的層級。這段話指出，這些來源之間的任何分歧都應該以更高權威的意見為準。因此，戒律的《義註》僅將自己置於第三級權威，並補充說，並不是所有的《義註》都符合這一級別。第一代論師之後的戒律專家的意見，即使包含在《義註》中，也僅算作個人意見。目前無法確定哪些觀點是第一代，哪些不是，儘管《義註》中點名的斯里蘭卡戒律專家的觀點顯然屬於後一類。
+     - 第三段是針對\ `《波羅夷》一 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__\ 的《義註》中的討論，進一步闡述了這一點，按照權威性由高到低，列出了戒律的四個階層：《聖典》中找到的層級，基於\ `《大品》.六.40.1`_\ 裡《四大教示》的層級，《義註》中找到的層級，以及基於個人意見的層級。這段話指出，這些來源之間的任何分歧都應該以更高權威的意見為準。因此，戒律的《義註》僅將自己置於第三級權威，並補充說，並不是所有的《義註》都符合這一級別。第一代論師之後的戒律專家的意見，即使包含在《義註》中，也僅算作個人意見。目前無法確定哪些觀點是第一代，哪些不是，儘管《義註》中點名的斯里蘭卡戒律專家的觀點顯然屬於後一類。
 
        .. TODO FIXME: replace link to 《波羅夷》一
 
@@ -528,5 +528,9 @@
 .. _Vajirañāṇavarorasa 王子: https://en.wikipedia.org/wiki/Vajirananavarorasa
 .. _泰國僧伽的僧王: https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%9B%BD%E5%83%A7%E7%8E%8B
 .. _The Entrance to the Vinaya: https://www.google.com/search?q=The+Entrance+to+the+Vinaya
+.. _DN 16: https://www.dhammatalks.org/suttas/DN/DN16.html
+.. _《長部》16經: {filename}reference/external-link%zh-hant.rst#dn16
+.. _Mv.VI.40.1: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.40.1
+.. _《大品》.六.40.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0328a05
 
 (未完待續)
