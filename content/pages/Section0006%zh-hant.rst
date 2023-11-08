@@ -464,6 +464,45 @@
 
      - 文本中的三個重要段落證實了這一點。其一是\ `第二次結集 <https://zh.wikipedia.org/zh-hant/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BB%93%E9%9B%86>`__\ 的敘述，在結集期間，毘舍離的比丘們以從他們的導師們那裡學到的\ `十事 <https://zh.wikipedia.org/zh-hant/%E5%8D%81%E4%BA%8B>`__\ 為由進行辯護。然而，審理此事的長老們堅持以是否遵守《聖典》來評定這些事。主要爭議點——《聖典》和導師誰的權威更大——是第六點：
 
+   * - .. container:: notification
+
+          “‘The practice of what is habitual, sir—is it allowable?’
+
+          “‘What is the practice of what is habitual, my friend?’
+
+          “‘To practice (thinking), this is the way my preceptor habitually practiced; this is the way my teacher habitually practiced—is this allowable?’
+
+          “‘The practice of what is habitual is sometimes allowable, sometimes not.’”—Cv.XII.2.8
+
+     - .. container:: notification
+
+          「大德！常法，淨耶？」
+
+          「友！何者為常法淨耶？」
+
+          「大德！言：此我和尚之常法，此我阿闍梨之常法而行之，淨耶？」
+
+          「友！常法一分淨、一分不淨也。」——`《小品》.一二.2.8 <https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_022#0410a10>`__
+
+          (上面取自元亨寺漢譯南傳大藏經，以下從英文直譯)
+
+          「大德，習慣性的做法可以嗎？」
+
+          「友，習慣的做法是什麼？」
+
+          「這是我的戒師習慣修行的方式；這是我依止師習慣修行的方式，依照而行，這樣允許嗎？」
+
+          「習慣性的做法有時是允許的，有時是不允許的。」
+
+   * - What this means, as the elders showed in their conduct of the meeting, is that one’s teacher’s and preceptor’s practices are to be followed only when in accordance with the Canon.
+
+     - 正如長老們在會議的主持中所表明的那樣，這意味著只有在符合《聖典》的情況下才能遵循依止師（古譯：阿闍梨）和戒師（古譯：和尚）的做法。
+
+   * - The second passage is the discussion of the Great Standards in the Commentary to `DN 16 <https://www.dhammatalks.org/suttas/DN/DN16.html>`__, which concludes that the commentaries are to be accepted only where they are in agreement with the Canon. Apparently the teachers who compiled the ancient commentaries took a more modest view of their authority than did the elders of the Mahāvihāra at the time of Buddhaghosa, and did not pretend to supersede the Canon as the final word on what is and is not true Dhamma and Vinaya.
+
+     - 第二段是對\ `《長部》16經 <{filename}reference/external-link%zh-hant.rst#dn16>`__\ 《義註》中《四大教示》的討論，其結論是註釋只有在與《聖典》一致的情況下才被接受。顯然，編纂古代註釋的導師們比佛音時代\ `大寺 <https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA>`__\ （Mahāvihāra）的長老們對自己的權威持更為謙虛的態度，並且沒有假裝取代《聖典》去為什麼是或不是真正的法與律做最終定論。
+
+
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _阿㝹羅陀補羅 大寺: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA
