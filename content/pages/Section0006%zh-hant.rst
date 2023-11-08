@@ -430,8 +430,39 @@
 
    * - The Buddha, however, had enough foresight to see that, over the course of many centuries, new situations would arise that had not existed in his lifetime, and there would be a need to extend the principles of the Vinaya to cover those situations as well. Thus, `Mv.VI.40.1 <https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.40.1>`_ reports that he established the following four guidelines for judgment—called the Great Standards (not to be confused with the Great Standards given in `DN 16 <https://www.dhammatalks.org/suttas/DN/DN16.html>`__ and mentioned above)—for judging cases not mentioned in the rules:
 
-     - 然而，佛陀有足夠的遠見，他看到，在許多個世紀的時間推移，將會出現他有生之年中不存在的新情況，因此需要擴展戒律的原則以涵蓋這些情況。因此，\ `《大品》.六.40.1 <https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0328a05>`_\ 記述說，他制定了以下四項判斷指南——稱為《四大教示》（不要與\ `《長部》16經 <{filename}reference/external-link%zh-hant.rst#dn16>`__\ 中給出的《四大教示》和上面提到的混淆）——用於判斷戒條中未提及的情況：
+     - 然而，佛陀有足夠的遠見，他看到，在許多個世紀的時間推移，將會出現他有生之年中不存在的新情況，因此需要擴展戒律的原則以涵蓋這些情況。因此，\ `《大品》.六.40.1 <https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0328a05>`__\ 記述說，他制定了以下四項判斷指南——稱為《四大教示》（不要與\ `《長部》16經 <{filename}reference/external-link%zh-hant.rst#dn16>`__\ 中給出的《四大教示》和上面提到的混淆）——用於判斷戒條中未提及的情況：
 
+   * - .. container:: notification
+
+          “Bhikkhus, whatever I have not objected to, saying, ‘This is not allowable,’ if it conforms with what is not allowable, if it goes against [literally, “preempts”] what is allowable, that is not allowable for you.
+
+          “Whatever I have not objected to, saying, ‘This is not allowable,’ if it conforms with what is allowable, if it goes against what is not allowable, that is allowable for you.
+
+          “And whatever I have not permitted, saying, ‘This is allowable,’ if it conforms with what is not allowable, if it goes against what is allowable, that is not allowable for you.
+
+          “And whatever I have not permitted, saying, ‘This is allowable,’ if it conforms with what is allowable, if it goes against what is not allowable, that is allowable for you.”—`Mv.VI.40.1 <https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts40_1>`__
+
+     - .. container:: notification
+
+          「諸比丘！如此，我雖未禁曰：『不相應。』若順不相應事，違相應事者，此，汝等為不相應也。
+
+          諸比丘！如此，我雖未禁曰：『不相應。』若隨順相應事，違不相應事者，此，汝等為相應也。
+
+          諸比丘！如此，我雖未許曰：『相應。』若順不相應事，違相應事者，此，汝等為不相應也。
+
+          諸比丘！如此，我雖未許曰：『相應。』若順相應事，違不相應事者，此，汝等為相應也。」——`《大品》.六.40.1 <https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0328a05>`__
+
+   * - Thus it is easy to see that the Commentary and Sub-commentary, in extrapolating from the rules in the Canon to assign new prohibitions and allowances, are simply exercising their right to apply these Great Standards. The question in weighing these commentaries, then, is not whether they have the right to extrapolate from the Canon to formulate prohibitions and allowances, but whether they have applied these Standards in a wise and appropriate way. We ourselves will have recourse to these Standards in the course of this book, both to evaluate the judgments of the commentaries and to determine how the principles of Vinaya apply to new situations today.
+
+     - 由此容易看出，《義註》和《複註》從《聖典》的戒條中推斷出新的禁止和許可，只是在行使其適用這《四大教示》的權利。那麼，權衡這些註釋的問題不在於他們是否有權從《聖典》中推斷以制定禁止和許可，而在於他們是否以明智和適當的方式應用了這《四大教示》。在本書的過程中，我們自己也會依靠這《四大教示》，既用以評估註釋的判斷，並且也決定戒律的原則如何應用於當今的新情況。
+
+   * - The second extreme, however, argues that we have no right to pass judgment on the authority of the Commentary at all. This position, however, runs counter to the principle of consistency espoused in the Great Standards mentioned in `DN 16 <https://www.dhammatalks.org/suttas/DN/DN16.html>`__ (and discussed above) for judging what is and isn’t the word of the Buddha. Just as variant readings in the Canon should be judged for consistency with what is already known of the Canon, explanations of the Canon given by later teachers have to be judged for their consistency with the known Canon as well.
+
+     - 然而，第二種極端則認為我們根本沒有權利對《義註》的權威性做出判斷。然而，這個立場違背了\ `《長部》16經 <{filename}reference/external-link%zh-hant.rst#dn16>`__\ 中提到的《四大教示》（以及上面討論的）中所奉行的一致性原則，用於判斷什麼是佛陀之言，什麼不是佛陀之言。正如《聖典》中的不同拼讀應被判斷是否與已知的經典一致一樣，後來的導師們對《聖典》的解釋也必須被判斷是否與已知的《聖典》一致。
+
+   * - This point is borne out by three important passages in the texts. One is the narrative of the Second Council, during which the bhikkhus of Vesālī defended ten practices on the grounds that they had learned them from their teachers. The elders who judged the case, though, insisted on evaluating the practices in terms of whether they adhered to the Canon. The primary point of controversy—the question of whose authority was greater, the Canon’s or the teachers’—was point six:
+
+     - 文本中的三個重要段落證實了這一點。其一是\ `第二次結集 <https://zh.wikipedia.org/zh-hant/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BB%93%E9%9B%86>`__\ 的敘述，在結集期間，毘舍離的比丘們以從他們的導師們那裡學到的\ `十事 <https://zh.wikipedia.org/zh-hant/%E5%8D%81%E4%BA%8B>`__\ 為由進行辯護。然而，審理此事的長老們堅持以是否遵守《聖典》來評定這些事。主要爭議點——《聖典》和導師誰的權威更大——是第六點：
 
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
