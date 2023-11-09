@@ -539,6 +539,18 @@
           https://www.google.com/search?q=the%20benefit%20of%20the%20doubt%20%E4%B8%AD%E6%96%87
           https://agora0.gitlab.io/pen/21q2/vocus/2021/06/24/VOCUS-the-benefit-of-the-doubt-%E6%87%B7%E7%96%91%E7%9A%84%E5%A5%BD%E8%99%95-%E6%98%AF%E4%BB%80%E9%BA%BC%E8%AA%9E%E6%84%9F%E4%BE%86%E8%91%97.html
 
+   * - There is, of course, a danger in being too independent in interpreting the tradition, in that strongly held opinions can lead to disharmony in the Community. Thus in evaluating the Commentary against the Canon, I do not want to imply that my conclusions are the only ones possible. Important points may have slipped my attention or escaped my grasp. For this reason, even in instances where I think that the Commentary does not do justice to the Vibhaṅga, I have tried to give a faithful account of the important points from the Commentary so that those who wish to take it as their authority may still use this book as a guide. If there are any points on which I am mistaken, I would be pleased if knowledgeable people would correct me.
+
+     - 當然，過度獨立地解釋傳統是有危險的，因為強烈的觀點可能會導致僧團的不和諧。因此，在根據《聖典》來評估《義註》時，我不想暗示我的結論是唯一的可能。我可能沒注意到或理解到重要的點。因此，即使在我認為《義註》沒有公正地對待《經分別》的情況下，我也盡力忠實地敘述《義註》中的要點，以便那些希望將其視為權威的人仍然可以使用本書作為指南。如果我有任何錯誤的地方，請知識淵博的人糾正我，我將很高興。
+
+   * - At the same time, I hope that this book will show that there are many areas on which the Vibhaṅga is unclear and lends itself to a variety of equally valid interpretations. For proof of this, we need only look at the various traditions that have developed in the different Theravādin countries, and even within each country. For some reason, people who may be very tolerant of different interpretations of the Dhamma can be very intolerant of different interpretations of the Vinaya, getting into heated arguments over minor issues having very little to do with the training of the mind.
+
+     - 同時，我希望這本書能夠表明，《經分別》有許多不清楚的領域，並且各種同樣有效的解釋都適用。為了證明這一點，我們只需要看看不同上座部國家、甚至每個國家內部發展出來的各種傳統。出於某種原因，那些對法的不同解釋非常寬容的人，可能對律的不同解釋卻非常不寬容，他們會因為一些與修心無關的小問題而陷入激烈的爭論。
+
+   * - I have tried to make the point throughout this book that any interpretation based on a sound reading of the Canon should be respected: that each bhikkhu should follow the interpretations of the Community in which he is living, as long as they do not conflict with the Canon, so as to avoid conflict over minor matters in daily life; and that he should also show respect for the differing interpretations of other Communities where they too do not conflict with the Canon, so as to avoid the pitfalls of pride and narrow-mindedness.
+
+     - 我在本書中試圖指出，任何基於對《聖典》的正確解讀的解釋都應該受到尊重：每個比丘都應該遵循他所居住的僧團的解釋，只要它們不與《聖典》相衝突，以避免因日常生活中的小事發生衝突；他也應該尊重其他僧團的不同解釋，只要這些解釋也不與《聖典》相衝突，以避免陷入驕傲和心胸狹隘的陷阱。
+
 
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
