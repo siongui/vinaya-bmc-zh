@@ -462,7 +462,7 @@
 
    * - This point is borne out by three important passages in the texts. One is the narrative of the Second Council, during which the bhikkhus of Vesālī defended ten practices on the grounds that they had learned them from their teachers. The elders who judged the case, though, insisted on evaluating the practices in terms of whether they adhered to the Canon. The primary point of controversy—the question of whose authority was greater, the Canon’s or the teachers’—was point six:
 
-     - 文本中的三個重要段落證實了這一點。其一是\ `第二次結集 <https://zh.wikipedia.org/zh-hant/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BB%93%E9%9B%86>`__\ 的敘述，在結集期間，毘舍離的比丘們以從他們的導師們那裡學到的\ `十事 <https://zh.wikipedia.org/zh-hant/%E5%8D%81%E4%BA%8B>`__\ 為由進行辯護。然而，審理此事的長老們堅持以是否遵守《聖典》來評定這些事。主要爭議點——《聖典》和導師誰的權威更大——是第六點：
+     - 文本中的三個重要段落證實了這一點。第一個段落是\ `第二次結集 <https://zh.wikipedia.org/zh-hant/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BB%93%E9%9B%86>`__\ 的敘述，在結集期間，毘舍離的比丘們以從他們的導師們那裡學到的\ `十事 <https://zh.wikipedia.org/zh-hant/%E5%8D%81%E4%BA%8B>`__\ 為由進行辯護。然而，審理此事的長老們堅持以是否遵守《聖典》來評定這些事。主要爭議點——《聖典》和導師誰的權威更大——是第六點：
 
    * - .. container:: notification
 
@@ -500,17 +500,21 @@
 
    * - The second passage is the discussion of the Great Standards in the Commentary to `DN 16`_, which concludes that the commentaries are to be accepted only where they are in agreement with the Canon. Apparently the teachers who compiled the ancient commentaries took a more modest view of their authority than did the elders of the Mahāvihāra at the time of Buddhaghosa, and did not pretend to supersede the Canon as the final word on what is and is not true Dhamma and Vinaya.
 
-     - 第二段是針對\ `《長部》16經`_\ 的《義註》中《四大教示》的討論，其結論是註釋只有在與《聖典》一致的情況下才被接受。顯然，編纂古代註釋的導師們比佛音時代\ `大寺 <https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA>`__\ （Mahāvihāra）的長老們對自己的權威持更為謙虛的態度，並且沒有假裝取代《聖典》去為什麼是或不是真正的法與律做最終定論。
+     - 第二個段落是針對\ `《長部》16經`_\ 的《義註》中《四大教示》的討論，其結論是註釋只有在與《聖典》一致的情況下才被接受。顯然，編纂古代註釋的導師們比佛音時代\ `大寺 <https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA>`__\ （Mahāvihāra）的長老們對自己的權威持更為謙虛的態度，並且沒有裝作取代《聖典》去為什麼是或不是真正的法與律下最終定論。
 
    * - The third passage, a discussion in the Commentary to `Pr 1 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__, further elaborates this point by listing four levels of Vinaya, in descending order of authority: the level found in the Canon, the level based on the four Great Standards given in `Mv.VI.40.1`_, the level found in the Commentary, and the level based on one’s personal opinion. Any disagreement among these sources, this passage notes, should be settled by siding with the opinion of the higher authority. Thus the Commentary to the Vinaya puts itself only on the third level of authority, adding that not all of the Commentary qualifies even for that level. The opinions of Vinaya experts after the first generation of commentators, even though included in the Commentary, count only as personal opinion. At present there is no way of knowing for sure which opinions are first-generation and which are not, although the opinions of Sri Lankan Vinaya experts named in the Commentary would obviously fall in the latter category.
 
-     - 第三段是針對\ `《波羅夷》一 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__\ 的《義註》中的討論，進一步闡述了這一點，按照權威性由高到低，列出了戒律的四個階層：《聖典》中找到的層級，基於\ `《大品》.六.40.1`_\ 裡《四大教示》的層級，《義註》中找到的層級，以及基於個人意見的層級。這段話指出，這些來源之間的任何分歧都應該以更高權威的意見為準。因此，戒律的《義註》僅將自己置於第三級權威，並補充說，並不是所有的《義註》都符合這一級別。第一代論師之後的戒律專家的意見，即使包含在《義註》中，也僅算作個人意見。目前無法確定哪些觀點是第一代，哪些不是，儘管《義註》中點名的斯里蘭卡戒律專家的觀點顯然屬於後一類。
+     - 第三段是針對\ `《波羅夷》一 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__\ 的《義註》中的討論，進一步闡述了這一點，按照權威性由高到低，列出了戒律的四個階層：《聖典》中找到的層級，基於\ `《大品》.六.40.1`_\ 給出的《四大教示》的層級，《義註》中找到的層級，以及基於個人意見的層級。這段話指出，這些來源之間的任何分歧都應該以更高權威的意見為準。因此，戒律的《義註》僅將自己置於第三級權威，並補充說，並不是所有的《義註》都符合這一級別。第一代論師之後的戒律專家的意見，即使包含在《義註》中，也僅算作個人意見。目前無法確定哪些觀點是第一代，哪些不是，儘管《義註》中點名的斯里蘭卡戒律專家的觀點顯然屬於後一類。
 
        .. TODO FIXME: replace link to 《波羅夷》一
 
    * - Some may object that to pass judgment on the Commentary is to lack respect for the tradition, but actually it is because of respect for the compilers of the Vibhaṅga that I make the following assumptions in checking the Commentary against the Vibhaṅga:
 
-     - 也許有人會反對說，對《義註》進行評判是對傳統的不尊重，但實際上，正是出於對《經分別》編撰者的尊重，我在對照《經分別》來檢查《義註》時做出了以下假設：
+     - 也許有人會反對說，對《義註》進行評判是缺乏對傳統的尊重，但實際上，正是出於對《經分別》編撰者的尊重，我在對照《經分別》來檢查《義註》時做出了以下假設：
+
+   * - 1) The compilers of the Vibhaṅga were intelligent enough to be consistent within the discussion of each rule. Any explanation based on the premise that they were not consistent should give way to an explanation showing that they were.
+
+     - 1）《經分別》的編纂者足夠聰慧，能夠在每條戒條的討論中保持一致。任何基於它們不一致的前提的解釋都應該被表明它們一致的解釋取代。
 
 
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
