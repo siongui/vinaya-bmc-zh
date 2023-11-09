@@ -504,7 +504,7 @@
 
    * - The third passage, a discussion in the Commentary to `Pr 1 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__, further elaborates this point by listing four levels of Vinaya, in descending order of authority: the level found in the Canon, the level based on the four Great Standards given in `Mv.VI.40.1`_, the level found in the Commentary, and the level based on one’s personal opinion. Any disagreement among these sources, this passage notes, should be settled by siding with the opinion of the higher authority. Thus the Commentary to the Vinaya puts itself only on the third level of authority, adding that not all of the Commentary qualifies even for that level. The opinions of Vinaya experts after the first generation of commentators, even though included in the Commentary, count only as personal opinion. At present there is no way of knowing for sure which opinions are first-generation and which are not, although the opinions of Sri Lankan Vinaya experts named in the Commentary would obviously fall in the latter category.
 
-     - 第三段是針對\ `《波羅夷》一 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__\ 的《義註》中的討論，進一步闡述了這一點，按照權威性由高到低，列出了戒律的四個階層：《聖典》中找到的層級，基於\ `《大品》.六.40.1`_\ 給出的《四大教示》的層級，《義註》中找到的層級，以及基於個人意見的層級。這段話指出，這些來源之間的任何分歧都應該以更高權威的意見為準。因此，戒律的《義註》僅將自己置於第三級權威，並補充說，並不是所有的《義註》都符合這一級別。第一代論師之後的戒律專家的意見，即使包含在《義註》中，也僅算作個人意見。目前無法確定哪些觀點是第一代，哪些不是，儘管《義註》中點名的斯里蘭卡戒律專家的觀點顯然屬於後一類。
+     - 第三個段落是針對\ `《波羅夷》一 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__\ 的《義註》中的討論，進一步闡述了這一點，按照權威性由高到低，列出了戒律的四個階層：《聖典》中找到的層級，基於\ `《大品》.六.40.1`_\ 給出的《四大教示》的層級，《義註》中找到的層級，以及基於個人意見的層級。這段話指出，這些來源之間的任何分歧都應該以更高權威的意見為準。因此，戒律的《義註》僅將自己置於第三級權威，並補充說，並不是所有的《義註》都符合這一級別。第一代論師之後的戒律專家的意見，即使包含在《義註》中，也僅算作個人意見。目前無法確定哪些觀點是第一代，哪些不是，儘管《義註》中點名的斯里蘭卡戒律專家的觀點顯然屬於後一類。
 
        .. TODO FIXME: replace link to 《波羅夷》一
 
@@ -515,6 +515,29 @@
    * - 1) The compilers of the Vibhaṅga were intelligent enough to be consistent within the discussion of each rule. Any explanation based on the premise that they were not consistent should give way to an explanation showing that they were.
 
      - 1）《經分別》的編纂者足夠聰慧，能夠在每條戒條的討論中保持一致。任何基於它們不一致的前提的解釋都應該被表明它們一致的解釋取代。
+
+   * - 2) The compilers were well enough acquainted with the contingencies surrounding each rule that they knew which factors were and were not crucial in determining what is and is not an offense. Any explanation that adds or subtracts factors from those mentioned in the Vibhaṅga should give way to one that follows the Vibhaṅga’s analysis. Also, any attempt to use the Great Standards in taking the explanations for one rule and applying them to override the explanations given for another rule should be rejected, inasmuch as those Standards are meant solely for issues where nothing has already been explicitly forbidden or allowed.
+
+     - 2） 編纂者非常熟悉每條戒條可能發生的事，他們知道哪些因素對於決定什麼是犯戒、什麼不是犯戒至關重要。任何對《經分別》中提到的因素進行添加或刪減的解釋都應該被遵循《經分別》分析的解釋取代。此外，任何試圖使用《四大教示》來將一條戒條的解釋應用於推翻另一條戒條的解釋都應該被拒絕，因為《四大教示》僅適用於尚未明確禁止或允許的議題。
+
+   * - 3) The compilers, in reporting the precedents in the Vinīta-vatthu—the cases the Buddha judged against an existing rule—were careful enough to include all the important factors bearing on the judgment. Any explanation that requires rewriting the precedents, adding extra details extraneous to the Vibhaṅga to account for the judgment, should give way to an explanation that can make sense out of the precedents as they are reported and in terms of the analyses presented elsewhere in the Vibhaṅga.
+
+     - 3）編纂者在記述《Vinīta_-vatthu_》中的先例（佛陀根據現有戒條做出判決的案例）時，足夠謹慎地包括了與判決有關的所有重要因素。任何需要修訂先例、添加與《經分別》無關的額外細節以說明判決的解釋，都應該被可以從記述的先例中以及根據《經分別》中其他地方提出的分析的合理解釋取代。
+
+       ..
+          パーリ語辞典 水野弘元著
+          vinīta：a．[vineti の pp．] 導かれたる，訓練された．-vatthu 教導事，修習事．
+
+          http://cbeta.buddhism.org.hk/pali/31
+          ~vinīta-vatthūni六种の修习事. ~virodha-vatthūni六违逆事. ~vivāda-mūlāni六诤 ... -vatthu 斷頭事.', 'xr': '《汉译パーリ语辞典》 黃秉榮譯词数7735.'} {'def': 'a …
+
+   * - It’s not that I take any joy in arguing with the Commentary. In fact, wherever possible, I have been happy to give it the benefit of the doubt, and on many points I am very much in its debt. Still, now that Buddhism is coming to the West, I feel it is time to stop and take stock of the commentarial tradition and to check it against the earliest sources. This is especially important in a way of thought and life that, from the very beginning, has appealed to reason and investigation rather than to blindly accepted authority. In doing this, I am simply following a pattern that has repeated itself through the history of the Theravādin tradition: that of returning to the original principles whenever the religion reaches an historic turning point.
+
+     - 我並不是以與《義註》爭論為樂。事實上，只要有可能，我都樂意姑且先相信它，並且在很多方面我都非常感激它。儘管如此，既然佛教正在傳入西方，我覺得是時候停下來全面盤點註釋傳統，並根據最早的來源進行檢查。這對於從一開始就訴諸理性和調查而不是盲目接受權威的思想和生活方式來說尤其重要。 在這樣做時，我只是遵循了上座部傳統歷史中不斷重複的模式：每當宗教達到歷史轉折點時，就回到最初的原則。
+
+       ..
+          https://www.google.com/search?q=the%20benefit%20of%20the%20doubt%20%E4%B8%AD%E6%96%87
+          https://agora0.gitlab.io/pen/21q2/vocus/2021/06/24/VOCUS-the-benefit-of-the-doubt-%E6%87%B7%E7%96%91%E7%9A%84%E5%A5%BD%E8%99%95-%E6%98%AF%E4%BB%80%E9%BA%BC%E8%AA%9E%E6%84%9F%E4%BE%86%E8%91%97.html
 
 
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
@@ -536,5 +559,7 @@
 .. _《長部》16經: {filename}reference/external-link%zh-hant.rst#dn16
 .. _Mv.VI.40.1: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.40.1
 .. _《大品》.六.40.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0328a05
+.. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
+.. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
 
 (未完待續)
