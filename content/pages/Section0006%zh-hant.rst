@@ -551,6 +551,18 @@
 
      - 我在本書中試圖指出，任何基於對《聖典》的正確解讀的解釋都應該受到尊重：每個比丘都應該遵循他所居住的僧團的解釋，只要它們不與《聖典》相衝突，以避免因日常生活中的小事發生衝突；他也應該尊重其他僧團的不同解釋，只要這些解釋也不與《聖典》相衝突，以避免陷入驕傲和心胸狹隘的陷阱。
 
+   * - This is especially true now that monasteries of different nationalities are taking root in close proximity to one another in the West. In the past, Thais, Burmese, and Sri Lankans could look down on one another’s traditions without causing friction, as they lived in separate countries and spoke different languages. Now, however, we have become neighbors and have begun to speak common languages, so we must be especially careful not to waste what little time we have in the celibate life on minor disagreements.
+
+     - 這在現在尤其為真，不同民族的寺院正在西方彼此毗鄰的地方紮根。過去，泰國人、緬甸人和斯里蘭卡人可以互相看不起對方的傳統，而不會造成摩擦，因為生活在不同的國家，講不同的語言。然而，現在我們已經成為鄰居，開始說共同語言，所以我們必須特別小心，不要把梵行生活中僅有的一點時間浪費在一些小分歧上。
+
+   * - My aim throughout this book has been practical. I have avoided dealing with academic issues concerning the authenticity and reliability of the tradition, and instead have tried simply to report and explain what the tradition has to say. Of course, I have had to be selective. Whatever the unconscious factors that have influenced my choice of material, the conscious considerations shaping this book are briefly as follows:
+
+     - 我貫穿本書的目標都是實際的。我避免處理有關傳統的真實性和可靠性的學術問題，而是試圖僅只記述和解釋傳統的內容。當然，我必須有所選擇。無論有哪些無意識因素影響了我對材料的選擇，塑造本書的有意識的考量簡要如下：
+
+   * - We are dealing primarily with rules, but rules are not the only way to express disciplinary norms, and the texts we are surveying express their norms in a variety of forms: as rules, principles, models, and virtues. The different forms are best suited for different purposes. Principles, models, and virtues are meant as personal, subjective standards and tend to be loosely defined. Their interpretation and application are left to the judgment of the individual. Rules are meant to serve as more objective standards. To work, they must be precisely defined in a way acceptable to the Community at large. The compilers of the Canon, recognizing this need, provided definitions for most of the terms in the rules, and the authors of the commentaries continued this task, carrying it out with even greater thoroughness. Thus much of this book, in reporting these texts, is concerned with the definition of terms.
+
+     - 我們主要處理的是戒條，但戒條並不是表達戒律規範的唯一方式，我們正在審視的文本以多種形式表達其規範：戒條、原則、模型和美德。不同的形式最適合不同的目的。原則、模型和美德被視為個人的、主觀的標準，並且往往被鬆散地定義。它們的解釋和應用取決於個人的判斷。戒條旨在作為更客觀的標準。為了發揮作用，必須以整個僧團可接受的方式對它們進行精確定義。《聖典》的編纂者認識到這一需要，為戒條中的大多數術語提供了定義，而註釋的作者們則繼續這項任務，並更加徹底地執行它。因此，本書在記述這些文本時，大部分內容都與術語的定義有關。
+
 
 .. _《一切善見》: https://zh.wikipedia.org/zh-hant/%E5%96%84%E8%A6%8B%E5%BE%8B%E6%AF%98%E5%A9%86%E6%B2%99
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
