@@ -7,6 +7,9 @@
 :og_image: {static}/extra/Dharma_wheel.png
 :orig_eng_link: https://www.dhammatalks.org/vinaya/bmc/Section0007.html
 
+.. role:: small
+   :class: is-size-7
+
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -36,8 +39,25 @@
 
      - 除了戒條中直接提到的懲罰之外，還有根據《經分別》和註釋從戒條中衍生出來的懲罰。這些衍生的懲罰涉及兩種情況： 1) 比丘試圖實施其中一項戒條中提到的行為，但由於某種原因該行為沒有完成（例如，他試圖殺人，但人沒死）。 2) 比丘犯下任何戒條沒有直接涵蓋的行為，但類似於戒律所直接涵蓋的行為（例如，他毆打未出家的人，這不是戒條直接涵蓋的行為，而毆打比丘的行為卻是戒律直接涵蓋的行為）。
 
+   * - Penalties of this sort, when derived from the pārājika and saṅghādisesa rules, include thullaccaya (grave offense) and dukkaṭa (wrong doing); those derived from the nissaggiya pācittiya, pācittiya, and pāṭidesanīya rules—except for the rule against insults—include only the dukkaṭa. The penalties derived from the rule against insults include dubbhāsita (wrong speech) as well. As for the sekhiya rules, the Vibhaṅga states that to disobey any of them out of disrespect entails a dukkaṭa. All of these derived penalties may be cleared through confession.
+
+     - 此類處罰源自《波羅夷》和《僧殘》戒條，包括\ `《偷蘭遮》`_\ (thullaccaya)（重罪）和\ `《突吉羅》`_\ (dukkaṭa)（惡作）；源自《尼薩耆波逸提》、《波逸提》和《應悔過》戒條的懲罰（除了禁止侮辱的戒條之外）僅包括《突吉羅》。來自侮辱戒條的懲罰還包括 dubbhāsita（惡說）。至於《應學》戒條，《經分別》規定，出於不尊重而違反任何戒條都會導致《突吉羅》。所有這些衍生的懲罰都可以透過認罪懺悔來消除。
+
+   * - There may, of course, be times when the assigned penalties are not enough to deter an unconscientious bhikkhu from committing an offense repeatedly. In such cases, the Community in which he is living may, if it sees fit, formally impose additional penalties on him as a means of bringing him into line. These transactions range from stripping him of some of the privileges of seniority, to banishment from that particular Community, and on to suspension from the Bhikkhu Saṅgha as a whole. In each case the punishment is temporary; if the bhikkhu realizes his errors and mends his ways, the Community is to revoke the act against him and return him to his former status. These punishments are treated in detail in `BMC2, Chapter 20`_.
+
+     - 當然，有時所規定的懲罰不足以阻止不負責任的比丘重複犯罪。在這種情況下，他所居住的僧團如果認為合適，可以正式對他施加額外的處罰，作為讓他遵守戒條的手段。這些羯磨的範圍從剝奪他的一些戒臘特權，到將他逐出特定的僧團，再到暫停他在整個比丘僧伽中的資格\ :small:`（漢譯註：此處suspension的懲罰古譯為舉罪，和英文字面意思完全不同）`\ 。在每種情況下，懲罰都是暫時的；如果比丘認識到自己的錯誤並改過自新，僧團將撤銷針對他的處分，並將他恢復到原來的狀態。\ `《佛教修道準則 第二冊》第二十章 <https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20>`_\ 詳細討論了這些懲罰。
+
+       .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
+
+   * - Thus, taken as a whole, the Vinaya’s system of penalties makes use of three basic principles—confession, forfeiture, and various degrees of ostracism from the Community—as means of enforcing the rules. To understand the wisdom of this system, it is important to realize how each of these principles is related to the practice of the Dhamma and the training of the mind.
+
+     - 因此，從整體來看，戒律的懲罰制度利用了三個基本原則──懺悔、捨出，和不同程度的僧團排斥──作為執行戒條的手段。要了解這個系統的智慧，重要的是要了解這些原則中的每一個是如何與佛法的修行和心靈的訓練相關的。
+
 
 .. _Mv.II.3.4: https://www.dhammatalks.org/vinaya/Mv/MvII.html#pts3_4
 .. _《大品》.二.3.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0137a05
 .. _Dhp 183: https://www.dhammatalks.org/suttas/KN/Dhp/Ch14.html#dhp183
 .. _《法句》一八三: https://tripitaka.cbeta.org/mobile/index.php?index=N26n0009_001#0031a12
+.. _《偷蘭遮》: https://www.google.com/search?q=%E5%81%B7%E8%98%AD%E9%81%AE
+.. _《突吉羅》: https://www.google.com/search?q=%E7%AA%81%E5%90%89%E7%BE%85
+.. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
