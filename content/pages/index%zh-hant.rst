@@ -50,7 +50,7 @@
      - `\　波羅提木叉 <{filename}Section0007%zh-hant.rst>`__
 
    * - `\　　Offenses <https://www.dhammatalks.org/vinaya/bmc/Section0007.html#sigil_toc_id_3>`__
-     - 　　犯戒
+     - `\　　犯戒 <{filename}Section0007%zh-hant.rst#offenses>`__
        :hidden:`*āpatti*`
 
    * - `\　Nissaya <https://www.dhammatalks.org/vinaya/bmc/Section0008.html>`__

@@ -57,6 +57,18 @@
 
      - *懺悔*\ ：在佛陀的開示中（例如，\ `《長部》2經`_\ 、\ `《中部》140經`_\ ）中有幾處指出：“凡是對（自己的）罪過見到是罪過後，依法改過，並在未來約束自己，是在聖者之法與律中增長的原因” 從佛陀每次做此聲明的上下文來看，「改過」顯然就是承認並懺悔自己的錯誤。在另一段經文（\ `《中部》61經`_\ ）中，佛陀告訴他的兒子羅睺羅，如果一個人看到自己的言語或行為傷害了自己或他人，應該向梵行生活中一位有知識的同伴懺悔。他補充說，所有那些在過去淨化了自己的思想、言語和行為的人，所有現在正在這樣做的人，以及所有未來將這樣做的人，無論已經做過、正在做、將會做。都是如此。另外，精進修行的基本條件之一，就是不弄虛作假詐欺或欺騙，向梵行生活中的有知識的同伴表明自己的實際行為（\ `《增支部》5:53經`_\ ）。因此，願意承認自己的錯誤行為是在這條道路上取得進步的必要因素。
 
+   * - *Forfeiture*, in most cases, is simply a symbolic adjunct to confession. One forfeits the object in question, confesses the offense, and then receives the object in return. In a few cases, though—where the object is improper for a bhikkhu to use or own—one must break it or forfeit it for good. In these cases, forfeiture serves as a check against greed and as a reminder of two essential principles—contentment with little and modesty—that the Buddha extolled to Mahāpajāpatī Gotamī (`AN 8:53`_) as absolutely basic to the practice. In particular, `AN 4:28`_ identifies contentment as one of the basic traditions of the noble ones, the essential culture of the religion as a whole.
+
+     - *捨出*\ ：在大多數情況下，只是懺悔的象徵性附屬補充。一個人捨出相關物品，承認罪行懺悔，然後收到該物品歸還。然而，在少數情況下，當該物品不適合比丘使用或擁有時，必須將其破壞或永久放棄。在這些情況下，捨出可以抑制貪婪，並提醒我們兩個基本原則——知足於少量和謙虛——佛陀向摩訶波闍波提瞿曇彌(\ `《增支部》8:53經`_\ ) 稱讚這兩條原則是修行的絕對基礎。特別是，\ `《增支部》4:28經`_\ 將知足視為聖者的基本傳統之一，也是整個宗教的必要文化。
+
+   * - *Ostracism*: In a famous passage (`SN 45:2`_), the Buddha tells Ven. Ānanda, “Admirable friendship, admirable companionship, admirable camaraderie is the entirety of the celibate life. When a bhikkhu has admirable people as friends, companions, and comrades, he can be expected to develop and pursue the noble eightfold path.” Thus one of the few things a bhikkhu serious about the practice would naturally fear would be to be ostracized by the well-behaved members of the Community, for that would be a true barrier to his spiritual progress. This fear would then help deter him from any action that might entail such ostracism.
+
+     - 排斥：在一個著名的段落（\ `《相應部》45:2經`_\ ）中，佛陀告訴阿難尊者：「令人敬佩的友誼、令人敬佩的陪伴、令人敬佩的友情是梵行生活的全部。當比丘擁有令人欽佩的人作為朋友、同伴和同志時，他就可以期望發展並追求八聖道。” 因此，認真修行的比丘自然會擔心的少數事情之一就是被僧團中表現良好的成員排斥，因為這將是他靈性進步的真正障礙。這種恐懼將有助於阻止他採取任何可能導致這種排斥的行動。
+
+   * - In this way, the Vinaya’s system of penalties provides rehabilitation for offenders and deterrence against offenses—with confession the means of rehabilitation, and ostracism the deterrent—growing directly out of principles basic to the practice of the Dhamma.
+
+     - 這樣，戒律的懲罰制度為犯戒者提供了恢復清淨，並威懾了犯戒者——懺悔是恢復清淨的手段，排斥則是威懾——直接源於佛法修行的基本原則。
+
 
 .. _Mv.II.3.4: https://www.dhammatalks.org/vinaya/Mv/MvII.html#pts3_4
 .. _《大品》.二.3.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0137a05
@@ -73,3 +85,20 @@
 .. _《中部》140經: https://sutra.mobi/chilin/zhong/content/140.html
 .. _《中部》61經: https://sutra.mobi/chilin/zhong/content/061.html
 .. _《增支部》5\:53經: https://sutra.mobi/zcj/zengzhi/content/0913.html
+.. _AN 8\:53: https://www.dhammatalks.org/suttas/AN/AN8_53.html
+.. _AN 4\:28: https://www.dhammatalks.org/suttas/AN/AN4_28.html
+.. _《增支部》8\:53經: https://sutra.mobi/zcj/zengzhi/content/1410.html
+.. _《增支部》4\:28經: https://sutra.mobi/zcj/zengzhi/content/0610.html
+.. _SN 45\:2: https://www.dhammatalks.org/suttas/SN/SN45_2.html
+.. _《相應部》45\:2經: https://sutra.mobi/zcj/xiangying/content/1197.html
+
+
+.. _sigil_toc_id_3:
+.. _offenses:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Offenses**
+     - **犯戒**
