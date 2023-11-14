@@ -53,6 +53,10 @@
 
      - 因此，從整體來看，戒律的懲罰制度利用了三個基本原則──懺悔、捨出，和不同程度的僧團排斥──作為執行戒條的手段。要了解這個系統的智慧，重要的是要了解這些原則中的每一個是如何與佛法的修行和心靈的訓練相關的。
 
+   * - *Confession*: There are several spots in the discourses (e.g., `DN 2`_, `MN 140`_) where the Buddha states, “It is a cause of growth in the Dhamma and discipline of the noble ones when, seeing a transgression (of one’s own) as a transgression, one makes amends in accordance with the Dhamma and exercises restraint in the future.” From the context each time the Buddha makes this statement, it is clear that “makes amends” means confessing one’s mistakes. In another passage (`MN 61`_), the Buddha informs his son, Rāhula, that if one sees that one’s words or deeds have harmed oneself or others, one should confess them to a knowledgeable companion in the celibate life. All those who have purified their thoughts, words, and deeds in the past, all those who are doing so in the present, and all those who will do so in the future, he adds, have acted, are acting, and will act in just this way. In addition, one of the basic requisites for exerting oneself in the practice is that one not be fraudulent or deceitful, and that one declare oneself to one’s knowledgeable companions in the celibate life in line with one’s actual behavior (`AN 5:53`_). Thus a willingness to confess one’s misdeeds is an essential factor in progress along the path.
+
+     - *懺悔*\ ：在佛陀的開示中（例如，\ `《長部》2經`_\ 、\ `《中部》140經`_\ ）中有幾處指出：“凡是對（自己的）罪過見到是罪過後，依法改過，並在未來約束自己，是在聖者之法與律中增長的原因” 從佛陀每次做此聲明的上下文來看，「改過」顯然就是承認並懺悔自己的錯誤。在另一段經文（\ `《中部》61經`_\ ）中，佛陀告訴他的兒子羅睺羅，如果一個人看到自己的言語或行為傷害了自己或他人，應該向梵行生活中一位有知識的同伴懺悔。他補充說，所有那些在過去淨化了自己的思想、言語和行為的人，所有現在正在這樣做的人，以及所有未來將這樣做的人，無論已經做過、正在做、將會做。都是如此。另外，精進修行的基本條件之一，就是不弄虛作假詐欺或欺騙，向梵行生活中的有知識的同伴表明自己的實際行為（\ `《增支部》5:53經`_\ ）。因此，願意承認自己的錯誤行為是在這條道路上取得進步的必要因素。
+
 
 .. _Mv.II.3.4: https://www.dhammatalks.org/vinaya/Mv/MvII.html#pts3_4
 .. _《大品》.二.3.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0137a05
@@ -61,3 +65,11 @@
 .. _《偷蘭遮》: https://www.google.com/search?q=%E5%81%B7%E8%98%AD%E9%81%AE
 .. _《突吉羅》: https://www.google.com/search?q=%E7%AA%81%E5%90%89%E7%BE%85
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
+.. _MN 140: https://www.dhammatalks.org/suttas/MN/MN140.html
+.. _MN 61: https://www.dhammatalks.org/suttas/MN/MN61.html
+.. _AN 5\:53: https://www.dhammatalks.org/suttas/AN/AN5_53.html
+.. _《長部》2經: https://sutra.mobi/chilin/chang/content/02.html
+.. _《中部》140經: https://sutra.mobi/chilin/zhong/content/140.html
+.. _《中部》61經: https://sutra.mobi/chilin/zhong/content/061.html
+.. _《增支部》5\:53經: https://sutra.mobi/zcj/zengzhi/content/0913.html
