@@ -45,7 +45,7 @@
 
    * - There may, of course, be times when the assigned penalties are not enough to deter an unconscientious bhikkhu from committing an offense repeatedly. In such cases, the Community in which he is living may, if it sees fit, formally impose additional penalties on him as a means of bringing him into line. These transactions range from stripping him of some of the privileges of seniority, to banishment from that particular Community, and on to suspension from the Bhikkhu Saṅgha as a whole. In each case the punishment is temporary; if the bhikkhu realizes his errors and mends his ways, the Community is to revoke the act against him and return him to his former status. These punishments are treated in detail in `BMC2, Chapter 20`_.
 
-     - 當然，有時所規定的懲罰不足以阻止不負責任的比丘重複犯罪。在這種情況下，他所居住的僧團如果認為合適，可以正式對他施加額外的處罰，作為讓他遵守戒條的手段。這些羯磨的範圍從剝奪他的一些戒臘特權，到將他逐出特定的僧團，再到暫停他在整個比丘僧伽中的資格\ :small:`（漢譯註：此處suspension的懲罰古譯為舉罪，和英文字面意思完全不同）`\ 。在每種情況下，懲罰都是暫時的；如果比丘認識到自己的錯誤並改過自新，僧團將撤銷針對他的處分，並將他恢復到原來的狀態。\ `《佛教修道準則 第二冊》第二十章 <https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20>`_\ 詳細討論了這些懲罰。
+     - 當然，有時所規定的懲罰不足以阻止不負責任的比丘重複犯罪。在這種情況下，他所居住的僧團如果認為合適，可以正式對他施加額外的懲罰，作為讓他遵守戒條的手段。這些羯磨的範圍從剝奪他的一些戒臘特權，到將他逐出特定的僧團，再到在整個比丘僧伽中舉罪\ :small:`（漢譯註：此處suspension的懲罰古譯為舉罪，和英文字面意思不同）`\ 。在每種情況下，懲罰都是暫時的；如果比丘認識到自己的錯誤並改過自新，僧團將撤銷針對他的處分，並將他恢復到原來的狀態。\ `《佛教修道準則 第二冊》第二十章 <https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20>`_\ 詳細討論了這些懲罰。
 
        .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
 
@@ -122,3 +122,26 @@
    * - Another variation is that in rules where a bhikkhu may be put into a passive role in committing an act that would fulfill the factor of effort, the factor of intention is changed to *consent*: mental acquiescence to the act combined with a physical or verbal expression of that acquiescence. Under some rules, such as the rule against sexual intercourse, simply letting the act happen counts as physical acquiescence even if one lies perfectly still, and the question of whether one incurs a penalty depends entirely on the state of one’s mind. Under other rules, though—such as the rule against lustful contact with a woman, which includes cases where the woman is the agent making the contact—simply lying still is not enough to count as a physical sign of acquiescence, and even if one consents mentally, say, to a woman’s fondling, one would incur a penalty only if one says something or responds with a physical movement to her action.
 
      - 另一個變化是，在戒條中，比丘在實施能夠滿足努力因素的行為時可能處於被動角色，意圖因素變為\ *同意*\ ：對該行為的精神默許與該默許的身體或言語表達相結合。在某些戒條，例如禁止性交的戒條，即使一個人一動不動地躺著，只是讓這種行為發生就被視為身體默許，而一個人是否受到懲罰的問題完全取決於一個人的精神狀態。不過，在其他戒條，例如禁止與女性發生性欲接觸的戒條，其中包括女性是進行接觸的代理人的情況，僅僅靜止不動不足以算作默許的身體跡象，比如說，即使一方在精神上同意對一個女人的撫摸，只有當一個人對她的行為說些什麼或用身體動作回應時，才會受到懲罰。
+
+   * - Because of the many variations possible in the factor of intention, it might be argued that it should be consistently divided into such sub-factors as presence or absence of deliberation, impulse, immediate aim, and motive. However, the Vibhaṅga itself is not consistent in distinguishing among these four. Under `Pr 3`_ and `Sg 1`_, for instance, it clearly distinguishes among them, in that impulse and motive play no part in determining the offense in question, whereas deliberation and immediate aim do. Under `Sg 8`_ and `9`_, however, the impulse—anger—is conflated under motive: the desire to see another bhikkhu expelled from the Saṅgha. In fact, under most rules the Vibhaṅga does not make a clear distinction among these sub-factors, so it seems artificial to force a consistent distinction throughout. Thus the approach followed here is to place these considerations under one heading—intention—and to alert the reader to the distinctions among them only when important.
+
+     - 由於意圖因素可能存在多種變化，因此有人可能會認為，它應該一致地分為諸如是否故意、衝動、當前目標和動機等子因素。然而，《經分別》本身對於這四種的區分並不一致。例如，根據\ `《波羅夷》三`_\ 和\ `《僧殘》一`_\ ，它清楚地區分了它們，因為衝動和動機在決定有關犯戒時不起任何作用，而故意和當前目標則起作用。然而，在\ `《僧殘》八`_\ 和\ `《僧殘》九`_\ 中，衝動──憤怒──與動機混為一談：渴望看到另一位比丘被逐出僧團。事實上，在大多數戒條，《經分別》並沒有對這些子因素做出明確的區分，所以強制在整個過程中進行一致的區分似乎是人為的。因此，這裡遵循的方法是將這些考慮因素放在一個標題下——意圖——並僅在重要時提醒讀者注意它們之間的區別。
+
+       ..
+          TODO FIXME: replace link to 《波羅夷》三
+          TODO FIXME: replace link to 《僧殘》一
+          TODO FIXME: replace link to 《僧殘》八
+          TODO FIXME: replace link to 《僧殘》九
+
+   * - The factor of effort is basic to every rule and is also used to determine offenses in cases where a bhikkhu intends to break a rule but does not complete the action. For instance, in the case of stealing, the efforts involved are said to begin when, acting under the intent to steal, a bhikkhu gets dressed and starts walking to the object. With each of these preliminary efforts—literally, with every step—he incurs a dukkaṭa. At first glance, this may seem extreme, but when we view his state of mind as having ultimate importance, this system of assigning penalties is appropriate. Every step intentionally taken toward an offense reinforces an unskillful state of mind; the knowledge that each of these steps incurs an additional offense may help deter a bhikkhu from his original plans.
+
+     - 努力因素是每條戒條的基礎，也用於在比丘意圖違反戒條但未完成該行為的情況下決定犯戒行為。例如，在偷竊的情況下，據說當比丘出於偷竊的意圖而穿好衣服並開始走向對象時，所涉及的努力就開始了。透過這些初步的努力——字面意思是每一步——他都會犯《突吉羅》。乍看之下，這似乎有些極端，但當我們把他的心態視為最重要的時候，這種懲罰制度是合適的。故意違犯所採取的每一步都會強化不善巧的心態；知道這些步伐中的每一步都會招致額外的違犯，可能有助於阻止比丘放棄他原來的計劃。
+
+.. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
+.. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
+.. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. _9: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
+.. _《波羅夷》三: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
+.. _《僧殘》一: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
+.. _《僧殘》八: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. _《僧殘》九: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
