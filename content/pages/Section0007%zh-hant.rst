@@ -135,7 +135,11 @@
 
    * - The factor of effort is basic to every rule and is also used to determine offenses in cases where a bhikkhu intends to break a rule but does not complete the action. For instance, in the case of stealing, the efforts involved are said to begin when, acting under the intent to steal, a bhikkhu gets dressed and starts walking to the object. With each of these preliminary efforts—literally, with every step—he incurs a dukkaṭa. At first glance, this may seem extreme, but when we view his state of mind as having ultimate importance, this system of assigning penalties is appropriate. Every step intentionally taken toward an offense reinforces an unskillful state of mind; the knowledge that each of these steps incurs an additional offense may help deter a bhikkhu from his original plans.
 
-     - 努力因素是每條戒條的基礎，也用於在比丘意圖違反戒條但未完成該行為的情況下決定犯戒行為。例如，在偷竊的情況下，據說當比丘出於偷竊的意圖而穿好衣服並開始走向對象時，所涉及的努力就開始了。透過這些初步的努力——字面意思是每一步——他都會犯《突吉羅》。乍看之下，這似乎有些極端，但當我們把他的心態視為最重要的時候，這種懲罰制度是合適的。故意違犯所採取的每一步都會強化不善巧的心態；知道這些步伐中的每一步都會招致額外的違犯，可能有助於阻止比丘放棄他原來的計劃。
+     - 努力因素是每條戒條的基礎，也用於在比丘意圖違反戒條但未完成該行為的情況下決定犯戒行為。例如，在偷竊的情況下，據說當比丘出於偷竊的意圖而穿好衣服並開始走向對象時，所涉及的努力就開始了。透過這些每一次的預備努力——字面意思是每一步——他都會犯一次《突吉羅》。乍看之下，這似乎有些極端，但當我們把他的心態視為最重要的時候，這種懲罰制度是合適的。故意違犯所採取的每一步都會強化不善巧的心態；知道這些步伐中的每一步都會招致額外的違犯，可能有助於阻止比丘放棄他原來的計劃。
+
+   * - Thus it is important, when reading about each training rule, to pay attention to what role these five factors play in determining the offenses related to the rule. And, of course, it is important for each bhikkhu to pay attention to all five of these factors in all of his actions to make sure that he does not fall at any time into an offense. This is where training in discipline becomes part of the training of the mind leading to Awakening. A bhikkhu who is mindful to analyze his actions into these five factors, to be alert to them as they arise, and to behave consistently in such a manner that he avoids committing any offenses, is developing three qualities: mindfulness; an analytical attitude toward phenomena in his thoughts, words, and deeds; and persistence in abandoning unskillful qualities and developing skillful ones within himself. These are the first three of the seven factors for Awakening, and form the basis for the remaining four: rapture, tranquility, concentration, and equanimity.
+
+     - 因此，在閱讀每條學處時，重要的是要注意這五個因素在決定與該戒條相關的違犯時所扮演的角色。當然，對於每個比丘來說，在他所有的行為中注意所有這五個因素是很重要的，以確保他不會在任何時候犯戒。在此，戒律訓練成為通往覺悟的心訓練的一部分。一位比丘正念地將自己的行為分析為這五種因素，在它們生起時對它們保持警覺，並始終如一地行事以避免犯任何戒，他正在培養三種品質：正念；對思想、言語和行為中的現象採取分析態度；並堅持放棄惡法\ :small:`(不善巧的品質)`\ 並發展自己內在的善法\ :small:`(善巧的品質)`\ 。這是\ `七覺支`_\ 中的前三支，也是其餘四支的基礎：喜、輕安、定、捨。
 
 .. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
@@ -145,3 +149,4 @@
 .. _《僧殘》一: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
 .. _《僧殘》八: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _《僧殘》九: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
+.. _七覺支: https://zh.wikipedia.org/zh-hant/%E4%B8%83%E8%A6%BA%E6%94%AF
