@@ -141,6 +141,23 @@
 
      - 因此，在閱讀每條學處時，重要的是要注意這五個因素在決定與該戒條相關的違犯時所扮演的角色。當然，對於每個比丘來說，在他所有的行為中注意所有這五個因素是很重要的，以確保他不會在任何時候犯戒。在此，戒律訓練成為通往覺悟的心訓練的一部分。一位比丘正念地將自己的行為分析為這五種因素，在它們生起時對它們保持警覺，並始終如一地行事以避免犯任何戒，他正在培養三種品質：正念；對思想、言語和行為中的現象採取分析態度；並堅持放棄惡法\ :small:`(不善巧的品質)`\ 並發展自己內在的善法\ :small:`(善巧的品質)`\ 。這是\ `七覺支`_\ 中的前三支，也是其餘四支的基礎：喜、輕安、定、捨。
 
+   * - Pv.VI.4, in reviewing the Vibhaṅga’s five factors for analyzing offenses, devises a number of categories for classifying offenses, the most important being the distinction between rules carrying a penalty only when broken intentionally through correct perception (sacittaka), and those carrying a penalty even when broken unintentionally or through misperception (acittaka).
+
+     - `《附隨》.六.4`_\ 在回顧《經分別》分析犯戒的五個因素時，設計了許多類別來對犯戒進行分類，最重要的是區分僅在通過正確的認知（\ *sacittaka*\ ）且故意違犯時才受到懲罰的戒條，和那些即使無意或由於誤解（\ *acittaka*\ ）而違犯也會受到懲罰的戒條。
+
+   * - Although it may seem harsh to impose penalties for unintentional actions, we must again reflect on the state of mind that leads to such actions. In some acts, of course, the intention makes all the difference between guilt and innocence. Taking an article with intent to return it, for example, is something else entirely from taking it with intent to steal. There are, however, other acts with damaging consequences that, when performed unintentionally, reveal carelessness and lack of circumspection in areas where a person may reasonably be held responsible. Many of the rules dealing with the proper care of Community property and one’s basic requisites fall in this category. Except for one very unlikely situation, though, none of the major rules carry a penalty if broken unintentionally, while the minor rules that do carry such penalties may be regarded as useful lessons in mindfulness.
+
+     - 雖然對無意行為進行懲罰看似嚴厲，但我們必須再次反思導致這種行為的心態。當然，在某些行為中，意圖決定了有罪與無罪。例如，懷著將歸還的意圖拿走一個物品，這與意圖竊取而拿走它完全是兩碼事。然而，還有其他一些具有破壞性後果的行為，當無意中被執行時，在一個人可合理承擔責任的範圍中顯露出粗心和缺乏謹慎。許多涉及妥善保管僧團財產和個人基本必需品的戒條都屬於這一類。不過，除了一種極不可能發生的情況外，沒有任何主要戒條會因為無意違犯而受到懲罰，然而有次要戒條會因無意違犯而受到懲罰，這些次要戒條可被視為有用的正念課程。
+
+   * - Another scheme introduced in the ancient commentaries for classifying offenses is the distinction between those that the world criticizes (*loka-vajja*) and those that only the rules criticize (*paṇṇati-vajja*). The Commentary defines this distinction by saying that the term *loka-vajja* applies to rules that can be broken only with an unskillful state of mind (i.e., greed, anger, or delusion), whereas paṇṇati-vajja applies to rules that can be broken with a skillful state of mind. It notes that one way to classify a particular rule under either category is to note how the Buddha changed it if he took the opportunity to amend it. If he made the rule more stringent—as in the case of `Pr 3`_, against killing human beings—offenses against the rule are loka-vajja. If he made the rule more lax—as in the case of `Pc 57`_, against overly frequent bathing—offenses against the rule are paṇṇati-vajja.
+
+     - 古代註釋中引入的另一個對犯戒進行分類的方案是區分世間所批評的犯戒（\ *loka-vajja*\ ）和僅戒條所批評的犯戒（\ *paṇṇati-vajja*\ ）。《義註》定義了這種區別，說「\ *loka-vajja*\ 」一詞適用於只能用不善的心態（即\ `貪、嗔、痴`_\ ）來違犯的戒條，而「\ *paṇṇati-vajja*\ 」一詞適用於可以用善的心態來違犯的戒條。它指出，將某個特定戒條歸入兩者之中任一類別的一個方法是注意佛陀在藉機修改它時如何更改它。如果他讓戒條更加嚴格——就像\ `《波羅夷》三`_\ 禁止殺人的情況一樣——違反戒條的罪行就是loka-vajja。如果他把戒條變得更加寬鬆——就像\ `《波逸提》五七`_\ 禁止過於頻繁的泡澡的情況一樣——違反戒條的罪行就是paṇṇati-vajja。
+
+       ..
+          TODO FIXME: replace link to 《波羅夷》三
+          TODO FIXME: replace link to 《波逸提》五七
+
+
 .. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
@@ -150,3 +167,7 @@
 .. _《僧殘》八: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _《僧殘》九: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
 .. _七覺支: https://zh.wikipedia.org/zh-hant/%E4%B8%83%E8%A6%BA%E6%94%AF
+.. _《附隨》.六.4: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0199a13
+.. _Pc 57: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57
+.. _貪、嗔、痴: https://zh.wikipedia.org/zh-hant/%E4%B8%89%E6%AF%92
+.. _《波逸提》五七: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57
