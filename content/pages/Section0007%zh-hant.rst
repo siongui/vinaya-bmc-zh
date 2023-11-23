@@ -147,7 +147,7 @@
 
    * - Although it may seem harsh to impose penalties for unintentional actions, we must again reflect on the state of mind that leads to such actions. In some acts, of course, the intention makes all the difference between guilt and innocence. Taking an article with intent to return it, for example, is something else entirely from taking it with intent to steal. There are, however, other acts with damaging consequences that, when performed unintentionally, reveal carelessness and lack of circumspection in areas where a person may reasonably be held responsible. Many of the rules dealing with the proper care of Community property and one’s basic requisites fall in this category. Except for one very unlikely situation, though, none of the major rules carry a penalty if broken unintentionally, while the minor rules that do carry such penalties may be regarded as useful lessons in mindfulness.
 
-     - 雖然對無意行為進行懲罰看似嚴厲，但我們必須再次反思導致這種行為的心態。當然，在某些行為中，意圖決定了有罪與無罪。例如，懷著將歸還的意圖拿走一個物品，這與意圖竊取而拿走它完全是兩碼事。然而，還有其他一些具有破壞性後果的行為，當無意中被執行時，在一個人可合理承擔責任的範圍中顯露出粗心和缺乏謹慎。許多涉及妥善保管僧團財產和個人基本必需品的戒條都屬於這一類。不過，除了一種極不可能發生的情況外，沒有任何主要戒條會因為無意違犯而受到懲罰，然而有次要戒條會因無意違犯而受到懲罰，這些次要戒條可被視為有用的正念課程。
+     - 雖然對無意行為進行懲罰看似嚴厲，但我們必須再次反思導致這種行為的心態。當然，在某些行為中，意圖決定了有罪與無罪。例如，懷著將歸還的意圖拿走一個物品，這與意圖竊取而拿走它完全是兩碼事。然而，還有其他一些具有破壞性後果的行為，當無意中被執行時，在一個人可合理承擔責任的範圍中顯露出粗心和缺乏謹慎。許多涉及妥善保管僧團財產和個人基本必需品的戒條都屬於這一類。不過，除了一種極不可能發生的情況外，沒有任何主要戒條會因為無意違犯而受到懲罰，然而次要戒條會因無意違犯而受到懲罰，這些次要戒條可被視為有用的正念課程。
 
    * - Another scheme introduced in the ancient commentaries for classifying offenses is the distinction between those that the world criticizes (*loka-vajja*) and those that only the rules criticize (*paṇṇati-vajja*). The Commentary defines this distinction by saying that the term *loka-vajja* applies to rules that can be broken only with an unskillful state of mind (i.e., greed, anger, or delusion), whereas paṇṇati-vajja applies to rules that can be broken with a skillful state of mind. It notes that one way to classify a particular rule under either category is to note how the Buddha changed it if he took the opportunity to amend it. If he made the rule more stringent—as in the case of `Pr 3`_, against killing human beings—offenses against the rule are loka-vajja. If he made the rule more lax—as in the case of `Pc 57`_, against overly frequent bathing—offenses against the rule are paṇṇati-vajja.
 
@@ -156,6 +156,35 @@
        ..
           TODO FIXME: replace link to 《波羅夷》三
           TODO FIXME: replace link to 《波逸提》五七
+
+   * - .. container:: notification
+
+          The Vinaya-mukha redefines the terms as follows:
+
+          “Some offenses are faults as far as the world is concerned—wrong and damaging even if committed by ordinary people who are not bhikkhus—examples being robbery and murder, as well as such lesser faults as assault and verbal abuse. Offenses of this sort are termed *loka-vajja*. There are also offenses that are faults only as far as the Buddha’s ordinances are concerned—neither wrong nor damaging if committed by ordinary people; wrong only if committed by bhikkhus, on the grounds that they run counter to the Buddha’s ordinances. Offenses of this sort are termed *paṇṇati-vajja*.”
+
+     - .. container:: notification
+
+          《戒律入口》對這些術語重新定義如下：
+
+          「就世人而言，有些犯戒是過錯——即使是非比丘的普通人犯下的也是錯誤的和有害的——例如搶劫和謀殺，以及攻擊和辱罵等較輕的過錯。此類犯戒行為被稱為“\ *loka-vajja*\ ”。也有一些犯戒，僅就佛陀的戒律來說是過錯，如果是凡夫犯下的，既不是錯誤的，也不是傷害性的。只有比丘犯下的才是錯誤的，因為他們違背了佛陀的戒律。此類罪行被稱為“\ *paṇṇati-vajja*\ ”。
+
+   * - Even a cursory glance at the Pāṭimokkha rules will show that many of them deal with the latter sort of offense, and that such offenses concern relatively minor matters. The question often arises, then: Why this concern with minutiae? The answer is that the rules deal with social relationships—among the bhikkhus themselves and between the bhikkhus and the laity—and that social relationships are often defined by seemingly minor points of behavior.
+
+     - 即使粗略地瀏覽《波羅提木叉》戒條，也會發現其中許多戒條涉及後一種犯戒，而且此類犯戒涉及相對較小的問題。那麼，常常會出現這樣的問題：為什麼要注意細枝末節？答案是，這些戒條涉及社會關係──比丘之間以及比丘與俗人之間──而社會關係往往是由看似次要的行為來定義的。
+
+   * - Take, for instance, the rule that a bhikkhu not eat food unless it is handed to him or to a fellow bhikkhu by an unordained person on that day. This rule has wide-ranging ramifications. It means, among other things, that a bhikkhu may not leave human society to lead a solitary hermit’s existence, foraging for food on his own. He must have frequent contact with humanity, however minimal, and in that contact he performs a service to others, even if simply offering them a noble example of conduct and giving them an opportunity to develop the virtue of generosity. Many of the other seemingly trivial rules—such as those forbidding digging in the soil and damaging plant life—will reveal, on reflection, implications of a similar scope.
+
+     - 例如有戒條規定，比丘不得吃食物，除非當天有未受具足戒的人將食物手授給他或其他比丘。該戒條具有廣泛的影響。別的不提，這至少意味著比丘不能離開人類社會，過著孤獨隱士的生活，獨自覓食。他必須經常與人類接觸，無論接觸的程度是多麼微不足道，在這種接觸中，他為他人提供了服務，即使只是為他們提供高尚的行為榜樣，並給他們一個發展慷慨美德的機會。 許多其他看似微不足道的戒條——例如禁止在土壤中挖掘和破壞植物生命的戒條——經過反思，將揭示出類似範圍的含義。
+
+       ..
+          https://zh-cn.facebook.com/PictureSoundEnglish/posts/1535080159849445/
+          1) among others: 別的人就先不講
+          2) among other things: 別的東西就先不提
+
+   * - Thus the extremely detailed nature of the rules cannot be attributed to a strictly legalist temperament. And from what we have seen of the way in which the Buddha formulated the rules—dealing with cases as they arose—there is reason to doubt that he himself wanted them to form an airtight system. This impression is explicitly borne out by several passages in the Canon. Take, for instance, this discourse:
+
+     - 因此，戒條的極其詳細的性質不能歸因於嚴格守法主義者的性格。從我們所看到的佛陀制定戒條的方式（隨犯隨制）來看，我們有理由懷疑他自己是否希望這些戒條形成一個嚴密的體系。《聖典》中的幾段經文清楚地證實了這個印象。就拿這段開示來說：
 
 
 .. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
