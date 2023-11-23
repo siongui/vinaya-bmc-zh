@@ -186,6 +186,50 @@
 
      - 因此，戒條的極其詳細的性質不能歸因於嚴格守法主義者的性格。從我們所看到的佛陀制定戒條的方式（隨犯隨制）來看，我們有理由懷疑他自己是否希望這些戒條形成一個嚴密的體系。《聖典》中的幾段經文清楚地證實了這個印象。就拿這段開示來說：
 
+   * - .. container:: notification
+
+          “On one occasion the Blessed One was living in Vesālī, in the Great Wood. Then a certain Vajjian bhikkhu went to him… and said: ‘Venerable sir, this recitation of more than 150 training rules comes every fortnight. I cannot train in reference to them.’
+
+          “‘Bhikkhu, can you train in reference to the three trainings: the training in heightened virtue, the training in heightened mind, the training in heightened discernment?’
+
+          “‘Yes, venerable sir, I can….’
+
+          “‘Then train in reference to those three trainings…. Your passion, aversion, and delusion—when trained in heightened virtue, heightened mind, and heightened discernment will be abandoned. You—with the abandoning of passion… aversion… delusion—will not do anything unskillful or engage in any evil.’
+
+          “Later on, that bhikkhu trained in heightened virtue… heightened mind… heightened discernment…. His passion… aversion… delusion were abandoned…. He did not do anything unskillful or engage in any evil.”—`AN 3:85`_
+
+     - .. container:: notification
+
+          有一次，世尊住在毗舍離大林的尖頂講堂。這時候，有一位跋耆子比丘前往世尊那裏，對世尊作禮，坐在一邊，然後對世尊說：“大德，我們每半個月一起去誦戒一次，當中有一百五十個學處再加上眾學法，我不能修習。”
+
+          “比丘，你能否修習增上戒學、增上心學、增上慧學三種修學呢？”
+
+          “大德，我能夠。”
+
+          “比丘，既然這樣，你便修習增上戒學、增上心學、增上慧學三種修學吧。比丘，當你修習增上戒學、增上心學、增上慧學之後，便會斷除貪欲、瞋恚、愚癡；當你斷除貪欲、瞋恚、愚癡之後，便不會做不善行，不會行踐惡法。”
+
+          之後，那位比丘修習增上戒學、增上心學、增上慧學，斷除了貪欲、瞋恚、愚癡，不做不善行，不行踐惡法。—\ `《增支部》3:85經`_
+
+   * - Another discourse with a similar point:
+
+     - 另一篇開示也有類似觀點：
+
+   * - .. container:: notification
+
+          “‘Bhikkhus, this recitation of more than 150 training rules comes every fortnight, in reference to which sons of good families desiring the goal train themselves. There are these three trainings under which all that is gathered. Which three? The training in heightened virtue, the training in heightened mind, the training in heightened discernment….
+
+          “‘There is the case, bhikkhus, where a bhikkhu is wholly accomplished in virtue, concentration, and discernment (i.e., is an arahant). With reference to the lesser and minor training rules, he falls into offenses and rehabilitates himself. Why is that? Because I have not declared that to be a disqualification in these circumstances. But as for the training rules that are basic to the celibate life and proper to the celibate life, he is one whose virtue is permanent, whose virtue is steadfast. Having undertaken them, he trains in reference to the training rules. With the ending of (mental) effluents, he dwells in the effluent-free awareness-release and discernment-release, having directly known and realized them for himself right in the here-and-now.
+
+          “‘Those who are partially accomplished attain a part; those who are wholly accomplished, the whole. The training rules, I tell you, are not in vain.’”—`AN 3:88`_
+
+     - .. container:: notification
+
+          “比丘們，你們每半個月一起誦戒一次，當中有一百五十個學處再加上眾學法，欲想尋求利益的人要在當中修學。比丘們，這些學處加上眾學法是跟三學連結一起的，什麼是三學呢？“增上戒學、增上心學、增上慧學。比丘們，這些學處加上眾學法是跟這三學連結一起的。
+
+          “比丘們，一位戒圓滿、定圓滿、慧圓滿的比丘（即阿羅漢），無論觸犯任何細小的學處，都要懺悔回復清淨，這是什麼原因呢？我不是說觸犯任何細小學處的人便不能修習梵行，而是說學處是梵行的基礎，有助修習梵行；著手修習學處的人，戒行便會堅固，戒行便會確立。他能清除各種漏，現生以無比智來體證無漏、心解脫、慧解脫。
+
+          “比丘們，修行到一定程度的人，能得一定程度的果位；修行圓滿的人，能得圓滿的果位。我說，修習學處是一定會帶來結果的。”—\ `《增支部》3:88經`_
+
 
 .. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
@@ -200,3 +244,7 @@
 .. _Pc 57: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57
 .. _貪、嗔、痴: https://zh.wikipedia.org/zh-hant/%E4%B8%89%E6%AF%92
 .. _《波逸提》五七: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57
+.. _AN 3\:85: https://www.dhammatalks.org/suttas/AN/AN3_85.html
+.. _《增支部》3\:85經: https://sutra.mobi/chilin/zengzhi/content/03.html#%E5%85%AB%E5%8D%81%E4%B8%89%E8%B7%8B%E8%80%86%E5%AD%90
+.. _AN 3\:88: https://www.dhammatalks.org/suttas/AN/AN3_88.html
+.. _《增支部》3\:88經: https://sutra.mobi/chilin/zengzhi/content/03.html#%E5%85%AB%E5%8D%81%E5%85%AD%E5%AD%B8%E8%99%95%E4%B9%8B%E4%BA%8C
