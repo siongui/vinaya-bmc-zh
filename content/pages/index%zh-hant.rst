@@ -54,7 +54,7 @@
        :hidden:`*āpatti*`
 
    * - `\　Nissaya <https://www.dhammatalks.org/vinaya/bmc/Section0008.html>`__
-     - 　依止
+     - `\　依止 <{filename}Section0008%zh-hant.rst>`__
 
    * - `\　　Choosing a mentor <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_4>`__
      - 　　選擇導師
