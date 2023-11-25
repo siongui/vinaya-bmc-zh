@@ -57,7 +57,7 @@
      - `\　依止 <{filename}Section0008%zh-hant.rst>`__
 
    * - `\　　Choosing a mentor <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_4>`__
-     - 　　選擇導師
+     - `\　　選擇依止師 <{filename}Section0008%zh-hant.rst#choosing-a-mentor>`__
 
    * - `\　　Taking dependence <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_5>`__
      - 　　請求依止
@@ -66,10 +66,10 @@
      - 　　職責
 
    * - `\　　　The pupil’s duties to his mentor <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_7>`__
-     - 　　　弟子對導師的職責
+     - 　　　弟子對依止師的職責
 
    * - `\　　　The mentor’s duties to his pupil <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_8>`__
-     - 　　　導師對弟子的職責
+     - 　　　依止師對弟子的職責
 
    * - `\　　Dismissal <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_9>`__
      - 　　擯出
@@ -1827,7 +1827,7 @@
      - 　　　B. 戒堂
 
    * - `\　　　C. A food storage place (Mv.VI.33.2) <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_250>`__
-     - 　　　C. 食物庫藏處(大品.六.33.2)
+     - 　　　C. 食物庫藏處(《大品》.六.33.2)
 
    * - `\　　　D. Community officials <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_251>`__
      - 　　　D. 僧團執事
@@ -1845,13 +1845,13 @@
      - 　　　H. 自恣延遲
 
    * - `\　　　I. An insanity authorization (Mv.II.25.3-4) <https://www.dhammatalks.org/vinaya/bmc/Section0068.html#sigil_toc_id_256>`__
-     - 　　　I. 准與狂癡(大品.二.25.3-4)
+     - 　　　I. 准與狂癡(《大品》.二.25.3-4)
 
    * - `\　　Going-forth & Acceptance <https://www.dhammatalks.org/vinaya/bmc/Section0069.html>`__
      - 　　出家 & 具足戒
 
    * - `\　　　A. Going-forth (Mv.I.54.3) <https://www.dhammatalks.org/vinaya/bmc/Section0069.html#sigil_toc_id_257>`__
-     - 　　　A. 出家(大品.一.54.3)
+     - 　　　A. 出家(《大品》.一.54.3)
 
    * - `\　　　B. Acceptance <https://www.dhammatalks.org/vinaya/bmc/Section0069.html#sigil_toc_id_258>`__
      - 　　　B. 具足戒

@@ -26,3 +26,24 @@
    * - Dependence is of two sorts: dependence on one’s preceptor (*upajjhāya*) and dependence on a teacher (*ācariya*). The relationships are similar—and in many details, identical—so the following discussion will use the word *mentor* to cover both preceptor and teacher wherever the pattern applies to both, and will distinguish them only where the patterns differ.
 
      - 依止有兩種：對戒師的依止（\ *upajjhāya*\ ，古譯為\ *和尚*\ ）和對教授師的依止（\ *ācariya*\ ，古譯為\ *阿闍梨*\ ）。這些關係是相似的，並且在許多細節上是相同的，因此下面的討論，遇到二者通用相同的模式時，將使用\ *依止師*\ 一詞來涵蓋戒師和教授師，並且僅在模式不同的地方區分戒師與教授師。
+
+
+.. _sigil_toc_id_4:
+.. _choosing-a-mentor:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Choosing a mentor**
+     - **選擇依止師**
+
+   * - Before ordination, one must choose a bhikkhu to act as one’s preceptor. The Mahāvagga (I.36-37) gives a long list of qualifications a bhikkhu must meet before he can act as a preceptor, while the Commentary divides the list into two levels: ideal and minimal qualifications. A bhikkhu who lacks the minimal qualifications incurs a dukkaṭa if he acts as a preceptor; a bhikkhu who meets the minimal but lacks the ideal qualifications is not an ideal person to give guidance, but he incurs no penalty in doing so.
+
+     - 在受具足戒之前，必須選擇一位比丘作為自己的戒師。\ `《大品》（一.36-37）`_\ 給出了比丘在能成為戒師之前必須滿足的一長串資格，而《義註》則將該列表分為兩個層次：理想資格和最低資格。缺乏最低資格的比丘，如果他擔任戒師，犯《突吉羅》。達到最低資格但缺乏理想資格的比丘不是給予指導的理想人選，但他擔任戒師不犯戒。
+
+   * - *The ideal qualifications:* The preceptor should have an arahant’s virtue, concentration, discernment, release, and knowledge and vision of release; and should be able to train another person to the same level of attainment. He should have faith, a sense of shame, a sense of compunction (in the American sense of the term, i.e., an reluctance to do wrong for fear of its consequences), persistence in the practice, and quick mindfulness (according to the Sub-commentary, this means that he is constantly mindful of whatever mental object is before the mind). He should be free of heavy and light offenses, and be possessed of right view. (This last point, the Commentary says, means that he does not adhere to the extremes of eternalism or annihilationism.) He should be competent to tend to a sick pupil or to find someone who will tend to him, and to dispel dissatisfaction in a pupil who wants to leave the celibate life.
+
+     - *理想資格：*\ 戒師應有阿羅漢的戒、定、慧、解脫、解脫知見；並且應該能夠訓練他人達到相同的成就。他應該有信心、慚、愧（此詞在美式意義為因害怕後果而不願做錯事）、精進、不失正念（根據《複註》，這意味著他持續地正念於心面前的任何心理對象）。他應不違犯輕重諸戒，並且具足正見。（《義註》說，此處的正見意指不執著常見或斷見這二種極端。）他應該有能力照顧生病的弟子或找到願意照顧他的人，並且在弟子想離開梵行生活而還俗時，消除弟子的不滿。
+
+.. _《大品》（一.36-37）: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0082a01
