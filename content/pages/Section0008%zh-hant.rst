@@ -54,10 +54,59 @@
 
      - *最低資格：*\ 依止師必須博學且有能力。根據《義註》，這意味著他對法與律有足夠的了解來管理追隨者，並且有足夠的能力知道什麼是犯戒和不是犯戒。他還必須有足夠的能力，按照法，減輕弟子中出現的任何焦慮；必須知道什麼是犯戒，什麼是不犯戒，什麼是輕罪，什麼是重罪，以及懺罪的方法。他必須詳細了解兩部《波羅提木叉》（比丘的一部和比丘尼的一部），並且能夠訓練弟子遵循比丘的習俗（《義註》：這意味著他了解《犍度》），遵循梵行生活的基本戒條（《複註》：他知道兩部《經分別》），更高的法和更高的律。他必須能夠按照法，使弟子遠離邪見，或找到能幫助他脫離邪見的人。而且──最基本的要求──他必須出家為比丘十年或以上。
 
-   * - If, for some reason, the new bhikkhu lives in a separate monastery from his preceptor, he must take dependence under a teacher, whose qualifications are precisely the same as those for a preceptor. Because the Mahāvagga (I.72.1) gives a dukkaṭa for taking dependence under an unconscientious bhikkhu, the new bhikkhu is allowed four to five days to observe his potential teacher’s conduct before taking dependence under him (Mv.I.72.2).
+   * - If, for some reason, the new bhikkhu lives in a separate monastery from his preceptor, he must take dependence under a teacher, whose qualifications are precisely the same as those for a preceptor. Because the Mahāvagga (I.72.1) gives a dukkaṭa for taking dependence under an unconscientious bhikkhu, the new bhikkhu is allowed four to five days to observe his potential teacher’s conduct before taking dependence under him (`Mv.I.72.2`_).
 
-     - 如果因為某些原因，新比丘與戒師住在不同的寺院，他就必須依止一位老師，而老師的資格與戒師的資格完全相同。因為\ `《大品》（一.72.1）`_\ 提到，依止一個不負責任的比丘，犯《突吉羅》，所以新比丘在依止之前可以有四到五天的時間來觀察他潛在的老師的行為（\ `《大品》.一.72.2`_\ ）。
+     - 如果因為某些原因，新比丘與戒師住在不同的寺院，他就必須依止一位教授師，而教授師的資格與戒師的資格完全相同。因為\ `《大品》（一.72.1）`_\ 提到，依止一個不負責任的比丘，犯《突吉羅》，所以新比丘在依止之前可以有四到五天的時間來觀察他潛在的教授師的行為（\ `《大品》.一.72.2`_\ ）。
 
 .. _《大品》（一.36-37）: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0082a01
+.. _Mv.I.72.2: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.72
 .. _《大品》（一.72.1）: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0114a10
 .. _《大品》.一.72.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0114a14
+
+
+.. _sigil_toc_id_5:
+.. _taking-dependence:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Taking dependence**
+     - **請求依止**
+
+   * - Prior to his ordination—and usually, as part of the ceremony itself—the candidate must make a formal request for dependence from his preceptor. The procedure is as follows:
+
+     - 在受具足戒之前——通常是儀式本身的一部分——求具足戒者必須向其戒師提出正式的依止請求。程序如下：
+
+   * - Arranging his upper robe over his left shoulder, leaving his right shoulder bare, he bows down to the preceptor and then, kneeling with his hands palm-to-palm over his heart, repeats the following passage three times:
+
+     - 齊整上衣披於左肩，偏袒右肩，向戒師頂禮，然後跪下，雙手合掌放在胸前，重複以下片段三遍：
+
+   * - *Upajjhāyo me bhante hohi,*
+
+     - 
+
+   * - which means, “Venerable sir, be my preceptor.”
+
+     - 意思是：“尊者，請做我的戒師。”
+
+   * - If the preceptor responds with any of these words—*sāhu* (very well), *lahu* (certainly), *opāyikaṁ* (all right), *paṭirūpaṁ* (it is proper), or *pāsādikena sampādehi* (attain consummation (in the practice) in an amicable way)—the dependence has taken hold. `Mv.I.25.7`_ adds that if the preceptor indicates any of these meanings by gesture, that also counts; and according to the Commentary, the same holds true if he makes any equivalent statement.
+
+     - 如果戒師用以下任何一個字來回應：sāhu（很好）、lahu（當然）、opāyikaṁ（好的）、paṭirūpaṁ（這是適當的）或 pāsādikena sampādehi（應以淨信而成就\ :small:`[英文直譯：以友善的方式（在修行中）獲得圓滿]`\ ） ——依止就算成立。\ `《大品》.一.25.7`_\ 補充說，如果戒師透過手勢表明任何這些含義，依止也算成立；根據《義註》，如果他做出任何同等的陳述，依止都算成立。
+
+   * - If, after his ordination, the new bhikkhu needs to request dependence from a teacher, the procedure is the same, except that the request he makes three times is this:
+
+     - 如果新比丘受具足戒後，需要向教授師請求依止，程序是一樣的，只是他提出的三次請求是這樣的：
+
+   * - *Ācariyo me bhante hohi; āyasmato nissāya vacchāmi,*
+
+     - 
+
+   * - which means, “Venerable sir, be my teacher; I will live in dependence on you.” (`Mv.I.32.2`_)
+
+     - 意思是：「尊者，請做我的教授師；我將依止尊者而住。”（\ `《大品》.一.32.2`_\ ）
+
+.. _Mv.I.25.7: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.25.7
+.. _《大品》.一.25.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0062a08
+.. _Mv.I.32.2: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.32.2-3
+.. _《大品》.一.32.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0080a01

@@ -60,7 +60,7 @@
      - `\　　選擇依止師 <{filename}Section0008%zh-hant.rst#choosing-a-mentor>`__
 
    * - `\　　Taking dependence <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_5>`__
-     - 　　請求依止
+     - `\　　請求依止 <{filename}Section0008%zh-hant.rst#taking-dependence>`__
 
    * - `\　　Duties <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_6>`__
      - 　　職責
