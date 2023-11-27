@@ -63,7 +63,7 @@
      - `\　　請求依止 <{filename}Section0008%zh-hant.rst#taking-dependence>`__
 
    * - `\　　Duties <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_6>`__
-     - 　　職責
+     - `\　　職責 <{filename}Section0008%zh-hant.rst#duties>`__
 
    * - `\　　　The pupil’s duties to his mentor <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_7>`__
      - 　　　弟子對依止師的職責

@@ -48,7 +48,7 @@
 
    * - The Mahāvagga does not say outright that these are ideal, as opposed to minimal, qualifications, but the Commentary offers as proof the fact that one of a pupil’s duties is to try to allay any dissatisfaction that may arise in his preceptor. If all preceptors were arahants, no case of this sort would ever arise and there would be no need to mention it. Thus the Commentary concludes that arahantship, although ideal in a preceptor, is not necessary.
 
-     - 《大品》並沒有直截了當地說，相對於最低資格，這些是理想資格，但《義註》提供了這樣一個事實作為證據：弟子的職責之一是盡力減輕他的導師可能產生的任何不滿。如果所有比丘都是阿羅漢，這種事就不會發生，也不用提及。因此，《義註》的結論是，阿羅漢果雖然對戒師來說是理想的，但並不是必要的。
+     - 《大品》並沒有直截了當地說，相對於最低資格，這些是理想資格，但《義註》提供了這樣一個事實作為證據：弟子的職責之一是盡力減輕他的戒師可能產生的任何不滿。如果所有比丘都是阿羅漢，這種事就不會發生，也不用提及。因此，《義註》的結論是，阿羅漢果雖然對戒師來說是理想的，但並不是必要的。
 
    * - *The minimal qualifications:* The preceptor must be learned and competent. According to the Commentary, this means that he knows enough of the Dhamma and Vinaya to govern a following and is competent enough to know what is and is not an offense. He must also be competent enough to allay, in line with the Dhamma, any anxiety that has arisen in his pupil; must know what is and is not an offense, what is a light offense, what is a heavy offense, and how an offense may be removed. He must have detailed knowledge of both Pāṭimokkhas (the one for the bhikkhus and the one for the bhikkhunīs) and be able to train the pupil in the bhikkhus’ customs (Com.: this means that he knows the Khandhakas), in the basic rules of the chaste life (Sub-com.: he knows both Vibhaṅgas), the higher Dhamma, and the higher Vinaya. He must be able, in line with the Dhamma, to pry his pupil away from a wrong view or to find someone who will help pry him away. And—the most basic requirement—he must have been ordained as a bhikkhu for ten years or more.
 
@@ -110,3 +110,21 @@
 .. _《大品》.一.25.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0062a08
 .. _Mv.I.32.2: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.32.2-3
 .. _《大品》.一.32.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0080a01
+
+
+.. _sigil_toc_id_6:
+.. _duties:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Duties**
+     - **職責**
+
+   * - The Mahāvagga (I.25.6; 32.1) states that a pupil should regard his mentor as a father; and the mentor, the pupil as his son. It then goes on to delineate this relationship as a set of reciprocal duties.
+
+     - 《大品》（\ `一.25.6`_\ ；\ `32.1`_\ ）指出，弟子應視依止師為父親；依止師必須視弟子如兒子。然後，它繼續將這種關係描述為一組互惠的職責。
+
+.. _一.25.6: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0062a03
+.. _32.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0079a09
