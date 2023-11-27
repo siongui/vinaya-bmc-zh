@@ -128,3 +128,26 @@
 
 .. _一.25.6: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0062a03
 .. _32.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0079a09
+
+
+.. _sigil_toc_id_7:
+.. _pupil-duties-to-his-mentor:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The pupil’s duties to his mentor**
+     - **弟子對依止師的職責**
+
+   * - The pupil’s duties to his mentor fall into the following five categories:
+     - 弟子對其依止師的職責分為以下五類：
+
+   * - *1. Attending to the mentor’s personal needs.* The Mahāvagga goes into great detail on this topic, giving precise instructions dealing with every conceivable way a pupil can be of service to his mentor. The Vinaya-mukha tries to reduce these duties to a few general principles, but this misses much of what the Mahāvagga has to offer, for the details are what show fine examples of mindfulness in action—the best way to fold a robe, clean a dwelling, and so forth—as well as indications of how one can use this aspect of one’s training to develop sensitivity to the needs of others. Still, the detailed instructions are so extensive that they would overburden the discussion in this chapter, so I have saved them for `Appendix X`_. Here I will simply give them in outline form. The pupil should:
+
+     - *1. 關注依止師的個人需求。* 《大品》對這個主題進行了非常詳細的闡述，對於弟子為依止師服務的每一種可能的方式都給出了精確的指示。《戒律入口》試圖將這些職責簡化為一些一般原則，但這錯過了《大品》所提供的大部分內容，因為細節是正念在行動中的典範——折疊袈裟、打掃住所等的最佳方法——以及如何利用訓練的這一方面來培養對他人需求的敏感度的指示。儘管如此，詳細的說明是如此廣泛，以至於它們會使本章的討論負擔過重，因此我將它們保存在\ `附錄十`_\ 中。在這裡，我將簡單地以概要形式給出它們。弟子應該：
+
+       .. TODO FIXME: replace link to 附錄十
+
+.. _Appendix X: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
+.. _附錄十: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX

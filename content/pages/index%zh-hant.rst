@@ -66,7 +66,7 @@
      - `\　　職責 <{filename}Section0008%zh-hant.rst#duties>`__
 
    * - `\　　　The pupil’s duties to his mentor <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_7>`__
-     - 　　　弟子對依止師的職責
+     - `\　　　弟子對依止師的職責 <{filename}Section0008%zh-hant.rst#pupil-duties-to-his-mentor>`__
 
    * - `\　　　The mentor’s duties to his pupil <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_8>`__
      - 　　　依止師對弟子的職責
