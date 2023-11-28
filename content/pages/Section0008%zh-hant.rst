@@ -149,5 +149,47 @@
 
        .. TODO FIXME: replace link to 附錄十
 
+   * - a\. Arrange his mentor’s toiletries for his morning wash-up.
+     - a\. 為他的依止師準備好洗漱用品，供他早上洗漱。
+
+   * - b\. Arrange his seat and food for his morning conjey (if he has any) and clean up after he is finished.
+     - b\. 安排依止師的座位和早餐的食物（如果有的話），並在餐後清理乾淨。
+
+   * - c\. Arrange his robes and bowl for his alms round.
+     - c\. 準備依止師入村托缽所需的袈裟與缽。
+
+   * - d\. Follow him on his alms round, if the mentor so desires, and take his robes and bowl when he returns.
+     - d\. 若依止師需要時，隨從其托缽，回程時，代為攜持袈裟與缽。
+
+   * - e\. Arrange his seat and food for his alms meal and clean up afterwards.
+     - e\. 安排依止師的座位和托缽所得食物，以及餐後清理乾淨。
+
+   * - f\. Prepare his bath. If he goes to the sauna, go with him and attend to his needs.
+     - f\. 準備依止師沐浴。如果依止師去蒸汽(桑拿)浴室，弟子應同入，並照料所需。
+
+   * - g\. Study the Dhamma and Vinaya from him when he is prepared to teach. (The Mahāvagga describes this as “recitation” and “interrogation.” Recitation, according to the Commentary, means learning to memorize passages; interrogation, learning to investigate their meaning.)
+
+     - g\. 當依止師擬給予教導時，弟子應聽受研學法與律。（《大品》將其描述為「誦」和「問」。根據《義註》，「誦」的意思是學習記憶段落；「問」是學習探究其意義。）
+
+   * - h\. Clean his dwelling and other parts of his dwelling complex, such as the restroom and storage rooms, when they get dirty.
+     - h\. 當依止師的住所和住所區域的其他部分（例如衛生間和儲藏室）變髒時，進行清掃。
+
+   * - *2. Assisting the mentor in any problems he may have with regard to the Dhamma and Vinaya.* The Mahāvagga lists the following examples:
+     - *2. 協助依止師解決有關法與律的任何問題。*\ 《大品》列出了以下例子：
+
+   * - a\. If the mentor begins to feel dissatisfaction with the celibate life, the pupil should try to allay that dissatisfaction or find someone else who can, or give him a Dhamma talk.
+     - a\. 如果依止師開始對梵行生活感到不滿，弟子應該設法減輕其不滿，或者找其他可以減輕其不滿的人，或者給予他法的開示。
+
+   * - b\. If the preceptor begins to feel anxiety over his conduct with regard to the rules, the pupil should try to dispel that anxiety or find someone else who can, or give him a Dhamma talk.
+     - b\. 如果戒師開始對自己遵守戒律的行為感到焦慮，弟子應該設法消除其焦慮，或者找其他可以消除其焦慮的人，或者給予他法的開示。
+
+   * - c\. If the preceptor begins to hold to wrong views, the pupil should try to pry him away from those views or find someone else who can, or give him a Dhamma talk.
+     - c\. 如果戒師開始持有邪見，弟子應該設法規勸他放棄邪見，或者找其他可以規勸他放棄邪見的人，或者給予他法的開示。
+
+   * - d\. If the preceptor has committed a saṅghādisesa offense, the pupil should—to the best of his ability—help with the arrangements for penance, probation, and rehabilitation, or find someone else who can.
+     - d\. 如果戒師犯了《僧殘》罪，弟子應該盡其所能幫助安排別住（parivāsa）、摩那埵(mānatta)、與出罪(abbhāna)，或找其他可以幫助的人。
+
 .. _Appendix X: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
 .. _附錄十: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
+
+(未完待續)
