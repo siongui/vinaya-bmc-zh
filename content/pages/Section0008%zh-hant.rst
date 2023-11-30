@@ -232,4 +232,21 @@
 .. _Mv.I.25: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.25.6
 .. _《大品》.一.25: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0062a03
 
+
+.. _sigil_toc_id_8:
+.. _mentor-duties-to-his-pupil:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The mentor’s duties to his pupil**
+     - **依止師對弟子的職責**
+
+   * - *1. Furthering the pupil’s education,* teaching him the Dhamma and Vinaya through recitation, interrogation, exhortation, and instruction.
+     - *1. 促進弟子的教育，*\ 透過念誦、質問、勸誡和教導來教授他們法與律。
+
+   * - *2. Providing requisites for the pupil.* If the pupil lacks any of his basic requisites, and the mentor has any to spare, he should make up the lack.
+     - *2. 為弟子提供必需品。*\ 如果弟子缺乏基本必需品，而依止師有餘，依止師就應該補足所缺。
+
 (未完待續)
