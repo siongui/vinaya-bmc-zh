@@ -268,4 +268,28 @@
 .. _Mv.I.26: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.26
 .. _《大品》.一.26: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0067a11
 
+
+.. _sigil_toc_id_9:
+.. _dismissal:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Dismissal**
+     - **擯出**
+
+   * - If the pupil does not observe his duties to his mentor, the mentor is empowered to dismiss him. In fact, if the pupil deserves dismissal, the mentor incurs a dukkaṭa if for some reason he does not dismiss him, just as he would for dismissing a pupil who did not deserve it (`Mv.I.27.5-8`_). The grounds for dismissal are any of the following five:
+
+     - 如果弟子不履行對依止師的職責，依止師有權擯出之。事實上，如果弟子應該被擯出，那麼依止師如果出於某種原因不擯出他，就會犯《突吉羅》，同樣地，如果依止師擯出不應受擯出的弟子，也是犯《突吉羅》。（\ `《大品》.一.27.5-8`_\ ）。有下列五種情形之一的，予以擯出：
+
+   * - 1. The pupil has no affection for his mentor—i.e., he shows him no kindness.
+     - 1. 弟子對依止師沒有感情－也就是說，他沒有向依止師表現出親切。
+
+   * - 2. He has no faith in his mentor—i.e., he does not regard him as an example to follow.
+     - 2. 弟子對依止師沒有信心－也就是說，他不把依止師視為學習的榜樣。
+
+.. _Mv.I.27.5-8: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.27.5
+.. _《大品》.一.27.5-8: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0072a01
+
 (未完待續)

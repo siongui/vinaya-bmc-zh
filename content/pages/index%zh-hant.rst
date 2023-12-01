@@ -72,7 +72,7 @@
      - `\　　　依止師對弟子的職責 <{filename}Section0008%zh-hant.rst#mentor-duties-to-his-pupil>`__
 
    * - `\　　Dismissal <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_9>`__
-     - 　　擯出
+     - `\　　擯出 <{filename}Section0008%zh-hant.rst#dismissal>`__
 
    * - `\　　Dependence lapses <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_10>`__
      - 　　依止失效
