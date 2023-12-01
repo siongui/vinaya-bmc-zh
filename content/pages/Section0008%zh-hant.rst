@@ -249,4 +249,23 @@
    * - *2. Providing requisites for the pupil.* If the pupil lacks any of his basic requisites, and the mentor has any to spare, he should make up the lack.
      - *2. 為弟子提供必需品。*\ 如果弟子缺乏基本必需品，而依止師有餘，依止師就應該補足所缺。
 
+   * - *3. Attending to the pupil’s personal needs when he is ill,* performing the services mentioned in section 1 under the pupil’s duties to his mentor.
+     - *3. 在弟子生病時照顧其個人需求，*\ 根據「弟子對依止師的職責」，履行第 1 節中提到的服務。
+
+   * - *4. Assisting the pupil in any problems he may have with regard to the Dhamma and Vinaya,* performing the services mentioned in section 2 under the pupil’s duties to his mentor.
+     - *4. 協助弟子解決有關法與律的任何問題，*\ 根據「弟子對依止師的職責」，履行第 2 節中提到的服務。
+
+   * - *5. Teaching the pupil how to wash, make, and dye robes.* If for some reason the pupil is unable to handle these skills, the mentor should try to find some way to get these tasks done.
+     - *5. 教導弟子如何洗滌、縫製和染色袈裟。*\ 如果因為某些原因弟子無法處理這些技能，依止師應該嘗試找到某種方法來完成這些任務。
+
+   * - *6. Caring for the pupil when he falls ill,* not leaving him until he either recovers or passes away (`Mv.I.26`_).
+     - *6. 當弟子生病時照顧他，*\ 直到他康復或去世時才離開（\ `《大品》.一.26`_\ ）。
+
+   * - According to the Commentary, the preceptor, going-forth teacher, and acceptance teacher must observe these duties toward the pupil as long as both parties are alive and still ordained. As for the Dhamma and dependence teachers, they must observe these duties only as long as the pupil is living with them.
+
+     - 根據《義註》，只要戒師、出家教授師、羯磨教授師在世且仍然是比丘身分，就必須履行對弟子的這些職責。至於佛法教授師和依止教授師，只有在與弟子共住時才必須履行這些職責。
+
+.. _Mv.I.26: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.26
+.. _《大品》.一.26: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0067a11
+
 (未完待續)
