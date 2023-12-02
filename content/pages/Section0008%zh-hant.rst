@@ -211,7 +211,7 @@
 
    * - According to the Commentary, a pupil is freed from these duties when he is ill. Otherwise, he should observe all the above duties to his preceptor as long as he is in dependence on him. It adds that the duties in sections 1-3 are incumbent on the pupil even after he is released from dependence, as long as both he and the preceptor are alive and still ordained, although not every Community follows the Commentary on this point.
 
-     - 根據《義註》，弟子生病時可以免除這些職責。否則，只要他依止戒師，他就應該履行對戒師的所有上述職責。它補充說，即使在學生免除依止之後，只要他和戒師都活著並且仍然是比丘身分，第 1-3 節中的職責也是學生必須履行的，儘管並非每個僧團都在這一點上遵循《義註》。
+     - 根據《義註》，弟子生病時可以免除這些職責。否則，只要他依止戒師，他就應該履行對戒師的所有上述職責。它補充說，即使在弟子免除依止之後，只要他和戒師都活著並且仍然是比丘身分，第 1-3 節中的職責也是弟子必須履行的，儘管並非每個僧團都在這一點上遵循《義註》。
 
    * - As for the duties to one’s teacher, the Commentary lists four types of teachers: the going-forth teacher (the one who gives one the ten precepts during one’s ordination ceremony); the acceptance teacher (the one who chants the motion and proclamations during the ceremony); the Dhamma teacher (the one who teaches one the Pali language and Canon); and the dependence teacher (the one with whom one lives in dependence). With the dependence teacher and Dhamma teacher, one must observe all the above duties only as long as one is living in dependence on him. As for the other two, the Commentary adds that one should observe sections 1-3 as long as both parties are alive and still ordained—although, again, not all Communities follow the Commentary on this point.
 
@@ -287,9 +287,31 @@
      - 1. 弟子對依止師沒有感情－也就是說，他沒有向依止師表現出親切。
 
    * - 2. He has no faith in his mentor—i.e., he does not regard him as an example to follow.
-     - 2. 弟子對依止師沒有信心－也就是說，他不把依止師視為學習的榜樣。
+     - 2. 他對依止師沒有信心－也就是說，他不把依止師視為學習的榜樣。
+
+   * - 3. He has no shame in front of his mentor—i.e., he openly disregards the training rules in his mentor’s presence.
+     - 3. 他在依止師面前毫無羞恥感－也就是說，在依止師面前公然無視學處。
+
+   * - 4. He has no respect for his mentor—i.e., he does not listen to what the mentor has to say and openly disobeys him.
+     - 4. 他不尊重依止師－也就是說，不聽依止師的話，公然違抗依止師。
+
+   * - 5. He is not developing under his mentor—the Commentary translates developing here as developing a sense of good will for his mentor, but it could also mean developing in his general education and practice of the Dhamma and Vinaya.
+
+     - 5. 他在依止師的指導下無所提昇－《義註》將這裡的「提昇」翻譯為對依止師培養善意感，但這也可能意指在通識教育和法與律修行中的提昇。
+
+   * - The Vinaya-mukha notes that the mentor should reflect on his own conduct before dismissing such a pupil. If he has done anything that would give the pupil valid reason for losing affection, etc., he should first correct his own conduct. Only after reflecting that there is no longer anything in his own conduct that would give the pupil valid reason to disregard him should he go ahead with the dismissal.
+
+     - 《戒律入口》指出，依止師在擯出這樣的弟子之前應該反省自己的行為。如果他做了任何會讓弟子有正當理由失去感情等的事情，他應該先糾正自己的行為。只有在反思自己的行為，在自己的行為裡不再有任何正當理由讓弟子不尊重他之後，他才可以去擯出弟子。
+
+   * - The Mahāvagga mentions each of the following statements as a valid means of dismissal: “I dismiss you.” “Don’t come back here.” “Take away your robes and bowl.” “Don’t attend to me.” It also states that if the mentor makes any of these meanings known by gesture—e.g., he evicts the pupil from his quarters and throws his robes and bowl out after him—that also counts as a valid means of dismissal (`Mv.I.27.2`_). The Commentary to `Mv.I.32`_ adds that any statement conveying the same basic meaning as those above would count as well.
+
+     - 《大品》提到以下每一種說法都是有效的擯出方式：“我擯出你。” “不要回到這裡。” “把你的袈裟和缽拿走。” “別侍奉我。” 它還指出，如果依止師通過手勢使任何這些含義為人所知－例如，他將弟子從他的住處中趕出來，並在他身後扔出他的袈裟和缽－這也算作擯出的有效方式（\ `《大品》.一.27.2`_\ ）。\ `《大品》.一.32`_\ 的《義註》補充說，任何傳達與上述相同基本含義的聲明也將被視為有效。
 
 .. _Mv.I.27.5-8: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.27.5
 .. _《大品》.一.27.5-8: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0072a01
+.. _Mv.I.27.2: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.27.2
+.. _Mv.I.32: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.32.1
+.. _《大品》.一.27.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0071a05
+.. _《大品》.一.32: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0079a09
 
 (未完待續)
