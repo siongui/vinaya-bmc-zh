@@ -218,6 +218,14 @@
      - 至於對教授師的職責，《義註》列舉了四種教授師：出家教授師（受具足戒儀式中，授與十戒者）；羯磨教授師（受具足戒儀式中，宣讀白四羯磨文者）；佛法教授師（教授巴利語和《聖典》者）；以及依止教授師（依止共住者）。對於依止教授師和佛法教授師，只有當弟子依止共住時，才必須履行所有上述職責。至於另外兩者，《義註》補充說，只要雙方都活著並且仍然是比丘身分，就應該履行第 1-3 節——儘管並非所有僧團都在這一點上遵循《義註》。
 
        ..
+          https://zh.wikipedia.org/wiki/%E9%98%BF%E9%97%8D%E9%BB%8E
+          《四分律》及《五分律》中將阿闍黎分為五種，
+          （一）出家阿闍梨，出家時授十戒師，故又作十戒阿闍梨、親教師、得戒和尚、和尚。
+          （二）受戒阿闍梨，受具足戒時之羯磨師，又作羯磨阿闍梨、羯摩和尚。
+          （三）教授阿闍梨，受具足戒時之授威儀師，故又作威儀阿闍梨、教授和尚。
+          （四）受經阿闍梨，教授佛教經典讀法、意義之師。
+          （五）依止阿闍梨，與出家僧人共居，指導其起居之師，出家僧人僅依止一宿，共同起居時的老師，即可稱之。又稱依止阿闍梨、依止師，也可稱為和尚[1]。
+
           三師七證
           http://buddhaspace.org/dict/fk/data/%25E4%25B8%2589%25E5%25B8%25AB%25E4%25B8%2583%25E8%25AD%2589.html
           三師與七證師之並稱。指比丘受具足戒時，戒場中必須具足之戒師人數。又作十師、十僧。三師即：(一)戒和尚，指正授戒律之和尚。乃比丘得戒之根本及其歸投處，故必至誠三請之。凡擔任戒和尚者，其戒臘須在十年以上，並嚴守戒法，具足智慧，堪能教授弟子。(二)羯磨師，即讀羯磨文之阿闍梨，主持白四羯磨授戒儀式。羯磨師為諸比丘受戒之正緣，若無羯磨師秉承聖法，則法界善法無從生起。擔任此職者，其戒臘須在五年以上。(三)教授師，即教授威儀作法，為眾人引導開解者。其戒臘亦須在五年以上。七證師則指證明受戒之七位蒞會比丘。凡此十師均須於受戒前恭請之。
@@ -307,11 +315,25 @@
 
      - 《大品》提到以下每一種說法都是有效的擯出方式：“我擯出你。” “不要回到這裡。” “把你的袈裟和缽拿走。” “別侍奉我。” 它還指出，如果依止師通過手勢使任何這些含義為人所知－例如，他將弟子從他的住處中趕出來，並在他身後扔出他的袈裟和缽－這也算作擯出的有效方式（\ `《大品》.一.27.2`_\ ）。\ `《大品》.一.32`_\ 的《義註》補充說，任何傳達與上述相同基本含義的聲明也將被視為有效。
 
+   * - Once a pupil has been dismissed, his duty is to apologize. If he doesn’t, he incurs a dukkaṭa (`Mv.I.27.3`_). Once the pupil has apologized, the mentor’s duty is to forgive him (`Mv.I.27.4`_). If, however, he sees that the pupil is still unconscientious, he should not take him back, for a mentor who takes on an unconscientious pupil incurs a dukkaṭa (`Mv.I.72.1`_). Thus the mentor may, if he sees fit, inflict a non-physical punishment on the pupil before taking him back on the original footing, to make sure that he has actually seen the error of his ways. An example of such punishment, mentioned in the Vinaya-mukha, is simply asking to wait to observe the pupil’s behavior for a while to test whether his apology is sincere.
+
+     - 一旦弟子被擯出，他的職責就是道歉。如果他不這樣做，他犯《突吉羅》（\ `《大品》.一.27.3`_\ ）。一旦弟子道歉，依止師的職責就是原諒他（\ `《大品》.一.27.4`_\ ）。然而，如果他看到弟子仍然不負責任，他就不應該把他帶回去，因為依止師收下一個不負責任的弟子會犯《突吉羅》（\ `《大品》.一.72.1`_\ ）。因此，依止師可以在他認為合適的情況下，在重新接受弟子之前對弟子進行非肉體的懲罰，以確保他確實看到了自己的錯誤。《戒律入口》中提到的這種懲罰的一個例子，就是要求等待觀察弟子的行為一段時間，以測試他的道歉是否真誠。
+
+   * - The Commentary to `Mv.I.32`_ recommends that if the mentor refuses to forgive the pupil, the latter should try to get other bhikkhus in the monastery to intercede for him. If that doesn’t work, he should go stay in another monastery and take dependence under a senior bhikkhu there who is on congenial terms with the mentor, in hopes that the mentor will take this as a sign of the pupil’s good intentions and will eventually grant his forgiveness. If for some reason the pupil cannot stay at that other monastery, he may return to his original monastery and take dependence under another teacher.
+
+     - `《大品》.一.32`_\ 的《義註》建議，如果依止師拒絕寬恕弟子，弟子應該嘗試讓寺院中的其他比丘為他求情。如果不行的話，他應該去另一座寺院，在那裡依止一位與依止師關係融洽的長老比丘，希望依止師以此為弟子善意的表徵，最終會給予他寬恕。如果由於某種原因，弟子不能留在其他寺院，他可以返回原來的寺院，並依止於另一位教授師。
+
 .. _Mv.I.27.5-8: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.27.5
 .. _《大品》.一.27.5-8: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0072a01
 .. _Mv.I.27.2: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.27.2
 .. _Mv.I.32: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.32.1
 .. _《大品》.一.27.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0071a05
 .. _《大品》.一.32: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0079a09
+.. _Mv.I.27.3: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.27.3-4
+.. _Mv.I.27.4: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.27.3-4
+.. _Mv.I.72.1: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.72
+.. _《大品》.一.27.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0071a09
+.. _《大品》.一.27.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0071a12
+.. _《大品》.一.72.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0114a10
 
 (未完待續)
