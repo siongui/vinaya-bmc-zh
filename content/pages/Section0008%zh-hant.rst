@@ -336,4 +336,48 @@
 .. _《大品》.一.27.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0071a12
 .. _《大品》.一.72.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0114a10
 
+
+.. _sigil_toc_id_10:
+.. _dependence-lapses:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Dependence lapses**
+     - **依止失效**
+
+   * - `Mv.I.36.1`_ says that if a pupil is staying in dependence with his preceptor, the dependence lapses in any of the following scenarios:
+     - `《大品》.一.36.1`_\ 說，如果弟子正在依止其戒師，則在以下任何情況下，依止就會失效：
+
+   * - 1. He leaves. According to the Commentary, this means that he moves from the monastery, and that dependence lapses regardless of whether he gives notice of his move. The Sub-commentary adds that “moving” here can mean even spending one night outside the monastery, and that dependence lapses regardless of whether he plans to return.
+
+     - 1. 他離去。根據《義註》，這意指他離開了寺院，無論他是否通知他離去，此依止都會失效。《複註》補充說，「離去」在此甚至可意指在寺院外過一夜，無論他是否打算返回，此依止都會失效。
+
+   * - 2. He disrobes.
+     - 2. 他還俗。
+
+   * - 3. He dies.
+     - 3. 他死亡。
+
+   * - 4. He goes over to another side—according to the Commentary, this means that he joins another religion.
+     - 4. 他歸依外道－根據《義註》，這意味著他加入了另一個宗教。
+
+   * - In all of the above cases, the commentaries interpret “he” as referring to the preceptor, although it would seem to refer to the pupil as well. This would fit with the passages from the Mahāvagga, to be mentioned below, that refer to a new bhikkhu on a journey as not being in dependence. In such cases, the new bhikkhu is most likely the one who has left the preceptor, and his leaving is what has caused the dependence to lapse.
+
+     - 在所有上述情況中，《義註》將「他」解釋為指戒師，儘管「他」似乎也可以指弟子。這與下面要提到的《大品》中的段落相吻合，這些段落提到旅途中的新比丘是沒有依止的。在這種情況下，新比丘很可能是離開了戒師的人，而他的離去導致了依止的失效。
+
+   * - 5. He gives a command. This is the one alternative where “he” clearly refers only to the preceptor. The Commentary to `Mv.I.34`_ interprets *command* here as dismissal, as discussed above, but also as including cases where the preceptor sees that the pupil qualifies to be released from dependence (see below) and tells him so.
+
+     - 5. 他下命令。這是「他」明確地僅指戒師。\ `《大品》.一.34`_\ 的《義註》將這裡的\ *命令*\ 解釋為擯出，如上所述，但也包括戒師認為弟子有資格解除依止的情況（見下文）而告訴他解除依止。
+
+   * - In each of these cases, a pupil who is not yet released from dependence must find someone else to take dependence under on that very day, except in the following instances (taken from the Commentary):
+
+     - 在上述每種情況下，尚未解除依止的弟子必須在當天找到其他人來依止，但以下情況除外（摘自《義註》）：
+
+.. _Mv.I.36.1: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.36.1
+.. _《大品》.一.36.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0082a01
+.. _Mv.I.34: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.34
+.. _《大品》.一.34: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0081a05
+
 (未完待續)

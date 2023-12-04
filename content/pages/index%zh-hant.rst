@@ -75,7 +75,7 @@
      - `\　　擯出 <{filename}Section0008%zh-hant.rst#dismissal>`__
 
    * - `\　　Dependence lapses <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_10>`__
-     - 　　依止失效
+     - `\　　依止失效 <{filename}Section0008%zh-hant.rst#dependence-lapses>`__
 
    * - `\　　Temporary exemption from dependence <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_11>`__
      - 　　暫時免除依止
