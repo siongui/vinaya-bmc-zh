@@ -375,6 +375,26 @@
 
      - 在上述每種情況下，尚未解除依止的弟子必須在當天找到其他人來依止，但以下情況除外（摘自《義註》）：
 
+   * - —The preceptor leaves, saying that he will be away only for a day or two, and that the pupil need not ask anyone else for dependence in the meantime. If the preceptor’s return is delayed, he should send word to his pupil, saying that he still intends to come back. If, however, the pupil receives word from his preceptor that the latter no longer intends to return, he should immediately look for a teacher under whom to take dependence.
+
+     - —戒師離去時說，他只離開一兩天，而弟子在此期間不必向任何人尋求依止。如果戒師延遲歸返，他應該傳話給弟子，說他還要回來。然而，如果弟子接到來自戒師的訊息，知道戒師已經不打算回來，他應該立即尋找一位教授師來依止。
+
+   * - —The preceptor leaves, and the only other senior bhikkhu in the monastery is one whom the pupil does not know well. In this case, the pupil is allowed four or five days to observe the senior bhikkhu’s behavior (as mentioned above) before requesting dependence from him. If, though, the pupil already knows the senior bhikkhu well enough to feel confident in his conduct, he should take dependence with him on the day of his preceptor’s departure.
+
+     - —戒師離去後，寺院裡唯一一位長老比丘，弟子並不熟悉。在這種情況下，弟子可以在請求依止長老比丘之前，有四五天的時間來觀察長老比丘的行為（如上所述）。然而，如果弟子已經足夠了解這位長老比丘，對他的行為充滿信心，那麼他應該在他的戒師離開的那天依止他。
+
+   * - If the pupil is staying in dependence on a teacher, the dependence can lapse for any of six reasons. The first five are identical with those above, although even the Commentary states that “he leaves,” the first reason, applies not only to cases where the teacher leaves but also to cases where the pupil leaves. The sixth reason is:
+
+     - 如果弟子依止的是教授師，此依止可以因為六個原因中的任何一個而消失。前五個與上面相同，儘管《義註》中也指出第一個原因中的「他離去」，不僅適用於教授師離去的情況，也適用於弟子離去的情況。第六個原因是：
+
+   * - 6. The pupil rejoins his preceptor. The Commentary explains this by saying that, in effect, the pupil’s original dependence on his preceptor always overrides his dependence on a teacher. If the pupil happens to see his preceptor and recognize him, or to hear and recognize his voice—even if they just happen to pass on the street—his dependence on his teacher automatically lapses, and his dependence on his preceptor is reinstated. If he then returns to live with his teacher, he must ask for dependence from the teacher all over again.
+
+     - 6. 弟子會遇戒師。《義註》解釋說，實際上，弟子最初與戒師的依止總是高於他與教授師的依止。如果弟子碰巧看到他的戒師並認出他，或者聽到並認出他的聲音——即使他們只是碰巧在街上經過——弟子與教授師的依止自動失效，而他對戒師的依止則會恢復。如果他回到教授師那裡住，他必須重新向教授師請求依止。
+
+   * - The Vinaya-mukha objects to this judgment, saying that “rejoins the preceptor” should refer to the pupil’s actually living with the preceptor, either in another monastery or in the same monastery where the teacher lives. This, however, is an area where different Communities differ in their interpretation, and the wise policy is to follow the interpretation of the Community in which one lives.
+
+     - 《戒律入口》反對此判斷，認為「會遇戒師」應指弟子實際上與戒師共住，無論是在另一寺院，或是與教授師居住的同一寺院。然而，不同的僧團對此有不同的解釋，明智之舉是遵循個人所居住的僧團的解釋。
+
 .. _Mv.I.36.1: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.36.1
 .. _《大品》.一.36.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0082a01
 .. _Mv.I.34: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.34
