@@ -400,4 +400,49 @@
 .. _Mv.I.34: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.34
 .. _《大品》.一.34: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0081a05
 
+
+.. _sigil_toc_id_11:
+.. _temporary-exemption-from-dependence:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Temporary exemption from dependence**
+     - **暫時免除依止**
+
+   * - Normally a junior bhikkhu is required to live in dependence under a mentor at all times. However, `Mv.I.73`_ allows him not to take dependence when living in any of the following situations if no qualified bhikkhu is available as a mentor:
+
+     - 通常，低戒臘比丘必須始終在依止師的指導下生活。然而，\ `《大品》.一.73`_\ 允許在下列情況下，如果沒有合格的比丘可作依止師，他可以不必依止：
+
+   * - 1. He is on a journey.
+     - 1. 他在旅行途中。
+
+   * - 2. He is ill.
+     - 2. 他生病
+
+   * - 3. He is caring for an ill person who has requested his help (§).
+     - 3. 他正在照顧一位請求他幫助的病人 (§)。
+
+   * - 4. He is living alone in the wilderness, meditating comfortably, intending to take dependence if a qualified mentor comes along.
+     - 4. 他獨自生活在森林中，修行得很安穩，如果有一位合格的依止師出現，他打算依止。
+
+   * - The Commentary, in discussing these allowances, makes the following points:
+     - 《義註》在討論這些開緣時，提出以下幾點：
+
+   * - A bhikkhu on a journey is said to have no mentor available if no qualified senior bhikkhu is traveling with him. In other words, the fact that he happens to pass by a monastery containing a qualified mentor does not mean that a mentor is available, and he is allowed to continue traveling without taking dependence. If, however, he spends the night in a place where he has taken dependence before, he should take dependence on the day of his arrival. If he reaches a place where he has never been before and plans to spend only two or three days, he need not take dependence; but if he plans to spend a week, he must. If the senior bhikkhu he requests dependence from says, “What’s the use of taking dependence for only a week?” that exempts him from this requirement.
+
+     - 比丘在旅途中，如果沒有合格的長老比丘與之同行，稱為沒有依止師。換句話說，他碰巧經過有一位合格的依止師的寺院，這並不意味著有依止師，他可以繼續旅行而無需依止。然而，如果他在以前已經依止的地方過夜，他應該在到達的那天開始依止。如果他到了一個從未去過的地方，只打算待兩三天，就不必依止；但如果他打算待一周，他就必須依止。如果他請求依止的長老比丘說：“只依止一周有什麼用呢？” 這使他免除依止的要求。
+
+   * - As for the bhikkhu living alone in the wilderness, the Commentary says that “meditating comfortably” means that his tranquility and insight meditation are going smoothly. For some reason, though, it says that this allowance applies only to bhikkhus whose meditation is at a tender stage and might deteriorate if they were to leave the wilderness; if a bhikkhu has attained any of the noble attainments—beginning with stream-entry—he may not make use of this allowance. Why the Commentary limits the allowance in this way, it doesn’t say.
+
+     - 對於獨居森林的比丘，《義註》說，「修行得很安穩」是指他的止觀禪修進行得順利。然而，出於某種原因，它說這項開緣只適用於禪修處於幼嫩階段的比丘，如果離開森林，禪修可能會惡化。如果比丘已經證得任何聖果－從入流開始－他就不能使用這項開緣。《義註》並沒有說為何如此限制開緣的理由。
+
+   * - At any rate, once the month before the Rains-residence (*vassa*) arrives and no suitable mentor appears, the junior bhikkhu must leave his wilderness abode and look for a place with a suitable mentor under whom he can take dependence for the Rains.
+
+     - 無論如何，一旦到了雨安居（\ *vassa*\ ）前的那一個月，沒有合適的依止師出現，低戒臘比丘就必須離開他的森林住所，尋找一個有合適依止師的地方，他可以在雨安居時依止之。
+
+.. _Mv.I.73: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.73
+.. _《大品》.一.73: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0115a03
+
 (未完待續)
