@@ -445,4 +445,36 @@
 .. _Mv.I.73: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.73
 .. _《大品》.一.73: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0115a03
 
+
+.. _sigil_toc_id_12:
+.. _release-from-dependence:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Release from dependence**
+     - **解除依止**
+
+   * - According to `Mv.I.53.4`_, a bhikkhu may be released from dependence after he has been ordained for five years, on the condition that he be experienced and competent. If he is not yet experienced and competent, he must remain under dependency until he is. If he never becomes experienced and competent, he must remain in dependence for his entire life as a bhikkhu. The Commentary adds that, in the last case, if he cannot find a competent experienced bhikkhu who is senior to him, he must take dependence with a competent, experienced bhikkhu who is his junior.
+
+     - 根據\ `《大品》.一.53.4`_\ ，受具足戒五年後，比丘可以解除依止，條件是他必須賢能通達。如果他還沒有賢能通達，他就必須保持依止，直到他賢能通達。如果他一直無法變得賢能通達，他作為比丘的一生就必須保持依止。《義註》補充說，必須終身依止的比丘，如果找不到賢能通達的上座比丘，他就必須依止賢能通達的下座比丘。
+
+   * - To be considered competent and experienced enough to deserve release from dependence, a bhikkhu must meet many of the same general qualifications as those for a mentor, except that he need not possess the competence to look after a pupil, and the minimum number of years he needs as a bhikkhu is five. None of the texts divide the qualifications here into ideal and minimal qualifications, as they do for the mentor, but it seems reasonable that the same division would apply here as well. This would give us the following list:
+
+     - 為了被認為有足夠的賢能通達，得以解除依止，比丘必須滿足許多與依止師相同的一般資格，除了他不需要具備照顧弟子的能力，以及做為比丘最少五年。沒有任何文本像依止師一樣，將這裡的資格分為理想資格和最低資格，但同樣的劃分也適用於這裡似乎是合理的。於是我們得以條列如下文：
+
+   * - *The ideal qualifications:* The bhikkhu should have an arahant’s virtue, concentration, discernment, release, and knowledge and vision of release. He should have faith, a sense of shame, compunction, persistence in the practice, and quick mindfulness. He should be free of heavy and light offenses, and possess right view.
+
+     - *理想資格：*\ 比丘應具備阿羅漢的戒、定、慧、解脫、解脫知見。他應該有信心、慚、愧、精進、不失正念。他應無重、輕諸罪，並且具足正見。
+
+   * - *The minimal qualifications:* The bhikkhu must be learned and intelligent, knowing both Pāṭimokkhas in detail, understanding what is and is not an offense, what is a light offense, what is a heavy offense, and how an offense may be removed. And—the most basic requirement—he must have been ordained as a bhikkhu for at least five years (`Mv.I.53.5-13`_).
+
+     - *最低資格：*\ 比庫必須博學且聰慧，嫻熟通達二部《波羅提木叉》，了解什麼是犯戒，什麼是不犯戒，什麼是輕罪，什麼是重罪，以及如何懺罪。而且──最基本的要求──他必須受具足戒為比丘至少五年（\ `《大品》.一.53.5-13`_\ ）。
+
+.. _Mv.I.53.4: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.53.4
+.. _《大品》.一.53.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0100a02
+.. _Mv.I.53.5-13: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.53.5-9
+.. _《大品》.一.53.5-13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0100a06
+
 (未完待續)
