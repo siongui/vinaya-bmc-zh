@@ -472,9 +472,52 @@
 
      - *最低資格：*\ 比庫必須博學且聰慧，嫻熟通達二部《波羅提木叉》，了解什麼是犯戒，什麼是不犯戒，什麼是輕罪，什麼是重罪，以及如何懺罪。而且──最基本的要求──他必須受具足戒為比丘至少五年（\ `《大品》.一.53.5-13`_\ ）。
 
+   * - The Commentary to `Mv.I.53`_, in explaining *learned*, refers to the definition of the term given by the Commentary to `Pc 21`_, which says that a learned bhikkhu must have memorized:
+
+     - `《大品》.一.53`_\ 的《義註》在解釋「\ *博學*\ 」時，參考了\ `《波逸提》二一`_\ 的《義註》給出的術語定義，它說博學的比丘必須背誦：
+
+       .. TODO FIXME: replace link to 《波逸提》二一
+
+   * - 1. Both Pāṭimokkhas (for the bhikkhus and bhikkhunīs).
+
+     - 1. 兩部《波羅提木叉》（比丘和比丘尼）。
+
+   * - 2. The Four Bhāṇavāras—a set of auspicious chants that are still regularly memorized in Sri Lanka as the *Mahā-parit poṭha*.
+
+     - 2. 四種誦分（Bhāṇavāra）－一套吉祥的唸誦，在斯里蘭卡稱為 *Mahā-parit poṭha* 並仍然固定被背誦。
+
+   * - 3. A discourse that is helpful as a guide for sermon-giving. (The Commentary lists as examples the Mahā-Rāhulovāda Sutta (`MN 62`_), the Andhakavinda Sutta (`AN 5:114`_), and the Ambaṭṭha Sutta (DN 3).)
+
+     - 3. 有助於作為講經說法依據的經典。（《義註》列舉了《大教誡羅睺羅經》（\ `《中部》62經`_\ ）、《闇陀迦頻陀經》（\ `《增支部》5:114經`_\ ）和《阿摩晝經》（\ `《長部》3經`_\ ）作為例子。）
+
+   * - 4. Three kinds of *anumodanā* (rejoicing in the merit of others) chants: for meals; for auspicious merit-making ceremonies, such as blessing a house; and for non-auspicious ceremonies, i.e., any relating to a death.
+
+     - 4. 三種迴向祝福的唸誦（隨喜他人的功德）：用餐；吉祥做功德儀式，例如為房子加持；以及非吉祥儀式，意即任何與死亡有關的。
+
+   * - The Commentary adds that he must also know the rules for such Community transactions as the Pāṭimokkha recitation and the Invitation at the end of the Rains-residence, and be acquainted with themes for tranquility and insight meditation leading to arahantship.
+
+     - 《義註》補充說，他還必須了解諸如《波羅提木叉》念誦和雨安居結束時自恣等僧團羯磨的規則，並熟悉趨證阿羅漢果的止觀禪修的主題。
+
+   * - This definition of *learned* is not universally accepted, and some traditions have reworked it. As this is another area where different Communities have different interpretations, the wise policy is to adhere to the practice followed in one’s Community, as long as it follows the basic requirements in the Canon, mentioned above.
+
+     - 在此「博學」的定義並未普遍地被接受，一些傳統對其進行了修改。由於這是另一個不同僧團有不同解釋的領域，明智之舉是秉承自己僧團所遵循的實踐，只要它遵循上述《聖典》中的基本要求即可。
+
+   * - Once a pupil has been released from dependence, the Commentary states that he need no longer perform the duties mentioned in sections 4 and 5 under the pupil’s duties to his mentor.
+
+     - 一旦弟子解除依止，《義註》指出，他不再需要履行第 4 節和第 5 節中提到的弟子對其依止師的職責。
+
 .. _Mv.I.53.4: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.53.4
 .. _《大品》.一.53.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0100a02
 .. _Mv.I.53.5-13: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.53.5-9
 .. _《大品》.一.53.5-13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0100a06
+.. _Mv.I.53: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.53.5-9
+.. _Pc 21: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc21
+.. _《大品》.一.53: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0099a06
+.. _《波逸提》二一: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc21
+.. _MN 62: https://www.dhammatalks.org/suttas/MN/MN62.html
+.. _AN 5\:114: https://www.dhammatalks.org/suttas/AN/AN5_114.html
+.. _《中部》62經: https://sutra.mobi/chilin/zhong/content/062.html
+.. _《增支部》5\:114經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%B8%80%E4%B8%80%E5%9B%9B%E5%AE%89%E9%99%80%E8%BF%A6%E6%9D%91
+.. _《長部》3經: https://sutra.mobi/chilin/chang/content/03.html
 
 (未完待續)
