@@ -84,7 +84,7 @@
      - `\　　解除依止 <{filename}Section0008%zh-hant.rst#release-from-dependence>`__
 
    * - `\　　Return to dependence <https://www.dhammatalks.org/vinaya/bmc/Section0008.html#sigil_toc_id_13>`__
-     - 　　回歸依止
+     - `\　　回歸依止 <{filename}Section0008%zh-hant.rst#return-to-dependence>`__
 
    * - `\　Disrobing <https://www.dhammatalks.org/vinaya/bmc/Section0009.html>`__
      - 　還俗

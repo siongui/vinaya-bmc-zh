@@ -520,4 +520,52 @@
 .. _《增支部》5\:114經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%B8%80%E4%B8%80%E5%9B%9B%E5%AE%89%E9%99%80%E8%BF%A6%E6%9D%91
 .. _《長部》3經: https://sutra.mobi/chilin/chang/content/03.html
 
-(未完待續)
+
+.. _sigil_toc_id_13:
+.. _return-to-dependence:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Return to dependence**
+     - **回歸依止**
+
+   * - The Cullavagga (I.9-12) states that a bhikkhu released from dependence may be forced, by a Community transaction—called either a demotion transaction *(niyasa-kamma)* or a dependence transaction *(nissaya-kamma)*\ —to return to dependence if his conduct is so bad as to warrant it. The qualifying factors are:
+
+     - `《小品》（一.9-12）`_\ 指出，解除依止的比丘可以透過僧團羯磨（稱為降級羯磨\ *（niyasa-kamma）*\ 或依止羯磨\ *（nissaya-kamma）*\ ）被迫回歸依止，如果他的行為是如此惡劣，以至於有必要這樣做。符合條件要素是：
+
+   * - 1. He is ignorant and inexperienced.
+     - 1. 他愚癡、暗昧。
+
+   * - 2. He is indiscriminately full of offenses (§).
+     - 2. 他任意地一直犯戒 (§)。
+
+   * - 3. He lives in unbecoming association with lay people.
+     - 3. 他與在家眾的交往不恰當。
+
+   * - If these factors apply to a bhikkhu to the extent that the Community is “fed up with granting him probation, sending him back to the beginning, imposing penance, and rehabilitating him”—these terms refer to the procedures for dealing with a bhikkhu who has committed repeated saṅghādisesa offenses (see `Chapter 5`_)—then the Community is justified in imposing a demotion (or dependence) transaction (see `BMC2, Chapter 20`_). This is similar to a “further punishment” transaction, to be discussed in `Chapter 11`_ of this volume, and carries the same penalties with the additional penalty that the bhikkhu must live in dependence under a mentor as long as the transaction is in effect. If he mends his ways to the Community’s satisfaction, they may rescind the transaction and return his independence.
+
+     - 如果這些要素適用於一位比丘，以至於僧團「厭倦了給予他別住、本日治、摩那埵、以及出罪」——這些術語指的是一個比丘屢次犯下《僧殘》罪的處理程序。（見\ `第五章`_\ ）－那麼僧團就有理由實施降級（或依止）羯磨（見\ `《佛教修道準則 第二冊》第二十章`_\ ）。 這類似於本書\ `第十一章`_\ 將要討論的「覓罪相」羯磨，具有相同的懲罰，但多了額外的懲罰是，只要羯磨有效，比丘就必須依止其依止師而住。如果他改正自己的方式讓僧團滿意，僧團可解除羯磨並恢復他的獨立。
+
+       .. TODO FIXME: replace link to 第五章
+       .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
+       .. TODO FIXME: replace link to 第十一章
+
+   * - .. container:: has-text-centered
+
+          \*    \*    \*
+
+     -
+
+   * - As mentioned above, the Commentary states that regardless of whether a pupil is under dependence or released from it, he is still expected to observe certain duties to his preceptor—and his preceptor, certain duties to him—as long as both are alive and ordained. This is in line with the fact that they are always to regard each other as father and son: The preceptor is to take a continuing interest in his pupil’s welfare, and the pupil is to show his continuing gratitude for the initiation his preceptor has given him into the bhikkhu’s life.
+
+     - 如上所述，《義註》指出，無論弟子是依止中還是解除依止，他仍然應該履行對他的戒師的某些職責－而他的戒師也對他履行某些職責－只要他們都在世且是比丘身分。這符合他們始終將彼此視為父子的事實：戒師應持續關注弟子的福利，而弟子則應對他的戒師給予他進入比丘生活的啟蒙表示持續的感激之情。
+
+.. _《小品》（一.9-12）: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0009a11
+.. _Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#BMC1chapter5
+.. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. _Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
+.. _第五章: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#BMC1chapter5
+.. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
