@@ -48,3 +48,18 @@
 
    * - The bhikkhu must be in his right mind. Any statement he makes while insane, delirious with pain, or possessed by spirits does not count.
      - 比丘的心必須精神正常，神智清醒。他在精神錯亂、因痛苦而發狂神智不清，或被附身時所說的任何言語都不算數。
+
+
+.. _sigil_toc_id_15:
+.. _intention:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - He must seriously desire to leave the Community. If, without actually intending to disrobe, he makes any of the statements usually used for disrobing, it does not count as an act of disrobing. For example, if he makes the statement in jest or is telling someone else how to disrobe, the fact that he mentions the words does not mean that he has disrobed. Also, if he is forced against his will to make a statement of disrobing, or if he says one thing and means something else—e.g., he makes a slip of the tongue—that too does not count.
+
+     - 他必須認真嚴肅地渴望離開僧團。如果他實際上並沒有打算還俗，但做出了任何通常用於還俗的陳述，則不算是還俗行為。例如，如果他是開玩笑地說出這樣的話，或是在告訴別人如何還俗，那麼他提到這些話並不代表他已經還俗了。此外，如果他被迫違背自己的意願做出還俗聲明，或者如果他說的是一樣，意思是另一樣——例如，他失言了——那也不算數。
