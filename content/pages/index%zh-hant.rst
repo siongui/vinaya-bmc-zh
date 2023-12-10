@@ -90,7 +90,7 @@
      - `\　還俗 <{filename}Section0009%zh-hant.rst>`__
 
    * - `\　　State of mind <https://www.dhammatalks.org/vinaya/bmc/Section0009.html#sigil_toc_id_14>`__
-     - 　　精神狀態
+     - `\　　精神狀態 <{filename}Section0009%zh-hant.rst#state-of-mind>`__
 
    * - `\　　Intention <https://www.dhammatalks.org/vinaya/bmc/Section0009.html#sigil_toc_id_15>`__
      - 　　意圖

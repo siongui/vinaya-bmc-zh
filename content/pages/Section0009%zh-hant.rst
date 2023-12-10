@@ -34,3 +34,17 @@
 
    * - 4. The witness to his statement.
      - 4. 他的聲明的見證人。
+
+
+.. _sigil_toc_id_14:
+.. _state-of-mind:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **State of mind**
+     - **精神狀態**
+
+   * - The bhikkhu must be in his right mind. Any statement he makes while insane, delirious with pain, or possessed by spirits does not count.
+     - 比丘的心必須精神正常，神智清醒。他在精神錯亂、因痛苦而發狂神智不清，或被附身時所說的任何言語都不算數。
