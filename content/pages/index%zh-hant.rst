@@ -87,7 +87,7 @@
      - `\　　回歸依止 <{filename}Section0008%zh-hant.rst#return-to-dependence>`__
 
    * - `\　Disrobing <https://www.dhammatalks.org/vinaya/bmc/Section0009.html>`__
-     - 　還俗
+     - `\　還俗 <{filename}Section0009%zh-hant.rst>`__
 
    * - `\　　State of mind <https://www.dhammatalks.org/vinaya/bmc/Section0009.html#sigil_toc_id_14>`__
      - 　　精神狀態
