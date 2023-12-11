@@ -99,7 +99,7 @@
      - `\　　聲明 <{filename}Section0009%zh-hant.rst#the-statement>`__
 
    * - `\　　The witness <https://www.dhammatalks.org/vinaya/bmc/Section0009.html#sigil_toc_id_17>`__
-     - 　　見證人
+     - `\　　見證人 <{filename}Section0009%zh-hant.rst#the-witness>`__
 
    * - `\　Pārājika <https://www.dhammatalks.org/vinaya/bmc/Section0010.html>`__
      - 　波羅夷

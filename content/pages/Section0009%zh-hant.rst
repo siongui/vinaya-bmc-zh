@@ -82,3 +82,26 @@
    * - The Vibhaṅga stipulates that the statement *not* be put in the conditional tense—or, in terms of English grammar, the subjunctive mood—(“Suppose I were to renounce the training”). Nor should it be expressed as a wish (“If only I were to renounce the training (§)”; “May I renounce the training (§)”) or as a question (“Should I renounce the training?” (§—reading *apāhaṁ* with the Burmese and PTS editions)). The Commentary further stipulates that the “\ *x*\ ” statements must be in the *present* tense. Thus to say, “I have renounced the training,” or “I will renounce the training,” would not be a valid statement of disrobing.
 
      - 《經分別》規定，該聲明\ *不能*\ 使用條件時態，或用英語文法來說，虛擬語氣（「假設我要捨戒」）。它也不應該表達為願望（“如果我捨戒（§）”；“我可以捨戒（§）”）或問句（“我應該捨戒嗎？”（§—緬甸和PTS版本拼讀為 *apāhaṁ* ））。《義註》進一步規定，「\ *x*\ 」聲明必須採用\ *現在*\ 式。因此，「我已經捨戒」或「我將捨戒」並不是有效的還俗聲明。
+
+
+.. _sigil_toc_id_17:
+.. _the-witness:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The witness**
+     - **見證人**
+
+   * - The witness must be a human being in his or her right mind, and must understand what the bhikkhu says. This rules out the legendary practice of bhikkhus who disrobe by taking a Buddha image as their witness, or who disrobe in front of a Bodhi tree on the assumption that the tree deva counts.
+
+     - 見證人必須是個精神正常，神智清醒的人，並且必須理解比丘所說的話。這就排除了傳說中比丘以佛像為見證還俗的做法，或是以為樹神做見證在菩提樹前還俗也算數。
+
+   * - These four factors cover all that is absolutely necessary for an act of disrobing to be valid. However, each of the different national traditions has developed a set of formal ceremonies to surround the act—such as making a final confession of all one’s offenses and reciting the passage for reflection on one’s past use of the four requisites—to give psychological weight to the occasion and to help minimize any remorse one might feel afterwards.
+
+     - 這四個因素涵蓋了使還俗行為有效，絕對必要的所有因素。然而，每個不同的民族傳統都制定了一套圍繞此行為的正式儀式－例如對自己的所有犯戒進行最後的懺罪，並背誦一段經文以反思過去對四個必需品的使用－以給予此場合心理上的重視，並幫助盡量減少事後可能感到的懊悔。
+
+   * - Because disrobing is a serious act with strong consequences for one’s mental and spiritual well being, it should be done only after due consideration. Once a bhikkhu decides that he *does* want to disrobe, he would be wise to follow not only the stipulations given in the texts but also any additional customs observed in his particular Community, as a sign to himself and to others that he is acting seriously and with due respect for the religion, for the Community, and for himself.
+
+     - 因為還俗是一種嚴肅的行為，會對一個人的心理和精神的幸福安康產生強烈後果，所以只有在經過適當考慮後才應該這樣做。一旦比丘決定他\ *確實*\ 想要還俗，他應該明智地不僅遵守文本中給出的規定，而且還要遵守他的特定僧團中所奉行任何額外習俗，作為對他自己和他人的表明，顯示他正在嚴肅行事，並對宗教、僧團和他自己給予應有的尊重。
