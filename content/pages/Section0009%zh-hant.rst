@@ -63,3 +63,22 @@
    * - He must seriously desire to leave the Community. If, without actually intending to disrobe, he makes any of the statements usually used for disrobing, it does not count as an act of disrobing. For example, if he makes the statement in jest or is telling someone else how to disrobe, the fact that he mentions the words does not mean that he has disrobed. Also, if he is forced against his will to make a statement of disrobing, or if he says one thing and means something else—e.g., he makes a slip of the tongue—that too does not count.
 
      - 他必須認真嚴肅地渴望離開僧團。如果他實際上並沒有打算還俗，但做出了任何通常用於還俗的陳述，則不算是還俗行為。例如，如果他是開玩笑地說出這樣的話，或是在告訴別人如何還俗，那麼他提到這些話並不代表他已經還俗了。此外，如果他被迫違背自己的意願做出還俗聲明，或者如果他說的是一樣，意思是另一樣——例如，他失言了——那也不算數。
+
+
+.. _sigil_toc_id_16:
+.. _the-statement:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The statement**
+     - **聲明**
+
+   * - The Vibhaṅga lists a wide variety of statements that one may use to renounce the training, following two basic patterns. The first pattern follows the form, “I renounce *x*,” where *x* may be replaced with the Buddha, the Dhamma, the Saṅgha, the training, the discipline (*vinaya*), the Pāṭimokkha, the celibate life, one’s preceptor, one’s teacher, one’s fellow bhikkhus, or any equivalent terms. Variants on this pattern include such statements as, “I am tired of *x*,” “What is *x* to me?” “\ *X* means nothing to me,” or “I am well freed of *x*.” The second pattern follows the form, “Consider me to be *y*,” where *y* may be replaced with a householder, a lay follower, a novice, a member of another sect, an adherent of another sect, or any other equivalent term.
+
+     - 《經分別》列出了可以用來捨戒的各種聲明，遵循兩種基本模式。第一個模式遵循「我放棄 *x*\ 」的形式，其中 *x* 可以用佛、法、僧、訓練、戒律（\ *vinaya*\ ）、《波羅提木叉》、梵行生活、戒師、教授師、同儕比丘，或任何同等的術語。這種模式的變體包括諸如“我厭倦了 *x*\ ”、“\ *x* 對我來說是什麼？”之類的陳述。 “\ *X* 對我來說毫無意義”，或者“我已經擺脫了 *x*\ ”。第二種模式遵循「視我為 *y*\ 」的形式，其中 *y* 可以替換為居士、在家信眾、沙彌、另一個教派的成員、另一個教派的信徒或任何其他等效術語。
+
+   * - The Vibhaṅga stipulates that the statement *not* be put in the conditional tense—or, in terms of English grammar, the subjunctive mood—(“Suppose I were to renounce the training”). Nor should it be expressed as a wish (“If only I were to renounce the training (§)”; “May I renounce the training (§)”) or as a question (“Should I renounce the training?” (§—reading *apāhaṁ* with the Burmese and PTS editions)). The Commentary further stipulates that the “\ *x*\ ” statements must be in the *present* tense. Thus to say, “I have renounced the training,” or “I will renounce the training,” would not be a valid statement of disrobing.
+
+     - 《經分別》規定，該聲明\ *不能*\ 使用條件時態，或用英語文法來說，虛擬語氣（「假設我要捨戒」）。它也不應該表達為願望（“如果我捨戒（§）”；“我可以捨戒（§）”）或問句（“我應該捨戒嗎？”（§—緬甸和PTS版本拼讀為 *apāhaṁ* ））。《義註》進一步規定，「\ *x*\ 」聲明必須採用\ *現在*\ 式。因此，「我已經捨戒」或「我將捨戒」並不是有效的還俗聲明。
