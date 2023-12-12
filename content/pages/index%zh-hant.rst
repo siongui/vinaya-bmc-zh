@@ -102,7 +102,7 @@
      - `\　　見證人 <{filename}Section0009%zh-hant.rst#the-witness>`__
 
    * - `\　Pārājika <https://www.dhammatalks.org/vinaya/bmc/Section0010.html>`__
-     - 　波羅夷
+     - `\　波羅夷 <{filename}Section0010%zh-hant.rst>`__
 
    * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__
      - 　　一
