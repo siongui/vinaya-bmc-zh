@@ -105,7 +105,7 @@
      - `\　波羅夷 <{filename}Section0010%zh-hant.rst>`__
 
    * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__
-     - 　　一
+     - `\　　一 <{filename}Section0010%zh-hant.rst#pr1>`__
 
    * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2>`__
      - 　　二
