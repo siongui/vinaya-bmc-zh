@@ -69,3 +69,19 @@
 
 .. _引言: {filename}Section0006%zh-hant.rst
 .. _律藏-經分別-波羅夷-獼猴品: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0025a06
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - The term *sexual intercourse* refers to all kinds of sexual intercourse involving genitals (literally, the “urine path” (*passāva-magga*)—i.e., a woman’s vagina or a man’s penis); the anus (*vacca-magga*); or the mouth (*mukha*). The Vibhaṅga summarizes the various possible combinations of these orifices, and concludes that all of them—except for mouth-to-mouth penetration, which is treated under Derived Offenses, below—fulfill the factor of effort here. Unfortunately, the Vibhaṅga’s summary is couched in technical terminology, using *magga* (path) to mean either the genitals or the anal orifice, and *amagga* (not-path) to mean the mouth. The Commentary, in discussing the summary, mistakenly classifies the mouth as a magga as well, and so has to invent a different meaning for amagga: a wound bordering on one of the three maggas. Because the Commentary’s discussion of this point is based on a misunderstanding, there is no need to pursue it in further detail.
+
+     - *性交*\ 一詞是指所有類型的性交，涉及生殖器（字面意思是「尿道」（\ *passāva-magga*\ ），即女性的陰道或男性的陰莖）；肛門（\ *vacca-magga*\ ）；或嘴（\ *mukha*\ ）。《經分別》總結了這些孔穴的各種可能的組合，並得出結論：除了口對口的插入（在下面的衍生違犯中處理）之外，所有這些孔穴都滿足了這裡的努力因素。不幸的是，《經分別》的總結是用技術術語表達的，使用 *magga* （道）來表示生殖器或肛門，使用 *amagga* （非道）來表示嘴。《義註》在討論總結時，錯誤地將嘴也歸類為道，因此必須為「非道」發明一個不同的意義：與三道之一接壤的傷口。由於《義註》對這一點的討論是基於誤解，因此無需進一步追究。
+
+   * - The Vibhaṅga states that sexual intercourse has been performed when, in any of the possible combinations covered by this rule, one organ enters the other even if just to “the extent of a sesame seed.” This means that a bhikkhu engaging in genital, oral, or anal intercourse is subject to this rule regardless of which role he plays. The question of whether there is a covering, such as a condom, between the organs is irrelevant, as are the questions of whether the bhikkhu is actively or passively involved, and whether any of the parties involved reaches orgasm.
+
+     - 《經分別》指出，當在該戒條涵蓋的任何可能的組合中，一個器官進入另一個器官時，即使只是達到“芝麻籽的程度”，也代表發生了性交。這意味著比丘進行性交、口交或肛交時，無論他扮演什麼角色，都必須遵守這條戒條。器官之間是否有覆蓋物（例如保險套）的問題無關緊要，比丘是主動參與還是被動參與，以及參與的任何一方是否達到性高潮的問題都是無關緊要的。
