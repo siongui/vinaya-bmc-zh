@@ -58,6 +58,7 @@
           「當時，有一位比丘住在毘舍離大林裡，以食物與一隻猴子結交（§），並與它交合。然後，比丘一大早穿好衣服，帶著鉢和外衣，到毘舍離去托缽。眾多比丘巡行房舍，來到了該比丘的住處。猴子遠遠地看見他們來了，一見他們，就走到他們面前，搖著臀部，搖著尾巴，把臀部拱了出來，做了個淫相（§）。比丘們心想：「毫無疑問，這位比丘正在與這隻猴子交合。」於是他們躲到一邊。
 
           「然後，比丘在毘舍離托缽之後，帶著托缽食物回來了。猴子向他走來。比丘吃完一部分缽食後，將一部分給予猴子。猴子吃完缽食後，將它的屁股示現給比丘，比丘就與它交合（§）。
+
           「然後，諸比丘對該比丘說：『世尊不是制定了學處嗎？你怎麼能和這隻猴子交合呢？
 
           “‘朋友們，確實有一條學處是由世尊制定的，但那是針對人類女性，而不是針對雌性動物。’”
@@ -84,4 +85,27 @@
 
    * - The Vibhaṅga states that sexual intercourse has been performed when, in any of the possible combinations covered by this rule, one organ enters the other even if just to “the extent of a sesame seed.” This means that a bhikkhu engaging in genital, oral, or anal intercourse is subject to this rule regardless of which role he plays. The question of whether there is a covering, such as a condom, between the organs is irrelevant, as are the questions of whether the bhikkhu is actively or passively involved, and whether any of the parties involved reaches orgasm.
 
-     - 《經分別》指出，當在該戒條涵蓋的任何可能的組合中，一個器官進入另一個器官時，即使只是達到“芝麻籽的程度”，也代表發生了性交。這意味著比丘進行性交、口交或肛交時，無論他扮演什麼角色，都必須遵守這條戒條。器官之間是否有覆蓋物（例如保險套）的問題無關緊要，比丘是主動參與還是被動參與，以及參與的任何一方是否達到性高潮的問題都是無關緊要的。
+     - 《經分別》指出，當在該戒條涵蓋的任何可能的組合中，一個器官進入另一個器官時，即使只是達到“芝麻籽的程度”，也代表發生了性交。這意味著比丘進行性交、口交或肛交時，無論他扮演什麼角色，都隸屬於這條戒條。器官之間是否有覆蓋物（例如保險套）的問題不相干，比丘是主動參與還是被動參與，以及參與的任何一方是否達到性高潮的問題都是不相干的。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The full penalty under this rule applies to any voluntary sexual intercourse with a human being, a “non-human” being (a *yakkha*, *nāga*, or *peta*), or a common animal, whether female, male, neuter, or hermaphrodite.
+
+     - 這條戒條下的全額懲罰適用於與人類、「非人類」（夜叉 *yakkha* 、龍 *nāga* 或鬼 *peta* ）或普通動物（無論是雌性、雄性、中性或雌雄同體）的任何自願性交。
+
+   * - Performing sexual intercourse with a dead body—even a decapitated head—also entails the full penalty if the remains of the body are intact enough for the act to be accomplished.
+
+     - 如果屍體的殘骸夠完整以完成性交，與屍體（即使是與被斬首的頭）進行性交也將受到全額懲罰。
+
+   * - In addition, the Vinīta-vatthu lists two examples of “self-intercourse”: A bhikkhu with a supple back takes his penis into his mouth, and a bhikkhu with an unusually long penis inserts it into his anus. Both cases carry the full penalty.
+
+     - 此外，《Vinīta_-vatthu_》還列舉了兩個「自我性交」的例子：一個背部柔軟的比丘將陰莖放入口中，一個陰莖異常長的比丘將其插入肛門。 兩種情況均需受到全額懲罰。
+
+.. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
+.. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
