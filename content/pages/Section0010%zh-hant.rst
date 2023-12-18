@@ -163,6 +163,10 @@
 
      - 然而，《義註》在這些觀點上不同意《經分別》，稱此戒條衍生的違犯只能包括《突吉羅》和《偷蘭遮》懲罰。在對\ `《僧殘》一`_\ 的解釋中，它提出了十一種性欲的系統，其中對射精快感的性欲，對身體接觸快感的性欲，和對性交快感的性欲被視為完全不同的事情，必須根據不同的戒條處理。因此，它說，如果一個以性交為目的的比丘抓住了一個女人的身體，這只是性交的一個預備行動，因此只犯《突吉羅》，而不是出於性欲身體接觸的《僧殘》。同樣地，如果他在開始性交之前出現早洩，也沒有任何犯戒。
 
+   * - These are fine academic distinctions and are clearly motivated by a desire to draw neat lines between the rules, but they lead to practical problems. As the Commentary itself points out, if a bhikkhu commits an act that falls near the borderline between these rules but cannot later report precisely which type of lust he was feeling in the heat of the moment, there is no way his case can be judged and a penalty assigned. At any rate, though, there is no basis in the Canon for the Commentary’s system, and in fact it contradicts not only the Vibhaṅga’s ruling mentioned above, but also its definition of *lustful* under `Sg 2`_, 3_, & 4_, which is exactly the same for all three rules and places no limits on the type of lust involved. All of this leads to the conclusion that the Commentary’s neat system for classifying lust is invalid, and that the Vibhaṅga’s judgment holds: If a bhikkhu attempts intercourse with any part of a living being’s body apart from the three orifices, the case falls under the saṅghādisesa rules—either `Sg 1`_ for intentional ejaculation or `Sg 2`_ for lustful bodily contact—rather than here.
+
+     - 這些都是很好的學術區別，顯然是出於希望在戒條之間劃清界線的動機，但它們會導致實際問題。正如《義註》本身指出的那樣，如果比丘所犯下的行為接近這些戒條的邊緣，但後來無法準確地報告他在一時衝動中感受到哪種類型的欲望，那麼他的情況就無法判斷並給予懲罰。但，無論如何，《義註》的系統在《聖典》中是沒有任何依據的，事實上，它不僅與上述《經分別》的裁決相矛盾，而且也與在\ `《僧殘》二`_\ 、\ `三`_\ 、\ `四`_\ 中對\ *性欲*\ 的定義相矛盾，這個定義在所有三個戒條都是相同的，並且對所涉及的性欲類型沒有限制。這一切都得出這樣的結論：《義註》對性欲進行分類的簡潔工整系統是無效的，而《經分別》的判斷是成立的：如果比丘試圖與除三孔穴之外的眾生身體的任何部分進行交合，那麼這種情況就屬於《僧殘》戒條的範疇－若非\ `《僧殘》一`_\ 代表故意射精，則為\ `《僧殘》二`_\ 代>表出於性欲的身體接觸－而不是這裡。
+
 .. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
 .. _《僧殘》二: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
 .. TODO FIXME: replace link to 《僧殘》二
@@ -170,3 +174,18 @@
 .. _《僧殘》一: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
 .. TODO FIXME: replace link to 《僧殘》一
 .. _黃門: https://dictionary.sutta.org/browse/p/pa%E1%B9%87%E1%B8%8Daka/
+.. _3: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
+.. _三: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
+.. TODO FIXME: replace link to 《僧殘》三
+.. _4: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4
+.. _四: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4
+.. TODO FIXME: replace link to 《僧殘》四
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Blanket exemptions**
+     - **總括性豁免**
+
