@@ -165,7 +165,7 @@
 
    * - These are fine academic distinctions and are clearly motivated by a desire to draw neat lines between the rules, but they lead to practical problems. As the Commentary itself points out, if a bhikkhu commits an act that falls near the borderline between these rules but cannot later report precisely which type of lust he was feeling in the heat of the moment, there is no way his case can be judged and a penalty assigned. At any rate, though, there is no basis in the Canon for the Commentary’s system, and in fact it contradicts not only the Vibhaṅga’s ruling mentioned above, but also its definition of *lustful* under `Sg 2`_, 3_, & 4_, which is exactly the same for all three rules and places no limits on the type of lust involved. All of this leads to the conclusion that the Commentary’s neat system for classifying lust is invalid, and that the Vibhaṅga’s judgment holds: If a bhikkhu attempts intercourse with any part of a living being’s body apart from the three orifices, the case falls under the saṅghādisesa rules—either `Sg 1`_ for intentional ejaculation or `Sg 2`_ for lustful bodily contact—rather than here.
 
-     - 這些都是很好的學術區別，顯然是出於希望在戒條之間劃清界線的動機，但它們會導致實際問題。正如《義註》本身指出的那樣，如果比丘所犯下的行為接近這些戒條的邊緣，但後來無法準確地報告他在一時衝動中感受到哪種類型的欲望，那麼他的情況就無法判斷並給予懲罰。但，無論如何，《義註》的系統在《聖典》中是沒有任何依據的，事實上，它不僅與上述《經分別》的裁決相矛盾，而且也與在\ `《僧殘》二`_\ 、\ `三`_\ 、\ `四`_\ 中對\ *性欲*\ 的定義相矛盾，這個定義在所有三個戒條都是相同的，並且對所涉及的性欲類型沒有限制。這一切都得出這樣的結論：《義註》對性欲進行分類的簡潔工整系統是無效的，而《經分別》的判斷是成立的：如果比丘試圖與除三孔穴之外的眾生身體的任何部分進行交合，那麼這種情況就屬於《僧殘》戒條的範疇－若非\ `《僧殘》一`_\ 代表故意射精，則為\ `《僧殘》二`_\ 代>表出於性欲的身體接觸－而不是這裡。
+     - 這些都是很好的學術區別，顯然是出於希望在戒條之間劃清界線的動機，但它們會導致實際問題。正如《義註》本身指出的那樣，如果比丘所犯下的行為接近這些戒條的邊緣，但後來無法準確地報告他在一時衝動中感受到哪種類型的欲望，那麼他的情況就無法判斷並給予懲罰。但，無論如何，《義註》的系統在《聖典》中是沒有任何依據的，事實上，它不僅與上述《經分別》的裁決相矛盾，而且也與在\ `《僧殘》二`_\ 、\ `三`_\ 、\ `四`_\ 中對\ *性欲*\ 的定義相矛盾，這個定義在所有三個戒條都是相同的，並且對所涉及的性欲類型沒有限制。這一切都得出這樣的結論：《義註》對性欲進行分類的簡潔工整系統是無效的，而《經分別》的判斷是成立的：如果比丘試圖與除三孔穴之外的眾生身體的任何部分進行交合，那麼這種情況就屬於《僧殘》戒條的範疇－若非\ `《僧殘》一`_\ 代表故意射精，則為\ `《僧殘》二`_\ 代表出於性欲的身體接觸－而不是這裡。
 
 .. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
 .. _《僧殘》二: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
@@ -189,3 +189,39 @@
    * - **Blanket exemptions**
      - **總括性豁免**
 
+   * - In addition to bhikkhus who do not know they are being assaulted or do not give their consent when they do know, the Vibhaṅga states that there are four special categories of bhikkhus exempted from a penalty under this rule: any bhikkhu who is insane, possessed by spirits, delirious with pain, or the first offender(s) (in this case, Ven. Sudinna and the bhikkhu with the monkey) whose actions prompted the Buddha to formulate the rule. The Commentary defines as *insane* anyone who “goes about in an unseemly way, with deranged perceptions, having cast away all sense of shame and compunction, not knowing whether he has transgressed major or minor training rules.” It recognizes this as a medical condition, which it blames on the bile. A bhikkhu under the influence of a severe psychosis-inducing drug would apparently fall under this exemption, but one under the influence of a more common intoxicant would not. As for spirit possession, the Commentary says that this can happen either when spirits frighten one or when, by distracting one with sensory images, they insert their hands into one’s heart by way of one’s mouth (!). Whatever the cause, it notes that insane and possessed bhikkhus are exempt from penalties they incur only when their perceptions are deranged (“when their mindfulness is entirely forgotten and they don’t know what fire, gold, excrement, and sandalwood are”) and not from any they incur during their lucid moments. As for a bhikkhu delirious with pain, he is exempt from penalties he incurs only during periods when the pain is so great that he does not know what he is doing.
+
+     - 除了不知道自己受到侵犯或明知後不同意的比丘外，《經分別》指出，有四種特殊類別的比丘可免受此戒條的處罰：任何精神錯亂的比丘、被附身、或因痛苦而發狂神智不清，或最初犯戒者（在本例中，是須提那尊者和與猴子在一起的比丘），他們的行為促使佛陀制定了戒條。《義註》將\ *精神錯亂*\ 定義為「行為不得體，知覺錯亂，已拋棄所有慚愧感，不知犯大、小學處」的人。它認為這是一種健康狀況，並將其歸咎於膽汁。受到嚴重的誘發精神病藥物影響的比丘顯然屬於這裡的豁免範圍，但受到更常見的麻醉劑影響的比丘則不然。至於附身，《義註》說，這種情況可能發生在靈體嚇唬人的時候，或者當靈體通過感官圖像分散人的注意力，通過人的嘴將手插入人的心臟時（！）。無論出於什麼原因，它指出，精神錯亂和被附身的比丘只有在他們的知覺錯亂時（“當他們的正念完全被遺忘，並且他們不知道火，金，糞便和檀香是什麼時”）才可以免受懲罰，在清醒時所發生則不能豁免。至於因痛苦而發狂神智不清的比丘，只有當疼痛劇烈到他不知道自己在做什麼時，他才可以免於懲罰。
+
+       ..
+          https://deerpark.app/reader/X0709/2
+          毗尼止持會集（卷2）
+          癡狂心亂痛惱所纏(善見律云。見火而捉。如金無異。見屎而捉。如栴檀無異。是名癡狂心亂痛惱所纏
+
+          https://tripitaka.cbeta.org/mobile/index.php?index=T24n1462_007
+          善見律毘婆沙卷第七
+          見火而捉如金無異，見屎而捉如栴檀無異，如是顛狂犯戒無罪。
+
+   * - These four categories are exempted from penalties under nearly all of the rules, although the first offender for each rule is exempted only for the one time he acted in such a way as to provoke the Buddha into formulating the rule. I will only rarely mention these categories again, and—except where expressly stated otherwise—the reader should bear them in mind as exempt in every case.
+
+     - 這四類別幾乎在所有戒條中都可以免於處罰，儘管每條戒條的初犯只有一次，其行為引起佛陀制定該戒條時才可以得到豁免。我很少會再次提及這些類別，除非另有明確說明，否則讀者應該牢記它們在任何情況下都可以豁免。
+
+   * - Lastly, the Vinīta-vatthu to this rule includes an interesting case that formed the basis for an additional rule:
+     - 最後，這條戒條的《Vinīta_-vatthu_》包括一個\ `有趣的案例`_\ ，它構成了附加戒條的基礎：
+
+   * - .. container:: notification
+
+          “At that time a certain bhikkhu had gone to the Gabled Hall in the Great Wood at Vesālī to pass the day and was sleeping, having left the door open. His various limbs were stiff with the ‘wind forces’ (i.e., he had an erection) (§). Now at that time a large company of women bearing garlands and scents came to the park, headed for the dwelling. Seeing the bhikkhu, they sat down on his male organ (§) and, having taken their pleasure and remarking, ‘What a bull of a man, this one!’ they picked up their garlands and scents, and left.”
+
+     - .. container:: notification
+
+          「當時，有一位比丘到毘舍離大林的重閣講堂去打發一天，正在睡覺，門開著。他的各個肢體因「風力」而變得僵硬（即他勃起）（§）。那時，一大群帶著花環和香水的婦女來到公園，朝著住所走去。看到比丘後，他們坐在他的男性器官上（§），取得愉悅後說道：「這個人真是個公牛！」他們拿起花環和香水就離開了。
+
+   * - The bhikkhu incurred no penalty, but the Buddha gave formal permission to close the door when resting during the day. From this permission, the Commentary formulates a prohibition—that a bhikkhu incurs a dukkaṭa if he does not close the door when sleeping during the day—but if the Buddha had intended a prohibition, he surely would have stated the rule in that form himself. In other words, one may sleep during the day without being penalized for whether the door is open or not.
+
+     - 比丘沒有受到懲罰，但佛陀正式允許白天休息時關門。根據這項許可，《義註》制定了一條禁令——比丘如果白天睡覺時不關門，就會犯《突吉羅》——但如果佛陀有意禁止，他肯定會親自以禁令形式陳述這條戒條。換句話說，比丘可以在白天睡覺，而不會因為門是否打開而受到懲罰。
+
+   * - *Summary: Voluntary sexual intercourse—genital, anal, or oral—with a human being, non-human being, or common animal is a pārājika offense.*
+     - *摘要：與人類、非人或普通動物自願發生性交（生殖器、肛門或口腔）是《波羅夷》罪。*
+
+.. _有趣的案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0049a05
