@@ -130,14 +130,12 @@
 
      - 總而言之，這些案例意味著，如果一個人受到性侵犯，只有在以下情況下才可以完全免除犯戒：（1）一個人在行為過程中的任何時候都沒有心理上同意，或者（2）一個人至少在行為過程中的某部份確實感到心理上的同意，但奮力掙扎避免以任何方式透過身體或口頭表達同意。（如《義註》中所指出的，從\ `《波羅夷》二`_\ 的《Vinīta_-vatthu_》中得出一條一般原則，僅在心理上同意而沒有身體表達，不足以算作犯戒的一個因素，因為僅僅在想法或心理狀態中產生並不構成犯戒。）如果一個人沒有做出任何掙扎並感到精神上同意，即使只是在插入、完全插入、留在原處或拔出階段短暫地發生，也會受到全額懲罰。這似乎是《義註》在討論《Vinīta_-vatthu_》的例子時發出警告的基礎，在該案例中，一名比丘醒來，發現自己遭到一名女人的性侵犯，踢了她一腳，然後讓她滾出去。警告：如果一個比丘仍然受制於色欲，他想要保護他的心境，就應該這樣做。
 
-       .. TODO FIXME: replace link to 《波羅夷》二
-
    * - The Vinīta-vatthu contains a case in which a bhikkhu with “impaired faculties”—one who feels neither pleasure nor pain during intercourse—engages in intercourse under the assumption that his impairment exempts him from the rule. The case is brought to the Buddha, who states, “Whether this worthless man did or didn’t feel [anything], it is a case involving defeat.” From this ruling it can be argued that a bhikkhu indulging in intercourse as part of a tantric ritual incurs the full penalty even if he doesn’t feel pleasure in the course of the act.
 
      - 《Vinīta_-vatthu_》中記載了一個案例，一位「官能受損」的比丘——在性交時既感覺不到快樂也感覺不到痛苦——認為他的缺陷使他不受戒條約束而進行性交。這個案例被提交給佛陀，佛陀說：“無論這個愚癡人有沒有（任何）感覺，這都是一個《波羅夷》的案例。” 從這個裁決可以看出，一個比丘在密宗儀式中沉溺於性交，即使他在行為過程中沒有感到快樂，也會受到全額懲罰。
 
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
-.. _《波羅夷》二: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
+.. _《波羅夷》二: #pr2
 
 
 .. list-table::
@@ -225,3 +223,21 @@
      - *摘要：與人類、非人或普通動物自願發生性交（生殖器、肛門或口腔）是《波羅夷》罪。*
 
 .. _有趣的案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0049a05
+
+
+.. _Pr2:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **2**
+     - **二**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, in what is reckoned a theft, take what is not given from an inhabited area or from the wilderness—just as when, in the taking of what is not given, kings arresting the criminal would flog, imprison, or banish him, saying, “You are a robber, you are a fool, you are benighted, you are a thief”—a bhikkhu in the same way taking what is not given also is defeated and no longer in affiliation.*
+
+     - .. container:: notification
+
+          *如果任何比丘，在村落或林野，拿取未給予的東西，被視為盜竊，就像國王逮捕罪犯，拿取未給予的東西時會鞭打、監禁或驅逐他一樣說：「你是強盜，你是愚人，你是愚昧無知的，你是小偷。」——比丘以同樣的方式拿取未給予的東西，也是波羅夷，不共住。*
