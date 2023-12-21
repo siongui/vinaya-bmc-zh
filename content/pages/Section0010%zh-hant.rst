@@ -241,3 +241,28 @@
      - .. container:: notification
 
           *如果任何比丘，在村落或林野，拿取未給予的東西，被視為盜竊，就像國王逮捕罪犯，拿取未給予的東西時會鞭打、監禁或驅逐他一樣說：「你是強盜，你是愚人，你是愚昧無知的，你是小偷。」——比丘以同樣的方式拿取未給予的東西，也是波羅夷，不共住。*
+
+   * - This rule against stealing is, in the working out of its details, the most complex in the Pāṭimokkha and requires the most explanation—not because stealing is a concept especially hard to understand, but because it can take so many forms. The Canon treats the issue in a case-by-case fashion that resists easy summary. To further complicate matters, the Commentary’s discussion of this rule is extremely prolix and deviates frequently from the Canon’s in both major and minor ways. Because the deviations are so numerous, we will focus solely on the major ones.
+
+     - 就其細節而言，這條禁止偷竊的戒條是《波羅提木叉》中最複雜的，也需要最多的解釋——不是因為偷竊是一個特別難以理解的概念，而是因為它可以有多種形式。《聖典》以逐案的的方式對待這個議題，拒絕簡單地總結。使事情變得更加複雜的是，《義註》對這條戒條的討論極其冗長，並且經常在主要和次要方面偏離《聖典》的內容。由於偏差如此之多，我們將只關注主要的偏差。
+
+   * - The Vibhaṅga defines the act of stealing in terms of four factors.
+     - 《經分別》根據四個因素定義了偷竊行為。
+
+   * - 1) *Object*: anything belonging to another human being or a group of human beings.
+     - 1) *對象*\ ：屬於另一個人或一群人的任何東西。
+
+   * - 2) *Perception*: One perceives the object as belonging to another human being or a group of human beings.
+     - 2) *感知*\ ：察覺到該對象屬於另一個人或一群人。
+
+   * - 3) *Intention*: One decides to steal it.
+     - 3) *意圖*\ ：決定偷竊它。
+
+   * - 4) *Effort*: One takes it.
+     - 4) *努力*\ ：拿走它。
+
+   * - Stealing under any circumstances is always an offense. However, the severity of the offense depends on another factor, which is—
+     - 在任何情況下偷竊都是犯戒行為。然而，犯戒的嚴重程度取決於另一個因素，即——
+
+   * - 5) The value of the object.
+     - 5) 該對象的價值。
