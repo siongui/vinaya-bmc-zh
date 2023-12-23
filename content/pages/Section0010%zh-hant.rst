@@ -286,3 +286,27 @@
    * - The Vinīta-vatthu mentions an interesting case in which the groundskeeper in an orchard permits bhikkhus to take fruit from the orchard, even though he was not authorized to do so. The bhikkhus committed no offense.
 
      - 《Vinīta_-vatthu_》提到了一個有趣的案例，果園的園丁允許比丘們從果園拿水果，儘管他沒有被授權這樣做。比丘們沒有犯任何戒。
+
+   * - The Commentary adds that if people are guarding an object as the property of a location—for example, an offering to a Buddha image, cetiya, or other sacred place—the object would also qualify as “not given” under this rule. Although the Vibhaṅga mentions property of this sort under `NP 30`_ and `Pc 82`_, for some reason it doesn’t mention it here. Nevertheless, the Commentary’s judgment on this point reflects a custom that had become widespread by its time, that of giving valuable items to a cetiya (this includes Buddha images) and dedicating them not to the Saṅgha but to the cetiya. Some medieval Indian Buddhist inscriptions express the idea that the cetiya or the Buddha relics (if any) within the cetiya actually own such objects, but the Commentary states that these objects have an owner simply in the sense that human beings are watching over them for the purpose of the cetiya. The jewels decorating the reliquary of the Sacred Tooth in Kandy or the offerings to the Emerald Buddha in Bangkok, for example, would fall under this category. According to the Commentary, the Saṅgha is duty-bound to care for such items but has no rights of ownership over them. In its discussion both of this rule and of Pv.XIX, it states that items given to the Saṅgha may be used for the purpose of the cetiya—for example, to contribute to its decoration or upkeep—but items given to the cetiya may not be used for the purpose of the Saṅgha.
+
+     - 《義註》補充說，如果人們將某個物品作為某個地點的財產來保護——例如，供奉給佛像、\ `支提`_\ 或其他神聖場所的供品——根據這條戒條，該物品也將被視為“未給予”。儘管《經分別》在\ `《捨墮》三十`_\ 和\ `《波逸提》八二`_\ 中提到了此類財產，但由於某種原因，它在這裡沒有提及。然而，《義註》對這一點的判斷反映了當時流行的一種習俗，即向\ `支提`_\ （包括佛像）贈送貴重物品，將它們奉獻給\ `支提`_\ ，而不是僧團。一些中世紀印度佛教銘文表達了這樣的想法，即\ `支提`_\ 或\ `支提`_\ 內的佛舍利（如果有的話）實際上擁有這些物品，但《義註》指出，這些物品有主人，只因有人為了\ `支提`_\ 的緣故正在看守它們。例如，在\ `康提`_\ 裝飾\ `佛牙`_\ 箱的珠寶或曼谷供奉\ `玉佛`_\ 的供品就屬於這一類。根據《義註》，僧團有義務保管這些物品，但沒有所有權。在對該戒條和\ `《附隨》`_\ 一九的討論中，它指出給予僧伽的物品可以用於\ `支提`_\ —例如，有助於其裝飾或維護—但給予\ `支提`_\ 的物品不可作為僧伽之用。
+
+   * - From the Commentary’s discussion of this type of ownership, it would appear that if there are no longer any human beings watching over a cetiya, the items donated to it would no longer count as having an owner and thus could be removed for safekeeping, preferably to another cetiya. Any bhikkhu who took such items for himself, however, would be risking the wrath of the devas who might be guarding the cetiya. This is why it is traditional in such cases to conduct a ceremony formally requesting the permission of any guardian devas, at the same time promising not to take such items for one’s own use.
+
+     - 從《義註》對這種類型所有權的討論來看，如果不再有任何人看管\ `支提`_\ ，捐贈給它的物品將不再被視為有主物，因此可以被移走以妥善保管，最好是移到另一個\ `支提`_\ 。然而，任何比丘若將這些物品據為己有，就會冒著觸怒可能守護\ `支提`_\ 的天神的風險。這就是為什麼在這種情況下，傳統上會舉行儀式，正式請求任何守護天神的許可，同時承諾不會將這些物品據為己用。
+
+   * - The Vibhaṅga states that items belonging to common animals or petas are not covered by this rule. On this point, see the discussion under Non-offenses, below.
+
+     - 《經分別》說，屬於一般動物或鬼的物品不屬於此戒條的範圍。關於這一點，請參閱下面「不犯」部分的討論。
+
+.. _NP 30: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
+.. _Pc 82: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
+.. _《捨墮》三十: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
+.. TODO FIXME: replace link to 《捨墮》三十
+.. _《波逸提》八二: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
+.. TODO FIXME: replace link to 《波逸提》八二
+.. _支提: https://zh.wikipedia.org/wiki/%E6%94%AF%E6%8F%90_(%E5%BB%BA%E7%AD%91)
+.. _康提: https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%8F%90
+.. _佛牙: https://zh.wikipedia.org/wiki/%E4%BD%9B%E7%89%99%E5%AF%BA
+.. _玉佛: https://zh.wikipedia.org/wiki/%E5%B8%95%E4%BD%9B%E9%99%80%E5%A4%A7%E6%91%A9%E5%B0%BC%E5%AF%B6%E7%8E%89%E4%BD%9B
+.. _《附隨》: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003
