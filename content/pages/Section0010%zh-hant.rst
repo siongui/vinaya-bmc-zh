@@ -310,3 +310,23 @@
 .. _佛牙: https://zh.wikipedia.org/wiki/%E4%BD%9B%E7%89%99%E5%AF%BA
 .. _玉佛: https://zh.wikipedia.org/wiki/%E5%B8%95%E4%BD%9B%E9%99%80%E5%A4%A7%E6%91%A9%E5%B0%BC%E5%AF%B6%E7%8E%89%E4%BD%9B
 .. _《附隨》: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Perception**
+     - **感知**
+
+   * - For the act of taking what is not given to count as theft, one must also perceive the object as not given. Thus there is no offense if one takes an object, even if it is not given, if one sincerely believes that it is ownerless or thrown away. Similarly, if a bhikkhu takes an object mistaking it for his own or as belonging to a friend who has given him permission to take his things on trust, there is no offense even if the assumption about the trust proves to be a misperception. Also, a bhikkhu who takes things from the Community’s common stores, on the assumption that he has the right to help himself, commits no offense even if the assumption proves false.
+
+     - 將未給予而拿取算做盜竊的行為，該人必須察覺該物品是未給予的。因此，如果一個人真誠地相信它是無主的或被丟棄的，那麼即使它是未給予的，如果該人拿走了它，也沒有犯戒。同樣地，如果比丘拿走一件物品，誤認為它是他自己的，或者是屬於一位允許他以信託方式拿走他的東西的朋友的，即使有關信託的假設被證明是一種誤解，也沒有犯戒。此外，比丘假設他有權利自助，從僧團的公共儲藏中拿東西，即使這個假設被證明是錯的，也沒有犯戒。
+
+   * - The Vinīta-vatthu contains a case in which a bhikkhu, spotting some objects during the day, returns to steal them at night. However, instead of taking the objects he spotted, he ends up taking some possessions of his own. He earns a dukkaṭa for his efforts.
+
+     - 《Vinīta_-vatthu_》中有一個案例，一位比丘在白天發現一些物品，然後在晚上回來偷它們。然而，他最終沒有拿走他發現的物品，而是拿走了自己的一些所有物。他透過自己的努力犯了《突吉羅》。
+
+   * - None of the texts discuss the possible case in which one might be in doubt as to whether the object in question is not given, perhaps because the compilers felt that the factor of intention, discussed next, would not apply in such cases. Thus it would not be an offense under this rule. However, the wise policy when one is in doubt about an item’s ownership would be not to take the item for one’s own, or at most to take it on loan, as explained below.
+
+     - 沒有任何文本討論懷疑該物品是否尚未給予的這種可能情況，也許是因為編譯者認為接下來討論的意圖因素不適用於這種情況。因此，根據該戒條，這不會構成犯戒。然而，當一個人對某件物品的所有權有疑問時，明智之舉是不要將其據為己有，或最多借用它，如下所述。
