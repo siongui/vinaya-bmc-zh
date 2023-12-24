@@ -330,3 +330,15 @@
    * - None of the texts discuss the possible case in which one might be in doubt as to whether the object in question is not given, perhaps because the compilers felt that the factor of intention, discussed next, would not apply in such cases. Thus it would not be an offense under this rule. However, the wise policy when one is in doubt about an item’s ownership would be not to take the item for one’s own, or at most to take it on loan, as explained below.
 
      - 沒有任何文本討論懷疑該物品是否尚未給予的這種可能情況，也許是因為編譯者認為接下來討論的意圖因素不適用於這種情況。因此，根據該戒條，這不會構成犯戒。然而，當一個人對某件物品的所有權有疑問時，明智之舉是不要將其據為己有，或最多借用它，如下所述。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - The act of taking what is not given, even when one perceives it as not given, counts as theft only if one’s intention is to steal it. Thus, as the non-offense clauses say, a bhikkhu incurs no offense if he takes an object temporarily or on trust. On these points, see the discussion under Non-offenses, below. Also, the Vinīta-vatthu rules that a bhikkhu who, seeing an article left in a place where it might be damaged, puts it in safe keeping for the owner, commits no offense.
+
+     - 拿取未給予之物的行為，即使察覺到它尚未給予，只有當一個人的意圖是偷竊它時，才算是偷竊。因此，正如不犯條款所說，比丘如果暫時或受託取用某物，並不會犯戒。關於這點，請參閱下面「不犯」部分的討論。此外，《Vinīta_-vatthu_》規定，比丘看到一件物品被留在可能會被損壞的地方，為該物主妥善保管，這並不構成犯戒。
