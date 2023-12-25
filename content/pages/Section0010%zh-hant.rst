@@ -350,3 +350,27 @@
    * - *Placing a condition on the place* means thinking, “If I can take this item past such-and-such a place (such as a gateway), I’ll steal it; if anyone sees me beforehand, I’ll pretend that I’m just looking at it and will return it to its place.” Because one has not definitely decided to steal it when first picking it up, the theft is committed only when one takes the item past the determined place.
 
      - *對地點設定條件*\ 意味著心想：「如果我可以帶著這個物品通過某某地點（例如出入口），我就會偷它；如果有人先看到我，我會假裝我只是在看它，把它放回原處。」由於第一次拿起物品時並沒有明確決定要偷竊，只有當拿物品通過了決意的地點時才算偷竊。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - Assuming that all of the above conditions are met—the object belongs to someone else, one perceives it as belonging to someone else, and one intends to steal it—if one then takes it, that constitutes stealing. The question then arises as to precisely what acts constitute *taking*.
+
+     - 假設上述所有條件都滿足，即該物品是別人的，自己察覺到該物是屬於別人的，並意圖去偷竊它—如果拿走了它，就構成偷竊。那麼問題來了，究竟什麼行為才構成\ *拿取*\ 。
+
+   * - The Vibhaṅga, instead of giving a systematic answer to this question, provides a long list of possible situations and then defines how *taking* is defined in each case. Simply reading through the list can require some patience, and it’s easy to sympathize with the bhikkhus in the past who had to memorize it. Here, to shorten the discussion, we will reverse its order, listing first the actions that qualify as taking and then the situations to which the actions apply. Actions requiring only minor clarification will be explained in the list; those requiring extended discussion will be explained below.
+
+     - 《經分別》並沒有對這個問題給出系統的答案，而是提供了一長串可能的情況，然後定義了在每種情況下的怎樣算是「\ *拿取*\ 」。單純地閱讀這個列單可能需要一些耐心，而且很容易同情過去必須記住它的比丘們。在這裡，為了縮短討論，我們將顛倒其順序，首先列出符合「拿取」的行動，然後列出這些行動適用的情況。只需要進行少量澄清的行動將在列表中進行解釋；下文將解釋那些需要進一步討論的內容。
+
+   * - *Moving the object from its place:* objects buried in the ground; sitting on the ground; sitting on another object sitting on the ground; hanging from a place above ground, such as a peg or clothesline; floating, flying, or dropping in mid-air; sitting in a boat; sitting in a vehicle; an object that one has caused another person to drop; footless animals, animals that one might pick up or push from their place (according to the Commentary, this also covers larger footed animals that are lying down); objects that one has been asked to guard. The Vibhaṅga makes clear that items in a vehicle also count as taken when the vehicle is moved from its place.
+
+     - *將物品從原來的位置移動：*\ 埋在地下的物品；坐在地上；坐在地上的另一個物品上；懸掛在地面以上的地方，例如掛鉤或晾衣繩；漂浮、飛行或掉落在半空中；坐在船上；坐在車內；一個人導致另一個人掉落的物品；無足動物，人們可能會從其所在位置拿起或推走的動物（根據《義註》，這也包括躺著的較大有足動物）；被要求看守的物品。《經分別》明確規定，當車輛從其位置移動時，在車輛中的物品也算作被拿走。
+
+   * - *“Cutting off” a fistful:* objects inside a container. According to the Commentary, this means reaching into the container and grabbing, say, a fistful of coins in such a way that the coins in the fist do not touch any of the other coins in the container. In this case, the taking would be accomplished before the object was removed from the container.
+
+     - *「切掉」一把：*\ 容器內的物品。根據《義註》，這意味著伸手進入容器並抓住一把硬幣，使得拳頭中的硬幣不接觸容器中的任何其他硬幣。在這種情況下，在將物品從容器中取出之前就完成了「拿取」。
