@@ -374,3 +374,27 @@
    * - *“Cutting off” a fistful:* objects inside a container. According to the Commentary, this means reaching into the container and grabbing, say, a fistful of coins in such a way that the coins in the fist do not touch any of the other coins in the container. In this case, the taking would be accomplished before the object was removed from the container.
 
      - *「切掉」一把：*\ 容器內的物品。根據《義註》，這意味著伸手進入容器並抓住一把硬幣，使得拳頭中的硬幣不接觸容器中的任何其他硬幣。在這種情況下，在將物品從容器中取出之前就完成了「拿取」。
+
+   * - *Sticking a vessel into a pool of liquid or pile of objects and causing some of the pool or pile to enter the vessel:* objects inside a container; water or any liquid, whether in a container or not. Again, the Commentary states that the objects or liquid in one’s vessel must not touch the remaining objects or liquid outside the vessel. And, again, in the case of taking objects or liquid situated in a container in this way, the taking would be accomplished before the objects or liquid were removed from the container.
+
+     - 將器皿插入一池液體或一堆物體中，並使一池液體或一堆物體中的一些進入器皿：容器內的物體；水或任何液體，無論是否在容器中。《義註》再次指出，器皿中的物體或液體不得接觸器皿外的剩餘物體或液體。並且，再次，在以這種方式拿取位於容器中的物體或液體的情況下，「拿取」將在物體或液體從器皿中移出之前完成。
+
+   * - *Removing entirely from the mouth of a container:* objects too long or large to be taken from a container in a vessel or fistful.
+     - *完全從容器口中取出：*\ 太長或太大而無法從容器中以器皿拿取或一把拿取的物體。
+
+   * - *Drinking liquid from a container:* This would apply to drinking from the container without moving the container from its place. If the container is moved from its place, that would constitute the taking. As with the fistful, the Commentary argues that the liquid is taken only when the liquid ingested does not make contact with the liquid not ingested. This can be done either by swallowing, by closing one’s lips, or by removing one’s mouth from the container.
+
+     - *從容器中飲用液體：*\ 這適用於在不將容器移離其位置的情況下從容器中飲用液體。若容器被移離其原位，則構成「拿取」。與一把一樣，《義註》認為只有當攝入的液體不與未攝入的液體接觸時才算「拿取」液體。這可以透過吞嚥、閉上嘴唇或將嘴從容器移開來完成。
+
+   * - *Moving the object from one part of one’s body to another:* an object that one is already carrying before deciding to steal it. The Vibhaṅga recognizes five body parts here: head, upper torso, hip, and each of the hands. The Commentary defines *head* as anything above the neck; *upper torso* as anything below the head down, on the torso, to the level of the sternum, and on the arm, to the elbow; *hip* as the remainder of the body below the upper torso; and *hand* as the arm from the elbow on down. The Commentary notes that this definition applies only to cases where the owners have not asked one to carry the article for them. Neither the Commentary nor the Sub-commentary explains this condition, but a possible reason might be that if they have asked a bhikkhu to carry the article for them, without their intending for him to give it to someone else, it would count as guarded by him or deposited with him for safe keeping, and thus would fall under another category. If, on the other hand, they asked him to carry the object to give to someone else and he decided to take it for himself, the case would come under Deceit, discussed below.
+
+     - *將物品從身體的一個部位移動到另一個部位：*\ 在決定偷竊之前已經攜帶的物品。《經分別》在這裡識別出五個身體部位：頭部、上軀幹、臀部和每隻手。《義註》將\ *頭部*\ 定義為頸部以上的任何部位；\ *上軀幹*\ ，為頭部以下、軀幹至胸骨水平、手臂至手肘；\ *臀部*\ 是上軀幹以下身體的其餘部分；\ *手*\ ，為手臂從手肘以下。《義註》指出，這項定義僅適用於所有者未要求他人為其搬運物品的情況。《義註》和《複註》都沒有解釋這個條件，但一個可能的原因是，如果他們要求比丘為他們攜帶該物品，而不是想讓他將其交給其他人，那麼該物品將被視為由比丘守護，或存放在他那裡安全保管，因此屬於另一類。另一方面，如果他們要求他攜帶該物品送給其他人，而他決定將其據為己有，則該情況將屬於如下所述的\ **欺詐**\ 行為。
+
+   * - *Dropping the object:* an object one is already carrying before deciding to steal it.
+     - *掉落物品：*\ 在決定偷竊前已經攜帶的物品。
+
+   * - *Causing the object to move a hairbreadth upstream, downstream, or across a body of water:* a boat or any similar vessel floating in water.
+     - *導致物體向上游、下游或穿過水體移動毫髮寬度：*\ 一艘船或漂浮在水中的任何類似載體。
+
+   * - *Breaking an embankment so that water flows out:* water in a lake, canal, or reservoir.
+     - *破壞堤防使水流出：*\ 湖泊、運河或水庫中的水。
