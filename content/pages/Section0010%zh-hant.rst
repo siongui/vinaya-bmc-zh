@@ -398,3 +398,15 @@
 
    * - *Breaking an embankment so that water flows out:* water in a lake, canal, or reservoir.
      - *破壞堤防使水流出：*\ 湖泊、運河或水庫中的水。
+
+   * - *Causing an animal to move all its feet:* two-footed (this includes human beings, i.e., slaves), four-footed, many-footed animals. According to the Commentary, this applies whether one touches the animal or simply lures it or threatens it without touching it. If the animal is lying down, simply getting it to get up on its feet counts as taking it. In the case of helping a slave to escape from slavery, if the slave follows one’s order or advice to escape, one is guilty of taking; but if one simply informs the slave of good ways to reach freedom or offers food or protection along the way, one incurs no offense.
+
+     - *使動物移動其所有的腳：*\ 兩足動物（這包括人類，即奴隸）、四足動物、多足動物。根據《義註》，無論是接觸動物還是只是引誘它或威脅它而不觸摸它，這都適用。如果動物躺著，只要讓它站起來就可以算「拿取」它。在幫助奴隸逃脫奴隸身份的情況下，如果奴隸聽從某人的命令或建議逃跑，則犯了「拿取」；但是，如果一個人只是告訴奴隸獲得自由的好方法，或者沿途提供食物或保護，那麼就不會犯戒。
+
+   * - *Cutting down:* plants growing in place, whether on dry land or in a body of water. The Commentary states that once the plant is cut totally through, then even though it doesn’t yet fall down—as when a tree is entangled in the branches of neighboring trees—it is nevertheless taken.
+
+     - *砍伐：*\ 植物就地生長，無論是在旱地或水體。《義註》指出，一旦植物被完全砍斷，即使它還沒有倒下——就像一棵樹被鄰近樹木的樹枝纏住一樣——它仍然是被「拿取」了。
+
+   * - *Causing the owner to give up efforts (§) to regain possession:* pieces of land (fields, orchards, building sites), buildings, objects deposited with a bhikkhu for safekeeping. (According to the Commentary, items loaned to a bhikkhu also fall into this category.) According to the Vibhaṅga, if a case of this sort goes to court, this type of taking is completed when the owner finally loses the case. The Vinaya-mukha adds that if the owner appeals the case after the first hearing, the taking is accomplished when the owner loses in the highest court to which he/she makes an appeal.
+
+     - *導致所有者放棄重新擁有的努力（§）：*\ 土地（田地、果園、建築工地）、建築物、交由比丘保管的物品。（根據《義註》，借給比丘的物品也屬於這一類。）根據《經分別》，如果此類案件進入法庭，當所有者最終敗訴時，這種類型的「拿取」就完成了。《戒律入口》補充說，如果所有者在第一次聽證會後對案件提出上訴，則當所有者在他/她提出上訴的最高法院敗訴時，「拿取」就完成了。
