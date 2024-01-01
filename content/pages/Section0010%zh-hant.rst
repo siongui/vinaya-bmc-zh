@@ -488,7 +488,19 @@
 
    * - None of the texts discuss the question of contraband, i.e., articles that a customs official would confiscate outright rather than allow into a country after the payment of a fee. Apparently, such goods smuggled through a customs house would fall into this category, although—as even the payment of a fee would not legally get them through customs—their selling value would be the determining factor in calculating the seriousness of the offense.
 
-     - 這些文本都沒有討論違禁品問題，即海關官員在支付費用後會直接沒收而不是允許進入某個國家的物品。顯然，透過海關走私，即使支付費用也不能合法地通過海關的貨物屬於這一類，而它們的售價將成為計算犯戒嚴重性的決定性因素。
+     - 這些文本都沒有討論違禁品問題，即海關官員在支付費用後會直接沒收而不是允許入境的物品。顯然，透過海關走私，即使支付費用也不能合法地通過海關的貨物屬於這一類，而它們的售價將成為計算犯戒嚴重性的決定性因素。
+
+   * - *c. Malfeasance:* The Vinīta-vatthu includes an unusual case in which a wealthy man with two heirs—a son and a nephew—tells Ven. Ajjuka, “When I am gone, show the place (where my treasure is buried) (§) to whichever of my heirs has the greater faith.” After the man’s death, Ven. Ajjuka sees that the nephew has the greater faith and so shows the place of the treasure to him. The nephew awards the Saṅgha with a large donation; the son accuses Ven. Ajjuka of having wrongfully deprived him of his rightful inheritance. On hearing this, Ven. Ānanda first accuses Ven. Ajjuka of a pārājika, but when the wealthy man’s wishes are revealed, Ven. Upāli convinces Ven. Ānanda that Ven. Ajjuka committed no offense.
+
+     - *c. 瀆職：*\ 《Vinīta_-vatthu_》包括一個\ `不尋常的案例`_\ ，其中一位有兩個繼承人（一個兒子和一個侄子）的富人告訴阿酬尊者，“當我離開後，請向我的繼承人中有較大信心者，展示那個地方（埋藏我的寶藏的地方）（§）。” 男子死後，阿酬尊者見侄子信心較大，便向他展示了寶藏所在。姪子給僧團一大筆布施；兒子指責阿酬尊者錯誤地剝奪了他的合法繼承權。聞言，阿難尊者首先指責阿酬尊者犯《波羅夷》，但當富人的願望被揭露時，優波離尊者說服了阿難尊者，阿酬尊者沒有犯戒。
+
+   * - None of the texts discuss the details of this case, which seems to have postdated the Buddha’s parinibbāna. The apparent assumption underlying the ruling is that when X dies, the inheritance he leaves to Y belongs to Y from the moment of X’s death. Otherwise, the items in question would be ownerless until apportioned out among the heirs, and thus would not fulfill the factor of object under this rule. Also, the taking in this case would be accomplished in line with the Vibhaṅga’s standard definition for *taking* with regard to the objects involved—and not necessarily when the cheated heir gives up trying to reclaim the inheritance—for in Ven. Ajjuka’s case Ven. Ānanda was ready to impose a pārājika even though the son had not abandoned his claim.
+
+     - 沒有任何文本討論這個案例的細節，這似乎是在佛陀般涅槃之後發生的。該裁決背後的明顯假設是，當 X 死亡時，他留給 Y 的遺產從 X 死亡那一刻起就屬於 Y。否則，相關物品在分配給繼承人之前將是無主的，因此不符合本戒條下的對象因素。此外，在這種情況下，「拿取」將按照《經分別》對所涉及對象的\ *拿取*\ 標準定義來完成－而不一定是當被欺騙的繼承人放棄試圖收回遺產時－因為在阿酬尊者的案例中，儘管兒子並沒有放棄聲稱擁有，阿難尊者已經準備好施加《波羅夷》了。
+
+   * - *d. Destruction of property:* The Vibhaṅga states that if a bhikkhu breaks, scatters, burns, or otherwise renders unusable the property of another person, he incurs a dukkaṭa. Thus the simple destruction of property does not fulfill the factor of effort under this rule. The Vinīta-vatthu contains a case in which a bhikkhu intends to steal some grass belonging to the Community but ends up setting fire to it instead, thus incurring a dukkaṭa. The Commentary notes that this ruling applies only because the bhikkhu did not move the grass from its place. What this means is that if he had first taken the grass from its place and then destroyed it in any way, the factor of effort under this rule would have been fulfilled and—all other factors of a pārājika offense being present—he would have been guilty of the full offense.
+
+     - *d. 毀損財物：*\ 《經分別》說，如果比丘破壞、散落、焚燒或以其他方式使他人的財產無法使用，他犯《突吉羅》。因此，單純地破壞財產並不能滿足此戒條下的努力因素。《Vinīta_-vatthu_》中記載了一個案例，一名比丘打算偷一些屬於僧團的草，但結果卻放火燒了它，從而犯《突吉羅》。《義註》指出，這項裁決適用僅因比丘沒有將草移離原處的情況。這意味著，如果他首先將草從原處上拿走，然後以任何方式摧毀它，則此戒條下的努力因素將被滿足，並且－《波羅夷》違犯的所有其他因素都存在－他將完全違犯此戒。
 
 .. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. _《捨墮》一八: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
@@ -497,3 +509,4 @@
 .. _《大品》.一.62: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0107a09
 .. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
 .. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
+.. _不尋常的案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0088a12

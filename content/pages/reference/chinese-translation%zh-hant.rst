@@ -321,6 +321,9 @@
 
   * `Monks giving food to lay people: Against the Vinaya? - Q & A - Discuss & Discover <https://discourse.suttacentral.net/t/monks-giving-food-to-lay-people-against-the-vinaya/13591>`_
 
+- `พระจำพรรษารูปเดียวรับกฐินได้หรือไม่? โดยพระมหาภาคภูมิ สีลานนฺโท <https://www.youtube.com/watch?v=gz2MHUuMTcY>`_
+  (`翻譯 <https://translate.google.com/?sl=auto&tl=zh-TW&text=%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B8%B2%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%90%E0%B8%B4%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B9%88%3F%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%20%E0%B8%AA%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%BA%E0%B9%82%E0%B8%97&op=translate>`__)
+
 
 巴利文獻相關
 ++++++++++++
