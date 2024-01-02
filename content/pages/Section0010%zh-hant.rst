@@ -533,3 +533,21 @@
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. _《捨墮》二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The value of the object**
+     - **對象的價值**
+
+   * - As stated above, any case of stealing counts as an offense, but the gravity of the offense is determined by the value of the object. This is the point of the phrase in the rule reading, “just as when there is the taking of what is not given, kings… would banish him, saying… ‘You are a thief.’” In other words, for a theft to entail a pārājika it must be a criminal case, which in the time of the Buddha meant that the goods involved were worth at least five *māsakas*, a unit of money used at the time. Goods valued collectively at more than one māsaka but less than five are grounds for a thullaccaya; goods valued collectively at one māsaka or less, grounds for a dukkaṭa. As the Commentary notes, the value of the articles is determined by the price they would have fetched at the time and place of the theft. As stated above, in the case of smuggling the Vibhaṅga measures the value of the object, for the purpose of this rule, as the duty owed on it, not the value of the object itself.
+
+     - 如上所述，任何偷竊行為都被視為犯戒，但犯戒的嚴重程度取決於對象物品的價值。這就是戒條中這句話的要點，「就像當有人拿取未給予的東西時，國王......會驅逐他，說......『你是一個小偷。』」換句話說，竊盜行為涉及《波羅夷》的，一定是刑事犯罪案件，在佛陀時代，這意味著所涉及的貨物至少價值 5 *摩沙迦*\ （當時使用的貨幣單位）。總價值超過 1 摩沙迦但低於 5 摩沙迦的商品，犯《偷蘭遮》；總價值為 1 摩沙迦或更低的商品，犯《突吉羅》。正如《義註》指出的那樣，物品的價值取決於它們在被偷的時間和地點的售價。如上所述，在走私的情況下，就本戒條而言，《經分別》是以對其所徵收的關稅作為物品的價值，而不是物品本身的價值。
+
+   * - This leaves us with the question of how a māsaka would translate into current monetary rates. No one can answer this question with any certainty, for the oldest attempt to peg the māsaka to the gold standard dates from the V/Sub-commentary, which sets one māsaka as equal to 4 rice grains’ weight of gold. At this rate, the theft of an item worth 20 rice grains’ (1/24 troy ounce) weight of gold or more would be a pārājika offense.
+
+     - 這給我們留下了一個問題：摩沙迦如何轉換為當前的貨幣利率。沒有人能夠肯定地回答這個問題，因為將摩沙迦與金本位掛鉤的最古老的嘗試可以追溯到V/《複註》，其中將 1 摩沙迦等於 4 粒米重的黃金。按照這個利率，偷竊價值 20 粒米（1/24 `金衡盎司`_\ ）黃金或更高將構成《波羅夷》罪。
+
+.. _金衡盎司: https://zh.wikipedia.org/wiki/%E9%87%91%E8%A1%A1%E7%9B%8E%E5%8F%B8
