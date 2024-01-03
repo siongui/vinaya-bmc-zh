@@ -285,7 +285,7 @@
 
    * - The Vinīta-vatthu mentions an interesting case in which the groundskeeper in an orchard permits bhikkhus to take fruit from the orchard, even though he was not authorized to do so. The bhikkhus committed no offense.
 
-     - 《Vinīta_-vatthu_》提到了一個有趣的案例，果園的園丁允許比丘們從果園拿水果，儘管他沒有被授權這樣做。比丘們沒有犯任何戒。
+     - 《Vinīta_-vatthu_》提到了一個有趣的案例，`果園的園丁允許比丘們從果園拿水果`_，儘管他沒有被授權這樣做。比丘們沒有犯任何戒。
 
    * - The Commentary adds that if people are guarding an object as the property of a location—for example, an offering to a Buddha image, cetiya, or other sacred place—the object would also qualify as “not given” under this rule. Although the Vibhaṅga mentions property of this sort under `NP 30`_ and `Pc 82`_, for some reason it doesn’t mention it here. Nevertheless, the Commentary’s judgment on this point reflects a custom that had become widespread by its time, that of giving valuable items to a cetiya (this includes Buddha images) and dedicating them not to the Saṅgha but to the cetiya. Some medieval Indian Buddhist inscriptions express the idea that the cetiya or the Buddha relics (if any) within the cetiya actually own such objects, but the Commentary states that these objects have an owner simply in the sense that human beings are watching over them for the purpose of the cetiya. The jewels decorating the reliquary of the Sacred Tooth in Kandy or the offerings to the Emerald Buddha in Bangkok, for example, would fall under this category. According to the Commentary, the Saṅgha is duty-bound to care for such items but has no rights of ownership over them. In its discussion both of this rule and of Pv.XIX, it states that items given to the Saṅgha may be used for the purpose of the cetiya—for example, to contribute to its decoration or upkeep—but items given to the cetiya may not be used for the purpose of the Saṅgha.
 
@@ -299,6 +299,7 @@
 
      - 《經分別》說，屬於一般動物或鬼的物品不屬於此戒條的範圍。關於這一點，請參閱下面「不犯」部分的討論。
 
+.. _果園的園丁允許比丘們從果園拿水果: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0086a14
 .. _NP 30: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
 .. _Pc 82: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
 .. _《捨墮》三十: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
@@ -549,5 +550,33 @@
    * - This leaves us with the question of how a māsaka would translate into current monetary rates. No one can answer this question with any certainty, for the oldest attempt to peg the māsaka to the gold standard dates from the V/Sub-commentary, which sets one māsaka as equal to 4 rice grains’ weight of gold. At this rate, the theft of an item worth 20 rice grains’ (1/24 troy ounce) weight of gold or more would be a pārājika offense.
 
      - 這給我們留下了一個問題：摩沙迦如何轉換為當前的貨幣利率。沒有人能夠肯定地回答這個問題，因為將摩沙迦與金本位掛鉤的最古老的嘗試可以追溯到V/《複註》，其中將 1 摩沙迦等於 4 粒米重的黃金。按照這個利率，偷竊價值 20 粒米（1/24 `金衡盎司`_\ ）黃金或更高將構成《波羅夷》罪。
+
+   * - One objection to this method of calculation is that some of the items mentioned in the Vinīta-vatthu as grounds for a pārājika when stolen—e.g., a pillow, a bundle of laundry, a raft, a handful of rice during a famine—would seem to be worth much less than 1/24 troy ounce of gold. However, we must remember that many items regarded as commonplace now may have been viewed as expensive luxuries at the time.
+
+     - 對這種計算方法的一個反對意見是，《Vinīta_-vatthu_》中提到的一些被偷時作為《波羅夷》依據的物品——例如，一個枕頭、一捆衣物、一艘木筏、飢荒期間的一把米——其價值似乎遠低於 1/24 金衡盎司黃金。然而，我們必須記住，許多現在被認為司空見慣的物品在當時可能被視為昂貴的奢侈品。
+
+   * - In addition, there is one very good reason for adopting the standard set by the V/Sub-commentary: It sets a high value for the least article whose theft would result in a pārājika. Thus when a bhikkhu steals an item worth 1/24 troy ounce of gold or more, there can be no doubt that he has committed the full offense. When the item is of lesser value, there will be inescapable doubt—and when there is any doubt concerning a pārājika, the tradition of the Vinaya consistently gives the bhikkhu the benefit of the doubt: He is not expelled. A basic principle operating throughout the texts is that it is better to risk letting an offender go unpunished than to risk punishing an innocent bhikkhu.
+
+     - 此外，採用V/《複註》設定的標準還有一個很好的理由：它為偷竊會導致《波羅夷》的最少物品設定了很高的價值。因此，當比丘偷竊價值 1/24 金衡盎司黃金或更高的物品時，毫無疑問他已經完全違犯此戒。當物品的價值較低時，就會不可避免地產生懷疑——當對《波羅夷》有任何疑問時，戒律的傳統始終給予比丘以懷疑的好處：他不會被驅逐。貫穿整個文本的一個基本原則是，冒著讓犯戒者不受懲罰的風險，比冒著懲罰無辜比丘的風險要好。
+
+   * - There is a second advantage to the V/Sub-commentary’s method of calculation: its precision and clarity. Some people have recommended adopting the standard expressed in the rule itself—that if the theft would result in flogging, imprisonment, or banishment by the authorities in that time and at that place, then the theft would constitute a pārājika—but this standard creates more problems than it would solve. In most countries the sentence is largely at the discretion of the judge or magistrate, and the factor of value is only one among many taken into account when determining the penalty. This opens a whole Pandora’s box of issues, many of which have nothing to do with the bhikkhu or the object he has taken—the judge’s mood, his social philosophy, his religious background, and so forth—issues that the Buddha never allowed to enter into the consideration of how to determine the penalty for a theft.
+
+     - V/《複註》的計算方法還有第二個優點：精確、清晰。有些人建議採用戒條本身所表達的標準，即如果偷竊行為會導致當時該地點的當局鞭打、監禁或流放，那麼該偷竊行為就構成《波羅夷》，但這一標準產生的問題多於其解決的問題。在大多數國家，刑罰很大程度上由法官或治安官酌情決定，價值因素只是決定刑罰時考慮的眾多因素之一。這就打開了整個潘朵拉魔盒的問題，其中許多問題與比丘或他所拿取的對象物品無關——法官的情緒、他的社會哲學、他的宗教背景等等——佛陀從未允許在對竊盜罪的刑罰如何確定時考慮的問題。
+
+   * - Thus the V/Sub-commentary’s method of calculation has the benefits that it is a quick and easy method for determining the boundaries between the different levels of offense in any modern currency; it involves no factors extraneous to the tradition of the Vinaya, and—as noted above—it draws the line at a value above which there can be no doubt that the penalty is a pārājika.
+
+     - 因此，V/《複註》的計算方法的優點是，它是一種快速、簡單的方法，可以確定任何現代貨幣的不同犯戒程度之間的界限；它不涉及與戒律傳統無關的因素，而且——如上所述——它劃定了一個價值，高於這個價值，毫無疑問，懲罰就是《波羅夷》。
+
+   * - The Commentary, arguing from two cases in the Vinīta-vatthu, states that if a bhikkhu steals several items on different occasions, the values of the different items are added together to determine the severity of the offense *only if they were stolen as part of a single plan or intention.* If they are stolen as a result of separate intentions, each act of stealing is treated as a separate offense whose severity depends on the value of the individual item(s) stolen in that act. This point is best explained with examples:
+
+     - 《義註》根據《Vinīta_-vatthu_》中的兩個案例進行論證，指出如果比丘在不同場合偷竊了幾件物品，\ *則只有當這些物品屬於單一計劃或意圖的一部分被偷竊時，*\ 才將不同物品的價值加在一起以確定犯戒的嚴重程度。如果它們是因不同意圖而被偷竊，則每次偷竊行為均被視為單獨的犯戒行為，其嚴重程度取決於該行為中被偷竊的個別物品的價值。這一點最好用例子來解釋：
+
+   * - In one of the Vinīta-vatthu cases, a bhikkhu steals ghee from a jar “little by little.” This, according to the Commentary, means that first he decides to steal a spoonful of ghee from a jar. After swallowing the spoonful, he decides to steal one more. After that he decides to steal another, and so on until he has finished the jar. Because each spoonful was stolen as a consequence of a separate plan or intention, he incurs several dukkaṭas, each for the theft of one spoonful of ghee.
+
+     - 在一個《Vinīta_-vatthu_》案件中，一位比丘「一點一點地」從罐子裡偷竊酥油。根據《義註》，這意味著他首先決定從罐子裡偷一匙酥油。吞下一匙後，他決定再偷一匙。之後他決定再偷一個，依此類推，直到他吃完這個罐子。由於每匙酥油都是因單獨的計劃或意圖而被偷竊，他犯了數次《突吉羅》，因偷竊每一匙酥油而犯一次《突吉羅》。
+
+   * - If, however, he decides at one point to steal enough lumber to build himself a hut and then steals a plank from here and a rafter from there, taking lumber over many days at different places from various owners, he commits one offense in accordance with the total value of all the lumber stolen, inasmuch as he took all the pieces of wood as a consequence of one prior plan.
+
+     - 然而，如果他在某一時刻決定偷足夠的木材來為自己建造一座小屋，然後從這裡偷一塊木板，從那裡偷一根椽子，並在許多天內從不同的所有者那裡獲取木材，那麼他就根據所有被盜木材的總價值犯了戒，因為他根據先前的計劃拿走了所有木材。
 
 .. _金衡盎司: https://zh.wikipedia.org/wiki/%E9%87%91%E8%A1%A1%E7%9B%8E%E5%8F%B8
