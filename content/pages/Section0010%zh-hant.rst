@@ -580,3 +580,23 @@
      - 然而，如果他在某一時刻決定偷足夠的木材來為自己建造一座小屋，然後從這裡偷一塊木板，從那裡偷一根椽子，並在許多天內從不同的所有者那裡獲取木材，那麼他就根據所有被盜木材的總價值犯了戒，因為他根據先前的計劃拿走了所有木材。
 
 .. _金衡盎司: https://zh.wikipedia.org/wiki/%E9%87%91%E8%A1%A1%E7%9B%8E%E5%8F%B8
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Derived offenses**
+     - **衍生違犯**
+
+   * - In addition to the lesser offenses related to the value of the object, the Vibhaṅga also lists lesser offenses related to two factors of the full offense under this rule: effort and perception.
+
+     - 除了與物品的價值相關的較輕的犯戒之外，《經分別》還列出了與此戒條下的完全違犯的兩個因素相關的較輕的犯戒：努力和感知。
+
+   * - With regard to effort, the Vibhaṅga states that the derived offenses begin when one walks toward the object with the intent of stealing it, with each separate act—and in the case of walking toward the object, each step—incurring a dukkaṭa, up to a point just prior to the actual stealing where the offenses turn into thullaccayas. Where this point occurs depends on the act constituting the actual taking, as follows:
+
+     - 關於努力，《經分別》指出，當一個人帶著偷竊的意圖走向該物品時，衍生的犯戒就開始了，每一個單獨的行為——在走向該物品的情況下，每一步——都會犯一次《突吉羅》，直到在實際偷竊之前的那一時刻，犯戒行為變成了《偷蘭遮》。這一時刻的發生點取決於構成實際「拿取」的行為，如下：
+
+   * - *Moving the object from its place:* all steps up through touching the object: dukkaṭas. Making the object budge without fully moving it from its place: a thullaccaya.
+
+     - *將物體從其位置移開：*\ 直到觸摸物體的所有步驟：《突吉羅》。使物體移動而不將其完全移離其位置：《偷蘭遮》。
