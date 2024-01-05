@@ -378,7 +378,7 @@
 
    * - *Sticking a vessel into a pool of liquid or pile of objects and causing some of the pool or pile to enter the vessel:* objects inside a container; water or any liquid, whether in a container or not. Again, the Commentary states that the objects or liquid in one’s vessel must not touch the remaining objects or liquid outside the vessel. And, again, in the case of taking objects or liquid situated in a container in this way, the taking would be accomplished before the objects or liquid were removed from the container.
 
-     - 將器皿插入一池液體或一堆物體中，並使一池液體或一堆物體中的一些進入器皿：容器內的物體；水或任何液體，無論是否在容器中。《義註》再次指出，器皿中的物體或液體不得接觸器皿外的剩餘物體或液體。並且，再次，在以這種方式拿取位於容器中的物體或液體的情況下，「拿取」將在物體或液體從器皿中移出之前完成。
+     - *將器皿插入一池液體或一堆物體中，並使一池液體或一堆物體中的一些進入器皿：*\ 容器內的物體；水或任何液體，無論是否在容器中。《義註》再次指出，器皿中的物體或液體不得接觸器皿外的剩餘物體或液體。並且，再次，在以這種方式拿取位於容器中的物體或液體的情況下，「拿取」將在物體或液體從器皿中移出之前完成。
 
    * - *Removing entirely from the mouth of a container:* objects too long or large to be taken from a container in a vessel or fistful.
      - *完全從容器口中取出：*\ 太長或太大而無法從容器中以器皿拿取或一把拿取的物體。
@@ -599,4 +599,32 @@
 
    * - *Moving the object from its place:* all steps up through touching the object: dukkaṭas. Making the object budge without fully moving it from its place: a thullaccaya.
 
-     - *將物體從其位置移開：*\ 直到觸摸物體的所有步驟：《突吉羅》。使物體移動而不將其完全移離其位置：《偷蘭遮》。
+     - *將物品從原來的位置移動：*\ 直到觸摸物品的所有步驟：《突吉羅》。使物品移動而不將其完全移離其位置：《偷蘭遮》。
+
+   * - *“Cutting off” a fistful:* all steps up through touching the object: dukkaṭas. Making the object budge without fully cutting off a fistful: a thullaccaya.
+
+     - *「切掉」一把：*\ 直到觸摸物品的所有步驟：《突吉羅》。使物品移動而不完全切掉一把：《偷蘭遮》。
+
+   * - *Sticking a vessel into a pool of liquid or pile of objects and causing some of the pool or pile to enter the vessel:* all steps up through touching the pool or pile: dukkaṭas. Making the pool or pile budge without fully getting five māsakas worth separated from the pool or pile and inside the vessel: a thullaccaya.
+
+     - *將器皿插入一池液體或一堆物體中，並使一池液體或一堆物體中的一些進入器皿：*\ 直到接觸該池或該堆的所有步驟：《突吉羅》。使該池或該堆移動，而沒有完全將價值 5 摩沙迦從該池或該堆分離出來並進入器皿內：《偷蘭遮》。
+
+   * - *Removing entirely from the mouth of a container:* all steps up through touching the object: dukkaṭas. Lifting the object: a thullaccaya. Bringing it up to the level of the mouth of the container: another thullaccaya.
+
+     - *完全從容器口中取出：*\ 直到接觸物品的所有步驟：《突吉羅》。舉起物品：《偷蘭遮》。將其提升到容器口的高度：另一個《偷蘭遮》。
+
+   * - *Drinking liquid from a container:* all steps up through drinking one māsaka worth of liquid as part of one prior plan (§): dukkaṭas. Drinking between one and five māsakas’ worth of liquid: a thullaccaya.
+
+     - *從容器中飲用液體：*\ 作為先前計劃的一部分，直到飲用價值 1 摩沙迦的液體的所有步驟 (§)：《突吉羅》。飲用價值 1 到 5 摩沙迦的液體：《偷蘭遮》。
+
+   * - *Moving the object from one part of one’s body to another or dropping it:* all steps up through touching the object with the intent to move it or drop it: dukkaṭas. Moving it but not to the point of putting it on another part of the body or dropping it: a thullaccaya.
+
+     - *將物體從身體的一個部分移動到另一個部分或將其掉落：*\ 意圖移動或放下物體，直到觸摸它的所有步驟：《突吉羅》。移動它，但還不到將其放在身體的其他部位或將其掉落：《偷蘭遮》。
+
+   * - *Causing a boat to move a hair-breadth upstream, downstream, or across a body of water:* all steps up through loosening the moorings and/or touching it: dukkaṭas. Making the boat rock without causing it to move a hair-breadth upstream, downstream, or across a body of water: a thullaccaya.
+
+     - *讓船隻向上游、下游或穿過水體移動毫髮寬度：*\ 鬆開繫泊裝置和/或接觸它之前的所有步驟：《突吉羅》。使船搖晃而不使其向上游、下游或穿過水體移動毫髮寬度：《偷蘭遮》。
+
+   * - *Breaking an embankment so that water flows out:* all steps up through breaking the embankment and letting up to one māsaka’s worth of water flow out: dukkaṭas. Letting between one and five māsakas’ worth of water flow out: a thullaccaya.
+
+     - *破壞堤防使水流出：*\ 破壞堤防，讓價值 1 摩沙迦的水流出之前的所有步驟：《突吉羅》。讓價值 1 到 5 摩沙迦的水流出來：《偷蘭遮》。
