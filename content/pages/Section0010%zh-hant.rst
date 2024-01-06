@@ -628,3 +628,35 @@
    * - *Breaking an embankment so that water flows out:* all steps up through breaking the embankment and letting up to one māsaka’s worth of water flow out: dukkaṭas. Letting between one and five māsakas’ worth of water flow out: a thullaccaya.
 
      - *破壞堤防使水流出：*\ 破壞堤防，讓價值 1 摩沙迦的水流出之前的所有步驟：《突吉羅》。讓價值 1 到 5 摩沙迦的水流出來：《偷蘭遮》。
+
+   * - *Causing an animal to move all its feet:* all steps up through touching the animal: dukkaṭas. Getting it to move any of its feet prior to its moving its last foot: a thullaccaya for each step.
+
+     - *使動物移動其所有的腳：*\ 直到接觸動物的所有步驟：《突吉羅》。讓它在移動最後一隻腳之前先移動任何一隻腳：每一步都是一次《偷蘭遮》。
+
+   * - *Cutting down:* all steps prior to the next to the last chop needed to cut the plant through: dukkaṭas. The next to the last chop: a thullaccaya.
+
+     - *砍伐：*\ 在最後一次劈砍之前將植物砍斷所需的所有步驟：《突吉羅》。緊接著最後一次劈砍：《偷蘭遮》。
+
+   * - *Causing the owner to give up efforts (§) to regain possession of objects handed to one for safe keeping:* all steps up through telling the owner, “I didn’t receive (§) it”: dukkaṭas. Inducing doubt in the owner’s mind as to whether he/she will get the object back: a thullaccaya. If the case goes to court and the bhikkhu loses, he incurs another thullaccaya.
+
+     - *導致所有者放棄重新擁有交給某人保管的物品的努力（§）：*\ 所有步驟直到告訴所有者“我沒有收到（§）它”：《突吉羅》。使所有者懷疑他/她是否會拿回物品：《偷蘭遮》。如果案件告上法庭而比丘敗訴，他就會再犯一次《偷蘭遮》。
+
+   * - *Causing the owner to give up efforts (§) to regain possession of land:* all steps up to laying claim to the land: dukkaṭas. Inducing doubt in the owner’s mind as to whether he/she will lose the land: a thullaccaya. Again, if the case goes to court and the bhikkhu loses, he incurs another thullaccaya.
+
+     - *導致所有者放棄重新擁有土地的努力（§）：*\ 直到聲稱土地所有權的所有步驟：《突吉羅》。使所有者懷疑他/她是否會失去土地：《偷蘭遮》。再者，如果案件告上法庭而比丘敗訴，他就會再犯一次《偷蘭遮》。
+
+   * - *Shifting a boundary marker:* all steps up through removing the boundary marker from its original place: dukkaṭas. Any steps between that and putting the boundary marker in a new place: thullaccayas.
+
+     - *移動界碑：*\ 直到將界碑從其原始位置移走的所有步驟：《突吉羅》。在移走和將界碑放置在新位置之間的任何步驟：《偷蘭遮》。
+
+   * - *Taking a dutiable item through a customs area without paying duty:* all steps up through touching the object with the intent of taking it out of the customs area: dukkaṭas. Making the object move without fully moving it from the customs area: a thullaccaya.
+
+     - *帶應課稅物品通過海關區而不繳納關稅：*\ 直到觸摸該物品以將其帶出海關區的所有步驟：《突吉羅》。使物品移動而不將其完全移出海關區域：《偷蘭遮》。
+
+   * - The commentaries state that when a heavier penalty is incurred in offenses of this sort, only that penalty is counted, and the preceding lighter ones are nullified. They derive this principle from a passage in the Vibhaṅga to `Sg 10-13`_ and, using the Great Standards, apply it to all the rules. Thus, for example, if a bhikkhu trying to steal a book simply touches it, he incurs a string of dukkaṭas for each step in walking up to the book and taking hold of it. If he budges the book slightly but not so much as to move it completely from its place, the dukkaṭas are nullified and replaced with a thullaccaya. If he actually takes the book, that nullifies the thullaccaya and replaces it with a pārājika.
+
+     - 註釋指出，此類犯戒僅計算受到的較重懲罰，之前較輕的懲罰無效。他們從\ `《僧殘》十到十三`_\ 的《經分別》中的一段經文中得出這一原則，並使用《四大教示》，將其應用於所有戒條。因此，舉例來說，如果一個比丘試圖偷一本書，僅僅只是觸碰它，那麼他走到這本書並抓住它的每一步，犯一連串《突吉羅》。如果他稍微移動這本書，但又沒有完全移動它的位置，那麼《突吉羅》就會失效，並被《偷蘭遮》取代。如果他真的拿走了這本書，那麼《偷蘭遮》就會失效，並以《波羅夷》取而代之。
+
+.. _Sg 10-13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
+.. _《僧殘》十到十三: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
+.. TODO FIXME: replace link to 《僧殘》十到十三
