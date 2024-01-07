@@ -671,3 +671,34 @@
 .. _Pc 68: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc68
 .. _《波逸提》六八: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc68
 .. TODO FIXME: replace link to 《波逸提》六八
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Accomplices**
+     - **共犯**
+
+   * - A bhikkhu can commit an offense not only if he himself steals an object, but also if he incites another to steal. The offenses involved in the acts leading up to the theft are as follows:
+     - 比丘不僅自己偷竊物品，而且煽動他人偷竊，都可能犯戒。導致偷竊的行為所涉及的犯戒行為如下：
+
+   * - If a bhikkhu tells an accomplice to take an object that would be grounds for a pārājika, he incurs a dukkaṭa. When the accomplice agrees to do so, the instigator incurs a thullaccaya. Once the accomplice succeeds in taking the object as instructed—regardless of whether he gets away with it, and of whether he shares it with the instigator—the instigator incurs a pārājika. If the accomplice is a bhikkhu, he too incurs a pārājika. If the object would be grounds for a thullaccaya or a dukkaṭa, the only penalties incurred prior to the actual theft would be dukkaṭas.
+
+     - 如果比丘告訴共犯拿走一件可以當《波羅夷》根據的物體，他就會犯《突吉羅》。當共犯同意這樣做時，教唆者就會犯《偷蘭遮》。一旦共犯按照指示成功拿取了物品——無論他是否逃脫懲罰，也無論他是否與教唆者分享該物品——教唆者都會犯《波羅夷》。如果共犯是比丘，他也會犯《波羅夷》。如果該物品是《偷蘭遮》或《突吉羅》的根據，則在實際偷竊之前發生的唯一懲罰將是《突吉羅》。
+
+   * - The Commentary insists that if the accomplice is sure to take the item, the bhikkhu incurs a pārājika as soon as the accomplice agrees to take it. However, as the Vinaya-mukha notes, this contradicts the Canon, and there is no way to measure whether a proposed theft is a sure thing or not.
+
+     - 《義註》堅持認為，如果共犯肯定會拿走該物品，那麼一旦共犯同意拿走該物品，比丘就會犯《波羅夷》。然而，正如《戒律入口》所指出的，這與《聖典》互相矛盾，並且無法衡量提議的偷竊是否是肯定的事情。
+
+   * - If there is any confusion in carrying out the instructions—e.g., if the accomplice, instead of taking the object specified by the instigator, takes something else instead; or if he is told to take it in the afternoon but instead takes it in the morning—the instigator incurs only the penalties for proposing the theft and persuading the accomplice, and not the penalty for the theft itself. The same holds true if the instigator rescinds his order before the theft takes place, but the accomplice goes ahead and takes the object anyway.
+
+     - 如果在執行指示時出現任何混亂，例如，如果共犯沒有拿走教唆者指定的物品，而是拿走了其他東西；或者如果他被告知在下午取走，而在早上取走，則教唆者僅因提出偷竊行為並說服共犯而受到懲罰，而不會因偷竊本身而受到懲罰。如果教唆者在偷竊發生前撤銷命令，但共犯卻繼續拿走物品，情況也是如此。
+
+   * - According to the Vibhaṅga, an instigator who wishes to call off the theft before it is carried out but who for one reason or another cannot get his message to the accomplice in time, incurs the full penalty for the completed theft.
+
+     - 根據《經分別》，如果教唆者希望在偷竊行為實施之前取消偷竊行為，但由於某種原因無法及時向共犯傳達訊息，則將因已完成的偷竊行為而受到全額懲罰。
+
+   * - The Commentary also adds that the factor of the thief’s perception does not affect the penalties. In other words, if Bhikkhu A tells Bhikkhu B to steal object X, and B takes Y, thinking it to be X, A is absolved of any responsibility for the theft. Conversely, if B takes X, thinking it to be Y, A is guilty of the theft.
+
+     - 《義註》還補充說，偷竊者的感知因素並不影響懲罰。換句話說，如果比丘 A 告訴比丘 B 偷東西 X，而 B 認為 Y 是 X，就拿走了 Y，那麼 A 就免除了偷竊的任何責任。相反，如果 B 拿走了 X，並認為它是 Y，則 A 犯有偷竊罪。
