@@ -730,3 +730,42 @@
    * - As with the extrapolation from the discussion of signs, this application of the Great Standards will also be useful when we discuss unauthorized use of credit cards, below. It will also prove useful in our discussion of the following rule.
 
      - 與從示意動作的討論中推斷一樣，當我們在下面討論未經授權使用信用卡時，《四大教示》的應用也將很有用。它在我們接下來的戒條討論中也證明是有用的。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Shared responsibility**
+     - **共同責任**
+
+   * - If bhikkhus go in a group to commit a theft but only one of them does the actual taking, all still incur the penalty coming from the theft. Similarly, if they steal valuables worth collectively more than five māsakas but which when divided among them yield shares worth less than five māsakas each, all incur a pārājika. According to the Commentary, any bhikkhus who assist a bhikkhu in a fraudulent case also incur the same offense he does: a pārājika if he wins, a thullaccaya if he loses. This judgment, however, must be qualified by noting that the assistant incurs these penalties only if he perceives the case to be fraudulent.
+
+     - 如果比丘們結伴偷竊，但只有一個人實際偷竊，則所有人仍會受到偷竊的懲罰。同樣，如果他們偷竊的物品的總價值超過 5 摩沙迦，但在分配時所獲得的份額每人價值低於 5 摩沙迦，則所有人都犯《波羅夷》。根據《義註》，任何在詐欺案件中協助比丘的比丘也會招致與他所犯的同樣的罪行：如果他贏了，則為《波羅夷》，如果他輸了，則為《偷蘭遮》。然而，這項判斷必須受到限制，因為協助者只有在察覺到案件具有欺詐性時才會受到這些懲罰。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Special cases**
+     - **特別案例**
+
+   * - As mentioned above, the notion of stealing covers a wide range of actions. To delineate this range, the texts discuss a variety of actions that border on stealing, some of them coming under this rule, some of them not.
+
+     - 如上所述，偷竊的概念涵蓋了廣泛的行為。為了界定這個範圍，文本討論了各種接近偷竊的行為，其中一些屬於這一戒條，有些則不屬於這一戒條。
+
+   * - *Belongings of the Saṅgha.* According to the Commentary to `NP 30`_, an item belongs to the Saṅgha when donors, intending for it to be Saṅgha property, offer it to one or more bhikkhus representing the Saṅgha, and those bhikkhus receive it, although not necessarily into their hands. Saṅgha property thus counts as “what is not given” as far as individual bhikkhus are concerned, for it has an owner—the Saṅgha of all times and places—and is guarded by the individual Community of bhikkhus.
+
+     - *僧伽的財物。*\ 根據\ `《捨墮》三十`_\ 的《義註》，當施主打算將某件物品作為僧團財產，將其供養給代表僧團的一名或多名比丘時，該物品就屬於僧團，而那些比丘會收到它，儘管不一定在他們手中。因此，就比丘個人而言，僧伽財產被視為「未給予的東西」，因為它有一個所有者—一切時間和地點的僧伽—並由個別比丘僧體守護。
+
+   * - The Canon divides Saṅgha property into two sorts: light/inexpensive *(lahu-bhaṇḍa)* and heavy/expensive *(garu-bhaṇḍa)*. Light property includes such things as robes, bowls, medicine, and food; heavy property, such things as monastery land, buildings, and furnishings (see `BMC2, Chapter 7`_). The Buddha gave permission for individual Communities to appoint officials to be responsible for the proper use of Saṅgha property. The officials responsible for light property are to distribute it among the members of the Community, following set procedures to ensure that the distribution is fair (see `BMC2, Chapter 18`_). Once an individual member has received such property, he may regard it as his own and use it as he sees fit.
+
+     - 《聖典》將僧伽財產分為兩類：輕的/便宜的\ *（lahu-bhaṇḍa）*\ 和重的/昂貴的\ *（garu-bhaṇḍa）*\ 。輕財產包括袈裟、缽、藥、食等；重財產，例如寺院土地、建築物和傢俱等（參見\ `《佛教修道準則 第二冊》第七章`_\ ）。佛陀允許各僧團任命執事負責僧伽財產的適當使用。負責輕財產的執事應按照既定程序將其分配給僧團成員，以確保分配公平（請參閱\ `《佛教修道準則 第二冊》第十八章`_\ ）。個別成員收到該財產後，可以將其視為自己的財產並按照自己的意願使用。
+
+.. _BMC2, Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
+.. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. _《佛教修道準則 第二冊》第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第七章
+.. _《佛教修道準則 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十八章
