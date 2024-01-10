@@ -757,11 +757,15 @@
 
    * - *Belongings of the Saṅgha.* According to the Commentary to `NP 30`_, an item belongs to the Saṅgha when donors, intending for it to be Saṅgha property, offer it to one or more bhikkhus representing the Saṅgha, and those bhikkhus receive it, although not necessarily into their hands. Saṅgha property thus counts as “what is not given” as far as individual bhikkhus are concerned, for it has an owner—the Saṅgha of all times and places—and is guarded by the individual Community of bhikkhus.
 
-     - *僧伽的財物。*\ 根據\ `《捨墮》三十`_\ 的《義註》，當施主打算將某件物品作為僧團財產，將其供養給代表僧團的一名或多名比丘時，該物品就屬於僧團，而那些比丘會收到它，儘管不一定在他們手中。因此，就比丘個人而言，僧伽財產被視為「未給予的東西」，因為它有一個所有者—一切時間和地點的僧伽—並由個別比丘僧體守護。
+     - *僧伽的財物。*\ 根據\ `《捨墮》三十`_\ 的《義註》，當施主打算將某件物品作為僧團財產，將其供養給代表僧團的一名或多名比丘時，該物品就屬於僧團，而那些比丘收到它，儘管不一定在他們手中。因此，就比丘個人而言，僧伽財產被視為「未給予的東西」，因為它有一個所有者—一切時間和地點的僧伽—並由個別比丘僧體守護。
 
    * - The Canon divides Saṅgha property into two sorts: light/inexpensive *(lahu-bhaṇḍa)* and heavy/expensive *(garu-bhaṇḍa)*. Light property includes such things as robes, bowls, medicine, and food; heavy property, such things as monastery land, buildings, and furnishings (see `BMC2, Chapter 7`_). The Buddha gave permission for individual Communities to appoint officials to be responsible for the proper use of Saṅgha property. The officials responsible for light property are to distribute it among the members of the Community, following set procedures to ensure that the distribution is fair (see `BMC2, Chapter 18`_). Once an individual member has received such property, he may regard it as his own and use it as he sees fit.
 
      - 《聖典》將僧伽財產分為兩類：輕的/便宜的\ *（lahu-bhaṇḍa）*\ 和重的/昂貴的\ *（garu-bhaṇḍa）*\ 。輕財產包括袈裟、缽、藥、食等；重財產，例如寺院土地、建築物和傢俱等（參見\ `《佛教修道準則 第二冊》第七章`_\ ）。佛陀允許各僧團任命執事負責僧伽財產的適當使用。負責輕財產的執事應按照既定程序將其分配給僧團成員，以確保分配公平（請參閱\ `《佛教修道準則 第二冊》第十八章`_\ ）。個別成員收到該財產後，可以將其視為自己的財產並按照自己的意願使用。
+
+   * - In the case of heavy property, though, the officials are responsible for seeing that it is allotted for proper use in the Community, *but the individual bhikkhus allowed to use it may not regard it as their own personal property.* This is an important point. At most, such items may be taken on loan or exchanged—with the approval of the Community—for other heavy property of equal value. A bhikkhu who gives such items away to anyone—ordained or not—perceiving it as his to give, incurs a thullaccaya no matter what the value of the object (`Cv.VI.15.2`_—see `BMC2, Chapter 7`_). Of course, if he knows that it is not his to give or take, then in appropriating it as his own he incurs the penalty for stealing.
+
+     - 然而，就重財產而言，執事有責任確保其在僧團內分配得當，\ *但被允許使用的比丘個人不可將其視為自己的個人財產。*\ 這是很重要的一點。最多，這些物品可以借出，或在僧團的批准下交換為其他同等價值的重財產。比丘將這些物品給予任何人—出家與否—認為這是他的而給予，無論該物品的價值如何，犯《偷蘭遮》（\ `《小品》.六.15.2`_\ —見\ `《佛教修道準則 第二冊》第七章`_\ ）。當然，如果他知道給予或拿取的東西不是他的，那麼在將其據為己有時，他就會受到偷竊的懲罰。
 
 .. _BMC2, Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
 .. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
@@ -769,3 +773,5 @@
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第七章
 .. _《佛教修道準則 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十八章
+.. _Cv.VI.15.2: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Cv.VI.15.2
+.. _《小品》.六.15.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0231a01
