@@ -767,6 +767,22 @@
 
      - 然而，就重財產而言，執事有責任確保其在僧團內分配得當，\ *但被允許使用的比丘個人不可將其視為自己的個人財產。*\ 這是很重要的一點。最多，這些物品可以借出，或在僧團的批准下交換為其他同等價值的重財產。比丘將這些物品給予任何人—出家與否—認為這是他的而給予，無論該物品的價值如何，犯《偷蘭遮》（\ `《小品》.六.15.2`_\ —見\ `《佛教修道準則 第二冊》第七章`_\ ）。當然，如果他知道給予或拿取的東西不是他的，那麼在將其據為己有時，他就會受到偷竊的懲罰。
 
+   * - The Buddha was highly critical of any bhikkhu who gives away heavy property of the Saṅgha. In the origin story to `Pr 4`_, he cites the case of a bhikkhu who, hoping to find favor with a lay person, gives that person some of the Saṅgha’s heavy property. Such a bhikkhu, he says, is one of the five great thieves of the world.
+
+     - 佛陀嚴厲批評任何給予僧伽重財產的比丘。在\ `《波羅夷》四`_\ 的起源故事中，他引用了一位比丘的例子，該比丘希望得到在家人的青睞，並給予該在家人一些僧伽的重財產。他說，這樣的比丘是世間五大盜賊之一。
+
+   * - However, the Vinīta-vatthu includes a case where bhikkhus visiting a monastery arrange for a lay person to pick and give them some of the fruit growing in the monastery. The Buddha, in judging the case, states that they committed no offense as they were taking the fruit just for their own consumption. This implies that if they were to take the fruit for other purposes—to have it sold, for instance—they would be guilty of an offense. The Commentary adds that visiting bhikkhus have this right only if the resident bhikkhus are not caring for the fruit trees, if the trees had not been donated to provide funds for a particular purpose in the monastery, or if the resident bhikkhus eat from the trees as if they alone were the owners and are not willing to share. In other words, the visiting bhikkhus, as a matter of courtesy, should ask the residents first. If the residents share, one may take what they offer. If they don’t, and the trees are not dedicated to another purpose, one may take just enough for one’s own consumption. The Commentary also adds that if the monastery is vacant, one may go ahead and take the fruit, for it is meant for all bhikkhus who come.
+
+     - 然而，《Vinīta_-vatthu_》中提到了一個例子，比丘們參觀寺院時，會安排一位居士採摘寺院裡生長的一些水果，送給他們。佛陀在審判此案時指出，他們並沒有犯任何戒，因為他們只是為了自己食用而摘取水果。這意味著，如果他們將這些水果用於其他目的（例如出售），他們就會犯戒。《義註》補充說，只有當常住比丘不照管果樹、或者當這些果樹沒有被布施來為寺院的特定目的提供資金、或者當常住比丘以果樹為食，就好像他們是唯一的所有者並且不願意分享，來訪的比丘才享有這項權利。換句話說，來訪的比丘，出於禮貌，應該先詢問居住者。如果居住者願意分享，可以接受他們提供的東西。如果他們不分享，而這些樹也沒有專門用於其他目的，那麼可拿走只足夠自己食用的東西。《義註》還補充說，如果寺院空著，可以直接去拿水果，因為它是為所有前來的比丘準備的。
+
+   * - The Vinīta-vatthu also notes that a bhikkhu who takes heavy property of the Saṅgha donated for use in a particular monastery and uses it elsewhere incurs a dukkaṭa. If he takes it on loan, he commits no offense.
+
+     - 《Vinīta_-vatthu_》也指出，比丘將被布施於特定寺院使用的僧伽重財產用於其他地方，犯《突吉羅》。如果他借用它，他並沒有犯戒。
+
+   * - *Deceit.* If a bhikkhu uses a deliberate lie to deceive another person into giving an item to him, the transgression is treated not as a case of stealing—because, after all, the item is given to him—but rather as a case of lying. If the lie involves making false claims to superior meditative attainments, it is treated under `Pr 4`_. If not, it is treated under `Pc 1`_. The Vinīta-vatthu gives seven examples: five cases where, during a distribution of requisites in the Community, a bhikkhu asks for and is given an extra portion for a non-existent bhikkhu; and two where a bhikkhunī approaches her teacher’s lay supporter and asks for medicines, saying that they will be for her teacher, although she actually ends up using them herself. In all of these cases, the penalty is a pācittiya for lying under `Pc 1`_.
+
+     - *欺詐。*\ 如果比丘故意撒謊，欺騙他人給他某樣東西，那麼這種犯戒行為就不會被視為偷竊—因為畢竟該物品是被給予他的—而是被視為撒謊。如果謊言涉及虛假聲稱具有卓越的修行成就，則根據\ `《波羅夷》四`_\ 進行處理。如果不是，則根據\ `《波逸提》一`_\ 進行處理。《Vinīta_-vatthu_》給出了七個案例：五個案例中，在僧團中分發必需品期間，比丘為不存在的比丘索取額外的一份，並得到了額外的一份；另兩個案例，一位比丘尼接近她老師的在家供養者並索取藥物，並說這些藥物是給她老師的，儘管最終她自己使用了這些藥物。在所有這些案例下，根據\ `《波逸提》一`_\ ，說謊的懲罰是《波逸提》。
+
 .. _BMC2, Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
 .. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
 .. _《佛教修道準則 第二冊》第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
@@ -775,3 +791,8 @@
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十八章
 .. _Cv.VI.15.2: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Cv.VI.15.2
 .. _《小品》.六.15.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0231a01
+.. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
+.. _《波羅夷》四: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
+.. TODO FIXME: replace link to 《波羅夷》四
+.. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
+.. _《波逸提》一: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
