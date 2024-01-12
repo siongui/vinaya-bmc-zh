@@ -777,11 +777,23 @@
 
    * - The Vinīta-vatthu also notes that a bhikkhu who takes heavy property of the Saṅgha donated for use in a particular monastery and uses it elsewhere incurs a dukkaṭa. If he takes it on loan, he commits no offense.
 
-     - 《Vinīta_-vatthu_》也指出，比丘將被布施於特定寺院使用的僧伽重財產用於其他地方，犯《突吉羅》。如果他借用它，他並沒有犯戒。
+     - 《Vinīta_-vatthu_》也指出，比丘將被布施於特定寺院使用的僧伽重財產\ `用於其他地方`_\ ，犯《突吉羅》。如果他借用它，他並沒有犯戒。
 
    * - *Deceit.* If a bhikkhu uses a deliberate lie to deceive another person into giving an item to him, the transgression is treated not as a case of stealing—because, after all, the item is given to him—but rather as a case of lying. If the lie involves making false claims to superior meditative attainments, it is treated under `Pr 4`_. If not, it is treated under `Pc 1`_. The Vinīta-vatthu gives seven examples: five cases where, during a distribution of requisites in the Community, a bhikkhu asks for and is given an extra portion for a non-existent bhikkhu; and two where a bhikkhunī approaches her teacher’s lay supporter and asks for medicines, saying that they will be for her teacher, although she actually ends up using them herself. In all of these cases, the penalty is a pācittiya for lying under `Pc 1`_.
 
      - *欺詐。*\ 如果比丘故意撒謊，欺騙他人給他某樣東西，那麼這種犯戒行為就不會被視為偷竊—因為畢竟該物品是被給予他的—而是被視為撒謊。如果謊言涉及虛假聲稱具有卓越的修行成就，則根據\ `《波羅夷》四`_\ 進行處理。如果不是，則根據\ `《波逸提》一`_\ 進行處理。《Vinīta_-vatthu_》給出了七個案例：五個案例中，在僧團中分發必需品期間，比丘為不存在的比丘索取額外的一份，並得到了額外的一份；另兩個案例，一位比丘尼接近她老師的在家供養者並索取藥物，並說這些藥物是給她老師的，儘管最終她自己使用了這些藥物。在所有這些案例下，根據\ `《波逸提》一`_\ ，說謊的懲罰是《波逸提》。
+
+   * - The Commentary, in its discussion of the bhikkhus taking an extra portion for a non-existent bhikkhu, insists that the penalty for lying applies only to cases where donors have already given the requisites to the Community. If, prior to their giving the requisites to the Community, a bhikkhu asks them directly for a portion for a non-existent bhikkhu, the Commentary says that he has committed a theft under this rule. This, however, contradicts the ruling in the two cases involving the bhikkhunī, who asks directly from the donor. Thus it would appear that in any case where a bhikkhu obtains an article from a donor through deceit, the penalty would be the pācittiya for lying.
+
+     - 《義註》在討論比丘為一個不存在的比丘收取額外的份額時，堅持認為撒謊的懲罰只適用於布施者已經向僧團給予必需品的情況。如果在向僧團給予必需品之前，一位比丘直接向他們索取一位不存在的比丘的份額，《義註》說根據這條戒條，他犯了偷竊。然而，這與涉及直接向施主索取的比丘尼的兩起案例的裁決相矛盾。因此，在任何情況下看來，當比丘透過欺詐手段從施主那裡獲得物品時，懲罰是因說謊的《波逸提》。
+
+   * - The question arises, what about a bhikkhu who, given an item to take to someone else, originally plans to take it to the intended recipient but later changes his mind? It does not seem right to impose a heavier penalty on him than on a person who uses deceit to get the item to begin with, so it seems best to impose on him the dukkaṭa for a broken promise (`Mv.III.14.1-14`_—see the discussion under `Pc 1`_). For the principles surrounding the courier’s right to take an item on trust in the donor or the recipient, see the discussion of trust under the non-offense clauses.
+
+     - 那麼問題來了，一位比丘，被給予一件物品要拿給別人，原本打算把它拿給指定的接受者，但後來又改變了主意，該怎麼處置？對他施加比對一開始就使用欺詐手段獲得物品的人更重的懲罰似乎是不正確的，因此似乎最好對他施加《突吉羅》來懲罰他的失信（\ `《大品》.三.14.1-14`_\ —請參閱\ `《波逸提》一`_\ 下的討論）。有關遞送者基於施主或接受者的信任而收取物品的權利的原則，請參閱不犯條款下對信任的討論。
+
+   * - *Receiving stolen goods.* Accepting a gift of goods or purchasing them very cheaply, knowing that they were stolen, would in Western criminal law result in a penalty similar to stealing itself. However, neither the Canon nor the commentaries mention this case. The closest they come is in the Vinīta-vatthu, where a groundskeeper gives bhikkhus fruit from the orchard under his care, even though it was not his to give, and there was no offense for the bhikkhus. From this it can be inferred that there is no offense for receiving stolen goods, even knowingly, although a bhikkhu who does so would not be exempt from the civil law and the consequent proceedings, in the course of which the Community would probably urge him to disrobe.
+
+     - *收受贓物。*\ 在西方刑法中，接受商品禮物或以非常便宜的價格購買商品，而且明知這些商品是被偷的，將導致與偷竊本身類似的懲罰。然而，《聖典》和《義註》均未提及此種情況。最接近的地方是在《Vinīta_-vatthu_》，\ `園丁從他照管的果園裡給予比丘們水果`_\ ，儘管這不是他的，卻仍給予比丘們，而比丘們並沒有犯戒。由此可以推斷，收受贓物並不構成犯戒，即使在知情的情況下，儘管這樣做的比丘不能免於民法和隨後的訴訟，在此過程中，僧團可能會敦促他還俗。
 
 .. _BMC2, Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
 .. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
@@ -794,5 +806,10 @@
 .. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
 .. _《波羅夷》四: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
 .. TODO FIXME: replace link to 《波羅夷》四
+.. _用於其他地方: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0235a08
 .. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
 .. _《波逸提》一: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
+.. TODO FIXME: replace link to 《波逸提》一
+.. _Mv.III.14.1-14: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.14.4
+.. _《大品》.三.14.1-14: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0207a07
+.. _園丁從他照管的果園裡給予比丘們水果: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0086a14
