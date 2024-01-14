@@ -510,9 +510,6 @@
 
      - *a. 虛假交易：*\ 比丘製造偽鈔或使用偽造砝碼。當偽造品被接受時，「拿取」就完成了。然而，本情況似乎屬於\ **欺詐**\ 類別（見下文），因為偽造品是謊言的一種形式。如果物品的所有者接受了偽造品並交出物品作為回報，則該物品不能被描述為被偷竊。然而，根據\ `《捨墮》二十`_\ ，以這種方式透過交易獲得的物品必須被捨出，並且如果僧團願意的話，可以對違犯者實施治罪羯磨（參見\ `《佛教修道準則 第二冊》第二十章`_\ ）。
 
-       .. TODO FIXME: replace link to 《捨墮》二十
-       .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
-
    * - *b. Robbery:* Using threats, a bhikkhu compels the owner of an object to give it to him. The taking is accomplished when the owner complies. This would not count as giving because the owner is not giving the item willingly.
 
      - *b. 搶劫：*\ 比丘利用威脅，強迫物品的所有者將物品交給他。當所有者服從時，「拿取」即告完成。這不算是給予，因為物品的所有者並不是自願給予的。
@@ -533,7 +530,9 @@
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. _《捨墮》二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
+.. TODO FIXME: replace link to 《捨墮》二十
 .. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
 
 
 .. list-table::
@@ -803,6 +802,10 @@
 
      - 舉幾個例子：一位比丘打碎了別人的油罐，或是把排泄物放入油中，毀掉了油。一位負責看守僧團儲藏室的比丘讓一群其他比丘進入儲藏室取回他們留在那裡的所有物；他們忘記關門，在他記得檢查之前，小偷就溜進來偷東西了。一群小偷偷了一捆芒果，但被所有者追趕，丟下逃跑；一位比丘看到芒果，以為它們已被丟掉，於是請人將芒果手授給他後吃掉它們。一位比丘看到一頭野豬被困在陷阱中，出於慈悲，將其釋放，但無法讓陷阱的主人接受他的所作所為。《義註》說，在上述每一種情況下，相關比丘都欠貨物所有者賠償。（就芒果而言，他不僅必須賠償所有者，而且如果發現竊賊計劃回來取芒果，他也必須賠償竊賊。）如果他放棄對所有者（們）的責任，他就會犯《波羅夷》。
 
+   * - In making these judgments, the Commentary is probably following the civil law of its day, for the Canon contains no reference at all to the concept of bhaṇḍadeyya, and some of its judgments contradict the Commentary’s. As we noted above, the Vibhaṅga states that if a bhikkhu breaks, scatters, burns, or otherwise renders unusable the property of another person, he incurs a dukkaṭa. When the Vinīta-vatthu discusses cases where a bhikkhu takes an item on mistaken assumptions, or where he feels compassion for an animal caught in a trap and so sets it free, it says that there is no offense. Thus it seems strange for the Commentary to assign a pārājika to an action that, according to the Canon, carries a dukkaṭa or no penalty at all. Of course, it would be a generous policy to offer the owner reasonable compensation, but it is by no means certain that a bhikkhu would have the wherewithal or liberty to do so. Because the Canon does not allow a bhikkhu to ask his supporters for donations to pay to another lay person—except for his parents (`Mv.VIII.22`_; see `BMC2, Chapter 10`_)—there is no way a bhikkhu could raise the needed funds. The Canon places only one responsibility on a bhikkhu who causes material loss to a lay person: The Community, if it sees fit, can force him to apologize to the owner (`Cv.I.20`_; see `BMC2, Chapter 20`_). Beyond that, the Canon does not require that he make material compensation of any kind. Thus, as the Commentary’s concept of bhaṇḍadeyya is clearly foreign to the Canon, there seems no reason to adopt it.
+
+     - 在做出這些判斷時，《義註》可能遵循了當時的民法，因為《聖典》根本沒有提到 bhaṇḍadeyya 的概念，而且它的一些判斷與《義註》的判斷相矛盾。正如我們上面提到的，《經分別》指出，如果比丘破壞、散落、焚燒或以其他方式使他人的財產無法使用，他犯《突吉羅》。當《Vinīta_-vatthu_》討論比丘因錯誤的假設而拿走一件物品，或者他對被困在陷阱中的動物感到同情並因此將其釋放的情況時，它說沒有犯戒。因此，根據《聖典》，《義註》為一項犯《突吉羅》或根本沒有犯戒的行為指定了《波羅夷》的懲罰，這似乎很奇怪。當然，為所有者提供合理的補償是一項慷慨之舉，但無法確定比丘是否有足夠的資金或自由這樣做。因為《聖典》不允許比丘向他的支持者索要捐款來支付給另一個在家人——除了他的父母（\ `《大品》.八.22`_\ ；見\ `《佛教修道準則 第二冊》第十章`_\ ）——所以比丘不可能籌集到所需的資金。《聖典》只規定對在家人造成物質損失的比丘承擔一項責任：如果僧團認為合適，可以強迫他向所有者道歉（\ `《小品》.一.20`_\ ；參見\ `《佛教修道準則 第二冊》第二十章`_\ ）。除此之外，《聖典》並沒有要求他做出任何形式的物質補償。因此，由於《義註》中的 bhaṇḍadeyya 概念對於正典來說顯然是不相干的，似乎沒有理由採用它。
+
 .. _BMC2, Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
 .. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
 .. _《佛教修道準則 第二冊》第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
@@ -821,3 +824,10 @@
 .. _Mv.III.14.1-14: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.14.4
 .. _《大品》.三.14.1-14: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0207a07
 .. _園丁從他照管的果園裡給予比丘們水果: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0086a14
+.. _Mv.VIII.22: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.VIII.22.1
+.. _BMC2, Chapter 10: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
+.. _《大品》.八.22: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0386a05
+.. _《佛教修道準則 第二冊》第十章: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十章
+.. _Cv.I.20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.20
+.. _《小品》.一.20: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0024a12
