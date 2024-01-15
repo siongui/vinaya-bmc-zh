@@ -576,7 +576,7 @@
 
    * - If, however, he decides at one point to steal enough lumber to build himself a hut and then steals a plank from here and a rafter from there, taking lumber over many days at different places from various owners, he commits one offense in accordance with the total value of all the lumber stolen, inasmuch as he took all the pieces of wood as a consequence of one prior plan.
 
-     - 然而，如果他在某一時刻決定偷足夠的木材來為自己建造一座小屋，然後從這裡偷一塊木板，從那裡偷一根椽子，並在許多天內從不同的所有者那裡獲取木材，那麼他就根據所有被盜木材的總價值犯了戒，因為他根據先前的計劃拿走了所有木材。
+     - 然而，如果他在某一時刻決定偷足夠的木材來為自己建造一座小屋（孤邸），然後從這裡偷一塊木板，從那裡偷一根椽子，並在許多天內從不同的所有者那裡獲取木材，那麼他就根據所有被盜木材的總價值犯了戒，因為他根據先前的計劃拿走了所有木材。
 
 .. _金衡盎司: https://zh.wikipedia.org/wiki/%E9%87%91%E8%A1%A1%E7%9B%8E%E5%8F%B8
 
@@ -806,6 +806,22 @@
 
      - 在做出這些判斷時，《義註》可能遵循了當時的民法，因為《聖典》根本沒有提到 bhaṇḍadeyya 的概念，而且它的一些判斷與《義註》的判斷相矛盾。正如我們上面提到的，《經分別》指出，如果比丘破壞、散落、焚燒或以其他方式使他人的財產無法使用，他犯《突吉羅》。當《Vinīta_-vatthu_》討論比丘因錯誤的假設而拿走一件物品，或者他對被困在陷阱中的動物感到同情並因此將其釋放的情況時，它說沒有犯戒。因此，根據《聖典》，《義註》為一項犯《突吉羅》或根本沒有犯戒的行為指定了《波羅夷》的懲罰，這似乎很奇怪。當然，為所有者提供合理的補償是一項慷慨之舉，但無法確定比丘是否有足夠的資金或自由這樣做。因為《聖典》不允許比丘向他的支持者索要捐款來支付給另一個在家人——除了他的父母（\ `《大品》.八.22`_\ ；見\ `《佛教修道準則 第二冊》第十章`_\ ）——所以比丘不可能籌集到所需的資金。《聖典》只規定對在家人造成物質損失的比丘承擔一項責任：如果僧團認為合適，可以強迫他向所有者道歉（\ `《小品》.一.20`_\ ；參見\ `《佛教修道準則 第二冊》第二十章`_\ ）。除此之外，《聖典》並沒有要求他做出任何形式的物質補償。因此，由於《義註》中的 bhaṇḍadeyya 概念對於正典來說顯然是不相干的，似乎沒有理由採用它。
 
+   * - *Enforcement of rules.* There is one important area in which even the Commentary does not require compensation, and that is when a bhikkhu sees another bhikkhu using an inappropriate object and arranges to have it destroyed. Here the Commentary draws its argument from the origin story to this rule, in which the Buddha orders the bhikkhus to destroy an inappropriately made hut—a “potter’s hut,” which was made from earth and then fired like a pot. From this example, the Commentary draws the following judgment: If a bhikkhu starts to build an inappropriate hut in a certain territory, the “owners” of the territory (i.e., the resident senior bhikkhus) should tell him to stop. If he does not heed their decision and actually builds the hut there, then when they are able to assemble a sufficient number of righteous bhikkhus, the resident senior bhikkhus can send him an order to remove it. If, after the order has been sent three times, the hut is still not removed, the bhikkhus are to dismantle it in such a way that the materials can be reused. The original builder is then to be told to remove the materials. If he doesn’t, then the resident bhikkhus are not responsible for any loss or damage they may undergo.
+
+     - *戒條的執行。*\ 有一個重要的領域，在該領域甚至連《義註》也不要求賠償，那就是當一位比丘看到另一位比丘使用不適當的物品並安排將其銷毀時。在此，《義註》從這一戒條起源故事推引出論據，其中佛陀命令比丘摧毀一座不恰當建造的小屋（孤邸）——一座“陶工的小屋”，它是用泥土製成的，然後像鍋一樣燒製。從這個例子，《義註》得出如下判斷：如果一個比丘開始在某個地區建造不合適的小屋，該地區的「主人」（即常住的長老）應該叫他停止。如果他不聽從他們的決定，真的在那裡建造了小屋，那麼當他們能夠聚集足夠數量的正直比丘時，常住的長老就可以命令他拆除它。如果命令發出三次後，小屋仍未拆除，比丘們應將其拆除，以便材料可以重新使用。然後，原建築者將被告知移除這些材料。如果他不這樣做，那麼居住的比丘們對可能遭受的任何損失或損害不負有責任。
+
+   * - The Commentary then derives a further principle from this example to say that if Bhikkhu X, who is knowledgeable in the Vinaya, sees Bhikkhu Y using inappropriate requisites of any sort, he is entitled to get them destroyed or reduced to an appropriate form. He is also not obligated to compensate Y for any loss or inconvenience incurred.
+
+     - 然後，《義註》從這個例子中得出進一步的原則，即如果精通戒律的 X 比丘看到 Y 比丘使用任何種類的不適當的必需品，他有權將它們銷毀或簡化為適當的形式。他也沒有義務賠償 Y 所遭受的任何損失或不便。
+
+   * - *Court actions.* As stated above, if a bhikkhu knowingly starts an unfair court case against someone else and then wins it in the final court to which the accused makes appeal, he incurs a pārājika. The Commentary to the Bhikkhunīs’ `Sg 1 <https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#sg>`__, however, states that even if a bhikkhu is actually mistreated by someone—defamed, physically injured, robbed, etc.—and then tries to take a just court action against the guilty party, he incurs a pārājika if he wins. Again, this is an instance where the Commentary has no support from the Canon and, as the Vinaya-mukha points out, its assertion cannot stand. However, the training of a bhikkhu requires that he view all losses in the light of kamma and focus on looking after the state of his mind rather than on seeking compensation in social or material terms.
+
+     - *法庭訴訟。*\ 如上所述，如果一個比丘故意向他人提起不公平的法庭訴訟，然後在被告提出上訴的最終法庭中勝訴，他犯《波羅夷》。然而，比丘尼\ `《僧殘》一 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_010#0304a05>`__\ 的《義註》指出，即使比丘實際上受到某人的虐待——誹謗、身體傷害、搶劫等——然後試圖對有罪方採取公正的法庭行動，如果他贏了，他犯《波羅夷》。再一次，這是《義註》沒有得到《聖典》支持的例子，並且正如《戒律入口》所指出的那樣，它的主張是站不住腳的。然而，比丘的訓練要求他從業的角度看待所有損失，並專注於照顧自己的心態，而不是尋求社會或物質方面的補償。
+
+   * - There is no question in any of the texts that if a bhikkhu is asked to give evidence in a courtroom and does so, speaking in accordance with the facts, he commits no offense no matter what the outcome for the others involved. However, `Pc 9`_ would require that he first be authorized to do so by the Community if his testimony involves reporting the wrongdoing of others. See that rule for further details.
+
+     - 在任何文本中，毫無疑問的是，如果比丘被要求在法庭上提供證據，並且按照事實說話，那麼無論其他相關人員的結果如何，他都沒有犯戒。然而，如果他的證詞涉及舉報他人的不當行為，\ `《波逸提》九`_\ 將要求他首先獲得僧團的授權。有關更多詳細信息，請參閱該戒條。
+
 .. _BMC2, Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
 .. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
 .. _《佛教修道準則 第二冊》第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
@@ -831,3 +847,5 @@
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十章
 .. _Cv.I.20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.20
 .. _《小品》.一.20: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0024a12
+.. _Pc 9: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
+.. _《波逸提》九: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
