@@ -97,7 +97,7 @@
 
    * - The full penalty under this rule applies to any voluntary sexual intercourse with a human being, a “non-human” being (a *yakkha*, *nāga*, or *peta*), or a common animal, whether female, male, neuter, or hermaphrodite.
 
-     - 這條戒條下的全額懲罰適用於與人類、「非人類」（夜叉 *yakkha* 、龍 *nāga* 或鬼 *peta* ）或普通動物（無論是雌性、雄性、中性或雌雄同體）的任何自願性交。
+     - 這條戒條下的全額懲罰適用於與人類、「非人類」（夜叉 *yakkha* 、龍 *nāga* 或亡者及鬼 *peta* ）或普通動物（無論是雌性、雄性、中性或雌雄同體）的任何自願性交。
 
    * - Performing sexual intercourse with a dead body—even a decapitated head—also entails the full penalty if the remains of the body are intact enough for the act to be accomplished.
 
@@ -297,7 +297,7 @@
 
    * - The Vibhaṅga states that items belonging to common animals or petas are not covered by this rule. On this point, see the discussion under Non-offenses, below.
 
-     - 《經分別》說，屬於一般動物或鬼的物品不屬於此戒條的範圍。關於這一點，請參閱下面「不犯」部分的討論。
+     - 《經分別》說，屬於一般動物或亡者及鬼的物品不屬於此戒條的範圍。關於這一點，請參閱下面「不犯」部分的討論。
 
 .. _果園的園丁允許比丘們從果園拿水果: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0086a14
 .. _NP 30: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
@@ -897,3 +897,36 @@
 .. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
 .. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
 .. _簽帳金融卡: https://zh.wikipedia.org/wiki/%E5%80%9F%E8%AE%B0%E5%8D%A1
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - In addition to the blanket exemptions mentioned under the preceding rule, the Vibhaṅga’s non-offense clauses here list six exemptions to this rule. Two relate to the status of the object, two to the factor of perception, and two to the factor of intention.
+
+     - 除了上個戒條中提到的總括性豁免之外，《經分別》的不犯條款還列出了此戒條的六項豁免。其中兩個與對象的狀態有關，兩個與感知因素有關，兩個與意圖因素有關。
+
+   * - *Object*
+     - *對象*
+
+   * - There is no offense if a bhikkhu takes an object belonging (1) to a peta (§) or (2) to an animal (§). Thus there is no offense in taking the remains of a lion’s kill, regardless of how possessive the lion may feel, although the Commentary wisely advises waiting until the lion has eaten enough of its kill no longer to be hungry, for otherwise the bhikkhu may become lion’s kill himself.
+
+     - 若比丘拿走 (1) 亡者及鬼 (§) 或 (2) 動物 (§) 的物品，並不犯戒。因此，無論獅子的佔有欲有多麼強烈，拿走獅子獵物的殘骸並沒有冒犯，儘管《義註》明智地建議等到獅子吃完它的獵物後不再感到飢餓再拿走，否則比丘可能會變成獅子的獵物。
+
+   * - The term *peta*, as used in the Canon, includes not only hungry ghosts, but also human corpses. In the early days of the religion, bhikkhus were expected to make their robes from discarded cloth, one source being the cloths used to wrap corpses laid in charnel grounds. (The bhikkhus would wash and boil the cloth before using it themselves.) However, they were not to take cloth from undecomposed bodies, and here is why:
+
+     - 《聖典》中的「\ peta_\ 」一詞不僅包括餓鬼，也包括人的屍體。在佛教的早期，比丘們被要求用廢棄的布料製作袈裟，其中一個來源是用來包裹停放在停屍場的屍體的布料。（比丘們在使用布之前會先清洗並將布煮沸。）但是，他們不能從未腐爛的屍體上取布，原因如下：
+
+   * - .. container:: notification
+
+          “Now at that time a certain bhikkhu went to the charnel ground and took hold of discarded cloth on a body not yet decomposed. But the spirit of the dead one was (still) dwelling in that body. Then it said to the bhikkhu, ‘Venerable sir, don’t take hold of my cloak.’ The bhikkhu, disregarding it, went off (with the cloak). Then the body, rising up, followed right behind the bhikkhu. Then the bhikkhu, entering his dwelling, closed the door. Then the body fell down right there.”
+
+     - .. container:: notification
+
+          「當時，有一位比丘來到停屍場，抓住覆蓋在尚未腐爛的屍體上廢棄的布料。但死者的靈魂（仍然）住在那個屍體裡。然後它對比丘說：「尊者，不要抓住我的遮掩物。」比丘不理會它，（帶著遮掩物）走了。然後，屍體站起來，緊跟在比丘身後。然後，比丘進入他的住處，關上了門。然後屍體就倒在了那裡。」
+
+.. _peta: https://dictionary.sutta.org/browse/p/peta/
