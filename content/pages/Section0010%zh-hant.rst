@@ -780,7 +780,7 @@
 
    * - *Deceit.* If a bhikkhu uses a deliberate lie to deceive another person into giving an item to him, the transgression is treated not as a case of stealing—because, after all, the item is given to him—but rather as a case of lying. If the lie involves making false claims to superior meditative attainments, it is treated under `Pr 4`_. If not, it is treated under `Pc 1`_. The Vinīta-vatthu gives seven examples: five cases where, during a distribution of requisites in the Community, a bhikkhu asks for and is given an extra portion for a non-existent bhikkhu; and two where a bhikkhunī approaches her teacher’s lay supporter and asks for medicines, saying that they will be for her teacher, although she actually ends up using them herself. In all of these cases, the penalty is a pācittiya for lying under `Pc 1`_.
 
-     - *欺詐。*\ 如果比丘故意撒謊，欺騙他人給他某樣東西，那麼這種犯戒行為就不會被視為偷竊—因為畢竟該物品是被給予他的—而是被視為撒謊。如果謊言涉及虛假聲稱具有卓越的修行成就，則根據\ `《波羅夷》四`_\ 進行處理。如果不是，則根據\ `《波逸提》一`_\ 進行處理。《Vinīta_-vatthu_》給出了七個案例：五個案例中，在僧團中分發必需品期間，比丘為不存在的比丘索取額外的一份，並得到了額外的一份；另兩個案例，一位比丘尼接近她老師的在家供養者並索取藥物，並說這些藥物是給她老師的，儘管最終她自己使用了這些藥物。在所有這些案例下，根據\ `《波逸提》一`_\ ，說謊的懲罰是《波逸提》。
+     - *欺詐。*\ 如果比丘故意撒謊，欺騙他人給他某樣東西，那麼這種犯戒行為就不會被視為偷竊—因為畢竟該物品是被給予他的—而是被視為撒謊。如果謊言涉及虛假聲稱具有卓越的修行成就，則根據\ `《波羅夷》四`_\ 進行處理。如果不是，則根據\ `《波逸提》一`_\ 進行處理。《Vinīta_-vatthu_》給出了七個案例：五個案例中，在僧團中分發必需品期間，比丘為不存在的比丘索取額外的一份，並得到了額外的一份；另兩個案例，\ `一位比丘尼接近她老師的在家供養者並索取藥物，並說這些藥物是給她老師的`_\ ，儘管最終她自己使用了這些藥物。在所有這些案例下，根據\ `《波逸提》一`_\ ，說謊的懲罰是《波逸提》。
 
    * - The Commentary, in its discussion of the bhikkhus taking an extra portion for a non-existent bhikkhu, insists that the penalty for lying applies only to cases where donors have already given the requisites to the Community. If, prior to their giving the requisites to the Community, a bhikkhu asks them directly for a portion for a non-existent bhikkhu, the Commentary says that he has committed a theft under this rule. This, however, contradicts the ruling in the two cases involving the bhikkhunī, who asks directly from the donor. Thus it would appear that in any case where a bhikkhu obtains an article from a donor through deceit, the penalty would be the pācittiya for lying.
 
@@ -792,7 +792,7 @@
 
    * - *Receiving stolen goods.* Accepting a gift of goods or purchasing them very cheaply, knowing that they were stolen, would in Western criminal law result in a penalty similar to stealing itself. However, neither the Canon nor the commentaries mention this case. The closest they come is in the Vinīta-vatthu, where a groundskeeper gives bhikkhus fruit from the orchard under his care, even though it was not his to give, and there was no offense for the bhikkhus. From this it can be inferred that there is no offense for receiving stolen goods, even knowingly, although a bhikkhu who does so would not be exempt from the civil law and the consequent proceedings, in the course of which the Community would probably urge him to disrobe.
 
-     - *收受贓物。*\ 在西方刑法中，接受商品禮物或以非常便宜的價格購買商品，而且明知這些商品是被偷的，將導致與偷竊本身類似的懲罰。然而，《聖典》和《義註》均未提及此種情況。最接近的地方是在《Vinīta_-vatthu_》，\ `園丁從他照管的果園裡給予比丘們水果`_\ ，儘管這不是他的，卻仍給予比丘們，而比丘們並沒有犯戒。由此可以推斷，收受贓物並不構成犯戒，即使在知情的情況下，儘管這樣做的比丘不能免於民法和隨後的訴訟，在此過程中，僧團可能會敦促他還俗。
+     - *收受贓物。*\ 在西方刑法中，接受商品禮物或以非常便宜的價格購買商品，而且明知這些商品是被偷的，將導致與偷竊本身類似的懲罰。然而，《聖典》和註釋均未提及此種情況。最接近的地方是在《Vinīta_-vatthu_》，\ `園丁從他照管的果園裡給予比丘們水果`_\ ，儘管這不是他的，卻仍給予比丘們，而比丘們並沒有犯戒。由此可以推斷，收受贓物並不構成犯戒，即使在知情的情況下，儘管這樣做的比丘不能免於民法和隨後的訴訟，在此過程中，僧團可能會敦促他還俗。
 
    * - *Compensation owed.* The Commentary introduces the concept of *bhaṇḍadeyya*, or compensation owed, to cover cases where a bhikkhu is responsible for the loss or destruction of another person’s property. It defines this concept by saying that the bhikkhu must pay the price of the object to the owner or give the owner another object of equal value to the one lost or destroyed; if the bhikkhu does not give compensation, and the owner gives up his/her efforts to receive compensation, the bhikkhu incurs a pārājika. The Commentary applies this concept not only to cases where the bhikkhu knowingly and intentionally destroys the object, but also to cases where he borrows or agrees to look after something that then gets lost, stolen, or destroyed through his negligence; or where he takes an item mistakenly thinking that it was discarded or that he was in a position to take it on trust.
 
@@ -837,6 +837,7 @@
 .. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
 .. _《波逸提》一: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
 .. TODO FIXME: replace link to 《波逸提》一
+.. _一位比丘尼接近她老師的在家供養者並索取藥物，並說這些藥物是給她老師的: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0088a04
 .. _Mv.III.14.1-14: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.14.4
 .. _《大品》.三.14.1-14: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0207a07
 .. _園丁從他照管的果園裡給予比丘們水果: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0086a14
@@ -915,11 +916,11 @@
 
    * - There is no offense if a bhikkhu takes an object belonging (1) to a peta (§) or (2) to an animal (§). Thus there is no offense in taking the remains of a lion’s kill, regardless of how possessive the lion may feel, although the Commentary wisely advises waiting until the lion has eaten enough of its kill no longer to be hungry, for otherwise the bhikkhu may become lion’s kill himself.
 
-     - 若比丘拿走 (1) 亡者及鬼 (§) 或 (2) 動物 (§) 的物品，並不犯戒。因此，無論獅子的佔有欲有多麼強烈，拿走獅子獵物的殘骸並沒有犯戒，儘管《義註》明智地建議等到獅子吃完它的獵物後不再感到飢餓再拿走，否則比丘可能會變成獅子的獵物。
+     - 若比丘拿走 (1) 亡者及鬼 (§) 或 (2) 動物 (§) 的物品，並不犯戒。因此，無論獅子的佔有欲有多麼強烈，\ `拿走獅子獵物的殘骸並沒有犯戒`_\ ，儘管《義註》明智地建議等到獅子吃完它的獵物後不再感到飢餓再拿走，否則比丘可能會變成獅子的獵物。
 
    * - The term *peta*, as used in the Canon, includes not only hungry ghosts, but also human corpses. In the early days of the religion, bhikkhus were expected to make their robes from discarded cloth, one source being the cloths used to wrap corpses laid in charnel grounds. (The bhikkhus would wash and boil the cloth before using it themselves.) However, they were not to take cloth from undecomposed bodies, and here is why:
 
-     - 《聖典》中的「\ peta_\ 」一詞不僅包括餓鬼，也包括人的屍體。在佛教的早期，比丘們被要求用廢棄的布料製作袈裟，其中一個來源是用來包裹停放在停屍場的屍體的布料。（比丘們在使用布之前會先清洗並將布煮沸。）但是，他們不能從未腐爛的屍體上取布，原因如下：
+     - 《聖典》中的「\ peta_\ 」一詞不僅包括餓鬼，也包括人的屍體。在佛教的早期，比丘們被要求用廢棄的布料製作袈裟，其中一個來源是用來包裹停放在停屍場的屍體的布料。（比丘們在使用布之前會先清洗並將布煮沸。）但是，他們\ `不能從未腐爛的屍體上取布，原因如下`_\ ：
 
    * - .. container:: notification
 
@@ -974,7 +975,7 @@
 
    * - The Commentary to this rule states that in practice only three of these conditions need to be met: the fourth, the fifth, and any one of the first three. As the Vinaya-mukha notes, there are good practical reasons for adopting the Commentary’s interpretation here. There is also the formal reason that otherwise the first two conditions would be redundant.
 
-     - 此戒條的《義註》指出，實際上只需要滿足這些條件中的三個：第四個、第五個以及前三個條件中的任何一個。正如《戒律入口》所指出的，這裡採用《義註》的解釋有充分且實際的理由。還有一個正式的理由，否則前兩個條件將是多餘的。
+     - 此戒條的《義註》指出，實際上只需要滿足這些條件中的三個：第四個、第五個以及前三個條件中的任何一個。正如《戒律入口》所指出的，這裡採用《義註》的解釋有充分且實際的理由。還有否則前兩個條件將是多餘的正式理由。
 
    * - `Mv.VIII.31.2-3`_ discusses how an item can be rightly taken on trust if a bhikkhu, as courier, is conveying it from a donor to an intended recipient. The deciding factor is what the donor says while handing over the item, which apparently determines who exercises rights of ownership over the item while it is in transit. If the donor says, “Give this to so-and-so” (which means that ownership has not yet been transferred to the recipient), one may rightly take the item on trust in the donor but not in the recipient. If he/she says, “I give this to so-and-so” (which transfers ownership to the recipient), one may rightly take the item on trust in the recipient but not in the donor. If, before the courier can convey the item to the intended the recipient, he learns that the owner—as determined by the donor’s statement—happens to die, he may determine the item as an inheritance from the owner.
 
@@ -984,8 +985,27 @@
 
      - 在這兩種情況下，該物品可以合法地基於信任被拿走，沒有任何文本討論是否也必須滿足\ `《大品》.八.19.1`_\ 中列出的因素，或者此處的開緣是否為特別同意授予遞送者的那些因素的特殊豁免。然而，由於開緣對於物品在運輸過程中的所有權歸屬有如此嚴格的規定，因此所有者似乎有權對遞送者基於信任拿取物品表示滿意或不滿。這進一步表明，遞送者必須考慮所有者的感知意願，這意味著\ `《大品》.八.19.1`_\ 中列出的因素在這裡仍然適用。
 
+   * - The Vinīta-vatthu treats the case of a bhikkhu who takes an item mistakenly thinking that he had the right to take it on trust; the Buddha termed this a “misconception as to trust” and did not impose a penalty. The Commentary to this rule adds that if the original owner informs one that he is displeased because he sincerely wanted to keep the item for another use, one should return it to him; but, in line with the Vinīta-vatthu, it does not indicate a penalty for not returning it. If the owner is displeased with one for other reasons, the Commentary says, there is no need to return the item.
+
+     - 《Vinīta_-vatthu_》處理了一個比丘的案例，\ `他錯誤地認為他有權以基於信任的方式拿走一件物品`_\ ；佛陀將此稱為「對信任的誤解」，並沒有施加懲罰。此戒條的《義註》補充說，如果原所有者告知說他感到不高興，因為他由衷地想保留該物品以作他用，則應將其歸還給他；但是，根據《Vinīta_-vatthu_》，它沒有表示會因為不歸還而受到懲罰。《義註》稱，如果所有者因其他原因而感到不高興，則無需歸還該物品。
+
+   * - As for taking an item temporarily, the Commentary says this means taking it with the intention that (a) “I’ll return it” or (b) “I’ll make compensation.” There is support in the Vibhaṅga for including (a) here, but none for (b). If the Commentary included (b) to cover cases where a bhikkhu borrows an object but then happens to lose or destroy it, there is no need to include it, for as we have already explained, a bhikkhu is under no compulsion to compensate people for items lost or destroyed. If the Commentary meant it to cover cases where a bhikkhu takes ownership of an object belonging to a person with whom he has not established trust and with whom he plans to discuss compensation later, it doesn’t really fit under this exemption, for one is taking permanent possession of the item. Given the strict conditions that the Canon places on the exemption for taking an item on trust, it seems unlikely that its compilers would have countenanced an exemption for a bhikkhu to go around imposing unilateral trades, taking possession of items on the unfounded assumption that the owners would gladly accept compensation at a later time. If there is any place for this sort of exemption in the Vibhaṅga’s framework, it would be as a variant on taking on trust. Thus it would have to meet the following factors: The owner is an acquaintance or an intimate or has spoken of the matter; he/she is still alive; and one knows that he/she would be pleased if one takes the item and gives compensation later.
+
+     - 至於暫時拿走一件物品，《義註》稱，這意味著拿走它的意圖是（a）「我將歸還它」或（b）「我將給予補償」。《經分別》中支持此處納入（a），但沒有（b）。如果《義註》中納入（b）以涵蓋比丘借用物品但隨後丟失或毀壞的情況，則無需納入它，因為正如我們已經解釋過的，比丘沒有義務向人們賠償物品丟失或毀壞。如果《義註》的意思是涵蓋這樣的情況：比丘拿走屬於他尚未建立信任的人的物品的所有權，並且他計劃稍後與該人討論賠償，那麼它實際上不適合這種豁免，因為是永久佔有該物品。鑑於《聖典》對以信任方式拿取物品的豁免規定了嚴格的條件，其編纂者似乎不太可能會支持比丘的豁免，以進行單方面交易，以毫無根據地假設所有者會樂意在以後接受補償為由佔有物品。如果在《經分別》的框架中存在這種豁免的地方，那將是作為基於信任拿取的一種變體。因此，它必須滿足以下因素：所有者是熟人、密友或談過此事；他/她還活著；知道如果拿走該物品並隨後給予補償，他/她會很高興。
+
+   * - In addition to the exemptions listed under the non-offense clauses, the Vinīta-vatthu contains ten other types of cases that involve no offense under this rule. Some of these have already been mentioned in the above discussions, but it is convenient to have them gathered in one place.
+
+     - 除了不犯條款中列出的豁免之外，《Vinīta_-vatthu_》還包含十種其他類型的案例，這些案例不涉及本戒條下的犯戒。其中一些已經在上面的討論中提到過，但將它們集中在一個地方會很方便。
+
+   * - —A bhikkhu, seeing an expensive garment, feels a desire to steal it but does not act on the desire. The commentaries take this as a general principle for all rules, that the mere arising of a mind state does not constitute an offense.
+
+     - —比丘看到一件昂貴的衣服，生起偷竊的欲望，但不按照欲望行動。註釋將此作為所有戒條的一般原則，即只有心境生起並不構成犯戒。
+
+.. _拿走獅子獵物的殘骸並沒有犯戒: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0077a07
 .. _peta: https://dictionary.sutta.org/browse/p/peta/
+.. _不能從未腐爛的屍體上取布，原因如下: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0076a11
 .. _Mv.VIII.19.1: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.VIII.19.1
 .. _《大品》.八.19.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0384a12
 .. _Mv.VIII.31.2-3: https://www.dhammatalks.org/vinaya/bmc/Section0063.html#Mv.VIII.31.2-3
 .. _《大品》.八.31.2-3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0398a13
+.. _他錯誤地認為他有權以基於信任的方式拿走一件物品: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0079a06
