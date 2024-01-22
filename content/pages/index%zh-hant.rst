@@ -111,7 +111,7 @@
      - `\　　二 <{filename}Section0010%zh-hant.rst#pr2>`__
 
    * - `\　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3>`__
-     - 　　三
+     - `\　　三 <{filename}Section0010%zh-hant.rst#pr3>`__
 
    * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4>`__
      - 　　四

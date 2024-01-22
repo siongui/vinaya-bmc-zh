@@ -1050,3 +1050,24 @@
 .. _出於慈悲，釋放了被獵人網羅捕獲的動物: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0083a03
 .. _按照原主人的意願，指出對繼承人的遺贈: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0088a12
 .. _畢陵伽婆蹉尊者利用他的神通力找回了一對被綁架的孩子: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0089a10
+
+
+.. _Pr3:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **3**
+     - **三**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu intentionally deprive a human being of life, or search for an assassin for him, or praise the advantages of death, or incite him to die (saying): “My good man, what use is this evil, miserable life to you? Death would be better for you than life,” or with such an idea in mind, such a purpose in mind, should in various ways praise the advantages of death or incite him to die, he also is defeated and no longer in affiliation.*
+
+     - .. container:: notification
+
+          *若有比丘故意奪人的生命，或為他尋找行兇者，或讚揚死亡的好處，或煽動他去死（說）：「我的善男子，這邪惡、悲慘的生命對你有何用？死比生好」，或懷著這樣的想法，懷著這樣的目的，用各種方式來讚揚死亡的好處，或者煽動他去死，也是波羅夷，不共住。*
+
+   * - This rule against intentionally causing the death of a human being is best understood in terms of five factors, all of which must be present for there to be the full offense.
+     - 這條禁止故意造成人死亡的戒條最好從五個因素來理解，所有這些因素都必須存在才能構成完整的犯戒。
