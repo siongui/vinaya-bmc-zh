@@ -999,7 +999,39 @@
 
    * - —A bhikkhu, seeing an expensive garment, feels a desire to steal it but does not act on the desire. The commentaries take this as a general principle for all rules, that the mere arising of a mind state does not constitute an offense.
 
-     - —比丘看到一件昂貴的衣服，生起偷竊的欲望，但不按照欲望行動。註釋將此作為所有戒條的一般原則，即只有心境生起並不構成犯戒。
+     - —一位比丘看到一件昂貴的衣服，生起偷竊的欲望，但不按照欲望行動。註釋將此作為所有戒條的一般原則，即只有心境生起並不構成犯戒。
+
+   * - —A bhikkhu, seeing a cloak blown up by a whirlwind, catches it to return it to the owners.
+     - —一位比丘，看到\ `一件衣服被旋風吹起`_\ ，抓住它，把它還給主人。
+
+   * - —A bhikkhu takes an item on trust but later discovers that the trust is misconceived.
+     - —一位比丘\ `基於信任拿取了一件物品`_\ ，但後來發現這信任被誤解。
+
+   * - —A bhikkhu goes through a customs house, not knowing that a dutiable item is among his belongings.
+     - —一位比丘穿過海關，\ `不知道他的所有物中有一件應納稅的物品`_\ 。
+
+   * - —Visiting bhikkhus, for the sake of food, take fruit from a tree belonging to the Saṅgha.
+     - —來訪的比丘們，為了食物，\ `取屬於僧伽的樹上的果子`_\ 。
+
+   * - —Bhikkhus receive fruit from the guardian of an orchard, even though the guardian is not entitled to give the fruit away.
+     - —比丘們從果園的守護者那裡得到水果，\ `儘管守護者無權將水果送出`_ 。
+
+   * - —A bhikkhu, seeing an item left lying about, puts it away so that it won’t get lost. The owner comes looking for the item and asks, “Who stole it?” The bhikkhu, perhaps ironically, responds, “I stole it.” The owner then charges him with a theft. The case goes to the Buddha, who says that the bhikkhu committed no offense, in that his answer was just a manner of speaking and not an actual acknowledgement of a theft.
+
+     - —一位比丘，看到一件物品被放在地上，就把它收起來，以免它丟失。失主來尋找物品並問道：「誰偷了它？」比丘也許是諷刺地回答：「我偷了它。」失主隨後指控他偷竊。案件到了佛陀那邊，佛陀說比丘沒有犯戒，\ `因為他的回答只是一種說話方式`_\ ，而不是真正承認偷竊。
+
+   * - —A bhikkhu, out of compassion, releases an animal caught in a hunter’s snare.
+     - —一位比丘\ `出於慈悲，釋放了被獵人網羅捕獲的動物`_\ 。
+
+   * - —Ven. Ajjuka points out a bequest to an heir in line with the original owner’s wishes.
+     - —阿酬尊者\ `按照原主人的意願，指出對繼承人的遺贈`_\ 。
+
+   * - —Ven. Pilindavaccha uses his psychic powers to retrieve a pair of kidnapped children. The Buddha states that this entails no penalty because such a thing lies in the province of those with psychic power. The Vinaya-mukha, in discussing this case, takes it as a precedent for saying that if a bhikkhu returns a stolen article to its legal owner, there is no offense. The Buddha’s statement, though, was probably meant to discourage bhikkhus without psychic powers from getting directly involved in righting wrongs of this sort. If a bhikkhu without psychic powers happens to learn of the whereabouts of stolen goods, kidnapped children, etc., he may inform the authorities, if he sees fit, and let them handle the situation themselves. However, for safety’s sake, a bhikkhu living in a wilderness frequented by thieves would be wise not to be perceived as siding either with the thieves or the authorities.
+
+     - —\ `畢陵伽婆蹉尊者利用他的神通力找回了一對被綁架的孩子`_\ 。佛陀指出，這不會帶來任何懲罰，因為這種事屬於具有神通力的人的範疇。《戒律入口》在討論此案時，將此作為先例，說如果比丘將偷來的東西歸還給其合法所有者，則沒有犯戒。不過，佛陀的說法可能是為了阻止沒有神通的比丘直接參與此類糾正錯誤的行為。如果沒有神通的比丘碰巧得知贓物、被綁架的兒童等的下落，如果他認為合適，他可以通知當局，讓他們自行處理。然而，為了安全起見，生活在盜賊經常出沒的林野中的比丘最好不要被視為站在盜賊或當局一邊。
+
+   * - *Summary: The theft of anything worth 1/24 ounce troy of gold or more is a pārājika offense.*
+     - *摘要：竊取任何價值 1/24 盎司或以上金衡黃金的物品是《波羅夷》罪。*
 
 .. _拿走獅子獵物的殘骸並沒有犯戒: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0077a07
 .. _peta: https://dictionary.sutta.org/browse/p/peta/
@@ -1009,3 +1041,12 @@
 .. _Mv.VIII.31.2-3: https://www.dhammatalks.org/vinaya/bmc/Section0063.html#Mv.VIII.31.2-3
 .. _《大品》.八.31.2-3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0398a13
 .. _他錯誤地認為他有權以基於信任的方式拿走一件物品: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0079a06
+.. _一件衣服被旋風吹起: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0076a05
+.. _基於信任拿取了一件物品: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0079a06
+.. _不知道他的所有物中有一件應納稅的物品: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0082a08
+.. _取屬於僧伽的樹上的果子: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0086a08
+.. _儘管守護者無權將水果送出: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0086a14
+.. _因為他的回答只是一種說話方式: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0075a05
+.. _出於慈悲，釋放了被獵人網羅捕獲的動物: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0083a03
+.. _按照原主人的意願，指出對繼承人的遺贈: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0088a12
+.. _畢陵伽婆蹉尊者利用他的神通力找回了一對被綁架的孩子: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0089a10
