@@ -999,7 +999,7 @@
 
    * - —A bhikkhu, seeing an expensive garment, feels a desire to steal it but does not act on the desire. The commentaries take this as a general principle for all rules, that the mere arising of a mind state does not constitute an offense.
 
-     - —一位比丘看到一件昂貴的衣服，生起偷竊的欲望，但不按照欲望行動。註釋將此作為所有戒條的一般原則，即只有心境生起並不構成犯戒。
+     - —一位比丘\ `看到一件昂貴的衣服，生起偷竊的欲望`_\ ，但不按照欲望行動。註釋將此作為所有戒條的一般原則，即只有心境生起並不構成犯戒。
 
    * - —A bhikkhu, seeing a cloak blown up by a whirlwind, catches it to return it to the owners.
      - —一位比丘，看到\ `一件衣服被旋風吹起`_\ ，抓住它，把它還給主人。
@@ -1041,6 +1041,7 @@
 .. _Mv.VIII.31.2-3: https://www.dhammatalks.org/vinaya/bmc/Section0063.html#Mv.VIII.31.2-3
 .. _《大品》.八.31.2-3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0398a13
 .. _他錯誤地認為他有權以基於信任的方式拿走一件物品: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0079a06
+.. _看到一件昂貴的衣服，生起偷竊的欲望: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0073a14
 .. _一件衣服被旋風吹起: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0076a05
 .. _基於信任拿取了一件物品: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0079a06
 .. _不知道他的所有物中有一件應納稅的物品: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0082a08
@@ -1071,3 +1072,39 @@
 
    * - This rule against intentionally causing the death of a human being is best understood in terms of five factors, all of which must be present for there to be the full offense.
      - 這條禁止故意造成人死亡的戒條最好從五個因素來理解，所有這些因素都必須存在才能構成完整的犯戒。
+
+   * - *1) Object:* a human being, which according to the Vibhaṅga includes human fetuses as well, counting from the time consciousness first arises in the womb immediately after conception up to the time of death.
+
+     - *1）對象：*\ `人類，根據《經分別》`_\ ，也包括人類胎兒，從受孕後意識在子宮中首次出現的時間算起，直到死亡為止。
+
+   * - *2) Intention:* knowingly, consciously, deliberately, and purposefully wanting to cause that person’s death. “Knowingly” also includes the factor of—
+     - *2）意圖：*\ 明知、有意識、故意、有目的地想要導致該人死亡。「明知」還包括以下這一因素—
+
+   * - *3) Perception:* perceiving the person as a living being.
+     - *3）感知：*\ 察覺到該人是活人。
+
+   * - *4) Effort:* whatever one does with the purpose of causing that person to die.
+     - *4）努力：*\ 為了導致該人死亡而所做的任何事。
+
+   * - *5) Result:* The life-faculty of the person is cut as the result of one’s act.
+     - *5）結果：*\ 該人的命根因自己的行為而被切斷。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga defines a *human being* as a person “from the time consciousness first becomes manifest in a mother’s womb, up to its death-time.” As `DN 15`_ makes clear, the presence of the new being’s consciousness is necessary for the embryo to survive in the womb. Thus the survival of the embryo in the womb is a clear sign that consciousness is present. This means that consciousness is manifest from the moment of conception.
+
+     - 《經分別》將\ *人類*\ 定義為「從意識首次在母親子宮中顯現出來，直至死亡」的人。正如\ `《長部》15經`_\ 所表明的那樣，新生命意識的存在對於胚胎在子宮中生存是必要的。因此，胚胎在子宮中的存活是意識存在的明顯標誌。這意味著意識從受孕那一刻起就顯現出來。
+
+   * - From this it follows that a bhikkhu who intentionally causes an abortion—by arranging for the operation, supplying the medicines, or advising a woman to get an abortion and she follows through—incurs a pārājika. A bhikkhu who encourages a woman to use a means of contraception that works after the point of conception would be guilty of a pārājika if she were to follow his advice.
+
+     - 由此可見，比丘故意造成墮胎—透過安排手術、提供藥物或建議女人墮胎並且她照做了—犯《波羅夷》。比丘鼓勵女人在受孕後使用有效的避孕方法，如果她聽從了他的建議，比丘將會犯下《波羅夷》罪。
+
+.. _人類，根據《經分別》: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0099a04
+.. _DN 15: https://www.dhammatalks.org/suttas/DN/DN15.html
+.. _《長部》15經: https://tripitaka.cbeta.org/mobile/index.php?index=N07n0004_015
