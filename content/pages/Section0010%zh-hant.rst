@@ -1105,6 +1105,45 @@
 
      - 由此可見，比丘故意造成墮胎—透過安排手術、提供藥物或建議女人墮胎並且她照做了—犯《波羅夷》。比丘鼓勵女人在受孕後使用有效的避孕方法，如果她聽從了他的建議，比丘將會犯下《波羅夷》罪。
 
+   * - There is a series of cases in the Vinīta-vatthu in which bhikkhus provide medicines for women seeking an abortion, followed by two cases in which a bhikkhu provides medicines to a barren woman who wants to become fertile and to a fertile woman who wants to become barren. In neither of these two latter cases does anyone die or suffer pain, but in both cases the bhikkhu incurs a dukkaṭa. From this, the Commentary infers that bhikkhus are not to act as doctors to lay people, an inference supported by the Vibhaṅga to `Sg 13`_. (The Commentary, though, gives a number of exceptions to this principle. See the discussion in `BMC2, Chapter 5`_.)
+
+     - 《Vinīta_-vatthu_》中有\ `一系列比丘為尋求墮胎的婦女提供藥物的案例`_\ ，隨後還有兩個案例，其中有一位比丘，為一位想要生育的不孕婦女，和一位想要避孕的生育婦女，提供藥物。在後兩個案例下，沒有人死亡或遭受痛苦，但在這兩個案例下，比丘都犯《突吉羅》。由此，《義註》推論出比丘不應充當在家人的醫生，這一推論得到了\ `《僧殘》十三`_\ 的《經分別》的支持。（不過，《義註》給出了這一原則的一些例外情況。參見\ `《佛教修道準則 第二冊》第五章`_\ 的討論。)
+
+   * - The question arises as to whether one’s own life would qualify as “object” under this rule—in other words, the extent to which attempted suicides are covered here. The Vibhaṅga to this rule mentions three types of suicide, treating each of them differently.
+
+     - 問題是，根據這條戒條，自己的生命是否符合「對象」的資格—換句話說，這裡涵蓋了試圖自殺的程度。這條戒條的《經分別》提到了三種類型的自殺，並對每種類型進行了不同的處理。
+
+   * - a\) In the origin story, bhikkhus search for assassins, i.e., get other people to take their lives. That action is directly mentioned in the rule and explained in the Vibhaṅga, so it does come under the rule.
+
+     - a\) 在\ `起源故事`_\ 中，比丘尋找行兇者，也就是讓其他人結束自己的生命。該行為在戒條中直接提及並在《經分別》中解釋，因此它確實受本戒條管轄。
+
+   * - b\) The Vinīta-vatthu includes a case in which a bhikkhu tries to commit suicide by throwing himself over a cliff, and the Buddha formulates a separate rule to cover that case. The penalty assigned by the rule, however, does not fit the pattern for derived offenses under this rule, which shows that an attempted suicide of that sort would not be treated here.
+
+     - b\) 《Vinīta_-vatthu_》包括\ `一個比丘試圖跳崖自殺`_\ 的案例，佛陀制定了一個單獨的戒條來涵蓋這個案例。然而，該戒條所規定的懲罰並不符合本戒條下衍生違犯的模式，這表明此處不會處理此類試圖自殺。
+
+   * - c\) The origin story also tells of bhikkhus who take their own lives, but the main rule here does not mention that action, nor does the Vibhaṅga discuss it. The Commentary extrapolates from the rule in case (b) to cover almost all attempts at suicide, but there are reasons for questioning the Commentary’s reasoning on this issue. For a discussion, see “Special cases,” below.
+
+     - c\) 起源故事也講述了比丘自殺的故事，但這裡的主要戒條沒有提到這一行為，《經分別》也沒有討論它。《義註》從情況（b）中的戒條推斷涵蓋了幾乎所有的試圖自殺，但有理由質疑《義註》對此問題的推斷。有關討論，請參閱下面的「特別案例」。
+
+   * - The Vibhaṅga states that a bhikkhu who kills a “non-human being”—a yakkha, nāga, or peta—incurs a thullaccaya. The Commentary adds a devatā to this list, and goes on to say that a spirit possessing a human being or an animal can be exorcised in either of two ways. The first is to command it to leave: This causes no injury to the spirit and results in no offense. The second is to make a doll out of flour paste or clay and then to cut off various of its parts (!). If one cuts off the hands and feet, the spirit loses its hands and feet. If one cuts off the head, the spirit dies, which is grounds for a thullaccaya.
+
+     - 《經分別》指出，殺死「非人」（夜叉、龍或鬼）的比丘犯《偷蘭遮》。《義註》在這個清單中加入了天神，並接著說，附身於人類或動物的靈體可以透過兩種方式中的任何一種來驅除。第一種是命令其離開：這樣不傷害靈體，也不犯戒。第二種是用麵粉糊或黏土製作一個娃娃，然後切掉它的各個部分（！）。如果砍掉手腳，靈體就失去了手腳。如果砍下頭，靈體就會死亡，就犯《偷蘭遮》。
+
+   * - A bhikkhu who intentionally kills a common animal is treated under `Pc 61`_.
+     - 故意殺死普通動物的比丘將根據\ `《波逸提》六一`_\ 受到處置。
+
 .. _人類，根據《經分別》: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0099a04
 .. _DN 15: https://www.dhammatalks.org/suttas/DN/DN15.html
 .. _《長部》15經: https://tripitaka.cbeta.org/mobile/index.php?index=N07n0004_015
+.. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
+.. _BMC2, Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
+.. _一系列比丘為尋求墮胎的婦女提供藥物的案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0113a01
+.. _《僧殘》十三: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
+.. TODO FIXME: replace link to 《僧殘》十三
+.. _《佛教修道準則 第二冊》第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第五章
+.. _起源故事: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0092a07
+.. _一個比丘試圖跳崖自殺: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0111a09
+.. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
+.. _《波逸提》六一: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
+.. TODO FIXME: replace link to 《波逸提》六一
