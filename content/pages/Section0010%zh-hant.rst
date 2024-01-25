@@ -1147,3 +1147,26 @@
 .. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
 .. _《波逸提》六一: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
 .. TODO FIXME: replace link to 《波逸提》六一
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention & perception**
+     - **意圖和感知**
+
+   * - The Vibhaṅga defines the factor of intention in three contexts—the word-analysis, the non-offense clauses, and the Vinīta-vatthu—analyzing it with one set of terms in the first context, and another set in the last two. There are two ways of interpreting the discrepancy: Either the two sets differ only in language but not in substance, or they actually differ in substance. The Commentary, without seeming to notice what it is doing, adopts the second interpretation. In other words, it defines the factors of intention in markedly different ways in the different contexts, yet does not assert that one set of terms is more authoritative than the other or even take note of the differences between them. In fact, it takes one of the terms common to the non-offense clauses and the Vinīta-vatthu and defines it in one way in one context and another in the other. All of this creates a great deal of confusion.
+
+     - 《經分別》在三種脈絡中定義了意圖因素－語句解說、不犯條款和《Vinīta_-vatthu_》－在第一種脈絡中使用一組術語進行分析，在後兩種脈絡中使用另一組術語進行分析。有兩種方法可以解釋這種差異：要麼這兩組僅在語言上有所不同，而沒有實質上的不同，要麼它們的確在實質上有所不同。《義註》似乎沒有注意到它在做什麼，就採用了第二種解釋。換句話說，它在不同的脈絡中以明顯不同的方式定義了意圖因素，但並沒有肯定地說一組術語比另一組術語更具權威性，甚至沒有注意到它們之間的差異。事實上，它採用了不犯條款和《Vinīta_-vatthu_》所共用的術語之一，並在一種脈絡中以一種方式定義它，而在另一種脈絡中以另一種方式定義它。所有這些都造成了極大的混亂。
+
+   * - A more fruitful way of analyzing the two sets of terms, which we will adopt here, is to assume that they differ only in language but not in substance. We will take as our framework the set of terms used in the non-offense clauses and the Vinīta-vatthu, as it is clearer and more amply illustrated than the other set, and then refer to the other set, along with some of the explanations from the Commentary, when these help to give a more refined understanding of what the non-offense clauses and Vinīta-vatthu are saying.
+
+     - 我們將在這裡採用的分析這兩組術語的一種更有效的方法是，假設它們僅在語言上有所不同，而在實質上沒有差異。我們將以不犯條款和《Vinīta_-vatthu_》中使用的該組術語作為我們的框架，因為它比另一組更清晰、更充分地說明，然後參考另一組以及一些來自《義註》的解釋，當這些有助於更精確地理解不犯條款和《Vinīta_-vatthu_》的意思。
+
+   * - The non-offense clauses state that there is no offense for a bhikkhu who acts unintentionally, not knowing, or without aiming at death. In the Vinīta-vatthu, *unintentionally* is used to describe cases in which a bhikkhu acts accidentally, such as dropping a poorly held stone, brick, or adze; removing a pestle from a shelf and accidentally knocking off another one. *Not knowing* is used in cases in which the bhikkhu deliberately does an action but without knowing that his action could cause death. An example would be giving food to a friend not knowing that it is poisoned. *Not aiming at death* is used in cases where the bhikkhu deliberately does an action but does not intend that action to result in death. Relevant examples include trying to help a bhikkhu who is choking on food by slapping him on the back and inadvertently causing his death; telling a bhikkhu to stand on a piece of scaffolding while helping with construction work, only to see the scaffolding collapse; describing the joys of heaven to an audience, only to have a member of the audience decide to commit suicide in hopes of going there.
+
+     - 不犯條款說，比丘無意、不知、或不以死亡為目的的行為並不構成犯戒。在《Vinīta_-vatthu_》中，「\ *無意*\ 」用來描述比丘意外地做出的行為的情況，例如，把拿不穩的石頭、磚頭或錛子掉在地上；從架子上取下一把研杵，不小心碰掉了另一把。「\ *不知*\ 」用於比丘故意做某事但不知道他的行為可能導致死亡的情況。一個例子是給朋友食物，但他不知道食物有毒。「\ *不以死亡為目的*\ 」用於比丘故意做某事但無意導致死亡的情況。相關的例子包括，試圖拍打一位被食物噎住的比丘的背來幫助他，卻無意中導致了他的死亡；告訴一位比丘在幫忙建築時站在鷹架上，結果卻看到鷹架倒塌；向聽眾描述天界的歡樂，結果卻有一位聽眾決定自殺，希望能去那裡。
+
+   * - Thus, to fulfill the factor of intention here, a bhikkhu must be acting intentionally, knowingly, and aiming at death.
+     - 因此，為了滿足這裡的意圖因素，比丘必須有意地、明知地、以死亡為目的而行動。
