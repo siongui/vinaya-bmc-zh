@@ -1170,3 +1170,24 @@
 
    * - Thus, to fulfill the factor of intention here, a bhikkhu must be acting intentionally, knowingly, and aiming at death.
      - 因此，為了滿足這裡的意圖因素，比丘必須有意地、明知地、以死亡為目的而行動。
+
+   * - The word-analysis covers all the same points—although it shuffles the terms around—when it defines *intentionally* as “having willed, having made the decision knowingly and consciously.” Without teasing out the differences in terminology, we may simply note the important point added in its analysis, which is that an act of manslaughter counts as intentional here only when the bhikkhu has made a clear decision to kill. Thus if he were to strike a person unthinkingly in a sudden fit of rage, without being clear about what his intention was, it would not qualify as “intentional” here. The Commentary seconds this point when it defines *having made the decision* as “having summoned up a reckless mind state, ‘crushing’ through the power of an attack.” The Sub-commentary does not explain *crushing* or *attack* here, but apparently they mean aggressively overcoming, through a brute act of will, any contrary or hesitant thoughts in the mind.
+
+     - 當語句解說將\ *故意*\ 定義為「有意願，明知且有意識地做出決定」時，語句解說涵蓋了所有相同的要點，儘管它對術語進行了重新排列。在不梳理出術語差異的情況下，我們可以簡單地注意到其分析中添加的重點，即只有當比丘明確決定殺人時，過失殺人行為才算故意殺人。因此，如果他在沒有明確意圖的情況下，突然發怒，不假思索地打人，這裡就不算是「故意」。《義註》支持這一點，將\ *做出決定*\ 定義為「喚起魯莽的精神狀態，透過攻擊的力量『粉碎』」。這裡的《複註》並沒有解釋\ *粉碎*\ 或\ *攻擊*\ ，但顯然它們的意思是透過意志的殘酷行為，積極地克服心中任何相反或猶豫的想法。
+
+   * - The Vinīta-vatthu contains a few cases where bhikkhus kill people in situations where they did not even know that there was a person there: throwing a stone over a precipice, not knowing that there was a person standing below; sitting down on a pile of cloth on a chair, not knowing that a child was underneath the cloth; and setting fire to a grove, not knowing that there were people in the grove. The Buddha dismisses the first two cases without explanation as not coming under this rule. The last he classifies as an example of *not aiming at death*. We can conclude from this example that *aiming at death* must include the perception that there was someone there who could die. The Commentary seconds this conclusion in its analysis of the phrase *knowingly and consciously* in the word-analysis’s definition of intentionally. Although it again shuffles the terms around—using *consciously* to describe what the Vinīta-vatthu describes as *knowingly*\—the important point in its conclusion is that an essential element in the factor of intention is the factor of perception: In its words, one must be aware that, “This is a living being.”
+
+     - 《Vinīta_-vatthu_》中記載了一些比丘在他們甚至不知道有人在那裡的情況下殺人的例子：\ `在懸崖上扔石頭`_\ ，卻不知道下面站著一個人；\ `坐在椅子上的一堆布上`_\ ，不知道布下有個孩子；\ `放火燒了一座小樹林`_\ ，卻不知道樹林裡還有人。佛陀對前兩種情況不予理會，沒有做出任何解釋，因為不屬於這條戒條。他將最後一個歸類為\ *不以死亡為目的*\ 的例子。從這個例子我們可以得出結論，\ *以死亡為目的*\ 必須包括感知：那裡有人可能會死。《義註》在語句解說的「故意」定義中的\ *明知且有意識地*\ 一詞的分析中，支持了這一結論。儘管它再次重新排列了術語－用\ *有意識*\ 來描述《Vinīta_-vatthu_》所描述的\ *明知*\ －其結論中的重點是，意圖因素中的一個基本要素是感知因素：用它的話說，必須是意識到：「這是一個活著的眾生。」
+
+   * - Note that, given this definition, one need not know that the living being is a human being for the factor of perception to be fulfilled. The Commentary illustrates this point with an example in which a bhikkhu who, seeing a goat lying down in a certain spot during the day, decides to return to that spot to kill the goat that night. In the meantime, however, the goat gets up and a man comes to lie down in its place. The bhikkhu approaches the man in the dark, still thinking him to be a goat, and kills him. The verdict: a pārājika.
+
+     - 請注意，根據此定義，無需知道活著的眾生是人類即可滿足感知因素。《義註》中用一個例子來說明這一點：一位比丘白天看到一隻山羊躺在某個地方，決定當天晚上回到那個地方殺死這隻山羊。然而同時，山羊站了起來，一個人在它的位置上躺了下來。比丘在黑暗中接近這個人，仍然認為他是一隻山羊，並殺死了他。結論：《波羅夷》。
+
+   * - Although this judgment may seem strange, there is nothing in the Canon to contradict it. The closest case in the Vinīta-vatthu concerns a bhikkhu who digs a pitfall with the intention that whatever living beings fall into it will perish. The penalty, if an animal dies as a result, is a pācittiya; if a human being, a pārājika. In this case, the intention/perception of killing a living being is broad enough to include a human being, and so fulfills the relevant factors here.
+
+     - 雖然這個判斷看起來很奇怪，但《聖典》中沒有任何內容與之相矛盾。《Vinīta_-vatthu_》中最接近的例子涉及一位比丘，\ `他挖了一個陷阱`_\ ，意圖讓任何掉入其中的生物都會死亡。若動物因此死亡，則懲罰為《波逸提》；如果是人類，則為《波羅夷》。在這種情況下，殺死生物的意圖/感知足夠廣泛，廣泛到足以包括人類，因此滿足這裡的相關因素。
+
+.. _在懸崖上扔石頭: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0111a12
+.. _坐在椅子上的一堆布上: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0107a11
+.. _放火燒了一座小樹林: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0116a04
+.. _他挖了一個陷阱: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0103a10
