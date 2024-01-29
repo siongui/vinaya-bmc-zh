@@ -1209,3 +1209,40 @@
 .. _他挖了一個陷阱: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0103a10
 .. _一位比丘用朋友作為試驗毒藥的小白鼠: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0109a06
 .. _出於對生病朋友的同情，加速了他的死亡: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0116a10
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - This factor covers four types of action: taking life, arranging an assassin, describing the advantages of dying, and inciting a person to die.
+     - 這個因素涵蓋了四種行為：奪取生命、安排行兇者、描述死亡的好處、煽動他人死亡。
+
+   * - *a) Taking life*
+     - *a) 奪取生命*
+
+   * - The Vibhaṅga defines *taking life* as “the cutting off, the ending, of the life faculty; interrupting the continuity.” The Vibhaṅga lists a variety of means by which one might try to do this, which the Commentary divides into four categories:
+
+     - 《經分別》將\ `奪取生命`_\ 定義為「命根的切斷、終止；中斷連續。」《經分別》列出了可以嘗試做到這一點的各種方法，《義註》將其分為四類：
+
+   * - —\ *One’s own person:* hitting with one’s hands or feet; using weapons such as knives, sticks, clubs, etc.; handing poison to a person; giving a pregnant woman medicine that would cause an abortion; moving an ill person.
+
+     - —\ *自身：*\ 用手或腳擊打；使用刀、棍、棒等武器；將毒藥給人；給孕婦服用會導致流產的藥物；移動病人。
+
+   * - —\ *Throwing:* hurling a stone, shooting an arrow. At present, shooting a gun or hurling a grenade would come under this category.
+     - —\ *投擲：*\ 投擲石頭、射箭。目前，開槍或投擲手榴彈都屬於這一類。
+
+   * - —\ *Stationary devices:* setting a trap, digging a pitfall, placing a weapon in a place where a victim may fall, sit, or lie down on it; placing poison in food, etc. At present, setting out a land mine would come under this category.
+     - —\ *固定裝置：*\ 設置陷阱、挖陷阱、將武器放置在受害者可能跌倒、坐或躺的地方；在食物中投毒等等。目前，埋設地雷屬於此類。
+
+   * - —\ *Commanding:* telling another person to commit a murder. This category includes recommendations expressed in the imperative as well as express commands. A few examples:
+     - —\ *命令：*\ 命令另一個人去殺人。此類別包括祈使句中表達的建議，和表達命令。舉幾個例子：
+
+   * - **TELLING B TO KILL C.** The way in which a bhikkhu is penalized for getting another person to commit a murder—through sign or verbal command—can be inferred from the discussion of accomplices under the preceding rule. The Vibhaṅga here, as under that rule, states that if one’s accomplice does not follow one’s instructions precisely, one is absolved of an offense. In discussing this point, the Commentary goes into great detail concerning the six ways the command to kill can be specified: the object [the person to be killed], the time, the place, the weapon to use, the action by which the weapon is to be used [e.g., “Stab him in the neck”], and the position the victim should be in [sitting, standing, lying down] when the act is to be done. If the instigator specifies any of these things and yet his accomplice does not carry them out to the letter, the instigator does not incur the penalty for the actual murder. For instance, Bhikkhu A tells his student B to kill C while C is sitting in meditation at midnight. The student gets into C’s room at midnight, only to find C asleep in bed, which is where he kills him. Bhikkhu A thus incurs only the thullaccaya for convincing his student to accept the command.
+
+     - **叫 B 去殺 C。**\ 比丘因唆使他人去謀殺而受到懲罰的方式－透過示意動作或口頭命令－可以從前一個戒條下共犯的討論中推斷出來。根據該戒條，《經分別》在此說，如果共犯沒有完全遵循指示，那麼就可以免於犯戒。《義註》在論述這一點時，詳細闡述了殺人命令的六種措辭方式：對象[要被殺的人]、時間、地點、使用的武器、使用武器的動作[例如，「刺他的脖子」]，以及受害者在進行該行動時應採取的姿勢[坐著、站立、躺著]。如果教唆者指定了其中任何一項，但他的共犯沒有嚴格執行，則教唆者不會因實際謀殺而受到懲罰。例如，比丘 A 告訴他的學生 B ，在半夜 C 打坐的時候，殺了 C 。學生半夜進入 C 的房間，發現 C 睡在床上，於是他在那裡殺死了他。因此，比丘 A 只因說服他的學生接受命令而犯《偷蘭遮》。
+
+.. _奪取生命: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0099a03
