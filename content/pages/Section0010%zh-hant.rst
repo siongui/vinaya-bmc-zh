@@ -1245,4 +1245,33 @@
 
      - **叫 B 去殺 C。**\ 比丘因唆使他人去謀殺而受到懲罰的方式－透過示意動作或口頭命令－可以從前一個戒條下共犯的討論中推斷出來。根據該戒條，《經分別》在此說，如果共犯沒有完全遵循指示，那麼就可以免於犯戒。《義註》在論述這一點時，詳細闡述了殺人命令的六種措辭方式：對象[要被殺的人]、時間、地點、使用的武器、使用武器的動作[例如，「刺他的脖子」]，以及受害者在進行該行動時應採取的姿勢[坐著、站立、躺著]。如果教唆者指定了其中任何一項，但他的共犯沒有嚴格執行，則教唆者不會因實際謀殺而受到懲罰。例如，比丘 A 告訴他的學生 B ，在半夜 C 打坐的時候，殺了 C 。學生半夜進入 C 的房間，發現 C 睡在床上，於是他在那裡殺死了他。因此，比丘 A 只因說服他的學生接受命令而犯《偷蘭遮》。
 
+   * - As under the preceding rule, the Commentary tries to argue that if B will certainly succeed in killing C in line with A’s command, A incurs a pārājika when giving the command, but again, this opinion does not conform with the Vibhaṅga.
+
+     - 正如前一個戒條一樣，《義註》試圖爭辯說，如果 B 按照 A 的命令肯定會成功殺死 C ，則 A 在發出命令時犯《波羅夷》，但同樣地，這種觀點不符合《經分別》。
+
+   * - The case of the innocent accomplice—one who does not know that the action he is being told to do will result in death—also seems relevant here, as in the case where a bhikkhu prepares a syringe of poison and tells his accomplice, who thinks the syringe contains medicine, to inject it into a patient. There seems every reason to impose a pārājika on the bhikkhu if the patient then dies, but the accomplice would incur no offense.
+
+     - 無辜共犯的案例－一個不知道他被告知要做的行為會導致死亡的人－似乎也與這裡有關，就像一位比丘準備一筒注射器毒藥並告訴他的共犯的情況一樣，他的共犯認為注射器含有藥物，用於將其注射到病人體內。如果病人死了，似乎有充分的理由對比丘施加《波羅夷》，但共犯沒有犯戒。
+
+   * - **RECOMMENDING MEANS OF ABORTION.**
+     - **推薦墮胎方式。**
+
+   * - **RECOMMENDING MEANS OF EUTHANASIA.** The Vinīta-vatthu includes a case of a criminal who has just been punished by having his hands and feet cut off. A bhikkhu asks the man’s relatives, “Do you want him to die? Then make him drink buttermilk (§) (!).” The relatives follow the bhikkhu’s recommendation, the man dies, and the bhikkhu incurs a pārājika.
+
+     - **推薦安樂死的方法。**\ 《Vinīta_-vatthu_》中記載了\ `一名罪犯剛接受了被砍掉手腳的懲罰`_\ 。一位比丘問該罪犯的親戚們：「你們想讓他死嗎？那就讓他喝酪漿(§)(!)。」親戚們聽從了比丘的推薦，這個人死了，比丘犯《波羅夷》。
+
+   * - **RECOMMENDING MEANS OF CAPITAL PUNISHMENT.** Again from the Vinīta-vatthu: A bhikkhu tells an executioner to kill his victims mercifully with a single blow, rather than torturing them. The executioner follows his advice and the bhikkhu incurs a pārājika, for the recommendation to kill mercifully is still a recommendation to kill. According to the Vinīta-vatthu, if the executioner says that he will not follow the bhikkhu’s advice and then kills his victims as he pleases, the bhikkhu incurs no penalty. The Commentary adds that if the executioner tries to follow the bhikkhu’s advice and yet needs more than one blow to do the job, the bhikkhu incurs a thullaccaya.
+
+     - **建議死刑手段。**\ 再次來自《Vinīta_-vatthu_》：一位比丘\ `告訴劊子手，要仁慈地一擊殺死受害者`_\ ，而不是折磨他們。劊子手聽從了他的建議，比丘犯《波羅夷》，因為仁慈地殺人的建議仍然是殺人的建議。根據《Vinīta_-vatthu_》，如果劊子手說他不會聽從比丘的建議，然後隨心所欲地殺死受害者，那麼比丘不會受到懲罰。《義註》補充說，如果劊子手試圖聽從比丘的建議，但需要不止一擊才能完成這項工作，比丘犯《偷蘭遮》。
+
+   * - **INDIRECT STATEMENTS.** The Canon and Commentary differ as to whether indirect statements that are not imperatives would also qualify as commands or recommendations under this rule. The Commentary maintains that a bhikkhu cannot get around a penalty by phrasing his wish for a murder in more roundabout ways, and gives an example in which a bhikkhu tells people, “In such-and-such a place a bandit is staying. Whoever cuts off his head will receive great honor from the King.” If any of the bhikkhu’s listeners kills the bandit as a result of his instigation, the Commentary says, the bhikkhu incurs a pārājika.
+
+     - **間接陳述。**\ 對於非命令性的間接陳述是否也符合本戒條下的命令或建議的問題，《聖典》和《義註》存在分歧。《義註》認為，比丘不能以更迂迴的方式表達他想要謀殺的願望來逃避懲罰，並舉了一個比丘告訴人們的例子：「在某某地方，有一個強盜居住。誰砍下他的頭，誰就會受到國王的極大榮耀。」《義註》說，如果比丘的任何聽眾在他的慫恿下殺死了強盜，比丘犯《波羅夷》。
+
+   * - Examples of commands and recommendations in the Canon, however, are all expressed as imperatives: “Do this!” “If you want him to die, do this.” The only examples of indirect statements are those in which a bhikkhu expresses a wish, “O, if only so-and-so were murdered.” According to the Vibhaṅga, this statement incurs a dukkaṭa regardless of whether it is made in public or private, and regardless of whether one knows that anyone else is overhearing it or not. There is no discussion, however, of what one’s intention might be in making the statement, nor of the consequences for the speaker if anyone, inspired by his remark, actually kills the person in question. This implies that the authors of the Vibhaṅga did not regard statements of this sort as fulfilling the factor of effort under this rule. This may seem unduly lenient, but given that a bhikkhu whose express command to kill is followed but not to the letter would also incur only a thullaccaya, this judgment seems consistent with the Vibhaṅga’s pattern of assigning penalties.
+
+     - 然而，《聖典》中的命令和建議的例子都以祈使語氣表達：「這樣做！」「如果你想讓他死，就這麼做吧。」間接陳述的唯一例子是那些比丘表達願望的例子：「噢，如果某某被謀殺就好了。」根據《經分別》，這種陳述會犯《突吉羅》，無論它是公開說還是私下說，也無論一個人是否知道其他人正在無意中聽到它。然而，沒有討論發表陳述的意圖是什麼，也沒有討論如果有人受到他的言論的啟發，實際上殺死了有關的人，那麼他將面臨什麼後果。這暗示《經分別》的作者並不認為此類陳述滿足了本戒條下的努力因素。這可能顯得過於寬鬆，但考慮到比丘如果遵守明示的殺戮命令，但不嚴格執行，也只會犯《偷蘭遮》，這一判決似乎與《經分別》的懲罰模式一致。
+
 .. _奪取生命: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0099a03
+.. _一名罪犯剛接受了被砍掉手腳的懲罰: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0116a10
+.. _告訴劊子手，要仁慈地一擊殺死受害者: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0116a05
