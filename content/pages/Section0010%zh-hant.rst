@@ -1303,4 +1303,42 @@
 
      - 正如戒條所表明的，比丘不僅可以使用上述六種奪取生命方式中的任何一種，而且還可以透過「尋找行兇者」來犯戒。《經分別》僅僅用一張武器清單解釋了戒條中的這句話：劍、矛、魚叉（§—《戒律書》省略了此項）、串子/木樁、棍棒、石頭、刀、毒藥或繩索。有兩種方法可以理解這個清單。一是，因為巴利單字中行兇者的字面意思是「持刀者」（\ *satthahāraka*\ ），所以《經分別》煞費苦心地解釋行兇者除了刀之外還可能使用其他武器。理解該清單的另一種方式，受到《義註》的青睞，是將《經分別》的清單視為試圖定義 *satthahāraka* 此單字－根據《義註》，此單字是殺人武器的通用術語。《義註》接著說，\ *尋找行兇者*\ 整句話意思是設置固定裝置，如上所述。這個理解有兩個問題，第一個是 *satthahāraka* 此單字在《聖典》的其他部分中明確表示「行兇者」（參見，例如，\ `《中部》145經`_\ ）；第二個是，這種理解使該句話完全多餘：戒條的另一部分已經涵蓋了設置固定裝置。因此，我們將遵循《經分別》對這句話的解釋的第一個理解：它表明行兇者可以使用任何武器。
 
+   * - The question remains, however, as to how this interpretation is not redundant with *commanding* under the explanation of the ways of taking life. The answer appears to be this: The word *satthahāraka* is most commonly used in the Canon in the context of an assisted suicide, in which a person who wants to die but cannot bring himself to commit suicide arranges for someone else, a satthahāraka, to kill him. Thus the inclusion of this phrase in the rule means that a bhikkhu intent on dying who arranges for someone else to do the job for him would incur all the derived offenses leading up to the actual death. At present, this would rule out trying to get a doctor to arrange an assisted suicide for oneself. If one were to help arrange an assisted suicide for someone else, the case would come under *commanding*, above, as would the case of arranging an assassin for someone else not at that person’s request.
+
+     - 然而，問題仍然在於，在解釋奪取生命的方式時，這種理解如何與\ *命令*\ 並存而不顯得多餘。答案似乎是這樣的：「\ *satthahāraka*\ 」這個單字在《聖典》中最常用於協助自殺，即一個想要死但又無法自殺的人安排其他人（satthahāraka）殺死他。因此，在戒條中包含這句話意味著，一個想要死亡的比丘如果安排其他人為他做這項工作，將會犯下導致實際死亡的所有衍生違犯。目前，這將排除試圖讓醫生為自己安排協助自殺的可能性。如果要幫助他人安排協助自殺，那麼該情況屬於上述的\ *命令*\ ，就像在未經他人請求下，為該人安排行兇者的情況一樣。
+
+   * - As we will see below, cases where one tries to kill oneself without arranging for someone else to do the job would not come under this rule. The apparent reason for making a distinction and including the act of “searching for an assassin” to kill oneself under this rule is that, in doing so, one would be asking another person to take on the seriously unskillful kamma of taking a human life.
+
+     - 正如我們將在下面看到的，一個人試圖自殺而不安排其他人來完成這項工作的情況不屬於這一戒條。做出區分並將「尋找行兇者」自殺行為納入這項戒條的明顯原因是，這樣做時，會要求另一個人承擔奪人生命的嚴重不善業。
+
+   * - The Commentary’s most useful comment in this context is its assertion that *searching* here must mean actually arranging, because the simple act of looking for an assassin without actually finding one would not incur any of the offenses under this rule.
+
+     - 在這種情況下，《義註》中最有用的評論是它斷言這裡的\ *尋找*\ 必須意味著實際安排，因為僅僅只有尋找行兇者而沒有實際找到，不會招致本戒條下的任何罪行。
+
 .. _《中部》145經: https://sutra.mobi/chilin/zhong/content/145.html
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *c) Describing the advantages of dying*
+     - *c) 描述死亡的好處*
+
+   * - This, the third type of act covered by this rule, can include berating a sick person (“Why do you keep hanging on to life like this? Don’t you realize what a burden you are to others?”) or simply telling a person of the miseries of life or the bliss of dying and going to heaven in such a way that he/she might feel inspired to commit suicide or simply pine away to death. The Vinīta-vatthu also includes under this type of act any statements that a nurse might make out of compassion to shorten the miseries of an illness by encouraging a patient to let go of life so as not to dawdle in the face of death. Thus, the Commentary notes, a bhikkhu talking to a dying patient should be very circumspect in how he chooses his words, focusing not on how to speed up the dying process but on how to inspire the patient with the following thoughts: “The attainment of the paths and fruitions is not out of the ordinary for a virtuous person. So, having formed no attachment for such things as your dwelling, and establishing mindfulness in the Buddha, Dhamma, Saṅgha, or the body, you should be heedful in your attention.” The Vinīta-vatthu to `Pr 4`_ contains a number of stories in which bhikkhus comfort a dying bhikkhu by asking him to reflect on what he has attained through the practice, which was apparently a common way of encouraging a dying bhikkhu to focus his thoughts on the best object possible. The suttas also contain advice on how to encourage patients facing death. See, for example, `MN 143`_, `SN 36:7`_, `SN 55:54`_, and `AN 6:16`_. In all of these cases, the advice is aimed not at precipitating death but at inspiring calm and insight.
+
+     - 這是這個戒條涵蓋的第三種行為，可以包括斥責病人（「你為什麼要這樣堅持生命？難道你沒有意識到你給別人帶來了多大的負擔嗎？」）或只是告訴一個人，生命的苦難，或死亡並進入天界的幸福，以至於他/她可能會受到啟發而自殺或乾脆憔悴而死。《Vinīta_-vatthu_》還包括屬於此類的行為：護士\ `出於同情心可能做出的任何陳述`_\ ，鼓勵患者放棄生命，以免在死亡面前拖磨，以縮短疾病的痛苦。因此，《義註》指出，比丘在與臨終病人交談時，應該非常謹慎地選擇措辭，不要關注如何加速臨終過程，而應關注如何啟發病人產生以下想法：「對於有戒行的人來說，道與果的成就並非不尋常的。因此，當你對住所等事物不產生執著，並在佛、法、僧、或身中建立正念時，你應該在你的注意力上保持警覺。」\ `《波羅夷》四`_\ 的《Vinīta_-vatthu_》包含了許多故事，在這些故事中，比丘安慰一位臨終的比丘，要他反思自己透過修行所獲得的成就，這顯然是鼓勵臨終的比丘將念頭集中在盡可能好的所緣上的常見方法。經文也包含如何鼓勵面臨死亡的患者的建議。例如，請參閱\ `《中部》143經`_\ 、\ `《相應部》36:7經`_\ 、\ `《相應部》55:54經`_\ 和\ `《增支部》6:16經`_\ 。在所有這些情況下，建議的目的不是加速死亡，而是激發冷靜和內觀。
+
+   * - The Vibhaṅga notes that a statement describing the advantages of dying would fulfill the factor of effort regardless of whether delivered by gesture, by voice, by writing, or by means of a messenger. The same holds true for any statements under the next type of act.
+
+     - 《經分別》指出，描述死亡好處的陳述將滿足努力的因素，無論是透過手勢、聲音、書寫或透過使者傳達。這同樣適用於下一個類型的行為之下的任何陳述。
+
+.. _MN 143: https://www.dhammatalks.org/suttas/MN/MN143.html
+.. _SN 36\:7: https://www.dhammatalks.org/suttas/SN/SN36_7.html
+.. _SN 55\:54: https://www.dhammatalks.org/suttas/SN/SN55_54.html
+.. _AN 6\:16: https://www.dhammatalks.org/suttas/AN/AN6_16.html
+.. _出於同情心可能做出的任何陳述: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0107a08
+.. _《中部》143經: https://sutra.mobi/chilin/zhong/content/143.html
+.. _《相應部》36\:7經: https://sutra.mobi/chilin/xiangying/content/36.html#%E4%B8%83%E7%97%85%E4%B9%8B%E4%B8%80
+.. _《相應部》55\:54經: https://sutra.mobi/chilin/xiangying/content/55.html#%E4%BA%94%E5%8D%81%E5%9B%9B%E7%97%85
+.. _《增支部》6\:16經: https://sutra.mobi/chilin/zengzhi/content/06.html#%E5%8D%81%E5%85%AD%E9%82%A3%E6%8B%98%E9%82%8F
