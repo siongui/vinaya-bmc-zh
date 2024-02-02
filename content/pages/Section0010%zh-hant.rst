@@ -1342,3 +1342,30 @@
 .. _《相應部》36\:7經: https://sutra.mobi/chilin/xiangying/content/36.html#%E4%B8%83%E7%97%85%E4%B9%8B%E4%B8%80
 .. _《相應部》55\:54經: https://sutra.mobi/chilin/xiangying/content/55.html#%E4%BA%94%E5%8D%81%E5%9B%9B%E7%97%85
 .. _《增支部》6\:16經: https://sutra.mobi/chilin/zengzhi/content/06.html#%E5%8D%81%E5%85%AD%E9%82%A3%E6%8B%98%E9%82%8F
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *d) Inciting a person to die*
+     - *d) 煽動他人死亡*
+
+   * - Inciting a person to die, the fourth type of act, covers:
+     - 煽動他人死亡是第四種行為，包括：
+
+   * - —Recommending suicide. This includes not only telling a person to commit suicide but also giving advice—whether requested or not—on the best ways to commit the act.
+     - —建議自殺。這不僅包括告訴一個人自殺，還包括無論是否要求，都提供有關實施該行為的最佳方式的建議。
+
+   * - —Telling a person to go to a dangerous place where he/she might die of the dangers.
+     - —告訴一個人去一個危險的地方，在那裡他/她可能會因危險而死亡。
+
+   * - —Arranging a terrible sight, sound, etc., to frighten a person to death, or a beautiful, “heart-stirring” one to attract a person who will then pine away to death when it fades.
+     - —安排一種可怕的景象、聲音等，把人嚇死，或者安排一種美麗的、「令人心曠神怡」的景象、聲音等來吸引人，等它消失後，人就會憔悴而死。
+
+   * - Four issues arise in relation to the above ways of killing:
+     - 上述殺害方式有四個問題：
+
+   * - *Command.* Giving a command or recommendation to get another person to perform any of these last three types of action—arranging an assassin, describing the advantages of dying, or inciting another person to die—would also fulfill the factor of effort under this rule.
+
+     - *命令。*\ 發出命令或建議讓另一個人執行最後三種類型的行動中的任何一種——安排行兇者、描述死亡的好處或煽動另一個人死亡——也符合本戒條下的努力因素。
