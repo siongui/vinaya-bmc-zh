@@ -1368,4 +1368,17 @@
 
    * - *Command.* Giving a command or recommendation to get another person to perform any of these last three types of action—arranging an assassin, describing the advantages of dying, or inciting another person to die—would also fulfill the factor of effort under this rule.
 
-     - *命令。*\ 發出命令或建議讓另一個人執行最後三種類型的行動中的任何一種——安排行兇者、描述死亡的好處或煽動另一個人死亡——也符合本戒條下的努力因素。
+     - *命令。*\ 發出命令或建議讓另一個人執行最後三種類型的行動中的任何一種－安排行兇者、描述死亡的好處或煽動另一個人死亡－也符合本戒條下的努力因素。
+
+   * - *Inaction.* Given the Vibhaṅga’s definition of taking life, we can infer that inaction does not fulfill the factor of effort here, for it does not cut off the life faculty. Thus if a bhikkhu sits idly when seeing a flood sweep a person downstream, he commits no offense—regardless of his feelings about the person’s death—even if the person then drowns. Recommending that another person sit idly as well would also not fulfill the factor of effort here, because the category of *command* covers only the act of inciting the listener to do any of the four actions that would fulfill the factor of effort under this rule.
+
+     - *不作為（見死不救）。*\ 根據《經分別》對奪取生命的定義，我們可以推斷，不作為在這裡並不能滿足努力因素，因為它不會切斷命根。因此，如果比丘看到洪水把人沖到下游時，無所事事地坐著，那麼無論他對這個人的死亡有什麼感受，即使這個人隨後被淹死，他也不會犯任何戒。建議另一個人也無所事事地坐著也不會滿足這裡的努力因素，因為\ *命令*\ 類別僅涵蓋煽動聽者執行本戒條下滿足努力因素的四種行動中的任何一種。
+
+   * - *Medical care and life-support.* The same holds true if a bhikkhu decides not to give a patient a treatment—or to discontinue treatment—that might conceivably extend the patient’s life: It does not fulfill the factor of effort, for such acts do not cut off the life faculty. At most they simply allow it to end on its own. The Canon supports this inference by treating such actions not under this rule but under `Mv.VIII.26.3-4`_, where it imposes only a dukkaṭa on the act of refusing to give any treatment at all to an ill bhikkhu, or of discontinuing all care for an ill bhikkhu prior to his recovery or death. This shows that the compilers of the Canon did not regard these acts as cutting off the life faculty. (`Mv.VIII.26.8`_ lists the ideal characteristics of a bhikkhu who tends to the sick, but does not impose a penalty on a bhikkhu who cares for the sick but lacks the ideal qualities; at no point does the Canon impose a required level of care for the sick. The compilers’ refusal to mandate a level of care is wise. If there were a case in which the bhikkhus did not feel that that level of care was appropriate for their patient, they would have only one option: to abandon the patient, so as to incur only a dukkaṭa and not the potentially higher penalty for not measuring up to the mandated care. Thus, instead of protecting the patient, a higher level of mandated care would expose the patient to abandonment.) For this reason, deciding to withhold or discontinue a particular treatment—while still continuing otherwise to care for the patient—would not be grounds for an offense.
+
+     - *醫療護理和生命維持。*\ 如果比丘決定不提供患者可以延長患者生命的治療，或停止治療，同樣的情況也適用：它不滿足努力因素，因為這樣的行為不會切斷命根。最多只是允許生命自行結束。《聖典》支持這一推論，不是根據本戒條而是根據\ `《大品》.八.26.3-4`_\ 來處理此類行為，其中拒絕對生病的比丘進行任何治療，或在生病的比丘康復或死亡之前停止對他的所有護理的行為，僅只犯《突吉羅》。由此可見，《聖典》的編纂者並不認為這些行為是切斷命根的行為。（\ `《大品》.八.26.8`_\ 列出了照顧病人的比丘的理想特質，但沒有對照顧病人但缺乏理想特質的比丘施加懲罰；《聖典》在任何時候都沒有規定病人所需的護理水平。編譯者拒絕強制規定護理水平是明智的。如果出現比丘們認為該水平的護理不適合他們的病人的情況，他們只有一個選擇：放棄患者，這樣只會犯《突吉羅》，而不是因為未達到強制規定的護理水平而受到潛在的更高懲罰。因此，更高水平的強制護理不但不能保護患者，反而會使患者面臨被遺棄的風險。）因此，決定拒絕或停止特定治療－同時仍繼續以其他方式護理患者－不會成為犯戒的理由。
+
+.. _Mv.VIII.26.3-4: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VIII.26.1-8
+.. _Mv.VIII.26.8: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VIII.26.1-8
+.. _《大品》.八.26.3-4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0391a09
+.. _《大品》.八.26.8: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0393a02
