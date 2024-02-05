@@ -1378,7 +1378,30 @@
 
      - *醫療護理和生命維持。*\ 如果比丘決定不提供患者可以延長患者生命的治療，或停止治療，同樣的情況也適用：它不滿足努力因素，因為這樣的行為不會切斷命根。最多只是允許生命自行結束。《聖典》支持這一推論，不是根據本戒條而是根據\ `《大品》.八.26.3-4`_\ 來處理此類行為，其中拒絕對生病的比丘進行任何治療，或在生病的比丘康復或死亡之前停止對他的所有護理的行為，僅只犯《突吉羅》。由此可見，《聖典》的編纂者並不認為這些行為是切斷命根的行為。（\ `《大品》.八.26.8`_\ 列出了照顧病人的比丘的理想特質，但沒有對照顧病人但缺乏理想特質的比丘施加懲罰；《聖典》在任何時候都沒有規定病人所需的護理水平。編譯者拒絕強制規定護理水平是明智的。如果出現比丘們認為該水平的護理不適合他們的病人的情況，他們只有一個選擇：放棄患者，這樣只會犯《突吉羅》，而不是因為未達到強制規定的護理水平而受到潛在的更高懲罰。因此，更高水平的強制護理不但不能保護患者，反而會使患者面臨被遺棄的風險。）因此，決定拒絕或停止特定治療－同時仍繼續以其他方式護理患者－不會成為犯戒的理由。
 
+   * - If, however, a bhikkhu caring for a patient acts in a way to cut off the patient’s life faculty, that would fulfill the factor of effort here. The Vinīta-vatthu makes this point with a set of cases in which bhikkhus give patients treatments that are actually harmful for the patients. In the instances where the other factors for an offense are present—the bhikkhus mean to kill the patient, and the patient dies—the bhikkhus incur the full offense. In another set of cases, a bhikkhu feeling pity for a friend in severe pain praises the pleasures that await him after death. Again, in the instances where the bhikkhu intends to bring about the patient’s death and the patient dies, the bhikkhu incurs a pārājika.
+
+     - 然而，如果一位比丘照顧病人時以切斷病人命根的方式行事，那就滿足了這裡的努力因素。《Vinīta_-vatthu_》透過一組比丘為病人提供實際上對病人有害的治療的案例來闡述這一點。在有其他犯戒因素的情況下－比丘意圖殺死病人，而病人死亡－比丘則完全違犯此戒。在另一組案例中，一位比丘對一位遭受劇烈痛苦的朋友感到憐憫，並稱讚死後等待著他的快樂。再者，當比丘意圖導致病人死亡而病人死亡時，比丘犯《波羅夷》。
+
+   * - For more on the topic of medical care, see `BMC2, Chapter 5`_.
+     - 有關醫療護理主題的更多信息，請參閱\ `《佛教修道準則 第二冊》第五章`_\ 。
+
+   * - *Shared responsibility.* Unlike the Vibhaṅga to the preceding rule, the Vibhaṅga here does not explicitly discuss the issue of how to allot penalties when a group of bhikkhus acts together to commit a murder but only one of them delivers the fatal blow. However, the Vinīta-vatthu contains a series of cases in which bhikkhus act as a group to give a treatment to a sick bhikkhu with the aim of ending his life. When the bhikkhu dies, all of them incur a pārājika. In one of the cases the bhikkhu dies from a medical treatment to the nose, in another he dies from eating food. None of the texts discuss whether all the bhikkhus in question took turns giving the fatal dosage, or if only one of the bhikkhus did while the others helped to prepare it. Given that arranging an assassin would fulfill the factor of effort under this rule, it seems reasonable to infer that actively assisting in a murder would also fulfill the factor, even if one does not deliver the fatal blow. From this inference we can conclude that the discussion of shared responsibility under the preceding rule would also apply here.
+
+     - *共同責任。*\ 與前一個戒條的《經分別》不同的是，這裡的《經分別》並沒有明確討論當一群比丘共同實施謀殺但只有一個人造成致命一擊時如何分配懲罰的問題。然而，《Vinīta_-vatthu_》包含一系列比丘們以團體的方式治療生病的比丘，並打算結束他的生命的案例。當比丘去世時，他們都犯《波羅夷》。在其中一例中，比丘因鼻子接受治療而死亡，在另一例中，他則因進食而死亡。沒有任何文本討論是否所有相關的比丘輪流給予致命的劑量，或者是只有一名比丘這樣做，而其他比丘則幫助準備。鑑於安排一名行兇者就滿足了本戒條下的努力因素，似乎可以合理地推斷，即使沒有造成致命一擊，積極協助謀殺也滿足了這一因素。由此推論，我們可以得出結論，前一個戒條中關於共同責任的討論也適用於此處。
+
 .. _Mv.VIII.26.3-4: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VIII.26.1-8
 .. _Mv.VIII.26.8: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VIII.26.1-8
 .. _《大品》.八.26.3-4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0391a09
 .. _《大品》.八.26.8: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0393a02
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Result**
+     - **結果**
+
+   * - This factor is fulfilled if, as a result of the bhikkhu’s action, the victim dies through the cutting of his/her life-faculty. Because the life-faculty is something that inevitably ends, there is a need to define clearly how far the influences of a bhikkhu’s actions should be traced for him to be considered responsible for a death.
+
+     - 如果比丘的行動導致受害者因命根切斷而死亡，那麼這一因素就會被滿足。因為命根是不可避免會結束的，因此有必要明確定義比丘行動的影響程度，追溯到他被認定為死亡負責。
