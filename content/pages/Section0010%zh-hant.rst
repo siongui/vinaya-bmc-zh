@@ -1417,3 +1417,36 @@
    * - The Commentary also considers a different sort of case related to the factor of result: If a bhikkhu means to cause the death of a group of people, then when any member of the group dies as a result of his efforts, the Commentary says that he incurs a pārājika. In other words, he does not have to fulfill his intention of killing the whole group in order to fulfill the factor of result here.
 
      - 《義註》也考慮了與結果因素相關的另一種情況：如果一個比丘有意造成一群人的死亡，那麼當該群體的任何成員由於他的努力而死亡時，《義註》說，他犯《波羅夷》。也就是說，他並不需要實現殺死整個群體的意圖，才能滿足這裡的結果因素。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Derived penalties**
+     - **衍生懲罰**
+
+   * - The Canon assigns lesser penalties in cases where a bhikkhu tries to cause a person’s death through any of the four means mentioned in this rule and yet the person does not die. If the person experiences pain or injury as a result of the bhikkhu’s efforts, the penalty is a thullaccaya. If the bhikkhu’s efforts result in neither pain nor death, the penalty is a dukkaṭa for each separate action involved in the attempt.
+
+     - 如果比丘試圖透過本戒條中提到的四種方法中的任何一種導致某人死亡，但這個人並未死亡，則《聖典》會給予較輕的懲罰。如果因為比丘的努力而使人感到疼痛或受傷，懲罰是《偷蘭遮》。如果比丘的努力既沒有導致痛苦，也沒有導致死亡，則對嘗試中涉及的每一個單獨行為的懲罰是《突吉羅》。
+
+   * - If a bhikkhu intends simply to injure the victim or cause him/her pain, and yet the victim dies as a result of the bhikkhu’s actions, the case is treated under `Pc 74`_.
+
+     - 如果比丘只是意圖傷害受害者或給他/她帶來痛苦，但受害者卻因比丘的行為而死亡，則該情況按\ `《波逸提》七四`_\ 來處理。
+
+   * - There is an apparent contradiction in the Vinīta-vatthu concerning the penalty for a bhikkhu who tries to kill one person but ends up killing another instead. In one case it says that a bhikkhu who means to kill X but kills Y instead incurs a pārājika. In another case it tells of a bhikkhu who gives medicine to a woman who wants to commit an abortion near the end of a full-term pregnancy. The woman takes the medicine but, instead of the fetus’ aborting, the woman dies and the infant survives. In this case, the bhikkhu incurs a thullaccaya, presumably for the pain he caused the infant.
+
+     - 《Vinīta_-vatthu_》中關於對試圖殺某人但最終卻殺了另一個人的比丘的懲罰有一個明顯的矛盾。在某個案例中，它說一位比丘\ `想要殺死 X ，但卻殺死了 Y`_ ，犯《波羅夷》。在另一個案例中，講述了一位比丘為想要在完全足月妊娠即將結束時墮胎的婦女提供藥物。婦女服用了藥物，但胎兒並沒有流產，而是\ `婦女死亡，胎兒倖存`_\ 。在這種情況下，比丘犯《偷蘭遮》，大概是因為他帶給胎兒的痛苦。
+
+   * - The Commentary tries to resolve this contradiction with an illustration: A bhikkhu with a grudge against A decides to ambush him. He sees B coming down the road and, mistaking him for A, shoots him dead on the spot. Because his intention was to kill the person he was aiming at, he incurs a pārājika. We can call this a case of mistaken identity. In cases of this sort, whether the “right” or the “wrong” person dies is of no consequence to the offense.
+
+     - 《義註》試圖用一個例子來解決這個矛盾：一位對 A 懷有怨恨的比丘決定伏擊他。他看到 B 沿著路過來，誤認為他是 A ，當場開槍打死了他。因為他的意圖是殺死他所瞄準的人，所以他犯《波羅夷》。我們可以稱之為身份誤認的情況。在這種情況下，無論是「正確」的人還是「錯誤」的人死亡，對於犯戒都沒有影響。
+
+   * - If, however, the bhikkhu is a poor shot, takes aim at B but misses him, and inadvertently kills C instead, he does not incur a pārājika, for he did not intend to kill C during any part of his action. His only penalties are the dukkaṭas he incurs while preparing for B’s murder.
+
+     - 然而，如果比丘射擊技術不佳，瞄準 B 但沒有擊中他，並且無意中殺死了 C ，那麼他就不會犯《波羅夷》，因為他在行動的任何部分都無意殺死 C 。他唯一受到的懲罰是在準備謀殺 B 時犯《突吉羅》。
+
+.. _Pc 74: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
+.. _《波逸提》七四: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
+.. _想要殺死 X ，但卻殺死了 Y: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0115a04
+.. _婦女死亡，胎兒倖存: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0113a07
