@@ -1450,3 +1450,30 @@
 .. _《波逸提》七四: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
 .. _想要殺死 X ，但卻殺死了 Y: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0115a04
 .. _婦女死亡，胎兒倖存: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0113a07
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Special cases**
+     - **特別案例**
+
+   * - The Vinīta-vatthu includes three special cases that touch on this rule but inspired the Buddha to formulate separate rules to deal specifically with them:
+     - 《Vinīta_-vatthu_》包括三個特殊情況，它們涉及到本戒條，但啟發佛陀制定單獨的戒條來專門處理它們：
+
+   * - 1\) A bhikkhu, sitting down hard in a chair without first checking it carefully, kills a child lying in the chair and covered with a blanket—no penalty for the death, but a dukkaṭa for sitting down without first checking carefully.
+
+     - 1）一位比丘，在\ `沒有仔細檢查的情況下重重地坐在椅子上`_\ ，殺死了一個躺在椅子裡並蓋著毯子的孩子－並沒有因該死亡事故受到懲罰，但由於沒有先仔細檢查而坐下而犯《突吉羅》。
+
+   * - 2\) Some group-of-six bhikkhus, for the fun of it, throw a rock from a mountaintop and accidentally kill a young cowherd standing below—again, no penalty for the death, but a dukkaṭa for throwing a rock in fun. (The Commentary states that *rock* here also covers sticks, bricks, and other similar objects; and that *throwing* also includes rolling. It also states that if a bhikkhu has a valid reason for throwing or rolling a rock not in fun—for example, he is engaged in construction work and rolls a piece of rock to someone else on the job; he is eating his meal and throws a piece of wood to chase away crows or dogs—he incurs no offense.)
+
+     - 2）某六群比丘\ `為了好玩，從山頂扔石頭`_\ ，不小心殺死了站在山下的一位年輕牧牛者－同樣，並沒有因該死亡事故受到懲罰，但因為好玩扔石頭而犯《突吉羅》。（《義註》指出，這裡的\ *石頭*\ 也包括棍棒、磚塊和其他類似的物體；\ *投擲*\ 也包括滾動。它還指出，如果比丘有正當理由投擲或滾動石頭而非除為了好玩－例如，他從事建築工作，滾動石頭給正在工作的其他人；他正在吃飯，扔一塊木頭來趕走烏鴉或狗－他不犯戒。）
+
+   * - 3\) A bhikkhu, feeling oppressed and discontented, throws himself over a cliff. Instead of dying, he lands on and kills a hapless basket-maker standing at the foot of the cliff—again, no offense for the death, but a dukkaṭa for throwing oneself from a high place. This rule shows that attempts to kill oneself—aside from searching for an assassin, as mentioned above—would not come under the main rule here, because the bhikkhu would have apparently felt pain when landing on the basket-maker, and yet the penalty is only a dukkaṭa. If the case had been treated under the main rule, he would have been penalized with a thullaccaya instead.
+
+     - 3）一位比丘\ `感到壓抑和不滿，跳崖自殺`_\ 。他沒有死，而是壓死了站在懸崖腳下的一個倒霉的編籃人－同樣，並沒有因該死亡事故受到懲罰，但因為從高處跳下自殺而犯《突吉羅》。這條戒條表明，除了如上所述尋找行兇者之外，企圖自殺不屬於這裡的主要戒條，因為比丘壓在編籃人身上時顯然會感到疼痛，但懲罰只是《突吉羅》。如果按照主要戒條處理此案，他會犯《偷蘭遮》。
+
+.. _沒有仔細檢查的情況下重重地坐在椅子上: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0107a11
+.. _為了好玩，從山頂扔石頭: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0111a12
+.. _感到壓抑和不滿，跳崖自殺: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0111a09
