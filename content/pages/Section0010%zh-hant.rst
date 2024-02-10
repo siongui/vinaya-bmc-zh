@@ -1482,8 +1482,39 @@
 
      - 《義註》中的審議顯示了在這一領域制定律法是多麼困難，並且有理由質疑其在此應用《四大教示》的方式。情況 (b) 顯然源自\ `《相應部》4:23經`_\ ，其中瞿提迦尊者在臨終前自殺並證得阿羅漢果。從\ `《相應部》35:87經`_\ ，佛陀說，放下此身而不取他身的人，死時無可指責。然而，在對本情況做出判決時，《義註》必須將動機和感知添加到因素中，而這些因素是判決所依據的戒條中所沒有的。它也沒有回答這樣的問題：疾病必須有多嚴重，以及預期的成就有多接近，才有資格獲得這種豁免。
 
+   * - This same holds true for case (a), which entails even more dubious reasoning. The Commentary’s judgment here has no clear precedent in the Canon; there is no clear line for deciding exactly how bad the illness and how fed up the attendants have to be for this case to apply; and why should the feelings of other people determine when it is or is not allowable to refuse food?
+
+     - 對於情況（a）也是如此，它的推理更加暧昧可疑。《義註》此處的判斷在《聖典》中沒有明確的先例；對於這種情況的適用，沒有明確的界線來確定病情的嚴重程度以及護理人員必須有多厭倦；而且為什麼要根據別人的感受來決定何時允許或不允許拒絕食物？
+
+   * - It is worth noting that the origin story to the original rule here gave the Buddha the opportunity, had he wanted it, to formulate a general rule against attempted suicides, but he chose not to. He later formulated this subsidiary rule only when a bhikkhu attempted a suicide in a way that endangered the life and safety of another person. Thus a more appropriate way of applying the Great Standards to this subsidiary rule would be to extend it only to cases of that sort: where a bhikkhu’s attempts at suicide would bring danger to another person’s life and limb.
+
+     - 值得注意的是，這裡原始戒條的起源故事給了佛陀機會，如果他願意的話，可以制定禁止試圖自殺的一般戒條，但他選擇不這樣做。後來，只有當比丘試圖以會危害他人生命和安全的方式自殺時，他才制定了這條輔助戒條。因此，將《四大教示》應用於這條輔助戒條的一個更合適的方法是僅將其擴展到此類情況：比丘的試圖自殺會給另一個人的生命和肢體帶來危險。
+
+   * - As for ways of attempting suicide that do not endanger others, it seems better to follow the Buddha’s wisdom in not legislating about this issue at all, and to treat it as a matter of Dhamma rather than Vinaya. In other words, one should keep in mind his comment in SN 35:87 that the only blameless death is an arahant’s. If, lacking that attainment, one chooses to refuse food when ill to speed up one’s death, one should be heedful of the risks that death and rebirth can involve.
+
+     - 至於試圖自殺而不危及他人的方式，似乎最好遵循佛陀的智慧，根本不對此議題制定律法，並將其視為「法」而不是「律」的問題。換句話說，人們應該記住他在\ `《相應部》35:87經`_\ 中的評論，即唯一無可指責的死亡是阿羅漢的死亡。如果缺乏這種成就，在生病時選擇拒絕食物以加速死亡，則應該警惕死亡和重生可能涉及的風險。
+
 .. _沒有仔細檢查的情況下重重地坐在椅子上: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0107a11
 .. _為了好玩，從山頂扔石頭: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0111a12
 .. _感到壓抑和不滿，跳崖自殺: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0111a09
 .. _《相應部》4\:23經: https://sutra.mobi/chilin/xiangying/content/04.html#%E4%BA%8C%E5%8D%81%E4%B8%89%E7%9E%BF%E6%8F%90%E8%BF%A6
 .. _《相應部》35\:87經: https://sutra.mobi/chilin/xiangying/content/35.html#%E5%85%AB%E5%8D%81%E4%B8%83%E8%BB%8A%E5%8C%BF
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - As stated above, there is no offense for a bhikkhu who kills a person unintentionally, not knowing, or not aiming at death.
+     - 如上所述，比丘無意、不知、或不以死亡為目的而殺死人，並無犯戒。
+
+   * - As for the standard exemptions, the Thai edition lists all four under this rule: a bhikkhu who is insane, possessed by spirits, delirious with pain, and the first offenders (in this case, some group-of-six bhikkhus who, in a follow-up to the origin story, described the advantages of death to a man with a beautiful wife, in hopes that he would commit suicide so that she could be theirs; he did commit suicide, but she denounced them). Other editions of the Canon omit exemptions for a bhikkhu possessed by spirits or delirious with pain. The Commentary refers to the standard exemptions as a set simply with the word, “insane, etc.” There is reason to believe that if these two exemptions were missing in the time of the Commentary, it would have noted their absence.
+
+     - 至於標準豁免，泰文版列出了本戒條下的所有四種：精神錯亂，被靈體附身，因疼痛而狂亂，以及第一個犯此戒的比丘（在這個案例中，某六群比丘，他們在起源故事的後續，向一個擁有美麗妻子的男人描述了死亡的好處，希望他自殺，這樣她就可以屬於他們；他確實自殺了，但她譴責了他們）。其他版本的《聖典》省略了對被靈體附身，或因痛苦而狂亂的比丘的豁免。《義註》將標準豁免視為一組，僅用“精神錯亂等”一詞來提及。有理由相信，如果在《義註》的時代缺少這兩項豁免，那麼它會指出它們不存在。
+
+   * - *Summary: Intentionally bringing about the death of a human being, even if it is still an embryo—whether by killing the person, arranging for an assassin to kill the person, inciting the person to die, or describing the advantages of death—is a pārājika offense.*
+
+     - *摘要：故意造成一個人的死亡，即使它還是一個胚胎－無論是殺人、安排行兇者殺人、煽動人去死，還是描述死亡的好處－都是《波羅夷》罪。*
