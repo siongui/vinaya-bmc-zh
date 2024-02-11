@@ -831,7 +831,7 @@
 .. _Cv.VI.15.2: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Cv.VI.15.2
 .. _《小品》.六.15.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0231a01
 .. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
-.. _《波羅夷》四: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
+.. _《波羅夷》四: #pr4
 .. TODO FIXME: replace link to 《波羅夷》四
 .. _用於其他地方: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0235a08
 .. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
@@ -1518,3 +1518,30 @@
    * - *Summary: Intentionally bringing about the death of a human being, even if it is still an embryo—whether by killing the person, arranging for an assassin to kill the person, inciting the person to die, or describing the advantages of death—is a pārājika offense.*
 
      - *摘要：故意造成一個人的死亡，即使它還是一個胚胎－無論是殺人、安排行兇者殺人、煽動人去死，還是描述死亡的好處－都是《波羅夷》罪。*
+
+
+.. _Pr4:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **4**
+     - **四**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, without direct knowledge, claim a superior human state, a truly noble knowledge and vision, as present in himself, saying, “Thus do I know; thus do I see,” such that regardless of whether or not he is cross-examined on a later occasion, he—being remorseful and desirous of purification—might say, “Friends, not knowing, I said I know; not seeing, I said I see—vainly, falsely, idly,” unless it was from over-estimation, he also is defeated and no longer in affiliation.*
+
+     - .. container:: notification
+
+          *如果任何比丘在沒有證知的情況下，宣稱自己具有上人法、真正聖智見，他說：「我如是知；我如是見，」以至於無論以後是否受到盤問，他在悔恨欲清淨的情況下，可能會說：「朋友們，不知，我說我知；不見，我說我見。──徒勞、虛假、無益。」除非是因為高估，否則也是波羅夷，不共住。*
+
+   * - All conscious lies are forbidden by the first pācittiya rule, but knowingly to make a false claim to a superior human state is one of the most heinous lies a bhikkhu can tell, so here it receives its own rule and the heaviest possible penalty.
+
+     - 所有有意識的謊言都是第一條《波逸提》戒條所禁止的，但故意謊稱有上人法是比丘所能說出的最令人髮指的謊言之一，因此在這裡它有自己的戒條和最重的可能懲罰。
+
+   * - The seriousness with which the Buddha regarded a breach of this training rule is indicated by his statements to the original instigators:
+     - 佛陀對違反這項學處的行為的嚴肅態度可以從\ `他對最初犯戒者的陳述`_\ 中看出：
+
+.. _他對最初犯戒者的陳述: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0120a09

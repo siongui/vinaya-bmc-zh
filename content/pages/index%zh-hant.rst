@@ -114,7 +114,7 @@
      - `\　　三 <{filename}Section0010%zh-hant.rst#pr3>`__
 
    * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4>`__
-     - 　　四
+     - `\　　四 <{filename}Section0010%zh-hant.rst#pr4>`__
 
    * - `\　Saṅghādisesa <https://www.dhammatalks.org/vinaya/bmc/Section0011.html>`__
      - 　僧殘
