@@ -1568,3 +1568,19 @@
      - 註釋加入了第五個因素－結果－說聽者必須理解在說什麼，才能構成完整的犯戒，但正如我們將在下面看到的，這個因素看起來是基於對《經分別》的誤讀。
 
 .. _他對最初犯戒者的陳述: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0120a09
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga lists many superior human states, defining them as follows:
+     - 《經分別》列出了許多\ `上人法`_\ ，定義如下：
+
+   * - meditative absorption *(jhāna):* the four jhānas;
+     - 禪定\ *（jhāna）：*\ 四種禪那；
+
+.. _上人法: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0124a09
