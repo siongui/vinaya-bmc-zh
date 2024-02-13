@@ -1583,4 +1583,35 @@
    * - meditative absorption *(jhāna):* the four jhānas;
      - 禪定\ *（jhāna）：*\ 四種禪那；
 
+   * - emancipation *(vimokkha):* the emptiness *(suññatā)* emancipation, the theme-less *(animitta)* emancipation, and the non-directed *(appaṇihita)* emancipation;
+     - 解脫\ *（vimokkha）：*\ 空\ *（suññatā）*\ 解脫、無相\ *（animitta）*\ 解脫、無願\ *（appaṇihita）*\ 解脫；
+
+   * - concentration *(samādhi):* the emptiness concentration, the theme-less concentration, and the non-directed concentration;
+     - 三昧\ *（samādhi）：*\ 空三昧、無相三昧、無所有三昧；
+
+       .. https://yinshun-edu.org.tw/zh-hant/Master_yinshun/y11_02_03_02
+
+   * - meditative attainments *(samāpatti):* the emptiness attainment, the theme-less attainment, and the non-directed attainment;
+     - 正受\ *（samāpatti）：*\ 空正受、無相正受、無所有正受；
+
+   * - knowledge-and-vision *(ñāṇa-dassanā):* knowledge of past lives, knowledge of the passing away and arising of beings, and knowledge of the ending of mental effluents (āsava);
+
+     - 智見\ *（nāṇa-dassanā）：*\ 宿住智、有情死生智、漏盡智\ *（āsava）*\ ；
+
+       ..
+          https://zh.wikisource.org/zh-hant/%E4%BD%9B%E5%AD%B8%E5%A4%A7%E8%BE%AD%E5%85%B8/%E4%B8%89%E6%98%8E
+          佛學大辭典/三明
+          https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-BM054/bm054576396.pdf
+          住隨念智、有情死生智、諸漏滅盡智
+
+   * - path-development *(magga-bhāvanā):* the 37 Wings to Awakening *(bodhipakkhiya-dhamma)*\—the four establishings of mindfulness, the four right exertions, the four bases of power, the five faculties, the five strengths, the seven factors for Awakening, and the noble eightfold path;
+
+     - 修道\ *（magga-bhāvanā）：*\ 三十七菩提分法\ *（bodhipakkhiya-dhamma）*\ －四念處、四正勤、四神足、五根、五力、七覺支、及八正道；
+
+       .. https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8D%81%E4%B8%83%E8%8F%A9%E6%8F%90%E5%88%86%E6%B3%95
+
+   * - the realization of the noble fruits *(phala-sacchikiriya):* the fruit of stream-entry, the fruit of once-returning, the fruit of non-returning, and the fruit of arahantship;
+
+     - 證得聖果\ *（phala-sacchikiriya）：*\ 入流果、一來果、不還果、阿羅漢果；
+
 .. _上人法: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0124a09
