@@ -1614,4 +1614,36 @@
 
      - 證得聖果\ *（phala-sacchikiriya）：*\ 入流果、一來果、不還果、阿羅漢果；
 
+   * - the abandoning of defilements *(kilesappahāna):* the abandoning of passion, aversion, and delusion;
+     - 斷煩惱\ *（kilesappahāna）：*\ 斷貪、瞋、癡；
+
+   * - the mind’s freedom from hindrance *(vinīvaraṇatā cittassa):* the mind unhindered by passion, aversion, and delusion; and
+     - 心離蓋\ *（vinīvaraṇatā cittassa）：*\ 心不受貪、瞋、癡的阻礙； 和
+
+   * - delight in an empty dwelling *(suññāgāre abhirati):* the delight in an empty dwelling stemming from the four jhānas.
+     - 樂靜處\ *（suññāgāre abhirati）：*\ 從四種禪那而生的樂靜處。
+
+   * - The Commentary classifies these states into two broad categories: *mahaggata dhamma*\—“enlarged” or “expanded” states—related to the practice of meditative absorption; and *lokuttara dhamma*\—transcendent states—related to the absolute eradication of the mental fetters that bind the mind to the cycle of rebirth.
+
+     - 《義註》將這些狀態分為兩大類：\ *mahaggata dhamma*\ －「廣大的」或「擴展的」狀態－與禪那修行有關；和\ *lokuttara dhamma*\ －出世間的狀態－與徹底根除將心束縛於輪迴的\ `結使`_\ 有關。
+
+   * - *a. Mahaggata dhamma*
+     - *廣大法*
+
+   * - The discourses describe the four jhānas as follows:
+     - 經文對四種禪那的描述如下：
+
+   * - “There is the case where a bhikkhu—quite secluded from sensuality, secluded from unskillful qualities—enters and remains in the *first jhāna:* rapture and pleasure born of seclusion, accompanied by directed thought and evaluation. He permeates and pervades, suffuses and fills this very body with the rapture and pleasure born of seclusion….
+
+     - 「有一種情況，一位比丘－離欲、離不善法－進入並安住於\ *初禪：*\ 由遠離而生的喜與樂，伴隨著定向思惟 :small:`（尋，覺）` 和評估 :small:`（伺，觀）` 。他用遠離所產生的喜和樂來滲透、遍及、布滿、充滿這個身體……。
+
+       .. https://agama.buddhason.org/book/mn12/mn1209.htm
+
+   * - “And furthermore, with the stilling of directed thoughts and evaluations, he enters and remains in the *second jhāna:* rapture and pleasure born of concentration, unity of awareness free from directed thought and evaluation—internal assurance. He permeates and pervades, suffuses and fills this very body with the rapture and pleasure born of concentration….
+
+     - 再者，隨著定向思惟和評估的止息，他進入並安住於\ *二禪：*\ 由定而生的喜與樂、內心安住一境，沒有定向思惟和評估－內在的確信。他用定而生的喜和樂滲透、遍及、布滿、充滿這個身體……。
+
+       .. https://sutra.mobi/chilin/zhong/content/119.html
+
 .. _上人法: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0124a09
+.. _結使: https://zh.wikipedia.org/wiki/%E7%B5%90_(%E4%BD%9B%E6%95%99)
