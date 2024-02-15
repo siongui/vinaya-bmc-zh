@@ -1641,9 +1641,41 @@
 
    * - “And furthermore, with the stilling of directed thoughts and evaluations, he enters and remains in the *second jhāna:* rapture and pleasure born of concentration, unity of awareness free from directed thought and evaluation—internal assurance. He permeates and pervades, suffuses and fills this very body with the rapture and pleasure born of concentration….
 
-     - 再者，隨著定向思惟和評估的止息，他進入並安住於\ *二禪：*\ 由定而生的喜與樂、內心安住一境，沒有定向思惟和評估－內在的確信。他用定而生的喜和樂滲透、遍及、布滿、充滿這個身體……。
+     - 「再者，隨著定向思惟和評估的止息，他進入並安住於\ *二禪：*\ 由定而生的喜與樂、內心安住一境，沒有定向思惟和評估－內在的確信。他用定而生的喜和樂滲透、遍及、布滿、充滿這個身體……。
 
-       .. https://sutra.mobi/chilin/zhong/content/119.html
+   * - “And furthermore, with the fading of rapture, he remains equanimous, mindful, and alert, and senses pleasure with the body. He enters and remains in the *third jhāna,* and of him the noble ones declare, ‘Equanimous and mindful, he has a pleasant abiding.’ He permeates and pervades, suffuses and fills this very body with the pleasure divested of rapture….
+
+     - 「再者，隨著喜的消退，他保持捨、正念、警覺，並感受身體的快樂。他進入並安住於\ *三禪，*\ 聖者們對他宣稱：「他有捨心和正念，他安住在樂之中。」他以離喜的樂來滲透、遍及、布滿、充滿這個身體……。
+
+   * - “And furthermore, with the abandoning of pleasure and pain—as with the earlier disappearance of elation and distress—he enters and remains in the *fourth jhāna:* purity of equanimity and mindfulness, neither pleasure nor pain. He sits permeating the body with a pure, bright awareness, so that nothing of his entire body is unpervaded by pure, bright awareness.”—`DN 2`_; `MN 119`_; `AN 5:28`_
+
+     - 「再者，隨著樂與苦的捨棄——正如先前喜悅與苦惱的消失一樣——他進入並安住於\ *四禪：*\ 捨與正念的清淨，無樂亦無苦。他以清淨、光明的覺知遍及全身而坐，因此他整個身體的一切都被清淨、光明的覺知所遍及。」—\ `《長部》2經`_\ ；\ `《中部》119經`_\ ；\ `《增支部》5:28經`_
+
+   * - The Commentary notes that four formless states—what the Canon calls “formlessnesses beyond form,” and the Commentary calls “formless jhānas”—are based on the fourth jhāna, and so would count as superior human states as well. The Canon describes them as follows:
+
+     - 《義註》指出，四種無色境界——《聖典》稱之為「超越色之無色」，《義註》稱之為「無色禪那」——是基於四禪，因此也算上人法。《聖典》對它們的描述如下：
+
+   * - “With the complete transcending of perceptions of form, and the passing away of perceptions of resistance, and not heeding perceptions of diversity, (perceiving,) ‘Infinite space,’ one enters and remains in the dimension of the infinitude of space….
+
+     - 「隨著對色想的徹底超越，以及有對想的消失，以及不作意種種想，（感知）「空無邊」，進入並安住於空無邊處……。
+
+   * - “With the complete transcending of the dimension of the infinitude of space, (perceiving,) ‘Infinite consciousness,’ one enters and remains in the dimension of the infinitude of consciousness….
+
+     - 「隨著徹底超越空無邊處，（感知）「識無邊」，進入並安住於識無邊處…。
+
+   * - “With the complete transcending of the dimension of the infinitude of consciousness, (perceiving,) ‘There is nothing,’ one enters and remains in the dimension of nothingness….
+
+     - 「隨著徹底超越識無邊處，（感知）「無所有」，進入並安住於無所有處…。
+
+   * - “With the complete transcending of the dimension of nothingness, one enters and remains in the dimension of neither perception nor non-perception.”—`DN 15`_
+
+     - 「隨著徹底超越無所有處，進入並安住於非想非非想處。」——\ `《長部》15經`_
 
 .. _上人法: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0124a09
 .. _結使: https://zh.wikipedia.org/wiki/%E7%B5%90_(%E4%BD%9B%E6%95%99)
+.. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
+.. _MN 119: https://www.dhammatalks.org/suttas/MN/MN119.html
+.. _AN 5\:28: https://www.dhammatalks.org/suttas/AN/AN5_28.html
+.. _《長部》2經: https://tripitaka.cbeta.org/mobile/index.php?index=N06n0004_002
+.. _《中部》119經: https://sutra.mobi/chilin/zhong/content/119.html
+.. _《增支部》5\:28經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%BA%8C%E5%8D%81%E5%85%AB%E8%A6%81%E7%B4%A0
