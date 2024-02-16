@@ -1594,9 +1594,9 @@
    * - meditative attainments *(samāpatti):* the emptiness attainment, the theme-less attainment, and the non-directed attainment;
      - 正受\ *（samāpatti）：*\ 空正受、無相正受、無所有正受；
 
-   * - knowledge-and-vision *(ñāṇa-dassanā):* knowledge of past lives, knowledge of the passing away and arising of beings, and knowledge of the ending of mental effluents (āsava);
+   * - knowledge-and-vision *(ñāṇa-dassanā):* knowledge of past lives, knowledge of the passing away and arising of beings, and knowledge of the ending of mental effluents *(āsava);*
 
-     - 智見\ *（nāṇa-dassanā）：*\ 宿住智、有情死生智、漏盡智\ *（āsava）*\ ；
+     - 智見\ *（nāṇa-dassanā）：*\ 宿住隨念智、有情死生智、漏盡智\ *（āsava）*\ ；
 
        ..
           https://zh.wikisource.org/zh-hant/%E4%BD%9B%E5%AD%B8%E5%A4%A7%E8%BE%AD%E5%85%B8/%E4%B8%89%E6%98%8E
@@ -1671,6 +1671,33 @@
 
      - 「隨著徹底超越無所有處，進入並安住於非想非非想處。」——\ `《長部》15經`_
 
+   * - A fifth state, the cessation of perception and feeling, is reached by transcending the dimension of neither perception nor non-perception, and all who reach it become either non-returners or arahants. The Commentary argues that this state does not count as a superior human state, on the technical grounds that it is neither worldly *(lokiya)* nor transcendent, but nothing in the Canon indicates that a superior human state has to be clearly one or the other. Using the Commentary’s own reasoning with regard to the four formless states—that they are based on the fourth jhāna—the same argument can be used to include the cessation of perception and feeling as a superior human state as well.
+
+     - 第五種境界，是想與受的滅盡，是超越非想非非想處而達到的，所有達到此境界的人，要麼成為不來者，要麼成為阿羅漢。《義註》認為，這種境界不算是上人法，因為它既不是世間的\ *（lokiya）*\ 也不是超越的，但《聖典》中沒有任何內容表明上人法必須明確是其中之一。使用《義註》本身關於四種無色境界的推理──它們是基於第四禪──同樣的論點也可以用來包括作為上人法的想和受的滅盡。
+
+   * - From the inclusion of the three knowledges in the Vibhaṅga’s list, the Commentary takes up the issue of whether the remaining five of the eight knowledges should be included as well. The three knowledges, as described in `DN 2`_, are:
+
+     - 《義註》從將\ `三明`_\ 列入《經分別》列表開始，就討論了是否應該將八種智見中的其餘五種也包括在內的問題。\ `《長部》2經`_\ 中所描述的三明是：
+
+   * - *Recollection of past lives (pubbenivāsānusati-ñāṇa):* “He recollects his manifold past lives, i.e., one birth, two births, three births, four, five, ten, twenty, thirty, forty, fifty, one hundred, one thousand, one hundred thousand, many eons of cosmic contraction, many eons of cosmic expansion, many eons of cosmic contraction and expansion, (recollecting,) ‘There I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure and pain, such the end of my life. Passing away from that state, I re-arose there. There too I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure and pain, such the end of my life. Passing away from that state, I re-arose here.’ Thus he recollects his manifold past lives in their modes and details.”
+
+     - *宿住隨念智（pubbenivāsānusati-ñāṇa）：*\ 「隨念彼於宿世之種種住處，猶如一生、二生、三生、四生、五生、十生、二十生、三十生、四十生、五十生、百生、千生、十萬生、幾壞劫、幾成劫、幾成壞劫：『於彼處，我有如是名、生於如是種族、如是階級、取如是食、享受如是苦樂、有如是壽量。我由其處死而生於他處，於此我有如是名、生如是種族、如是之階級、取如是食、享受如是苦樂、有如是壽量。而我由彼處歿，生來此處。』具如是形相、境遇，隨念種種宿世之住處。」
+
+   * - *Knowledge of the passing away and reappearing of beings (cutūpapāta-ñāṇa):* “He sees—by means of the divine eye, purified and surpassing the human—beings passing away and re-appearing, and he discerns how they are inferior and superior, beautiful and ugly, fortunate and unfortunate in accordance with their kamma: ‘These beings—who were endowed with bad conduct of body, speech, and mind, who reviled the noble ones, who held wrong views and undertook actions under the influence of wrong views—with the break-up of the body, after death, have re-appeared in a plane of deprivation, a bad destination, a lower realm, hell. But these beings—who were endowed with good conduct of body, speech, and mind, who did not revile the noble ones, who held right views and undertook actions under the influence of right views—with the break-up of the body, after death, have re-appeared in a good destination, a heavenly world.’ Thus—by means of the divine eye, purified and surpassing the human—he sees beings passing away and re-appearing, and he discerns how they are inferior and superior, beautiful and ugly, fortunate and unfortunate in accordance with their kamma.”
+
+     - *有情死生智（cutūpapāta-ñāṇa）：*\ 「彼以超越人界之天眼，觀察眾生，見眾生之死而又生；證知眾生應其所為之業，〔而有〕貴賤、美醜、幸福、不幸福。即：『諸賢！此等眾生具身、語、意之惡業，誹謗聖者，以懷邪見，得邪見業；彼等於身壞死後，生於惡生、惡趣、地獄。諸賢！此等眾生具身、語、意之善業，不誹謗聖者，以懷正見，得正見業；彼等身壞死後，生於善趣、天界。』如是，彼以清淨超越人界之天眼，觀察眾生，見眾生死而又生；證知眾生應其所為之業，〔而有〕貴賤、美醜、幸福、不幸福。」
+
+   * - *Knowledge of the ending of mental effluents (āsavakkhaya-ñāṇa):* “He discerns, as it has actually come to be, that ‘This is stress…. This is the origination of stress…. This is the cessation of stress…. This is the way leading to the cessation of stress…. These are (mental) effluents…. This is the origination of effluents…. This is the cessation of effluents…. This is the way leading to the cessation of effluents.’ His heart, thus knowing, thus seeing, is released from the effluent of sensuality, the effluent of becoming, the effluent of ignorance. With release, there is the knowledge, ‘Released.’ He discerns that ‘Birth is ended, the holy life fulfilled, the task done. There is nothing further for this world.’”
+
+     - *漏盡智（āsavakkhaya-ñāṇa）：*\ 「彼如實證知：『此是苦』，如實證知：『此是苦之集』，如實證知：『此是苦之滅』，如實證知：『此是到達苦滅之道』。如實證知：『此是漏之滅』，如實證知：『此是到達漏滅之道』。如是知、如是見故，其心解脫欲漏、解脫有漏、解脫無明漏，而『於解脫，解脫』之智慧生，證知：『生已盡，梵行已立，所作已辦，不受後有。』」
+
+   * - The first two of these knowledges, even though they comprised part of the Buddha’s Awakening, are mundane, in that people may develop them without necessarily attaining any of the transcendent paths and fruitions. Thus they belong under the category of mahaggata dhamma, as they are based on the attainment of jhāna either in this or in a previous life. The third knowledge, however—because it describes the arising of the transcendent paths and fruitions—comes under the category of lokuttara dhamma, and is the only one of the eight knowledges to do so.
+
+     - 前兩種智見，儘管它們是佛陀覺醒的一部分，但它們是世間的，因為人們可以修習它們，而不必獲得任何超越的道果。因此，它們屬於廣大法的範疇，因為它們是基於今生或前世證得禪那。然而，第三種智見──因為它描述了超越的道果的生起──屬於出世間法的範疇，並且是八種智見中唯一具有這種性質。
+
+   * - `DN 2`_ describes the remaining five knowledges as:
+     - `《長部》2經`_\ 將其餘五種智見描述為：
+
 .. _上人法: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0124a09
 .. _結使: https://zh.wikipedia.org/wiki/%E7%B5%90_(%E4%BD%9B%E6%95%99)
 .. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
@@ -1679,3 +1706,4 @@
 .. _《長部》2經: https://tripitaka.cbeta.org/mobile/index.php?index=N06n0004_002
 .. _《中部》119經: https://sutra.mobi/chilin/zhong/content/119.html
 .. _《增支部》5\:28經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%BA%8C%E5%8D%81%E5%85%AB%E8%A6%81%E7%B4%A0
+.. _三明: https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%8E%E5%85%AD%E9%80%9A
