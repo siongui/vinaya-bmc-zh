@@ -1698,6 +1698,34 @@
    * - `DN 2`_ describes the remaining five knowledges as:
      - `《長部》2經`_\ 將其餘五種智見描述為：
 
+   * - *Insight knowledge (vipassanā-ñāṇa):* “He discerns: ‘This body of mine is endowed with form, composed of the four primary elements, born from mother and father, nourished with rice and porridge, subject to inconstancy, rubbing, pressing, dissolution, and dispersion. And this consciousness of mine is supported here and bound up here.’”
+
+     - *觀智（vipassanā-ñāṇa）：*\ 「\ `彼如次知`_\ ：『我此身是由色所成、四大種所成、父母之所生，飯粥所長養者，是無常、破壞、粉碎、斷絕、壞滅之法。我之識與此相關連、依此而存在者。』」
+
+   * - *Mind-made body (manomayiddhi):* “From this body he creates another body, endowed with form, made of the mind, complete in all its parts, not inferior in its faculties, just as if a man were to draw a reed from its sheath.”
+
+     - *意所成身（manomayiddhi）：*\ 「彼由其色身，化作意所成，而有一切〔大〕肢小肢及不異其自己之身，猶如有人，由文奢草，取拔其莖。」
+
+   * - *Supranormal powers (iddhividhī):* “He wields manifold supranormal powers. Having been one he becomes many; having been many he becomes one. He appears. He vanishes. He goes unimpeded through walls, ramparts, and mountains as if through space. He dives in and out of the earth as if it were water. He walks on water without sinking as if it were dry land. Sitting cross-legged he flies through the air like a winged bird. With his hand he touches and strokes even the sun and moon, so mighty and powerful. He exercises influence with his body even as far as the Brahmā worlds.”
+
+     - *種種神變（iddhividhī）：*\ 「彼證得種種神變。一身而〔化為〕多身，多身而〔合為〕一身，或現身、或隱身；通過壁、透過墻，穿過山無有障礙，猶如於空中；出沒於大地，猶如於水；行於水上不沈，猶如於地上；趺坐、經行於空中，猶如有翼之鳥；有如是大威德，能以手捫摸日月，以身到達梵天界。」
+
+   * - *Clairaudience (dibba-sota):* “He hears—by means of the divine ear-property, purified and surpassing the human—both kinds of sounds: divine and human, whether near or far.”
+
+     - *天耳通（dibba-sota）：*\ 「彼清淨超越人間〔耳界〕，以天耳界，聞人天兩界遠近雙方之音聲。」
+
+   * - *Mind-reading (cetopariya-ñāṇa):* “He knows the awareness of other beings, other individuals, having encompassed it with his own awareness. He discerns a mind with passion as a mind with passion, and a mind without passion as a mind without passion (etc.).”
+
+     - *他心通（cetopariya-ñāṇa）：*\ 「以自己之心，徹〔見〕其他眾生及他人之心。如次證知之：證知有貪欲心，為有貪欲心。證知離貪欲心，為離貪欲心（等等）。」
+
+   * - The Commentary argues that all of these knowledges except vipassanā-ñāṇa count as superior human states. It does not explain why it excludes vipassanā-ñāṇa from the list, although it is probably following the belief current in its time, that vipassanā-ñāṇa does not require jhāna as a basis, even though the Canon clearly lists this ñāṇa—as distinct from vipassanā as a more general mental quality of clear-seeing—as dependent on jhāna.
+
+     - 《義註》認為，除了觀智之外，所有這些智見都算是上人法。它並沒有解釋為什麼它將觀智從列表中排除，儘管它可能遵循當時流行的信念，即觀智不需要禪那作為基礎，儘管《聖典》明確列出了此智——與\ `毘婆舍那`_\ 不同，毘婆舍那是一種更普遍的明見的心理品質——依賴於禪那。
+
+   * - There are other occult abilities that are not based on jhāna and for this reason do not count as mahaggata dhamma: such things as divination, giving protective charms, casting malevolent spells, psychic healing, practicing as a medium, etc. The discourses list these and other similar activities as *tiracchāna-vijjā,* animal knowledge, which—as the name implies—is far removed from superior human states. (See `BMC2, Chapter 10`_.)
+
+     - 還有其他一些不以禪那為基礎的神秘能力，因此不算作廣大法：如占卜、給予護身符、施放惡意咒語、通靈治療、修行媒介等。經文列出了這些和其他類似的行為，稱為 *tiracchāna-vijjā* （\ `畜生明`_\ ），顧名思義，與上人法相去甚遠。 （參見\ `《佛教修道準則 第二冊》第十章`_\ 。）
+
 .. _上人法: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0124a09
 .. _結使: https://zh.wikipedia.org/wiki/%E7%B5%90_(%E4%BD%9B%E6%95%99)
 .. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
@@ -1707,3 +1735,6 @@
 .. _《中部》119經: https://sutra.mobi/chilin/zhong/content/119.html
 .. _《增支部》5\:28經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%BA%8C%E5%8D%81%E5%85%AB%E8%A6%81%E7%B4%A0
 .. _三明: https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%8E%E5%85%AD%E9%80%9A
+.. _彼如次知: https://tripitaka.cbeta.org/mobile/index.php?index=N06n0004_002#0084a10
+.. _毘婆舍那: https://zh.wikipedia.org/wiki/%E8%A7%80_(%E4%BD%9B%E6%95%99)
+.. _畜生明: https://dictionary.sutta.org/browse/t/tiracch%C4%81na/
