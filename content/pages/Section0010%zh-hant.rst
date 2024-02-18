@@ -1738,3 +1738,23 @@
 .. _彼如次知: https://tripitaka.cbeta.org/mobile/index.php?index=N06n0004_002#0084a10
 .. _毘婆舍那: https://zh.wikipedia.org/wiki/%E8%A7%80_(%E4%BD%9B%E6%95%99)
 .. _畜生明: https://dictionary.sutta.org/browse/t/tiracch%C4%81na/
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *b. Lokuttara dhamma*
+     - *b. 出世間法*
+
+   * - *Lokuttara dhamma* in its fullest sense, refers to the series of mental states, called paths and fruitions, in which the fetters that bind the mind to the cycle of rebirth are eradicated; and to the ultimate state of *nibbāna*, or liberation.
+
+     - *出世間法*\ 的最完整的意義是指一系列的心境界，稱為道果，其中束縛心於輪迴的\ `結使`_\ 被根除；並達到\ *涅槃*\ （或稱解脫）的終極境界。
+
+   * - The paths and fruitions occur in four pairs. In the first pair, the path to and fruition of stream-entry, three fetters are abandoned: self-identity views *(sakkāya-diṭṭhi)*, uncertainty *(vicikicchā)*, and grasping at habits and practices *(silabbata-parāmāsa)*. In the second pair—the path to and fruition of once-returning—passion, aversion, and delusion are weakened, but no additional fetters are cut. In the third pair, the path to and fruition of non-returning, two additional fetters are abandoned: sensual passion *(kāma-rāga)* and irritation *(paṭigha)*; and in the fourth pair, the path to and fruition of arahantship, five: *rūpa-rāga*\—passion for forms (e.g., the objects of rūpa jhāna); *arūpa-rāga*\—passion for formless phenomena (e.g., the objects of arūpa jhāna); *māna*\—conceit; *uddhacca*\—restlessness; and *avijjā*\—ignorance. With the cutting of this last set of fetters, all bonds with the cycle of rebirth are cut for good, and the mind attains nibbāna.
+
+     - 道果成四對出現。在第一對，即入流道果中，三種\ `結使`_\ 被斷除：身見\ *（sakkāya-diṭṭhi）*\ 、疑\ *（vicikicchā）*\ 以及戒禁取\ *（silabbata-parāmāsa）*\ 。在第二對──一來道果──中，貪、瞋、癡被削弱，但沒有額外的結使被斷除。在第三對，即不還道果中，另外兩個結使被斷除：欲貪\ *（kāma-rāga）*\ 和瞋恚\ *（paṭigha）*\ ；第四對是阿羅漢道果，其中有五個：\ *rūpa-rāga*\－色貪（例如色界禪那所緣）；\ *arūpa-rāga*\－無色貪（例如無色界禪那所緣）；\ *māna*\－慢；\ *uddhacca*\－掉舉；和\ *avijjā*\－無明。隨著這最後一組結使的斷除，所有與輪迴的束縛都被永久斷除，心證得涅槃。
+
+   * - The term *nibbāna* literally means extinguishing, as of a fire. The commentarial explanation of this term that best fits the way it is used in the Canon is found at Vism.VIII,247, where Buddhaghosa derives it etymologically from *nir*, a negative prefix, and *vāna*, binding: thus, unbinding or liberation. In the physics of the Buddha’s time, fire as it burned was said to be in a state of agitation, dependence, attachment, and entrapment—both clinging to and being trapped by its sustenance. Extinguished, it was said to become calm, independent, and unattached. It let go of its sustenance and was released. In the mind’s extinguishing, or unbinding, a parallel change occurs.
+
+     - 涅槃 *nibbāna* 一詞的字面意思是熄滅，如火一樣。這個術語最適合它在《聖典》中的使用方式的註釋解釋，可以在 《清淨道論》.八,247 中找到，其中\ `佛音`_\ 在詞源學上從 *nir* （否定前綴）和 *vāna* （束縛）衍生出這個術語：因此，意思是解除束縛或解脫。在佛陀時代的物理學中，火在燃燒時被認為處於一種激動、依賴、執著和束縛的狀態——既執著於它的維持物，又被它的維持物所束縛。據說，熄滅後，它會變得平靜、獨立、不執著。它放下了它的維持物並被釋放了。當心熄滅，或解脫時，會發生相似的變化。
