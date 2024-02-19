@@ -1758,3 +1758,15 @@
    * - The term *nibbāna* literally means extinguishing, as of a fire. The commentarial explanation of this term that best fits the way it is used in the Canon is found at Vism.VIII,247, where Buddhaghosa derives it etymologically from *nir*, a negative prefix, and *vāna*, binding: thus, unbinding or liberation. In the physics of the Buddha’s time, fire as it burned was said to be in a state of agitation, dependence, attachment, and entrapment—both clinging to and being trapped by its sustenance. Extinguished, it was said to become calm, independent, and unattached. It let go of its sustenance and was released. In the mind’s extinguishing, or unbinding, a parallel change occurs.
 
      - 涅槃 *nibbāna* 一詞的字面意思是熄滅，如火一樣。這個術語最適合它在《聖典》中的使用方式的註釋解釋，可以在 《清淨道論》.八,247 中找到，其中\ `佛音`_\ 在詞源學上從 *nir* （否定前綴）和 *vāna* （束縛）衍生出這個術語：因此，意思是解除束縛或解脫。在佛陀時代的物理學中，火在燃燒時被認為處於一種激動、依賴、執著和束縛的狀態——既執著於它的維持物，又被它的維持物所束縛。據說，熄滅後，它會變得平靜、獨立、不執著。它放下了它的維持物並被釋放了。當心熄滅，或解脫時，會發生相似的變化。
+
+   * - Nibbāna is one; the paths and their fruitions, eight. Thus there are nine lokuttara dhammas. Although the Vibhaṅga explicitly mentions only the four transcendent fruitions in its list of superior human states, the Commentary argues that the remaining five implicitly qualify as well. There is support for the Commentary’s argument in that the Vibhaṅga includes the noble eightfold path in its list, and SN 55:5 equates this path with the stream.
+
+     - 涅槃是一種； 道及其果，八種。因此，有九種出世間法。雖然《經分別》在其上人法的列表中只明確提到了四種出世間果，但《義註》認為其餘五種也隱含地符合資格。《義註》的論點得到了支持，因為《經分別》在其列表中包括了八聖道，而\ `《相應部》55:5經`_\ 將這條道等同於流。
+
+   * - The Commentary classifies the three types of concentration and emancipation in the Vibhaṅga’s list—emptiness, theme-less, and non-directed—as equivalent to the transcendent paths, and the three corresponding attainments as transcendent fruitions. A passage in `MN 121`_, however, indicates that at least the theme-less concentration would count as a mahaggata dhamma because it can be attained without full insight into its fabricated nature, and the same classification might hold for all three of these concentrations and emancipations. Regardless of which class they fall into, however, they are all superior human states. As for the Wings to Awakening, the Commentary maintains that they count as superior human states only when developed to the level of any of the transcendent paths. It also adds that any other attainment equivalent to a lokuttara dhamma—such as complete comprehension of the four noble truths—would fulfill the factor of object here as well.
+
+     - 《義註》將《經分別》中的三種三昧、解脫──空、無相、無所有──歸類為與出世間道相同，而相應的三種成就則為出世間果。然而，\ `《中部》121經`_\ 中的一段文字表明，至少無相的三昧可以算作廣大法，因為它可以在沒有完全洞察其捏造本質的情況下獲得，並且相同的分類可能適用於所有這三種三昧和解脫。但無論屬於哪一類，都是上人法。至於菩提分法，《義註》認為，只有當它們發展到任何出世間道的層次時，才算得上人法。它還補充說，任何其他等同於出世法的成就——例如對四聖諦的完全理解——也將滿足這裡的對象因素。
+
+.. _《相應部》55\:5經: https://sutra.mobi/chilin/xiangying/content/55.html#%E4%BA%94%E8%88%8D%E5%88%A9%E5%BC%97%E4%B9%8B%E4%BA%8C
+.. _MN 121: https://www.dhammatalks.org/suttas/MN/MN121.html
+.. _《中部》121經: https://sutra.mobi/chilin/zhong/content/121.html
