@@ -1770,3 +1770,27 @@
 .. _《相應部》55\:5經: https://sutra.mobi/chilin/xiangying/content/55.html#%E4%BA%94%E8%88%8D%E5%88%A9%E5%BC%97%E4%B9%8B%E4%BA%8C
 .. _MN 121: https://www.dhammatalks.org/suttas/MN/MN121.html
 .. _《中部》121經: https://sutra.mobi/chilin/zhong/content/121.html
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Perception**
+     - **感知**
+
+   * - Claiming a superior human state that one mistakenly thinks one has achieved is no offense under this rule, although if addressed to a lay person the claim would come under `Pc 8`_. The same holds for a claim that is actually true.
+
+     - 根據本戒條，誤以為自己已經成就並聲稱上人法，不構成犯戒，儘管如果是針對在家人聲稱，將受到\ `《波逸提》八`_\ 的管轄。對於實際上真實的聲稱也是如此。
+
+   * - There is the question, however, of what offense there would be for a bhikkhu who has attained a superior human state—such as the first jhāna—without realizing the fact, and then claims to have attained it, thinking his statement to be false. The Vibhaṅga defines *non-existent* as “not to be found; not knowing, not seeing a skillful state within oneself, (yet saying,) ‘There is a skillful state within me.’” Also, under the factor of intention, it states that misrepresenting one’s view or opinion would fulfill that factor. This implies that a superior human state would count as non-existent if one did not see it as existent. If one then misrepresented one’s view to another person, claiming the state to be existent, one would fulfill the factors of the full offense here.
+
+     - 然而，問題是，如果一位比丘已經證得了上人法——例如初禪——卻沒有意識到這一事實，然後聲稱自己證得了，並認為自己的說法是錯誤的，那麼這犯什麼罪呢？《經分別》將不存在定義為「沒被發現；不知道，看不到自己內在的善法，（而說）『我內在有善法。』」此外，在意圖因素下，它指出歪曲自己的觀點或意見就滿足了該因素。這意味著，如果看不到上人法存在，那麼它就被視為不存在。如果向另一個人歪曲自己的觀點，聲稱上人法存在，那麼就滿足了這裡的完全違犯的要素。
+
+   * - Unlike the Vibhaṅga to `Pc 1`_, the Vibhaṅga to this rule does not consider the case where a bhikkhu, doubtful of his attainment, states it as an undoubted fact. This suggests that the compilers of the Vibhaṅga saw the full offense here as applying only to cases where a bhikkhu knows without a doubt that his claim to a superior human state is untrue. From this it would follow that if one is in doubt about one’s attainment of such a state and yet makes a definite claim to it, one would incur a pācittiya under `Pc 1`_.
+
+     - 與\ `《波逸提》一`_\ 的《經分別》不同，本戒條的《經分別》不考慮這樣的情況：一位比丘懷疑自己的成就，卻將其陳述為不容置疑的事實。這表明，《經分別》的編撰者認為這裡的完全違犯只適用於比丘毫無疑問地知道他對上人法的聲稱是不真實的情況。由此可見，如果對自己是否達到這樣一種境界有疑問，但又明確聲稱達到這種境界，那麼就會在\ `《波逸提》一`_\ 戒條下犯《波逸提》。
+
+.. _Pc 8: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc8
+.. _《波逸提》八: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc8
+.. TODO FIXME: replace link to 《波逸提》八
