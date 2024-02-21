@@ -1794,3 +1794,23 @@
 .. _Pc 8: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc8
 .. _《波逸提》八: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc8
 .. TODO FIXME: replace link to 《波逸提》八
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - According to the Vibhaṅga, a statement mentioning oneself in connection with a superior human state is one indicating either that the state is present in oneself or that one is present in the state. Such a statement fulfills this factor only if it explicitly mentions oneself, although the reference to the state may be either explicit or implicit. Explicit mention of the state would include saying such things as, “I have attained the first jhāna,” “I have seen the heavenly realms,” “I know my previous lifetimes.” The Vibhaṅga’s example of an implicit mention of a state is the statement, “I delight in an empty dwelling,” the implication being that one’s delight comes from the attainment of jhāna. At present, many meditation communities have developed their own idioms for describing superior human attainments—one being “I have no doubts about the Buddha’s teaching” as a way of claiming stream-entry—and, in the context of such communities, idioms of this sort would count as implicit mention as well. As we will see under the discussion of intention, this sort of statement would incur an offense only if one intended the implicit meaning.
+
+     - 根據《經分別》，將自己與上人法聯繫起來的陳述為：表明該境界存在於自己之中或自己處在於該境界中。儘管對境界的提及可以是明確的或隱含的，但這樣的陳述只有在明確提及自己時才滿足本因素。明確提及境界包括說諸如「我已證得初禪」、「我已見天界」、「我知道我的前世」之類的話。《經分別》中隱含地提及境界的例子是這樣一句話：「我樂於空居」，該含義是其喜悅來自於禪那的成就。目前，許多禪修團體已經發展出自己的慣用語來描述上人法成就，其中之一是「我對佛陀的教義毫不懷疑」，以此作為宣稱入流的一種方式，並且在這些團體的背景脈絡下，這種慣用語也算是隱含的提及。正如我們將在討論意圖時看到的那樣，只有當人們意圖表達隱含的含義時，這種陳述才會招致犯戒。
+
+   * - A statement in which one mentions oneself—rather than the state—implicitly in connection with a superior human state is not grounds for a pārājika. If it is a deliberate lie, it constitutes either a thullaccaya or a dukkaṭa. Because the grounds for determining the offense in this case are a matter of controversy, we will discuss them separately, under Understanding, below.
+
+     - 如果某人在陳述中提及自己（而不是境界），並隱含地與上人法聯繫在一起，則不能成為《波羅夷》的根據。如果是故意的謊言，則構成《偷蘭遮》或《突吉羅》其中之一。由於本案例中確定犯戒的根據存在爭議，因此我們將在下面的\ **理解**\ 部分中單獨討論。
+
+   * - The word *statement* here covers not only spoken statements but also written statements and physical gestures. An example of a claim by gesture occurs in the Vibhaṅga: A group of bhikkhus makes an agreement that the first to set out from their dwelling would, by that very gesture, be known to the rest as an arahant. One of the group, who was not an arahant but wanted to be regarded as one, set out first from the dwelling and in so doing committed a pārājika. At present, a claim made in writing would also fulfill the factor of effort here.
+
+     - 這裡的\ *陳述*\ 一詞不僅包括口頭陳述，還包括書面陳述和肢體示意動作。《經分別》中有一個透過手勢陳述的例子：一群比丘達成協議，第一個從他們的住所出發的人將透過這個示意動作被其他人認為是阿羅漢。其中一位雖然不是阿羅漢，但想被視為阿羅漢，他首先從住處出發，這樣做就犯了《波羅夷》。目前，以書面形式提出的陳述也將滿足此處的努力因素。
