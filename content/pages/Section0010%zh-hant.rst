@@ -1898,3 +1898,26 @@
    * - In the first set of cases—where the bhikkhu means to lay false claim to one superior human state but actually lays false claim to another—if he does not realize that he has made a slip of the tongue, the statement would not normally count as a conscious lie, as he is not aware of what he is saying at the moment he is saying it. Because he is not paying attention to his words, he should not receive the full penalty. However, if he is alert enough to know what he is saying, then—as the Commentary points out—all the factors of an offense are present. Because both his intended and his actual statements are corrupt, he should not be allowed to avoid the penalty simply because of a brief slip of the tongue. Thus, the Vibhaṅga assigns a pārājika in cases of this sort if the bhikkhu is aware of what he is saying, and a thullaccaya if not.
 
      - 在第一組情況下，比丘本意對一個上人法提出虛假主張，但實際上卻對另一個上人法提出虛假主張，如果他沒有意識到自己失言了，那麼該陳述通常不會被視為是有意識的謊言，因為他當時並不知道自己在說什麼。因為他沒有注意自己的言論，所以他不應該受到全額懲罰。然而，如果他足夠警覺，知道自己在說什麼，那麼——正如《義註》所指出的——犯戒的所有因素都存在。由於他的意圖和實際陳述都是墮落的，因此不應允許他僅僅因為短暫的失言而逃避懲罰。因此，如果比丘知道自己在說什麼，《經分別》在這種情況下會指派《波羅夷》罪，如果不知道，則指派《偷蘭遮》罪。
+
+   * - In the second set of cases, where the bhikkhu’s remarks concern a superior human state explicitly but himself only implicitly, he deserves a heavier penalty if he is aware of the implicit connection than if he is not. Thus the Vibhaṅga assigns a thullaccaya if he is, and a dukkaṭa if not.
+
+     - 在第二組情況下，比丘的言論明確地涉及上人法，但只是隱含地涉及他自己，如果他意識到這種隱含的聯繫，那麼他應該比沒有意識到而受到更重的懲罰。因此，如果他意識到，《經分別》指派《偷蘭遮》罪，如果沒意識到，則指派《突吉羅》罪。
+
+   * - For those interested in the Commentary’s interpretation—that the understanding is the duty of the listener, and that it must be present in all cases for there to be the full offense under this rule—here it is:
+
+     - 對於那些對《義註》的解釋感興趣的人——理解是聽者的義務，並且它必須出現在所有情況下，才能構成本戒條下的完全違犯——這裡是《義註》的解釋：
+
+   * - *Understanding*, according to the Commentary, means simply that the listener hears the statement clearly enough to know that it is a claim. Whether he/she understands the names for the states claimed—jhāna, clairvoyance, clairaudience, or whatever—is not an issue. The same is true of whether he/she believes the statement to be true or false. If the listener to whom an explicit claim to a superior human state is directed does not understand it, but a passer-by does, the penalty is still a pārājika.
+
+     - 根據《義註》，\ *理解*\ 僅僅意味著聽者足夠清楚地聽到該陳述，從而知道它是一個主張。他/她是否理解所聲稱的境界名稱——禪那、天眼、天耳或其他什麼——都不是問題。無論他/她相信該陳述是真是假，情況也是如此。如果聽聞明確主張上人法的聽眾不理解，但路人理解，則懲罰仍然是《波羅夷》。
+
+   * - The Commentary adds that if the listener does not hear the bhikkhu clearly enough to catch all he says, the penalty is a thullaccaya. If the listener at first has some doubt as to what the bhikkhu said but later realizes that it was a claim to a superior human state, the offense is still a thullaccaya. If the listener does not hear the bhikkhu at all, the Commentary—probably extrapolating from the Vinīta-vatthu cases concerning bhikkhus speaking in private—gives the bhikkhu a dukkaṭa.
+
+     - 《義註》補充說，如果聽者沒有聽清比丘的聲音，無法聽清他所說的一切，則懲罰是《偷蘭遮》。如果聽者起初對比丘所說的話有一些疑問，但後來意識到這是聲稱上人法，仍然是犯《偷蘭遮》罪。如果聽者根本沒有聽到比丘的聲音，《義註》——可能是從有關比丘私下講話的《Vinīta_-vatthu_》案例中推斷出來的——就會給予比丘《突吉羅》。
+
+   * - If the bhikkhu makes a claim to a superior human state in which he mentions himself only implicitly—e.g., “The bhikkhus you support are non-returners”—the Commentary follows a similar pattern in assigning offenses: a thullaccaya if the listener understands, a dukkaṭa if he/she doesn’t, a dukkaṭa if he/she doesn’t even hear the claim.
+
+     - 如果比丘聲稱上人法，而他只是含蓄地提到自己——例如，「你所供養的比丘是不還者」——《義註》則遵循類似的模式來指派違犯：如果聽者理解，則為《偷蘭遮》；如果他/她不理解，則為《突吉羅》；如果他/她甚至沒有聽到該聲稱，則為《突吉羅》。
+
+   * - As noted above, however, the Commentary’s judgments on this issue appear to be based on a misreading of the Vibhaṅga.
+     - 然而，如上所述，《義註》對這個問題的判斷似乎是基於對《經分別》的誤讀。
