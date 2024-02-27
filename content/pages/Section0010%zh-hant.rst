@@ -225,6 +225,11 @@
 .. _有趣的案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0049a05
 
 
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 .. _Pr2:
 
 .. list-table::
@@ -1053,6 +1058,11 @@
 .. _畢陵伽婆蹉尊者利用他的神通力找回了一對被綁架的孩子: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0089a10
 
 
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 .. _Pr3:
 
 .. list-table::
@@ -1520,6 +1530,11 @@
      - *摘要：故意造成一個人的死亡，即使它還是一個胚胎－無論是殺人、安排行兇者殺人、煽動人去死，還是描述死亡的好處－都是《波羅夷》罪。*
 
 
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 .. _Pr4:
 
 .. list-table::
@@ -1943,3 +1958,23 @@
 
 .. _婆羅門以誇張的信心或禮貌說話: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0142a08
 .. _比丘們希望人們尊重他們，進行特殊的修行: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0139a09
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - In addition to the standard non-offenses, the Vibhaṅga lists two that we have already covered in connection with perception and intention: There is no offense if one makes a claim out of a mistaken and exaggerated understanding of one’s attainment; and no offense if one is not intending to boast, i.e., one makes a claim that may sound like an implicit reference to a superior human state but is not intended as such.
+
+     - 除了標準的不犯之外，《經分別》還列出了我們已經討論過的與感知和意圖相關的兩項：如果一個人基於對自己成就的錯誤和誇大的理解而聲稱，則不構成犯戒；如果一個人無意自吹自擂，也就是說，一個人聲稱可能聽起來像是在隱含地提到上人法，但他的本意並非如此，那麼也沒有犯戒。
+
+   * - *Summary: Deliberately lying to another person that one has attained a superior human state is a pārājika offense.*
+     - *摘要：故意向他人說謊，聲稱自己已證得上人法是《波羅夷》罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
