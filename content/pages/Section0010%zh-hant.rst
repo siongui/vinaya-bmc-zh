@@ -1921,3 +1921,25 @@
 
    * - As noted above, however, the Commentary’s judgments on this issue appear to be based on a misreading of the Vibhaṅga.
      - 然而，如上所述，《義註》對這個問題的判斷似乎是基於對《經分別》的誤讀。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Special cases**
+     - **特別案例**
+
+   * - Special cases in the Vinīta-vatthu:
+     - 《Vinīta_-vatthu_》裡的特別案例：
+
+   * - 1\) Brahmans speaking with exaggerated faith or politeness address bhikkhus of no particular attainments as if they were arahants (“May the arahants come…. May the arahants be seated”). This puts the bhikkhus in a quandary and so they ask the Buddha how to behave in such a situation. His response: There is no offense in accepting invitations such as these from a “speaker with faith”—the point being that there is no offense in coming, sitting, etc., as long as the intention is just to accept the invitation and not to imply a claim.
+
+     - 1）\ `婆羅門以誇張的信心或禮貌說話`_\ ，稱呼沒有特殊成就的比丘，就好像他們是阿羅漢一樣（「願阿羅漢來…願阿羅漢入座」）。這讓比丘們陷入了進退兩難的境地，所以他們向佛陀請教在這種情況下該如何行事。他的回應是：接受來自「有信心的說者」的邀請並沒有犯戒——重點是，來參加、坐下等等就沒有犯戒，只要意圖只是接受邀請非而暗示聲稱。
+
+   * - 2\) Bhikkhus, hoping that people will esteem them, engage in special practices—the examples given in the Vinīta-vatthu include living in the jungle, going for alms, sitting, standing, walking, and lying down (apparently in meditation for long periods of time), but from them we can extrapolate to other practices such as any of the ascetic (dhutaṅga) practices or vegetarianism, etc., followed so as to impress others. The penalty: a dukkaṭa. Because this ruling might give the mistaken impression that one should not adopt the dhutaṅga practices or engage in long periods of sitting, etc., the Commentary includes a list of blameless reasons for living in the wilderness: seeing that village-dwelling makes one’s mind restless, desiring seclusion, desiring to attain arahantship, reflecting that the Buddha praised living in the wilderness, anticipating that one will be a good example to one’s fellows in the holy life. A bhikkhu who undertakes any of the dhutaṅga practices for these or similar reasons would incur no offense.
+
+     - 2）\ `比丘們希望人們尊重他們，進行特殊的修行`_\ －《Vinīta_-vatthu_》中給出的例子包括住在叢林中、托缽、坐、站、行、臥（顯然是在長時間的禪修中），但從中我們可以推斷出其他修行，例如任何苦行（頭陀行）修行或素食主義等等，以便給他人留下深刻的印象，也算在內。懲罰：《突吉羅》。因為這個規定可能會給人一種不應該修頭陀行或長時間打坐等等的錯誤印象，所以《義註》列舉了一系列生活在林野中無可指責的理由：看到村居使人心掉舉，渴望隱居，渴望證得阿羅漢果，反思佛陀對林野生活的讚嘆，期盼自己能成為梵行生活同儕的榜樣。因這些或類似原因而進行任何頭陀行修行的比丘不會招致任何犯戒。
+
+.. _婆羅門以誇張的信心或禮貌說話: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0142a08
+.. _比丘們希望人們尊重他們，進行特殊的修行: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0139a09
