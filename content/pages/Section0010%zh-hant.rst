@@ -1978,3 +1978,31 @@
 .. container:: has-text-centered
 
    \*    \*    \*
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - A bhikkhu who violates any of these four pārājika rules is automatically no longer a bhikkhu. There is no need for him to go through a formal ceremony of disrobing, for the act of violating the rule is an act of disrobing in and of itself. As each of the rules states, he is no longer in affiliation, which the word-analysis defines as no longer having a single transaction (i.e., he can no longer participate in any Community meetings), no longer having a single recitation (i.e., he can no longer participate in the uposatha (see `BMC2, Chapter 15`_)), no longer having a training in common with the bhikkhus.
+
+     - 比丘違反這四種《波羅夷》戒條中的任何一個，就自動不再是比丘。他不需要經過正式的還俗儀式，因為違反戒條的行為本身就是還俗行為。正如每條戒條所述，他不再具有從屬關係，語句解說將其定義為不再進行一次僧伽羯磨（即，他不能再參加任何僧團集會），不再進行一次誦戒（即，他不能再參加布薩（見\ `《佛教修道準則 第二冊》第十五章`_\ ）），也不能再與比丘們共同受訓。
+
+   * - Even if a bhikkhu who has violated any of these rules continues to pretend to be a bhikkhu, he does not really count as one; as soon as the facts are known he must be expelled from the Saṅgha. He can never again properly ordain as a bhikkhu in this life. If he tries to ordain in a Community that does not know of his offense, his ordination is invalid, and he must be expelled as soon as the truth is found out.
+
+     - 即使一個比丘違反了這些戒條中的任何一條，他仍然假裝是比丘，他也不算真正的比丘；一旦真相大白，就必須將他逐出僧團。他此生再也不能正式出家為比丘了。如果他試圖在一個不知道他的罪行的僧團中受具足戒，他的受戒是無效的，一旦發現真相，他必須立即被逐出。
+
+   * - The Commentary to `Pr 1`_ maintains that he is allowed to “go forth” as a novice, but because the Vibhaṅga does not clearly support this position, not all Communities accept it.
+
+     - `《波羅夷》一`_\ 的《義註》認為，他被允許作為沙彌「出家」，但由於《經分別》沒有明確支持這一立場，因此並非所有僧團都接受它。
+
+   * - Ignorance of these rules does not exempt an offender from the penalty, which is why the Buddha ordered that they be taught to each new bhikkhu as soon as possible after ordination (`Mv.I.78.2-5`_). Because the rules cover a number of cases that are legal in present-day society (e.g., recommending abortion, proving to oneself how supple one has become through yoga by inserting one’s penis in one’s mouth) or that are common practice among people who see nothing wrong with flirting with the edges of the law (e.g., hiding an article subject to customs duties when entering a country), it is especially important to inform each new bhikkhu of the rules’ full implications from the very start.
+
+     - 對這些戒條的無知並不能免除犯戒者的懲罰，這就是為什麼佛陀下令在出家後儘快向每位新比丘傳授這些戒條（\ `《大品》.一.78.2-5`_\ ）。因為這些戒條涵蓋了當今社會合法的許多情況（例如，建議墮胎、通過將陰莖插入嘴裡的瑜伽來證明自己變得多麼柔軟）或者是人們常見的做法，他們認為遊走法律的邊緣並沒有什麼錯（例如，在進入一個國家時隱藏需要繳納關稅的物品），從一開始就告知每個新比丘戒條的全部含義尤為重要。
+
+.. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. _《佛教修道準則 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
+.. _《波羅夷》一: #pr1
+.. _Mv.I.78.2-5: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.78.2-5
+.. _《大品》.一.78.2-5: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0120a12
