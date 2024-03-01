@@ -2000,6 +2000,18 @@
 
      - 對這些戒條的無知並不能免除犯戒者的懲罰，這就是為什麼佛陀下令在出家後儘快向每位新比丘傳授這些戒條（\ `《大品》.一.78.2-5`_\ ）。因為這些戒條涵蓋了當今社會合法的許多情況（例如，建議墮胎、通過將陰莖插入嘴裡的瑜伽來證明自己變得多麼柔軟）或者是人們常見的做法，他們認為遊走法律的邊緣並沒有什麼錯（例如，在進入一個國家時隱藏需要繳納關稅的物品），從一開始就告知每個新比丘戒條的全部含義尤為重要。
 
+   * - If a bhikkhu suspects that he has committed a pārājika, he should immediately inform a senior bhikkhu well versed in the rules. The way the senior bhikkhu should handle the case is well-illustrated by an incident reported in the Commentary to `Pr 2`_: A king together with an enormous crowd once went to worship the Great Stūpa at a certain monastery in Sri Lanka. Among the crowd was a visiting bhikkhu from the South of the country who was carrying an expensive roll of cloth. The commotion of the event was so great that he dropped the cloth, was unable to retrieve it, and soon gave it up for lost. One of the resident bhikkhus happened to come across it and, desiring to steal it, quickly put it away before the owner might see it. Eventually, of course, he became tormented by guilt and went to the resident Vinaya expert to admit a pārājika and disrobe.
+
+     - 如果比丘懷疑自己犯了《波羅夷》，他應該立刻通知熟悉戒律的長老比丘。\ `《波羅夷》二`_\ 的《義註》中所記述的一件事很好地說明了長老比丘應當的處理方式：有一次，一位國王帶著一大群人去斯里蘭卡的某座寺院朝拜大佛塔。人群中有一位來自國家南方的來訪比丘，他手裡拿著一卷昂貴的布。事件引起的騷動如此之大，以至於他把布掉在地上，無法取回，很快就因遺失將之放棄了。一位常住的比丘碰巧發現了它，想要偷走它，並在主人看到它之前趕緊把它收起來。最終，當然，他受到了愧疚的折磨，並去找常住的戒律專家承認犯了《波羅夷》並還俗。
+
+   * - The Vinaya expert, though, wouldn’t let him disrobe until he had found the owner of the cloth and inquired about it more fully. Eventually, after a long search, the bhikkhu was able to track down the original owner at a monastery back South, who told him that at the time of the theft he had given the cloth up for lost and had abandoned all mental attachment for it. Thus, as the cloth was ownerless, the resident bhikkhu had incurred not a pārājika, but simply some dukkaṭas for the preliminary efforts with intention to steal.
+
+     - 然而，戒律專家在找到布的主人並更詳細地詢問之前，不讓他還俗。最終，經過長時間的尋找，這位比丘在南方的一座寺院找到了原主人，原主人告訴他，在被盜時，他已經因遺失把這塊布放棄了，並放棄了對它的所有心理執著。因此，由於布料是無主的，常住的比丘並沒有犯《波羅夷》，而只是為了偷竊的初步努力而犯了一些《突吉羅》。
+
+   * - This example shows several things: the great thoroughness with which a senior bhikkhu should investigate a possible pārājika, the compassion he should show to the offender, and the fact that the offender should be given the benefit of the doubt wherever possible: He is to be considered innocent until the facts prove him guilty.
+
+     - 這個例子說明了幾件事：長老比丘應該非常徹底地調查可能的《波羅夷》，他應該對犯戒者表現出慈悲，以及只要有可能，就應該對犯戒者給予無罪推定：他應該在事實證明他有罪之前，被認為是無罪的。
+
 .. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
 .. _《佛教修道準則 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
