@@ -2012,9 +2012,42 @@
 
      - 這個例子說明了幾件事：長老比丘應該非常徹底地調查可能的《波羅夷》，他應該對犯戒者表現出慈悲，以及只要有可能，就應該對犯戒者給予無罪推定：他應該在事實證明他有罪之前，被認為是無罪的。
 
+   * - There are, however, cases of another sort, in which a bhikkhu commits a pārājika and refuses to acknowledge the fact. If his fellow bhikkhus see, hear, or have any suspicions that this has happened, they are duty-bound to bring up the issue with him. If they are not satisfied with his assertions of his innocence, the case becomes an accusation issue, which must be resolved in line with the procedures outlined in `Sg 8`_ and `Chapter 11`_.
+
+     - 然而，也有另一種情況，比丘犯了《波羅夷》，並且拒絕承認這一事實。如果他的比丘同儕看到、聽到或懷疑這件事發生，他們有責任向他提出這個問題。如果他們對他的無罪斷言不滿意，該案件將成為指控問題，必須根據\ `《僧殘》八`_\ 和\ `第十一章`_\ 中概述的程序解決。
+
+   * - Finally, the Commentary concludes its discussion of the pārājikas by noticing that there are altogether 24—eight actual, twelve equivalent, and four derived—pārājikas for bhikkhus and bhikkhunīs.
+
+     - 最後，《義註》總結了對《波羅夷》的討論，指出比丘和比丘尼共有 24 種《波羅夷》——八種實際的、十二種等同的，和四種衍生的《波羅夷》。
+
+   * - The eight actual pārājikas are:
+     - 八個實際的《波羅夷》是：
+
+   * - the four for bhikkhus (also observed by the bhikkhunīs), and
+     - 比丘四種（比丘尼也遵守），以及
+
+   * - the four additional pārājikas for bhikkhunīs alone.
+     - 只有比丘尼遵守的四種額外的《波羅夷》。
+
+   * - *The twelve equivalent pārājikas* include the eleven disqualified types who should not be ordained as bhikkhus in the first place. If they happen to be ordained, their ordination is invalid; once they are found out they must be expelled for life (`Mv.I.61-68`_; see `BMC2, Chapter 14`_ for details). They are—
+
+     - 十二種等同的《波羅夷》包括十一種不合格的類型，他們從一開始就不應該受具足戒為比丘。若已受戒，其受戒無效；一旦被發現，必須終身擯出（\ `《大品》.一.61-68`_\ ；詳情請參閱\ `《佛教修道準則 第二冊》第十四章`_\ ）。他們是-
+
 .. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
 .. _《佛教修道準則 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十五章
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _《波羅夷》一: #pr1
 .. _Mv.I.78.2-5: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.78.2-5
 .. _《大品》.一.78.2-5: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0120a12
+.. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. _Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
+.. _《僧殘》八: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. TODO FIXME: replace link to 《僧殘》八
+.. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
+.. TODO FIXME: replace link to 第十一章
+.. _Mv.I.61-68: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.61.2
+.. _BMC2, Chapter 14: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
+.. _《大品》.一.61-68: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0106a14
+.. _《佛教修道準則 第二冊》第十四章: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十四章
