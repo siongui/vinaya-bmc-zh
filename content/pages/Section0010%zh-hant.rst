@@ -171,7 +171,7 @@
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
 .. _《僧殘》一: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
 .. TODO FIXME: replace link to 《僧殘》一
-.. _黃門: https://dictionary.sutta.org/browse/p/pa%E1%B9%87%E1%B8%8Daka/
+.. _黃門: https://zh.wikipedia.org/wiki/%E9%BB%83%E9%96%80_(%E4%BD%9B%E6%95%99)
 .. _3: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
 .. _三: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
 .. TODO FIXME: replace link to 《僧殘》三
@@ -2032,6 +2032,42 @@
    * - *The twelve equivalent pārājikas* include the eleven disqualified types who should not be ordained as bhikkhus in the first place. If they happen to be ordained, their ordination is invalid; once they are found out they must be expelled for life (`Mv.I.61-68`_; see `BMC2, Chapter 14`_ for details). They are—
 
      - 十二種等同的《波羅夷》包括十一種不合格的類型，他們從一開始就不應該受具足戒為比丘。若已受戒，其受戒無效；一旦被發現，必須終身擯出（\ `《大品》.一.61-68`_\ ；詳情請參閱\ `《佛教修道準則 第二冊》第十四章`_\ ）。他們是-
+
+   * - a paṇḍaka (essentially, a eunuch or a person born neuter—see Saṅghādisesa 2),
+     - `黃門`_\ （本質上是太監或生來中性的人－見《僧殘》二），
+
+   * - a “non-human” being, (this includes nāgas, petas, devas, and yakkhas),
+     - 「非人類」眾生（包括龍、餓鬼、天神和夜叉），
+
+   * - a hermaphrodite,
+     - 雌雄同體，
+
+   * - a person who poses as a bhikkhu without having been ordained,
+     - 未經受具足戒而冒充比丘的人，
+
+   * - a bhikkhu who has ordained in another religion without first giving up his status as a bhikkhu,
+     - 未先放棄比丘身分而在另一宗教出家的比丘，
+
+   * - a person who has murdered his father,
+     - 殺死自己父親的人，
+
+   * - a person who has murdered his mother,
+     - 殺死自己母親的人，
+
+   * - a person who has murdered an arahant,
+     - 殺死阿羅漢的人
+
+   * - a person who has sexually molested a bhikkhunī,
+     - 玷污比丘尼的人，
+
+   * - a person who has maliciously injured a Buddha to the point of causing him to bleed, and
+     - 惡意傷害佛陀以致流血者（出佛身血），
+
+   * - a person who has dishonestly caused a schism in the Saṅgha, knowing or suspecting that his position was contrary to the Dhamma-Vinaya.
+     - 明知或懷疑自己的立場違反法與律，不誠實地造成僧團分裂的人（破和合僧）。
+
+   * - These eleven equivalent pārājikas apply to bhikkhunīs as well.
+     - 這十一種等同的《波羅夷》也適用於比丘尼。
 
 .. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
 .. _《佛教修道準則 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
