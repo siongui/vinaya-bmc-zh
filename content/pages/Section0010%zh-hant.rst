@@ -2069,6 +2069,14 @@
    * - These eleven equivalent pārājikas apply to bhikkhunīs as well.
      - 這十一種等同的《波羅夷》也適用於比丘尼。
 
+   * - The twelfth equivalent pārājika, which applies only to bhikkhunīs, is the case where a bhikkhunī leaves the Bhikkhunī Saṅgha and takes up the role of a lay woman (Cv.X.26.1). Unlike the bhikkhus, the bhikkhunīs have no formal procedure for disrobing. If they leave the Saṅgha, they are not allowed to reordain for the rest of this lifetime.
+
+     - 第十二種等同的《波羅夷》僅適用於比丘尼，是比丘尼離開比丘尼僧團並擔任在家女居士角色的情況（\ `《小品》.十.26.1`_\ ）。與比丘不同，比丘尼沒有正式的還俗程序。若離開僧團，此生不得再受具足戒。
+
+   * - In addition to the twenty actual and equivalent pārājikas, the Commentary gives separate listing to the four *anulomika* (derived) pārājikas, which are actually four cases included under `Pr 1`_: the bhikkhu with a supple back who sticks his penis in his mouth, the bhikkhu with a long penis who inserts it into his anus, the bhikkhu who performs oral intercourse with someone else, and the bhikkhu who receives anal intercourse. Of these, three can be extrapolated to apply to bhikkhunīs, too. Why the Commentary lists these cases as separate pārājikas is hard to tell, unless it’s simply to ensure that these permutations of `Pr 1`_ don’t get overlooked. Still, the entire list of 24 is important, for under the rules dealing with falsely accusing another bhikkhu of having committed a pārājika (`Sg 8`_ & 9_) or the rule dealing with concealing another bhikkhu’s pārājika offense (`Pc 64`_), the Commentary defines *pārājika* as including equivalent and derived pārājikas as well.
+
+     - 除了二十種實際的和等同的《波羅夷》之外，《義註》還單獨列出了四種 *anulomika* （衍生的）《波羅夷》，這實際上是\ `《波羅夷》一`_\ 中包含的四種狀況：背部柔軟的比丘，將陰莖插入嘴裡的比丘，陰莖較長的比丘插入自己的肛門、與他人進行口交的比丘、以及接受肛交的比丘。其中三種也可以推論適用於比丘尼。為什麼《義註》將這些案例列為單獨的《波羅夷》很難說，除非只是為了確保\ `《波羅夷》一`_\ 的這些排列不會被忽視。儘管如此，24 種完整的清單仍然很重要，因為根據處理虛假指控另一比丘犯有《波羅夷》的戒條（\ `《僧殘》八`_\ 和\ `《僧殘》九`_\ ）或處理隱瞞另一比丘的《波羅夷》罪行的戒條（\ `《波逸提》六四`_\ ），《義註》定義了\ *《波羅夷》*\ 也包括等同的和衍生的《波羅夷》。
+
 .. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
 .. _《佛教修道準則 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十五章
@@ -2087,3 +2095,10 @@
 .. _《大品》.一.61-68: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0106a14
 .. _《佛教修道準則 第二冊》第十四章: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十四章
+.. _《小品》.十.26.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0371a05
+.. _9: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
+.. _Pc 64: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
+.. _《僧殘》九: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
+.. TODO FIXME: replace link to 《僧殘》九
+.. _《波逸提》六四: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
+.. TODO FIXME: replace link to 《波逸提》六四
