@@ -120,7 +120,7 @@
      - `\　僧殘 <{filename}Section0011%zh-hant.rst>`__
 
    * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1>`__
-     - 　　一
+     - `\　　一 <{filename}Section0011%zh-hant.rst#sg1>`__
 
    * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2>`__
      - 　　二
