@@ -71,4 +71,24 @@
    * - “‘Yes, my friends.’”
      - 「『是的，我的朋友們。』」
 
+   * - This rule, in its outline form, is one of the simplest to explain. In its details, though, it is one of the most complex, not only because the subject is a sensitive matter but also because the Commentary deviates from the Vibhaṅga in its explanations of two of the three factors that constitute the full offense.
+
+     - 本戒條的大綱形式是最容易解釋的戒條之一。然而，就其細節而言，它是最複雜的之一，不僅因為該主題是一個敏感問題，而且因為《義註》在對構成完整違犯的三個因素中的兩個的解釋中偏離了《經分別》。
+
+   * - The three factors are result, intention, and effort: emission of semen caused by an intentional effort. When all three factors are present, the offense is a saṅghādisesa. If the last two—intention and effort—are present, the offense is a thullaccaya. Any single factor or any other combination of two factors—i.e., intention and result without making a physical effort, or effort and result without intention—is not grounds for an offense.
+
+     - 這三個因素是結果、意圖和努力：由於有意的努力而導致精液的排出。當這三個因素都存在時，該違犯就是《僧殘》。如果最後兩項——意圖和努力——都存在，那麼該違犯就是《偷蘭遮》。任何單一因素或兩個因素的任何其他組合——即沒有做出肉體的努力的意圖和結果，或沒有意圖的努力和結果——都不是犯戒。
+
+   * - It may seem strange to list the factor of result first, but I want to explain it first partly because, in understanding the types of intention and effort covered by this rule, it is necessary to know what they are aimed at, and also because result is the one factor where the Vibhaṅga and Commentary are in basic agreement.
+
+     - 首先列出結果因素似乎很奇怪，但我想先解釋一下，部分原因是，在理解本戒條所涵蓋的意圖和努力類型時，有必要知道它們的目的是什麼，也因為結果是《經分別》和《義註》基本上一致的因素之一。
+
 .. _爾時，施越尊者過著不滿的梵行生活: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0153a05
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Result**
+     - **結果**
