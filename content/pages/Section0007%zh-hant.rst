@@ -128,8 +128,6 @@
      - 由於意圖因素可能存在多種變化，因此有人可能會認為，它應該一致地分為諸如是否故意、衝動、當前目標和動機等子因素。然而，《經分別》本身對於這四種的區分並不一致。例如，根據\ `《波羅夷》三`_\ 和\ `《僧殘》一`_\ ，它清楚地區分了它們，因為衝動和動機在決定有關犯戒時不起任何作用，而故意和當前目標則起作用。然而，在\ `《僧殘》八`_\ 和\ `《僧殘》九`_\ 中，衝動──憤怒──與動機混為一談：渴望看到另一位比丘被逐出僧團。事實上，在大多數戒條，《經分別》並沒有對這些子因素做出明確的區分，所以強制在整個過程中進行一致的區分似乎是人為的。因此，這裡遵循的方法是將這些考慮因素放在一個標題下——意圖——並僅在重要時提醒讀者注意它們之間的區別。
 
        ..
-          TODO FIXME: replace link to 《波羅夷》三
-          TODO FIXME: replace link to 《僧殘》一
           TODO FIXME: replace link to 《僧殘》八
           TODO FIXME: replace link to 《僧殘》九
 
@@ -154,7 +152,6 @@
      - 古代註釋中引入的另一個對犯戒進行分類的方案是區分世間所批評的犯戒（\ *loka-vajja*\ ）和僅戒條所批評的犯戒（\ *paṇṇati-vajja*\ ）。《義註》定義了這種區別，說「\ *loka-vajja*\ 」一詞適用於只能用不善的心態（即\ `貪、嗔、痴`_\ ）來違犯的戒條，而「\ *paṇṇati-vajja*\ 」一詞適用於可以用善的心態來違犯的戒條。它指出，將某個特定戒條歸入兩者之中任一類別的一個方法是注意佛陀在藉機修改它時如何更改它。如果他讓戒條更加嚴格——就像\ `《波羅夷》三`_\ 禁止殺人的情況一樣——違反戒條的罪行就是loka-vajja。如果他把戒條變得更加寬鬆——就像\ `《波逸提》五七`_\ 禁止過於頻繁的泡澡的情況一樣——違反戒條的罪行就是paṇṇati-vajja。
 
        ..
-          TODO FIXME: replace link to 《波羅夷》三
           TODO FIXME: replace link to 《波逸提》五七
 
    * - .. container:: notification
@@ -235,8 +232,8 @@
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _9: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
-.. _《波羅夷》三: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
-.. _《僧殘》一: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
+.. _《波羅夷》三: {filename}Section0010%zh-hant.rst#pr3
+.. _《僧殘》一: {filename}Section0011%zh-hant.rst#sg1
 .. _《僧殘》八: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _《僧殘》九: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
 .. _七覺支: https://zh.wikipedia.org/zh-hant/%E4%B8%83%E8%A6%BA%E6%94%AF

@@ -169,8 +169,7 @@
 .. _《僧殘》二: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
 .. TODO FIXME: replace link to 《僧殘》二
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
-.. _《僧殘》一: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
-.. TODO FIXME: replace link to 《僧殘》一
+.. _《僧殘》一: {filename}Section0011%zh-hant.rst#sg1
 .. _黃門: https://zh.wikipedia.org/wiki/%E9%BB%83%E9%96%80_(%E4%BD%9B%E6%95%99)
 .. _3: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
 .. _三: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
@@ -837,7 +836,6 @@
 .. _《小品》.六.15.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0231a01
 .. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
 .. _《波羅夷》四: #pr4
-.. TODO FIXME: replace link to 《波羅夷》四
 .. _用於其他地方: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0235a08
 .. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
 .. _《波逸提》一: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1

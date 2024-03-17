@@ -104,3 +104,26 @@
    * - Although some sub-sub-commentaries have ventured a more cautious opinion than the Commentary’s—saying that semen counts as having fallen from its base when there appears a small amount of the clear alkaline fluid produced by the prostate and Cowper’s glands prior to ejaculation—there is nothing in the Vibhaṅga to prove the Commentary wrong.
 
      - 儘管一些《複註》的再註釋提出了比《義註》更謹慎的觀點，即當射精前的前列腺和考珀氏腺產生少量透明鹼性液體時，精液就被視為從其基底落下。《經分別》中沒有任何內容可以證明《義註》是錯誤的。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - The Vibhaṅga defines *intentionally* as “having willed, having made the decision knowingly and consciously.” The Commentary explains these terms as follows: *Having willed* means having willed, having planned, with the intention of enjoying bringing about an emission. *Having made the decision* means having summoned up a reckless mind state, “crushing” through the power of an attack. (These are the same terms it uses to explain the same phrase under `Pr 3`_, `Pc 61`_, and `Pc 77`_. The meaning is that one is not simply toying with the idea. One has definitely made up one’s mind to overcome all hesitation by aggressively setting upon an action aimed at causing emission.) *Knowingly* means knowing that, “I am making an exertion”—which the Sub-commentary explains as knowing that, “I am making an exertion for the sake of an emission.” *Consciously* means being aware that one’s efforts are bringing about an emission of semen.
+
+     - 《經分別》將\ *故意*\ 定義為「有意願，明知地而且有意識地做出決定」。《義註》對這些術語的解釋如下：\ *有意願*\ ，意思是已經願意、已經計劃、並且意圖享受射精。\ *做出決定*\ ，意思是喚起了不顧後果的精神狀態，以攻擊之力「碾碎」。（這些是它用來解釋\ `《波羅夷》三`_\ 、\ `《波逸提》六一`_\ 和\ `《波逸提》七七`_\ 中相同措辭的相同術語。意思是，不僅玩弄這個想法。而是已經肯定地下定決心，克服所有猶豫，積極地採取旨在引起射精的行動。）\ *明知*\ 意思是知道「我正在努力」——《複註》將其解釋為知道「我正在為了射精而努力」。\ *有意識*\ 意思是意識到自己的努力正在導致精液的排出。
+
+.. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
+.. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
+.. _Pc 77: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc77
+.. _《波羅夷》三: {filename}Section0010%zh-hant.rst#pr3
+.. _《波逸提》六一: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
+.. TODO FIXME: replace link to 《波逸提》六一
+.. _《波逸提》七七: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc77
+.. TODO FIXME: replace link to 《波逸提》七七
+
+(未完待續)
