@@ -117,6 +117,40 @@
 
      - 《經分別》將\ *故意*\ 定義為「有意願，明知地而且有意識地做出決定」。《義註》對這些術語的解釋如下：\ *有意願*\ ，意思是已經願意、已經計劃、並且意圖享受射精。\ *做出決定*\ ，意思是喚起了不顧後果的精神狀態，以攻擊之力「碾碎」。（這些是它用來解釋\ `《波羅夷》三`_\ 、\ `《波逸提》六一`_\ 和\ `《波逸提》七七`_\ 中相同措辭的相同術語。意思是，不僅玩弄這個想法。而是已經肯定地下定決心，克服所有猶豫，積極地採取旨在引起射精的行動。）\ *明知*\ 意思是知道「我正在努力」——《複註》將其解釋為知道「我正在為了射精而努力」。\ *有意識*\ 意思是意識到自己的努力正在導致精液的排出。
 
+   * - The Commentary’s definition of “having willed” is where it deviates from the Vibhaṅga’s discussion of the factor of intention. The Vibhaṅga, throughout its analysis, expresses this factor simply as “aiming at causing an emission,” and it lists ten possible motives for wanting to bring the emission about:
+
+     - 《義註》對「有意願」的定義與《經分別》對意圖因素的討論有所不同。《經分別》在其整個分析中僅僅將這一因素表述為「旨在引起射精」，並列出了想要引起射精的十種可能的動機：
+
+   * - for the sake of health,
+     - 為了健康，
+
+   * - for the sake of pleasure,
+     - 為了享樂，
+
+   * - for the sake of a medicine,
+     - 為了用藥，
+
+   * - for the sake of a gift (to insects, says the Commentary, although producing semen as a gift to one’s partner in a tantric ritual would also come under this category),
+     - 為了禮物（《義註》中說，是給昆蟲，儘管在密宗儀式中將精液作為禮物送給伴侶也屬於這一類），
+
+   * - for the sake of merit,
+     - 為了功德，
+
+   * - for the sake of a sacrifice,
+     - 為了犧牲，
+
+   * - for the sake of heaven,
+     - 為了天界，
+
+   * - for the sake of seed (to produce a child—a bhikkhu who gave semen to be used in artificial insemination would fit in this category),
+     - 為了留種（為了生孩子－比丘捐出精液用於人工受孕就屬於這一類），
+
+   * - for the sake of investigating (e.g., to diagnose one’s health), or
+     - 為了調查（例如，診斷某人的健康狀況），或
+
+   * - for the sake of playfulness or fun.
+     - 為了好玩或有趣。
+
 .. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
 .. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
 .. _Pc 77: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc77
