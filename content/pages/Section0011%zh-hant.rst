@@ -195,8 +195,23 @@
 
      - 這些定義極其籠統的性質給人的印象是，《經分別》的編撰者希望它們涵蓋所有可以想像到的旨在喚起性欲的身體努力類型，而這種印象在《Vinīta_-vatthu_》中涵蓋的各種案例中得到了證實。其中包括一位比丘用拳頭擠壓他的陰莖，一位比丘用拇指摩擦他的陰莖，一位比丘用床摩擦他的陰莖，一位將他的陰莖插入沙子中，一位\ `在水流中逆流沐浴`_\。一位是在浴房裡摩擦戒師的背部，一位是走路時大腿和袈裟摩擦而勃起的，一位是在浴房裡加熱腹部的，一位是伸展身體的。在上述每一種情況下，如果比丘目的在於射精並成功，他就會犯《僧殘》。
 
+   * - The Vinīta-vatthu also includes a case in which a bhikkhu, desiring to cause an emission, orders a novice to take hold of his (the bhikkhu’s) penis. He gets his emission and a saṅghādisesa to boot, which shows that getting someone else to make the effort for one fulfills the factor of effort here. Under the factor of consent, below, we will discuss a similar case from the Vinīta-vatthu to `Pr 1`_ which indicates that simply lying still while allowing someone else to bring one to an orgasm fulfills the factor of effort here as well.
+
+     - 《Vinīta_-vatthu_》還包括一個例子，一位比丘想要射精，\ `命令一位沙彌抓住他的（比丘的）陰莖`_\ 。他得到了他的射精和《僧殘》，這表明讓別人為自己付出努力就滿足了這裡的努力因素。在下面的同意因素下，我們將討論從\ `《波羅夷》一`_\ 的《Vinīta_-vatthu_》中的一個類似案例，該案例表明，僅僅只是不動地躺著，同時允許別人使自己達到高潮，也滿足了這裡的努力因素。
+
+   * - In discussing the factor of effort, though, the Commentary adds an additional sub-factor: that the effort must be directed at one’s own penis. If this were so, then a bhikkhu who succeeded in causing an emission by stimulating any of the erogenous zones of his body aside from his penis would incur no penalty. The Commentary itself actually makes this point, and the Sub-commentary seconds it, although the V/Sub-commentary says that such a bhikkhu would incur a dukkaṭa—what it bases this opinion on, it doesn’t say: perhaps a misreading of the Case of the Sleeping Novice, which we will discuss below.
+
+     - 然而，在討論努力因素時，《義註》增加了一個額外的子因素：努力必須針對自己的陰莖。如果是這樣的話，那麼比丘如果透過刺激身體上除陰莖以外的任何性感帶而成功地導致射精，就不會受到懲罰。《義註》本身實際上提出了這一點，而《複註》也同意這一點，儘管V/《複註》說這樣的比丘會犯《突吉羅》—它並沒有說明此觀點基於什麼：也許是對\ **睡眠沙彌案例**\ 的誤讀，我們將在下面討論。
+
+   * - At any rate, the Commentary in adding this last factor runs up against a number of cases in the Vinīta-vatthu in which the effort does not involve the penis: the bhikkhu warming his belly, the bhikkhu rubbing his preceptor’s back, a bhikkhu having his thighs massaged, and others. The Commentary deals with these cases by rewriting them, stating in most cases that the effort somehow had to involve the penis. This in itself is questionable, but when the Commentary actually contradicts the Vinīta-vatthu in the case of the bhikkhu who warms his belly, saying that this sort of effort could not involve an offense at all, even if one aims at and succeeds in causing an emission, the commentators have moved beyond the realm of commenting into the realm of rewriting the rule.
+
+     - 無論如何，《義註》在添加這最後一個因素時遭遇到了《Vinīta_-vatthu_》中的許多案例，其中努力不涉及陰莖：比丘溫暖他的腹部，比丘摩擦他的戒師的背部，比丘讓他的大腿被按摩，等等。《義註》透過改寫來處理這些案例，指出在大多數情況下，努力必須以某種方式涉及陰莖。這本身是有問題的，但是當《義註》實際上與《Vinīta_-vatthu_》中比丘溫暖腹部的案例相矛盾時，說這種努力根本不涉及犯戒，即使一個人的目的在於射精並成功，註釋者已經超越了註釋領域，進入了改寫戒條的領域。
+
 .. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
 .. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
 .. _在水流中逆流沐浴: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0164a08
+.. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
+.. _命令一位沙彌抓住他的（比丘的）陰莖: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0163a07
+.. _《波羅夷》一: {filename}Section0010%zh-hant.rst#pr1
 
 (未完待續)
