@@ -207,11 +207,24 @@
 
      - 無論如何，《義註》在添加這最後一個因素時遭遇到了《Vinīta_-vatthu_》中的許多案例，其中努力不涉及陰莖：比丘溫暖他的腹部，比丘摩擦他的戒師的背部，比丘讓他的大腿被按摩，等等。《義註》透過改寫來處理這些案例，指出在大多數情況下，努力必須以某種方式涉及陰莖。這本身是有問題的，但是當《義註》實際上與《Vinīta_-vatthu_》中比丘溫暖腹部的案例相矛盾時，說這種努力根本不涉及犯戒，即使一個人的目的在於射精並成功，註釋者已經超越了註釋領域，進入了改寫戒條的領域。
 
+   * - As stated in the Introduction, we have to go on the assumption that the compilers of the Vibhaṅga knew the crucial factors of each offense well enough to know what is and is not an offense, and were careful enough to include all the relevant facts when describing the precedents in the Vinīta-vatthu in order to show how the Buddha arrived at his judgments. Because the Commentary’s position—adding the extra factor that the physical effort has to involve one’s own penis—directly contradicts the Vibhaṅga on this point, the extra factor cannot stand.
+
+     - 如同\ **引言**\中所述，我們必須繼續假設，《經分別》的編纂者充分了解每種犯戒的關鍵因素，知道什麼是犯戒，什麼不是犯戒，並且在描述《Vinīta_-vatthu_》中的先例時足夠小心，包括所有相關事實，以表明佛陀如何得出他的判斷。因為《義註》的立場——增加了身體努力必須涉及自己的陰莖這一額外因素——在這一點上直接與《經分別》相矛盾，所以這個額外因素不能成立。
+
+   * - The question then is why the commentators added the extra factor in the first place. An answer may be found in one of the cases in the Vinīta-vatthu: the Case of the Sleeping Novice.
+
+     - 那麼問題便是為什麼註釋者當初添加了額外的因素。在《Vinīta_-vatthu_》中的一個案例中或許可以找到答案：\ `睡眠沙彌案例`_\。
+
+   * - “On that occasion a certain bhikkhu grabbed hold of the penis of a sleeping novice. His semen was emitted. He felt conscience-stricken…. ‘Bhikkhu, there is no saṅghādisesa offense. There is a dukkaṭa offense.’”
+
+     - 「有一次，某個比丘抓住了一個熟睡的沙彌的陰莖。他的精液被射出。他感到良心不安…。『比丘，非《僧殘》，乃《突吉羅》』」
+
 .. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
 .. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
 .. _在水流中逆流沐浴: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0164a08
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _命令一位沙彌抓住他的（比丘的）陰莖: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0163a07
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#pr1
+.. _睡眠沙彌案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0163a07
 
 (未完待續)
