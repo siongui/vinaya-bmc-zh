@@ -219,6 +219,18 @@
 
      - 「有一次，某個比丘抓住了一個熟睡的沙彌的陰莖。他的精液被射出。他感到良心不安…。『比丘，非《僧殘》，乃《突吉羅》』」
 
+   * - The issue here is whose semen was emitted. Pali syntax, unlike English, doesn’t give us a clue, for there is no syntactical rule that the pronoun in one sentence should refer to the subject of the preceding sentence. There are many cases under `Pr 3`_ that follow the form, “A stone badly held by the bhikkhu standing above hit the bhikkhu standing below on the head. The bhikkhu died. He felt conscience-stricken.” In these cases it is obvious from the context within the story which bhikkhu died and which one felt conscience-stricken, while with the sleeping novice we have to look for the context in other parts of the Vibhaṅga.
+
+     - 這裡的問題是誰的精液被排出了。巴利語法與英語不同，沒有給我們任何線索，因為沒有語法規則要求一個句子中的代名詞應該指前一個句子的主詞。\ `《波羅夷》三`_\中有許多案例遵循這樣的形式：「站在上面的比丘拙劣地握住一塊石頭，擊中了站在下面的比丘的頭部。比丘死了。他感到良心受到譴責。」在這些情況下，從故事的上下文中可以明顯看出哪個比丘死了，哪個比丘感到良心受到打擊，而對於睡眠的沙彌，我們必須在《經分別》的其他部分尋找上下文。
+
+   * - If the bhikkhu was the one who emitted semen, then perhaps there is a contradiction in the Vibhaṅga, and the Commentary is justified in saying that the effort must involve one’s penis, for otherwise the case would seem to fulfill the Vibhaṅga’s general definition for the factor of effort: The bhikkhu is making an effort at an outside body and has an emission. Following the general pattern of the rule, he would incur a saṅghādisesa if he intended emission, and no penalty at all if he didn’t. Yet—deviating from the standard pattern for the Vinīta-vatthu cases—the Buddha does not ask whether he aimed at emitting semen, and simply gives the bhikkhu a dukkaṭa, which suggests an inconsistency.
+
+     - 如果比丘是射出精液的人，那麼《經分別》中也許存在矛盾，而《義註》說努力必須涉及自己的陰莖是合理的，否則這種情況似乎滿足了《經分別》對努力因素的一般定義：比丘對對外部的身體施加努力並且射出精液。按照戒條的一般模式，如果他意圖射精，就會犯《僧殘》，如果他沒有意圖射精，則不會受到任何懲罰。然而，與《Vinīta_-vatthu_》案例的標準模式不同的是，佛陀並沒有問他是否旨在射精，而只是給了比丘《突吉羅》，這表明了不一致。
+
+   * - If, however, the novice was the one who emitted, there is no inconsistency at all: The bhikkhu incurs his dukkaṭa for making lustful bodily contact with another man (see the discussion under `Sg 2`_, below), and the case is included here to show that the full offense under this rule concerns instances where one makes *oneself* emit semen, and not where one makes others emit. (Other than this case, there is nothing in the rule or the Vibhaṅga that expressly makes this point. The rule simply mentions bringing about the emission of semen, without explicitly mentioning whose. This would explain the bhikkhu’s uncertainty as to whether or not he had committed a saṅghādisesa.) And the reason there is no mention of whether or not the bhikkhu intended to emit semen is because—as it comes under another rule—it is irrelevant to the case.
+
+     - 然而，如果沙彌是射出精液的人，則根本沒有矛盾：比丘因與另一個男人進行淫蕩的身體接觸而犯《突吉羅》（參見下面\ `《僧殘》二`_\的討論），這個案例被包括在這裡，以顯示本戒條下的完全違犯涉及一個人使\ *自己*\射出精液的情況，而不是使他人射出精液的情況。（除了這個例子之外，戒條或《經分別》中沒有任何內容明確說明這一點。戒條只是提到導致精液的排出，而沒有明確提及是誰的。這可以解釋比丘不確定自己是否犯《僧殘》。）之所以沒有提及比丘是否有意射精，是因為——它屬於另一條戒條——與本案例無關。
+
 .. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
 .. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
 .. _在水流中逆流沐浴: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0164a08
@@ -226,5 +238,8 @@
 .. _命令一位沙彌抓住他的（比丘的）陰莖: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0163a07
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#pr1
 .. _睡眠沙彌案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0163a07
+.. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
+.. _《僧殘》二: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
+.. TODO FIXME: replace link to 《僧殘》二
 
 (未完待續)
