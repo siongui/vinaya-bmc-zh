@@ -231,6 +231,18 @@
 
      - 然而，如果沙彌是射出精液的人，則根本沒有矛盾：比丘因與另一個男人進行淫蕩的身體接觸而犯《突吉羅》（參見下面\ `《僧殘》二`_\的討論），這個案例被包括在這裡，以顯示本戒條下的完全違犯涉及一個人使\ *自己*\射出精液的情況，而不是使他人射出精液的情況。（除了這個例子之外，戒條或《經分別》中沒有任何內容明確說明這一點。戒條只是提到導致精液的排出，而沒有明確提及是誰的。這可以解釋比丘不確定自己是否犯《僧殘》。）之所以沒有提及比丘是否有意射精，是因為——它屬於另一條戒條——與本案例無關。
 
+   * - Thus, inasmuch as the second reading—the novice was the one who had an emission—does no violence to the rest of the Vibhaṅga, it seems to be the preferable one. If this was the case that led the commentators to add their extra factor, we can see that they misread it and that the Vibhaṅga’s original definition for the factor of effort still stands: Any bodily effort made at one’s own body, at another body or physical object, at both, or any effort made in the air—like shaking one’s pelvis or stretching one’s body—fulfills the factor of effort here.
+
+     - 因此，由於第二種讀法——沙彌是射精的人——對《經分別》的其餘部分沒有衝突，所以它似乎是更好的讀法。如果正是這種情況導致註釋者添加他們的額外因素，我們可以看到他們誤讀了它，而《經分別》對努力因素的原始定義仍然有效：對自己的身體、對另一個身體或身體對象，或對兩者皆是，還是在空中所做的任何努力——比如搖動一個人的骨盆或伸展一個人的身體——所做出的任何身體努力，都滿足了這裡的努力因素。
+
+   * - One case that does *not* fulfill the factor of effort, according to the Vinīta-vatthu, is when one is filled with lust and stares at the private parts of a woman or girl. In the case dealing with this contingency, the bhikkhu emits semen, but again the Buddha does not ask whether he intended to. Instead, he lays down a separate rule, imposing a dukkaṭa for staring lustfully at a woman’s private parts. This suggests that efforts with one’s eyes do not count as bodily efforts under this saṅghādisesa rule, for otherwise the penalty would have been a saṅghādisesa if the bhikkhu had intended emission, and no offense—not a dukkaṭa—if he hadn’t. And this also suggests that the dukkaṭa under this separate rule holds regardless of intention or result. The Commentary adds that this dukkaṭa applies also to staring lustfully at the genitals of a female animal or at the area of a fully-clothed woman’s body where her sexual organ is, thinking, “Her sexual organ is there.” At present we would impose the penalty on a bhikkhu who stares lustfully at a woman’s private parts in a pornographic photograph.
+
+     - 根據《Vinīta_-vatthu_》，一種\ *不*\滿足努力因素的情況是，當一個人充滿欲望並盯著女人或女孩的私處時。在處理這種可能發生的情況時，比丘射出精液，但佛陀並沒有問他是否有意這樣做。相反地，他制定了一條單獨的戒條，對\ `充滿欲望地凝視女性私處，處以《突吉羅》`_\。這表明，在本《僧殘》戒條下，用眼睛做的努力不算作身體的努力，否則，如果比丘有意射精，就會受到《僧殘》的懲罰；如果他沒有無意，則沒有犯戒，而不是《突吉羅》。這也表明，無論意圖或結果如何，這條單獨戒條下的《突吉羅》都成立。《義註》補充說，這種《突吉羅》也適用於充滿欲望地凝視雌性動物的生殖器，或盯著穿著衣服的女性身體的性器官所在的區域，心想：「她的性器官就在那裡。」目前，我們會對在色情照片中充滿欲望地凝視女性私處的比丘施以此懲罰。
+
+   * - As we will see under the non-offense clauses, there is no offense in a nocturnal emission. The Commentary, however, discusses the question of conscious efforts made prior to sleep aimed at a nocturnal emission, and arrives at the following verdicts: If a bhikkhu, “usurped” with lust while lying down, grabs his penis with his fist or thighs and drops off to sleep maintaining that position in hopes of inducing an emission, he incurs the full offense if the emission takes place. If, however, he suppresses his “lust-usurpation” by reflecting on the foulness of the body and then dozes off with a pure mind, he incurs no offense even if an emission later occurs. The analysis here seems to be that the bhikkhu’s change of mind would separate the emission from the earlier effort enough so that it would not be regarded as a direct result of that effort. The Sub-commentary adds that, in addition to suppressing the lust in his mind, he also has to discontinue his effort to be free of an offense in this way. And both texts have to be qualified by saying that the “no offense” would apply only to the emission, for the earlier intentional effort would incur a thullaccaya.
+
+     - 正如我們將在不犯條款中看到的，遺精並不構成犯戒。然而，《義註》討論了在睡眠前為了遺精而有意識地努力的問題，並得出以下結論：如果比丘在躺下時被欲望「侵占」，用拳頭或大腿抓住他的陰莖，入睡時保持該姿勢以期引起遺精，如果發生遺精，他將完全違犯此戒條。然而，如果他透過反思身體的不淨來抑制「欲望篡奪」，然後以清淨的心入睡，即使後來發生遺精，他也不會犯戒。這裡的分析似乎是，比丘改變心意，會將射精與先前的努力充分分開，這樣它就不會被視為該努力的直接結果。《複註》又說，除了抑制內心的欲望之外，他還必須停止他的努力而免於以這種方式犯戒。這兩篇文本都必須加以限定，即「不犯」僅適用於射精，因為更早之前的故意努力會犯《偷蘭遮》。
+
 .. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
 .. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
 .. _在水流中逆流沐浴: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0164a08
@@ -241,5 +253,6 @@
 .. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
 .. _《僧殘》二: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
 .. TODO FIXME: replace link to 《僧殘》二
+.. _充滿欲望地凝視女性私處，處以《突吉羅》: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0164a02
 
 (未完待續)
