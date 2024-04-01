@@ -255,4 +255,16 @@
 .. TODO FIXME: replace link to 《僧殘》二
 .. _充滿欲望地凝視女性私處，處以《突吉羅》: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0164a02
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Consent**
+     - **同意**
+
+   * - A special contingency covered by this rule occurs in two nearly identical cases in the Vinīta-vatthu for `Pr 1`_: A woman approaches a bhikkhu and offers to make him emit semen by attacking with her hand (§). In both cases the bhikkhu lets her go ahead, and the Buddha says that he incurs a saṅghādisesa in doing so. The commentaries treat the cases as self-evident and offer no extra details. Thus, given the facts as we have them, it would seem that consent under this rule can be expressed physically simply by letting the act happen. A bhikkhu who acquiesces mentally when someone tries and succeeds in making him emit semen is not absolved from the full offense here even if he otherwise lies perfectly still throughout the event.
+
+     - 本戒條所涵蓋的特殊意外情況發生在\ `《波羅夷》一`_\ 的《Vinīta_-vatthu_》中的兩個幾乎相同的案例中：一名婦女走近一位比丘，提出用手攻擊讓他射出精液（§）。在這兩種情況下，比丘都讓她繼續，佛陀說他這樣做會犯《僧殘》。註釋認為這些案例是不言而喻的，沒有提供額外的細節。因此，鑑於我們所掌握的事實，似乎可以透過僅僅讓該行為發生在身體上來表達本戒條下的同意。當有人試圖並成功地讓比丘射出精液時，比丘在精神上默許，即使他在整個事件中完全靜止不動，也不能免除這裡的完全違犯。
+
 (未完待續)
