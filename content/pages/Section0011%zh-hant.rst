@@ -267,4 +267,24 @@
 
      - 本戒條所涵蓋的特殊意外情況發生在\ `《波羅夷》一`_\ 的《Vinīta_-vatthu_》中的兩個幾乎相同的案例中：一名婦女走近一位比丘，提出用手攻擊讓他射出精液（§）。在這兩種情況下，比丘都讓她繼續，佛陀說他這樣做會犯《僧殘》。註釋認為這些案例是不言而喻的，沒有提供額外的細節。因此，鑑於我們所掌握的事實，似乎可以透過僅僅讓該行為發生在身體上來表達本戒條下的同意。當有人試圖並成功地讓比丘射出精液時，比丘在精神上默許，即使他在整個事件中完全靜止不動，也不能免除這裡的完全違犯。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Derived offenses**
+     - **衍生違犯**
+
+   * - As stated above, a bhikkhu who fulfills all three factors—result, intention, and effort—incurs a saṅghādisesa. One who fulfills only the last two—intention and effort—incurs a thullaccaya.
+
+     - 如上所述，比丘滿足了所有三個因素——結果、意圖和努力——就犯了《僧殘》。一個人只滿足最後兩項——意圖和努力——就會犯了《偷蘭遮》。
+
+   * - In discussing the case of a bhikkhu with fat thighs who develops an erection simply by walking along, the Commentary mentions that if one finds sensual “fever” arising in such a case, one must immediately stop walking and start contemplating the foulness of the body so as to purify the mind before continuing on one’s way. Otherwise, one would incur a thullaccaya simply for moving one’s legs. *Sensual fever*, here, probably refers to the desire to cause an emission, for there are several spots where the Commentary discusses bhikkhus who stimulate an erection simply for the enjoyment of the contact rather than to cause an emission, and the judgment is that they incur no penalty, even if an emission does inadvertently result.
+
+     - 在討論一位大腿肥大的比丘，只要走路就勃起的案例時，《義註》提到，如果在這種情況下發現欲「燒」，必須立即停止行走，並開始觀照身體的不淨，以便在繼續前進之前淨化內心。否則，僅僅因為移動雙腿就會招致《偷蘭遮》。這裡的\ *欲燒*\可能是指想要引起射精的欲望，因為《義註》中有好幾處討論了比丘刺激勃起的原因，他們只是為了享受接觸的樂趣而不是為了引起射精，而判決結果是，即使無意中造成了射精，他們也不會受到懲罰。
+
+   * - Aside from the thullaccaya, the Vibhaṅga assigns no other derived offenses under this rule. A bhikkhu who has an ejaculation while thinking sensual thoughts but without making any physical effort to cause it, incurs no penalty regardless of whether the idea crosses his mind that he would like to have an emission, and regardless of whether he enjoys it when it occurs. However, the Commentary notes here that even though there is no offense involved, one should not let oneself be overcome by sensual thoughts in this way. This point is borne out by the famous simile that occurred to Prince Siddhattha before his Awakening and that later, as Buddha, he related to a number of listeners:
+
+     - 除了《偷蘭遮》之外，《經分別》在本戒條下沒有指定任何其他衍生違犯。比丘在想性欲念頭時射精，但沒有付出任何身體努力來導致射精，無論他的心中是否有想要射精的念頭，也無論當射精發生時他是否享受它，都不會受到懲罰。然而，《義註》在此指出，即使沒有犯戒，也不應該這樣讓自己被欲念所征服。悉達多太子在成佛之前，後來成為佛陀時，對許多聽眾講了一個著名的比喻，證實了這一點：
+
 (未完待續)
