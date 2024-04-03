@@ -314,4 +314,16 @@
 .. _MN 36: https://www.dhammatalks.org/suttas/MN/MN36.html
 .. _《中部》36經: https://sutra.mobi/chilin/zhong/content/036.html
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - In addition to the cases already mentioned—the bhikkhus who bring about emissions accidentally, not knowing that they are making an effort, not conscious that their efforts are bringing about an emission, whose efforts are motivated by a purpose other than that of causing an emission, or who without making any physical effort have an ejaculation while overcome by sensual thoughts—there is no offense for a bhikkhu who has an ejaculation while dreaming.
+
+     - 除了已經提到的情況外—比丘們無意中造成漏洩精液，他們不知道自己在努力，沒有意識到自己的努力正在帶來漏洩精液，他們的努力是出於除了造成漏洩精液之外的目的，或在沒有做出身體努力的情況下，被欲念所控制而射精—比丘在夢中射精並不犯戒。
+
 (未完待續)
