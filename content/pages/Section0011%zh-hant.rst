@@ -287,4 +287,31 @@
 
      - 除了《偷蘭遮》之外，《經分別》在本戒條下沒有指定任何其他衍生違犯。比丘在想性欲念頭時射精，但沒有付出任何身體努力來導致射精，無論他的心中是否有想要射精的念頭，也無論當射精發生時他是否享受它，都不會受到懲罰。然而，《義註》在此指出，即使沒有犯戒，也不應該這樣讓自己被欲念所征服。悉達多太子在成佛之前，後來成為佛陀時，對許多聽眾講了一個著名的比喻，證實了這一點：
 
+   * - .. container:: notification
+
+          “‘Suppose there were a wet sappy piece of timber lying on dry ground far from water, and a man were to come along with an upper fire-stick, thinking, “I’ll light a fire. I’ll produce heat.” Now what do you think? Would he be able to light a fire and produce heat by rubbing the upper fire-stick in the wet sappy timber…?’
+
+     - .. container:: notification
+
+          假如有一條潮濕的木柴，被人放在乾地上，一個人拿著一支木燧走來，想用那條木柴來生熱、取火。火種，你認為怎樣，那個人能否用木燧和那條木柴來生熱、取火呢？
+
+   * - .. container:: notification
+
+          “‘No, Master Gotama. And why is that? Because the wood is wet and sappy, even though it is lying on dry ground far from water. The man would reap only his share of weariness and disappointment.’
+
+     - .. container:: notification
+
+          “喬答摩賢者，不能。這是什麼原因呢？因為雖然那條木柴被人放在乾地上，但仍是潮濕的。那個人只會為自己帶來疲勞和苦惱。”
+
+   * - .. container:: notification
+
+          “‘So it is with any brahman or contemplative who lives withdrawn from sensuality only in body, but whose desire, infatuation, urge, thirst, and fever for sensuality is not relinquished and stilled within him: Whether or not he feels painful, racking, piercing feelings due to his striving (for Awakening), he is incapable of knowledge, vision, and unexcelled self-awakening.’”—`MN 36`_
+
+     - .. container:: notification
+
+          同樣地，任何沙門婆羅門，如果不能從身體所帶來的欲樂之中退卻出來，不能善於捨棄和善於平息內心對貪欲的愛欲、愛著、迷戀、渴求、熱愛的話，在感受到強烈、猛烈、激烈的苦受時，他們沒有能力得到無上等正覺的知和見—`《中部》36經`_
+
+.. _MN 36: https://www.dhammatalks.org/suttas/MN/MN36.html
+.. _《中部》36經: https://sutra.mobi/chilin/zhong/content/036.html
+
 (未完待續)
