@@ -326,4 +326,24 @@
 
      - 除了已經提到的情況外—比丘們無意中造成漏洩精液，他們不知道自己在努力，沒有意識到自己的努力正在帶來漏洩精液，他們的努力是出於除了造成漏洩精液之外的目的，或在沒有做出身體努力的情況下，被欲念所控制而射精—比丘在夢中射精並不犯戒。
 
+   * - The Commentary notes that some interpreters had taken the idiomatic term in the rule translated as, “while dreaming (*supinantā*),” and read it as a compound meaning literally “at the end of a dream (*supin’antā*),” thus opening an allowance for intentional effort and emission when awakening from a soon-to-be-wet dream. However, the Commentary goes on to rule out this overly literal interpretation, stating that what happens in the mind while one is sleeping falls in the bounds of the Abhidhamma, but what happens after one awakens falls within the bounds of the Vinaya; and that there is no such thing as a misdeed performed when one is in a “non-negligible” state of mind that does not count as an offense. (*Non-negligible*, according to the Sub-commentary, means “normal.”)
+
+     - 《義註》指出，一些解釋者將戒條中的慣用術語翻譯為「做夢時 (*supinantā*)」，並將其解讀為複合詞，字面意思是「在夢的結尾 (*supin'antā*)」，從而開緣了當從即將遺精的春夢中醒來時，允許有意識的努力和泄精。然而，《義註》接著排除了這種過於字面的解釋，指出睡著時內心發生的事情屬於阿毘達摩的範圍，而睡醒後發生的事情則屬於戒律的範圍。當一個人處於「不可忽略」的心態時，任何不端行為都算犯戒。（根據《複註》，\ *不可忽略*\的意思是「正常」。）
+
+   * - In making the exception for what happens while asleep, the Buddha states that even though there may be the intention to cause an emission, it doesn’t count. The Commentary goes on to say, however, that if a bhikkhu fully awakens in the course of a wet dream, he should lie still and be extremely careful not to make a move that would fulfill the factor of effort under this rule. If the process has reached the point where it is irreversible and the ejaculation occurs spontaneously, he incurs no penalty regardless of whether he enjoys it. And as the Commentary quotes from the Kurundī, one of the ancient Sinhalese commentaries on which it is based, if he wakes up in the course of a wet dream and grabs hold of his penis to prevent the ejaculation from soiling his robes or bedding, there is no offense.
+
+     - 在對睡眠時發生的情況進行例外處理時，佛陀指出，即使可能有導致泄精的意圖，但這不算數。然而，《義註》接著說，如果比丘在春夢中完全醒來，他應該靜靜地躺著，並且要非常小心，不要做出會滿足本戒條下努力因素的舉動。如果這個過程已經達到不可逆轉的地步並且射精自然發生，那麼無論他是否享受它，他都不會受到懲罰。正如《義註》引用的《Kurundī》（這是其所依據的古代僧伽羅註釋之一）中的那樣，如果他在春夢中醒來並抓住他的陰莖以防止射精弄髒他的袈裟或床上用品，那麼並沒有犯戒。
+
+   * - However, the Commentary’s two cases concerning nocturnal emissions, mentioned above, indicate that if a nocturnal emission occurs after a bhikkhu made a fully intentional effort toward an emission before falling asleep, he would incur the full offense under this rule unless the effort and intent were clearly stopped with a clear change of heart while he was still awake. This is because all three factors under this rule would be fully present: a conscious, unhesitating decision to cause an emission; a conscious effort based on that decision; and the resulting emission. Whether or not one was conscious while it occurred is of no account.
+
+     - 然而，上述《義註》中關於遺精的兩個案例表明，如果比丘在入睡前完全有意地努力泄精，之後發生遺精，那麼他將完全違犯本戒條下，除非在他還醒著的時候，由於心意的明顯改變而明顯地停止了努力和意圖。這是因為本戒條下的所有三個因素都將完全存在：有意識地、毫不猶豫地決定引起泄精；基於該決定的有意識的努力；以及由此產生的泄精。事情發生時一個人是否有意識並不重要。
+
+   * - *Summary: Intentionally causing oneself to emit semen, or getting someone else to cause one to emit semen—except during a dream—is a saṅghādisesa offense.*
+     - *摘要：故意使自己射出精液，或讓別人使自己射出精液（除了在夢中），是《僧殘》罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 (未完待續)
