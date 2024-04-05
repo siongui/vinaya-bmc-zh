@@ -251,8 +251,7 @@
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#pr1
 .. _睡眠沙彌案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0163a07
 .. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
-.. _《僧殘》二: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
-.. TODO FIXME: replace link to 《僧殘》二
+.. _《僧殘》二: #sg2
 .. _充滿欲望地凝視女性私處，處以《突吉羅》: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0164a02
 
 
@@ -345,5 +344,27 @@
 .. container:: has-text-centered
 
    \*    \*    \*
+
+
+.. _Sg2:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **2**
+     - **二**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, overcome by lust, with altered mind, engage in bodily contact with a woman, or in holding her hand, holding a lock of her hair, or caressing any of her limbs, it entails initial and subsequent meetings of the Community.*
+
+     - .. container:: notification
+
+          *如果任何比丘被貪欲所征服，以變易之心，與女人進行身體接觸，或握住她的手，握住她的一綹頭髮，或愛撫她的任何肢體，僧殘。*
+
+   * - This rule has sometimes been viewed as a sign of prejudice against women. But, as the origin story makes clear, the Buddha formulated the rule not because women are bad, but because bhikkhus sometimes can be.
+
+     - 本戒條有時被視為對女性的偏見。但是，正如\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0166a03>`__\所表明的那樣，佛陀制定這條戒條並不是因為女人不好，而是因為比丘有時是不好的。
 
 (未完待續)
