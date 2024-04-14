@@ -411,4 +411,31 @@
 
      - 比丘與女人接觸有兩種方式：主動（比丘接觸）或被動（女人接觸）。由於《經分別》使用不同的術語來分析這兩種可能性，因此我們將分別討論它們。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Active contact**
+     - **主動接觸**
+
+   * - The full offense for active contact here is composed of four factors.
+     - 這裡主動接觸的完全違犯由四個因素組成。
+
+   * - *1) Object:* a living woman—“even one born on that very day, all the more an older one.” Whether she is awake enough to realize what is going on is irrelevant to the offense.
+
+     - *1）對象：*\一個活著的女人——「即使是當天出生的，更不用說更年長的女人。」她是否清醒地意識到正在發生的事情與犯戒無關。
+
+   * - *2) Perception:* The bhikkhu correctly perceives her to be a woman.
+     - *2）感知：*\ 比丘正確地察覺她是女性。
+
+   * - *3) Intention:* He is impelled by lust.
+     - *3）意圖：*\他被欲望所驅使。
+
+   * - *4) Effort:* He comes into physical contact with her.
+     - *4）努力：*\他與她有身體接觸。
+
+   * - Of these four factors, only two—intention and effort—require detailed explanation.
+     - 在這四個因素中，只有兩個——意圖和努力——需要詳細解釋。
+
 (未完待續)
