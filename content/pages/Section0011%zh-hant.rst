@@ -424,7 +424,7 @@
 
    * - *1) Object:* a living woman—“even one born on that very day, all the more an older one.” Whether she is awake enough to realize what is going on is irrelevant to the offense.
 
-     - *1）對象：*\一個活著的女人——「即使是當天出生的，更不用說更年長的女人。」她是否清醒地意識到正在發生的事情與犯戒無關。
+     - *1）對象：*\一個活著的女人——「即使是當天出生者，何況更年長者。」她是否清醒地意識到正在發生的事情與犯戒無關。
 
    * - *2) Perception:* The bhikkhu correctly perceives her to be a woman.
      - *2）感知：*\ 比丘正確地察覺她是女性。
@@ -437,5 +437,34 @@
 
    * - Of these four factors, only two—intention and effort—require detailed explanation.
      - 在這四個因素中，只有兩個——意圖和努力——需要詳細解釋。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Intention*
+     - *意圖*
+
+   * - The Vibhaṅga explains the term *overcome with lust* as meaning “impassioned, desiring, a mind bound by attraction.” *Altered*, it says, can refer in general to one of three states of mind—passion, aversion, or delusion—but here it refers specifically to passion.
+
+     - 《經分別》將「\ *被貪欲所征服*\」一詞解釋為「充滿激情、渴望、被吸引力束縛的心」。 它說，「變易」一般可以指三種心理狀態之一──貪、瞋或癡──但這裡它特指貪。
+
+   * - The Commentary adds a piece of Abhidhamma analysis at this point, saying that *altered* refers to the moment when the mind leaves its state of pure neutrality in the *bhavaṅga* under the influence of desire. Thus the factor of intention here can be fulfilled not only by a prolonged or intense feeling of desire, but also by a momentary attraction.
+
+     - 《義註》在此加了\ `阿毘達摩`_\ 的分析，說「\ *變易*\ 」是指心在欲望的影響下，離開\ `有分`_\ 的清淨中立狀態的時刻。因此，這裡的意圖因素不僅可以透過持久或強烈的欲望感來實現，也可以透過瞬間的吸引來實現。
+
+   * - The Commentary also tries to limit the range of passion to which this rule applies, saying that it covers only desire for the enjoyment of contact. As we noted under `Pr 1`_, the ancient commentators formulated a list of eleven types of lust, each mutually exclusive, and the question of which rule applies to a particular case depends on which type of lust provokes the bhikkhu’s actions. Thus if a bhikkhu lusting for intercourse touches a woman, it says, he incurs only a dukkaṭa as a preliminary to sexual intercourse under `Pr 1`_. If he touches her through his lust for an ejaculation, he incurs a thullaccaya as a preliminary to causing an emission under `Sg 1`_. Only if he touches her with the simple desire to enjoy the sensation of contact does he incur a saṅghādisesa under this rule.
+
+     - 《義註》也試圖限制本戒條適用的激情範圍，稱它僅涵蓋享受接觸的欲望。正如我們在\ `《波羅夷》一`_\ 中所指出的，古代註釋者列出了十一種貪欲的清單，每種貪欲都是相互排斥的，而哪種戒條適用於某個特定情況的問題取決於哪種類型的貪欲會激起比丘的行動。因此，如果一個欲求性交的比丘觸摸一個女人，它說，他只會犯《突吉羅》，作為\ `《波羅夷》一`_\ 下性交的預備。如果他出於射精的欲望而觸摸她，他就會犯《偷蘭遮》，作為\ `《僧殘》一`_\ 下引起射精的預備。只有當他懷著享受接觸感覺的純粹欲望去觸碰她時，他才會根據本戒條犯《僧殘》。
+
+   * - This system, though very neat and orderly, flies in the face of common sense and, as we noted under `Pr 1`_, contradicts the Vibhaṅga as well, so there is no need to adopt it. We can stick with the Vibhaṅga to this rule and say that *any* state of passion fulfills the factor of intention here. The Commentary’s discussion, though, is useful in showing that the passion needn’t be full-scale sexual lust. Even a momentary desire to enjoy the sensation of physical contact—overwhelming enough that one acts on it—is enough to fulfill this factor.
+
+     - 這個系統雖然非常整潔有序，但卻違背了常識，並且正如我們在\ `《波羅夷》一`_\ 中指出的那樣，也與《經分別》相矛盾，因此沒有必要採用它。我們可以遵循本戒條的《經分別》，並說\ *任何*\ 激情狀態都滿足這裡的意圖因素。不過，《義註》的討論有助於顯示激情不一定是全面的性欲。即使是一瞬間想要享受身體接觸的感覺——強烈到足以讓人採取行動——也足以滿足本因素。
+
+.. _阿毘達摩: https://zh.wikipedia.org/wiki/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8
+.. _有分: https://dictionary.sutta.org/browse/b/bhava%E1%B9%85ga/
+.. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
+.. _《僧殘》一: #sg1
 
 (未完待續)
