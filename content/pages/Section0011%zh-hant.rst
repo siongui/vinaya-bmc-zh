@@ -467,4 +467,20 @@
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
 .. _《僧殘》一: #sg1
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Effort*
+     - *努力*
+
+   * - The Vibhaṅga illustrates the effort of making physical contact with a list of activities: rubbing, rubbing up against, rubbing downwards, rubbing upwards, bending down, pulling up, drawing to, pushing away, seizing hold (restraining or pinning down—\ *abhiniggaṇhanā*), squeezing, grasping, or touching. The Vinīta-vatthu includes a case of a bhikkhu giving a woman a blow with his shoulder: He too incurs a saṅghādisesa, which shows that the Vibhaṅga’s list is meant to cover all similar actions as well. If a bhikkhu with lustful mind does anything of this sort to a living woman’s body, perceiving her to be a woman, he incurs the full penalty under this rule. As noted under `Pr 1`_, mouth-to-mouth penetration with any human being or common animal would incur a thullaccaya. If this act is accompanied by other lustful bodily contact, the thullaccaya would be incurred in addition to any other penalty imposed here.
+
+     - 《經分別》說明了透過一系列活動進行身體接觸的努力：摩擦、偶然碰上、向下摩擦、向上摩擦、向下彎腰、向上拉、拉近、推開、抓住（限制或固定—\ *abhiniggaṇhanā*\），擠壓、抓握或觸摸。《Vinīta_-vatthu_》中有一個\ `比丘用肩膀碰女人`_\ 的例子：他也犯了《僧殘》，這表明《經分別》的清單也旨在涵蓋所有類似的行為。如果一個比丘懷著貪欲的心，對一個活著的女人的身體做出這樣的事情，並認為她是一個女人，那麼他將根據本戒條受到完全的懲罰。如\ `《波羅夷》一`_\ 所述，與任何人類或普通動物進行口對口插入都會犯《偷蘭遮》。如果此行為伴隨著其他淫欲的身體接觸，除了此處施加的任何其他懲罰外，還將犯《偷蘭遮》。
+
+.. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
+.. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
+.. _比丘用肩膀碰女人: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a05
+
 (未完待續)
