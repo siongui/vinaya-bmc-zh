@@ -483,4 +483,31 @@
 .. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
 .. _比丘用肩膀碰女人: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a05
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Derived offenses*
+     - *衍生違犯*
+
+   * - Each of the factors of an offense allows a number of permutations that admit for different classes of offenses. Taken together, they form a complex system. Here we will consider each factor in turn.
+
+     - 犯戒的每個因素都允許多種排列，以適應不同類別的犯戒。它們結合在一起，形成了一個複雜的系統。這裡我們將依序考慮每個因素。
+
+   * - Object
+     - 對象
+
+   * - Assuming that the bhikkhu is acting with lustful intentions and is perceiving his object correctly, he incurs a thullaccaya for making bodily contact with a *paṇḍaka*, a female yakkha, or a dead woman; and a dukkaṭa for bodily contact with a man (or boy), a wooden doll, or a male or female animal.
+
+     - 假設比丘懷著貪欲而行動，並且正確地感知他的對象，他會因與\ `黃門`_\ （\ `paṇḍaka`_\ ）、女夜叉或死去的女人進行身體接觸而犯《偷蘭遮》；與男人（或男孩）、木娃娃、雄性或雌性動物的身體接觸則犯《突吉羅》。
+
+   * - *Paṇḍaka* is usually translated as eunuch, but eunuchs are only one of five types of paṇḍakas recognized by the Commentary to `Mv.I.61`_:
+     - *Paṇḍaka* 通常被翻譯為太監，但太監只是\ `《大品》.一.61`_\ 的《義註》所認可的五種 paṇḍaka 之一：
+
+.. _黃門: https://zh.wikipedia.org/wiki/%E9%BB%83%E9%96%80_(%E4%BD%9B%E6%95%99)
+.. _paṇḍaka: https://dictionary.sutta.org/browse/p/pa%E1%B9%87%E1%B8%8Daka/
+.. _Mv.I.61: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.61.2
+.. _《大品》.一.61: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0106a14
+
 (未完待續)
