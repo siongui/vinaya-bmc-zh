@@ -503,11 +503,29 @@
      - 假設比丘懷著貪欲而行動，並且正確地感知他的對象，他會因與\ `黃門`_\ （\ `paṇḍaka`_\ ）、女夜叉或死去的女人進行身體接觸而犯《偷蘭遮》；與男人（或男孩）、木娃娃、雄性或雌性動物的身體接觸則犯《突吉羅》。
 
    * - *Paṇḍaka* is usually translated as eunuch, but eunuchs are only one of five types of paṇḍakas recognized by the Commentary to `Mv.I.61`_:
-     - *Paṇḍaka* 通常被翻譯為太監，但太監只是\ `《大品》.一.61`_\ 的《義註》所認可的五種 paṇḍaka 之一：
+     - *Paṇḍaka* 通常被翻譯為太監，但太監只是\ `《大品》.一.61`_\ 的《義註》所認可的五種\ `黃門`_\ （\ `paṇḍaka`_\ ）之一：
+
+   * - 1\) An *āsitta* (literally, a “sprinkled one”)—a man whose sexual desire is allayed by performing fellatio on another man and bringing him to climax. (Some have read this as classing all homosexual males as paṇḍakas, but there are two reasons for not accepting this interpretation: (a) It seems unlikely that many homosexuals would allay their sexual desire simply by bringing someone else to climax through oral sex; (b) other homosexual acts, even though they were known in ancient India, are not included under this type or under any of the types in this list.)
+
+     - 1）\ *āsitta*\（字面意思是「被注入的」）－透過對另一個男人口交並使他達到高潮來緩解性欲的男人。（有些人認為這是將所有同性戀男性歸為\ `黃門`_\ （\ `paṇḍaka`_\ ），但不接受這種解釋有兩個原因：（a）許多同性戀者似乎不太可能僅僅通過口交使別人達到高潮來減輕自己的性慾；（b）其他同性戀行為，即使它們在古印度為人所知，也不包含在此類型或此列表中的任何類型中。
+
+   * - 2\) A voyeur—a man whose sexual desire is allayed by watching other people commit sexual indiscretions.
+     - 2）窺淫癖者－透過觀看其他人的不檢點性行為來降低性慾的男人。
+
+   * - 3\) A eunuch—one who has been castrated.
+     - 3）太監－被閹割的人。
+
+   * - 4\) A half-time paṇḍaka—one who is a paṇḍaka only during the waning moon. (! — The Sub-commentary’s discussion of this point shows that its author and his contemporaries were as unfamiliar with this type as we are today. Perhaps this was how bisexuals were understood in ancient times.)
+
+     - 4）半月\ `黃門`_\ （\ `paṇḍaka`_\ ）－僅在\ `下弦月`_\ 期間才是\ `黃門`_\ （\ `paṇḍaka`_\ ）。（！－《複註》對這一點的討論表明，它的作者和他的同時代人對這種類型和我們今天一樣陌生。也許這就是古代對雙性戀的理解。）
+
+   * - 5\) A neuter—a person born without sexual organs.
+     - 5）中性人－出生時沒有性器官的人。
 
 .. _黃門: https://zh.wikipedia.org/wiki/%E9%BB%83%E9%96%80_(%E4%BD%9B%E6%95%99)
 .. _paṇḍaka: https://dictionary.sutta.org/browse/p/pa%E1%B9%87%E1%B8%8Daka/
 .. _Mv.I.61: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.61.2
 .. _《大品》.一.61: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0106a14
+.. _下弦月: https://zh.wikipedia.org/wiki/%E4%BA%8F%E6%9C%88
 
 (未完待續)
