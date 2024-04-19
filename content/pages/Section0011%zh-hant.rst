@@ -507,7 +507,7 @@
 
    * - 1\) An *āsitta* (literally, a “sprinkled one”)—a man whose sexual desire is allayed by performing fellatio on another man and bringing him to climax. (Some have read this as classing all homosexual males as paṇḍakas, but there are two reasons for not accepting this interpretation: (a) It seems unlikely that many homosexuals would allay their sexual desire simply by bringing someone else to climax through oral sex; (b) other homosexual acts, even though they were known in ancient India, are not included under this type or under any of the types in this list.)
 
-     - 1）\ *āsitta*\（字面意思是「被注入的」）－透過對另一個男人口交並使他達到高潮來緩解性欲的男人。（有些人認為這是將所有同性戀男性歸為\ `黃門`_\ （\ `paṇḍaka`_\ ），但不接受這種解釋有兩個原因：（a）許多同性戀者似乎不太可能僅僅通過口交使別人達到高潮來減輕自己的性慾；（b）其他同性戀行為，即使它們在古印度為人所知，也不包含在此類型或此列表中的任何類型中。
+     - 1）\ *āsitta*\（字面意思是「被注入者」）－透過對另一個男人口交並使他達到高潮來緩解性欲的男人。（有些人認為這是將所有同性戀男性歸為\ `黃門`_\ （\ `paṇḍaka`_\ ），但不接受這種解釋有兩個原因：（a）許多同性戀者似乎不太可能僅僅通過口交使別人達到高潮來減輕自己的性慾；（b）其他同性戀行為，即使它們在古印度為人所知，也不包含在此類型或此列表中的任何類型中。
 
    * - 2\) A voyeur—a man whose sexual desire is allayed by watching other people commit sexual indiscretions.
      - 2）窺淫癖者－透過觀看其他人的不檢點性行為來降低性慾的男人。
@@ -522,10 +522,30 @@
    * - 5\) A neuter—a person born without sexual organs.
      - 5）中性人－出生時沒有性器官的人。
 
+   * - This passage in the Commentary further states that the last three types cannot take the Going-forth, while the first two can (although it also quotes from the Kurundī that the half-time paṇḍaka is forbidden from going-forth only during the waning moon (!).) As for the prohibition in `Mv.I.61`_, that paṇḍakas cannot receive full ordination, the Commentary states that that refers only to those who cannot take the Going-forth.
+
+     - 《義註》中的這段話進一步指出，後三種不能出家，而前兩種可以（儘管它也引用《Kurundī》，半月黃門僅在下弦月期間禁止出家（！）。）至於\ `《大品》.一.61`_\ 中的禁令，即黃門不能受具足戒，《義註》指出，這僅指那些不能出家的人。
+
+   * - However, in the context of this rule, and other rules in the Pāṭimokkha where paṇḍakas enter into the calculation of an offense, the Commentary does not say whether *paṇḍaka* covers all five types of paṇḍakas or only those not allowed to ordain. In other words, in the context of these rules do “sprinkled ones” and voyeurs count as paṇḍakas or men? In the context of this rule the practical implications of the distinction are minor: If counted as men, they would be grounds for a dukkaṭa; if paṇḍakas, grounds for a thullaccaya. However, under `Pc 6`_, 44_, 45_, & 67_, the distinction makes the difference between an offense and a non-offense, and so it is an important one to draw. There seems good reason to count them as men under all rules, for if they could ordain and yet were considered paṇḍakas under these rules, the texts would have been obliged to deal with the issue of how bhikkhus were to treat validly ordained paṇḍakas in their midst in the context of these rules. But they don’t. This shows that the issue never arose, which means that, for the purposes of all the rules, these two types of individuals count as men.
+
+     - 然而，在本戒條的脈絡下，以及《波羅提木叉》中將黃門納入犯戒計算的其他戒條中，《義註》並沒有說明\ *黃門*\是否涵蓋所有五種類型的黃門或僅涵蓋那些不允許出家的類型。換句話說，在這些戒條的脈絡下，「被注入者」和窺淫癖者算是「黃門」還是「男人」？在本戒條的戒條下，這種區別的實際含義是較不重要的：如果被算作男人，他們將成為《突吉羅》的理由；如果是黃門，則為《偷蘭遮》的理由。然而，在\ `《波逸提》六`_\、\ `四四`_\、\ `四五`_\和\ `六七`_\下，這一區別決定了犯戒和不犯之間的區別，因此這是一個重要的問題。似乎有充分的理由在所有戒條下將他們視為男人，因為如果他們能夠出家，但在這些戒條下仍被視為黃門，那麼文獻就必須處理比丘如何對待他們之中的有效出家的黃門的問題。但文獻沒有。這表明這個問題從未出現過，這意味著，就所有戒條而言，這兩類人都算是男性。
+
 .. _黃門: https://zh.wikipedia.org/wiki/%E9%BB%83%E9%96%80_(%E4%BD%9B%E6%95%99)
 .. _paṇḍaka: https://dictionary.sutta.org/browse/p/pa%E1%B9%87%E1%B8%8Daka/
 .. _Mv.I.61: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.61.2
 .. _《大品》.一.61: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0106a14
 .. _下弦月: https://zh.wikipedia.org/wiki/%E4%BA%8F%E6%9C%88
+.. _Pc 6: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc6
+.. _44: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
+.. _45: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
+.. _67: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
+.. _《波逸提》六: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc6
+.. TODO FIXME: replace link to 《波逸提》六
+.. _四四: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
+.. TODO FIXME: replace link to 《波逸提》四四
+.. _四五: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
+.. TODO FIXME: replace link to 《波逸提》四五
+.. _六七: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
+.. TODO FIXME: replace link to 《波逸提》六七
 
 (未完待續)
