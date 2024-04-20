@@ -530,6 +530,22 @@
 
      - 然而，在本戒條的脈絡下，以及《波羅提木叉》中將黃門納入犯戒計算的其他戒條中，《義註》並沒有說明\ *黃門*\是否涵蓋所有五種類型的黃門或僅涵蓋那些不允許出家的類型。換句話說，在這些戒條的脈絡下，「被注入者」和窺淫癖者算是「黃門」還是「男人」？在本戒條的戒條下，這種區別的實際含義是較不重要的：如果被算作男人，他們將成為《突吉羅》的理由；如果是黃門，則為《偷蘭遮》的理由。然而，在\ `《波逸提》六`_\、\ `四四`_\、\ `四五`_\和\ `六七`_\下，這一區別決定了犯戒和不犯之間的區別，因此這是一個重要的問題。似乎有充分的理由在所有戒條下將他們視為男人，因為如果他們能夠出家，但在這些戒條下仍被視為黃門，那麼文獻就必須處理比丘如何對待他們之中的有效出家的黃門的問題。但文獻沒有。這表明這個問題從未出現過，這意味著，就所有戒條而言，這兩類人都算是男性。
 
+   * - As for *female yakkhas*, the Commentary says that this also includes female devas. There is an ancient story in Chieng Mai of a bhikkhu who was visited by a dazzling heavenly maiden late one night while he was meditating alone in a cave at Wat Umong. She told him not to touch her, but he did—and went immediately out of his mind. The moral: This is one thullaccaya not to be taken lightly.
+
+     - 至於\ *女夜叉*\，《義註》說，這也包括女天人。清邁有一個古老的故事，講的是一位比丘在悟蒙寺的一個山洞裡獨自冥想時，有一天深夜，一位耀眼的天女拜訪了他。她告訴他不要碰她，但他卻碰了——然後立刻就失去了理智。寓意：這是不可掉以輕心的《偷蘭遮》。
+
+   * - There is one exception to the dukkaṭa for lustful contact with an animal: `Mv.V.9.3`_ states that a bhikkhu who touches the genitals of cattle incurs a thullaccaya.
+
+     - 對於與動物的淫欲接觸犯《突吉羅》，但有一個例外：\ `《大品》.五.9.3`_\ 指出，觸摸牛生殖器的比丘會犯《偷蘭遮》。
+
+   * - Other information from the Commentary:
+     - 《義註》中的其他資訊：
+
+   * - 1\) The thullaccaya for lustfully touching female corpses applies only to those that would be grounds for a full offense under `Pr 1`_, i.e., those with an anal, oral, or genital orifice intact enough for one to perform the sexual act. Female corpses decomposed beyond that point are grounds for a dukkaṭa here.
+
+     - 1）淫欲觸摸女性屍體犯《偷蘭遮》僅適用於那些根據\ `《波羅夷》一`_\ 構成完全犯戒的屍體，即肛門、口腔或生殖器口完好無損，足以讓人進行性行為。在此之後腐爛的女性屍體在此犯《突吉羅》。
+
+
 .. _黃門: https://zh.wikipedia.org/wiki/%E9%BB%83%E9%96%80_(%E4%BD%9B%E6%95%99)
 .. _paṇḍaka: https://dictionary.sutta.org/browse/p/pa%E1%B9%87%E1%B8%8Daka/
 .. _Mv.I.61: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.61.2
@@ -547,5 +563,7 @@
 .. TODO FIXME: replace link to 《波逸提》四五
 .. _六七: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
 .. TODO FIXME: replace link to 《波逸提》六七
+.. _Mv.V.9.3: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.V.9.3
+.. _《大品》.五.9.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_005#0255a11
 
 (未完待續)
