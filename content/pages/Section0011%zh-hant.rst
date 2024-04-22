@@ -545,6 +545,16 @@
 
      - 1）淫欲觸摸女性屍體犯《偷蘭遮》僅適用於那些根據\ `《波羅夷》一`_\ 構成完全犯戒的屍體，即肛門、口腔或生殖器口完好無損，足以讓人進行性行為。在此之後腐爛的女性屍體在此犯《突吉羅》。
 
+   * - 2\) The dukkaṭa for lustfully touching wooden dolls (mannequins) applies also to any female form made out of other materials, and even to any picture of a woman.
+
+     - 2）淫欲地觸摸木娃娃（人體模型）犯《突吉羅》，也適用於任何用其他材料製成的女性形象，甚至任何女性照片。
+
+   * - 3\) Female animals include female nāgas as well as any female offspring of a union between a human being and an animal.
+
+     - 3）雌性動物包括雌性龍（\ *nāga*\）以及人類與動物結合的雌性後代。
+
+   * - For some reason, male yakkhas and devas slipped out of the list. Perhaps they should come under *men*.
+     - 由於某種原因，男性夜叉和天神被排除在名單之外。也許他們應該受\ *男人*\管轄。
 
 .. _黃門: https://zh.wikipedia.org/wiki/%E9%BB%83%E9%96%80_(%E4%BD%9B%E6%95%99)
 .. _paṇḍaka: https://dictionary.sutta.org/browse/p/pa%E1%B9%87%E1%B8%8Daka/
@@ -565,5 +575,17 @@
 .. TODO FIXME: replace link to 《波逸提》六七
 .. _Mv.V.9.3: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.V.9.3
 .. _《大品》.五.9.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_005#0255a11
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - Perception
+     - 感知
+
+   * - The Vibhaṅga shows that misperception affects the severity of the offense only in the cases of women and paṇḍakas. A bhikkhu who makes lustful bodily contact with a woman while under the impression that she is something else—a paṇḍaka, a man, or an animal—incurs a thullaccaya. If he makes lustful bodily contact with a paṇḍaka while under the impression that the paṇḍaka is a woman, a man, or an animal, the penalty is a dukkaṭa. In the cases of men and animals, misperception has no effect on the severity of the case: Lustful bodily contact—e.g., with a male transvestite whom one thinks to be a woman—still results in a dukkaṭa.
+
+     - 《經分別》表明，只有在女人和黃門的情況下，錯誤感知才會影響犯戒的嚴重程度。比丘與女性進行淫欲的身體接觸，同時又以為她是別的東西——黃門、男人或動物——犯《偷蘭遮》。如果他在以為黃門是女人、男人或動物而與之進行淫欲的身體接觸，則懲罰是《突吉羅》。對於男人和動物來說，錯誤感知對案件的嚴重性沒有影響：淫蕩的身體接觸——例如，與被認為是女性的男性易裝者——仍然犯《突吉羅》。
 
 (未完待續)
