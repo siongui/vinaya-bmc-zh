@@ -588,4 +588,32 @@
 
      - 《經分別》表明，只有在女人和黃門的情況下，錯誤感知才會影響犯戒的嚴重程度。比丘與女性進行淫欲的身體接觸，同時又以為她是別的東西——黃門、男人或動物——犯《偷蘭遮》。如果他在以為黃門是女人、男人或動物而與之進行淫欲的身體接觸，則懲罰是《突吉羅》。對於男人和動物來說，錯誤感知對案件的嚴重性沒有影響：淫蕩的身體接觸——例如，與被認為是女性的男性易裝者——仍然犯《突吉羅》。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - Intention
+     - 意圖
+
+   * - The Vinīta-vatthu contains cases of a bhikkhu who caresses his mother out of filial affection, one who caresses his daughter out of fatherly affection, and one who caresses his sister out of brotherly affection. In each case the penalty is a dukkaṭa.
+
+     - 《Vinīta_-vatthu_》中記載了\ `一位比丘出於孝愛撫摸母親的例子，一位比丘出於父愛撫摸女兒的例子，還有一位比丘出於兄弟感情撫摸妹妹`_\的例子。在每種情況下，懲罰都是《突吉羅》。
+
+   * - A bhikkhu who strikes a woman—or anyone else—out of anger would be treated under `Pc 74`_. Both under that rule and in the context of Passive Contact under this rule, below, a bhikkhu who strikes or otherwise touches a woman out of a desire to escape from her commits no offense.
+
+     - 出於憤怒而毆打女人或任何其他人的比丘將受到\ `《波逸提》七四`_\ 的處理。無論是根據該戒條還是在下文中本戒條的\ **被動接觸**\，出於逃離女人的願望而毆打或以其他方式觸摸婦女的比丘並不構成犯戒。
+
+   * - Otherwise, the Vibhaṅga does not discuss the issue of bhikkhus who intentionally make active contact with women for purposes other than lust or affection—e.g., helping a woman who has fallen into a raging river—but the Commentary does. It introduces the concept of *anāmāsa*, things carrying a dukkaṭa penalty when touched; women and women’s clothing top the list. (See `BMC2, Appendix V`_ for the entire list.) It then goes into great detail to tell how one should behave when one’s mother falls into a raging river. Under no circumstances, it says, should one grab hold of her, although one may extend a rope, a board, etc., in her direction. If she happens to grab hold of her son the bhikkhu, he should not shake her off but should simply let her hold on as he swims back to shore.
+
+     - 除此之外，《經分別》並沒有討論比丘出於欲望或感情以外的目的而故意與女人主動接觸的問題，例如幫助落入洶湧河流的女人，但《義註》卻討論了這一問題。它引入了 *anāmāsa* 的概念，即觸摸時會受到《突吉羅》懲罰的事物；女人和女人的服裝位居榜首。（完整清單請參見\ `《佛教修道準則 第二冊》附錄五`_\）然後，它詳細講述了當母親掉進洶湧的河流時應該如何行動。它說，在任何情況下，都不應抓住她，儘管可以向她的方向伸出一根繩子、一塊木板等。如果她碰巧抓住了她的兒子比丘，他不應該把她甩開，而應該讓她抓住，然後遊回岸邊。
+
+.. _一位比丘出於孝愛撫摸母親的例子，一位比丘出於父愛撫摸女兒的例子，還有一位比丘出於兄弟感情撫摸妹妹: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0175a08
+.. _Pc 74: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
+.. _《波逸提》七四: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
+.. TODO FIXME: replace link to 《波逸提》七四
+.. _BMC2, Appendix V: https://www.dhammatalks.org/vinaya/bmc/Section0072.html#BMC2appendixFIVE
+.. _《佛教修道準則 第二冊》附錄五: https://www.dhammatalks.org/vinaya/bmc/Section0072.html#BMC2appendixFIVE
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》附錄五
+
 (未完待續)

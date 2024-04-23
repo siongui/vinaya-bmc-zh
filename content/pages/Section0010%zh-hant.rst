@@ -1455,6 +1455,7 @@
 
 .. _Pc 74: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
 .. _《波逸提》七四: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
+.. TODO FIXME: replace link to 《波逸提》七四
 .. _想要殺死 X ，但卻殺死了 Y: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0115a04
 .. _婦女死亡，胎兒倖存: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0113a07
 
