@@ -606,7 +606,15 @@
 
    * - Otherwise, the Vibhaṅga does not discuss the issue of bhikkhus who intentionally make active contact with women for purposes other than lust or affection—e.g., helping a woman who has fallen into a raging river—but the Commentary does. It introduces the concept of *anāmāsa*, things carrying a dukkaṭa penalty when touched; women and women’s clothing top the list. (See `BMC2, Appendix V`_ for the entire list.) It then goes into great detail to tell how one should behave when one’s mother falls into a raging river. Under no circumstances, it says, should one grab hold of her, although one may extend a rope, a board, etc., in her direction. If she happens to grab hold of her son the bhikkhu, he should not shake her off but should simply let her hold on as he swims back to shore.
 
-     - 除此之外，《經分別》並沒有討論比丘出於欲望或感情以外的目的而故意與女人主動接觸的問題，例如幫助落入洶湧河流的女人，但《義註》卻討論了這一問題。它引入了 *anāmāsa* 的概念，即觸摸時會受到《突吉羅》懲罰的事物；女人和女人的服裝位居榜首。（完整清單請參見\ `《佛教修道準則 第二冊》附錄五`_\）然後，它詳細講述了當母親掉進洶湧的河流時應該如何行動。它說，在任何情況下，都不應抓住她，儘管可以向她的方向伸出一根繩子、一塊木板等。如果她碰巧抓住了她的兒子比丘，他不應該把她甩開，而應該讓她抓住，然後遊回岸邊。
+     - 除此之外，《經分別》並沒有討論比丘出於欲望或感情以外的目的而故意與女人主動接觸的問題，例如幫助落入洶湧河流的女人，但《義註》卻討論了這一問題。它引入了 *anāmāsa* 的概念，即觸摸時會受到《突吉羅》懲罰的事物；女人和女人的服裝位居榜首。（完整清單請參見\ `《佛教修道準則 第二冊》附錄五`_\）然後，它詳細講述了當母親掉進洶湧的河流時應該如何行動。它說，在任何情況下，都不應抓住她，儘管可以向她的方向伸出一根繩子、一塊木板等。如果她碰巧抓住了她的兒子比丘，他不應該把她甩開，而應該讓她抓住，然後游回岸邊。
+
+   * - Where the Commentary gets the concept of *anāmāsa* is hard to say. Perhaps it came from the practices of the brahman caste, who are very careful not to touch certain things and people of certain lower castes. At any rate, there is no direct basis for it in the Canon. Although the concept has received wide acceptance in Theravādin Communities, many highly respected Vinaya experts have made an exception right here, saying that there is nothing wrong in touching a woman when one’s action is based not on lust but on a desire to save her from danger. Even if there is an offense in doing so, there are other places where Buddhaghosa recommends that one be willing to incur a minor penalty for the sake of compassion (e.g., digging a person out of a hole into which he has fallen), and the same principle surely holds here.
+
+     - 很難說《義註》中的 *anāmāsa* 概念是從哪裡得到的。也許這來自婆羅門種姓的習俗，婆羅門種姓非常小心，不接觸某些低種姓的某些事物和人。無論如何，在《聖典》裡並沒有直接的依據。儘管這個概念在上座部僧團中得到了廣泛接受，但許多德高望重的律宗專家卻在這裡破例，他們說，當一個人的行為不是基於欲望而是出於拯救她脫離危險的願望時，觸摸女性並沒有什麼錯。即使這樣做是犯戒的，\ `佛音`_\在其他地方也建議人們出於慈悲心而願意受到輕微的懲罰（例如，將一個人從掉進的洞裡挖出來），並且同樣的原則在這裡肯定成立。
+
+   * - The Vibhaṅga assigns no offense for touching a being other than a woman if one’s intentions are not lustful, although tickling is an offense under `Pc 52`_.
+
+     - 《經分別》規定，如果一個人的意圖不是淫欲，則觸摸除女性以外的其他眾生不會構成犯戒，但根據\ `《波逸提》五二`_\，撓癢癢是犯戒行為。
 
 .. _一位比丘出於孝愛撫摸母親的例子，一位比丘出於父愛撫摸女兒的例子，還有一位比丘出於兄弟感情撫摸妹妹: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0175a08
 .. _Pc 74: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
@@ -615,5 +623,44 @@
 .. _BMC2, Appendix V: https://www.dhammatalks.org/vinaya/bmc/Section0072.html#BMC2appendixFIVE
 .. _《佛教修道準則 第二冊》附錄五: https://www.dhammatalks.org/vinaya/bmc/Section0072.html#BMC2appendixFIVE
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》附錄五
+.. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
+.. _Pc 52: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc52
+.. _《波逸提》五二: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc52
+.. TODO FIXME: replace link to 《波逸提》五二
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - Effort
+     - 努力
+
+   * - Acts of lustful but indirect bodily contact with a woman one perceives to be a woman and a paṇḍaka one perceives to be a woman carry the following penalties:
+
+     - 與被認為是女性的女人，以及被認為是女性的黃門，進行淫蕩但間接的身體接觸的行為會受到以下懲罰：
+
+   * - For the woman: Using one’s body to make contact with an article connected to her body—e.g., using one’s hand to touch a rope or stick she is holding: a thullaccaya.
+
+     - 對於女人：用身體接觸與她身體相連的物品，例如，用手觸摸她拿著的繩子或棍子：《偷蘭遮》。
+
+   * - Using an item connected with one’s body to make contact with her body—e.g., using a flower one is holding to brush along her arm: a thullaccaya.
+
+     - 使用與身體相連的物品來接觸她的身體——例如，使用拿著的一朵花沿著她的手臂拂過：《偷蘭遮》。
+
+   * - Using an item connected with one’s body to make contact with an item connected with her body: a dukkaṭa.
+
+     - 使用與身體相連的物品來接觸與她身體相連的物品：《突吉羅》。
+
+   * - Taking an object—such as a flower—and tossing it against her body, an object connected with her body, or an object she has tossed: a dukkaṭa.
+
+     - 拿一個物體——比如一朵花——並將其扔到她的身體上，一個與她的身體相連的物體，或者一個她扔過的物體：《突吉羅》。
+
+   * - Taking hold of something she is standing or sitting on—a bridge, a tree, a boat, etc.—and giving it a shake: a dukkaṭa.
+
+     - 抓住她站立或坐在上面的東西——一座橋、一棵樹、一艘船等——並搖晃它：《突吉羅》。
+
+   * - For the paṇḍaka one assumes to be a woman, the penalty in all the above cases is a dukkaṭa.
+     - 對於認為是女性的黃門來說，上述所有情況的懲罰都是《突吉羅》。
 
 (未完待續)
