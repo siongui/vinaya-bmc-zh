@@ -663,4 +663,22 @@
    * - For the paṇḍaka one assumes to be a woman, the penalty in all the above cases is a dukkaṭa.
      - 對於認為是女性的黃門來說，上述所有情況的懲罰都是《突吉羅》。
 
+   * - These penalties for indirect contact have inspired the Commentary to say that if a bhikkhu makes contact with a clothed portion of a woman’s body or uses a clothed portion of his body to make contact with hers, and the cloth is so thick that neither his body hairs nor hers can penetrate it, the penalty is only a thullaccaya because he is not making direct contact. Only if the contact is skin-to-skin, skin-to-hair, or hair-to-hair (as might be possible through thin cloth) does he commit the full offense. Thus a bhikkhu who fondles the breasts, buttocks, or crotch of a fully clothed woman would incur only a thullaccaya because the contact was indirect.
+
+     - 這些對間接接觸的懲罰啟發《義註》說，如果比丘接觸女性身體的穿著部分，或者用自己身體的穿著部分接觸她的身體，而且衣服很厚，以至於他跟她的身體上沒有毛髮可以穿透它，懲罰只是《偷蘭遮》，因為他沒有直接接觸。只有當接觸是皮膚對皮膚、皮膚對頭髮或頭髮對頭髮（可能透過薄布）時，他才構成完全犯戒。因此，比丘撫摸衣著整齊的女人的胸部、臀部或胯部時，只會犯《偷蘭遮》，因為這種接觸是間接的。
+
+   * - There is a certain logic to the commentators’ assertion here, but why they adopted it is unclear. Perhaps they drew a parallel to the following rule—concerning lustful remarks made to a woman—which also contains derived offenses for remarks directed at items “connected with the body.” In that case, defining *connected with the body* to include clothing worn by the woman does no violence to the nature of the activity covered by the rule, for it is possible to make remarks about a woman’s clothing without using words that touch on her body at all.
+
+     - 註釋者的說法有一定的邏輯性，但為什麼會這樣，卻不得而知。也許他們與以下戒條（關於對女性發表淫欲言論）進行了類比，該戒條還包含針對「與身體相連」的物品的言論的衍生違犯。在該情況下，將\ *與身體相連*\的定義包括女性所穿的衣服並不違反戒條所涵蓋的活動的性質，因為可以在不使用觸及女性身體的詞語的情況下對女性的衣服進行評論。
+
+   * - Here, however, the nature of the activity is different. If one pushes a woman, it does not matter how many layers of cloth lie between her body and one’s hand: One is pushing both the cloth and her. If one squeezes her fully clothed breasts, again, one is squeezing both the cloth and the breasts. To say that one is pushing or squeezing only the cloth is a denial of the true nature of the action. Also, if one stroked a woman’s fully clothed thigh, it is unlikely that the strength of her reaction would depend on whether her body hairs penetrated the cloth, or if one was wearing latex gloves that prevented her hair from touching one’s skin. Common linguistic usage reflects these facts, as does the law.
+
+     - 然而，這裡的活動性質有所不同。如果一個人推著一個女人，不管她的身體和手之間有多少層布：一個人既在推布，也在推她。如果一個人擠壓她穿著衣服的乳房，那麼，一個人同時擠壓了衣服和乳房。如果說一個人只推或擠壓布料，那就是對這動作真實性質的否認。此外，如果有人撫摸一位女性穿著衣服的大腿，她的反應強度不太可能取決於她的體毛是否穿透了布料，或者是否戴著乳膠手套以防止她的頭髮接觸自己的皮膚。常見的語言用法反映了這些事實，法律也是如此。
+
+   * - The question is, does the Vibhaṅga follow this common linguistic usage, and the answer appears to be Yes. In none of the Vinīta-vatthu cases concerning physical contact with women does the Buddha ever ask the bhikkhu if he made contact with the clothed or unclothed portions of the woman’s body. This suggests that the question of whether she was clothed or unclothed is irrelevant to the offense. In one of the cases, “a certain bhikkhu, seeing a woman he encountered coming in the opposite direction, was impassioned and gave her a blow with his shoulder.” Now, bhikkhus sometimes have their shoulders bared and sometimes robed; women walking along a road may have different parts of their body clothed or bared. If the presence or absence of a layer or two of cloth between the bhikkhu’s shoulder and the woman’s body were relevant to the severity of the offense, then given the Buddha’s usual thoroughness in cases like this he would have asked about the amount, location, and thickness of clothing on both the bhikkhu and the woman, to determine if the offense was a dukkaṭa, a thullaccaya, or a saṅghādisesa. But he didn’t. He simply penalized the bhikkhu with a saṅghādisesa, which again suggests that the presence or absence of cloth between the bhikkhu and the woman is irrelevant in all cases under this rule.
+
+     - 問題是，《經分別》是否遵循這種常見的語言用法，答案似乎是肯定的。在所有涉及與女性身體接觸的《Vinīta_-vatthu_》案例中，佛陀都沒有問過比丘是否接觸過女性身體的有衣或無衣部分。這顯示她是否穿衣服的問題與犯戒無關。在其中一個案例中，「一位比丘，看到他遇到的一位女人朝相反的方向走來，\ `充滿激情地用肩膀碰了她`_\ 。」現在，比丘有時裸露肩膀，有時穿著袈裟；走在路上的女人可能會在身體的不同部位穿衣服或裸露。如果比丘的肩膀和女人的身體之間有或沒有一層或兩層布與犯戒的嚴重程度有關，那麼鑑於佛陀在這種情況下一貫的徹底性，他會詢問比丘和女人的衣服的數量、位置和厚度，以確定所犯的罪行是《突吉羅》、《偷蘭遮》還是《僧殘》。但他沒有。他只是用《僧殘》懲罰比丘，這再次表明，在本戒條下，比丘和女人之間有或沒有衣服在所有情況下都是無關緊要的。
+
+.. _充滿激情地用肩膀碰了她: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a05
+
 (未完待續)
