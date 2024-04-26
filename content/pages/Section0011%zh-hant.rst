@@ -679,6 +679,21 @@
 
      - 問題是，《經分別》是否遵循這種常見的語言用法，答案似乎是肯定的。在所有涉及與女性身體接觸的《Vinīta_-vatthu_》案例中，佛陀都沒有問過比丘是否接觸過女性身體的有衣或無衣部分。這顯示她是否穿衣服的問題與犯戒無關。在其中一個案例中，「一位比丘，看到他遇到的一位女人朝相反的方向走來，\ `充滿激情地用肩膀碰了她`_\ 。」現在，比丘有時裸露肩膀，有時穿著袈裟；走在路上的女人可能會在身體的不同部位穿衣服或裸露。如果比丘的肩膀和女人的身體之間有或沒有一層或兩層布與犯戒的嚴重程度有關，那麼鑑於佛陀在這種情況下一貫的徹底性，他會詢問比丘和女人的衣服的數量、位置和厚度，以確定所犯的罪行是《突吉羅》、《偷蘭遮》還是《僧殘》。但他沒有。他只是用《僧殘》懲罰比丘，這再次表明，在本戒條下，比丘和女人之間有或沒有衣服在所有情況下都是無關緊要的。
 
+   * - The only cases of indirect contact mentioned in the Vinīta-vatthu refer to contact of a much more remote sort: A bhikkhu pulls a cord of which a woman is holding the other end, pulls a stick of which she is holding the other end, or gives her a playful push with his bowl.
+
+     - 《Vinīta_-vatthu_》中提到的間接接觸的唯一情況是指一種更遙遠的接觸：\ `比丘拉一根繩子，而女人握住另一端，拉動一根棍子，而女人握住另一端`_\，或者\ `頑皮地用缽推了她一下`_\。
+
+   * - Thus in the context of this rule the Vibhaṅga defines “object connected to the body,” through which indirect contact is made, with examples of things that the person is *holding*. The Vinaya-mukha adds things that are *hanging* from the person, like the hem of a robe or a dress. In this context, contact made through cloth that the person is wearing would be classed as direct. This would parallel `Pr 1`_, in which the question of whether there is anything covering either of the organs involved in intercourse is completely irrelevant to the offense. Thus the concept of direct and indirect contact here would seem to follow general linguistic usage: If a woman is wearing a long-sleeved shirt, for instance, grabbing her by the arm and grabbing her by the cuff of her shirt are two different things, and would receive different penalties under this rule.
+
+     - 因此，在本戒條的脈絡下，《經分別》定義了「與身體相連的物體」，透過它進行間接接觸，並以人所\ *持有*\的東西為例。《戒律入口》添加了\ *懸掛*\在人身上的東西，例如袈裟或服裝的摺邊。在這種脈絡下，透過人所穿的衣服進行的接觸將被歸類為直接接觸。這與\ `《波羅夷》一`_\類似，其中是否有任何東西覆蓋涉及性交的器官的問題與犯戒完全無關。因此，這裡直接和間接接觸的概念似乎遵循一般語言用法：例如，如果一個女人穿著長袖襯衫，抓住她的手臂和抓住她襯衫的袖口是兩個不同的事情，並根據本戒條受到不同的懲罰。
+
+   * - According to the Vibhaṅga, if a bhikkhu feels desire for contact with a woman and makes an effort that does not achieve even indirect contact—e.g., making a squeezing motion in the air near one of her breasts—the penalty is a dukkaṭa.
+
+     - 根據《經分別》，如果\ `一個比丘感到想要與一位女性接觸，並且做出了努力，但沒有實現甚至間接的接觸`_\——例如，在靠近她的乳房的空氣中做出擠壓動作——懲罰是《突吉羅》。
+
 .. _充滿激情地用肩膀碰了她: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a05
+.. _比丘拉一根繩子，而女人握住另一端，拉動一根棍子，而女人握住另一端: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a07
+.. _頑皮地用缽推了她一下: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a09
+.. _一個比丘感到想要與一位女性接觸，並且做出了努力，但沒有實現甚至間接的接觸: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a11
 
 (未完待續)
