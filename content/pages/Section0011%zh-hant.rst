@@ -696,4 +696,52 @@
 .. _頑皮地用缽推了她一下: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a09
 .. _一個比丘感到想要與一位女性接觸，並且做出了努力，但沒有實現甚至間接的接觸: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a11
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Passive contact**
+     - **被動接觸**
+
+   * - The Vibhaṅga’s analysis of passive contact—when the bhikkhu is the object rather than the agent making the contact—deals with only a limited number of variables.
+
+     - 《經分別》對被動接觸的分析──當比丘是客體而非進行接觸的主體時──只涉及有限數量的變數。
+
+   * - *Agent:*
+     - *媒介：*
+
+   * - Either a woman the bhikkhu perceives to be a woman, or a paṇḍaka he perceives to be a woman.
+     - 若非是比丘認為是女性的女人，則是他認為是女性的黃門。
+
+   * - *The agent’s effort:*
+     - *媒介的努力：*
+
+   * - Any of the actions that fulfill the factor of effort for the full offense under active contact—rubbing, pulling, pushing, squeezing, etc.
+     - 任何在主動接觸下滿足完全違犯的努力因素的動作－摩擦、拉、推、擠等。
+
+   * - *The bhikkhu’s aim*
+     - *比丘的目標*
+
+   * - The Vibhaṅga lists only two possibilities here: the desire to partake (of the contact) and the desire to escape (§). The Sub-commentary explains the first as desiring the pleasurable feeling of contact. It also states that if, in the course of receiving contact, one’s motives change from desiring contact to desiring escape, the second motive is what counts.
+
+     - 《經分別》在這裡只列出了兩個可能性：參與（接觸）的欲望和逃避的欲望（§）。《複註》將第一個解釋為渴望接觸的愉快感覺。它也指出，如果在接受接觸的過程中，一個人的動機從渴望接觸轉變為渴望逃避，那麼第二個動機才是算數的。
+
+   * - *Effort*
+     - *努力*
+
+   * - The bhikkhu either makes a physical effort or he doesn’t. The Commentary includes under this factor even the slightest physical movements, such as winking, raising one’s eyebrows, or rolling one’s eyes.
+
+     - 比丘若非做出身體的努力，則是沒做。《義註》中在此因素甚至包括最輕微的身體動作，例如眨眼、揚眉或翻眼。
+
+   * - *Result*
+     - *結果*
+
+   * - The bhikkhu either detects the contact or he doesn’t.
+     - 比丘要麼察覺到接觸，要麼沒有察覺。
+
+   * - The most important factor here is the bhikkhu’s aim: If he desires to escape from the contact, then no matter who the person making the contact is, whether or not the bhikkhu makes an effort, or whether or not he detects the contact, there is no offense. The Vinīta-vatthu gives an example:
+
+     - 這裡最重要的因素是比丘的目標：如果他想逃避接觸，那麼無論接觸的人是誰，無論比丘是否努力，或者無論他是否察覺到接觸，都沒有犯戒。《Vinīta_-vatthu_》給了一個例子：
+
 (未完待續)
