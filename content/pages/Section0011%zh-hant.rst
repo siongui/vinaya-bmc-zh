@@ -768,4 +768,27 @@
 
 .. _給了一個例子: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a02
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Other derived offenses for passive contact*
+     - *其他因被動接觸而衍生的犯戒*
+
+   * - Other derived offenses for passive contact all deal with cases in which the bhikkhu desires contact and makes an effort. The variables focus on the agent, the agent’s effort, and the question of whether the bhikkhu detects contact or not, with the pattern of offenses following the pattern of derived offenses for active contact. In other words:
+
+     - 其他衍生的被動接觸犯戒都涉及比丘渴望接觸並做出努力的情況。這些變數集中在媒介、媒介的努力以及比丘是否察覺到接觸的問題上，犯戒模式遵循主動接觸的衍生犯戒模式。換句話說：
+
+   * - If *the agent is a woman* whom the bhikkhu perceives to be a woman, then if she makes an effort at the bhikkhu’s body using something connected to her body, and the bhikkhu detects contact: a thullaccaya. If she makes an effort at something connected to the bhikkhu’s body using her body, and the bhikkhu detects contact: a thullaccaya. If she makes contact at something connected to the bhikkhu’s body using something connected to her body, and the bhikkhu detects contact: a dukkaṭa. If, in any of these cases, the bhikkhu does not detect contact, the offense is a dukkaṭa.
+
+     - 如果\ *媒介*\是比丘認為是女性的\ *女人*\，那麼如果她使用與她身體相連的東西對比丘的身體做出努力，並且比丘察覺到接觸：《偷蘭遮》。如果她用自己的身體對與比丘的身體相連的東西做出努力，而比丘察覺到接觸：《偷蘭遮》。如果她用與她身體相連的東西接觸與比丘身體相連的東西，而比丘察覺到接觸：《突吉羅》。如果在上述任何一種情況下，比丘沒有察覺到接觸，則犯《突吉羅》。
+
+   * - If she tosses something at or on his body, something connected with his body, or something he has tossed, then the offense is a dukkaṭa regardless of whether he detects contact or not.
+
+     - 如果她向他的身體或身上扔東西，與他的身體相連的東西，或者他扔過的東西，那麼無論他是否察覺到接觸，都犯《突吉羅》。
+
+   * - If *the agent is a paṇḍaka* whom the bhikkhu perceives to be a woman, the offense is a dukkaṭa in each of the above cases.
+     - 如果\ *媒介*\是比丘認為是女性的\ *黃門*\，則在上述每種情況下，都犯《突吉羅》。
+
 (未完待續)
