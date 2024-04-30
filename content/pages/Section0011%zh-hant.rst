@@ -791,4 +791,24 @@
    * - If *the agent is a paṇḍaka* whom the bhikkhu perceives to be a woman, the offense is a dukkaṭa in each of the above cases.
      - 如果\ *媒介*\是比丘認為是女性的\ *黃門*\，則在上述每種情況下，都犯《突吉羅》。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Counting offenses**
+     - **犯戒計算**
+
+   * - According to the Vibhaṅga, if a bhikkhu has lustful bodily contact with *x* number of people in any of the ways that constitute an offense here, he commits *x* number of offenses. For example, if he lustfully rubs up against two women in a bus, he incurs two saṅghādisesas. If, out of fatherly affection, he hugs his two daughters and three sons, he incurs two dukkaṭas for hugging his daughters and no penalty for hugging his sons.
+
+     - 根據《經分別》，如果一個比丘以任何構成犯戒的方式與 *x* 人進行淫欲的身體接觸，那麼他就犯了 *x* 次戒。例如，如果他在公車上淫欲地與兩個女人發生摩擦，他就會犯兩次《僧殘》。如果出於父愛，他擁抱了他的兩個女兒和三個兒子，那麼他會因為擁抱女兒而受到兩次《突吉羅》的懲罰，而擁抱兒子則無懲罰。
+
+   * - The Commentary adds that if he makes lustful contact with a person *x* number of times, he commits *x* number of offenses. For instance, he hugs a woman from behind, she fights him off, and he strikes her out of lust: two saṅghādisesas.
+
+     - 《義註》補充說，如果他與某人發生淫欲接觸 *x* 次，他就犯下了 *x* 次戒。例如，他從後面擁抱一個女人，她把他擊退，他出於欲望而擊打她：兩個《僧殘》。
+
+   * - The question of counting saṅghādisesas, though, is somewhat academic because the penalty for multiple offenses is almost identical with the penalty for one. The only difference is in the formal proclamations in the community transactions that accompany the penalty—e.g., when the Community places the offender under probation, when he informs others bhikkhus of why he is under probation, etc. For more on this point, see the concluding section of this chapter.
+
+     - 然而，計算《僧殘》的問題有些學術性，因為對多重犯戒的懲罰幾乎與單次犯戒的懲罰相同。唯一的區別在於伴隨懲罰的僧伽羯磨中的正式公告（羯磨文）——例如，當僧團將犯戒者置於別住之下時，當他告知其他比丘他為何處於別住之下時，等等。想更多知道這點，請參閱本章的結論部分。
+
 (未完待續)
