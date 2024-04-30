@@ -811,4 +811,46 @@
 
      - 然而，計算《僧殘》的問題有些學術性，因為對多重犯戒的懲罰幾乎與單次犯戒的懲罰相同。唯一的區別在於伴隨懲罰的僧伽羯磨中的正式公告（羯磨文）——例如，當僧團將犯戒者置於別住之下時，當他告知其他比丘他為何處於別住之下時，等等。想更多知道這點，請參閱本章的結論部分。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense for a bhikkhu who makes contact with a woman—
+     - 比丘與女性接觸並不構成犯戒—
+
+   * - *unintentionally*\—as when accidentally touching a woman while she is putting food in his bowl;
+     - *無意地*\——例如當一個女人把食物放進他的缽裡時不小心碰到了她；
+
+   * - *unthinkingly*\—as when a woman runs into him and, startled, he pushes her away;
+     - *不假思索地*\──例如當一個女人撞見他時，他嚇了一跳，把她推開；
+
+   * - *unknowingly*\—as when, without lust, he touches a tomboy he thinks to be a boy (this example is from the Commentary), when he doesn’t even know that he has run into a woman in a crowd, or when a woman touches him while he is asleep; or
+     - *未察覺地*\——比如當他在沒有欲望的情況下觸摸了一個他認為是男孩的假小子（這個例子來自《義註》），當他在人群中甚至不知道自己碰到了一個女人，或者當一個女人在他睡著的時候觸摸；或者
+
+   * - *when he doesn’t give his consent*\—as in the case of the bhikkhu led around arm-in-arm by a crowd of women.
+     - *當他不同意時*\——就像\ `比丘被一群女人挽著手臂`_\的情況一樣。
+
+   * - For some reason, the non-offense clauses omit the non-offenses the Vibhaṅga lists under passive contact—i.e., there is no offense if:
+     - 由於某種原因，不犯條款忽略了《經分別》中被動接觸下列出的不犯——即，如果滿足以下條件，則不構成犯戒：
+
+   * - *the bhikkhu does not desire contact* or
+     - *比丘不欲接觸*\或
+
+   * - *he does desire contact and yet makes no effort.*
+     - *他確實渴望接觸，但卻沒有做出任何努力。*
+
+   * - *Summary: Lustful bodily contact with a woman whom one perceives to be a woman is a saṅghādisesa offense.*
+     - *摘要：與被認為是女性的女人進行淫欲的身體接觸，是《僧殘》罪。*
+
+.. _比丘被一群女人挽著手臂: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a02
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 (未完待續)
