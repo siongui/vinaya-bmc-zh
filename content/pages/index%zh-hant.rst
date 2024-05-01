@@ -126,7 +126,7 @@
      - `\　　二 <{filename}Section0011%zh-hant.rst#sg2>`__
 
    * - `\　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3>`__
-     - 　　三
+     - `\　　三 <{filename}Section0011%zh-hant.rst#sg3>`__
 
    * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4>`__
      - 　　四

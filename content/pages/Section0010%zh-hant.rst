@@ -171,8 +171,7 @@
 .. _《僧殘》一: {filename}Section0011%zh-hant.rst#sg1
 .. _黃門: https://zh.wikipedia.org/wiki/%E9%BB%83%E9%96%80_(%E4%BD%9B%E6%95%99)
 .. _3: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
-.. _三: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
-.. TODO FIXME: replace link to 《僧殘》三
+.. _三: {filename}Section0011%zh-hant.rst#sg3
 .. _4: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4
 .. _四: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4
 .. TODO FIXME: replace link to 《僧殘》四

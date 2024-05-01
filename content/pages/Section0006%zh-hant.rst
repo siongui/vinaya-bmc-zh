@@ -343,9 +343,9 @@
      - **文本之間的分歧**
 
    * - There are two levels of difficulty in trying to collate all these various texts. The first is that the Canon and Commentary, in Pali, exist in four major printed editions: Thai, Burmese, Sri Lankan, and European (printed by the Pali Text Society (PTS)). Although these editions are largely in agreement, they occasionally differ in ways that can have an important practical impact. Thus, where the editions differ, I have had to choose the reading that seems most reasonable and consistent with the rest of the Canon. In some cases, this has meant adopting a reading followed in only one edition against a reading followed in all the others (see, for example, the discussions under `Sg 3 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3>`__ & `4 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4>`__). Where different readings seem equally reasonable, I have given the alternative readings as well.
-     - 試圖整理所有這些不同的文本有兩個層次的困難。首先，巴利的《聖典》和《義註》有四個主要印刷版：泰國版、緬甸版、斯里蘭卡版和歐洲版（由\ `巴利文獻協會（PTS） <https://palitextsociety.org/>`_\ 印刷）。儘管這些版本在很大程度上是一致的，但它們偶爾在某些方面存在差異，從而產生重要的實際影響。因此，當版本不同時，我必須選擇看起來最合理且與《聖典》的其餘部分一致的拼讀。在某些情況下，這意味著採用僅在一個版本中遵循的拼讀，而不是在所有其他版本中遵循的拼讀（例如，請參閱\ `《僧殘》三 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3>`__\ 和\ `《僧殘》四 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4>`__\ 中的討論）。如果不同的拼讀看起來同樣合理，我也給了替代的拼讀。
+     - 試圖整理所有這些不同的文本有兩個層次的困難。首先，巴利的《聖典》和《義註》有四個主要印刷版：泰國版、緬甸版、斯里蘭卡版和歐洲版（由\ `巴利文獻協會（PTS） <https://palitextsociety.org/>`_\ 印刷）。儘管這些版本在很大程度上是一致的，但它們偶爾在某些方面存在差異，從而產生重要的實際影響。因此，當版本不同時，我必須選擇看起來最合理且與《聖典》的其餘部分一致的拼讀。在某些情況下，這意味著採用僅在一個版本中遵循的拼讀，而不是在所有其他版本中遵循的拼讀（例如，請參閱\ `《僧殘》三 <{filename}Section0011%zh-hant.rst#sg3>`__\ 和\ `《僧殘》四 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4>`__\ 中的討論）。如果不同的拼讀看起來同樣合理，我也給了替代的拼讀。
 
-       .. TODO FIXME: replace link to 《僧殘》三 and 《僧殘》四
+       .. TODO FIXME: replace link to 《僧殘》四
 
    * - In using the principle of internal consistency here, I am following the Great Standards that—as the Mahāparinibbāna Sutta (`DN 16`_) reports—the Buddha formulated at Bhoganagara shortly before his passing away:
      - 在這裡使用內在一致性原則時，我遵循的是佛陀在圓寂前不久在\ `負彌城 <https://www.google.com/search?q=%E8%B2%A0%E5%BD%8C%E5%9F%8E>`_\ 制定的《四大教示》——正如《大般涅槃經》（\ `《長部》16經`_\ ）所記述的那樣：

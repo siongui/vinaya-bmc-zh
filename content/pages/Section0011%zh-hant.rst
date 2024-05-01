@@ -853,4 +853,22 @@
 
    \*    \*    \*
 
+
+.. _Sg3:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **3**
+     - **三**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, overcome by lust, with altered mind, address lewd words to a woman in the manner of young men to a young woman alluding to sexual intercourse, it entails initial and subsequent meetings of the Community.*
+
+     - .. container:: notification
+
+          *如果任何比丘被貪欲所征服，以變易之心，以年輕男子對年輕女子暗示性交的方式對女子說出淫穢的話，僧殘。*
+
 (未完待續)
