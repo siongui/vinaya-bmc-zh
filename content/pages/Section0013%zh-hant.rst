@@ -111,7 +111,7 @@
 
    * - NP 18 forbids a bhikkhu from accepting gifts of money, from getting others to accept them, and from consenting to gifts of money meant for him being placed down next to him. `NP 19`_ & 20_ forbid him from engaging in buying, selling, or bartering, regardless of whether it involves money. `Mv.VI.34.21`_, however, contains the following allowance, called the Meṇḍaka Allowance, after the donor who inspired it:
 
-     - `《捨墮》一八`_\禁止比丘接受金錢贈禮，禁止讓他人接受金錢贈禮，以及禁止同意將本應為他準備的金錢贈禮放在他旁邊。\ `《捨墮》一九`_\和\ `二十`_\禁止他從事買賣或以物易物，無論是否涉及金錢。 然而，\ `《大品》.六.34.21`_\包含以下開緣，稱為 Meṇḍaka 開緣，以發起它的捐贈者的名字命名：
+     - `《捨墮》一八`_\禁止比丘接受金錢贈禮，禁止讓他人接受金錢贈禮，以及禁止同意將本應為他準備的金錢贈禮放在他旁邊。\ `《捨墮》一九`_\和\ `二十`_\禁止他從事買賣或以物易物，無論是否涉及金錢。 然而，\ `《大品》.六.34.21`_\包含以下開緣，稱為 Meṇḍaka 開緣，以發起它的施主的名字命名：
 
    * - .. container:: notification
 
@@ -123,7 +123,31 @@
 
    * - Even given this allowance, though, it is important that the bhikkhu, in his dealings with the steward, does not say or do anything that would transgress `NP 18-20`_. At the same time, it is important that he not abuse the steward’s services. Otherwise the steward will never want to perform this service for bhikkhus again. This is the main point of the origin story to this rule:
 
-     - 然而，即使給予了這種開緣，比丘在與服務者打交道時，不要說或做任何違反\ `《捨墮》一八至二十`_\的事情，這一點很重要。同時，重要的是他不能濫用服務者的服務。否則，服務者將永遠不想再為比丘做這服務。這是本戒條起源故事的要點：
+     - 然而，即使給予了這種開緣，比丘在與服務者打交道時，不要說或做任何違反\ `《捨墮》一八至二十`_\的事情，這一點很重要。同時，重要的是他不能濫用服務者的服務。否則，服務者將永遠不想再為比丘做這服務。這是本戒條\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0311a07>`_\的要點：
+
+   * - .. container:: notification
+
+          “Then Ven. Upananda the Sakyan approached the lay follower (his steward) and on arrival said, ‘My friend, I have need of a robe.’
+
+     - .. container:: notification
+
+          「時，釋迦族優波難陀尊者來到優婆塞（他的服務者）處，抵達後說道：『我的朋友，我需要一件衣。』
+
+   * - .. container:: notification
+
+          “‘Wait for the rest of today, venerable sir. Today there is a town meeting, and the town has made an agreement that whoever comes late is fined 50 (*kahāpaṇas*).’
+
+     - .. container:: notification
+
+          「『大德，請等待今天剩下的時間。今天有鎮會議，鎮裡達成了協議，誰遲到，罰款50（\ *kahāpaṇa*\）。』
+
+   * - .. container:: notification
+
+          “‘Friend, give me the robe this very day!’ (Saying this,) he grabbed hold of him by the belt. So the lay follower, being pressured by Ven. Upananda the Sakyan, purchased a robe for him and came late. The people said to the lay follower, ‘Why, master, have you come late? You’ve lost 50!’ So he told them what had happened. They criticized and complained and spread it about, ‘They’re arrogant, these Sakyan-son monks, and malcontent. It’s no simple matter even to render them a service. How can Upananda the Sakyan, being told by a layman, “Wait for the rest of today, venerable sir,” not wait?’”
+
+     - .. container:: notification
+
+          「『朋友，今天就把衣給我吧！』（這麼說）他抓住了他的腰帶。因此，優婆塞受到了釋迦族優波難陀尊者的壓力，為他買了一件衣，但遲到了。人們對優婆塞說：『大德，你怎麼來晚了？你已經損失了 50 塊！』所以他告訴他們發生的事情。他們批評、抱怨、傳播：『這些釋迦子僧人太傲慢了，而且不知足。即使是為他們提供服務也不是一件簡單的事。釋迦族優波難陀在優婆塞的勸告下，「尊者，請稍等今日」，怎不能等呢？』」
 
 .. _NP 19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. _Mv.VI.34.21: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.34.21
