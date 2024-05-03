@@ -158,4 +158,22 @@
 .. _《捨墮》一八至二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. TODO FIXME: replace link to 《捨墮》一八至二十
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Stewards**
+     - **服務者**
+
+   * - According to the Commentary, there are three types of steward with whom money might be placed: (1) indicated by the bhikkhu, (2) indicated by the donor or his/her messenger, and (3) indicated by neither.
+
+     - 根據《義註》，可以放置金錢的服務者有三類：（1）由比丘指定，（2）由施主或其使者指定，以及（3）兩者都沒有指定。
+
+   * - *1) Indicated by the bhikkhu* covers two sorts of cases:
+     - *1) 比丘指定*\涵蓋兩種情況：
+
+   * - a\) The donor asks the bhikkhu who his steward is, and the bhikkhu points him/her out, as mentioned in the training rule.
+     - a\) 施主詢問比丘誰是他的服務者，比丘指出他/她，如學處所述。
+
 (未完待續)
