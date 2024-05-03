@@ -101,4 +101,37 @@
 .. _二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. TODO FIXME: replace link to 《捨墮》二十
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The money rules & allowances: an overview**
+     - **金錢戒及開緣：概述**
+
+   * - NP 18 forbids a bhikkhu from accepting gifts of money, from getting others to accept them, and from consenting to gifts of money meant for him being placed down next to him. `NP 19`_ & 20_ forbid him from engaging in buying, selling, or bartering, regardless of whether it involves money. `Mv.VI.34.21`_, however, contains the following allowance, called the Meṇḍaka Allowance, after the donor who inspired it:
+
+     - `《捨墮》一八`_\禁止比丘接受金錢贈禮，禁止讓他人接受金錢贈禮，以及禁止同意將本應為他準備的金錢贈禮放在他旁邊。\ `《捨墮》一九`_\和\ `二十`_\禁止他從事買賣或以物易物，無論是否涉及金錢。 然而，\ `《大品》.六.34.21`_\包含以下開緣，稱為 Meṇḍaka 開緣，以發起它的捐贈者的名字命名：
+
+   * - .. container:: notification
+
+          “There are people of conviction and confidence, bhikkhus, who place gold in the hand of stewards, (saying,) ‘With this, give the master whatever is allowable.’ I allow you, bhikkhus, to accept whatever is allowable coming from that. But in no way at all do I say that gold or silver is to be accepted or sought for.”
+
+     - .. container:: notification
+
+          「比丘們，有一些有信念和信心的人，他們把黃金放在服務者的手中，（說）『用這個，給尊者任何允許的東西。』我允許你們，比丘們，接受來自那裡的任何允許的東西。但我絕不是說金銀應該被接受或尋求。」
+
+   * - Even given this allowance, though, it is important that the bhikkhu, in his dealings with the steward, does not say or do anything that would transgress `NP 18-20`_. At the same time, it is important that he not abuse the steward’s services. Otherwise the steward will never want to perform this service for bhikkhus again. This is the main point of the origin story to this rule:
+
+     - 然而，即使給予了這種開緣，比丘在與服務者打交道時，不要說或做任何違反\ `《捨墮》一八至二十`_\的事情，這一點很重要。同時，重要的是他不能濫用服務者的服務。否則，服務者將永遠不想再為比丘做這服務。這是本戒條起源故事的要點：
+
+.. _NP 19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
+.. _Mv.VI.34.21: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.34.21
+.. _《捨墮》一九: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
+.. TODO FIXME: replace link to 《捨墮》一九
+.. _《大品》.六.34.21: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0321a02
+.. _NP 18-20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
+.. _《捨墮》一八至二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
+.. TODO FIXME: replace link to 《捨墮》一八至二十
+
 (未完待續)
