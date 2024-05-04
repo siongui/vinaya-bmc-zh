@@ -1,8 +1,8 @@
-尼薩耆波逸提
-============
+尼薩耆波逸提《捨墮》
+====================
 
-:tags: 尼薩耆波逸提
-:summary: 尼薩耆波逸提
+:tags: 尼薩耆波逸提, 《捨墮》
+:summary: 尼薩耆波逸提 《捨墮》
 :status: hidden
 :og_image: {static}/extra/Dharma_wheel.png
 :orig_eng_link: https://www.dhammatalks.org/vinaya/bmc/Section0013.html
@@ -175,5 +175,28 @@
 
    * - a\) The donor asks the bhikkhu who his steward is, and the bhikkhu points him/her out, as mentioned in the training rule.
      - a\) 施主詢問比丘誰是他的服務者，比丘指出他/她，如學處所述。
+
+   * - b\) The donor, knowing that a particular lay person has volunteered to act as a steward or is on familiar terms with the bhikkhu, gives the money to the lay person and informs the bhikkhu—or has someone else inform him—either before or after the fact.
+
+     - b\) 施主知道某個在家人自願擔任服務者或與比丘關係熟悉時，將錢交給該在家人，並在之前或之後通知該比丘——或讓其他人通知他。
+
+   * - *2) Indicated by the donor* covers cases where the donor chooses one of his/her own friends or employees to act as the steward for that particular gift, and informs the bhikkhu—or has someone else inform him—either before or after the fact.
+
+     - *2）由施主指定*\，包括施主選擇他/她自己的一位朋友或僱員作為該特定布施的服務者，並在事前或事後通知比丘－或讓其他人通知他的情況。
+
+   * - *3) Indicated by neither* covers two separate cases:
+     - *3) 兩者都沒有指定*\涵蓋兩種不同的情況：
+
+   * - a\) The donor asks the bhikkhu who his steward is, and the bhikkhu says that he has none. Another person happens to overhear the conversation and volunteers—in the presence of both—to act as the steward for that particular gift.
+
+     - a\) 施主問比丘誰是他的服務者，比丘說他沒有。另一個人碰巧無意中聽到了談話，並在兩人都在場的情況下自願擔任該特定布施的服務者。
+
+   * - b\) The donor gives the gift to the lay person who is normally the bhikkhu’s steward or is on familiar terms with the bhikkhu, but does not inform the bhikkhu or have him informed of the fact.
+
+     - b\) 施主將該布施給在家人，通常是比丘的服務者或與比丘關係熟悉的人，但沒有通知比丘或讓他知道這一事實。
+
+   * - According to the Commentary, this training rule covers only cases of the first sort—the steward is indicated by the bhikkhu—but not of the other two. This, however, is a controversial point. To understand the controversy, though, we will first have to discuss the protocols for accepting funds and obtaining requisites from stewards as set forth in this rule. Then we will revisit this issue in the section, “range of application,” below.
+
+     - 根據《義註》，本學處只涵蓋第一種情況──服務者由比丘指定──而不包括其他兩種情況。然而，這是一個有爭議的觀點。不過，為了理解這項爭議，我們首先必須討論本戒條中規定的接受資金和從服務者那裡獲取必需品的行儀。然後我們將在下面的「應用範圍」部分中重新討論這個議題。
 
 (未完待續)
