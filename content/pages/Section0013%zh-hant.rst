@@ -199,4 +199,26 @@
 
      - 根據《義註》，本學處只涵蓋第一種情況──服務者由比丘指定──而不包括其他兩種情況。然而，這是一個有爭議的觀點。不過，為了理解這項爭議，我們首先必須討論本戒條中規定的接受資金和從服務者那裡獲取必需品的行儀。然後我們將在下面的「應用範圍」部分中重新討論這個議題。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The protocol in accepting**
+     - **接受的行儀**
+
+   * - The Vibhaṅga gives the following guidelines:
+     - 《經分別》給出了以下指導方針：
+
+   * - If donors offer money, they are to be told that bhikkhus do not accept money.
+     - 如果布施者提供金錢，他們應該被告知比丘不接受金錢。
+
+   * - If they ask who the bhikkhus’ steward is, one may point out any lay person at all, saying, “That’s the steward.” One is *not* to say, “Give it to him/her,” or “He/she will keep (the money),” for that would be to accept ownership and responsibility for the money, and thus be an infraction of the rule against accepting money. Also, one is not to say, “He/she will buy (the requisite),” or “He/she will get it in exchange,” for even this much would be an infraction of the rule against trading.
+
+     - 如果他們問誰是比丘的服務者，可以指著任何一個在家人說：「那就是服務者。」 *不要*\說「把錢給他/她」或「他/她會保管（錢）」，因為那樣就等於接受了錢的所有權和責任，從而違反禁止接受金錢的戒條。此外，也不能說「他/她會購買（必需品）」或「他/她會得到它作為交換」，因為即使是這樣也將違反禁止交易的戒條。
+
+   * - The K/Commentary adds that if the donor asks, “To whom should I give this?” or “Who will keep this?” one is not to point anyone out. It doesn’t say what one *may* do in such a situation, although a wise policy would be to broach the topic of stewards so that the donor will ask a question to which one may give an allowable answer.
+
+     - K/《義註》補充說，如果布施者問：「我應該把這個給誰？」或「誰會保管這個？」不要指出任何人。它沒有說明在這種情況下\ *可以*\做什麼，儘管明智之舉是提出服務者的話題，以便布施者提出一個可以給出允許答案的問題。
+
 (未完待續)
