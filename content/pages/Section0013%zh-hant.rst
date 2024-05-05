@@ -208,7 +208,7 @@
      - **接受的行儀**
 
    * - The Vibhaṅga gives the following guidelines:
-     - 《經分別》給出了以下指導方針：
+     - 《經分別》給出了以下\ `指導方針 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0313a14>`__\：
 
    * - If donors offer money, they are to be told that bhikkhus do not accept money.
      - 如果布施者提供金錢，他們應該被告知比丘不接受金錢。
@@ -220,5 +220,46 @@
    * - The K/Commentary adds that if the donor asks, “To whom should I give this?” or “Who will keep this?” one is not to point anyone out. It doesn’t say what one *may* do in such a situation, although a wise policy would be to broach the topic of stewards so that the donor will ask a question to which one may give an allowable answer.
 
      - K/《義註》補充說，如果布施者問：「我應該把這個給誰？」或「誰會保管這個？」不要指出任何人。它沒有說明在這種情況下\ *可以*\做什麼，儘管明智之舉是提出服務者的話題，以便布施者提出一個可以給出允許答案的問題。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The protocol in obtaining requisites from the fund**
+     - **從資金取得必需品的行儀**
+
+   * - The rule states that a bhikkhu may give his steward up to three verbal and six silent promptings in order to get a requisite from the fund. The Vibhaṅga works out an arrangement whereby he may exchange two silent promptings for one verbal prompting, which leads the Commentary to lay out the following scheme: A bhikkhu may make up to—
+
+     - 戒條規定，比丘可以向他的服務者發出最多三次口頭提示和六次無聲提示，以便從資金中獲得必需品。《經分別》制定了一種安排，使他可以將\ `兩次無聲提示改為一次口頭提示 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0314a10>`__\，這導致《義註》提出以下方案：比丘可以做到——
+
+   * - 6 verbal & 0 silent promptings
+     - 6次 口頭 及 0次 無聲提示
+
+   * - 5 verbal & 2 silent promptings
+     - 5次 口頭 及 2次 無聲提示
+
+   * - 4 verbal & 4 silent promptings
+     - 4次 口頭 及 4次 無聲提示
+
+   * - 3 verbal & 6 silent promptings
+     - 3次 口頭 及 6次 無聲提示
+
+   * - 2 verbal & 8 silent promptings
+     - 2次 口頭 及 8次 無聲提示
+
+   * - 1 verbal & 10 silent promptings, or
+     - 1次 口頭 及 10次 無聲提示，或
+
+   * - 0 verbal & 12 silent promptings
+     - 0次 口頭 及 12次 無聲提示
+
+   * - The Vibhaṅga adds that when giving a verbal prompting, one may say only, “I need a robe (or whatever the requisite may be),” or statements to that effect. One may not say, “Give me a robe,” “Get me a robe,” “Buy me a robe,” or “Get a robe in exchange for me,” for these last two statements in particular would incur a penalty under `NP 20`_.
+
+     - 《經分別》\ `補充說，當給予口頭提示時 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0314a03>`__\，只能說：「我需要一件衣（或任何必要的東西）」，或類似的陳述。不能說，「給我一件衣」，「拿給我一件衣」，「買給我一件衣」，或者「交換一件衣給我」，因為最後兩種說法尤其會招致\ `《捨墮》二十`_\ 的懲罰。
+
+.. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
+.. _《捨墮》二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
+.. TODO FIXME: replace link to 《捨墮》二十
 
 (未完待續)
