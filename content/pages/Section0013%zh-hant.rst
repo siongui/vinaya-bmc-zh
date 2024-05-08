@@ -197,7 +197,7 @@
 
    * - According to the Commentary, this training rule covers only cases of the first sort—the steward is indicated by the bhikkhu—but not of the other two. This, however, is a controversial point. To understand the controversy, though, we will first have to discuss the protocols for accepting funds and obtaining requisites from stewards as set forth in this rule. Then we will revisit this issue in the section, “range of application,” below.
 
-     - 根據《義註》，本學處只涵蓋第一種情況──服務者由比丘指定──而不包括其他兩種情況。然而，這是一個有爭議的觀點。不過，為了理解這項爭議，我們首先必須討論本戒條中規定的接受資金和從服務者那裡獲取必需品的行儀。然後我們將在下面的「應用範圍」部分中重新討論這個議題。
+     - 根據《義註》，本學處只涵蓋第一種情況──服務者由比丘指定──而不包括其他兩種情況。然而，這是一個有爭議的觀點。不過，為了理解這項爭議，我們首先必須討論本戒條中規定的接受資金和從服務者那裡獲取必需品的行儀。然後我們將在下面的「適用範圍」部分中重新討論這個議題。
 
 
 .. list-table::
@@ -284,5 +284,22 @@
 .. _在比丘尚未領受必需品期間，他不應接受坐在服務者處的邀請、接受施捨，或在那裡教導佛法。: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0314a07
 .. _Pc 7: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
 .. _《波逸提》七: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
+.. TODO FIXME: replace link to 《波逸提》七
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Range of application**
+     - **適用範圍**
+
+   * - As mentioned above, the Commentary maintains that this rule applies only in the first of the three cases listed there: The steward has been indicated by the bhikkhu. As for the second case—the steward has been indicated by the donor—it maintains that one may make any number of promptings without committing an offense. If the article is not forthcoming, one may get another lay person to handle the issue (although one should be careful to phrase one’s request to this lay person so as not to transgress the rules against accepting money or trading). If the article is not forthcoming, one is not duty-bound to inform the original donor. Although there is nothing in the Canon to contradict any of these points, there is nothing to confirm them, either. Simple etiquette would suggest that one not harass the steward excessively and that one should inform the donor if the article is not forthcoming, so as to let the donor decide what, if anything, should be done. Thus it would make sense, using the Great Standards, to apply this rule even in cases of this sort.
+
+     - 如上所述，《義註》認為本戒條僅適用於所列三種情況中的第一種：服務者已由比丘指定。至於第二種情況──服務者已由施主指定──它認為可以做出任意次數的提示而不構成犯戒。如果沒有提供物品，可以找另一位居士來處理這個議題（儘管應該小心地向這位居士表達自己的請求，以免違反禁止接受金錢或交易的戒條）。如果沒有提供物品，則沒有義務通知原始施主。儘管《聖典》中沒有任何內容與這些觀點相矛盾，但也沒有任何內容可以證實它們。簡單的建議禮節是，不要過度騷擾服務者，如果沒有提供物品，應該通知施主，以便讓施主決定應該做什麼（如果有的話）。因此，即使在這種情況下，使用《四大教示》來適用本戒條也是有意義的。
+
+   * - As for the third case, in which the steward is not indicated either by the donor or by a bhikkhu, the Commentary says that, as far as that fund is concerned, the steward should be treated as a person who is not related and has not made an invitation to ask. In other words, one may not make any requests of the steward at all unless he/she happens to invite one to make a request. The Commentary gives no reasons for these positions, and they are hard to infer. In the first of the two instances under this sub-category—the volunteer temporary steward—the Commentary depicts the steward as volunteering in the presence of both the bhikkhu and the donor, and this would seem to place the steward under some obligation to both. Thus the bhikkhu would seem to have the right to make a reasonable number of promptings; and the donor, the right to know if the article is not forthcoming.
+
+     - 至於第三種情況，即施主或比丘均未指明服務者的情況，《義註》指出，就該資金而言，服務者應被視為無親屬關係且與尚未發出詢問邀請的人。換句話說，除非服務者碰巧邀請提出請求，否則根本不能向服務者提出任何要求。《義註》沒有給出這些立場的理由，很難推論。在這個子類別下的兩個例子中的第一個——志願臨時服務者——《義註》中將服務者描述為同時在比丘和施主面前做志願者，這似乎使服務者對雙方都負有某種義務。因此，比丘似乎有權做出合理次數的提示；而施主，則有權知道該物品是否被提供。
 
 (未完待續)
