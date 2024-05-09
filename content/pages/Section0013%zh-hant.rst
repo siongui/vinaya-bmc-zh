@@ -314,4 +314,36 @@
 
      - 正如我們將在\ `《捨墮》一八`_\中指出的，銀行可以充當比丘的服務者。然而，由於比丘與服務者關係的行儀，即使支票是從以他的名義開設的帳戶中提取的，他不能簽署支票（這是按照收款人的指示付款的命令）。他也不得向銀行提供提款聲明以從帳戶中提取資金。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The factors of an offense**
+     - **犯戒因素**
+
+   * - The factors of an offense here are three.
+     - 在此處犯戒因素有三個。
+
+   * - 1\) *Object:* a fund for the purchase of robe-cloth left with a steward. As noted above, the Commentary extends this factor to cover any fund set aside for one’s own requisites.
+
+     - 1）\ *對象：*\留給服務者購買衣的資金。如上所述，《義註》將這一因素擴展到涵蓋為自己的必需品預留的任何資金。
+
+   * - 2\) *Effort:* One makes an excessive number of promptings.
+     - 2）\ *努力：*\做出過度的提示。
+
+   * - 3\) *Result:* One obtains the requested requisite.
+     - 3）\ *結果：*\獲得所要求的必需品。
+
+   * - There is a dukkaṭa for the excessive promptings. The requisite, when obtained, is to be forfeited and the nissaggiya pācittiya offense confessed. The procedures for forfeiture, confession, and receiving the requisite in return are the same as under the preceding rules. For the Pali formula to use in forfeiture, see `Appendix VI`_.
+
+     - 過度的提示犯《突吉羅》。當必需品被獲得時，將被捨出並懺悔《尼薩耆波逸提》罪。捨出、懺悔、和領回必需品的程序，與前項戒條相同。有關捨出裡使用的巴利文公式，請參閱\ `附錄六`_\。
+
+   * - If one has not given excessive promptings but perceives that one has, or is in doubt about the matter, the penalty for accepting the requisite is a dukkaṭa.
+     - 如果沒有給予過度的提示，但認為自己已經過度提示，或對此事有疑問，那麼接受必需品的懲罰是《突吉羅》。
+
+.. _Appendix VI: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVI
+.. _附錄六: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVI
+.. TODO FIXME: replace link to 附錄六
+
 (未完待續)
