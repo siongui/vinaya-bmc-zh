@@ -302,4 +302,16 @@
 
      - 至於第三種情況，即施主或比丘均未指明服務者的情況，《義註》指出，就該資金而言，服務者應被視為無親屬關係且與尚未發出詢問邀請的人。換句話說，除非服務者碰巧邀請提出請求，否則根本不能向服務者提出任何要求。《義註》沒有給出這些立場的理由，很難推論。在這個子類別下的兩個例子中的第一個——志願臨時服務者——《義註》中將服務者描述為同時在比丘和施主面前做志願者，這似乎使服務者對雙方都負有某種義務。因此，比丘似乎有權做出合理次數的提示；而施主，則有權知道該物品是否被提供。
 
+   * - As for the second of the two instances—the donor gives the gift to the bhikkhu’s normal steward but does not inform the bhikkhu or have him informed—the steward can either inform the bhikkhu or not. If he/she chooses to inform the bhikkhu, then according to the Commentary the bhikkhu would have the right to make any number of promptings, as the steward now counts as having given an invitation. Thus the steward would not be protected by the protocol under this rule, which doesn’t seem proper. If, however, the steward chooses not to inform the bhikkhu, there are two further possibilities: Either the bhikkhu never learns of the arrangement, in which case the issue is moot; or else he learns through a third party, in which case the bhikkhu would seem to have the right to ask the steward if the third party’s report is true. If the steward lies and says No, then that’s the steward’s kamma. If the steward truthfully reports Yes, then it would seem reasonable to apply the protocol under this rule.
+
+     - 至於這兩種情況中的第二種情況──施主將布施給比丘的正常服務者，但沒有通知比丘或讓他被通知──服務者可以通知比丘，也可以不通知。如果他/她選擇通知比丘，那麼根據《義註》，比丘將有權做出任意次數的提示，因為服務者現在被視為已發出邀請。因此，根據本戒條，服務者將不受行儀的保護，這似乎不合適。然而，如果服務者選擇不通知比丘，則還有兩種可能性：要麽比丘永遠不知道這一安排，在這種情況下，這議題就沒有意義了；否則，他透過第三者得知，在這種情況下，比丘似乎有權詢問服務者第三者的報告是否屬實。如果服務者撒謊並說「不」，那麼這就是服務者的業力。如果服務者如實報告「是」，那麼適用本戒條下的行儀似乎是合理的。
+
+   * - Thus, given these considerations, there would seem to be little reason to limit the protocols under this rule to cases where the steward is indicated by the bhikkhu, and stronger reason, using the Great Standards, to apply the protocols to all three cases: where the steward is indicated by the bhikkhu, by the donor, or by neither.
+
+     - 因此，鑑於這些考慮，似乎沒有什麼理由將本戒條下的行儀限制於比丘指定服務者的情況，並且更有理由使用《四大教示》將行儀適用於所有三種情況：服務者由比丘、施主指定，或兩者都沒有指定。
+
+   * - As we will note under `NP 18`_, a bank can serve as a steward for a bhikkhu. However, because of the protocols surrounding a bhikkhu’s relationship to his steward, he may not sign a check—which is an order to pay money to the order of the payee—even if the check draws on an account set up in his name. Nor may he present the bank with a withdrawal statement to remove money from the account.
+
+     - 正如我們將在\ `《捨墮》一八`_\中指出的，銀行可以充當比丘的服務者。然而，由於比丘與服務者關係的行儀，即使支票是從以他的名義開設的帳戶中提取的，他不能簽署支票（這是按照收款人的指示付款的命令）。他也不得向銀行提供提款聲明以從帳戶中提取資金。
+
 (未完待續)
