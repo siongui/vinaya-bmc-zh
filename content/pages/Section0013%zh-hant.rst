@@ -304,7 +304,7 @@
 
    * - As for the second of the two instances—the donor gives the gift to the bhikkhu’s normal steward but does not inform the bhikkhu or have him informed—the steward can either inform the bhikkhu or not. If he/she chooses to inform the bhikkhu, then according to the Commentary the bhikkhu would have the right to make any number of promptings, as the steward now counts as having given an invitation. Thus the steward would not be protected by the protocol under this rule, which doesn’t seem proper. If, however, the steward chooses not to inform the bhikkhu, there are two further possibilities: Either the bhikkhu never learns of the arrangement, in which case the issue is moot; or else he learns through a third party, in which case the bhikkhu would seem to have the right to ask the steward if the third party’s report is true. If the steward lies and says No, then that’s the steward’s kamma. If the steward truthfully reports Yes, then it would seem reasonable to apply the protocol under this rule.
 
-     - 至於這兩種情況中的第二種情況──施主將布施給比丘的正常服務者，但沒有通知比丘或讓他被通知──服務者可以通知比丘，也可以不通知。如果他/她選擇通知比丘，那麼根據《義註》，比丘將有權做出任意次數的提示，因為服務者現在被視為已發出邀請。因此，根據本戒條，服務者將不受行儀的保護，這似乎不合適。然而，如果服務者選擇不通知比丘，則還有兩種可能性：要麽比丘永遠不知道這一安排，在這種情況下，這議題就沒有意義了；否則，他透過第三者得知，在這種情況下，比丘似乎有權詢問服務者第三者的報告是否屬實。如果服務者撒謊並說「不」，那麼這就是服務者的業力。如果服務者如實報告「是」，那麼適用本戒條下的行儀似乎是合理的。
+     - 至於這兩種情況中的第二種情況──施主將布施給比丘的正常服務者，但沒有通知比丘或讓他被通知──服務者可以通知比丘，也可以不通知。如果他/她選擇通知比丘，那麼根據《義註》，比丘將有權做出任意次數的提示，因為服務者現在被視為已發出邀請。因此，根據本戒條，服務者將不受行儀的保護，這似乎不合適。然而，如果服務者選擇不通知比丘，則還有兩種可能性：要麽比丘永遠不知道這一安排，在這種情況下，這議題就沒有意義了；否則，他透過第三者得知，在這種情況下，比丘似乎有權詢問服務者第三者的報告是否屬實。如果服務者撒謊並說「否」，那麼這就是服務者的業力。如果服務者如實報告「是」，那麼適用本戒條下的行儀似乎是合理的。
 
    * - Thus, given these considerations, there would seem to be little reason to limit the protocols under this rule to cases where the steward is indicated by the bhikkhu, and stronger reason, using the Great Standards, to apply the protocols to all three cases: where the steward is indicated by the bhikkhu, by the donor, or by neither.
 
@@ -345,5 +345,31 @@
 .. _Appendix VI: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVI
 .. _附錄六: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVI
 .. TODO FIXME: replace link to 附錄六
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Other funds**
+     - **其他資金**
+
+   * - The Commentary includes a long discussion of how this rule applies to funds other than those intended for an individual bhikkhu’s requisites, such as funds for Community or group requisites, building funds, etc. (book-printing funds would come under here). Some have suggested that because this rule applies only to funds for one’s own use, the Commentary has erred in discussing other funds in this context, and that they should instead be discussed under `Pc 84`_, the rule dealing with valuables that lay people have left behind in the monastery. However, because the Canon does not discuss such funds at all, they must be treated under the Great Standards, which means that they must be treated in line with the rule(s) that cover situations bearing the greatest similarity to them. The protocols under `Pc 84`_ deal with the issue of how to return lost articles safely to an owner who did not intend them as a gift and still claims ownership of them; the protocols here deal with how to get the money to a steward and how to get the steward to provide what is needed with the money. Because these latter issues are the ones most relevant to the proper management of these other funds, there seems every reason to agree with the Commentary’s discussing them under this rule.
+
+     - 《義註》中對本戒條如何適用於除用於個別比丘必需品的資金之外的其他資金進行了長篇討論，例如僧團或團體必需品的資金、建築資金等（書籍印刷資金將歸入此處）。有些人建議，由於本戒條僅適用於自用資金，因此《義註》在這種脈絡下討論其他資金是錯誤的，而應該在\ `《波逸提》八四`_\ 下討論它們，該戒條涉及居士留下的貴重物品在寺院裡。然而，由於《聖典》根本沒討論此類基金，因此必須根據《四大教示》來處理它們，這意味著必須按照涵蓋與它們最相似的情況的戒條來處理它們。\ `《波逸提》八四`_\ 下的行儀處理如何將遺失的物品安全歸還給不打算將其作為贈禮且仍聲稱擁有這些物品的所有者的議題；這裡的行儀涉及如何將錢交給服務者以及如何讓服務者用錢提供所需的東西。因為後面這些議題與這些其他資金的妥善管理最相關，所以似乎有充分的理由同意《義註》在本戒條下對它們進行討論。
+
+   * - A few of the more relevant cases in the Commentary’s discussion:
+     - 《義註》討論中一些更相關的案例：
+
+   * - *Monetary funds for Saṅgha or group requisites*
+     - *僧伽或團體必需品的貨幣資金*
+
+   * - If a donor comes with a gift of money and says that it is being offered to the Saṅgha or to a group for whatever purpose, one should follow the protocol for accepting as under this rule. For instance, if the donor says, “I’m giving this to the Saṅgha for you to make use of the four requisites,” one may not accept it in any of the three ways covered by `NP 18`_. (For details, see the discussion under that rule.) There is also a dukkaṭa, says the Sub-commentary, for every bhikkhu who uses any article bought with the money.
+
+     - 如果施主帶著金錢贈禮前來，並表示出於任何目的將其捐贈給僧團或某個團體，則應遵循本戒條下的接受行儀。例如，如果施主說：「我將這個給僧團，讓你使用四種必需品」，那麼不可以\ `《捨墮》一八`_\所涵蓋的三種方式中的任何一種來接受它。（有關詳細信息，請參閱該戒條下的討論。）《複註》說，對於每一個使用任何用金錢購買的物品的比丘，還犯《突吉羅》。
+
+.. _Pc 84: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
+.. _《波逸提》八四: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
+.. TODO FIXME: replace link to 《波逸提》八四
 
 (未完待續)
