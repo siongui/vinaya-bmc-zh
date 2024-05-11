@@ -368,8 +368,26 @@
 
      - 如果施主帶著金錢贈禮前來，並表示出於任何目的將其捐贈給僧團或某個團體，則應遵循本戒條下的接受行儀。例如，如果施主說：「我將這個給僧團，讓你使用四種必需品」，那麼不可以\ `《捨墮》一八`_\所涵蓋的三種方式中的任何一種來接受它。（有關詳細信息，請參閱該戒條下的討論。）《複註》說，對於每一個使用任何用金錢購買的物品的比丘，還犯《突吉羅》。
 
+   * - If, however, the donor says, “The money will be with your steward” or “with my people” or “with me: All you need to do is make use of the four requisites,” then there is no offense in accepting and making use of this arrangement. The etiquette to follow in obtaining requisites depends on who the money is left with: If the bhikkhus’ steward, follow the protocol under this rule; if the donor’s workers, one may make any number of promptings; if the donor, follow the guidelines under `Pc 47`_. (In the first two cases here, the Commentary is following its decision, discussed above, that the protocols to be followed with the donor’s workers are different from those to be followed with one’s own steward. In light of our above discussion, however, both cases would come under the protocols stipulated by this rule.)
+
+     - 然而，如果施主說：「這筆錢將在你的服務者那裡」或「在我的人那裡」或「在我那裡：你所需要做的就是利用這四種必需品」，那麼接受並利用此安排並沒有犯戒之處。取得必需品時所遵循的規範取決於錢留給誰：如果是比丘的服務者，則遵循本戒條下的行儀；如果是施主的員工，可以做出任意次數的提示；如果是施主，遵循\ `《波逸提》四七`_\下的準則。（在這裡的前兩個情形中，《義註》遵循上面討論的決定，即施主的員工應遵循的行儀與自己的服務者應遵循的行儀不同。然而，根據我們上面的討論，兩種情況將受到本戒條規定的行儀的管轄。）
+
+   * - *Non-monetary funds for Saṅgha or group requisites*
+     - *僧伽或團體必需品的非貨幣資金*
+
+   * - `DN 2`_ contains a list of other articles that a bhikkhu consummate in virtue does not receive. The Commentary—perhaps in light of the general rule against misbehavior (`Cv.V.36`_)—imposes a dukkaṭa on the act of receiving any of them. These articles include uncooked grain and raw meat; women and girls; male and female slaves; goats and sheep, fowl and pigs, elephants, cattle, steeds, and mares; fields and property. Extrapolating from the Vibhaṅga to `Pc 84`_, which forbids bhikkhus from picking up pearls and precious stones except in certain circumstances—and which does not allow such items to be taken on trust, borrowed, or picked up with the perception that they have been thrown away—the Commentary also assigns a dukkaṭa for receiving these items. These two lists of objects will surface again under `NP 18`_ & 19_; for ease of reference, we will call them dukkaṭa objects.
+
+     - `《長部》2經`_\包含了戒德圓滿的比丘不接受的其他物品列表。《義註》－也許是根據反對不當行為的一般戒條（\ `《小品》.五.36`_\）－對接受其中任何一項的行為則犯《突吉羅》。這些物品包括未煮熟的穀物和生肉；女人和女孩；男性和女性奴隸；山羊和綿羊、家禽和豬、大象、牛、馬和母馬；土地和財產。從\ `《波逸提》八四`_\的《經分別》來推斷，該戒條禁止比丘拾取珍珠和寶石，除非在某些情況下，並且不允許以信託方式取走此類物品、借用、或以察覺到它們已被丟棄拾取這些物品。《義註》也指稱接收這些物品犯《突吉羅》。這兩個物件列表將在\ `《捨墮》一八`_\和\ `一九`_\ 下再次出現；為了方便參考，我們將它們稱為《突吉羅》物件。
+
 .. _Pc 84: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
 .. _《波逸提》八四: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
 .. TODO FIXME: replace link to 《波逸提》八四
+.. _Pc 47: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47
+.. _《波逸提》四七: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47
+.. TODO FIXME: replace link to 《波逸提》四七
+.. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
+.. _《長部》2經: https://tripitaka.cbeta.org/mobile/index.php?index=N06n0004_002
+.. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
+.. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
 
 (未完待續)
