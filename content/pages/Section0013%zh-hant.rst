@@ -414,4 +414,20 @@
 .. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
 .. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Impersonal funds**
+     - **非個人資金**
+
+   * - If a donor comes with money or any other unallowable gift and says, “I’m giving this to the Saṅgha for the meditation hall (or any other impersonal purpose, such as a book fund or a general building fund),” the gift may not be accepted. But if the donor says, “I am giving this to (or for) the meditation hall,” without mentioning any individual bhikkhu, group of bhikkhus, or the Saṅgha as custodians or recipients of the gift, then this arrangement is not to be refused, and the monastery steward is to be informed of what the donor said.
+
+     - 如果施主攜帶金錢或任何其他不允許的布施，並說：「我將其送給僧團，用於禪堂（或任何其他非個人目的，例如圖書資金或一般建築資金）」，該布施不可被接受。但如果施主說：「我將把這個布施給（或為了）禪堂」，而沒有提及任何個別比丘、比丘團體或僧團作為布施的保管人或接受者，那麼這種安排就不能被拒絕，並將施主所說的話告知寺院服務者。
+
+   * - In the context of `NP 18`_, this means that the bhikkhus are not to take the money directly, or to get anyone else to take it, but may consent to its being placed next to them, as it is not meant as a gift for them.
+
+     - 在\ `《捨墮》一八`_\的脈絡下，這意味著比丘們不能直接拿走金錢，或者讓其他人拿走它，但可以同意將其放在他們旁邊，因為這並不意味著作為給他們的布施。
+
 (未完待續)
