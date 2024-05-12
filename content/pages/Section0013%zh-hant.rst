@@ -379,6 +379,30 @@
 
      - `《長部》2經`_\包含了戒德圓滿的比丘不接受的其他物品列表。《義註》－也許是根據反對不當行為的一般戒條（\ `《小品》.五.36`_\）－對接受其中任何一項的行為則犯《突吉羅》。這些物品包括未煮熟的穀物和生肉；女人和女孩；男性和女性奴隸；山羊和綿羊、家禽和豬、大象、牛、馬和母馬；土地和財產。從\ `《波逸提》八四`_\的《經分別》來推斷，該戒條禁止比丘拾取珍珠和寶石，除非在某些情況下，並且不允許以信託方式取走此類物品、借用、或以察覺到它們已被丟棄拾取這些物品。《義註》也指稱接收這些物品犯《突吉羅》。這兩個物件列表將在\ `《捨墮》一八`_\和\ `一九`_\ 下再次出現；為了方便參考，我們將它們稱為《突吉羅》物件。
 
+   * - If a donor wants to make a gift of such things to the Saṅgha, the Commentary says, the question of whether they may be accepted depends on how the donation is phrased. If the donor says, “I’m giving this to the Saṅgha,” for whatever the purpose, the gift may not be accepted. As in the previous case, there is a dukkaṭa for whoever receives it and also for whoever uses an article obtained from proceeds coming from the gift.
+
+     - 《義註》說，如果施主想向僧伽贈送此類物品，是否可以接受的問題取決於捐贈的措詞。如果施主說：「我要把這個給僧團」，無論出於何種目的，該贈禮都不可被接受。就像前面的情況一樣，無論誰收到它，也無論誰使用從贈禮收益中獲得的物品，都會犯一次《突吉羅》。
+
+   * - If the donor says, “This is for the purpose of the four requisites,” or “Accept whatever is allowable coming from this,” without mentioning the Saṅgha or any bhikkhu as custodians or recipients of the unallowable object, the arrangement may be accepted without penalty. For instance, if a donor wants to present a herd of cows, saying, “These are for the purpose of milk products for the Saṅgha,” this is an acceptable arrangement: Cows are not acceptable for bhikkhus to receive, whereas milk products are. But if the donor says, “I am giving these cows to the Saṅgha to provide milk products for the Saṅgha,” then it is not.
+
+     - 如果施主說：「這是為了四種必需品的目的」，或者「接受由此而來的一切允許的東西」，而沒有提及僧伽或任何比丘作為不允許的物品的保管人或接受者，則可以接受安排，而不犯戒。例如，如果施主想要供養一群牛，並說：「這些是為了給僧團提供乳製品」，這是一個可以接受的安排：比丘不能接受乳牛，但可以接受乳製品。但如果施主施主說：「我將這些乳牛送給僧團，為僧團提供乳製品」，那就不可接受。
+
+   * - If a donor proposes to give pigs, chickens, or other animals used only for their meat to the Saṅgha, the bhikkhus are to say, “We can’t accept gifts like this, but we will be glad to set them free for you.”
+
+     - 如果施主提議將豬、雞或其他僅供食用的動物送給僧團，比丘們要說：「我們不能接受這樣的贈禮，但我們很樂意為你將它們放生。」
+
+   * - If, after setting up an allowable arrangement, the donor asks the bhikkhus to appoint a steward to look after it, they may. If not, they are to do nothing about the arrangement at all.
+
+     - 如果在允許的安排成立之後，施主要求比丘指定一名服務者來管理，他們可以。如果沒有，他們就不對該安排採取任何行動。
+
+   * - How the proceeds from such arrangements are to be used depends on what they are: If money, and a bhikkhu tells the steward, “Use this money to buy such-and-such,” no bhikkhu may make use of what is bought with the money. If the proceeds are commodities, such as unhusked rice, and a bhikkhu tells the steward, “Use this rice to trade for such-and-such,” the bhikkhu who makes the order may not use whatever is obtained from the trade, but other bhikkhus may without incurring a penalty. If the proceeds are allowable goods, such as fruit, and a bhikkhu tells the steward, “Use this fruit to trade for such-and-such,” the Commentary says that any bhikkhu may use what is obtained from the trade.
+
+     - 如何使用這些安排的收益取決於它們是什麼：如果是錢，並且比丘告訴服務者：「用這筆錢購買某物」，則沒有比丘可以使用用錢購買的東西。如果收益是商品，例如未去殼的大米，而比丘告訴服務者：「用此大米來交易某物」，下令的比丘不得使用從交易中獲得的任何東西，但其他的比丘們則可以使用而不會受到懲罰。如果收益是允許的商品，例如水果，而比丘告訴服務者：「用這種水果來交易某物」，《義註》說任何比丘都可以使用從交易中獲得的東西。
+
+   * - Apparently the Commentary views this arrangement as acceptable because of its interpretation that `NP 20`_ applies only to cases where the bhikkhu tells a steward to conduct a trade with the bhikkhu’s own personal resources. However, as we will note in the discussion of that rule, this interpretation seems mistaken, and the rule applies to any funds for which a bhikkhu assumes responsibility. This means that, in the context of this last arrangement, the bhikkhu who orders the steward would have to forfeit the proceeds of the trade, but all bhikkhus could use them after the forfeiture.
+
+     - 顯然，《義註》認為這種安排是可以接受的，因為它解釋說\ `《捨墮》二十`_\ 僅適用於比丘告訴服務者用比丘自己的個人資源進行交易的情況。然而，正如我們將在討論該戒條時注意到的那樣，這種解釋似乎是錯誤的，並且該戒條適用於比丘承擔責任的任何資金。這意味著，在最後安排的脈絡中，命令服務者的比丘必須捨出交易收益，但所有比丘在捨出後都可以使用它們。
+
 .. _Pc 84: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
 .. _《波逸提》八四: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
 .. TODO FIXME: replace link to 《波逸提》八四
