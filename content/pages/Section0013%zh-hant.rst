@@ -430,4 +430,35 @@
 
      - 在\ `《捨墮》一八`_\的脈絡下，這意味著比丘們不能直接拿走金錢，或者讓其他人拿走它，但可以同意將其放在他們旁邊，因為這並不意味著作為給他們的布施。
 
+   * - Many monasteries have donation boxes, and there is a question as to whether the bhikkhus may tell a donor in this case to put the money in the box. The Commentary to `NP 18`_ states that when a donation has been placed down for a bhikkhu—over his protests—and someone aside from the donor offers to put it in a safe place, the bhikkhu may point out a safe place to put the money but may not tell him/her to put it there, as that would imply that he is accepting responsibility for the money. If this stipulation also applies to funds given “to a building,” then the bhikkhus should be able to say to the donor of such funds, “The donation box is over there,” but not, “Put it there.”
+
+     - 許多寺院都有捐款箱（功德箱），有一個問題是，在這種情況下，比丘們是否可以告訴施主把錢放進箱裡。\ `《捨墮》一八`_\的《義註》指出，當給比丘的捐贈被放下時—不顧他（比丘）的抗議—而施主以外的其他人提出將其放在安全的地方時，比丘可以指出一個安全的地方來放置這筆錢，但不可以告訴他/她把錢放在那裡，因為這意味著他接受對這筆錢的責任。如果這個規定也適用於給予「建築物」的資金，那麼比丘們應該能夠對此類資金的施主說：「捐款箱（功德箱）在那邊」，而不是「把它放在那裡」。
+
+   * - After the donor has placed the money, the bhikkhus may then tell the monastery steward what the donor said, but are not to tell him/her to take the money, as this would violate `NP 18`_. They are also to follow the protocol in this rule when telling the steward of their need for building materials, wages for the workers, and other necessities that come up in the course of the building’s construction or maintenance.
+
+     - 施主放置金錢後，比丘們可以告訴寺院服務者施主所說的話，但不要告訴他/她拿走這筆錢，因為這會違反\ `《捨墮》一八`_\。當告訴服務者他們對建築材料、工人工資以及建築物建造或維護過程中出現的其他必需品的需求時，他們也應遵循本戒條中的行儀。
+
+   * - The Commentary mentions two other acceptable arrangements:
+     - 《義註》中提到了另外兩種可接受的安排：
+
+   * - 1\) The donor places the money with the workmen and tells the bhikkhus that their only responsibility is to check on whether the work is being done poorly or well.
+
+     - 1）施主把錢交給工人，並告訴比丘們，他們唯一的責任是檢查工作做得好還是不好。
+
+   * - 2\) The donor says that the money will be kept with him/her or with his/her employees and that the bhikkhus’ only responsibility is to inform them of whom the money is to be given to.
+
+     - 2）施主說，這筆錢將由他/她或他/她的僱員保管，比丘們唯一的責任是告知他們這筆錢將給誰。
+
+   * - This second arrangement, however, essentially makes the bhikkhu responsible for arranging a trade: He is telling the donor or his/her employees who deserves to be paid in exchange for goods or labor, which again would be a violation of `NP 20`_. At most, a bhikkhu may tell the donor, etc., how much work the laborers did or what construction materials were delivered to the site, and leave it up to the donor, etc., to figure out who deserves to be paid how much. Also, if a checking account is set up for impersonal purposes such as the construction and upkeep of monastery buildings, a bhikkhu may not sign a check drawing on the account.
+
+     - 然而，第二種安排本質上是讓比丘負責安排交易：他告訴施主或他/她的僱員誰應該得到報酬以換取貨物或勞動力，這又違反了\ `《捨墮》二十`_\。比丘最多可以告訴施主等，工人做了多少工作，或運到工地的建築材料是什麼，然後讓施主等決定誰應該得到多少報酬。此外，如果支票帳戶是為了非個人目的而設立的，例如建造和維護寺院建築，比丘不可在該帳戶上簽署支票。
+
+   * - The Commentary says that because the steward in arrangements (1) and (2) is indicated by the donor, the bhikkhus may make as many requests as they like—i.e., in the first case, telling the workers what to do; in the second case, telling the steward or donor who is to be paid—but as we noted above, there seems no reason to follow the Commentary in making this allowance.
+
+     - 《義註》說，由於安排（1）和（2）中的服務者是由施主指定的，所以比丘們可以提出任意次數的請求——即在第一種情況下，告訴工人該做什麼；在第二種情況下，告訴服務者或施主誰應該得到報酬——但正如我們上面指出的，似乎沒有理由遵循《義註》來提供這種開緣。
+
+   * - In addition to building funds, it would seem that any charitable fund for schools, hospitals, etc.—such as some wealthy monasteries have—would come under the category of impersonal funds, as long as the fund is not for requisites for the Saṅgha, either as a group or individually.
+
+     - 除了建築資金之外，任何為學校、醫院等等設立的慈善資金——例如一些富裕的寺院所有——似乎都屬於非個人資金的範疇，只要該資金不是用於僧伽的必需品，無論是作為一個團體還是個人。
+
 (未完待續)
