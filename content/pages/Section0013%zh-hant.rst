@@ -461,4 +461,20 @@
 
      - 除了建築資金之外，任何為學校、醫院等等設立的慈善資金——例如一些富裕的寺院所有——似乎都屬於非個人資金的範疇，只要該資金不是用於僧伽的必需品，無論是作為一個團體還是個人。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Fund management**
+     - **資金管理**
+
+   * - The Commentary states that if a Community fund has been set up for a particular requisite, it should as a general principle be used to buy only that requisite. If, however, the Community has enough of one kind of *lahubhaṇḍa*\—goods that may be shared among the bhikkhus—but not enough of another, the fund for the first kind may be diverted to the second kind by an *apalokana-kamma:* a Community transaction in which the motion is phrased in one’s own words and unanimously accepted.
+
+     - 《義註》指出，如果為特定必需品設立了僧團資金，則作為一般原則，該資金應僅用於購買該必需品。然而，如果僧團有足夠的一種 *lahubhaṇḍa*\（可以在比丘之間共享的物品），但沒有足夠的另一種，第一種的資金可以通過 *apalokana-kamma* 轉移到第二種：動議（白文、提案文）是用自己的話表達並獲得一致接受的僧團羯磨。
+
+   * - Funds for lodgings and furniture, though, because they are *garubhaṇḍa* (heavy or expensive goods that may not be shared among the bhikkhus), may not be diverted to lahubhaṇḍa at all. But if Saṅgha furniture is going unused and is in danger of deteriorating before it gets used, the Community may arrange to have it exchanged—using the procedure allowed under `NP 20`_, and making sure not to let it go for less than its full value—and then use the proceeds for lahubhaṇḍa. The Commentary adds that proceeds of this sort should be used “frugally, just enough to keep life going.” In other words, if the Community is not in straitened circumstances, the proceeds should not be used for lahubhaṇḍa at all, and instead should be reserved for garubhaṇḍa as the need arises. If, however, the Community is suffering from such catastrophes as disease or famine, they may allow the proceeds to be used for lahubhaṇḍa as needed, but not to splurge on anything excessive.
+
+     - 然而，用於住宿和家具的資金，因為它們是 *garubhaṇḍa*\（不能在比丘之間共享的重或昂貴物品），不可轉移到 lahubhaṇḍa。但是，如果僧團家具閒置並且在使用之前有損壞的危險，僧團可以安排交換它——使用\ `《捨墮》二十`_\中允許的程序，並確保不以低於其全部價值的價格出售——然後將所得收益用於 lahubhaṇḍa。《義註》補充說，此類收益應該「節儉地使用，僅足以維持生活」。換句話說，如果僧團沒有陷入困境，收益根本不應該用於 lahubhaṇḍa，而應該在需要出現時保留給 garubhaṇḍa。然而，如果僧團正遭受疾病或飢荒等災難，他們可以允許將收益用於需要時的 lahubhaṇḍa，但不要過度揮霍。
+
 (未完待續)
