@@ -1,5 +1,5 @@
-尼薩耆波逸提《捨墮》
-====================
+尼薩耆波逸提（《捨墮》）
+========================
 
 :tags: 尼薩耆波逸提, 《捨墮》
 :summary: 尼薩耆波逸提 《捨墮》
@@ -477,4 +477,27 @@
 
      - 然而，用於住宿和家具的資金，因為它們是 *garubhaṇḍa*\（不能在比丘之間共享的重或昂貴物品），不可轉移到 lahubhaṇḍa。但是，如果僧團家具閒置並且在使用之前有損壞的危險，僧團可以安排交換它——使用\ `《捨墮》二十`_\中允許的程序，並確保不以低於其全部價值的價格出售——然後將所得收益用於 lahubhaṇḍa。《義註》補充說，此類收益應該「節儉地使用，僅足以維持生活」。換句話說，如果僧團沒有陷入困境，收益根本不應該用於 lahubhaṇḍa，而應該在需要出現時保留給 garubhaṇḍa。然而，如果僧團正遭受疾病或飢荒等災難，他們可以允許將收益用於需要時的 lahubhaṇḍa，但不要過度揮霍。
 
-(未完待續)
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if:
+     - 若符合以下條件，則不構成犯戒：
+
+   * - the steward gives the item after the bhikkhu has given the allowable number of promptings or less; or
+     - 服務者在比丘給予允許次數或更少的提示後，給予物品；或者
+
+   * - if the donors(s) give the item after they have been informed that the steward has not given the item after having been prompted the allowable number of times.
+     - 如果施主（們）在被告知服務者在經過允許的次數提示後仍未提供物品後，才提供物品。
+
+   * - Note that the Vibhaṅga’s non-offense clauses do not make an exemption for relatives or people who have invited one to ask. This means that even when the donor(s) or the steward or both are related to the bhikkhu or have given him an invitation to ask, he must follow the protocol under this rule.
+
+     - 請注意，《經分別》的不犯條款並不免除親戚或邀請詢問的人。這意味著，即使施主或服務者或兩者，與比丘有親屬關係或已邀請他詢問，他也必須遵守本戒條下的行儀。
+
+   * - *Summary: When a fund for one’s individual use has been set up with a steward, obtaining an article from the fund as a result of having prompted the steward more than the allowable number of times is a nissaggiya pācittiya offense.*
+
+     - *摘要：當供個人使用的資金已與服務者一起設立時，由於提示服務者超過允許次數而從該資金獲取物品是《尼薩耆波逸提》（《捨墮》）罪。*
