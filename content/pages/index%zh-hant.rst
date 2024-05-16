@@ -229,7 +229,7 @@
      - 　　　十七
 
    * - `\　　　18 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18>`__
-     - 　　　十八
+     - `\　　　十八 <{filename}Section0014%zh-hant.rst#np18>`__
 
    * - `\　　　19 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19>`__
      - 　　　十九

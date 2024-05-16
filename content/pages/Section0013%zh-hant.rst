@@ -94,8 +94,7 @@
 .. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. _19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. _20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
-.. _《捨墮》一八: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
-.. TODO FIXME: replace link to 《捨墮》一八
+.. _《捨墮》一八: {filename}Section0014%zh-hant.rst#np18
 .. _一九: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. TODO FIXME: replace link to 《捨墮》一九
 .. _二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
@@ -155,8 +154,7 @@
 .. TODO FIXME: replace link to 《捨墮》一九
 .. _《大品》.六.34.21: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0321a02
 .. _NP 18-20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
-.. _《捨墮》一八至二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
-.. TODO FIXME: replace link to 《捨墮》一八至二十
+.. _《捨墮》一八至二十: {filename}Section0014%zh-hant.rst#np18
 
 
 .. list-table::
