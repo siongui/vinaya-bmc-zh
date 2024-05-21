@@ -37,7 +37,7 @@
 
      - .. container:: notification
 
-          *若使者對比丘如此說：「尊者有服務者嗎？」那麼，比丘們，如果比丘想要一件衣，他可以指示一位服務者——或者是寺院侍者，或者是在家人——（說：）「我的朋友，那是比丘的服務者。」*
+          *若使者對比丘如此說：「尊者有淨人嗎？」那麼，比丘們，如果比丘想要一件衣，他可以指示一位淨人——或者是寺院侍者，或者是在家人——（說：）「我的朋友，那是比丘的淨人。」*
 
    * - .. container:: notification
 
@@ -45,7 +45,7 @@
 
      - .. container:: notification
 
-          *如果使者在交代了服務者之後，前往比丘那裡，如此說：「我已經交代了尊者所指示的服務者。願尊者前往，他會在適當的時候送衣給您披著。」然後，比丘想要衣，就到服務者那裡，可以催促、提醒他兩三遍：「我需要衣。」如果在兩、三次催促、提醒時獲得該衣，這實在很好。*
+          *如果使者在交代了淨人之後，前往比丘那裡，如此說：「我已經交代了尊者所指示的淨人。願尊者前往，他會在適當的時候送衣給您披著。」然後，比丘想要衣，就到淨人那裡，可以催促、提醒他兩三遍：「我需要衣。」如果在兩、三次催促、提醒時獲得該衣，這實在很好。*
 
    * - .. container:: notification
 
@@ -53,7 +53,7 @@
 
      - .. container:: notification
 
-          *如果沒有獲得，那麼（比丘）就應該默立四次、五次、至多六次。如果（服務者）在（比丘）為此目的而默立四次、五次、至多六次之後，獲得該衣，這實在很好*
+          *如果沒有獲得，那麼（比丘）就應該默立四次、五次、至多六次。如果（淨人）在（比丘）為此目的而默立四次、五次、至多六次之後，獲得該衣，這實在很好*
 
    * - .. container:: notification
 
@@ -85,12 +85,15 @@
 
    * - If a bhikkhu follows the protocols recommended here, the money placed with the steward still belongs to the donor, and the responsibility for making a fair trade lies with the steward. The bhikkhu’s only responsibility is to inform the original donor if, after a reasonable number of promptings, the steward entrusted with the money does not provide him with the requisite the donor had in mind, and then let the donor look after the matter if he/she cares to.
 
-     - 如果比丘遵循這裡推薦的行儀，放在服務者那裡的錢仍然屬於施主，而公平交易的責任則由服務者承擔。比丘的唯一責任是，如果經過合理次數的提示後，受託金錢的服務者沒有向他提供施主心目中的必需品，則通知原始施主，然後讓施主處理此事，如果他/她在乎。
+     - 如果比丘遵循這裡推薦的行儀，放在\ `淨人`_\那裡的錢仍然屬於施主，而公平交易的責任則由淨人承擔。比丘的唯一責任是，如果經過合理次數的提示後，受託金錢的淨人沒有向他提供施主心目中的必需品，則通知原始施主，然後讓施主處理此事，如果他/她在乎。
 
    * - Although the rule itself mentions only funds for robe-cloth intended for individual bhikkhus, we should note from the outset that the Commentary uses the Great Standards to extend it to cover all funds—composed of money, jewels, commodities, land, livestock, or other valuables that bhikkhus are not allowed to accept—not only for an individual bhikkhu’s robe-cloth but also for any type of requisite. And it further extrapolates from this rule to cover funds for Communities and groups of bhikkhus, as well as impersonal funds for such things as buildings and—in the modern world—the printing of books.
 
      - 雖然戒條本身只提到了供個別比丘使用的衣資，但我們從一開始就應該注意，《義註》使用《四大教示》將其擴展到涵蓋所有資金，包括金錢、珠寶、商品、土地、牲畜或其他比丘不准接受的貴重物品－不僅是比丘個人的衣，也包括任何類型的必需品。它進一步從本戒條推斷出涵蓋僧團和比丘團體的資金，以及用於比如建築物和（在現代世界）書籍印刷等項目的非個人資金。
 
+.. _淨人: https://zh.wikipedia.org/wiki/%E6%B7%A8%E4%BA%BA
+.. 淨人（巴利語：kappiya-karaka；梵語：kalpiya-kāraka）
+.. 執事人（巴利語：veyyāvacca-kara；梵語：vaiyāpṛtya-kara）
 .. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. _19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. _20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
@@ -118,11 +121,11 @@
 
      - .. container:: notification
 
-          「比丘們，有一些有信念和信心的人，他們把黃金放在服務者的手中，（說）『用這個，給尊者任何允許的東西。』我允許你們，比丘們，接受來自那裡的任何允許的東西。但我絕不是說金銀應該被接受或尋求。」
+          「比丘們，有一些有信念和信心的人，他們把黃金放在淨人的手中，（說）『用這個，給尊者任何允許的東西。』我允許你們，比丘們，接受來自那裡的任何允許的東西。但我絕不是說金銀應該被接受或尋求。」
 
    * - Even given this allowance, though, it is important that the bhikkhu, in his dealings with the steward, does not say or do anything that would transgress `NP 18-20`_. At the same time, it is important that he not abuse the steward’s services. Otherwise the steward will never want to perform this service for bhikkhus again. This is the main point of the origin story to this rule:
 
-     - 然而，即使給予了這種開緣，比丘在與服務者打交道時，不要說或做任何違反\ `《捨墮》一八至二十`_\的事情，這一點很重要。同時，重要的是他不能濫用服務者的服務。否則，服務者將永遠不想再為比丘做這服務。這是本戒條\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0311a07>`_\的要點：
+     - 然而，即使給予了這種開緣，比丘在與淨人打交道時，不要說或做任何違反\ `《捨墮》一八至二十`_\的事情，這一點很重要。同時，重要的是他不能濫用淨人的服務。否則，淨人將永遠不想再為比丘做這服務。這是本戒條\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0311a07>`_\的要點：
 
    * - .. container:: notification
 
@@ -130,7 +133,7 @@
 
      - .. container:: notification
 
-          「時，釋迦族優波難陀尊者來到優婆塞（他的服務者）處，抵達後說道：『我的朋友，我需要一件衣。』
+          「時，釋迦族優波難陀尊者來到優婆塞（他的淨人）處，抵達後說道：『我的朋友，我需要一件衣。』
 
    * - .. container:: notification
 
@@ -162,40 +165,40 @@
    :widths: auto
 
    * - **Stewards**
-     - **服務者**
+     - **淨人**
 
    * - According to the Commentary, there are three types of steward with whom money might be placed: (1) indicated by the bhikkhu, (2) indicated by the donor or his/her messenger, and (3) indicated by neither.
 
-     - 根據《義註》，可以放置金錢的服務者有三類：（1）由比丘指定，（2）由施主或其使者指定，以及（3）兩者都沒有指定。
+     - 根據《義註》，可以放置金錢的淨人有三類：（1）由比丘指定，（2）由施主或其使者指定，以及（3）兩者都沒有指定。
 
    * - *1) Indicated by the bhikkhu* covers two sorts of cases:
      - *1) 比丘指定*\涵蓋兩種情況：
 
    * - a\) The donor asks the bhikkhu who his steward is, and the bhikkhu points him/her out, as mentioned in the training rule.
-     - a\) 施主詢問比丘誰是他的服務者，比丘指出他/她，如學處所述。
+     - a\) 施主詢問比丘誰是他的淨人，比丘指出他/她，如學處所述。
 
    * - b\) The donor, knowing that a particular lay person has volunteered to act as a steward or is on familiar terms with the bhikkhu, gives the money to the lay person and informs the bhikkhu—or has someone else inform him—either before or after the fact.
 
-     - b\) 施主知道某個在家人自願擔任服務者或與比丘關係熟悉時，將錢交給該在家人，並在之前或之後通知該比丘——或讓其他人通知他。
+     - b\) 施主知道某個在家人自願擔任淨人或與比丘關係熟悉時，將錢交給該在家人，並在之前或之後通知該比丘——或讓其他人通知他。
 
    * - *2) Indicated by the donor* covers cases where the donor chooses one of his/her own friends or employees to act as the steward for that particular gift, and informs the bhikkhu—or has someone else inform him—either before or after the fact.
 
-     - *2）由施主指定*\，包括施主選擇他/她自己的一位朋友或僱員作為該特定布施的服務者，並在事前或事後通知比丘－或讓其他人通知他的情況。
+     - *2）由施主指定*\，包括施主選擇他/她自己的一位朋友或僱員作為該特定布施的淨人，並在事前或事後通知比丘－或讓其他人通知他的情況。
 
    * - *3) Indicated by neither* covers two separate cases:
      - *3) 兩者都沒有指定*\涵蓋兩種不同的情況：
 
    * - a\) The donor asks the bhikkhu who his steward is, and the bhikkhu says that he has none. Another person happens to overhear the conversation and volunteers—in the presence of both—to act as the steward for that particular gift.
 
-     - a\) 施主問比丘誰是他的服務者，比丘說他沒有。另一個人碰巧無意中聽到了談話，並在兩人都在場的情況下自願擔任該特定布施的服務者。
+     - a\) 施主問比丘誰是他的淨人，比丘說他沒有。另一個人碰巧無意中聽到了談話，並在兩人都在場的情況下自願擔任該特定布施的淨人。
 
    * - b\) The donor gives the gift to the lay person who is normally the bhikkhu’s steward or is on familiar terms with the bhikkhu, but does not inform the bhikkhu or have him informed of the fact.
 
-     - b\) 施主將該布施給在家人，通常是比丘的服務者或與比丘關係熟悉的人，但沒有通知比丘或讓他知道這一事實。
+     - b\) 施主將該布施給在家人，通常是比丘的淨人或與比丘關係熟悉的人，但沒有通知比丘或讓他知道這一事實。
 
    * - According to the Commentary, this training rule covers only cases of the first sort—the steward is indicated by the bhikkhu—but not of the other two. This, however, is a controversial point. To understand the controversy, though, we will first have to discuss the protocols for accepting funds and obtaining requisites from stewards as set forth in this rule. Then we will revisit this issue in the section, “range of application,” below.
 
-     - 根據《義註》，本學處只涵蓋第一種情況──服務者由比丘指定──而不包括其他兩種情況。然而，這是一個有爭議的觀點。不過，為了理解這項爭議，我們首先必須討論本戒條中規定的接受資金和從服務者那裡獲取必需品的行儀。然後我們將在下面的「適用範圍」部分中重新討論這個議題。
+     - 根據《義註》，本學處只涵蓋第一種情況──淨人由比丘指定──而不包括其他兩種情況。然而，這是一個有爭議的觀點。不過，為了理解這項爭議，我們首先必須討論本戒條中規定的接受資金和從淨人那裡獲取必需品的行儀。然後我們將在下面的「適用範圍」部分中重新討論這個議題。
 
 
 .. list-table::
@@ -213,11 +216,11 @@
 
    * - If they ask who the bhikkhus’ steward is, one may point out any lay person at all, saying, “That’s the steward.” One is *not* to say, “Give it to him/her,” or “He/she will keep (the money),” for that would be to accept ownership and responsibility for the money, and thus be an infraction of the rule against accepting money. Also, one is not to say, “He/she will buy (the requisite),” or “He/she will get it in exchange,” for even this much would be an infraction of the rule against trading.
 
-     - 如果他們問誰是比丘的服務者，可以指著任何一個在家人說：「那就是服務者。」 *不要*\說「把錢給他/她」或「他/她會保管（錢）」，因為那樣就等於接受了錢的所有權和責任，從而違反禁止接受金錢的戒條。此外，也不能說「他/她會購買（必需品）」或「他/她會得到它作為交換」，因為即使是這樣也將違反禁止交易的戒條。
+     - 如果他們問誰是比丘的淨人，可以指著任何一個在家人說：「那就是淨人。」 *不要*\說「把錢給他/她」或「他/她會保管（錢）」，因為那樣就等於接受了錢的所有權和責任，從而違反禁止接受金錢的戒條。此外，也不能說「他/她會購買（必需品）」或「他/她會得到它作為交換」，因為即使是這樣也將違反禁止交易的戒條。
 
    * - The K/Commentary adds that if the donor asks, “To whom should I give this?” or “Who will keep this?” one is not to point anyone out. It doesn’t say what one *may* do in such a situation, although a wise policy would be to broach the topic of stewards so that the donor will ask a question to which one may give an allowable answer.
 
-     - K/《義註》補充說，如果布施者問：「我應該把這個給誰？」或「誰會保管這個？」不要指出任何人。它沒有說明在這種情況下\ *可以*\做什麼，儘管明智之舉是提出服務者的話題，以便布施者提出一個可以給出允許答案的問題。
+     - K/《義註》補充說，如果布施者問：「我應該把這個給誰？」或「誰會保管這個？」不要指出任何人。它沒有說明在這種情況下\ *可以*\做什麼，儘管明智之舉是提出淨人的話題，以便布施者提出一個可以給出允許答案的問題。
 
 
 .. list-table::
@@ -229,7 +232,7 @@
 
    * - The rule states that a bhikkhu may give his steward up to three verbal and six silent promptings in order to get a requisite from the fund. The Vibhaṅga works out an arrangement whereby he may exchange two silent promptings for one verbal prompting, which leads the Commentary to lay out the following scheme: A bhikkhu may make up to—
 
-     - 戒條規定，比丘可以向他的服務者發出最多三次口頭提示和六次無聲提示，以便從資金中獲得必需品。《經分別》制定了一種安排，使他可以將\ `兩次無聲提示改為一次口頭提示 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0314a10>`__\，這導致《義註》提出以下方案：比丘可以做到——
+     - 戒條規定，比丘可以向他的淨人發出最多三次口頭提示和六次無聲提示，以便從資金中獲得必需品。《經分別》制定了一種安排，使他可以將\ `兩次無聲提示改為一次口頭提示 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0314a10>`__\，這導致《義註》提出以下方案：比丘可以做到——
 
    * - 6 verbal & 0 silent promptings
      - 6次 口頭 及 0次 無聲提示
@@ -258,15 +261,15 @@
 
    * - According to the Commentary, promptings are counted not by the number of visits to the steward but by the number of times the bhikkhu states his need/desire for the requisite. Thus if, in one visit, he states his need for a robe three times, that counts as three verbal promptings.
 
-     - 根據《義註》，提示不是根據拜訪服務者的次數來計算的，而是根據比丘陳述他對必需品的需要/渴望的次數來計算的。因此，如果他在一次拜訪中三次表示需要一件衣，那就算是三次口頭提示。
+     - 根據《義註》，提示不是根據拜訪淨人的次數來計算的，而是根據比丘陳述他對必需品的需要/渴望的次數來計算的。因此，如果他在一次拜訪中三次表示需要一件衣，那就算是三次口頭提示。
 
    * - As for silent promptings—or “standings”—the bhikkhu merely stands in the steward’s presence. If the steward asks, “What have you come for?’ the bhikkhu should say, “You know,” or “You should know.”
 
-     - 至於無聲提示——或「站立」——比丘只是站在服務者面前。如果服務者問：「你來做什麼？」比丘應該說：「你知道」或「你應該知道」。
+     - 至於無聲提示——或「站立」——比丘只是站在淨人面前。如果淨人問：「你來做什麼？」比丘應該說：「你知道」或「你應該知道」。
 
    * - The Vibhaṅga also notes that during the period when a bhikkhu has yet to receive the requisite, he should not accept an invitation to sit down at the steward’s place, to accept alms, or to teach Dhamma there. If he does any of these things, that cuts back his number of allowed standings. The Sub-commentary raises the question as to what precisely this means: When a bhikkhu does several of these actions in one visit, does each action take away one standing, or is just that one visit struck from his allowed number of standings? After a long discussion, it sides with the decision in the Three Gaṇṭhipadas: Each time a bhikkhu sits, receives alms, or teaches one sentence of Dhamma (see `Pc 7`_) under these circumstances, even in one visit, he cuts down his allowed number of standings by one.
 
-     - 《經分別》也指出，\ `在比丘尚未領受必需品期間，他不應接受坐在服務者處的邀請、接受施捨，或在那裡教導佛法。`_\ 如果他做了任何這些事情，就會減少他允許的站立次數。《複註》提出了一個問題，即這到底意味著什麼：當比丘在一次拜訪中做了數個這樣的行為時，是否每一個行為都會減少一個站立，或者只是那一次拜訪從他允許的站立次數中減去？經過冗長的討論，它支持《Three Gaṇṭhipada》中的決定：每當比丘在這種情況下坐著、接受施捨，或教導一句佛法（參見\ `《波逸提》七`_\）時，即使是一次拜訪，他也會在允許的站立次數中減去一次。
+     - 《經分別》也指出，\ `在比丘尚未領受必需品期間，他不應接受坐在淨人處的邀請、接受施捨，或在那裡教導佛法。`_\ 如果他做了任何這些事情，就會減少他允許的站立次數。《複註》提出了一個問題，即這到底意味著什麼：當比丘在一次拜訪中做了數個這樣的行為時，是否每一個行為都會減少一個站立，或者只是那一次拜訪從他允許的站立次數中減去？經過冗長的討論，它支持《Three Gaṇṭhipada》中的決定：每當比丘在這種情況下坐著、接受施捨，或教導一句佛法（參見\ `《波逸提》七`_\）時，即使是一次拜訪，他也會在允許的站立次數中減去一次。
 
    * - The Vibhaṅga states that if one obtains the requisite after making the allowable number of verbal and silent promptings—or fewer—there is no offense. If one does not obtain the requisite after the maximum allowable number of promptings, one should inform the original donor and then leave the issue up to him/her. If the donor, being informed, then makes arrangements to get the requisite for the bhikkhu, there is no offense.
 
@@ -274,12 +277,12 @@
 
    * - The Commentary adds that not to inform the donor here entails a dukkaṭa on the grounds that one is neglecting a duty. This statement, however, should be qualified to apply only in cases where one knows which donor gave which fund to which steward. If a single fund administered by a steward contains donations from many donors, one is unlikely to be in a position to inform all the donors if the steward does not respond to one’s request. In such cases one should be duty bound to inform only one of the donors.
 
-     - 《義註》補充說，不通知施主會犯《突吉羅》，理由是疏忽了職責。然而，這個說法僅適用於知道哪位施主向哪位服務者提供哪項資金的情況。如果服務者管理的單一資金包含許多施主的捐款，如果服務者不回應請求，則不太可能通知所有施主。在這種情況下，有義務只通知其中一位施主。
+     - 《義註》補充說，不通知施主會犯《突吉羅》，理由是疏忽了職責。然而，這個說法僅適用於知道哪位施主向哪位淨人提供哪項資金的情況。如果淨人管理的單一資金包含許多施主的捐款，如果淨人不回應請求，則不太可能通知所有施主。在這種情況下，有義務只通知其中一位施主。
 
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _《捨墮》二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. TODO FIXME: replace link to 《捨墮》二十
-.. _在比丘尚未領受必需品期間，他不應接受坐在服務者處的邀請、接受施捨，或在那裡教導佛法。: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0314a07
+.. _在比丘尚未領受必需品期間，他不應接受坐在淨人處的邀請、接受施捨，或在那裡教導佛法。: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0314a07
 .. _Pc 7: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
 .. _《波逸提》七: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
 .. TODO FIXME: replace link to 《波逸提》七
@@ -294,23 +297,23 @@
 
    * - As mentioned above, the Commentary maintains that this rule applies only in the first of the three cases listed there: The steward has been indicated by the bhikkhu. As for the second case—the steward has been indicated by the donor—it maintains that one may make any number of promptings without committing an offense. If the article is not forthcoming, one may get another lay person to handle the issue (although one should be careful to phrase one’s request to this lay person so as not to transgress the rules against accepting money or trading). If the article is not forthcoming, one is not duty-bound to inform the original donor. Although there is nothing in the Canon to contradict any of these points, there is nothing to confirm them, either. Simple etiquette would suggest that one not harass the steward excessively and that one should inform the donor if the article is not forthcoming, so as to let the donor decide what, if anything, should be done. Thus it would make sense, using the Great Standards, to apply this rule even in cases of this sort.
 
-     - 如上所述，《義註》認為本戒條僅適用於所列三種情況中的第一種：服務者已由比丘指定。至於第二種情況──服務者已由施主指定──它認為可以做出任意次數的提示而不構成犯戒。如果沒有提供物品，可以找另一位居士來處理這個議題（儘管應該小心地向這位居士表達自己的請求，以免違反禁止接受金錢或交易的戒條）。如果沒有提供物品，則沒有義務通知原始施主。儘管《聖典》中沒有任何內容與這些觀點相矛盾，但也沒有任何內容可以證實它們。簡單的建議禮節是，不要過度騷擾服務者，如果沒有提供物品，應該通知施主，以便讓施主決定應該做什麼（如果有的話）。因此，即使在這種情況下，使用《四大教示》來適用本戒條也是有意義的。
+     - 如上所述，《義註》認為本戒條僅適用於所列三種情況中的第一種：淨人已由比丘指定。至於第二種情況──淨人已由施主指定──它認為可以做出任意次數的提示而不構成犯戒。如果沒有提供物品，可以找另一位居士來處理這個議題（儘管應該小心地向這位居士表達自己的請求，以免違反禁止接受金錢或交易的戒條）。如果沒有提供物品，則沒有義務通知原始施主。儘管《聖典》中沒有任何內容與這些觀點相矛盾，但也沒有任何內容可以證實它們。簡單的建議禮節是，不要過度騷擾淨人，如果沒有提供物品，應該通知施主，以便讓施主決定應該做什麼（如果有的話）。因此，即使在這種情況下，使用《四大教示》來適用本戒條也是有意義的。
 
    * - As for the third case, in which the steward is not indicated either by the donor or by a bhikkhu, the Commentary says that, as far as that fund is concerned, the steward should be treated as a person who is not related and has not made an invitation to ask. In other words, one may not make any requests of the steward at all unless he/she happens to invite one to make a request. The Commentary gives no reasons for these positions, and they are hard to infer. In the first of the two instances under this sub-category—the volunteer temporary steward—the Commentary depicts the steward as volunteering in the presence of both the bhikkhu and the donor, and this would seem to place the steward under some obligation to both. Thus the bhikkhu would seem to have the right to make a reasonable number of promptings; and the donor, the right to know if the article is not forthcoming.
 
-     - 至於第三種情況，即施主或比丘均未指明服務者的情況，《義註》指出，就該資金而言，服務者應被視為無親屬關係且與尚未發出詢問邀請的人。換句話說，除非服務者碰巧邀請提出請求，否則根本不能向服務者提出任何要求。《義註》沒有給出這些立場的理由，很難推論。在這個子類別下的兩個例子中的第一個——志願臨時服務者——《義註》中將服務者描述為同時在比丘和施主面前做志願者，這似乎使服務者對雙方都負有某種義務。因此，比丘似乎有權做出合理次數的提示；而施主，則有權知道該物品是否被提供。
+     - 至於第三種情況，即施主或比丘均未指明淨人的情況，《義註》指出，就該資金而言，淨人應被視為無親屬關係且與尚未發出詢問邀請的人。換句話說，除非淨人碰巧邀請提出請求，否則根本不能向淨人提出任何要求。《義註》沒有給出這些立場的理由，很難推論。在這個子類別下的兩個例子中的第一個——志願臨時淨人——《義註》中將淨人描述為同時在比丘和施主面前做志願者，這似乎使淨人對雙方都負有某種義務。因此，比丘似乎有權做出合理次數的提示；而施主，則有權知道該物品是否被提供。
 
    * - As for the second of the two instances—the donor gives the gift to the bhikkhu’s normal steward but does not inform the bhikkhu or have him informed—the steward can either inform the bhikkhu or not. If he/she chooses to inform the bhikkhu, then according to the Commentary the bhikkhu would have the right to make any number of promptings, as the steward now counts as having given an invitation. Thus the steward would not be protected by the protocol under this rule, which doesn’t seem proper. If, however, the steward chooses not to inform the bhikkhu, there are two further possibilities: Either the bhikkhu never learns of the arrangement, in which case the issue is moot; or else he learns through a third party, in which case the bhikkhu would seem to have the right to ask the steward if the third party’s report is true. If the steward lies and says No, then that’s the steward’s kamma. If the steward truthfully reports Yes, then it would seem reasonable to apply the protocol under this rule.
 
-     - 至於這兩種情況中的第二種情況──施主將布施給比丘的正常服務者，但沒有通知比丘或讓他被通知──服務者可以通知比丘，也可以不通知。如果他/她選擇通知比丘，那麼根據《義註》，比丘將有權做出任意次數的提示，因為服務者現在被視為已發出邀請。因此，根據本戒條，服務者將不受行儀的保護，這似乎不合適。然而，如果服務者選擇不通知比丘，則還有兩種可能性：要麽比丘永遠不知道這一安排，在這種情況下，這議題就沒有意義了；否則，他透過第三者得知，在這種情況下，比丘似乎有權詢問服務者第三者的報告是否屬實。如果服務者撒謊並說「否」，那麼這就是服務者的業力。如果服務者如實報告「是」，那麼適用本戒條下的行儀似乎是合理的。
+     - 至於這兩種情況中的第二種情況──施主將布施給比丘的正常淨人，但沒有通知比丘或讓他被通知──淨人可以通知比丘，也可以不通知。如果他/她選擇通知比丘，那麼根據《義註》，比丘將有權做出任意次數的提示，因為淨人現在被視為已發出邀請。因此，根據本戒條，淨人將不受行儀的保護，這似乎不合適。然而，如果淨人選擇不通知比丘，則還有兩種可能性：要麽比丘永遠不知道這一安排，在這種情況下，這議題就沒有意義了；否則，他透過第三者得知，在這種情況下，比丘似乎有權詢問淨人第三者的報告是否屬實。如果淨人撒謊並說「否」，那麼這就是淨人的業力。如果淨人如實報告「是」，那麼適用本戒條下的行儀似乎是合理的。
 
    * - Thus, given these considerations, there would seem to be little reason to limit the protocols under this rule to cases where the steward is indicated by the bhikkhu, and stronger reason, using the Great Standards, to apply the protocols to all three cases: where the steward is indicated by the bhikkhu, by the donor, or by neither.
 
-     - 因此，鑑於這些考慮，似乎沒有什麼理由將本戒條下的行儀限制於比丘指定服務者的情況，並且更有理由使用《四大教示》將行儀適用於所有三種情況：服務者由比丘、施主指定，或兩者都沒有指定。
+     - 因此，鑑於這些考慮，似乎沒有什麼理由將本戒條下的行儀限制於比丘指定淨人的情況，並且更有理由使用《四大教示》將行儀適用於所有三種情況：淨人由比丘、施主指定，或兩者都沒有指定。
 
    * - As we will note under `NP 18`_, a bank can serve as a steward for a bhikkhu. However, because of the protocols surrounding a bhikkhu’s relationship to his steward, he may not sign a check—which is an order to pay money to the order of the payee—even if the check draws on an account set up in his name. Nor may he present the bank with a withdrawal statement to remove money from the account.
 
-     - 正如我們將在\ `《捨墮》一八`_\中指出的，銀行可以充當比丘的服務者。然而，由於比丘與服務者關係的行儀，即使支票是從以他的名義開設的帳戶中提取的，他不能簽署支票（這是按照收款人的指示付款的命令）。他也不得向銀行提供提款聲明以從帳戶中提取資金。
+     - 正如我們將在\ `《捨墮》一八`_\中指出的，銀行可以充當比丘的淨人。然而，由於比丘與淨人關係的行儀，即使支票是從以他的名義開設的帳戶中提取的，他不能簽署支票（這是按照收款人的指示付款的命令）。他也不得向銀行提供提款聲明以從帳戶中提取資金。
 
 
 .. list-table::
@@ -325,7 +328,7 @@
 
    * - 1\) *Object:* a fund for the purchase of robe-cloth left with a steward. As noted above, the Commentary extends this factor to cover any fund set aside for one’s own requisites.
 
-     - 1）\ *對象：*\留給服務者購買衣的資金。如上所述，《義註》將這一因素擴展到涵蓋為自己的必需品預留的任何資金。
+     - 1）\ *對象：*\留給淨人購買衣的資金。如上所述，《義註》將這一因素擴展到涵蓋為自己的必需品預留的任何資金。
 
    * - 2\) *Effort:* One makes an excessive number of promptings.
      - 2）\ *努力：*\做出過度的提示。
@@ -354,7 +357,7 @@
 
    * - The Commentary includes a long discussion of how this rule applies to funds other than those intended for an individual bhikkhu’s requisites, such as funds for Community or group requisites, building funds, etc. (book-printing funds would come under here). Some have suggested that because this rule applies only to funds for one’s own use, the Commentary has erred in discussing other funds in this context, and that they should instead be discussed under `Pc 84`_, the rule dealing with valuables that lay people have left behind in the monastery. However, because the Canon does not discuss such funds at all, they must be treated under the Great Standards, which means that they must be treated in line with the rule(s) that cover situations bearing the greatest similarity to them. The protocols under `Pc 84`_ deal with the issue of how to return lost articles safely to an owner who did not intend them as a gift and still claims ownership of them; the protocols here deal with how to get the money to a steward and how to get the steward to provide what is needed with the money. Because these latter issues are the ones most relevant to the proper management of these other funds, there seems every reason to agree with the Commentary’s discussing them under this rule.
 
-     - 《義註》中對本戒條如何適用於除用於個別比丘必需品的資金之外的其他資金進行了長篇討論，例如僧團或團體必需品的資金、建築資金等（書籍印刷資金將歸入此處）。有些人建議，由於本戒條僅適用於自用資金，因此《義註》在這種脈絡下討論其他資金是錯誤的，而應該在\ `《波逸提》八四`_\ 下討論它們，該戒條涉及居士留下的貴重物品在寺院裡。然而，由於《聖典》根本沒討論此類基金，因此必須根據《四大教示》來處理它們，這意味著必須按照涵蓋與它們最相似的情況的戒條來處理它們。\ `《波逸提》八四`_\ 下的行儀處理如何將遺失的物品安全歸還給不打算將其作為贈禮且仍聲稱擁有這些物品的所有者的議題；這裡的行儀涉及如何將錢交給服務者以及如何讓服務者用錢提供所需的東西。因為後面這些議題與這些其他資金的妥善管理最相關，所以似乎有充分的理由同意《義註》在本戒條下對它們進行討論。
+     - 《義註》中對本戒條如何適用於除用於個別比丘必需品的資金之外的其他資金進行了長篇討論，例如僧團或團體必需品的資金、建築資金等（書籍印刷資金將歸入此處）。有些人建議，由於本戒條僅適用於自用資金，因此《義註》在這種脈絡下討論其他資金是錯誤的，而應該在\ `《波逸提》八四`_\ 下討論它們，該戒條涉及居士留下的貴重物品在寺院裡。然而，由於《聖典》根本沒討論此類基金，因此必須根據《四大教示》來處理它們，這意味著必須按照涵蓋與它們最相似的情況的戒條來處理它們。\ `《波逸提》八四`_\ 下的行儀處理如何將遺失的物品安全歸還給不打算將其作為贈禮且仍聲稱擁有這些物品的所有者的議題；這裡的行儀涉及如何將錢交給淨人以及如何讓淨人用錢提供所需的東西。因為後面這些議題與這些其他資金的妥善管理最相關，所以似乎有充分的理由同意《義註》在本戒條下對它們進行討論。
 
    * - A few of the more relevant cases in the Commentary’s discussion:
      - 《義註》討論中一些更相關的案例：
@@ -368,7 +371,7 @@
 
    * - If, however, the donor says, “The money will be with your steward” or “with my people” or “with me: All you need to do is make use of the four requisites,” then there is no offense in accepting and making use of this arrangement. The etiquette to follow in obtaining requisites depends on who the money is left with: If the bhikkhus’ steward, follow the protocol under this rule; if the donor’s workers, one may make any number of promptings; if the donor, follow the guidelines under `Pc 47`_. (In the first two cases here, the Commentary is following its decision, discussed above, that the protocols to be followed with the donor’s workers are different from those to be followed with one’s own steward. In light of our above discussion, however, both cases would come under the protocols stipulated by this rule.)
 
-     - 然而，如果施主說：「這筆錢將在你的服務者那裡」或「在我的人那裡」或「在我那裡：你所需要做的就是利用這四種必需品」，那麼接受並利用此安排並沒有犯戒之處。取得必需品時所遵循的規範取決於錢留給誰：如果是比丘的服務者，則遵循本戒條下的行儀；如果是施主的員工，可以做出任意次數的提示；如果是施主，遵循\ `《波逸提》四七`_\下的準則。（在這裡的前兩個情形中，《義註》遵循上面討論的決定，即施主的員工應遵循的行儀與自己的服務者應遵循的行儀不同。然而，根據我們上面的討論，兩種情況將受到本戒條規定的行儀的管轄。）
+     - 然而，如果施主說：「這筆錢將在你的淨人那裡」或「在我的人那裡」或「在我那裡：你所需要做的就是利用這四種必需品」，那麼接受並利用此安排並沒有犯戒之處。取得必需品時所遵循的規範取決於錢留給誰：如果是比丘的淨人，則遵循本戒條下的行儀；如果是施主的員工，可以做出任意次數的提示；如果是施主，遵循\ `《波逸提》四七`_\下的準則。（在這裡的前兩個情形中，《義註》遵循上面討論的決定，即施主的員工應遵循的行儀與自己的淨人應遵循的行儀不同。然而，根據我們上面的討論，兩種情況將受到本戒條規定的行儀的管轄。）
 
    * - *Non-monetary funds for Saṅgha or group requisites*
      - *僧伽或團體必需品的非貨幣資金*
@@ -391,15 +394,15 @@
 
    * - If, after setting up an allowable arrangement, the donor asks the bhikkhus to appoint a steward to look after it, they may. If not, they are to do nothing about the arrangement at all.
 
-     - 如果在允許的安排成立之後，施主要求比丘指定一名服務者來管理，他們可以。如果沒有，他們就不對該安排採取任何行動。
+     - 如果在允許的安排成立之後，施主要求比丘指定一名淨人來管理，他們可以。如果沒有，他們就不對該安排採取任何行動。
 
    * - How the proceeds from such arrangements are to be used depends on what they are: If money, and a bhikkhu tells the steward, “Use this money to buy such-and-such,” no bhikkhu may make use of what is bought with the money. If the proceeds are commodities, such as unhusked rice, and a bhikkhu tells the steward, “Use this rice to trade for such-and-such,” the bhikkhu who makes the order may not use whatever is obtained from the trade, but other bhikkhus may without incurring a penalty. If the proceeds are allowable goods, such as fruit, and a bhikkhu tells the steward, “Use this fruit to trade for such-and-such,” the Commentary says that any bhikkhu may use what is obtained from the trade.
 
-     - 如何使用這些安排的收益取決於它們是什麼：如果是錢，並且比丘告訴服務者：「用這筆錢購買某物」，則沒有比丘可以使用用錢購買的東西。如果收益是商品，例如未去殼的大米，而比丘告訴服務者：「用此大米來交易某物」，下令的比丘不得使用從交易中獲得的任何東西，但其他的比丘們則可以使用而不會受到懲罰。如果收益是允許的商品，例如水果，而比丘告訴服務者：「用這種水果來交易某物」，《義註》說任何比丘都可以使用從交易中獲得的東西。
+     - 如何使用這些安排的收益取決於它們是什麼：如果是錢，並且比丘告訴淨人：「用這筆錢購買某物」，則沒有比丘可以使用用錢購買的東西。如果收益是商品，例如未去殼的大米，而比丘告訴淨人：「用此大米來交易某物」，下令的比丘不得使用從交易中獲得的任何東西，但其他的比丘們則可以使用而不會受到懲罰。如果收益是允許的商品，例如水果，而比丘告訴淨人：「用這種水果來交易某物」，《義註》說任何比丘都可以使用從交易中獲得的東西。
 
    * - Apparently the Commentary views this arrangement as acceptable because of its interpretation that `NP 20`_ applies only to cases where the bhikkhu tells a steward to conduct a trade with the bhikkhu’s own personal resources. However, as we will note in the discussion of that rule, this interpretation seems mistaken, and the rule applies to any funds for which a bhikkhu assumes responsibility. This means that, in the context of this last arrangement, the bhikkhu who orders the steward would have to forfeit the proceeds of the trade, but all bhikkhus could use them after the forfeiture.
 
-     - 顯然，《義註》認為這種安排是可以接受的，因為它解釋說\ `《捨墮》二十`_\ 僅適用於比丘告訴服務者用比丘自己的個人資源進行交易的情況。然而，正如我們將在討論該戒條時注意到的那樣，這種解釋似乎是錯誤的，並且該戒條適用於比丘承擔責任的任何資金。這意味著，在最後安排的脈絡中，命令服務者的比丘必須捨出交易收益，但所有比丘在捨出後都可以使用它們。
+     - 顯然，《義註》認為這種安排是可以接受的，因為它解釋說\ `《捨墮》二十`_\ 僅適用於比丘告訴淨人用比丘自己的個人資源進行交易的情況。然而，正如我們將在討論該戒條時注意到的那樣，這種解釋似乎是錯誤的，並且該戒條適用於比丘承擔責任的任何資金。這意味著，在最後安排的脈絡中，命令淨人的比丘必須捨出交易收益，但所有比丘在捨出後都可以使用它們。
 
 .. _Pc 84: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
 .. _《波逸提》八四: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
@@ -422,7 +425,7 @@
 
    * - If a donor comes with money or any other unallowable gift and says, “I’m giving this to the Saṅgha for the meditation hall (or any other impersonal purpose, such as a book fund or a general building fund),” the gift may not be accepted. But if the donor says, “I am giving this to (or for) the meditation hall,” without mentioning any individual bhikkhu, group of bhikkhus, or the Saṅgha as custodians or recipients of the gift, then this arrangement is not to be refused, and the monastery steward is to be informed of what the donor said.
 
-     - 如果施主攜帶金錢或任何其他不允許的布施，並說：「我將其送給僧團，用於禪堂（或任何其他非個人目的，例如圖書資金或一般建築資金）」，該布施不可被接受。但如果施主說：「我將把這個布施給（或為了）禪堂」，而沒有提及任何個別比丘、比丘團體或僧團作為布施的保管人或接受者，那麼這種安排就不能被拒絕，並將施主所說的話告知寺院服務者。
+     - 如果施主攜帶金錢或任何其他不允許的布施，並說：「我將其送給僧團，用於禪堂（或任何其他非個人目的，例如圖書資金或一般建築資金）」，該布施不可被接受。但如果施主說：「我將把這個布施給（或為了）禪堂」，而沒有提及任何個別比丘、比丘團體或僧團作為布施的保管人或接受者，那麼這種安排就不能被拒絕，並將施主所說的話告知寺院淨人。
 
    * - In the context of `NP 18`_, this means that the bhikkhus are not to take the money directly, or to get anyone else to take it, but may consent to its being placed next to them, as it is not meant as a gift for them.
 
@@ -434,7 +437,7 @@
 
    * - After the donor has placed the money, the bhikkhus may then tell the monastery steward what the donor said, but are not to tell him/her to take the money, as this would violate `NP 18`_. They are also to follow the protocol in this rule when telling the steward of their need for building materials, wages for the workers, and other necessities that come up in the course of the building’s construction or maintenance.
 
-     - 施主放置金錢後，比丘們可以告訴寺院服務者施主所說的話，但不要告訴他/她拿走這筆錢，因為這會違反\ `《捨墮》一八`_\。當告訴服務者他們對建築材料、工人工資以及建築物建造或維護過程中出現的其他必需品的需求時，他們也應遵循本戒條中的行儀。
+     - 施主放置金錢後，比丘們可以告訴寺院淨人施主所說的話，但不要告訴他/她拿走這筆錢，因為這會違反\ `《捨墮》一八`_\。當告訴淨人他們對建築材料、工人工資以及建築物建造或維護過程中出現的其他必需品的需求時，他們也應遵循本戒條中的行儀。
 
    * - The Commentary mentions two other acceptable arrangements:
      - 《義註》中提到了另外兩種可接受的安排：
@@ -453,7 +456,7 @@
 
    * - The Commentary says that because the steward in arrangements (1) and (2) is indicated by the donor, the bhikkhus may make as many requests as they like—i.e., in the first case, telling the workers what to do; in the second case, telling the steward or donor who is to be paid—but as we noted above, there seems no reason to follow the Commentary in making this allowance.
 
-     - 《義註》說，由於安排（1）和（2）中的服務者是由施主指定的，所以比丘們可以提出任意次數的請求——即在第一種情況下，告訴工人該做什麼；在第二種情況下，告訴服務者或施主誰應該得到報酬——但正如我們上面指出的，似乎沒有理由遵循《義註》來提供這種開緣。
+     - 《義註》說，由於安排（1）和（2）中的淨人是由施主指定的，所以比丘們可以提出任意次數的請求——即在第一種情況下，告訴工人該做什麼；在第二種情況下，告訴淨人或施主誰應該得到報酬——但正如我們上面指出的，似乎沒有理由遵循《義註》來提供這種開緣。
 
    * - In addition to building funds, it would seem that any charitable fund for schools, hospitals, etc.—such as some wealthy monasteries have—would come under the category of impersonal funds, as long as the fund is not for requisites for the Saṅgha, either as a group or individually.
 
@@ -487,15 +490,15 @@
      - 若符合以下條件，則不構成犯戒：
 
    * - the steward gives the item after the bhikkhu has given the allowable number of promptings or less; or
-     - 服務者在比丘給予允許次數或更少的提示後，給予物品；或者
+     - 淨人在比丘給予允許次數或更少的提示後，給予物品；或者
 
    * - if the donors(s) give the item after they have been informed that the steward has not given the item after having been prompted the allowable number of times.
-     - 如果施主（們）在被告知服務者在經過允許的次數提示後仍未提供物品後，才提供物品。
+     - 如果施主（們）在被告知淨人在經過允許的次數提示後仍未提供物品後，才提供物品。
 
    * - Note that the Vibhaṅga’s non-offense clauses do not make an exemption for relatives or people who have invited one to ask. This means that even when the donor(s) or the steward or both are related to the bhikkhu or have given him an invitation to ask, he must follow the protocol under this rule.
 
-     - 請注意，《經分別》的不犯條款並不免除親戚或邀請詢問的人。這意味著，即使施主或服務者或兩者，與比丘有親屬關係或已邀請他詢問，他也必須遵守本戒條下的行儀。
+     - 請注意，《經分別》的不犯條款並不免除親戚或邀請詢問的人。這意味著，即使施主或淨人或兩者，與比丘有親屬關係或已邀請他詢問，他也必須遵守本戒條下的行儀。
 
    * - *Summary: When a fund for one’s individual use has been set up with a steward, obtaining an article from the fund as a result of having prompted the steward more than the allowable number of times is a nissaggiya pācittiya offense.*
 
-     - *摘要：當供個人使用的資金已與服務者一起設立時，由於提示服務者超過允許次數而從該資金獲取物品是《尼薩耆波逸提》（《捨墮》）罪。*
+     - *摘要：當供個人使用的資金已與淨人一起設立時，由於提示淨人超過允許次數而從該資金獲取物品是《尼薩耆波逸提》（《捨墮》）罪。*
