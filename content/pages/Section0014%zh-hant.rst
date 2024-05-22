@@ -51,6 +51,32 @@
 
           「諸比丘，日月有四種障蔽，日月不明亮、不光芒、不光輝。哪四種？雲……霧……煙塵……羅睺，阿修羅之王（據信是日食的原因）是遮蔽物，被它遮蔽，日月不明亮、不光芒、不光輝……。同樣地，沙門和婆羅門也有四種障蔽，有些沙門和婆羅門被這四種障蔽所遮蔽，不明亮、不光芒、不光輝。哪四種？有沙門、婆羅門……不遠離飲酒及發酵飲料……不遠離淫欲法……不遠離接受金銀……不遠離邪命……。由於這些障蔽，有些婆羅門和沙門…被黑暗所籠罩，成為貪愛的奴隸，被牽引，擴大了可怖的墳場，執取後有。」—`《增支部》4:50經`_
 
+   * - Bhikkhus, in abandoning the use of money, make real their abandonment of worldly pursuits and show others by example that the struggle for wealth is not the true way to find happiness.
+
+     - 比丘們放棄使用金錢，就真正放棄了世俗的追求，並以身作則向他人表明，為財富而奮鬥並不是尋找幸福的真正方法。
+
+   * - The factors for an offense under this rule are two: object and effort. However, because “object” is defined in one way for the first two actions stated in the rule, and in another way for the third, it seems best to analyze this rule as covering two separate but related offenses.
+
+     - 根據本戒條，犯戒的因素有兩個：對象和努力。然而，由於「對象」以一種方式定義為戒條中規定的前兩種行為，而第三種行為則以另一種方式定義，因此似乎最好將本戒條分析為涵蓋兩種獨立但相關的犯戒。
+
+   * - In the first offense the factors are:
+     - 在第一種犯戒中，因素是：
+
+   * - *1) Object:* gold or silver.
+     - *1）對象：*\金或銀。
+
+   * - *2) Effort:* One accepts or gets someone else to accept it.
+     - *2）努力：*\接受或讓別人接受它。
+
+   * - In the second offense they are:
+     - 在第二種犯戒中，他們是：
+
+   * - *1) Object:* gold or silver intended for one.
+     - *1）對象：*\供使用的金或銀。
+
+   * - *2) Effort:* One consents to its being placed down next to one.
+     - *2）努力：*\同意將其放在旁邊。
+
 .. _NP 10: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP10
 .. _《捨墮》十: {filename}Section0013%zh-hant.rst#np10
 .. _SN 42\:10: https://www.dhammatalks.org/suttas/SN/SN42_10.html
