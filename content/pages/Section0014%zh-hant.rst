@@ -84,4 +84,23 @@
 .. _AN 4\:50: https://www.dhammatalks.org/suttas/AN/AN4_50.html
 .. _《增支部》4\:50經: https://sutra.mobi/chilin/zengzhi/content/04.html#%E4%BA%94%E5%8D%81%E9%81%AE%E8%94%BD
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga defines *gold* so as to include anything made of gold. *Silver* it defines to cover coins made of silver, copper, wood, or lac, or whatever is used as a currency. The Commentary adds such examples as bones, pieces of hide, fruit, and seeds of trees used as currency, whether they have been stamped with a figure or not. At present, the term would include coins and paper currency, as well as money orders and cashiers checks not made out to a specific payee, as these meet all three requirements of a currency: (1) They are a generally accepted medium of exchange; (2) they are of standard recognized value; and (3) they are presentable by any bearer. The following items, because they do not fulfill all three of these requirements, would not count as “silver” under this rule: money orders and cashier’s checks made out to a specific payee; personal checks and travelers’ checks; credit cards and debit cards; gift cards, phone cards, frequent flyer miles; food stamps; and promissory notes.
+
+     - 《經分別》對\ *金*\的定義\ `包括所有黃金製成的東西`_。它定義的「\ *銀*\」\ `包括由銀、銅、木頭、樹膠或任何用作貨幣的物質製成的硬幣`_。《義註》添加了用作貨幣的骨頭、獸皮碎片、水果和樹種等例子，無論它們是否帶有數字印記。目前，該術語包括硬幣和紙幣，以及未開給特定收款人的匯票和銀行本票，因為它們滿足貨幣的所有三個要求：（1）它們是普遍接受的交換媒介；（2）具有標準認可價值；（3）任何持有者均可出示。以下物品，因為不符合所有這三個要求，因此根據本戒條不能算作「銀」：開給特定收款人的匯票和銀行本票；個人支票和旅行支票；信用卡和金融卡；禮品卡、電話卡、飛行常客哩程；食品券；和\ `期票（本票）`_\。
+
+   * - Because the word *silver* here functionally means “money,” that is how I will translate it for the remainder of the discussion of this rule.
+     - 因為這裡的“銀”這個詞在功能上意味著“金錢”，所以我將在本戒條的其餘討論中對其進行翻譯。
+
+.. _包括所有黃金製成的東西: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0337a06
+.. _包括由銀、銅、木頭、樹膠或任何用作貨幣的物質製成的硬幣: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0337a07
+.. _期票（本票）: https://zh.wikipedia.org/wiki/%E6%9C%AC%E7%A5%A8
+
 (未完待續)
