@@ -99,6 +99,22 @@
    * - Because the word *silver* here functionally means “money,” that is how I will translate it for the remainder of the discussion of this rule.
      - 因為這裡的“銀”這個詞在功能上意味著“金錢”，所以我將在本戒條的其餘討論中對其進行翻譯。
 
+   * - The Vibhaṅga indicates that perception is not a mitigating factor in either offense. Thus if a bhikkhu receives gold or money, even if he perceives it as something else—as when accepting a closed envelope not knowing that it contains money, or consenting to a bolt of cloth’s being placed near him, unaware that money has been placed inside it—he commits the full offense all the same. The same holds true if he is in doubt about what the envelope or bolt of cloth contains. This may seem a harsh penalty for a bhikkhu acting in complete innocence, but we must remember that, having received the money even unknowingly, he is now in possession of it and must dispose of it in a proper way. The protocols under this rule give directions for precisely how to do that.
+
+     - 《經分別》指出，感知並不是這兩種犯戒的減輕因素。因此，如果比丘收到黃金或金錢，即使他將其視為其他東西，例如當他接受一個封閉的信封時，並不知道裡面裝有金錢，或者同意將一塊布匹放在他附近，但不知道裡面已經放入金錢了，他仍然完全違犯此戒。如果他對信封或布匹的內容有疑問，這同樣成立。對於一個完全無辜的比丘來說，這似乎是一個嚴厲的懲罰，但我們必須記住，即使在不知情的情況下收到了這筆錢，他現在也擁有了這筆錢，並且必須以適當的方式處置它。本戒條下的行儀給出了具體如何做到這一點的指示。
+
+   * - If a bhikkhu accepts or consents to the placing of something that is not gold or money and yet he perceives it to be gold or money or is in doubt about its status, he incurs a dukkaṭa.
+
+     - 如果比丘接受或同意放置非黃金或金錢的東西，但他認為它是黃金或金錢或對其狀態有疑問，他就會犯《突吉羅》。
+
+   * - Gold Buddha images and gold items given to Buddha images, relics, or stūpas are not mentioned in the texts in connection with this rule. Over the centuries the common practice has been not to regard them as fulfilling the factor of object here, probably because Buddha images, stūpas, and relics, strictly speaking, cannot be owned by anyone. Similarly with items given to a Buddha image, etc.: Technically, these belong to the image, etc., and not to the monastery in which it may be located. Thus, as long as a bhikkhu realizes that he cannot assume ownership of any of these things, he may handle them without incurring an offense under this rule.
+
+     - 文獻中沒有提到與此戒條相關的金佛像和供養佛像、舍利或塔的黃金物品。幾個世紀以來，普遍的做法是不認為它們滿足了這裡的對象因素，可能是因為嚴格來說，佛像、佛塔和舍利不能為任何人所擁有。與給予佛像等的物品類似：從技術上講，這些物品屬於佛像等，而不屬於它所在的寺院。因此，只要比丘意識到他不能擁有這些物品中的任何一件，他就可以處理它們，而不會觸犯本戒條。
+
+   * - As mentioned under `NP 10`_, the Commentary derives from the Canon a list of items that it says carry a dukkaṭa when accepted by a bhikkhu. These include pearls and precious stones; uncooked grain and raw meat; women and girls, male and female slaves; goats and sheep, fowl and pigs, elephants, cattle, steeds, and mares; fields and property. For convenience’s sake, we will refer to these items from here on as dukkaṭa objects *(dukkaṭa-vatthu)*, or D.O. for short.
+
+     - 正如\ `《捨墮》十`_\中所提到的，《義註》源自《聖典》的一份物品列表，它說當比丘接受時會犯《突吉羅》。其中包括珍珠和寶石；未煮熟的穀物和生肉；女人和女孩、男性和女性奴隸；山羊和綿羊、家禽和豬、大象、牛、馬和母馬；土地和財產。為了方便起見，我們從這裡開始將這些物品稱為《突吉羅》物件\ *(dukkaṭa-vatthu)*\，或縮寫成 D.O. 。
+
 .. _包括所有黃金製成的東西: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0337a06
 .. _包括由銀、銅、木頭、樹膠或任何用作貨幣的物質製成的硬幣: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0337a07
 .. _期票（本票）: https://zh.wikipedia.org/wiki/%E6%9C%AC%E7%A5%A8
