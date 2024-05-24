@@ -119,4 +119,27 @@
 .. _包括由銀、銅、木頭、樹膠或任何用作貨幣的物質製成的硬幣: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0337a07
 .. _期票（本票）: https://zh.wikipedia.org/wiki/%E6%9C%AC%E7%A5%A8
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - This factor may be fulfilled by any of three actions: accepting gold or money, having it accepted, or consenting to its being deposited. As noted above, the factors of the offense differ among the three: In the first two, the question of whether the bhikkhu consents to the gold or money does not enter into the definition of the act, nor does the donor’s intention as to who the gold or money is for. Only in the third act is the bhikkhu’s consent required to fulfill the action, and only there is it required that the donor intend the gold or money for the bhikkhu himself.
+
+     - 這個因素可以透過以下三種行為中的任何一種來實現：接受黃金或金錢、讓其被接受，或同意將其存放。如上所述，這三種犯戒的因素有所不同：在前兩種情況下，比丘是否同意黃金或金錢的問題不屬於該行為的定義，布施者對於黃金或金錢是給誰的意圖也不屬於。只有在第三種行為中，才需要比丘同意才能完成該行動，並且只有在布施者打算將黃金或金錢送給比丘本人時才需要。
+
+   * - *1) Accepting*
+     - *1) 接受*
+
+   * - According to the K/Commentary, this includes receiving gold or money offered as a gift or picking up gold or money left lying around ownerless. (As the non-offense clauses show, this factor does not cover cases where one picks up money left lying around the monastery or a house where one is visiting if one’s purpose is to keep it in safekeeping for the owner. See `Pc 84`_.) According to the Commentary, a bhikkhu who accepts money wrapped up in a bolt of cloth would also commit an offense here, which shows that this act includes receiving or taking the money not only with one’s body, but also with items connected with the body. Thus accepting money in an envelope or having it placed in one’s shoulder bag as it hangs from one’s shoulder would fulfill this factor as well.
+
+     - 根據 K/《義註》，這包括接收作為布施提供的黃金或金錢，或拾取無主的黃金或金錢。（如不犯條款所示，此因素不包括以下情況：如果目的是為所有者妥善保管，撿起留在寺院或正在參觀的房屋周圍的錢的情況。參閱\ `《波逸提》八四`_\。）根據《義註》，比丘接受用布包裹的金錢也犯了本戒，這表明此行為不僅包括用自己的身體接受或拿走金錢，還包括用與身體相連的物品。因此，接受裝在信封裡的錢或把它放在掛在肩上的肩包裡也可以滿足此因素。
+
+.. _Pc 84: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
+.. _《波逸提》八四: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
+.. TODO FIXME: replace link to 《波逸提》八四
+
 (未完待續)
