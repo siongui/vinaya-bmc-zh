@@ -138,8 +138,38 @@
 
      - 根據 K/《義註》，這包括接收作為布施提供的黃金或金錢，或拾取無主的黃金或金錢。（如不犯條款所示，此因素不包括以下情況：如果目的是為所有者妥善保管，撿起留在寺院或正在參觀的房屋周圍的錢的情況。參閱\ `《波逸提》八四`_\。）根據《義註》，比丘接受用布包裹的金錢也犯了本戒，這表明此行為不僅包括用自己的身體接受或拿走金錢，還包括用與身體相連的物品。因此，接受裝在信封裡的錢或把它放在掛在肩上的肩包裡也可以滿足此因素。
 
+   * - The K/Commentary adds the stipulation that in the taking there must be some movement of the gold or money from one place to another. It offers no explanation for this point, but it may refer to cases where the gold or money is forced on a bhikkhu. (Because the presence or absence of the bhikkhu’s consent does not enter into the definition of the act of accepting, this means that when gold or money is forced on him, the act has been accomplished.) A typical example where this stipulation is useful is when a bhikkhu is on alms round and a lay donor, against the bhikkhu’s protestations, places money in his bowl. The stipulation allows the bhikkhu simply to stand there until he gets the donor or someone else to remove the money, and he would be absolved of an offense under this rule.
+
+     - K/《義註》增加了這樣的規定：在取得過程中，黃金或金錢必須有從一處到另一處的某種移動。它沒有對這一點作出解釋，但它可能指的是黃金或金錢被強加給比丘的情況。（因為比丘的同意與否並不屬於接受行為的定義，這意味著當黃金或金錢被強加給他時，該行為就已經完成了。）這一規定有用的典型例子是當一位比丘托缽時，一位在家人不顧比丘的抗議，將錢放入他的缽中。該規定允許比丘簡單地站在那裡，直到他讓施主或其他人取走錢，根據本戒條，他將被免除犯戒。
+
+   * - The commentaries add intention as an extra factor—the full offense is entailed only if the bhikkhu is taking the gold or money for his own sake—but there is no basis for this in the Vibhaṅga. The bhikkhu’s intention in accepting the money does not enter into the Vibhaṅga’s discussions of any of the three actions covered by this rule, the donor’s intent does not enter into the Vibhaṅga’s definition of this action, and the non-offense clauses do not allow for a bhikkhu to accept money for others, so the added factor seems unwarranted. Whether the bhikkhu accepts gold or money for himself or for others is thus not an issue here.
+
+     - 註釋書中加入了意圖作為一個額外的因素——只有當比丘為了自己的利益而獲取黃金或金錢時，才構成完全的犯戒——但在《經分別》中沒有這方面的依據。比丘接受金錢的意圖不屬於《經分別》對本戒條所涵蓋的三種行為中任何一種的討論，布施者的意圖不屬於《經分別》對此行為的定義，並且不犯條款不允許比丘為他人接受金錢，所以增加的因素似乎沒有根據。因此，比丘是否為自己或他人接受黃金或金錢在這裡並不是問題。
+
 .. _Pc 84: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
 .. _《波逸提》八四: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
 .. TODO FIXME: replace link to 《波逸提》八四
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *2) Having gold or money accepted*
+     - *2) 讓黃金或金錢被接受*
+
+   * - Having gold or money accepted, according to the K/Commentary, includes getting someone else to do any of the actions covered under accepting, as described above. Examples from the commentaries, which draw on the protocols under `NP 10`_, include such things as telling the donor to give the money to a steward, telling the donor that so-and-so will take the money for him; telling the steward to take the money, to put it in a donation box, to “do what he thinks appropriate,” or any similar command.
+
+     - 根據 K/《義註》，接受黃金或金錢包括讓其他人執行接受所涵蓋的任何行動，如上所述。註釋書中的例子借鑒了\ `《捨墮》十`_\下的行儀，包括告訴布施者將錢交給\ `淨人`_\、告訴布施者某某會替他拿走這筆錢；告訴淨人拿走錢，將其放入捐款箱（功德箱），「做他認為合適的事情」，或任何類似的命令。
+
+   * - Anything that falls short of a command, though, would not fulfill this factor, as we have already seen under `NP 10`_. Thus simply telling the donor that X is the bhikkhus’ steward—or that the monastery’s stewards have placed a donation box in such-and-such a place—would not be a factor for an offense here. Also, if the donor—over the bhikkhu’s protestations—leaves money, say, on a table as a gift for a bhikkhu, then if the bhikkhu tells his steward what the donor did and said, without telling the steward to do anything with the money—letting the steward figure things out on his/her own—this too would not entail a penalty. The Commentary’s discussion of stewards under the next point shows that while a bhikkhu who tells a volunteer steward to put such a donation in a donation box would incur a penalty, a bhikkhu who simply points out the donation box would not.
+
+     - 然而，任何不符合命令的事情都不會滿足這個因素，正如我們在\ `《捨墮》十`_\中已經看到的那樣。因此，僅僅告訴施主 X 是比丘的淨人──或是寺院的淨人在某處放置了一個捐款箱（功德箱）──在這裡並不會構成犯戒的因素。另外，如果施主不顧比丘的抗議，比如說，將錢留在桌上作為給比丘的布施，那麼如果比丘告訴他的淨人，施主做了什麼和說過什麼，但沒有告訴淨人如何處理這筆錢——讓淨人自己解決問題——這也不會帶來懲罰。《義註》在下一點中對淨人的討論表明，雖然比丘告訴志願者淨人將此類捐款放入捐款箱（功德箱）會受到處罰，但比丘只是指出捐款箱（功德箱）則不會受到處罰。
+
+   * - As with the act of accepting, the questions of the bhikkhu’s consent, his intent in accepting, and the donor’s intent in giving do not enter into the definition of this action.
+
+     - 與接受行為一樣，比丘的同意、接受的意圖以及布施者布施的意圖等問題不屬於該行為的定義。
+
+.. _淨人: https://zh.wikipedia.org/wiki/%E6%B7%A8%E4%BA%BA
 
 (未完待續)
