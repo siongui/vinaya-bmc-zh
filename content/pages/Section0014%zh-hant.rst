@@ -172,4 +172,34 @@
 
 .. _淨人: https://zh.wikipedia.org/wiki/%E6%B7%A8%E4%BA%BA
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *3) Consenting to gold or money’s being deposited*
+     - *3) 同意存放黃金或金錢*
+
+   * - The Vibhaṅga defines this action as follows: “He (the donor), saying, ‘This is for the master,’ deposits it, and the bhikkhu consents (§).” According to the K/Commentary, depositing covers two sorts of situations:
+
+     - `《經分別》對此行為的定義如下`_\：「他（布施者）說：『這是給大師的』，將其存入，比丘同意（§）。」根據 K/《義註》，存放分為兩種情況：
+
+   * - 1\) The donor places gold or money anywhere in the bhikkhu’s presence, and says, “This is for the master,” or
+
+     - 1\) 布施者將黃金或金錢放在比丘面前的任何地方，並說：「這是給大師的」，或
+
+   * - 2\) The donor tells him, “I have some gold or money deposited in such-and-such a location. It’s yours.” (One of the implications of this second case is that any monastery with a donation box should make clear that money left in the box is being placed with the steward. Because `NP 10`_ allows a donor to place gold or money intended for a bhikkhu’s needs with a steward, the act of placing money with such a person in a bhikkhu’s presence does not count as “depositing” here.)
+
+     - 2\) 布施者告訴他：「我在某處存放了一些黃金或金錢。是你的。」（此第二個案例的含義之一是，任何設有捐款箱（功德箱）的寺院都應明確表示，箱中的錢存放在淨人那裡。因為\ `《捨墮》十`_\允許布施者將用於比丘需要的黃金或金錢存放在淨人處，當比丘在場的情況下向這樣的人放置金錢的行為在此不算作「存放」。
+
+   * - *Consenting* in either of these cases, says the Commentary, means that one does not refuse either in thought, word, or deed. Refusing in thought means thinking, “This is not proper for me.” Refusing in word means telling the donor that such a gift is not allowable. Refusing in deed means making a gesture to the same effect. If one refuses in any of these ways—e.g., one wants to accept the gold or money, but tells the donor that it is not allowable; or one says nothing, but simply reminds oneself that such gifts are not proper to accept—one avoids the penalty here.
+
+     - 《義註》說，在這兩種情況下，\ *同意*\意味著一個人在思想、言語或行為（身口意）上都沒有拒絕。思想（意）上的拒絕意味著想：「這不適合我。」口頭（口）拒絕是指告訴布施者這樣的布施是不被允許的。行為（身）拒絕意味著做出同樣效果的示意動作。如果以任何一種方式拒絕——例如，想接受黃金或金錢，但告訴布施者這是不允許的；或是甚麼也沒說，只是提醒自己這樣的布施不適合接受──這樣就可以避免受到懲罰。
+
+   * - The question of whether it is best to express one’s refusal outwardly lies beyond the scope of the Vinaya and often depends on the situation. Ideally, one should inform the donor so that he/she will know enough not to present such gifts in the future, but there are cases where the donor is still new to the idea of rules and will simply be offended if the bhikkhu objects to what he/she means as a well-intentioned gesture. This is thus a matter where a bhikkhu should use his discretion.
+
+     - 是否最好從外表上表達拒絕的問題超出了戒律的範圍，而且往往取決於具體情況。理想情況下，應該告知布施者，以便他/她知道將來不要做此類布施，但在某些情況下，布施者對戒條的概念仍然很陌生，如果比丘反對他/她所表達的善意行動，布施者只會感到被冒犯。因此，這是比丘應該運用自己的判斷力的問題。
+
+.. _《經分別》對此行為的定義如下: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0337a09
+
 (未完待續)
