@@ -16,7 +16,7 @@
 
        .. TODO: on just what the rules do and do not entail 翻譯？
 
-     - 本冊是兩冊書中的第一冊，試圖對戒律學處以及圍繞這些戒條形成的傳統進行有條理、詳細的描述。《經分別》中所解釋的《波羅提木叉》學處是第一冊的主題；第二冊主題的是《犍度》中的戒條。整本書主要針對那些生活受到戒律影響的人——遵守戒律的比丘，以及其他與比丘打交道的人——以便他們能夠在一個地方找到盡可能多的必要訊息，關於戒條涉及什麼和不涉及什麼。研究早期佛教、上座部歷史或當代上座部議題的學生也應該會發現這本書很有趣，任何認真修行佛法，並想了解佛陀如何闡述在日常生活中佛法修行果報的人也會如此發現。
+     - 本冊是兩冊書中的第一冊，試圖對戒律學處以及圍繞這些戒條形成的傳統進行有條理、詳細的描述。《經分別》中所解釋的《波羅提木叉》學處是第一冊的主題；第二冊主題的是《犍度》中的戒條。整本書主要針對那些生活受到戒律影響的人——遵守戒律的比丘，以及其他與比丘打交道的人——以便他們能夠在一個地方找到盡可能多的必要訊息，關於戒條涉及什麼和不涉及什麼。研究早期佛教、上座部歷史或當代上座部議題的學生也會發現這本書很有趣，任何認真修行佛法，並想了解佛陀如何闡述在日常生活中佛法修行果報的人也會如此發現。
 
    * - The amount of information offered here is both the book’s strength and its weakness. On the one hand, it encompasses material that in some cases is otherwise unavailable in English or even in romanized Pali, and should be sufficient to serve as a life-long companion to any bhikkhu who seriously wants to benefit from the precise and thorough training the rules have to offer. On the other hand, the sheer size of the book and the mass of details to be remembered might prove daunting or discouraging to anyone just embarking on the bhikkhu’s life.
 
