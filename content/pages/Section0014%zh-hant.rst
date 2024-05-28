@@ -232,4 +232,36 @@
 .. _二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. TODO FIXME: replace link to 《捨墮》二十
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Forfeiture & confession**
+     - **捨出 & 懺罪**
+
+   * - A bhikkhu who commits either offense under this rule must forfeit the gold or money in the midst of a formal meeting of the Community before confessing the offense. The formulae and procedures for forfeiture and confession are given in `Appendix VI`_. This is one of the few NP rules where the offender may not forfeit the item in question to an individual bhikkhu or to a group of less than four. Once he has forfeited the gold or money and confessed his offense, the Community may not return it to him, as there is no way a bhikkhu is allowed to possess these things.
+
+     - 犯下本戒條的比丘必須在懺罪之前在僧團的正式會議中捨出黃金或金錢。捨出和懺罪的公式和程序請見\ `附錄六`_\。這是為數不多的《捨墮》戒條之一，犯戒者不得將相關物品捨出給單一比丘或少於四人的團體。一旦他捨出了黃金或金錢並懺悔了自己的罪行，僧團不得將其歸還給他，因為比丘不能擁有這些東西。
+
+   * - If a lay person comes along after the gold or money has been forfeited, the bhikkhus may tell him, “Look at this.” If he asks, “What should be bought with this?”, the bhikkhus are not to tell him to buy anything (as that would violate `NP 20`_), although they may tell him what in general is allowable for bhikkhus, such as the five tonics, as under `NP 23`_, below. If he takes the gold or money and purchases any proper items, all the bhikkhus except the one who originally accepted the gold or money may make use of them. If the lay person does not volunteer to buy anything with the gold or money, the bhikkhus should tell him to get rid of it.
+
+     - 如果在黃金或金錢被捨出後，有居士出現，比丘們可以告訴他：「看看這個。」如果他問：「應該用這個買什麼？」，比丘們不要告訴他買任何東西（因為這會違反\ `《捨墮》二十`_\），儘管他們可以告訴他一般來說對比丘們而言什麼是允許的，例如五種補品（譯註：七日藥），如\ `《捨墮》二三`_\所示。如果他拿走黃金或金錢並且購買任何適當的物品，除最初接受黃金或金錢的比丘外，所有比丘都可以使用它們。如果居士不自願用黃金或金錢購買任何東西，比丘們應該告訴他要把它摒棄掉。
+
+   * - If he does not get rid of it, they are to choose one of the bhikkhus present as the “money-disposer,” by means of the transaction statement—a motion and one proclamation *(ñatti-dutiya-kamma)*\—given in `Appendix VI`_. The money-disposer must be free of the four forms of bias—based on desire, aversion, delusion, or fear—and must know when money is properly disposed of and when it is not. His duty is to throw the money away without taking note of where it falls. If he does take note, he incurs a dukkaṭa. The Commentary recommends that, “Closing his eyes, he should throw it into a river, over a cliff, or into a jungle thicket without paying attention to where it falls, disinterested as if it were a bodily secretion *(gūthaka)*.”
+
+     - 如果他不摒棄它，他們將通過在\ `附錄六`_\中的羯磨聲明——一項動議和一份公告[譯註：一白與一羯磨]\ *（ñatti-dutiya-kamma [譯註：白二羯磨]）*\——選擇在場的比丘之一作為「金錢處置者」。金錢處置者必須免於四種形式的偏見——基於欲望、嗔恨、愚癡、或恐懼——並且必須知道何時金錢被正確地處置，何時不正確。他的職責就是把錢丟掉，而不注意它落到哪裡。如果他確實注意到了，他犯《突吉羅》。《義註》建議：「閉上眼睛，將其扔進河裡、懸崖上或叢林中，而不注意它落到哪裡，漠不關心，就好像它是身體的分泌物\ *（gūthaka）*\一樣。」
+
+   * - None of the texts mention what a bhikkhu is to do with dukkaṭa objects he has received, but as we shall see under the following rule, the Commentary would seem to suggest that he return them to their donors.
+
+     - 沒有任何文字提到比丘如何處理他收到的《突吉羅》物件，但正如我們將在以下戒條中看到的，《義註》似乎建議他將這些物品歸還給施主。
+
+.. _Appendix VI: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVI
+.. _附錄六: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVI
+.. TODO FIXME: replace link to 附錄六
+.. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
+.. _NP 23: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
+.. _《捨墮》二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
+.. _《捨墮》二三: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
+
 (未完待續)
