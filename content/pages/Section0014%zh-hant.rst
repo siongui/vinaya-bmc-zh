@@ -262,6 +262,49 @@
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _NP 23: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
 .. _《捨墮》二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
+.. TODO FIXME: replace link to 《捨墮》二十
 .. _《捨墮》二三: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
+.. TODO FIXME: replace link to 《捨墮》二三
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - As mentioned above, there is no offense for the bhikkhu who, finding gold or money lying around the monastery or in a house he is visiting, puts it away in safe keeping for the owner. This point is discussed in detail under `Pc 84`_.
+
+     - 如上所述，比丘在寺院周圍或他所拜訪的房屋中發現黃金或金錢，為其所有者將其妥善保管，這並沒有犯戒。這一點在\ `《波逸提》八四`_\中有詳細討論。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Checks**
+     - **支票**
+
+   * - There is some controversy over the status of checks under this rule. In legal terms, a check is a notice to a bank to provide funds for the payee. Because banks are corporate individuals and not “places,” a check made out to a bhikkhu is thus equivalent to a notice from a donor to a steward to provide funds on the bhikkhu’s behalf. Because the funds in question do not change ownership until the recipient cashes the check, this strengthens the similarity to funds placed with a steward: The funds still belong to the donor until they are used, and the steward is responsible if they become lost in the meantime. Thus the simple act of receiving a check counts not as an act of receiving money but as an acknowledgement of the notice. In passing the notice to someone else, one is simply informing them of the donor’s arrangement. Only if a bhikkhu cashes a check or gives an order to someone else to do so does he commit an offense under this rule.
+
+     - 對於本戒條下的支票的地位存在一些爭議。從法律角度來說，支票是銀行向收款人提供資金的通知。因為銀行是法人個體而非「場所」，所以開給比丘的支票相當於布施者向淨人發出的代替比丘提供資金的通知。由於相關資金在收款人兌現支票之前不會改變所有權，因此這增強了存放與淨人的資金的相似性：資金在使用之前仍屬於布施者，如果資金在使用過程中丟失，則淨人負責。因此，僅接收支票的行為不算是接收金錢的行為，而是對通知的確認。將通知傳遞給其他人時，只是告知他們布施者的安排。只有當比丘兌現支票或命令其他人這樣做時，他才犯下本戒條。
+
+   * - A bhikkhu who uses a check as a means of barter commits an offense under `NP 20`_. The most he is allowed to do when receiving a check is to hand it over to his steward—being careful not to say anything that would violate the etiquette of *kappiya vohāra* (“wording things right”) under this rule or `NP 10`_, 19_, & 20_\—and to let the steward make whatever arrangements he/she sees fit.
+
+     - 使用支票作為以物易物的比丘犯了\ `《捨墮》二十`_\罪。當他收到支票時，他最多可以做的就是將其交給他的淨人，注意不要說出任何違反本戒條或\ `《捨墮》十`_、\ `一九`_\、\ `二十`_\規定的 *kappiya vohāra* （「措辭正確」）禮儀的內容——並讓淨人做出他/她認為合適的任何安排。
+
+.. _19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
+.. _一九: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
+.. TODO FIXME: replace link to 《捨墮》一九
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Summary: Accepting gold or money, having someone else accept it, or consenting to its being placed down as a gift for oneself is a nissaggiya pācittiya offense.*
+
+     - *摘要：接受黃金或金錢、讓別人接受它或同意將其作為布施送給自己都是《尼薩耆波逸提》（《捨墮》）罪。*
 
 (未完待續)
