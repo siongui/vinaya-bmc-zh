@@ -227,8 +227,7 @@
 .. _《經分別》對此行為的定義如下: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0337a09
 .. _NP 19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. _20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
-.. _《捨墮》一九: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
-.. TODO FIXME: replace link to 《捨墮》一九
+.. _《捨墮》一九: #np19
 .. _二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. TODO FIXME: replace link to 《捨墮》二十
 
@@ -295,8 +294,7 @@
      - 使用支票作為以物易物的比丘犯了\ `《捨墮》二十`_\罪。當他收到支票時，他最多可以做的就是將其交給他的淨人，注意不要說出任何違反本戒條或\ `《捨墮》十`_、\ `一九`_\、\ `二十`_\規定的 *kappiya vohāra* （「措辭正確」）禮儀的內容——並讓淨人做出他/她認為合適的任何安排。
 
 .. _19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
-.. _一九: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
-.. TODO FIXME: replace link to 《捨墮》一九
+.. _一九: #np19
 
 
 .. list-table::
@@ -306,5 +304,43 @@
    * - *Summary: Accepting gold or money, having someone else accept it, or consenting to its being placed down as a gift for oneself is a nissaggiya pācittiya offense.*
 
      - *摘要：接受黃金或金錢、讓別人接受它或同意將其作為布施送給自己都是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
+.. _NP19:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **19**
+     - **十九**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu engage in various types of monetary exchange, it (the income) is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘從事各種類型的金錢兌換，則其（收入）將被捨出並懺悔。*
+
+   * - There are two factors for an offense here: object and effort.
+     - 這裡的犯戒有兩個因素：對象和努力。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga defines *money* in the same terms it uses to define gold and silver in the preceding rule: any type of gold, whether shaped into an ornament or not; and any coins or other items used as currency.
+
+     - 《經分別》對\ *金錢*\ 的定義與前一個戒條中定義金銀的術語相同：任何類型的黃金，無論是否被製成裝飾品；以及任何硬幣或其他用作貨幣的物品。
 
 (未完待續)
