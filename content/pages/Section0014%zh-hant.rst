@@ -394,6 +394,16 @@
 
      - 根據《義註》，金錢交換是指任何涉及金錢的交易——無論是比丘將物品帶入交易、帶出交易，或兩者兼而有之。\ *佛音*\指出，這種解釋所依據的一段話不在《經分別》中，但邏輯上應該是。《複註》支持他，解釋說如果金錢交換涵蓋金錢構成交易一方的交易，那麼金錢屬於交易的哪一方並不重要。
 
+   * - This, however, contradicts a number of points in the Vibhaṅga. (1) Its table of the possible actions covered by this rule includes only cases where the outcome of the trade for the bhikkhu is money. As we noted in the Introduction, we have to trust that the Vibhaṅga arrangers knew what was and was not an offense under a certain rule, and that if they had meant the rule to cover more than the alternatives listed in the table they would have included them. (2) In the Vibhaṅga’s discussion of how the forfeiture is to be conducted, it consistently refers to the offender as the “one who purchased money” and to the bhikkhu who throws the forfeited object away as the “money-disposer.” (3) If *monetary exchange* covers cases where the bhikkhu uses money to buy allowable things, then the discussion of how a bhikkhu could get his steward to use money rightfully placed with the steward to buy such things would have been included under this rule; instead, it is included under the following rule. All of this seems to indicate that the Commentary is on shaky ground when it tries to force its interpretation on the Vibhaṅga here.
+
+     - 然而，這與《經分別》中的許多觀點相矛盾。（1）本戒條涵蓋的可能行動表格僅包括比丘交易的結果是金錢的情況。正如我們在\ **引言**\ 中指出的，我們必須相信《經分別》編排者知道在特定戒條下什麼是犯戒，什麼不是犯戒，並且如果他們想讓該戒條涵蓋比表格中列出的替代方案更多的內容，他們就會包括他們。（2）《經分別》在討論如何進行捨出時，始終將犯戒者稱為「購買金錢的人」，並將扔掉捨出物品的比丘稱為「金錢處置者」。（3）如果\ *金錢兌換*\ 涵蓋比丘用金錢購買允許的物品的情況，那麼比丘如何讓他的淨人使用正確存放在淨人那裡的金錢來購買這些物品的討論就包含在本戒條中；相反，它包含在下一個戒條中。所有這些似乎都表明，當《義註》試圖將其解釋強加於此處的《經分別》時，它的基礎是不穩固的。
+
+   * - Still, the Commentary’s interpretation is widely followed and fairly complex, so it will be good to discuss it in some detail.
+     - 儘管如此，《義註》的解釋仍被廣泛遵循並且相當複雜，因此最好對其進行一些詳細討論。
+
+   * - As under the preceding rule, the Commentary divides articles into three sorts:
+     - 如同上一個戒條，《義註》將物件分為三類：
+
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 
 (未完待續)
