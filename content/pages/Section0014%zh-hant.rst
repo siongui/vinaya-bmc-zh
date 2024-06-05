@@ -404,6 +404,18 @@
    * - As under the preceding rule, the Commentary divides articles into three sorts:
      - 如同上一個戒條，《義註》將物件分為三類：
 
+   * - *nissaggiya objects (N.O.)*, i.e., articles such as gold and money, which entail a nissaggiya pācittiya when accepted;
+     - *《尼薩耆》物件（N.O.）*\，即黃金和金錢等物品，在接受時犯《捨墮》；
+
+   * - *dukkaṭa objects (D.O.)*, articles such as pearls, precious stones; uncooked grain, raw meat; women and girls, male and female slaves; goats and sheep, fowl and pigs, elephants, cattle, steeds, and mares; fields and property, any of which entail a dukkaṭa when accepted;
+     - *《突吉羅》物件（D.O.）*\，珍珠、寶石等物品；未煮熟的穀物、生肉；女人和女孩、男性和女性奴隸；山羊和綿羊、家禽和豬、大象、牛、馬和母馬；土地和財產，其中任何一項在被接受時都會帶來《突吉羅》；
+
+   * - *allowable objects (A.O.)*, articles that a bhikkhu may rightfully accept and possess.
+     - *允許物件（A.O.）*\，比丘可以正當地接受和擁有的物品。
+
+   * - It then works out the following scheme to cover all possible trades involving these objects:
+     - 然後，它制定出以下方案來涵蓋所有涉及這些物件的可能的交易：
+
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 
 (未完待續)
