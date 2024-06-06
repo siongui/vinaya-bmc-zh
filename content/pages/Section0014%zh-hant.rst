@@ -418,4 +418,68 @@
 
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *使用*
+     -
+     - *去買*
+     - *造成*
+
+   * - 《尼薩耆》物件
+     - →
+     - 《尼薩耆》物件
+     - 《尼薩耆波逸提》（《捨墮》）
+
+   * - 《尼薩耆》物件
+     - →
+     - 《突吉羅》物件
+     - 《尼薩耆波逸提》（《捨墮》）
+
+   * - 《尼薩耆》物件
+     - →
+     - 允許物件
+     - 《尼薩耆波逸提》（《捨墮》）
+
+   * - 《突吉羅》物件
+     - →
+     - 《尼薩耆》物件
+     - 《尼薩耆波逸提》（《捨墮》）
+
+   * - 《突吉羅》物件
+     - →
+     - 《突吉羅》物件
+     - 《突吉羅》\*
+
+   * - 《突吉羅》物件
+     - →
+     - 允許物件
+     - 《突吉羅》\*
+
+   * - 允許物件
+     - →
+     - 《尼薩耆》物件
+     - 《尼薩耆波逸提》（《捨墮》）
+
+   * - 允許物件
+     - →
+     - 《突吉羅》物件
+     - 《突吉羅》\*
+
+   * - 允許物件
+     - →
+     - 允許物件
+     - `《捨墮》二十`_\下《尼薩耆波逸提》（《捨墮》）
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - The trades marked with asterisks point out one of the anomalies of the Commentary’s interpretation: Why trades involving D.O. should entail only a dukkaṭa, while A.O. → A.O. trades should entail a nissaggiya pācittiya is hard to fathom.
+
+     - 標有星號的交易指出了《義註》解釋的異常之一：為什麼涉及允許物件的交易會只犯《突吉羅》，而允許物件→允許物件交易會涉及《尼薩耆波逸提》（《捨墮》）是很難理解的。
+
 (未完待續)
