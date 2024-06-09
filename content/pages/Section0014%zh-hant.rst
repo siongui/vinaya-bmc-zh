@@ -540,4 +540,45 @@
 
      - 如上所述，《義註》在此的解釋在許多方面與《經分別》相矛盾，也包含一些異常之處。似乎最好按照下一個戒條來處理在此提到的一些情況——《尼薩耆》物件→《突吉羅》物件、《尼薩耆》物件→允許物件、《突吉羅》物件→《突吉羅》物件，《突吉羅》物件→允許物件，允許物件→《突吉羅》物件，或者換句話說，任何導致允許物件或《突吉羅》物件的交易。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Forfeiture & confession**
+     - **捨出 & 懺罪**
+
+   * - When a bhikkhu has obtained gold or money in violation of this rule he is to forfeit it in the midst of a formal meeting of the Community, following the procedures explained under the preceding rule. The Pali formulae for forfeiture and confession are in `Appendix VI`_.
+
+     - 當比丘違反本戒條而獲得黃金或金錢時，他應在僧團正式會議期間，按照前一條戒條解釋的程序，將其捨出。巴利文的捨出與懺悔罪行公式請見\ `附錄六`_\。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The Vibhaṅga’s non-offense clauses contain nothing but the blanket exemptions mentioned under `Pr 1`_.
+     - 《經分別》的不犯條款只包含\ `《波羅夷》一`_\中提到的總括性豁免。
+
+.. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
+.. _《波羅夷》一: {filename}Section0010%zh-hant.rst#pr1
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Summary: Obtaining gold or money through trade is a nissaggiya pācittiya offense.*
+
+     - *摘要：透過貿易獲取黃金或金錢是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
