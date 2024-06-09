@@ -531,8 +531,7 @@
 .. _不尋常的案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0088a12
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
-.. _《捨墮》二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
-.. TODO FIXME: replace link to 《捨墮》二十
+.. _《捨墮》二十: {filename}Section0014%zh-hant.rst#np20
 .. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
 

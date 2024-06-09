@@ -228,8 +228,7 @@
 .. _NP 19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. _20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _《捨墮》一九: #np19
-.. _二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
-.. TODO FIXME: replace link to 《捨墮》二十
+.. _二十: #np20
 
 
 .. list-table::
@@ -260,8 +259,7 @@
 .. TODO FIXME: replace link to 附錄六
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _NP 23: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
-.. _《捨墮》二十: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
-.. TODO FIXME: replace link to 《捨墮》二十
+.. _《捨墮》二十: #np20
 .. _《捨墮》二三: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
 .. TODO FIXME: replace link to 《捨墮》二三
 
@@ -580,5 +578,29 @@
 
    \*    \*    \*
 
+
+.. _NP20:
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **20**
+     - **二十**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu engage in various types of trade, it (the article obtained) is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘從事各種類型的貿易，那麼它（獲得的物品）將被捨出並懺悔。*
+
+   * - “Now at that time Ven. Upananda the Sakyan had become accomplished at making robes. Having made an outer robe of cloak-scraps, having dyed it well and stitched it nicely, he wore it. A certain wanderer, wearing a very expensive cloak, went to him and on arrival said to him, ‘Your outer robe is beautiful, my friend. Give it to me in exchange for this cloak.’
+
+     - `「爾時，`_\釋迦族優波難陀在製作袈裟方面頗有造詣。他用外衣布片做了一件\ `僧伽梨`_\，染好，縫好，就穿上了。有一個遊行者，穿著一件非常昂貴的外衣，來到他那裡，到達後對他說：『我的朋友，你的僧伽梨很漂亮。把它給我來換取這件外衣。』
+
+.. _「爾時，: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0341a12
+.. _僧伽梨: https://www.google.com/search?q=%E5%83%A7%E4%BC%BD%E6%A2%A8
 
 (未完待續)

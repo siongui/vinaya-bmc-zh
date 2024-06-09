@@ -235,7 +235,7 @@
      - `\　　　十九 <{filename}Section0014%zh-hant.rst#np19>`__
 
    * - `\　　　20 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20>`__
-     - 　　　二十
+     - `\　　　二十 <{filename}Section0014%zh-hant.rst#np20>`__
 
    * - `\　　Three: The Bowl Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0015.html>`__
      - 　　第三 缽品
