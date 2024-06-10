@@ -600,6 +600,40 @@
 
      - `「爾時，`_\釋迦族優波難陀在製作袈裟方面頗有造詣。他用外衣布片做了一件\ `僧伽梨`_\，染好，縫好，就穿上了。有一個遊行者，穿著一件非常昂貴的外衣，來到他那裡，到達後對他說：『我的朋友，你的僧伽梨很漂亮。把它給我來換取這件外衣。』
 
+   * - “‘Do you know (what you’re doing), my friend?’
+     - 「『你知道（你在做什麼）嗎，我的朋友？』
+
+   * - “‘Yes, I know.’
+     - 「『是的，我知道。』
+
+   * - “‘Okay, then.’ And he gave him the robe.
+     - 「『那麼，好吧。』然後他把袈裟給了他。
+
+   * - “Then the wanderer went to the wanderers’ park wearing the outer robe. The other wanderers said to him, ‘Your outer robe is beautiful, friend. Where did you get it?’
+     - 「然後，遊行者穿著僧伽梨去了遊行者公園。其餘的遊行者對他說：『朋友，你的僧伽梨很漂亮。你在哪裡得到它？』
+
+   * - “‘I got it in exchange for my cloak.’
+     - 「『我用我的外衣換取了它。』
+
+   * - “‘But how long will this outer robe last you? That cloak of yours was better.’
+     - 「『但是這件僧伽梨能讓你穿多久呢？你的那件外衣比較好。』
+
+   * - “So the wanderer, thinking, ‘It’s true what the wanderers said. How long will this outer robe last me? That cloak of mine was better,’ went to Ven. Upananda the Sakyan and on arrival said, ‘Here is your outer robe, my friend. Give me my cloak.’
+     - 「所以，遊行者心想：『遊行者所說的是真的。這件僧伽梨能穿多久？我的那件外衣比較好。』至釋迦族優波難陀處，到達後說：『這是你的僧伽梨，我的朋友。把我的外衣給我。』
+
+   * - “‘But didn’t I ask you, “Do you know (what you’re doing)?” I won’t give it to you.’
+     - 「『但我不是問過你，「你知道（你在做什麼）嗎？」我不會給你的。』
+
+   * - “So the wanderer criticized and complained and spread it about, ‘Even a householder will give to another householder who regrets (a trade). How can one who has gone forth not give (the same courtesy) to one who has gone forth?’”
+     - 「於是遊行者批評並抱怨，散播說：『即使是一個居士，也會給另一個後悔（交易）的居士。出家人怎麼能不給出家人（同樣的禮遇）呢？』」
+
+   * - As we noted under `NP 10`_, one of the purposes of this rule is to relieve bhikkhus of the responsibilities that come with making trades—the responsibility of having to get a fair price for one’s goods and at the same time offering a fair deal to the person receiving them.
+
+     - 正如我們在\ `《捨墮》十`_\中所指出的，本戒條的目的之一是解除比丘們進行交易的責任——必須為自己的商品獲得公平的價格，同時向收受者提供公平的交易。
+
+   * - The factors for an offense here are two: object and effort.
+     - 這裡的犯戒因素有兩個：對象和努力。
+
 .. _「爾時，: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0341a12
 .. _僧伽梨: https://www.google.com/search?q=%E5%83%A7%E4%BC%BD%E6%A2%A8
 
