@@ -637,4 +637,32 @@
 .. _「爾時，: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0341a12
 .. _僧伽梨: https://www.google.com/search?q=%E5%83%A7%E4%BC%BD%E6%A2%A8
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga defines *various types of trade* as covering deals involving the four requisites, “even a lump of powder, tooth wood, or unwoven thread”—these being its standard examples of objects with the least possible material value. The Commentary interprets this definition as limiting this rule to deals involving nothing but allowable objects (A.O. → A.O.), but there is nothing in the Vibhaṅga to suggest that this is necessarily so. The emphasis in the Vibhaṅga seems to be that this rule covers even allowable objects of the least possible value, and all the more so more valuable and restricted objects. In fact, as the Vibhaṅga explicitly limits the preceding rule to trades that result in money for the bhikkhu (N.O. → N.O.; D.O. → N.O.; A.O. → N.O.), it seems best to interpret this rule as covering all types of trade not covered in that rule:
+
+     - 《經分別》將\ *各種類型的貿易*\ 定義為涵蓋涉及四種必需品的交易，「甚至是一塊粉末、牙木或未編織的線」——這些是其物質價值最低的物品的標準範例。《義註》將此定義解釋為限制本戒條僅涉及允許物件的交易（允許物件→允許物件），但《經分別》中沒有任何內容表明這必然如此。《經分別》中的重點似乎是，本戒條甚至涵蓋了價值最低的允許物件，更有價值和受限制的物件就更是如此。事實上，由於《經分別》明確地將前一條戒條限制為為比丘帶來金錢的交易（《尼薩耆》物件→《尼薩耆》物件；《突吉羅》物件→《尼薩耆》物件；允許物件→《尼薩耆》物件），似乎最好將本戒條解釋為涵蓋在該戒條所有未涵蓋的交易類型。
+
+   * - N.O. → D.O.; N.O. → A.O.;
+     - 《尼薩耆》物件→《突吉羅》物件; 《尼薩耆》物件→允許物件;
+
+   * - D.O. → D.O.; D.O. → A.O.;
+     - 《突吉羅》物件→《突吉羅》物件; 《突吉羅》物件→允許物件;
+
+   * - A.O. → D.O.; and A.O. → A.O.
+     - 允許物件→《突吉羅》物件; 以及 允許物件→允許物件
+
+   * - The Vibhaṅga, in its description of what constitutes a trade, makes reference to “one’s own” object going to the hand of the other, and the other’s object going to one’s own hand. From this, the K/Commentary deduces that the object given in trade has to be one’s own personal possession. This deduction, however, is mistaken for several reasons: (1) The Vibhaṅga’s protocols under `NP 10`_ do not allow one to tell a steward to use the funds placed in his care to buy or barter for anything, and yet these funds do not belong to the bhikkhu. (2) The Vibhaṅga’s protocols for disposing of money under `NP 18`_ & 19_ do not allow a bhikkhu to tell a lay person to buy anything with the money forfeited by the offender under those rules, and again this money does not belong to the bhikkhu. (3) The non-offense clauses to this rule make no exemptions for a bhikkhu who trades using goods belonging to someone else. Thus it would appear that the phrase, “one’s own” goods, in the Vibhaṅga’s description of a trade, is defined simply in opposition to the phrase, “the other person’s” goods prior to the trade. In other words, it would cover anything that starts out on one’s side before the trade, whether those items are one’s own personal possessions or another person’s possessions that have been placed in deposit for one’s use (such as funds placed with a steward) or in one’s keeping (such as monastery funds placed under the supervision of a monastery official).
+
+     - 《經分別》在描述貿易的組成時，提到了「自己的」物品到達另一個人的手中，以及另一個人的物品到達自己的手中。由此，K/《義註》推論出交易中所給予的物品必須是自己的個人財產。然而，這種推論是錯誤的，原因如下：（1）\ `《捨墮》十`_\ 下的《經分別》行儀不允許告訴淨人使用放在他照料下的資金來購買或交換任何東西，甚至這些資金不屬於至比丘。（2）根據\ `《捨墮》一八`_\和\ `一九`_\的《經分別》規定的金錢處置行儀不允許比丘告訴在家人用犯戒者根據那些戒條捨出的錢來購買任何東西，而且這筆錢也不屬於比丘。（3）本戒條的不犯條款對於使用屬於他人的貨物進行交易的比丘沒有豁免。因此，在《經分別》對貿易的描述中，在交易之前，此用語「自己的」貨物的定義似乎與「他人的」貨物的用語相對立。換句話說，它涵蓋交易前，某一方開始的任何物品，無論那些物品是自己的個人財產，還是他人存放供自己使用的財產（例如存放在淨人處的資金）或由某人保管（例如由寺院執事監督的寺院資金）。
+
+.. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
+.. _《捨墮》一八: #np18
+
 (未完待續)
