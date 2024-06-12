@@ -665,4 +665,25 @@
 .. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. _《捨墮》一八: #np18
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - Engaging in trade, according to the Vibhaṅga, involves two steps:
+     - 根據《經分別》的說法，從事貿易涉及兩個步驟：
+
+   * - 1\) The bhikkhu proposes an exchange, saying, “Give this for that,” or “Take this for that,” or “Exchange this for that,” or “Purchase this with that.” Because the non-offense clauses make no exemption for exchanges conducted by gesture, any gesture—including a written message or sign language—that clearly makes this proposal would fulfill this step.
+
+     - 1）比丘提議交換，說：「以這個換那個」，或者「拿這個換那個」，或者「用這個換那個」，或者「用那個買這個」。因為不犯條款並沒有豁免透過示意動作進行的交流，任何明確提出這項建議的示意動作（包括書面訊息或手語）都將完成這一步驟。
+
+   * - 2\) The goods exchange hands, the bhikkhu’s goods ending up with the other person, and the other person’s goods ending up with the bhikkhu.
+     - 2）物品交換，比丘的物品歸於他人，他人的物品歸於比丘。
+
+   * - The first step entails a dukkaṭa; both steps together, a nissaggiya pācittiya. Perception is not a mitigating factor here: If a bhikkhu manages an exchange in a way that he thinks avoids a penalty under this rule but in fact doesn’t (see below), he commits the full offense all the same. If, on the other hand, he manages an exchange in such a way that would avoid a penalty under this rule but he thinks that it falls under the rule or else is in doubt about the matter, he incurs a dukkaṭa.
+     - 第一步犯《突吉羅》；兩個步驟都完成，則犯《尼薩耆波逸提》（《捨墮》）。在這裡，感知並不是減輕懲罰的因素：如果比丘以一種他認為可以避免根據本戒條受到懲罰的方式管理交易，但實際上卻沒有（見下文），那麼他仍然完違犯本戒條。另一方面，如果他以避免根據本戒條受到懲罰的方式管理交易，但他認為該交易屬於本戒條的範圍，或者對此事有疑問，那麼他犯《突吉羅》。
+
 (未完待續)
