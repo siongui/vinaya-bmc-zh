@@ -686,4 +686,28 @@
    * - The first step entails a dukkaṭa; both steps together, a nissaggiya pācittiya. Perception is not a mitigating factor here: If a bhikkhu manages an exchange in a way that he thinks avoids a penalty under this rule but in fact doesn’t (see below), he commits the full offense all the same. If, on the other hand, he manages an exchange in such a way that would avoid a penalty under this rule but he thinks that it falls under the rule or else is in doubt about the matter, he incurs a dukkaṭa.
      - 第一步犯《突吉羅》；兩個步驟都完成，則犯《尼薩耆波逸提》（《捨墮》）。在這裡，感知並不是減輕懲罰的因素：如果比丘以一種他認為可以避免根據本戒條受到懲罰的方式管理交易，但實際上卻沒有（見下文），那麼他仍然完違犯本戒條。另一方面，如果他以避免根據本戒條受到懲罰的方式管理交易，但他認為該交易屬於本戒條的範圍，或者對此事有疑問，那麼他犯《突吉羅》。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Forfeiture & confession**
+     - **捨出 & 懺罪**
+
+   * - Once a bhikkhu has received an article from a trade, he is to forfeit it either to an individual bhikkhu, to a group of two or three, or to a full Community of four or more. Only then may he confess the offense. The procedures for forfeiture, confession, and the return of the article are the same as under `NP 1`_. The Pali formula for forfeiture is in `Appendix VI`_.
+
+     - 一旦比丘從交易中收到一件物品，他就應將其捨出給單一比丘、二人或三人的團體，或四人以上的完整僧團。只有這樣他才能懺悔罪行。捨出、懺罪及歸還物品的程序與\ `《捨墮》一`_\ 相同。巴利語捨出公式見\ `附錄六`_\。
+
+   * - The Vibhaṅga makes no mention of what the bhikkhu may and may not do with the article after receiving it in return, and so it appears that he may keep it as he likes. However, if an individual bhikkhu has used nissaggiya or dukkaṭa objects in a trade, he might—as a wise policy—want to prevent any suspicions that he is trying to “launder” them, and so he may take a page from the Commentary to the preceding rule as his own personal protocol, as follows:
+
+     - 《經分別》沒有提及比丘在收到歸還後可以或不可以對物品做什麼，因此看來他可以隨心所欲地保留它。然而，如果某個比丘在交易中使用了《尼薩耆》或《突吉羅》物件，他可能——作為明智之舉——想要防止任何人懷疑他試圖「洗錢」它們，因此他可以從《義註》中抄取一頁上一條戒條作為他自己的個人行儀，如下：
+
+   * - *If the exchange was N.O. → D.O.*, he should return the D.O. to its seller. If the N.O. was properly obtained under `NP 18`_ (e.g., it was placed with a steward), there is nothing further to be done. If not, the bhikkhu should confess the offense for violating that rule. (If the seller offers to refund the purchase price, the bhikkhu should not accept it. If he does, he must forfeit it in the midst of the Community. If he doesn’t accept it, he should simply confess the pācittiya offense for originally accepting the N.O.)
+
+     - *如果交換是《尼薩耆》物件→《突吉羅》物件*\，他應該歸還《突吉羅》物件給其賣家。如果《尼薩耆》物件已根據\ `《捨墮》一八`_\ 適當地獲得（例如，它放在淨人處），無需再做任何事情。如果沒有，比丘應該懺悔違反該戒條的罪行。（如果賣家提出退還貨款，比丘不應接受。如果他接受了，他必須在僧團中捨出它。如果他不接受，他僅應懺悔最初犯下接受的《尼薩耆》物件的《波逸提》罪。）
+
+.. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. _《捨墮》一: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. TODO FIXME: replace link to 《捨墮》一
+
 (未完待續)
