@@ -710,8 +710,37 @@
 
      - *如果交換是《尼薩耆》物件→允許物件*\，那麼如果《尼薩耆》物件是在違反\ `《捨墮》一八`_\ 的情況下獲得的，任何比丘都不得使用該允許物件，除非將其退還給賣家，物品貨款轉交給資金的原來布施者，並且該允許物件之後以不違反本戒條的方式購回。（再次強調，如果賣家退還貨款，比丘不應該接受。如果他接受了，他必須在僧團中捨出它。如果他不接受，他僅應懺悔最初犯下接受的《尼薩耆》物件的《波逸提》罪。）
 
+   * - *If the N.O. in this case was properly obtained*, then the purchased article is allowable for other bhikkhus but not for the offender. (This case covers the instances mentioned under `NP 10`_ where a bhikkhu tells his steward to purchase an article with the fund placed in the steward’s trust for the bhikkhu’s needs. Some might object that if the N.O. was properly obtained it should be treated as A.O., but we must remember that a bhikkhu who orders his steward to use money to buy an object is assuming ownership of the money, which goes against the spirit of `NP 10`_ & 18_ and the protocol of having a steward in the first place.)
+
+     - *如果《尼薩耆》物件在這種情況下是正當地獲得的*\，那麼購買的物品可以給其他比丘使用，但不能給犯戒者使用。（這個案例涵蓋了\ `《捨墮》十`_\ 中提到的情況，其中比丘告訴他的淨人，用淨人信託中的資金購買物品，以滿足比丘的需要。有些人可能會反對，如果《尼薩耆》物件是正當地獲得的，那麼它應該被視為允許物件，但我們必須記住，比丘命令他的淨人用錢購買物品，就等於假定了該錢的所有權，這違背了\ `《捨墮》十`_\ 和\ `一八`_\ 的精神，也違背了首先要有淨人的行儀。
+
+   * - *If the exchange was D.O. → D.O.*, the bhikkhu should return the purchased article to the seller and the original article (if the seller returns it to him) to the original donor.
+
+     - *如果交換是《突吉羅》物件→《突吉羅》物件*\，比丘應將購買的物品歸還給賣家，並將原來的物品（如果賣家將其歸還給他）歸還給最初的布施者。
+
+   * - *If the exchange was D.O. → A.O.*, the purchased article is not allowable for any bhikkhu unless it is returned to the seller, the D.O. is returned to the original donor, and the A.O. is then repurchased in a way that does not violate this rule.
+
+     - *如果交換是《突吉羅》物件→允許物件*\，購買的物品不允許任何比丘使用，除非該物品被退還給賣家，《突吉羅》物件被歸還給最初的布施者，並且允許物件之後以不違反本戒條的方式回購。
+
+   * - *If the exchange was A.O. → D.O.*, the bhikkhu should return the purchased article to the seller.
+
+     - *如果交換是允許物件→《突吉羅》物件*\，比丘應將購買的物品退還給賣家。
+
+   * - *If the exchange was A.O. → A.O.*, the bhikkhu may make use of the article as he likes.
+     - *如果交換是允許物件→允許物件*\，比丘可以隨心所欲地使用該物品。
+
+   * - *If the exchange was wages in payment for services rendered*, the Commentary notes that there is no way the bhikkhu can rightfully get the payment back, so he should simply confess a pācittiya offense.
+
+     - *如果交換是為了支付所提供的服務而支付的工資*\，《義註》指出，比丘不可能合法地收回付款，因此他僅應懺悔《波逸提》罪。
+
+   * - All of these protocols derived from the Commentary are optional, however, for—as noted above—the Vibhaṅga places no restrictions on what the bhikkhu may or may not do with the article after having forfeited it and received it in return.
+
+     - 所有這些源自《義註》的行儀都是非強制的，然而，正如上面所指出的，《經分別》並沒有限制比丘在捨出物品並收到歸還後可以或不可以對物品做什麼。
+
 .. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
 .. _《捨墮》一: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
 .. TODO FIXME: replace link to 《捨墮》一
+.. _18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
+.. _一八: #np18
 
 (未完待續)
