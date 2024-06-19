@@ -743,4 +743,39 @@
 .. _18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. _一八: #np18
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - In the origin story to `NP 5`_, the Buddha allows bhikkhus to trade allowable articles with other bhikkhus, bhikkhunīs, female trainees, and male or female novices. The present rule thus covers trades made only with people who are not one’s co-religionists.
+
+     - 在\ `《捨墮》五`_\ 的起源故事中，佛陀允許比丘與其他比丘、比丘尼、\ `式叉摩那`_\ 以及\ `沙彌`_\ 或\ `沙彌尼`_\ 進行允許物件的交易。因此，現行戒條僅適用於與非同一宗教徒進行的交易。
+
+   * - As for trades with people who are not one’s co-religionists, the Vibhaṅga here adds that a bhikkhu commits no offense—
+     - 至於與非同一宗教徒的人進行交易，《經分別》在此補充說，比丘並無犯戒——
+
+   * - if he asks the price of an object;
+     - 如果他問物品的價格；
+
+   * - if he tells a steward;
+     - 如果他告訴淨人；
+
+   * - if he tells the seller, “I have this. I have need of such-and-such,” and then lets the seller arrange the exchange as he/she sees fit. This last point may seem like mere hair splitting, but we must remember that if a trade is arranged in this way, the bhikkhu is absolved from any responsibility for the fairness of the deal, which seems to be the whole point of the rule.
+
+     - 如果他告訴賣家：「我有這個。我需要某某」，然後讓賣家按照他/她認為合適的方式安排交換。最後一點可能看起來只是吹毛求疵，但我們必須記住，如果交易以這種方式安排，比丘就免除了對交易公平性的任何責任，這似乎是戒條的全部要點。
+
+   * - The Commentary, in discussing these exemptions, raises the following points:
+     - 《義註》在討論這些豁免時提出了以下幾點：
+
+.. _NP 5: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
+.. _《捨墮》五: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
+.. TODO FIXME: replace link to 《捨墮》五
+.. _式叉摩那: https://zh.wikipedia.org/wiki/%E5%BC%8F%E5%8F%89%E6%91%A9%E9%82%A3
+.. _沙彌: https://zh.wikipedia.org/wiki/%E6%B2%99%E5%BD%8C
+.. _沙彌尼: https://zh.wikipedia.org/wiki/%E6%B2%99%E5%BD%8C%E5%B0%BC
+
 (未完待續)
