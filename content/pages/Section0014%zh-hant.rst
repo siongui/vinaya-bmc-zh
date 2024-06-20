@@ -771,11 +771,20 @@
    * - The Commentary, in discussing these exemptions, raises the following points:
      - 《義註》在討論這些豁免時提出了以下幾點：
 
+   * - 1\) A bhikkhu who tries to avoid the technicalities of what is defined as engaging in trading by saying simply, “Give this. Take that,” may do so only with his parents. Otherwise, telling a lay person to take one’s belongings as his/her own is to “bring a gift of faith *(saddhā-deyya)* to waste”—i.e., to misuse the donations that lay supporters, out of faith, have sacrificed for the bhikkhu’s use (see `Mv.VIII.22.1`_; `BMC2, Chapter 10`_). On the other hand, telling an unrelated lay person to give something is a form of begging, which carries a dukkaṭa unless the lay person is related or has invited one to ask in the first place. (From this we may deduce that bhikkhus should not bargain after having asked the price of goods or services—e.g., a taxi fare—even in situations where bargaining is the norm.)
+
+     - 1\) 比丘試圖透過僅僅說：「給這個。拿那個」，來避免參與交易的技術細節，只可對他的父母這樣做。否則，告訴在家人將自己的財物據為己有，就是「浪費信施\ *（saddhā-deyya）*\」，即濫用在家人出於信仰犧牲而為比丘使用的捐款。（見 \ `《大品》.八.22.1`_\ ；\ `《佛教修道準則 第二冊》第十章`_\ ）。另一方面，告訴非親戚的在家人給予東西是一種乞討的形式，除非該居士有親戚關係或一開始就邀請自己提出請求，否則就會犯《突吉羅》。（由此我們可以推斷，即使在討價還價是常態的情況下，比丘在詢問商品或服務的價格（例如計程車費）後也不應該討價還價。）
+
 .. _NP 5: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
 .. _《捨墮》五: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
 .. TODO FIXME: replace link to 《捨墮》五
 .. _式叉摩那: https://zh.wikipedia.org/wiki/%E5%BC%8F%E5%8F%89%E6%91%A9%E9%82%A3
 .. _沙彌: https://zh.wikipedia.org/wiki/%E6%B2%99%E5%BD%8C
 .. _沙彌尼: https://zh.wikipedia.org/wiki/%E6%B2%99%E5%BD%8C%E5%B0%BC
+.. _Mv.VIII.22.1: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.VIII.22.1
+.. _BMC2, Chapter 10: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
+.. _《大品》.八.22.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0386a05
+.. _《佛教修道準則 第二冊》第十章: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十章
 
 (未完待續)
