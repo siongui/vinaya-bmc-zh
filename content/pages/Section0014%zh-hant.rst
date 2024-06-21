@@ -773,7 +773,15 @@
 
    * - 1\) A bhikkhu who tries to avoid the technicalities of what is defined as engaging in trading by saying simply, “Give this. Take that,” may do so only with his parents. Otherwise, telling a lay person to take one’s belongings as his/her own is to “bring a gift of faith *(saddhā-deyya)* to waste”—i.e., to misuse the donations that lay supporters, out of faith, have sacrificed for the bhikkhu’s use (see `Mv.VIII.22.1`_; `BMC2, Chapter 10`_). On the other hand, telling an unrelated lay person to give something is a form of begging, which carries a dukkaṭa unless the lay person is related or has invited one to ask in the first place. (From this we may deduce that bhikkhus should not bargain after having asked the price of goods or services—e.g., a taxi fare—even in situations where bargaining is the norm.)
 
-     - 1\) 比丘試圖透過僅僅說：「給這個。拿那個」，來避免參與交易的技術細節，只可對他的父母這樣做。否則，告訴在家人將自己的財物據為己有，就是「浪費信施\ *（saddhā-deyya）*\」，即濫用在家人出於信仰犧牲而為比丘使用的捐款。（見 \ `《大品》.八.22.1`_\ ；\ `《佛教修道準則 第二冊》第十章`_\ ）。另一方面，告訴非親戚的在家人給予東西是一種乞討的形式，除非該居士有親戚關係或一開始就邀請自己提出請求，否則就會犯《突吉羅》。（由此我們可以推斷，即使在討價還價是常態的情況下，比丘在詢問商品或服務的價格（例如計程車費）後也不應該討價還價。）
+     - 1）比丘試圖透過僅僅說：「給這個。拿那個」，來避免參與交易的技術細節，只可對他的父母這樣做。否則，告訴在家人將自己的財物據為己有，就是「浪費信施\ *（saddhā-deyya）*\」，即濫用在家人出於信仰犧牲而為比丘使用的捐款。（見 \ `《大品》.八.22.1`_\ ；\ `《佛教修道準則 第二冊》第十章`_\ ）。另一方面，告訴非親戚的在家人給予東西是一種乞討的形式，除非該居士有親戚關係或一開始就邀請自己提出請求，否則就會犯《突吉羅》。（由此我們可以推斷，即使在討價還價是常態的情況下，比丘在詢問商品或服務的價格（例如計程車費）後也不應該討價還價。）
+
+   * - 2\) Under the previous rule, the Commentary mentioned that a bhikkhu engaging in an otherwise allowable trade for profit incurs a dukkaṭa. Here it says that if a bhikkhu, proposing a trade by wording it right *(kappiya-vohāra)*, deceives the seller as to the value of his goods, he is to be treated under `Pr 2`_. However, as the Vibhaṅga to `Pr 2`_ indicates, goods received through deceit are to be treated not under that rule but under `Pc 1`_.
+
+     - 2）根據先前的戒條，《義註》提到，比丘從事其他允許的獲利貿易會犯《突吉羅》。這裡它說，如果一個比丘以正確的措辭\ *（kappiya-vohāra）*\ 提出交易，在其貨物的價值上欺騙賣家，他將根據\ `《波羅夷》二`_\ 來處理。然而，正如\ `《波羅夷》二`_\ 的《經分別》所指出的那樣，透過欺騙收到的貨物不應根據該戒條處理，而應根據\ `《波逸提》一`_\ 來處理。
+
+   * - 3\) In the case of “telling a steward,” both the Commentary and K/Commentary deem it allowable to tell the steward, “Having gotten that with this, give it (to me).” This, however, is a clear violation of the protocols set forth by the Vibhaṅga under `NP 10`_, according to which a bhikkhu is not allowed to speak in the imperative, giving the command, “Give,” to a steward, much less a command to barter or buy. Instead, he is allowed to speak only in the declarative: “I have need of such-and-such,” or “I want such-and-such.” Declarative statements of this sort would thus appear to be the only statements allowed under this non-offense clause as well.
+
+     - 3）在「告訴淨人」的情況下，《義註》和 K/《義註》都認為可以告訴淨人，「用這個得到了那個，把它（給我）。」然而，這明顯違反了《經分別》在\ `《捨墮》十`_\ 下制定的行儀，根據該行儀，比丘不得以命令方式說話，向淨人發出「給予」的命令，更不用說以物易物或購買的命令。相反地，他只能用陳述句說話：「我需要某某」或「我想要某某」。因此，此類聲明性陳述似乎也是本不犯條款下唯一允許的陳述。
 
 .. _NP 5: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
 .. _《捨墮》五: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
@@ -786,5 +794,10 @@
 .. _《大品》.八.22.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0386a05
 .. _《佛教修道準則 第二冊》第十章: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十章
+.. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
+.. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
+.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#pr2
+.. _《波逸提》一: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
+.. TODO FIXME: replace link to 《波逸提》一
 
 (未完待續)
