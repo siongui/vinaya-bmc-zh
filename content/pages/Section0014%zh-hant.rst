@@ -811,4 +811,23 @@
 .. _《波逸提》一: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
 .. TODO FIXME: replace link to 《波逸提》一
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Special cases**
+     - **特別案例**
+
+   * - 1\) The Bhikkhunīs’ `NP rules 4-10`_ show that if a lay donor gives money to a storeowner to pay for whatever a bhikkhunī will request from the store, the bhikkhunī may avail herself of the arrangement. If the donor stipulates that this arrangement applies only to certain items, or to items worth a certain amount, she may request only what falls under the stipulation: This is the point of the rules. In effect, what this is doing is making the storeowner her steward. Such an arrangement would thus also seem allowable for bhikkhus as long as they word their requests to the storeowner properly, as advised under `NP 10`_.
+
+     - 1）比丘尼的\ `《捨墮》戒條四-十`_\ 表明，如果在家布施者給店主錢以支付比丘尼向商店提出的任何要求，比丘尼可以利用這種安排。如果布施者規定這種安排只適用於某些物品，或價值一定金額的物品，她只可以要求符合規定的物品：這是戒條的要點。實際上，這樣做是讓店主成為她的淨人。因此，這樣的安排對比丘來說似乎也是被允許的，只要他們按照\ `《捨墮》十`_\ 的建議，用適當的措辭向店主表達他們的要求。
+
+   * - 2) As mentioned under `NP 18`_, checks, credit cards, debit cards, and traveler’s checks do not count as gold or money. However, any trade arranged with them would come under this rule.
+
+     - 2) 如\ `《捨墮》一八`_\ 所述，支票、信用卡、金融卡和旅行支票不算黃金或金錢。然而，用他們安排的任何交易都將受到本戒條的約束。
+
+.. _NP rules 4-10: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#np-part1
+.. _《捨墮》戒條四-十: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_011#0341a02
+
 (未完待續)
