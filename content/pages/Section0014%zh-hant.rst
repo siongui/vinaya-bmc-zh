@@ -823,11 +823,34 @@
 
      - 1）比丘尼的\ `《捨墮》戒條四-十`_\ 表明，如果在家布施者給店主錢以支付比丘尼向商店提出的任何要求，比丘尼可以利用這種安排。如果布施者規定這種安排只適用於某些物品，或價值一定金額的物品，她只可以要求符合規定的物品：這是戒條的要點。實際上，這樣做是讓店主成為她的淨人。因此，這樣的安排對比丘來說似乎也是被允許的，只要他們按照\ `《捨墮》十`_\ 的建議，用適當的措辭向店主表達他們的要求。
 
-   * - 2) As mentioned under `NP 18`_, checks, credit cards, debit cards, and traveler’s checks do not count as gold or money. However, any trade arranged with them would come under this rule.
+   * - 2\) As mentioned under `NP 18`_, checks, credit cards, debit cards, and traveler’s checks do not count as gold or money. However, any trade arranged with them would come under this rule.
 
-     - 2) 如\ `《捨墮》一八`_\ 所述，支票、信用卡、金融卡和旅行支票不算黃金或金錢。然而，用他們安排的任何交易都將受到本戒條的約束。
+     - 2）如\ `《捨墮》一八`_\ 所述，支票、信用卡、金融卡和旅行支票不算黃金或金錢。然而，用他們安排的任何交易都將受到本戒條的約束。
+
+   * - In cases where an actual physical item is handed over to the seller in the course of such a trade, the trade is accomplished in the physical exchange, with no need to wait for funds to enter the seller’s account for the offense to be incurred. This is because “object” under this rule can be fulfilled by an item of the least inherent monetary value.
+
+     - 如果在交易過程中將實體物品移交給賣方，交易是在實體交易所完成的，無需等待資金進入賣方帳戶即可算犯戒。這是因為本戒條下的「對象」可以透過內在貨幣價值最低的物品來實現。
+
+   * - For instance, if a bhikkhu hands a check to a seller—or tells his steward to hand it over—in exchange for goods or services in the manner specified by this rule, he would commit the full offense the moment the check and goods change hands.
+
+     - 例如，如果比丘將一張支票交給賣家，或告訴他的淨人將其交給賣家，以按照本戒條所述的方式換取貨物或服務，那麼在支票和貨物易手的那一刻，他就完全違犯本戒。
+
+   * - Similarly with credit cards: The offense is committed when the bhikkhu hands the signed credit card receipt—or has it handed—to the seller and receives goods or services in return. The receipt is an acknowledgement of the goods or services received from the seller, which in the context of the cardholder’s agreement with the credit card company is his promise to repay the loan he is taking out with the company. This promise is what the bhikkhu is trading with the seller, who will then use it to draw funds from the company’s account.
+
+     - 信用卡也類似：當比丘將簽署的信用卡收據（或令其）交給賣方並收到商品或服務作為回報時，即構成犯戒。收據是對從賣方收到的商品或服務的確認，在持卡人與信用卡公司達成協議的背景下，收據是持卡人償還向該公司借出的貸款的承諾。這個承諾就是比丘與賣家交易的東西，然後賣家將用它從公司的帳戶中提取資金。
+
+   * - If, however, no physical item is handed over to the seller, the trade is not accomplished until funds enter the seller’s account. An example would be a debit card: The full offense is committed only when, after pushing the personal identification number (PIN)—which is his order to the bank to pay the seller—the bhikkhu receives goods and services from the seller, and funds are transferred to the seller’s account from his.
+
+     - 但是，如果沒有將實物移交給賣方，則在資金進入賣方帳戶之前交易不會完成。簽帳金融卡（debit card）就是這樣的例子：只有當比丘輸入個人識別碼（PIN）（這是他命令銀行付款給賣方）後，比丘從賣方收到商品和服務，以及資金從他的帳戶轉入賣家的帳戶時，才構成完整犯戒。
 
 .. _NP rules 4-10: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#np-part1
 .. _《捨墮》戒條四-十: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_011#0341a02
 
-(未完待續)
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Summary: Engaging in trade with anyone except one’s co-religionists is a nissaggiya pācittiya offense.*
+
+     - *摘要：與同一宗教徒以外的任何人進行交易都是《尼薩耆波逸提》（《捨墮》）罪。*
