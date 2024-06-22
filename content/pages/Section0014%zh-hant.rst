@@ -783,6 +783,17 @@
 
      - 3）在「告訴淨人」的情況下，《義註》和 K/《義註》都認為可以告訴淨人，「用這個得到了那個，把它（給我）。」然而，這明顯違反了《經分別》在\ `《捨墮》十`_\ 下制定的行儀，根據該行儀，比丘不得以命令方式說話，向淨人發出「給予」的命令，更不用說以物易物或購買的命令。相反地，他只能用陳述句說話：「我需要某某」或「我想要某某」。因此，此類聲明性陳述似乎也是本不犯條款下唯一允許的陳述。
 
+   * - 4\) If a bhikkhu goes with his steward to a store and sees that the steward is getting a bad deal, he may simply tell the steward, “Don’t take it.”
+     - 4）如果比丘和他的淨人去一家商店，發現淨人的交易很糟糕，他可以坦白地告訴淨人：「不要拿。」
+
+   * - 5\) The Commentary to `NP 10`_ describes how a bhikkhu may make a purchase when his steward has left funds in safe-keeping on the bhikkhu’s premises but is not present to arrange a trade when, say, a bowl-seller comes along. The bhikkhu may tell the seller, “I want this bowl, and there are funds of equal value here, but there is no steward to make them allowable.” If the seller volunteers to make them allowable, the bhikkhu may show him where they are but may not tell him how much to take. If the seller takes too much, the bhikkhu may cancel the sale by saying, “I don’t want your bowl after all.”
+
+     - 5）\ `《捨墮》十`_\ 的《義註》描述了當比丘的淨人將資金留在比丘的處所保管，卻沒有在場安排交易時，比丘可以如何進行購買，例如說，當賣缽的人出現時。比丘可以告訴賣家：「我想要這個缽，這裡有等值的資金，但沒有淨人使它們成為允許的。」如果賣家自願使它們成為允許的，比丘可以告訴他它們在哪裡，但不可告訴他要拿多少。如果賣家拿走太多，比丘可以取消買賣，說：「我還是不要你的缽。」
+
+   * - In general it is not a wise policy to have funds left for safe-keeping on one’s premises—a Community allowing this exposes itself to the dangers of robbery and assault—but the Commentary here seems less interested in describing ideal behavior than in simply drawing the line between what is and is not an offense.
+
+     - 一般來說，將資金留在自己的處所保管不是一個明智之舉——一個允許這樣做的僧團會讓自己面臨搶劫和襲擊的危險——但這裡的《義註》似乎對描述理想行為不太感興趣，而僅僅只是區分什麼是犯戒和什麼不是犯戒。
+
 .. _NP 5: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
 .. _《捨墮》五: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
 .. TODO FIXME: replace link to 《捨墮》五
