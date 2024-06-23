@@ -401,8 +401,7 @@
      - 顯然，《義註》認為這種安排是可以接受的，因為它解釋說\ `《捨墮》二十`_\ 僅適用於比丘告訴淨人用比丘自己的個人資源進行交易的情況。然而，正如我們將在討論該戒條時注意到的那樣，這種解釋似乎是錯誤的，並且該戒條適用於比丘承擔責任的任何資金。這意味著，在最後安排的脈絡中，命令淨人的比丘必須捨出交易收益，但所有比丘在捨出後都可以使用它們。
 
 .. _Pc 84: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
-.. _《波逸提》八四: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
-.. TODO FIXME: replace link to 《波逸提》八四
+.. _《波逸提》八四: {filename}Section0024%zh-hant.rst#pc84
 .. _Pc 47: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47
 .. _《波逸提》四七: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47
 .. TODO FIXME: replace link to 《波逸提》四七

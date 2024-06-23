@@ -147,8 +147,7 @@
      - 註釋書中加入了意圖作為一個額外的因素——只有當比丘為了自己的利益而獲取黃金或金錢時，才構成完全的犯戒——但在《經分別》中沒有這方面的依據。比丘接受金錢的意圖不屬於《經分別》對本戒條所涵蓋的三種行為中任何一種的討論，布施者的意圖不屬於《經分別》對此行為的定義，並且不犯條款不允許比丘為他人接受金錢，所以增加的因素似乎沒有根據。因此，比丘是否為自己或他人接受黃金或金錢在這裡並不是問題。
 
 .. _Pc 84: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
-.. _《波逸提》八四: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
-.. TODO FIXME: replace link to 《波逸提》八四
+.. _《波逸提》八四: {filename}Section0024%zh-hant.rst#pc84
 
 
 .. list-table::
