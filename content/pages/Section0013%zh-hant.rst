@@ -340,8 +340,7 @@
      - 如果沒有給予過度的提示，但認為自己已經過度提示，或對此事有疑問，那麼接受必需品的懲罰是《突吉羅》。
 
 .. _Appendix VI: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVI
-.. _附錄六: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVI
-.. TODO FIXME: replace link to 附錄六
+.. _附錄六: {filename}Section0028%zh-hant.rst#appendixvi
 
 
 .. list-table::

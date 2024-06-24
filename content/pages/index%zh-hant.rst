@@ -870,7 +870,7 @@
      - 　　五、巴利公式：共享所有權
 
    * - `\　　VI. Pali formulae: Forfeiture <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVI>`__
-     - 　　六、巴利公式：捨棄
+     - `\　　六、巴利公式：捨棄 <{filename}Section0028%zh-hant.rst#appendixvi>`__
 
    * - `\　　VII. Pali formulae: Confession <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVII>`__
      - 　　七、巴利公式：懺悔罪過

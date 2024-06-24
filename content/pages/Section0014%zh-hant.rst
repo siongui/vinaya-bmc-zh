@@ -254,8 +254,7 @@
      - 沒有任何文字提到比丘如何處理他收到的《突吉羅》物件，但正如我們將在以下戒條中看到的，《義註》似乎建議他將這些物品歸還給施主。
 
 .. _Appendix VI: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVI
-.. _附錄六: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVI
-.. TODO FIXME: replace link to 附錄六
+.. _附錄六: {filename}Section0028%zh-hant.rst#appendixvi
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _NP 23: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
 .. _《捨墮》二十: #np20
