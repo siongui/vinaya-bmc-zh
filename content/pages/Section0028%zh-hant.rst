@@ -21,6 +21,10 @@
 
 .. _appendixVI:
 
+.. raw:: html
+
+   <span id="appendixVI"></span>
+
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
    :widths: auto
@@ -35,8 +39,8 @@
 .. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. _19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. _22: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22
-.. _《捨墮》一八: {filename}Section0014%zh-hant.rst#np18
-.. _一九: {filename}Section0014%zh-hant.rst#np19
+.. _《捨墮》一八: {filename}Section0014%zh-hant.rst#NP18
+.. _一九: {filename}Section0014%zh-hant.rst#NP19
 .. _二二: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22
 .. TODO FIXME: replace link to 《捨墮》二二
 
@@ -61,6 +65,32 @@
    :widths: auto
 
    * - This means, “Venerable sirs, I have received money. This of mine is to be forfeited. I forfeit it to the Community.”
-     - 這意思是：「尊者，我已經接受金錢。我的這個將被捨出。我把它捨給僧團。」
+     - 這意思是：「尊者們，我已經接受金錢。我的這個將被捨出。我把它捨給僧團。」
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 19`_
+     - `《捨墮》一九`_
+
+   * - For engaging in monetary exchange:
+     - 對於從事金錢兌換：
+
+.. container:: has-text-centered pb-4
+
+   *Ahaṁ bhante nānappakārakaṁ rūpiya-saṁvohāraṁ samāpajjiṁ. Idaṁ me nissaggiyaṁ. Imāhaṁ saṅghassa nissajjāmi.*
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - This means, “Venerable sirs, I have engaged in various types of monetary exchange. This of mine is to be forfeited. I forfeit it to the Community.”
+     - 這意思是：「尊者們，我從事過各種金錢兌換。我的這個將被捨出。我把它捨給僧團。」
+
+.. _NP 19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
+.. _《捨墮》一九: {filename}Section0014%zh-hant.rst#NP19
 
 (未完待續)
