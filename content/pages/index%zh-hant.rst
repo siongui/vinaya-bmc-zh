@@ -873,7 +873,7 @@
      - `\　　六、巴利公式：捨棄 <{filename}Section0028%zh-hant.rst#appendixVI>`__
 
    * - `\　　VII. Pali formulae: Confession <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVII>`__
-     - 　　七、巴利公式：懺悔罪過
+     - `\　　七、巴利公式：懺悔罪過 <{filename}Section0028%zh-hant.rst#appendixVII>`__
 
    * - `\　　VIII. Pali formulae: Transaction Statements <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII>`__
      - 　　八、巴利公式：羯磨文
