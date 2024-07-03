@@ -163,6 +163,22 @@
    | Suṇātu me bhante saṅgho. Saṅgho Itthannāmaṁ bhikkhuṁ rūpiya-chaḍḍakaṁ sammannati. Yass’āyasmato khamati, Itthannāmassa bhikkhuno rūpiya-chaḍḍakassa sammati, so tuṇhassa. Yassa nakkhamati, so bhāseyya.
    | Sammato saṅghena Itthannāmo bhikkhu rūpiya-chaḍḍako. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi.
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - This means, *Venerable sirs, may the Community listen to me. If the Community is ready, it should authorize Bhikkhu (name) as the money-disposer. This is the motion.*
+
+     - 這意思是，\ *尊者們，願僧團傾聽我。如果僧團準備好了，它應該授權比丘（名字）作為金錢處置者。此為動議。*
+
+   * - *Venerable sirs, may the Community listen to me. The Community authorizes Bhikkhu (name) as the money-disposer. He to whom the authorization of Bhikkhu (name) as the money-disposer is agreeable should remain silent. He to whom it is not agreeable should speak.*
+
+     - *尊者們，願僧團傾聽我。僧團授權比丘（名字）為金錢處置人。凡同意比丘（名字）授權為金錢處置者的人應保持沉默。不同意的人應該說話。*
+
+   * - *Bhikkhu (name) has been authorized by the Community as the money-disposer. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
+
+     - *比丘（姓名）已被僧團授權為金錢處置者。這是僧團所同意的，因此它保持沉默。此事我如是持。*
+
 (未完待續)
 
 .. _appendixVII:

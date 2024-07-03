@@ -470,7 +470,7 @@
 
    * - *The minimal qualifications:* The bhikkhu must be learned and intelligent, knowing both Pāṭimokkhas in detail, understanding what is and is not an offense, what is a light offense, what is a heavy offense, and how an offense may be removed. And—the most basic requirement—he must have been ordained as a bhikkhu for at least five years (`Mv.I.53.5-13`_).
 
-     - *最低資格：*\ 比庫必須博學且聰慧，嫻熟通達二部《波羅提木叉》，了解什麼是犯戒，什麼是不犯戒，什麼是輕罪，什麼是重罪，以及如何懺罪。而且──最基本的要求──他必須受具足戒為比丘至少五年（\ `《大品》.一.53.5-13`_\ ）。
+     - *最低資格：*\ 比丘必須博學且聰慧，嫻熟通達二部《波羅提木叉》，了解什麼是犯戒，什麼是不犯戒，什麼是輕罪，什麼是重罪，以及如何懺罪。而且──最基本的要求──他必須受具足戒為比丘至少五年（\ `《大品》.一.53.5-13`_\ ）。
 
    * - The Commentary to `Mv.I.53`_, in explaining *learned*, refers to the definition of the term given by the Commentary to `Pc 21`_, which says that a learned bhikkhu must have memorized:
 
