@@ -179,6 +179,35 @@
 
      - *比丘（姓名）已被僧團授權為金錢處置者。這是僧團所同意的，因此它保持沉默。此事我如是持。*
 
+   * - If the bhikkhu being authorized is senior to the bhikkhu reciting the authorization, *Itthannāmo bhikkhu* should be replaced as follows (supposing that his name is Dhammadharo):
+
+     - 如果被授權的比丘比背誦授權的比丘戒臘高，則應如下取代 *Itthannāmo bhikkhu*\（假設他的名字是 Dhammadharo）：
+
+.. container:: pb-4
+
+   | Itthannāmo bhikkhu  →  āyasmā Dhammadharo
+   | Itthannāmaṁ bhikkhuṁ  →  āyasmantaṁ Dhammadharaṁ
+   | Itthannāmassa bhikkhuno  →  āyasmato Dhammadharassa
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - For the patterns to use when the bhikkhu’s name has a different stem-form (-i, -u, etc.), see the introduction to `Appendix II in BMC2`_.
+     - 當比丘的名字有不同的詞幹形式（-i、-u等）時所使用的模式，請參閱\ `《佛教修道準則 第二冊》附錄二`_\ 的介紹。
+
+   * - To authorize a bowl-exchanger under `NP 22`_, the same procedure is followed, except that—in addition to being free from the four forms of bias—the bhikkhu to be chosen must know what is (properly) exchanged and what is not. The same form for the transaction statement is used, replacing *rūpiya-chaḍḍakaṁ/ rūpiya-chaḍḍakassa/ rūpiya-chaḍḍako* with *patta-gāhāpakaṁ/ patta-gāhāpakassa/ patta-gāhāpako*.
+
+     - 要根據\ `《捨墮》二二`_\ 授權一名缽交換者，遵循相同的程序，除了——除了不受四種形式的偏見之外——被選擇的比丘必須知道什麼是（適當地）交換，什麼不是。羯磨文使用相同的形式，將 *rūpiya-chaḍḍakaṁ/ rūpiya-chaḍḍakassa/ rūpiya-chaḍḍako* 替換為 *patta-gāhāpakaṁ/ patta-gāhāpakassa/ patta-gāhāpako*\。
+
+   * - Articles used or received in violation of the remaining NP rules may be forfeited to the Community, to a group, or to an individual. Here, only the formulae for forfeiting to an individual will be given. Formulae for rules rarely broken—e.g., involving bhikkhunīs or felt rugs—are not listed.
+
+     - 違反其餘《捨墮》戒條而使用或接收的物品可以被捨出給僧團、團體或個人。這裡，僅給出捨出給個人的公式。很少被違犯的戒條的公式——例如涉及比丘尼或毛氈地毯——則不列出。
+
+.. _Appendix II in BMC2: https://www.dhammatalks.org/vinaya/bmc/Section0069.html
+.. _《佛教修道準則 第二冊》附錄二: https://www.dhammatalks.org/vinaya/bmc/Section0069.html
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》附錄二
+
 (未完待續)
 
 .. _appendixVII:
