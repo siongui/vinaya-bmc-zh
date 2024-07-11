@@ -208,6 +208,93 @@
 .. _《佛教修道準則 第二冊》附錄二: https://www.dhammatalks.org/vinaya/bmc/Section0069.html
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》附錄二
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 1`_
+     - `《捨墮》一`_
+
+   * - For an extra robe (or robe-cloth) kept beyond ten days:
+     - 對於保存超過十天的額外袈裟（或袈裟布料）：
+
+.. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. _《捨墮》一: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. TODO FIXME: replace link to 《捨墮》一
+
+.. container:: pb-4
+
+   *Idaṁ me bhante cīvaraṁ dasāhātikkantaṁ nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi.*
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - This means, “This robe (robe-cloth) of mine, venerable sir, kept beyond ten days, is to be forfeited. I forfeit it to you.” If the speaker is senior to the listener, change *bhante* to *āvuso*. If many pieces of cloth are to be forfeited at once, the forms should be changed to plural:
+
+     - 意思是：「尊者，我此袈裟（袈裟布料），保存超過十天，應予捨出。我把它捨給你。」如果說者的戒臘比聽者高，將 *bhante* 改為 *āvuso* 。如果要同時捨出多塊布，則應將形式改為複數：
+
+.. container:: pb-4
+
+   *Imāni me bhante cīvarāni dasāhātikkantāni nissaggiyāni. Imānāhaṁ āyasmato nissajjāmi.*
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - For robes beyond the reach of the hand, change *idaṁ* to *etaṁ*; *imāhaṁ* to *etāhaṁ*; *imāni* to *etāni*; and *imānāhaṁ* to *etānāhaṁ*. For example, for one robe, one would say:
+
+     - 伸手可及之處之外的袈裟，將 *idaṁ* 改為 *etaṁ* ； *imāhaṁ* 改為 *etāhaṁ* ； *imāni* 改為 *etāni* ；以及 *imānāhaṁ* to *etānāhaṁ* 。例如，對於一件袈裟，可以說：
+
+.. container:: pb-4
+
+   *Etaṁ me bhante cīvaraṁ dasāhātikkantaṁ nissaggiyaṁ. Etāhaṁ āyasmato nissajjāmi.*
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - For more than one robe beyond the reach of the hand, one would say:
+     - 對於不只一件伸手可及之處之外的袈裟，可以說：
+
+.. container:: pb-4
+
+   *Etāni me bhante cīvarāni dasāhātikkantāni nissaggiyāni. Etānāhaṁ āyasmato nissajjāmi.*
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - Once the offense has been confessed, the robe (robe-cloth) is to be returned to the original owner, using this formula:
+     - 一旦懺罪完成，袈裟（袈裟布料）將歸還給原來的擁有者，使用以下公式：
+
+.. container:: pb-4
+
+   *Imaṁ cīvaraṁ āyasmato dammi,*
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - which means, “I give this robe (robe-cloth) to you.”
+     - 意思是：「我把這件袈裟（袈裟布料）給你。」
+
+   * - For more than one piece:
+     - 對於超過一件：
+
+.. container:: pb-4
+
+   *Imāni cīvarāni āyasmato dammi.*
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - Changes in the formula for robe-cloth beyond the reach of the hand may be inferred from the preceding example. These two formulae for returning robe-cloth are used in every case involving robes or robe-cloth and will not be repeated below.
+
+     - 從前面的例子可以推論出伸手可及之處之外的袈裟布料的公式的變化。這兩個返還袈裟的公式適用於所有涉及袈裟或袈裟布料的情況，以下不再贅述。
+
 (未完待續)
 
 .. _appendixVII:
