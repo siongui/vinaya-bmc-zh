@@ -295,6 +295,33 @@
 
      - 從前面的例子可以推論出伸手可及之處之外的袈裟布料的公式的變化。這兩個返還袈裟的公式適用於所有涉及袈裟或袈裟布料的情況，以下不再贅述。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 2`_
+     - `《捨墮》二`_
+
+   * - For a robe from which one dwelled apart a night or more:
+     - 對於一件分開過夜一晚或更長時間的袈裟：
+
+.. container:: pb-4
+
+   *Idaṁ me bhante cīvaraṁ ratti-vippavutthaṁ aññatra bhikkhu-sammatiyā nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi,*
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - which means, “This robe of mine, venerable sir, from which I dwelled apart for a night without authorization of the bhikkhus, is to be forfeited. I forfeit it to you.” Change *cīvaraṁ* to *dvi-cīvaraṁ* for two robes, and to *ti-cīvaraṁ* for three. Other changes, as necessary, may be inferred from the formulae for `NP 1`_, above. The formulae for returning the robe(s) are also given there.
+
+     - 意思是：「尊者，未經比丘許可，我分開過夜的這件袈裟，將被捨出。我把它捨給你。」兩件袈裟將 *cīvaraṁ* 改為 *dvi-cīvaraṁ* ，三件袈裟則改為 *ti-cīvaraṁ* 。如有必要，其他變化可以從上面的\ `《捨墮》一`_\ 的公式中推斷出來。那裡也給出了歸還袈裟的公式。
+
+.. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
+.. _《捨墮》二: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
+.. TODO FIXME: replace link to 《捨墮》二
+
 (未完待續)
 
 .. _appendixVII:
