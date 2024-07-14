@@ -276,6 +276,62 @@
 .. _《捨墮》三: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
 .. TODO FIXME: replace link to 《捨墮》三
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 6`_
+     - `《捨墮》六`_
+
+   * - For a robe (robe-cloth) requested from an unrelated householder:
+     - 對於從非親戚的居士要求的袈裟（袈裟布料）：
+
+   * - *Idaṁ me bhante cīvaraṁ aññātakaṁ gahapatikaṁ aññatra samayā viññāpitaṁ nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi,*
+     -
+
+   * - which means, “This robe (robe-cloth) of mine, venerable sir, requested from an unrelated householder at other than the proper occasion, is to be forfeited. I forfeit it to you.”
+
+     - 意思是：「尊者，我的這件袈裟（袈裟布料），在非適合情況向非親戚的居士要求，應被捨出。我把它捨給你。」
+
+   * - For more than one robe:
+     - 對於超過一件袈裟：
+
+   * - *Imāni me bhante cīvarāni aññātakaṁ gahapatikaṁ aññatra samayā viññāpitāni nissaggiyāni. Imānāhaṁ āyasmato nissajjāmi.*
+     -
+
+.. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
+.. _《捨墮》六: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
+.. TODO FIXME: replace link to 《捨墮》六
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 7`_
+     - `《捨墮》七`_
+
+   * - For a robe (robe-cloth) requested from an unrelated householder during an allowable occasion, but beyond the allowable limit:
+     - 對於非親戚的居士在允許的情況下要求但超出允許限制的袈裟（袈裟布料）：
+
+   * - *Idaṁ me bhante cīvaraṁ aññātakaṁ gahapatikaṁ tad’uttariṁ viññāpitaṁ nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi,*
+     -
+
+   * - which means, “This robe (robe-cloth) of mine, venerable sir, requested beyond that (allowable) from an unrelated householder, is to be forfeited. I forfeit it to you.”
+
+     - 意思是：「尊者，我的這件袈裟（袈裟布料），向非親戚的居士索要超出（允許的限制），應被捨出。我把它捨給你。」
+
+   * - For more than one robe:
+     - 對於超過一件袈裟：
+
+   * - *Imāni me bhante cīvarāni aññātakaṁ gahapatikaṁ tad’uttariṁ viññāpitāni nissaggiyāni. Imānāhaṁ āyasmato nissajjāmi.*
+     -
+
+.. _NP 7: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
+.. _《捨墮》七: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
+.. TODO FIXME: replace link to 《捨墮》七
+
 (未完待續)
 
 .. _appendixVII:
