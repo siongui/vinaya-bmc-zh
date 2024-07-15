@@ -332,6 +332,76 @@
 .. _《捨墮》七: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
 .. TODO FIXME: replace link to 《捨墮》七
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 8`_
+     - `《捨墮》八`_
+
+   * - For cloth received after making a stipulation to an unrelated householder:
+     - 對於向非親戚居士作出指示後收到的布料：
+
+   * - *Idaṁ me bhante cīvaraṁ pubbe appavārito aññātakaṁ gahapatikaṁ upasaṅkamitvā cīvare vikappaṁ āpannaṁ nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi,*
+     -
+
+   * - which means, “This cloth, venerable sir—mine after, without having been invited beforehand, I approached an unrelated householder and made stipulations about cloth—is to be forfeited. I forfeit it to you.”
+
+     - 意思是：「尊者，我的這塊布，在沒有事先邀請的情況下，我接洽了一個非親戚的居士，並就布料做了指示——應該被捨出。我把它捨給你。」
+
+.. _NP 8: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP8
+.. _《捨墮》八: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP8
+.. TODO FIXME: replace link to 《捨墮》八
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 9`_
+     - `《捨墮》九`_
+
+   * - For cloth received after making stipulations to two or more unrelated householders, use the same formula as for the preceding rule, changing *aññātakaṁ gahapatikaṁ* to *aññātake gahapatike*.
+
+     - 對於向兩個或兩個以上非親戚的居士做出指示後收到的布料，使用與前一戒條相同的公式，將 *aññātakaṁ gahapatikaṁ* 更改為 *aññātake gahapatike* 。
+
+.. _NP 9: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP9
+.. _《捨墮》九: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP9
+.. TODO FIXME: replace link to 《捨墮》九
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 10`_
+     - `《捨墮》十`_
+
+   * - For a robe (robe-cloth) received after reminding one’s steward too many times:
+     - 對於太多次提醒淨人後收到的袈裟（袈裟布料）：
+
+   * - *Idaṁ me bhante cīvaraṁ atireka-tikkhattuṁ codanāya atireka-chakkhattuṁ ṭhānena abhinipphāditaṁ nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi,*
+     -
+
+   * - which means, “This robe (robe-cloth) of mine, venerable sir, produced after more than three reminders, after more than six standings, is to be forfeited. I forfeit it to you.”
+
+     - 意思是：「尊者，我的此袈裟（袈裟布料），經過三次以上的提醒，經過六次以上的站立後獲得，應被捨出。我把它捨給你。」
+
+.. _NP 10: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP10
+.. _《捨墮》十: {filename}Section0013%zh-hant.rst#np10
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 18`_ & 19_
+     - `《捨墮》一八`_ 及 `一九`_
+
+   * - The formulae for these rules are given at the beginning of this appendix.
+     - 這些戒條的公式在本附錄的開頭已經給出。
+
 (未完待續)
 
 .. _appendixVII:
