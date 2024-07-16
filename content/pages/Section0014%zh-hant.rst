@@ -231,7 +231,7 @@
 .. _NP 19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. _20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _《捨墮》一九: #np19
-.. _二十: #np20
+.. _二十: #NP20
 
 
 .. list-table::
@@ -261,7 +261,7 @@
 .. _附錄六: {filename}Section0028%zh-hant.rst#appendixVI
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _NP 23: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
-.. _《捨墮》二十: #np20
+.. _《捨墮》二十: #NP20
 .. _《捨墮》二三: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
 .. TODO FIXME: replace link to 《捨墮》二三
 
@@ -586,6 +586,10 @@
 
 
 .. _NP20:
+
+.. raw:: html
+
+   <span id="NP20"></span>
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

@@ -402,6 +402,73 @@
    * - The formulae for these rules are given at the beginning of this appendix.
      - 這些戒條的公式在本附錄的開頭已經給出。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 20`_
+     - `《捨墮》二十`_
+
+   * - For an article received in trade:
+     - 對於在交易中收到的物品：
+
+   * - *Ahaṁ bhante nānappakārakaṁ kaya-vikkayaṁ samāpajjiṁ. Idaṁ me nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi,*
+     -
+
+   * - which means, “Venerable sir, I have engaged in various types of trade. This of mine is to be forfeited. I forfeit it to you.”
+     - 意思是：「尊者，我從事過各種類型的交易。我的這個將被捨出。我把它捨給你。」
+
+   * - To return the article:
+     - 歸還物品：
+
+   * - *Imaṁ āyasmato dammi,*
+     -
+
+   * - which means, “I give this to you.”
+     - 意思是「我把這個給你」。
+
+.. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
+.. _《捨墮》二十: {filename}Section0014%zh-hant.rst#NP20
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 21`_
+     - `《捨墮》二一`_
+
+   * - For an extra bowl kept beyond ten days:
+     - 對於保存超過十天的額外的缽：
+
+   * - *Ayaṁ me bhante patto dasāhātikkanto nissaggiyo. Imāhaṁ āyasmato nissajjāmi,*
+     -
+
+   * - which means, “This bowl of mine, venerable sir, kept beyond ten days, is to be forfeited. I forfeit it to you.”
+     - 意思是：「尊者，我的這缽，保存超過十天，將被捨出。我把它捨給你。」
+
+   * - To return the bowl:
+     - 歸還缽：
+
+   * - *Imaṁ pattaṁ āyasmato dammi.*
+     -
+
+.. _NP 21: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
+.. _《捨墮》二一: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
+.. TODO FIXME: replace link to 《捨墮》二一
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 22`_
+     - `《捨墮》二二`_
+
+   * - The formula for this rule is given at the beginning of this appendix.
+     - 本戒條的公式在本附錄的開頭已經給出。
+
 (未完待續)
 
 .. _appendixVII:
