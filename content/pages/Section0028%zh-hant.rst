@@ -469,6 +469,75 @@
    * - The formula for this rule is given at the beginning of this appendix.
      - 本戒條的公式在本附錄的開頭已經給出。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 23`_
+     - `《捨墮》二三`_
+
+   * - For any of the five tonics kept beyond seven days:
+     - 對於任何五種補品，保存超過七日：
+
+   * - *Idaṁ me bhante bhesajjaṁ sattāhātikkantaṁ nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi,*
+     -
+
+   * - which means, “This medicine of mine, venerable sir, kept beyond seven days, is to be forfeited. I forfeit it to you.”
+     - 意思是：「尊者，我的此藥，保存超過七日，將被捨出。我把它捨給你。」
+
+   * - To return the medicine:
+     - 歸還該藥：
+
+   * - *Imaṁ bhesajjaṁ āyasmato dammi.*
+     -
+
+.. _NP 23: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
+.. _《捨墮》二三: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
+.. TODO FIXME: replace link to 《捨墮》二三
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 25`_
+     - `《捨墮》二五`_
+
+   * - For a robe (robe-cloth) snatched back in anger:
+     - 對於憤怒地奪回的袈裟（袈裟布料）：
+
+   * - *Idaṁ me bhante cīvaraṁ bhikkhussa sāmaṁ datvā acchinnaṁ nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi,*
+     -
+
+   * - which means, “This robe (robe-cloth) of mine, venerable sir, snatched back after I myself gave it to a bhikkhu, is to be forfeited. I forfeit it to you.”
+     - 意思是：「尊者，我的這件袈裟（袈裟布料），在我親自給予比丘後被奪回，應被捨出。我把它捨給你。」
+
+.. _NP 25: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP25
+.. _《捨墮》二五: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP25
+.. TODO FIXME: replace link to 《捨墮》二五
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 28`_
+     - `《捨墮》二八`_
+
+   * - For a robe (robe-cloth) offered in urgency kept beyond the robe season:
+     - 對於緊急供養的袈裟（袈裟布料），保存超過袈裟季節：
+
+   * - *Idaṁ me bhante acceka-cīvaraṁ cīvara-kāla-samayaṁ atikkāmitaṁ nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi,*
+     -
+
+   * - which means, “This robe-cloth-offered-in-urgency of mine, venerable sir, kept beyond the robe season, is to be forfeited. I forfeit it to you.”
+     - 意思是：「尊者，我的這件緊急供養的袈裟，保存超過袈裟季節，將被捨出。我把它捨給你。」
+
+.. _NP 28: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28
+.. _《捨墮》二八: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28
+.. TODO FIXME: replace link to 《捨墮》二八
+
 (未完待續)
 
 .. _appendixVII:
