@@ -538,7 +538,55 @@
 .. _《捨墮》二八: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28
 .. TODO FIXME: replace link to 《捨墮》二八
 
-(未完待續)
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 29`_
+     - `《捨墮》二九`_
+
+   * - For a robe separated from one for more than six nights:
+     - 對於一件袈裟分離超過六夜：
+
+   * - *Idaṁ me bhante cīvaraṁ atireka-chā-rattaṁ vippavutthaṁ aññatra bhikkhu-sammatiyā nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi,*
+     -
+
+   * - which means, “This robe of mine, venerable sir, separated (from me) for more than six nights without authorization of the bhikkhus, is to be forfeited. I forfeit it to you.” Change *cīvaraṁ* to *dvi-cīvaraṁ* for two robes, and to *ti-cīvaraṁ* for three.
+
+     - 意思是：「尊者，未經比丘們許可，我的這件袈裟（與我）分離超過六夜，將被捨出。我把它捨給你。」兩件袈裟則將 *cīvaraṁ* 改為 *dvi-cīvaraṁ*，三件改為 *ti-cīvaraṁ* 。
+
+.. _NP 29: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
+.. _《捨墮》二九: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
+.. TODO FIXME: replace link to 《捨墮》二九
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `NP 30`_
+     - `《捨墮》三十`_
+
+   * - For gains intended for the Community that one has diverted to oneself:
+     - 施向僧團的所得而挪為己用者：
+
+   * - *Idaṁ me bhante jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ attano pariṇāmitaṁ nissaggiyaṁ. Imāhaṁ āyasmato nissajjāmi,*
+     -
+
+   * - which means, “This of mine, venerable sir, which—knowing it was intended for the Community—I diverted for myself, is to be forfeited. I forfeit it to you.”
+     - 意思是，「尊者，我的這個——知道它是為僧團而施的——我挪為己用了，將被捨出。我把它捨給你。」
+
+   * - To return the article:
+     - 歸還該物品：
+
+   * - *Imaṁ āyasmato dammi.*
+     -
+
+.. _NP 30: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
+.. _《捨墮》三十: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
+.. TODO FIXME: replace link to 《捨墮》三十
+
 
 .. _appendixVII:
 
