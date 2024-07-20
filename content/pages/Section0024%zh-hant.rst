@@ -63,4 +63,20 @@
 
      - 然而，比丘在寺院或他所拜訪的住處中發現掉落的貴重物品，如果他沒有撿起來，之後如果丟失的話，可能要承擔責任：因此，戒條中提到的兩種情況是豁免的。在這類情況下，比丘甚至可以拿走金錢和其他他通常不被允許拿走的物品。事實上，《戒律入口》指出，如果他\ *不*\撿起貴重物品並將其妥善保管，他犯《突吉羅》。其他文獻都沒有提到這一點，儘管這可能是合理的，因為比丘在這裡沒有遵循「適當的方針」而忽視了他的職責。
 
+   * - The Vibhaṅga advises that if a bhikkhu has picked up a fallen valuable in this way and put it in safe keeping, he should take note of its features. (The Commentary adds that if it is a bag of money, he should open the bag and count how much it contains. The same would hold for such things as wallets at present.) He should then have an announcement made, “Let him come whose goods are lost.” If a person comes to claim the item, the bhikkhu should ask him/her to describe it. If the person describes it correctly, the bhikkhu should hand it over. If not, he should tell the person to “keep looking.” If the bhikkhu is going to leave the monastery to live elsewhere, he should entrust the item to another bhikkhu or—if no suitable bhikkhu is available—to a suitable lay person (§).
+
+     - 《經分別》建議，如果比丘以這種方式撿起掉落的貴重物品並將其妥善保管，他應該記下它的特徵。（《義註》補充說，如果是一袋金錢，他應該打開袋子數一下裡面有多少錢。在目前，錢包之類的東西也應如此做。）然後他應該宣布：「誰的東西丟了請過來。」如果有人來領取物品，比丘應該請他/她描述它。如果此人描述正確，比丘應該交給他。如果不正確，他應該告訴這個人「繼續尋找」。如果比丘要離開寺院到其他地方居住，他應該將物品託付給另一位比丘，或者－－如果沒有合適的比丘－－託付給合適的在家人（§）。
+
+   * - The Commentary adds that if, after a suitable length of time, no one comes to claim the item, the bhikkhu should have it exchanged for something of lasting use to the monastery. If, after that, the owner does come to claim the item, the bhikkhu should tell him/her of the use to which it was put. If the owner is satisfied, there is no problem. If not, the bhikkhu should arrange to have the owner compensated. However, as we noted in the discussion of compensation under `Pr 2`_, the Canon imposes only one potential penalty on a bhikkhu in a situation such as this: The Community, if it sees fit, can force him to apologize to the owner (`Cv.I.20`_; see `BMC2, Chapter 20`_).
+
+     - 《義註》補充說，如果在一段適當的時間後，沒有人來領取該物品，比丘應該將其換成對寺院持久使用的東西。如果之後，所有者真的來領取該物品，比丘應該告訴他/她該物品的用途。如果所有者滿意的話就沒有問題。如果不滿意，比丘應該安排對所有者進行補償。然而，正如我們在討論\ `《波羅夷》二`_\ 下的賠償時所指出的，在這種情況下，《聖典》只對比丘施加一種潛在的處罰：如果僧團認為合適，可以強迫他向所有者道歉（\ `《小品》.一.20`_\；見\ `《佛教修道準則 第二冊》第二十章`_\）。
+
+.. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
+.. _Cv.I.20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.20
+.. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
+.. _《小品》.一.20: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0024a12
+.. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
+
 (未完待續)
