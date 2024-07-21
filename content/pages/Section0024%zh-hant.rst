@@ -71,6 +71,21 @@
 
      - 《義註》補充說，如果在一段適當的時間後，沒有人來領取該物品，比丘應該將其換成對寺院持久使用的東西。如果之後，所有者真的來領取該物品，比丘應該告訴他/她該物品的用途。如果所有者滿意的話就沒有問題。如果不滿意，比丘應該安排對所有者進行補償。然而，正如我們在討論\ `《波羅夷》二`_\ 下的賠償時所指出的，在這種情況下，《聖典》只對比丘施加一種潛在的處罰：如果僧團認為合適，可以強迫他向所有者道歉（\ `《小品》.一.20`_\；見\ `《佛教修道準則 第二冊》第二十章`_\）。
 
+   * - The factors for the offense here are four.
+     - 這裡的犯戒因素有四個。
+
+   * - *1) Object:* a valuable or anything considered a valuable that one finds left behind, except in a monastery or a dwelling that one is visiting.
+     - *1）對象：*\發現留下的有價值的東西或任何被認為有價值的東西，除了在拜訪的寺院或住處中。
+
+   * - *2) Perception:* One does not perceive it as discarded.
+     - *2）感知：*\不認為它是被丟棄的。
+
+   * - *3) Intention:* One wants to keep it in safe keeping for the owner.
+     - *3）意圖：*\希望為所有者保管它。
+
+   * - *4) Effort:* One picks it up or has someone else pick it up.
+     - *4）努力：*\自己撿起或讓別人撿起。
+
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
 .. _Cv.I.20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.20
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
@@ -78,5 +93,21 @@
 .. _《小品》.一.20: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0024a12
 .. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga defines a *valuable* as jewels, gold, or silver. At present, money would be included here. *What is considered a valuable* means anything that people use or consume. Items meeting these definitions at present would include wallets, watches, keys, eyeglasses, cameras, etc.
+
+     - 《經分別》將\ *有價值的物品*\定義為珠寶、黃金或白銀。目前，金錢也包含在這裡。\ *被認為有價值的東西*\是指人們使用或消費的任何東西。目前符合這些定義的物品包括錢包、手錶、鑰匙、眼鏡、相機等。
+
+   * - According to the K/Commentary, the object has to belong to someone else to fulfill the factor of effort here. The Vibhaṅga does not state this point explicitly, but it does make the point implicitly with the activities it discusses under this rule: putting an item in safe keeping, quizzing those who come to claim it, taking an item on trust, borrowing it. These are all activities that pertain to the belongings of others, and not to one’s own belongings. The K/Commentary adds that if the owner has given one permission to take the article, it does not fulfill the factor of object here. This comment has to be qualified, of course, by noting that if the item is a valuable, then taking it would involve an offense under another rule.
+
+     - 根據 K/《義註》，物品必須屬於其他人才能滿足此處的努力因素。《經分別》沒有明確說明這一點，但它確實透過在本戒條下討論的活動隱含地表達了這一點：妥善保管一件物品，詢問那些前來索取它的人，託付一件物品，借用它。這些都是與他人的財物有關的活動，而不是與自己的財物有關的活動。 K/《義註》補充說，如果所有者已給予拿取該物品的權限，則不滿足此處的對象因素。當然，這個評論必須是有限制的，留意到如果該物品是貴重物品，那麼根據另一條戒條，拿走它就會涉及犯戒。
 
 (未完待續)
