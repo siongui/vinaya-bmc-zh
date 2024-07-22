@@ -331,6 +331,15 @@
 
    * - In making the exception for what happens while asleep, the Buddha states that even though there may be the intention to cause an emission, it doesn’t count. The Commentary goes on to say, however, that if a bhikkhu fully awakens in the course of a wet dream, he should lie still and be extremely careful not to make a move that would fulfill the factor of effort under this rule. If the process has reached the point where it is irreversible and the ejaculation occurs spontaneously, he incurs no penalty regardless of whether he enjoys it. And as the Commentary quotes from the Kurundī, one of the ancient Sinhalese commentaries on which it is based, if he wakes up in the course of a wet dream and grabs hold of his penis to prevent the ejaculation from soiling his robes or bedding, there is no offense.
 
+       ..
+          覺音論師注釋書略述
+
+          國立臺灣大學
+          https://buddhism.lib.ntu.edu.tw › JR-BJ010
+          PDF
+          by 莊國彬 · 2008 — 另外，在《律藏‧注釋書》的跋. 中，覺音論師提到跟Buddhamitta 學習Mahā-aṭṭhakathā、mahāpaccarī、 kurundī 等三種錫蘭注釋文獻。25 所以所謂的錫蘭文獻，在覺音論師時.
+          22 pages
+
      - 在對睡眠時發生的情況進行例外處理時，佛陀指出，即使可能有導致泄精的意圖，但這不算數。然而，《義註》接著說，如果比丘在春夢中完全醒來，他應該靜靜地躺著，並且要非常小心，不要做出會滿足本戒條下努力因素的舉動。如果這個過程已經達到不可逆轉的地步並且射精自然發生，那麼無論他是否享受它，他都不會受到懲罰。正如《義註》引用的《Kurundī》（這是其所依據的古代僧伽羅註釋之一）中的那樣，如果他在春夢中醒來並抓住他的陰莖以防止射精弄髒他的袈裟或床上用品，那麼並沒有犯戒。
 
    * - However, the Commentary’s two cases concerning nocturnal emissions, mentioned above, indicate that if a nocturnal emission occurs after a bhikkhu made a fully intentional effort toward an emission before falling asleep, he would incur the full offense under this rule unless the effort and intent were clearly stopped with a clear change of heart while he was still awake. This is because all three factors under this rule would be fully present: a conscious, unhesitating decision to cause an emission; a conscious effort based on that decision; and the resulting emission. Whether or not one was conscious while it occurred is of no account.
