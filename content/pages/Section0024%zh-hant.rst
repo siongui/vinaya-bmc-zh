@@ -133,9 +133,48 @@
 
      - 根據《義註》，如果撿取金錢用於自己、僧團或除所有者之外的任何人，則該情況將屬於\ `《捨墮》一八`_\，而不是這裡。對於珠寶和半寶石等《突吉羅》物件也是如此。然而，這項判定似乎僅在以下情況成立：認為金錢等被丟棄，或留下供拿取者或拿取者僧團使用。如果不認為它被丟棄或遺棄，並且沒有借用它或親厚取，則該情況將屬於\ `《波羅夷》二`_\，無論該物品是什麼。
 
+   * - The Commentary also makes the peculiar point that if one sees an item belonging to one’s mother or other close relative left behind on the roadside, one would incur the full penalty under this rule for picking it up to put in safe keeping for the owner, but no offense if one took the item, on trust, for one’s own. Of course, after taking it on trust like this, one could then without penalty give it back to the owner as one liked.
+
+     - 《義註》還提出了一個奇特的觀點，如果看到屬於自己母親或其他近親的物品留在路邊，根據本戒條，拾起該物品並妥善保管將受到全額懲罰，但如果出於親厚而拿取這件物品，則沒有犯戒。當然，這樣親厚取之後，就可以依照自己的喜好，不受懲罰地還給所有者了。
+
 .. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. _《捨墮》一八: {filename}Section0014%zh-hant.rst#NP18
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
 .. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - When getting someone else to pick up the item, the offense is incurred not in the asking but only when the other person does as asked.
+     - 當讓別人拿起物品時，犯戒行為不是在要求時發生的，而是在對方按照要求行事時才發生的。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if, within a monastery or a dwelling, one picks up a valuable or what is considered a valuable—or if one has it picked up—with the thought, “Whoever this belongs to will come for it.” (§)
+
+     - 如果在寺院或住處內，撿起一件貴重物品或被認為是貴重物品—或如果令其被撿起—心裡想：「無論這東西是誰的，都會來拿它。」並沒有犯戒。（§）
+
+   * - Also, according to the Vibhaṅga, there is no offense in taking an item “considered to be a valuable” no matter where it is found if one takes it on trust, borrows it, or perceives it as having been thrown away (§).
+
+     - 此外，根據《經分別》，如果基於信任拿走一件「被認為是有價值的」物品、借用它或認為它已被扔掉，那麼無論它在哪裡被發現，都不會構成犯戒（§）。
+
+   * - *Summary: Picking up a valuable, or having it picked up, with the intention of putting it in safe keeping for the owner—except when one finds it in a monastery or in a dwelling one is visiting—is a pācittiya offense.*
+
+     - *摘要：撿起或讓人撿起貴重物品，並意圖為所有者將其妥善保管——除非在寺院或正在拜訪的住處中發現它——是《波逸提》罪。*
+
+.. container:: has-text-centered
+
+   \*    \*    \*
 
 (未完待續)
