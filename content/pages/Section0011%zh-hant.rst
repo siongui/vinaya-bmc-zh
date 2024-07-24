@@ -22,6 +22,10 @@
 
 .. _Sg1:
 
+.. raw:: html
+
+   <span id="Sg1"></span>
+
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
    :widths: auto
@@ -356,6 +360,10 @@
 
 
 .. _Sg2:
+
+.. raw:: html
+
+   <span id="Sg2"></span>
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -865,6 +873,10 @@
 
 .. _Sg3:
 
+.. raw:: html
+
+   <span id="Sg3"></span>
+
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
    :widths: auto
@@ -879,5 +891,32 @@
      - .. container:: notification
 
           *如果任何比丘被貪欲所征服，以變易之心，以年輕男子對年輕女子暗示性交的方式對女子說出淫穢的話，僧殘。*
+
+   * - “Now at that time Ven. Udāyin was living in the wilderness. And on that occasion many women came to the monastery to look at his dwelling. They went to him and on arrival said to him, ‘Venerable sir, we would like to look at your dwelling.’ Then Ven. Udāyin, showing the dwelling to the women and referring to their genital and anal orifices, praised and criticized and begged and implored and asked and quizzed and advised and instructed and insulted them. Those of the women who were brazen, mischievous, and shameless giggled along with Ven. Udāyin, coaxed him on, laughed aloud, and teased him; while those of the women who had a sense of shame complained to the bhikkhus as they left: ‘It’s improper, venerable sirs, and unbecoming! Even by our husbands we wouldn’t want (to hear) this sort of thing said, much less by Master Udāyin.’”
+
+     - 「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0177a10>`__\，優陀夷尊者住在林野裡。其時，許多女人來到寺院參觀他的住所。他們去找他，抵達後對他說：『尊者，我們想看看您的住所。』於是優陀夷尊者向女人們展示住處，並提及她們的生殖器和肛門孔，讚美、批評、乞求、懇求、要求、詢問、建議、指導、侮辱她們。那些厚顏無恥的女人，也隨著優陀夷尊者一起咯咯地笑起來，哄他，大笑，戲弄他。而那些有羞恥感的女人則在離開時向比丘們抱怨道：『尊者，這是不恰當的，不合時宜的！即使是我們的丈夫，我們也不想（聽到）這種話，更不用說大德優陀夷了。』」
+
+   * - The K/Commentary, summarizing the Vibhaṅga’s discussion, lists five factors for a full breach of this rule.
+     - K/《義註》總結了《經分別》的討論，列出了完全違反本戒條的五個因素。
+
+   * - *1) Object:* a woman, i.e., any female human being experienced enough to know what is properly said and improperly said, what is lewd and not lewd.
+     - *1）對象：*\女人，即任何有足夠經驗的女性，知道什麼是適當的言論，什麼是不適當的言論，什麼是淫穢的和不淫穢的。
+
+   * - *2) Perception:* The bhikkhu perceives her to be a woman.
+     - *2）感知：*\比丘認為她是女人。
+
+   * - *3) Intention:* He is impelled by lust. As in the preceding rule, we can take the Commentary’s definition of lust here as the *minimum* amount of lust to fulfill this factor: He wants to enjoy saying something lewd or improper.
+
+     - *3）意圖：*\他被欲望所驅使。正如前一條戒條一樣，我們可以將《義註》中對色欲的定義理解為滿足這一因素的\ *最低*\限度的色欲：他想要享受說一些淫穢或不適當的事。
+
+   * - *4) Effort:* He makes remarks praising, criticizing, begging, imploring, asking, quizzing, advising, instructing, or insulting with reference to her genitals or anus, or to her performing sexual intercourse.
+
+     - *4）努力：*\他對她的生殖器或肛門或她進行性交發表讚揚、批評、乞求、懇求、要求、詢問、建議、指導或侮辱的言論。
+
+   * - *5) Result:* The woman immediately understands.
+     - *5）結果：*\女人立刻明白了。
+
+   * - The only factors requiring detailed explanation here are object, intention, effort, and result.
+     - 這裡唯一需要詳細解釋的因素是對象、意圖、努力和結果。
 
 (未完待續)
