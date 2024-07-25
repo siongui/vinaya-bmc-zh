@@ -919,4 +919,51 @@
    * - The only factors requiring detailed explanation here are object, intention, effort, and result.
      - 這裡唯一需要詳細解釋的因素是對象、意圖、努力和結果。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - As the Commentary notes, a woman who does not know what is properly and improperly said, what is lewd and not lewd, may either be too young to know or, if she is an adult, too innocent or retarded to know. A woman who does not know the language in which one is speaking would also not fulfill the factor of object here.
+
+     - 正如《義註》所指出的，一個女人如果不知道什麼是適當的言論和不適當的言論，什麼是淫穢的和不淫穢的，可能要麼太年輕而無法知道，要麼，如果她是成年人，則太天真或太遲鈍而無法知道。一個不懂對方所用語言的女性也無法滿足這裡的對象因素。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - The minimum level of desire required to fulfill this factor means that this rule covers cases where a bhikkhu simply gets a charge out of referring to a woman’s genitals, etc., in her presence, without necessarily having any desire actually to have sex with her.
+
+     - 滿足這一因素所需的最低欲望水平意思是，本戒條涵蓋了比丘只是因為在女人在場時提及女人的生殖器等而受到指控，而實際上不一定有與她發生性關係的任何欲望的情況。
+
+   * - The Vibhaṅga makes clear that this rule does not cover statements made in anger. Thus any insults a bhikkhu may direct at a woman out of anger rather than out of desire—even if they refer to her genitals, etc.—would come under `Pc 2`_, rather than here.
+
+     - 《經分別》明確指出，本戒條不包括憤怒時所發表的言論。因此，比丘出於憤怒而不是出於欲望而對女性進行的任何侮辱——即使他們指的是她的生殖器等——都屬於\ `《波逸提》二`_\，而不是這裡。
+
+.. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
+.. _《波逸提》二: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
+.. TODO FIXME: replace link to 《波逸提》二
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga states that to incur the full penalty here when speaking to a woman, one must refer to her genitals, anus, or performing sexual intercourse (§).
+     - 《經分別》規定，在與女性交談時，必須提及她的生殖器、肛門或進行性交（§），才會受到全額懲罰。
+
+   * - The Commentary goes further and asserts that to incur the full penalty one must make direct mention of one of these three things, or accuse her of being sexually deformed in a way that refers directly to her genitals. Otherwise, if one refers lustfully to these matters without directly mentioning them, there is no saṅghādisesa, although the Sub-commentary quotes ancient texts called the Gaṇṭhipadas as assigning a dukkaṭa for such an act.
+
+     - 《義註》進一步指出，要受到全額懲罰，必須直接提及這三件事之一，或者以直接涉及其生殖器的方式指控她性畸形。否則，如果一個人貪欲地談起這些事情而不直接提及它們，則不犯《僧殘》，儘管《複註》引用了稱為《隱晦文句》（Gaṇṭhipada）的古代文獻，將這種行為指定為《突吉羅》。
+
 (未完待續)
