@@ -966,4 +966,20 @@
 
      - 《義註》進一步指出，要受到全額懲罰，必須直接提及這三件事之一，或者以直接涉及其生殖器的方式指控她性畸形。否則，如果一個人貪欲地談起這些事情而不直接提及它們，則不犯《僧殘》，儘管《複註》引用了稱為《隱晦文句》（Gaṇṭhipada）的古代文獻，將這種行為指定為《突吉羅》。
 
+   * - However, these assertions from the commentaries contradict the Vibhaṅga. After listing the ways of referring to the woman’s anus, genitals, and sexual intercourse that would entail the full penalty under this rule, it illustrates them with examples. Many of the examples, although referring to the woman’s private parts or to her performing sexual intercourse, do not actually mention those words: “How do you give to your husband?” “How do you give to your lover?” “When will your mother be reconciled (to our having sex)?” “When will you have a good opportunity?” Although all of these statements refer to sexual intercourse, and people in those days would have understood them in that light, none of them actually mentions it.
+
+     - 然而，註釋書中的這些主張與《經分別》相矛盾。在列出了根據本戒條將導致全額懲罰的提及女性肛門、生殖器和性交的方式後，\ `它舉例說明了它們 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0179a09>`_\。許多例子雖然提到了女性的私處或和她性交，但實際上並沒有提到這些字詞：「你如何給你的丈夫？」「你如何給你的愛人？」「你媽媽什麼時候才能接受（我們做愛）？」「什麼時候有個好機會？」儘管所有這些說法都涉及性交，當時的人們也會從這個角度來理解它們，但實際上沒有一個提到它。
+
+   * - Thus the Vibhaṅga’s examples indicate that if a bhikkhu is using slang expressions, euphemisms, or indirect statements to refer lustfully to the woman’s private parts or to her performing sexual intercourse, he fulfills this factor. There is no need for the euphemisms to be well known. If the speaker intends it as a reference to the forbidden topics, that fulfills the factor of effort. If his listener understands it as such, that fulfills the factor of result. Whether anyone else understands it as such is irrelevant to the offense.
+
+     - 因此，《經分別》的例子表明，如果比丘使用俚語、委婉語或間接的陳述來淫穢地提及女性的私處或她進行性交，他就滿足了這個因素。委婉語不需要眾所周知。如果說話者打算將其指涉禁忌話題，那就滿足了努力的因素。如果他的聽眾如此理解它，那就滿足了結果因素。其他人是否如此理解它與犯戒無關。
+
+   * - The K/Commentary notes that a hand gesture denoting the genitals, anus, or sexual intercourse of the person to whom it is directed would fulfill the factor of effort here as well.
+
+     - K/《義註》指出，表示其所針對的人的生殖器、肛門或性交的手勢也可以滿足這裡的努力因素。
+
+   * - None of the texts mention the case in which a bhikkhu talks to one person about another person’s private parts, etc. Thus it is apparently not an offense.
+
+     - 所有的文獻都沒有提到比丘與某一個人談論另一個人的私處等等的情況。因此，這顯然不構成犯戒。
+
 (未完待續)
