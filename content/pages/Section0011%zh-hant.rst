@@ -982,4 +982,54 @@
 
      - 所有的文獻都沒有提到比丘與某一個人談論另一個人的私處等等的情況。因此，這顯然不構成犯戒。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Result**
+     - **結果**
+
+   * - The K/Commentary insists that the factor of result is fulfilled only if the woman immediately understands. As the Vibhaṅga points out, if she does not understand, the bhikkhu incurs a lesser offense, which will be discussed below. If she understands only later, that does not turn the lesser offense into a saṅghādisesa. The examples from the Vinīta-vatthu indicate that the woman’s immediate understanding can be known by her immediate response to one’s comments.
+
+     - K/《義註》堅持認為，只有當女人立即理解時，結果因素才得以實現。正如《經分別》所指出的，如果她不了解，比丘會犯較輕的罪行，這將在下面討論。如果她後來才明白，那不會將較輕的罪行變成《僧殘》。《Vinīta_-vatthu_》中的例子表明，女人的立即理解可以透過她對評論的立即反應來得知。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Derived offenses**
+     - **衍生違犯**
+
+   * - The factors of effort, object, perception, and result, taken together, yield a number of permutations to which the Vibhaṅga assigns lesser offenses. As for the permutations of intention, see the section on non-offenses, below.
+
+     - 努力、對象、感知和結果的因素加在一起，產生了許多排列組合，《經分別》將這些排列組合指定為較輕的罪行。至於意圖的排列組合，請參閱下面有關不犯的部分。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Effort*
+     - *努力*
+
+   * - A bhikkhu speaks to a woman he perceives to be a woman and refers lustfully to parts of her body—aside from her private parts—below her collarbones and above her knees, such as her breasts, buttocks, or thighs: a thullaccaya. He refers to parts of her body outside of that area, such as her face or hairdo, or to clothing or jewelry she is wearing: a dukkaṭa.
+
+     - 比丘對一位他認為是女人的女人說話，並貪欲地提到她身體的某些部位——除了她的私處——鎖骨以下和膝蓋以上，例如她的胸部、臀部或大腿：《偷蘭遮》。他指的是她身體在該區域之外的部分，例如她的臉或髮型，或她穿著的衣服或珠寶：《突吉羅》。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Object*
+     - *對象*
+
+   * - A bhikkhu speaks to a paṇḍaka (in this and the following cases we are assuming that he perceives his object correctly) and refers lustfully to his private parts or to his performing sexual intercourse: a thullaccaya (§). He refers lustfully to other parts of the paṇḍaka’s body, his clothing, etc.: a dukkaṭa (§).
+
+     - 比丘對\ `黃門`_\說話（在本例和以下情況中，我們假設他正確地感知了他的對象），並貪欲地提及他的私處或他進行的性交：《偷蘭遮》（§）。他貪欲地提及\ `黃門`_\身體的其他部位、衣服等：《突吉羅》（§）。
+
+   * - A bhikkhu speaks to a man (or boy) and refers lustfully to any part of his listener’s body, clothing, etc.: a dukkaṭa (§). The same penalty holds for speaking lustfully to an animal—e.g., a nāga—about his/her body, ornaments, etc. (§).
+
+     - 比丘對一位男人（或男孩）說話，並貪欲地提及他聽眾的身體、衣服等的任何部分：《突吉羅》（§）。對動物－例如龍（nāga）－談論他/她的身體、裝飾品等，也會受到同樣的懲罰（§）。
+
 (未完待續)
