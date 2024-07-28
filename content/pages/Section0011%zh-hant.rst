@@ -255,7 +255,7 @@
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#pr1
 .. _睡眠沙彌案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0163a07
 .. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
-.. _《僧殘》二: #sg2
+.. _《僧殘》二: #Sg2
 .. _充滿欲望地凝視女性私處，處以《突吉羅》: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0164a02
 
 
@@ -1031,5 +1031,35 @@
    * - A bhikkhu speaks to a man (or boy) and refers lustfully to any part of his listener’s body, clothing, etc.: a dukkaṭa (§). The same penalty holds for speaking lustfully to an animal—e.g., a nāga—about his/her body, ornaments, etc. (§).
 
      - 比丘對一位男人（或男孩）說話，並貪欲地提及他聽眾的身體、衣服等的任何部分：《突吉羅》（§）。對動物－例如龍（nāga）－談論他/她的身體、裝飾品等，也會受到同樣的懲罰（§）。
+
+   * - For some reason the PTS edition of the Canon omits these derived offenses related to object under this rule. The Burmese and Sri Lankan editions are non-committal on the topic, for the relevant paragraphs are filled with ellipses that have been read in two ways. The PTS edition of the K/Commentary reads the ellipses as including the thullaccaya and dukkaṭa for speaking lustfully to a paṇḍaka, but not the dukkaṭas for speaking lustfully to a man or animal. The editors of the Thai edition of the Canon have interpreted the parallelism with the similar paragraph in `Sg 2`_ as indicating that “man” and “animal” *would* come under the ellipses, and so have included these cases in the text. This interpretation closes an important loophole and thus seems the more correct, so I have followed it here.
+
+     - 由於某種原因，《聖典》的 PTS 版本省略了與本戒條下的對象相關的這些衍生違犯。緬甸和斯里蘭卡版本對此主題不置可否，因為相關段落充滿了以兩種方式解讀的省略號。 K/《義註》的 PTS 版本將省略號解讀為包括貪欲地對\ `黃門`_\說話的《偷蘭遮》及《突吉羅》，但不包括貪欲地對人或動物說話的《突吉羅》。泰國版《聖典》的編輯者將\ `《僧殘》二`_\ 中類似段落的對應解釋為表明「人」和「動物」\ *應該*\出現在省略號之下，因此將這些情況納入了文獻中。這個解釋彌補了一個重要的漏洞，因此看起來更正確，所以我在這裡遵循它。
+
+   * - None of the texts make any mention of speaking lustfully to a woman/girl too inexperienced to understand what is and is not lewd. Using the Great Standards, though, we might argue from the cases included in the Vinīta-vatthu—where bhikkhus make punning references to women’s private parts, and the women do not understand—that a bhikkhu incurs a thullaccaya for referring directly to her genitals, anus, or performing sexual intercourse in her presence, and a dukkaṭa for referring indirectly in her presence to such things.
+
+     - 這些文本都沒有提到貪欲地對一位缺乏經驗、無法理解什麼是淫穢、什麼不是淫穢的女人/女孩說話。然而，使用《四大教示》，我們可以從《Vinīta_-vatthu_》中包含的案例中論證——比丘們雙關地提到女性的私處，而女性不理解——比丘因在她面前直接提及其生殖器、肛門或進行性交而犯《偷蘭遮》，而在她面前間接提及此類事情犯《突吉羅》。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Perception*
+     - *感知*
+
+   * - A bhikkhu speaking to a woman whom he perceives to be something else—a paṇḍaka, a man, an animal—incurs a thullaccaya if he refers lustfully to her genitals, anus, or performing sexual intercourse. If he is speaking to a paṇḍaka, a man, or an animal he misperceives—e.g., he thinks the paṇḍaka is a woman, the man is a paṇḍaka, the animal is a man—he incurs a dukkaṭa if he refers lustfully to those topics (§). (Again, the PTS edition omits most of the cases in this last sentence and includes only the case of a bhikkhu speaking lustfully to a paṇḍaka he perceives to be a woman; the Thai edition seems more correct in including the remaining cases as well.)
+
+     - 比丘對一位他認為是非女人的女人——\ `黃門`_\、男人、動物——說話，如果他貪欲地提到她的生殖器、肛門或進行性交，犯《偷蘭遮》。如果他在對\ `黃門`_\、男人或動物說話，他錯誤地感知——例如，他認為\ `黃門`_\是女人，男人是\ `黃門`_\，動物是男人——如果他貪欲地提及這些話題，犯《突吉羅》。（§）（同樣，PTS 版本省略了最後一句中的大部分案例，僅包括比丘對他認為是女性的\ `黃門`_\貪欲地說話的案例；泰國版本包括了其餘的案例似乎更正確。）
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Result*
+     - *結果*
+
+   * - As mentioned above, the Vinīta-vatthu contains a number of cases where bhikkhus speaking to women make punning references to the women’s genitals that the women do not understand. In one case the penalty is a thullaccaya; in the others, a dukkaṭa. The Commentary takes no note of the difference; the Sub-commentary notes it but has trouble making sense of it. In fact, it maintains that the bhikkhu in the thullaccaya case should receive a thullaccaya if the woman *does* understand his pun, which—given the explicit nature of the pun—makes no sense at all.
+
+     - 如上所述，《Vinīta_-vatthu_》包含許多比丘與女性交談時雙關地提到女性生殖器的例子，而女性並不理解。在其中一個案例，懲罰是《偷蘭遮》；其他則為《突吉羅》。《義註》沒有關注其中的差異；《複註》注意到了這一點，但在理解它上有問題。事實上，它堅稱，如果女人\ *確實*\ 理解他的雙關語，那麼在《偷蘭遮》案例中的比丘就應該受《偷蘭遮》，但考慮到雙關語的明確性質，這完全說不通。
 
 (未完待續)
