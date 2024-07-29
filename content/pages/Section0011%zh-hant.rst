@@ -1062,4 +1062,43 @@
 
      - 如上所述，《Vinīta_-vatthu_》包含許多比丘與女性交談時雙關地提到女性生殖器的例子，而女性並不理解。在其中一個案例，懲罰是《偷蘭遮》；其他則為《突吉羅》。《義註》沒有關注其中的差異；《複註》注意到了這一點，但在理解它上有問題。事實上，它堅稱，如果女人\ *確實*\ 理解他的雙關語，那麼在《偷蘭遮》案例中的比丘就應該受《偷蘭遮》，但考慮到雙關語的明確性質，這完全說不通。
 
+   * - There is, however, a pattern to the Vinīta-vatthu cases. The thullaccaya case is the only one in which the bhikkhu actually mentions a word for genitals or anus (*magga*, which also means road, the meaning the woman understood). In the dukkaṭa cases, bhikkhus either use euphemisms for sexual intercourse (“plowing,” “working”) or else they make statements in which the words *genitals* or *anus* are implied but not actually stated. From this pattern we can argue that if a bhikkhu speaking to a woman makes direct reference to her genitals or anus, and the woman doesn’t immediately understand that he is referring to those things, he incurs a thullaccaya. If he makes a euphemistic reference to sexual intercourse or an implied reference to her genitals or anus, and she doesn’t immediately understand what he is referring to, he incurs a dukkaṭa.
+
+     - 然而，《Vinīta_-vatthu_》案例有一個模式。《偷蘭遮》案例是唯一一個比丘實際上提到了生殖器或肛門這個詞（magga，也意指道路，女人所理解的意思）的案例。在《突吉羅》的案例中，比丘要麼使用委婉說法來表示性交（「犁地」、「工作」），要麼在陳述中隱含\ *生殖器*\ 或\ *肛門*\ 這些詞，但實際上並未明說。從這個模式我們可以論證，如果比丘對女人說話時直接提到她的生殖器或肛門，而這個女人並沒有立即明白他指的是那些東西，他犯《偷蘭遮》。如果他委婉地提及性交或暗示提及她的生殖器或肛門，而她無法立即理解他所指的內容，他犯《突吉羅》。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Counting offenses**
+     - **犯戒計算**
+
+   * - A bhikkhu making a remark of the sort covered by this rule to *x* number of people commits *x* number of offenses, the type of offense being determined by the factors discussed above. Thus for a lustful remark to two women referring to their breasts, he would incur two thullaccayas; for a lustful remark to three men concerning their bodies, three dukkaṭas; for teasing a group of twenty old ladies about how their time for sexual performance is past, twenty saṅghādisesas.
+
+     - 比丘對 *x* 個人發表本戒條所涵蓋的那種言論，就犯下了 *x* 次罪行，罪行的類型由上述討論的因素決定。因此，如果他對兩個女人說了一句淫穢的話，指的是她們的乳房，他就會犯兩次《偷蘭遮》。對三個男人發表關於他們身體的淫穢言論，三次《突吉羅》；取笑一個有二十位老太太的群體，說她們的性行為時間已經過去了，二十次《僧殘》。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The Vibhaṅga states that there is no offense for a bhikkhu who speaks aiming at (spiritual) welfare (*attha*\—this can also mean the “meaning of the Dhamma”), aiming at Dhamma, or aiming at teaching. Thus, for example, if one is talking in front of women and has no lustful intent, one may recite or explain this training rule or go into detail on the topic of the loathsomeness of the body as a topic of meditation, all without incurring a penalty. The Commentary here adds an example of a bhikkhu addressing a sexually deformed woman, telling her to be heedful in her practice so as not to be born that way again. If, however, one were to broach any of these topics out of a desire to enjoy saying something lewd to one’s listeners, one would not be immune from an offense. The New K/Sub-commentary illustrates this point with an example: A bhikkhu, teaching the Vibhaṅga of this rule to a bhikkhunī, departs from a normal tone of voice and keeps sniggering while reciting the examples of lewd speech. This sort of behavior, it says, incurs the full offense here.
+
+     - 《經分別》指出，比丘以（精神）福祉為目的（\ *attha*\－這也可指「法的意義」）、以法為目的或以教導為目的而發言，並不犯戒。譬如，若在女人面前說話，無淫欲意圖，可持誦或解說本學處，或詳述身可厭為禪修話題，皆不受懲罰。這裡的《義註》增加了比丘對性畸形女人發言的例子，告訴她在修行時要小心，以免再重生為那樣。然而，如果出於享受對聽眾說些淫穢話的欲望而提出這些話題，那麼他就不能免於犯戒。新 K/《複註》用一個例子來說明這一點：一位比丘在向比丘尼教授此戒條的《經分別》時，在背誦淫穢話的例子時，語氣偏離了正常的語氣，一直在竊笑。它說，這種行為會導致完全違犯。
+
+   * - A bhikkhu who without intending to be lewd makes innocent remarks that his listener takes to be lewd commits no offense.
+     - 比丘無淫穢意圖而發表無辜的言論，而他的聽者認為是淫穢，這並不犯戒。
+
+   * - *Summary: Making a lustful remark to a woman about her genitals, anus, or about performing sexual intercourse is a saṅghādisesa offense.*
+     - *摘要：對女性的生殖器、肛門或進行性交做出淫穢的言論，是《僧殘》罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 (未完待續)
