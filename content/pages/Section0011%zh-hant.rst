@@ -1101,4 +1101,27 @@
 
    \*    \*    \*
 
+
+.. _Sg4:
+
+.. raw:: html
+
+   <span id="Sg4"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **4**
+     - **四**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, overcome by lust, with altered mind, speak in the presence of a woman in praise of ministering to his own sensuality thus: “This, sister, is the foremost ministration, that of ministering to a virtuous, fine-natured follower of the celibate life such as myself with this act”—alluding to sexual intercourse—it entails initial and subsequent meetings of the Community.*
+
+     - .. container:: notification
+
+          *若有比丘，被貪欲所征服，以變易之心，在一位女人面前，稱讚侍奉自己的色欲，如是說：「姊妹，以此行為來侍奉持戒、善行，像我這樣的梵行生活的弟子，這是最上的侍奉。」——暗指性交——僧殘。*
+
+
 (未完待續)
