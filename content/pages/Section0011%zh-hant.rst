@@ -1123,5 +1123,31 @@
 
           *若有比丘，被貪欲所征服，以變易之心，在一位女人面前，稱讚侍奉自己的色欲，如是說：「姊妹，以此行為來侍奉持戒、善行，像我這樣的梵行生活的弟子，這是最上的侍奉。」——暗指性交——僧殘。*
 
+   * - “Now at that time a certain woman, a widow, was beautiful, attractive, and appealing. So Ven. Udāyin, dressing (§) early in the morning, taking his robe and bowl, went to her residence. On arrival, he sat on an appointed seat. Then the woman went to him and, having bowed down to him, sat to one side. As she was sitting there, Ven. Udāyin instructed, urged, roused, and encouraged her with a talk on Dhamma. Then the woman—instructed, urged, roused, and encouraged with Ven. Udāyin’s talk on Dhamma—said to him, ‘Tell me, venerable sir, what I would be capable of giving you that you need: Robe-cloth? Almsfood? Lodgings? Medicines for the sick?’
+
+     - 「\ `當時有一個寡婦，美麗、有吸引力、迷人 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0183a14>`__\。所以優陀夷尊者一大早就穿好衣服（§），帶著袈裟和缽，去了她的住處。到達後，他坐在指定的座位。婦人走到他面前，向他頂禮，坐到一旁。當她坐在那裡時，優陀夷尊者以佛法開示來指導、敦促、喚醒和鼓勵她。然後，這位婦人—被優陀夷尊者的佛法開示指導、敦促、喚醒和鼓勵—對他說：『請告訴我，大德，我能夠給你什麼你需要的東西：袈裟布？飲食？住處？病人的醫藥？』
+
+   * - “‘Those things aren’t hard for us to come by, sister…. Give just what is hard for us to come by.’
+     - 「『這些東西對我們來說並不難得到，姐妹…給我們難以獲得的東西。』
+
+   * - “‘What, venerable sir?’
+     - 「『大德，是什麼？』
+
+   * - “‘Sexual intercourse.’
+     - 「『性交』
+
+   * - “‘Is it a need, venerable sir?’
+     - 「『這是大德所需要的？』
+
+   * - “‘A need, sister.’
+     - 「『姐妹，這是我所需要的』
+
+   * - “‘Then come, venerable sir.’ Entering into an inner room, taking off her cloak, she lay back on a bed. Then Ven. Udāyin went to the woman and, on arrival, said, ‘Who would touch this vile, stinking thing?’ And he departed, spitting.
+
+     - 「『那就來吧，大德。』進入內室，脫下大衣，躺在床上。然後優陀夷尊者走到那個女人面前，一到就說：『誰會碰這個骯髒、惡臭的東西？』然後他吐口唾沫離開了。
+
+   * - “So the woman criticized and complained and spread it about… ‘How can this monk Udāyin, when he himself begged me for sexual intercourse, say, “Who would touch this vile, stinking thing?” and depart spitting? What’s evil about me? What’s stinking about me? In what am I inferior to whom?’”
+
+     - 「所以那位婦女批評、抱怨並散佈這件事……『優陀夷沙門在親自乞求我性交時，怎麼能說：「誰會碰這個骯髒、惡臭的東西？」並吐痰離開？我有什麼不好的？我身上有什麼臭味？我在什麼方面不如誰？』」
 
 (未完待續)
