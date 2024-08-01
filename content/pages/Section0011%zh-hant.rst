@@ -1150,4 +1150,16 @@
 
      - 「所以那位婦女批評、抱怨並散佈這件事……『優陀夷沙門在親自乞求我性交時，怎麼能說：「誰會碰這個骯髒、惡臭的東西？」並吐痰離開？我有什麼不好的？我身上有什麼臭味？我在什麼方面不如誰？』」
 
+   * - At first glance this rule might seem redundant with the preceding one, for what we have here is another case of a bhikkhu advising, begging, or imploring a woman to perform sexual intercourse. The Sub-commentary, borrowing the Commentary’s classification of types of lust, states that the rules differ in terms of the lust involved. According to it, only the desire to say something lewd would fall under the preceding rule; only the desire for sexual intercourse would fall here. However, as we have seen, the Commentary’s neat system for classifying desires contradicts some important passages in the Vibhaṅga, and so the Sub-commentary’s explanation has no ground on which to stand.
+
+     - 與前一條乍看之下，本戒條似乎是多餘的，因為我們在這裡看到的是比丘建議、乞求或懇求女人進行性交的另一個例子。《複註》借用《義註》對貪欲種類的分類，指出戒條在所涉及的貪欲方面有所不同。根據它，只有想說一些淫穢的話才屬於前面的戒條；只有性交的欲望才會屬於這裡。然而，正如我們所看到的，《義註》對欲望的簡潔分類系統與《經分別》中的一些重要段落相矛盾，因此《複註》的解釋是沒有根據的。
+
+   * - A more likely explanation for the need for this rule derives from some facts about language and belief in the Buddha’s time that might have led some people to feel that the behavior in the origin story here was a special case not covered by the preceding rule. To prevent this sort of misunderstanding, it gets separate treatment under this rule.
+
+     - 對於本戒條的必要性，更可能的解釋來自於佛陀時代語言和信仰的一些事實，這些事實可能會讓一些人覺得這裡起源故事中的行為是前面的戒條未涵蓋的特殊情況。為了防止這種誤解，在本戒條下對其進行單獨處理。
+
+   * - “Giving,” in the Buddha’s time, was a common euphemism for having sex. If a woman “gave” to a man, that meant that she willingly engaged in sexual intercourse with him. Now, Buddhism was not the only religion of the time to teach that gifts—of a more innocent sort—given to contemplatives produced great reward to those who gave them, and ultimately somebody somewhere came up with the idea that because sex was the highest gift, giving it to a contemplative would produce the highest reward. Whether this idea was first formulated by faithful women or by clever contemplatives is hard to say. Several cases in the Vinīta-vatthu to `Pr 1`_ tell of bhikkhus approached or attacked by women professing this belief, which shows that it had some currency: Sex was somehow seen as a way to higher benefits through the law of kamma.
+
+     - 在佛陀時代，「給予」是性行為的常見委婉說法。如果一個女人「給予」一個男人，那就意味著她願意與他發生性關係。現在，佛教並不是當時唯一的宗教教導說：給予沙門的布施（單純的那種）會給那些給予布施的人帶來巨大的回報，最終有人提出了這樣的想法，因為性是最高的布施，將其給予沙門將產生最高的回報。很難說這個想法最初是由忠實的女性提出的，還是由聰明的沙門提出的。\ `《波羅夷》一`_\ 的《Vinīta_-vatthu_》中的幾個案例講述了比丘受到自稱這種信仰的女人接近或攻擊的情況，這表明它具有一定的流行性：性在某種程度上被視為透過業力法則獲得更高利益的一種方式。
+
 (未完待續)
