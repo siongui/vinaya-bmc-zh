@@ -1162,4 +1162,49 @@
 
      - 在佛陀時代，「給予」是性行為的常見委婉說法。如果一個女人「給予」一個男人，那就意味著她願意與他發生性關係。現在，佛教並不是當時唯一的宗教教導說：給予沙門的布施（單純的那種）會給那些給予布施的人帶來巨大的回報，最終有人提出了這樣的想法，因為性是最高的布施，將其給予沙門將產生最高的回報。很難說這個想法最初是由忠實的女性提出的，還是由聰明的沙門提出的。\ `《波羅夷》一`_\ 的《Vinīta_-vatthu_》中的幾個案例講述了比丘受到自稱這種信仰的女人接近或攻擊的情況，這表明它具有一定的流行性：性在某種程度上被視為透過業力法則獲得更高利益的一種方式。
 
+   * - Because the preceding rule gives exemptions for bhikkhus speaking “aiming at (spiritual) welfare *(attha)*, aiming at Dhamma,” some misguided souls who did not comprehend the Buddha’s teachings on sensuality might believe that welfare of this sort might fit under the exemption. The origin story alludes to this point in a punning way, in that the word for “need” is also *attha*, and perhaps the widow, in using the word, had both its meanings in mind: Her spiritual welfare would be enhanced by meeting a bhikkhu’s needs. Even today, although the rationale might be different, there are people who believe that having sex with spiritual teachers is beneficial for one’s spiritual well being. Thus we have this separate rule to show that the Buddha would have no part in such a notion, and that a bhikkhu who tries to suggest that his listener would benefit from having sex with him is not exempt from an offense.
+
+     - 因為前一戒條給予比丘「為了（精神）福祉\ *（attha）*\、為了法」而說的豁免，一些不理解佛陀關於欲樂教義的被誤導心靈可能會認為這種福祉可能屬於豁免範圍。起源故事以雙關語的方式間接提到了這一點，因為「需要」這個詞也是 *attha*\，也許寡婦在使用這個詞時考慮到了它的兩種含義：她的精神福祉將通過滿足比丘的需要而得到增強。即使在今天，儘管理由可能有所不同，但仍有人相信與靈性導師發生性關係對靈性健康有益。因此，我們有這條單獨的戒條來表明佛陀不會參與這樣的觀念，而試圖暗示聽眾會從與他發生性關係中受益的比丘也不能免於犯戒。
+
+   * - The K/Commentary lists five factors for the full offense here, but only four of them have a basis in the Vibhaṅga: object, perception, intention, and effort.
+     - K/《義註》在這裡列出了完整違犯的五個因素，但其中只有四個因素在《經分別》裡有依據：對象、感知、意圖和努力。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object:**
+     - **對象：**
+
+   * - A woman experienced enough to know what is properly or improperly said, what is lewd and not lewd.
+     - 一個有足夠經驗的女人知道什麼是適當的或不適當的，什麼是淫穢和不淫穢。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Perception**
+     - **感知**
+
+   * - The bhikkhu perceives her to be a woman.
+     - 比丘察覺到她是個女人。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - He is impelled by lust. According to the K/Commentary, this means he is lustful for his listener to minister to his desire for sexual intercourse. However, the Vibhaṅga defines *overcome with lust* here in the same broad terms it uses under `Sg 2`_ & 3_. This suggests that the factor of intention here can be fulfilled simply by the desire to enjoy making such remarks in a woman’s presence—say, getting a charge out of testing her reaction, which appears to have been Ven. Udāyin’s impulse in the origin story—regardless of how one feels about actually having sex with her.
+
+     - 他被欲望所驅使。根據 K/《義註》，這意味著他渴望聽者滿足他的性交欲望。然而，《經分別》在這裡用與\ `《僧殘》二`_\ 和\ `三`_\ 中使用的相同廣泛的術語定義了「被貪慾征服」。這表明，這裡的意圖因素可以僅僅透過享受在女人面前發表這樣的言論的欲望來滿足——比如，通過測試她的反應來獲得興奮，這似乎正是優陀夷尊者在起源故事中的衝動——無論對與她發生性關係的感覺如何。
+
+       .. https://dict.cn/get%20a%20charge%20out%20of get a charge out of 因 ... 而感到兴奋
+.. _3: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
+.. _三: #Sg3
+
 (未完待續)
