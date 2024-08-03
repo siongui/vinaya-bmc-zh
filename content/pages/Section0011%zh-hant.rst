@@ -1204,7 +1204,30 @@
      - 他被欲望所驅使。根據 K/《義註》，這意味著他渴望聽者滿足他的性交欲望。然而，《經分別》在這裡用與\ `《僧殘》二`_\ 和\ `三`_\ 中使用的相同廣泛的術語定義了「被貪慾征服」。這表明，這裡的意圖因素可以僅僅透過享受在女人面前發表這樣的言論的欲望來滿足——比如，通過測試她的反應來獲得興奮，這似乎正是優陀夷尊者在起源故事中的衝動——無論對與她發生性關係的感覺如何。
 
        .. https://dict.cn/get%20a%20charge%20out%20of get a charge out of 因 ... 而感到兴奋
+
 .. _3: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
 .. _三: #Sg3
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - The bhikkhu speaks to the woman in praise of her ministering to his sensual needs, referring to sexual intercourse as a meritorious gift. The Commentary maintains that his remarks must directly mention sexual intercourse for this factor to be fulfilled, but the examples in the rule itself and in the Vibhaṅga contradict its assertion. Some of the examples in the Vibhaṅga state simply, “This is foremost. This is best. This is the utmost. This is highest. This is excellent.” These statements are followed by the explanation that they have to allude to or be connected with sexual intercourse. It does not say that the allusion has to be explicit.
+
+     - 比丘對女人說話，稱讚她滿足他的感官需要，並稱性交為最有功德的布施。《義註》認為，他的言論必須直接提及性交才能滿足這一因素，但戒條本身和\ `《經分別》中的例子 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0187a05>`_\ 與其主張相矛盾。\ `《經分別》中的一些例子僅僅說 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0186a09>`_\ ：「這是最重要的。這是最好的。這是最大的。這是最高的。這太棒了。」這些陳述之後是它們必須暗示性交或與性交有關的解釋。它並沒有說暗示必須是明確的。
+
+   * - Also, the Vinīta-vatthu contains a number of cases in which bhikkhus simply tell women to give the highest gift, sexual intercourse—and one in which a bhikkhu simply tells a woman that sexual intercourse is the highest gift—without explicitly saying to whom it should be given. The bhikkhus all earn saṅghādisesas for their efforts, which shows that the reference to oneself need not be explicit, either.
+
+     - 此外，《Vinīta_-vatthu_》包含\ `許多比丘僅僅告訴女性給予最高布施——性交的案例 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0187a05>`_\ ，還有一個比丘僅僅告訴女性性交是最高布施的案例，但沒有明確說明給予誰。比丘們都因自己的努力犯《僧殘》，這表明提及自己也不必是明確的。
+
+   * - Both the Commentary and the K/Commentary state that a physical gesture—this would include writing a letter—can fulfill the factor of effort here as well.
+     - 《義註》和 K/《義註》都指出，身體示意動作（包括寫一封信）也可以滿足這裡的努力因素。
+
+   * - The K/Commentary adds result as a fifth factor, saying that the woman must immediately understand one’s remark, but there is no basis for this in the Canon.
+     - K/《義註》增加了結果作為第五個因素，說女人必須立即理解言論，但在《聖典》中沒有這方面的依據。
 
 (未完待續)
