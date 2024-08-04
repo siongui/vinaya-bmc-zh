@@ -1230,4 +1230,29 @@
    * - The K/Commentary adds result as a fifth factor, saying that the woman must immediately understand one’s remark, but there is no basis for this in the Canon.
      - K/《義註》增加了結果作為第五個因素，說女人必須立即理解言論，但在《聖典》中沒有這方面的依據。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Derived offenses**
+     - **衍生違犯**
+
+   * - The only factors with permutations leading to lesser offenses are object and perception.
+     - 唯一導致較輕罪行的排列因素是對象和感知。
+
+   * - *Object*
+     - *對象*
+
+   * - A bhikkhu, correctly perceiving his object and impelled by lust, makes such a remark to a paṇḍaka: a thullaccaya. To a man or animal: a dukkaṭa (§). (As under the preceding rule, the PTS edition of the Canon omits all of these cases, and the K/Commentary omits the man and the animal. The Burmese and Sri Lankan editions of the Canon put the relevant passages in ellipses; the Thai edition seems to be correct in mentioning all of these cases explicitly.)
+
+     - 一位比丘，正確地認知他的對象，並受貪欲的驅使，對\ `黃門`_\ 作這樣的言論：《偷蘭遮》。對人或動物：《突吉羅》（§）。（正如同前一戒條，PTS版本的《聖典》省略了所有這些情況，而 K/《義註》省略了人和動物。緬甸和斯里蘭卡版本的《聖典》將相關段落放在省略號中；泰國版本明確提及所有這些情況似乎是正確的。
+
+   * - *Perception*
+     - *感知*
+
+   * - A bhikkhu, impelled by lust, makes such a remark to a woman he perceives to be something else—a paṇḍaka, man, or animal: a thullaccaya. To a paṇḍaka, a man, or an animal he perceives to be something else: a dukkaṭa (§). (Again, as under the preceding rule, the PTS edition omits most of the cases in this last sentence, including only the case of a bhikkhu speaking lustfully to a paṇḍaka he perceives to be a woman; the Thai edition seems more correct in including the remaining cases as well.)
+
+     - 一位比丘在貪欲的驅使下，對一位他認為是其他東西—\ `黃門`_\ 、男人或動物—的女人做出這樣的言論：《偷蘭遮》。對於他認為是其他東西的\ `黃門`_\ 、男人或動物：《突吉羅》（§）。（再次，正如同前一戒條，PTS版本省略了最後一句中的大部分案例，僅包括比丘對他認為是女性的\ `黃門`_\ 說淫穢語的案例；泰國版本似乎也更正確地包括了其餘情況。）
+
 (未完待續)
