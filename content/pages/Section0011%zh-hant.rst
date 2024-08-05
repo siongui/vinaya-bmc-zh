@@ -1255,4 +1255,35 @@
 
      - 一位比丘在貪欲的驅使下，對一位他認為是其他東西—\ `黃門`_\ 、男人或動物—的女人做出這樣的言論：《偷蘭遮》。對於他認為是其他東西的\ `黃門`_\ 、男人或動物：《突吉羅》（§）。（再次，正如同前一戒條，PTS版本省略了最後一句中的大部分案例，僅包括比丘對他認為是女性的\ `黃門`_\ 說淫穢語的案例；泰國版本似乎也更正確地包括了其餘情況。）
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Counting offenses**
+     - **犯戒計算**
+
+   * - Offenses are counted by the number of people to whom one makes such a remark.
+     - 罪行是根據對之發表此類言論的人數來計算的。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The non-offense clauses in the Vibhaṅga, in addition to the blanket exemptions mentioned under `Pr 1`_, read simply: “There is no offense if he speaks saying, ‘Support us with the requisites of robe-cloth, almsfood, lodgings, or medicines for the sick.’” The K/Commentary explains this as meaning that if one is motivated by a sensual desire for robe-cloth, etc., one may speak to a potential donor in praise of giving these things. In other words, given this sort of desire, this sort of statement is allowable. From this interpretation it can be argued that when a bhikkhu is speaking without any lust or sensual desire of any sort, he may make any of the remarks that would fulfill the factor of effort here in the presence of others without incurring an offense. A prime example would be when, while explaining this rule, he quotes examples of the remarks it forbids.
+
+     - 《經分別》中的不犯條款，除了\ `《波羅夷》一`_\ 中提到的總括性豁免之外，僅說：「如果他說：『以袈裟、施食、住宿或病人的醫藥等必需品來支持我們』，並沒有犯戒」。 K/《義註》對此的解釋是，如果出於對袈裟等感官欲望等等的動機，可以對潛在的布施者稱讚給予這些東西。換句話說，鑑於這種願望，這種說法是可以被允許的。從這個解釋可以看出，當比丘在沒有任何形式的貪欲或感官慾望的情況下說話時，他可以在他人面前發表任何能夠滿足此處努力因素的言論，而不犯戒。一個典型的例子是，在解釋本戒條時，他引用了本戒條禁止的言論的例子。
+
+   * - *Summary: Telling a woman that having sexual intercourse with a bhikkhu would be beneficial is a saṅghādisesa offense.*
+     - *摘要：告訴女人與比丘性交會有好處是《僧殘》罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 (未完待續)
