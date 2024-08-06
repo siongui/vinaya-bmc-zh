@@ -1286,4 +1286,52 @@
 
    \*    \*    \*
 
+
+.. _Sg5:
+
+.. raw:: html
+
+   <span id="Sg5"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **5**
+     - **五**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu engage in conveying a man’s intentions to a woman or a woman’s intentions to a man, proposing marriage or paramourage—even if only for a momentary liaison—it entails initial and subsequent meetings of the Community.*
+
+     - .. container:: notification
+
+          *如果任何比丘向女人傳達男人的意圖，或向男人傳達女人的意圖，求婚或情人——即使只是為了短暫的聯絡——僧殘。*
+
+   * - There are two factors for a full offense under this rule: effort and object.
+     - 根據本戒條，完全違犯有兩個因素：努力和對象。
+
+   * - **Effort**
+     - **努力**
+
+   * - The Commentary says that to *engage in conveying* means to take on the role of a go-between. This includes helping to arrange not only marriages and affairs but also “momentary associations” that, from the way it describes them, could include anything from appointments with a prostitute to arrangements for X to be Y’s date.
+
+     - 《義註》說，\ *從事傳達*\ ，就是起牽線搭橋的作用。這不僅包括幫助安排婚姻和婚外情，還包括「暫時的聯繫」，從其描述的方式來看，這可包括從與妓女的約會到安排 X 與 Y 約會等任何事情。
+
+   * - The Vibhaṅga sets the component factors of a go-between’s role at three:
+     - `《經分別》將中間人角色的構成要素規定為三： <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0200a03>`_
+
+   * - 1\) *accepting* the request of one party to convey a proposal;
+     - 1）\ *接受*\一方傳達提議的請求；
+
+   * - 2\) *inquiring*, i.e., informing the second party and learning his/her/their reaction; and
+     - 2）\ *詢問*\，即通知另一方並了解他/她/他們的反應；和
+
+   * - 3\) *reporting* what one has learned to the first party.
+     - 3）向第一方\ *報告*\所了解到的事。
+
+   * - The penalties for these actions are: a dukkaṭa for performing any one of them, a thullaccaya for any two, and a saṅghādisesa for the full set of three. Thus a bhikkhu acting on his own initiative to sound out the possibility of a date between a man and a woman would incur a thullaccaya for inquiring and reporting. A bhikkhu planning to disrobe who asks a woman if she would be interested in marrying him after his return to lay life would incur a dukkaṭa for inquiring. If, on the way to inquire about a woman after accepting a man’s request to inquire about her, a bhikkhu asks people along the way of her whereabouts, that does not count as inquiring. If he goes no further in acting as a go-between, he incurs only a dukkaṭa.
+
+     - 對這些行為的處罰是：執行任何一項行為犯《突吉羅》，執行任意兩項行為犯《偷蘭遮》，全部三項行為犯《僧殘》。因此，比丘主動探詢男女約會的可能性時，會因詢問和報告而犯《偷蘭遮》。計劃還俗的比丘如果問一位女子是否有興趣在他還俗後嫁給他，他會因為詢問而犯《突吉羅》。如果比丘在接受男子詢問後，在詢問女子的路上，向沿途的人詢問她的行踪，這不算詢問。如果他不再充當中間人，他只會犯《突吉羅》。
+
 (未完待續)
