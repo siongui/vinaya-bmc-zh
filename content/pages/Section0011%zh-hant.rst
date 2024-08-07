@@ -1334,4 +1334,23 @@
 
      - 對這些行為的處罰是：執行任何一項行為犯《突吉羅》，執行任意兩項行為犯《偷蘭遮》，全部三項行為犯《僧殘》。因此，比丘主動探詢男女約會的可能性時，會因詢問和報告而犯《偷蘭遮》。計劃還俗的比丘如果問一位女子是否有興趣在他還俗後嫁給他，他會因為詢問而犯《突吉羅》。如果比丘在接受男子詢問後，在詢問女子的路上，向沿途的人詢問她的行踪，這不算詢問。如果他不再充當中間人，他只會犯《突吉羅》。
 
+   * - The penalties are the same if the bhikkhu, instead of acting as a go-between himself, gets someone else to act for him. Thus a bhikkhu who agrees to convey such a proposal but then gets a lay follower or another bhikkhu to do the inquiring and reporting would incur a saṅghādisesa all the same.
+
+     - 如果比丘沒有親自充當中間人，而是讓其他人為他充當中間人，則懲罰是相同的。因此，比丘同意傳達這樣的提議，但隨後請一位在家弟子或另一位比丘來詢問和報告，仍然會犯《僧殘》。
+
+   * - If a bhikkhu agrees to a man’s request to inquire about a woman, gets his student (§) to do the inquiring, and then the student of his own accord reports to the man, both the original bhikkhu and his student—assuming that he, too, is a bhikkhu—incur thullaccayas.
+
+     - 如果一個比丘同意一個男人詢問一個女人的請求，讓他的學生（§）去詢問，然後他的學生自願向這個男人報告，包括原來的比丘和他的學生——假設他，也是比丘——都犯《偷蘭遮》。
+
+   * - If a group of bhikkhus are asked to act as go-betweens and they all accept, then even if only one of them performs any or all of the actions of a go-between, all the bhikkhus in the group incur the penalty for his actions.
+
+     - 如果一群比丘被要求充當中間人，而他們都接受了，那麼即使只有其中一個人執行中間人的任何或全部行為，該群中的所有比丘都會因其行為而受到懲罰。
+
+   * - “Result” is not a factor here, so the Commentary mentions that whether the arrangements succeed has no bearing on the offense.
+     - 「結果」在此並不是一個因素，所以《義註》中提到，安排是否成功與犯戒無關。
+
+   * - “Intention” is also not a factor, which leads the Sub-commentary to raise the issue of a man who writes his proposal in a letter and then, without disclosing the contents, gets a bhikkhu to deliver it. Its conclusion, though, is that this case would not qualify as an offense under this rule, in that both the Vibhaṅga and the Commentary define the action of *conveying* as “telling”: Only if the bhikkhu himself tells the proposal—whether repeating it orally, making a gesture, or writing a letter—does he commit an offense here. Simply carrying a letter, not knowing its contents, would not fulfill the factor of effort under this rule.
+
+     - 「意圖」也不是因素，因而導致《複註》提出這樣一個問題：一個男人將他的提議寫在一封信中，然後在沒有透露內容的情況下讓一位比丘將其傳達。然而，它的結論是，根據本戒條，這種情況不構成犯戒，因為《經分別》和《義註》都將\ *傳達*\ 的行為定義為「告訴」：只有當比丘本人告訴該提議時——無論是口頭重複、做一個手勢、或寫一封信──他才會犯本戒。僅僅攜帶一封信而不知道其內容，並不能滿足本戒條下的努力因素。
+
 (未完待續)
