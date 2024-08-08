@@ -1311,6 +1311,10 @@
    * - There are two factors for a full offense under this rule: effort and object.
      - 根據本戒條，完全違犯有兩個因素：努力和對象。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
    * - **Effort**
      - **努力**
 
@@ -1352,5 +1356,28 @@
    * - “Intention” is also not a factor, which leads the Sub-commentary to raise the issue of a man who writes his proposal in a letter and then, without disclosing the contents, gets a bhikkhu to deliver it. Its conclusion, though, is that this case would not qualify as an offense under this rule, in that both the Vibhaṅga and the Commentary define the action of *conveying* as “telling”: Only if the bhikkhu himself tells the proposal—whether repeating it orally, making a gesture, or writing a letter—does he commit an offense here. Simply carrying a letter, not knowing its contents, would not fulfill the factor of effort under this rule.
 
      - 「意圖」也不是因素，因而導致《複註》提出這樣一個問題：一個男人將他的提議寫在一封信中，然後在沒有透露內容的情況下讓一位比丘將其傳達。然而，它的結論是，根據本戒條，這種情況不構成犯戒，因為《經分別》和《義註》都將\ *傳達*\ 的行為定義為「告訴」：只有當比丘本人告訴該提議時——無論是口頭重複、做一個手勢、或寫一封信──他才會犯本戒。僅僅攜帶一封信而不知道其內容，並不能滿足本戒條下的努力因素。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The full offense is for acting as a go-between between a man and a woman who are not married to each other. If, instead of dealing directly with the man and woman, one deals with people speaking on their behalf (their parents, a pimp), one incurs the full penalty all the same.
+
+     - 完整的違犯是充當未婚男女之間的中間人。如果不是直接與這對男女打交道，而是與代表他們說話的人（他們的父母、皮條客）打交道，那麼他仍然會受到全額懲罰。
+
+   * - There is no offense for a bhikkhu who tries to effect a reconciliation between an estranged couple who are not divorced, but a full offense for one who tries to effect a reconciliation between a couple who are. “Perception” is also not a factor here, which inspires the Commentary to note that even an arahant could commit an offense under this rule if he tried to effect a reconciliation between his parents whom he assumed to be separated when they were actually divorced.
+
+     - 對一位比丘來說，試圖促成一對分居但未離婚的夫妻和解並沒有什麼罪過，但如果一個比丘試圖促成一對已離婚的夫妻和解，那就完全違犯了。「感知」也不是這裡的一個因素，這促使《義註》指出，即使是阿羅漢，如果他試圖在他認為實際上離婚時分居的父母之間實現和解，也可能犯下本戒條。
+
+   * - Elsewhere, in its discussion of the five precepts, the Commentary includes couples who live as husband and wife without having gone through a formal ceremony under its definition of *married*, and the same definition would seem to apply here.
+
+     - 在其他地方，《義註》在討論五戒時，根據其婚姻的定義，將未經過正式儀式而以夫妻身份生活的夫婦包括在內，同樣的定義似乎也適用於此。
+
+   * - The Vibhaṅga assigns a thullaccaya for acting as a go-between for a paṇḍaka; according to the Commentary, the same penalty applies for acting as a go-between for a female yakkha or peta (!).
+
+     - 《經分別》指派《偷蘭遮》給充當\ `黃門`_\ 的中間人；根據《義註》，為女性夜叉或餓鬼充當中間人也適用同樣的懲罰（！）。
 
 (未完待續)
