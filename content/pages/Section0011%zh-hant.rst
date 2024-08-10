@@ -1380,4 +1380,33 @@
 
      - 《經分別》指派《偷蘭遮》給充當\ `黃門`_\ 的中間人；根據《義註》，為女性夜叉或餓鬼充當中間人也適用同樣的懲罰（！）。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The Vibhaṅga states that, in addition to the usual exemptions, there is no offense if a bhikkhu conveys a message from a man to a woman or vice versa dealing with “business of the Community, of a shrine, or of a sick person.” The Commentary illustrates the first two instances with cases of a bhikkhu conveying a message dealing with construction work for the Community or a shrine; and the third with a case where a bhikkhu, acting on behalf of a fellow bhikkhu who is sick, is sent by a male lay follower to a female lay follower for medicine.
+
+     - 《經分別》規定，除了通常的豁免之外，如果比丘處理「僧團、聖壇或病人的事務」，將訊息從男性傳達給女性，或反之亦然，則不會構成犯戒。《義註》以比丘傳達關於僧團或聖壇建築工程的訊息的案例來說明前兩個例子；第三種情況是，一位比丘代表一位生病的同儕比丘，由一位男居士送去給一位女居士求藥。
+
+   * - The Sub-commentary adds that any similar errand—i.e., not involving any sort of romantic liaison—is also exempt from penalty as long as it is not a form of subservience to lay people (see `Sg 13`_, below).
+
+     - 《複註》補充說，任何類似的差事——即不涉及任何形式的浪漫關係——只要不是對居士的屈從，也可免受懲罰（見下文\ `《僧殘》十三`_\ ）。
+
+   * - *Summary: Acting as a go-between to arrange a marriage, an affair, or a date between a man and a woman not married to each other is a saṅghādisesa offense.*
+     - *摘要：充當中間人安排未婚男女之間的婚姻、私通或約會是《僧殘》罪。*
+
+.. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
+.. _《僧殘》十三: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
+.. TODO FIXME: replace link to 《僧殘》十三
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
