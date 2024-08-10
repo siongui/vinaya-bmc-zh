@@ -1409,4 +1409,25 @@
    \*    \*    \*
 
 
+.. _Sg6:
+
+.. raw:: html
+
+   <span id="Sg6"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **6**
+     - **六**
+
+   * - .. container:: notification
+
+          *When a bhikkhu is having a hut built from (gains acquired by) his own begging (§)—having no sponsor and destined for himself—he is to have it built to the standard measurement. Here the standard is this: twelve spans, using the sugata span, in length (measuring outside); seven in width, (measuring) inside. Bhikkhus are to be assembled to designate the site. The site the bhikkhus designate should be without disturbances and with adequate space. If the bhikkhu should have a hut built from his own begging on a site with disturbances and without adequate space, or if he should not assemble the bhikkhus to designate the site, or if he should have the standard exceeded, it entails initial and subsequent meetings of the Community.*
+
+     - .. container:: notification
+
+          *當比丘用自己的乞討（得到的所得）（§）建造一間小屋時（§）——沒有資助者並且是為自己建造的——他應該按照標準尺寸建造小屋。這裡的標準是這樣的：長度（在外面測量）十二張手，使用善至張手；裡面寬（測量）為七張手。比丘們應聚集起來指定地點。比丘們指定的地點應該沒有干擾並且有合適的空間。如果比丘在一個干擾且沒有合適空間的地點，以自己的乞討建造一間小屋，或者如果他不召集比丘來指定地點，或者如果他超過標準，僧殘。*
+
 (未完待續)
