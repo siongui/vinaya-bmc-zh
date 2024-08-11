@@ -1430,4 +1430,47 @@
 
           *當比丘用自己的乞討（得到的所得）（§）建造一間小屋時（§）——沒有資助者並且是為自己建造的——他應該按照標準尺寸建造小屋。這裡的標準是這樣的：長度（在外面測量）十二張手，使用善至張手；裡面寬（測量）為七張手。比丘們應聚集起來指定地點。比丘們指定的地點應該沒有干擾並且有合適的空間。如果比丘在一個干擾且沒有合適空間的地點，以自己的乞討建造一間小屋，或者如果他不召集比丘來指定地點，或者如果他超過標準，僧殘。*
 
+   * - “At that time the bhikkhus of Āḷavī were having huts built from their own begging—having no sponsors, destined for themselves, not to any standard measurement—that did not come to completion. They were continually begging, continually hinting: ‘Give a man, give labor, give an ox, give a wagon, give a knife, give an ax, give an adze, give a hoe, give a chisel, give rushes, give bamboo, give reeds, give grass, give clay.’ People, harassed with the begging, harassed with the hinting, on seeing bhikkhus would feel apprehensive, alarmed, would run away; would take another route, face another direction, close the door. Even on seeing cows, they would run away, imagining them to be bhikkhus.”
+
+     - 「當時，\ `阿羅毘的比丘們靠自己的乞討建造了小屋 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0203a03>`_\ ——沒有資助者，為自己而建造，沒有任何標準的尺寸——無所終止。他們不斷地乞求、不斷地暗示：『給人，給勞力，給牛，給車，給刀，給斧頭，給錛子，給鋤頭，給鑿子，給燈芯草，給竹子，給蘆葦、給草、給泥土。』人們因乞討而煩惱，因暗示而煩惱，一見到比丘就會感到害怕、驚慌、逃跑；會走另一條路，面向另一個方向，關上門。即使看到牛，他們也會逃跑，以為它們是比丘。」
+
+   * - There are three factors for a full offense under this rule.
+     - 根據本戒條，構成完全違犯需要三個因素。
+
+   * - *Effort:* One completes, or gets someone else to complete, through begging for its materials,
+     - *努力：*\透過乞求材料來完成或讓別人完成，
+
+   * - *Object:* a hut that exceeds the standard mentioned in the rule or whose site has not been designated by the Community.
+     - *對象：*\超出戒條規定標準或未經僧團指定地點的小屋。
+
+   * - *Intention:* One intends the hut for one’s own use.
+     - *意圖：*\打算將小屋供自己使用。
+
+   * - We will discuss these factors in reverse order.
+     - 我們將以相反的順序討論這些因素。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - The Canon repeatedly refers to two arrangements for the ownership of dwellings used by bhikkhus: They belong either to the Community or to an individual (or group of individuals). From the point of view of Community governance, the prior arrangement is preferable, for the Community can then allot the dwelling as it sees fit (see `BMC2, Chapter 18`_). Also, a number of the rules governing the care and use of huts—such as `Pc 15`_, 16_, & 17_\—apply only to dwellings belonging to the Community.
+
+     - 《聖典》一再提到比丘所使用的住處的所有權有兩種安排：它們要麼屬於僧團，要麼屬於個人（或個人團體）。從僧團治理的角度來看，事先安排是更可取的，因為僧團可以根據需要分配住處（參見\ `《佛教修道準則 第二冊》第十八章`_\）。此外，許多管理小屋維護和使用的戒條（例如\ `《波逸提》十五`_\、\ `十六`_\ 和\ `十七`_\）僅適用於屬於僧團的住處。
+
+.. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. _《佛教修道準則 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十八章
+.. _Pc 15: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc15
+.. _16: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc16
+.. _17: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc17
+.. _《波逸提》十五: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc15
+.. TODO FIXME: replace link to 《波逸提》十五
+.. _十六: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc16
+.. TODO FIXME: replace link to 《波逸提》十六
+.. _十七: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc17
+.. TODO FIXME: replace link to 《波逸提》十七
+
 (未完待續)
