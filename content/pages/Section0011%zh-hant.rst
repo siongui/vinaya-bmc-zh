@@ -1481,4 +1481,22 @@
 .. _十七: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc17
 .. TODO FIXME: replace link to 《波逸提》十七
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - This factor is divided into two main sub-factors: the hut and the procedures that need to be followed to get the Community’s permission for its construction.
+     - 此因素分為兩個主要子因素：小屋和獲得僧團許可建造小屋所需遵循的程序。
+
+   * - *The hut.* The Vibhaṅga defines a hut as “plastered inside, outside, or both.” It also states that this rule does not apply to a *leṇa*, a *guhā*, or to a grass hut. A leṇa, according to the Commentary, is a cave. A guhā it doesn’t define, except to say that guhās may be built out of wood, stone, or earth. And as for a grass hut, the Commentary says that this refers to any building with a grass *roof*, which means that even a dwelling with plastered walls but a grass roof would not count as a hut under this rule (although a hut whose roof has been plastered and then covered with grass *would* count as a hut here).
+
+     - *小屋。*\ 《經分別》\ `將小屋定義為「內部、外部或兩者都塗有灰泥」 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0208a08>`_\。它還指出，本戒條不適用於 *leṇa* 、 *guhā* 或草屋。根據《義註》， *leṇa* 是一個洞穴。它沒有定義 guhā ，只是說 guhā 可以用木材、石頭或泥土來建造。至於草屋，《義註》中說，這是指任何有草\ *屋頂*\ 的建築物，這意味著即使是抹灰牆但有草屋頂的住處，在本戒條下也不能算作小屋（雖然屋頂被抹灰然後覆蓋草的小屋在這裡\ *也*\ 算是小屋）。
+
+   * - The Commentary goes on to stipulate that the plastering mentioned in the Vibhaṅga refers to a plastered *roof*, that the plaster must be either clay or white lime (plastering with cow dung or mud doesn’t count, although cement would probably come under “white lime” here), and that the plastering on the inside or outside of the roof must be contiguous with the plastering on the inside or outside of the walls. Thus if the builder leaves a gap in the plastering around the top of the wall so that the plastering of the roof and the plastering of the walls don’t touch at any point, the building doesn’t qualify as a hut and so doesn’t come under the rule.
+
+     - 《義註》接著規定，《經分別》中所提到的抹灰指的是抹灰的\ *屋頂*\ ，抹灰必須是粘土或白石灰（用牛糞或泥土抹灰不算，儘管水泥可能屬於此處的「白石灰」），且屋頂內側或外側的抹灰必須與牆壁內側或外側的抹灰互相連接。因此，如果建築者在牆頂周圍的抹灰中留下了一個間隙，使得屋頂的抹灰和牆壁的抹灰在任何一點都不會接觸，那麼該建築就不符合小屋的資格，因此不受戒條約束。
+
 (未完待續)
