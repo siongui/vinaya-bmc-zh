@@ -1460,6 +1460,14 @@
 
      - 《聖典》一再提到比丘所使用的住處的所有權有兩種安排：它們要麼屬於僧團，要麼屬於個人（或個人團體）。從僧團治理的角度來看，事先安排是更可取的，因為僧團可以根據需要分配住處（參見\ `《佛教修道準則 第二冊》第十八章`_\）。此外，許多管理小屋維護和使用的戒條（例如\ `《波逸提》十五`_\、\ `十六`_\ 和\ `十七`_\）僅適用於屬於僧團的住處。
 
+   * - The Vibhaṅga to this rule defines *destined for himself* as “for his own use.” On the surface this could mean that one plans to use the hut after handing ownership over to the Community, but the Commentary states that this is not so. To dedicate something for one’s own use, it says, is to claim ownership over it: In this case, one regards the dwelling as “mine.” The Commentary’s position is supported by the protocols followed by the lodging bestower and lodging assignor (see `BMC2, Chapter 18`_) in allotting dwellings belonging to the Community: Outside of the Rains-residence, a bhikkhu could be moved from a Community dwelling at any time; during the Rains-residence, the bhikkhu who built a particular dwelling might find himself unable to stay there because many bhikkhus with more seniority or more pressing needs had decided to spend the Rains in that location. Thus if a bhikkhu planned the dwelling for his own use, he would not want it to be subject to the protocols governing Community dwellings.
+
+     - 本戒條的《經分別》將\ *為自己建造*\ `定義為「供他自己使用」 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0208a10>`_\。從表面上看，這可能意味著計劃在將所有權移交給僧團後使用小屋，但《義註》指出事實並非如此。它說，將某物奉獻給自己使用，就是聲稱對其擁有所有權：在這種情況下，將住處視為「我的」。《義註》的立場得到了住宿贈予者和住宿分配者在分配屬於僧團的住處時所遵循的行儀（參見\ `《佛教修道準則 第二冊》第十八章`_\）的支持：在雨安居之外，比丘可以隨時從僧團住處搬走；在雨安居期間，建造特定住處的比丘可能會發現自己無法住在那裡，因為許多戒臘較高或有更迫切需要的比丘決定在該地點度過雨安居。因此，如果比丘計劃將住處供自己使用，他不希望它受到管理僧團住處的行儀的約束。
+
+   * - The Commentary’s interpretation thus suggests that this rule and the following one were intended to discourage bhikkhus from maintaining ownership over the huts they build, for as the non-offense clauses state, the stipulations in this rule do not apply to huts built for the use of others. As the Commentary notes, this exemption applies both to huts built for other people—such as one’s preceptor or mentor—or for the Community. This would open a loophole for one to build a hut for another bhikkhu and for him to claim ownership over it independently of the Community, all without following the stipulations under the rules, but apparently the compilers of the Vibhaṅga did not regard the act of building a hut as a gift for another bhikkhu as something they had the right to forbid.
+
+     - 因此，《義註》的解釋表明，本戒條和以下一條戒條的目的是阻礙比丘保留對其所建造的小屋的所有權，因為正如不犯條款所規定的那樣，本戒條中的規定不適用於為其他人使用而建造的小屋。正如《義註》所指出的，這項豁免適用於為其他人（例如戒師或導師）或為僧團建造的小屋。這將打開一個漏洞，讓某人為另一位比丘建造一間小屋，並讓他獨立於僧團而聲稱擁有它的所有權，所有這些都沒有遵守戒條的規定，但顯然，《經分別》的編纂者並沒有考慮建造一間小屋作為禮物送給另一位比丘的行為，因為他們有權禁止這樣做。
+
 .. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
 .. _《佛教修道準則 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十八章
