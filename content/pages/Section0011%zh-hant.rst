@@ -1499,4 +1499,27 @@
 
      - 《義註》接著規定，《經分別》中所提到的抹灰指的是抹灰的\ *屋頂*\ ，抹灰必須是粘土或白石灰（用牛糞或泥土抹灰不算，儘管水泥可能屬於此處的「白石灰」），且屋頂內側或外側的抹灰必須與牆壁內側或外側的抹灰互相連接。因此，如果建築者在牆頂周圍的抹灰中留下了一個間隙，使得屋頂的抹灰和牆壁的抹灰在任何一點都不會接觸，那麼該建築就不符合小屋的資格，因此不受戒條約束。
 
+   * - The Sub-commentary treats the question raised by the Commentary’s emphasis on the plastering of the roof: Does this mean that a dwelling with a plastered roof but unplastered walls would also count as a hut? Arguing from the Commentary’s many references to making the roof-plastering contiguous with the wall-plastering, the Sub-commentary concludes that the answer is No: Both the roof and the walls must be plastered.
+
+     - 《複註》處理了《義註》中強調屋頂抹灰所提出的問題：這是否意味著屋頂抹灰但牆壁未抹灰的住處也算是小屋？根據《義註》中多次提及使屋頂抹灰與牆壁抹灰互相連接，《複註》得出的結論是答案是否定的：屋頂和牆壁都必須抹灰。
+
+   * - The commentaries’ stipulations on these points may seem like attempts to create gaping loopholes in the rule, but there is nothing in the Vibhaṅga to prove them wrong. Perhaps in those days only buildings that were fully plastered, roof and all, were considered to be finished, permanent structures, while everything else was considered makeshift and temporary and thus not worth the fuss and bother of the procedures we will discuss below.
+
+     - 註釋對這些要點的規定可能看起來像是試圖在戒條中製造巨大的漏洞，但《經分別》中沒有任何內容可以證明它們是錯的。也許在那些時日裡，只有完全抹灰的建築物，包括屋頂和所有東西，才被認為是完成的、永久性的結構，而其他一切都被認為是臨時湊合的，因此不值得我們在下面討論的程序中大驚小怪和麻煩。
+
+   * - At another point in its discussions, the Commentary adds that any building three sugata spans wide or less is not big enough to move a bed around in and so does not count as a hut under this rule. The Commentary itself defines a sugata span as three times the span of a normal person, which would put it at approximately 75 cm. More recent calculations based on the fact that the Buddha was not abnormally tall set the sugata span at 25 cm.
+
+     - 在討論的另一點上，《義註》補充說，任何寬度為三善至張手或更小的建築物都不足以移動一張床，因此根據本戒條不算作小屋。《義註》本身將善至張手定義為正常人張手的三倍，即大約 75 公分。根據佛陀身高並無異常的事實，最近的計算將善至張手設定為 25 公分。
+
+   * - *The maximum size of the hut*, as the rule states, is no more than twelve spans long and seven spans wide, or approximately 3 x 1.75 meters. For some reason the Vibhaṅga states that the length of the hut is measured from the outside (excluding the plastering, says the Commentary), while the width is measured from the inside. Neither of these measurements may be exceeded even by the breadth of a hair. Thus a hut measuring ten by eight spans, even though it has less floor area than a twelve-by-seven-span hut, would exceed the standard width and so would be a violation of this rule.
+
+     - 依戒條，\ *小屋的最大尺寸*\ 不得超過長十二張手、寬七張手，即約 3 x 1.75 公尺。由於某種原因，《經分別》規定，小屋的長度是從外部測量的（《義註》中說，不包括抹灰），而寬度是從內部測量的。即使是一根頭髮絲的寬度也不能超過這些尺寸。因此，一個十張手乘以八張手的小屋，即使其建築面積比十二張手乘以七張手的小屋小，也會超出標準寬度，因此會違反本戒條。
+
+   * - *The procedures*. If, for his own use, a bhikkhu is planning to build a hut as defined in this rule, he must choose a site, clear it, and ask for a Community to inspect and approve it before he can go ahead with the actual construction.
+
+     - *程序*\。如果比丘打算按照本戒條建造一間小屋供自己使用，他必須選擇一個地點，清理它，並請求僧團檢查和批准，然後才能繼續實際建造。
+
+   * - —\ *The site* must be free of disturbances and have adequate space.
+     - —\ *場地*\必須不受干擾並有合適的空間。
+
 (未完待續)
