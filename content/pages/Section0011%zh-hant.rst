@@ -1522,4 +1522,20 @@
    * - —\ *The site* must be free of disturbances and have adequate space.
      - —\ *場地*\必須不受干擾並有合適的空間。
 
+   * - The Vibhaṅga gives a long list of “disturbances,” which for ease of understanding we can divide into three categories: A site free of disturbances is (1) not the abode of such creatures as termites, ants, or rats who might do harm to the building. (2) It is not the abode of those—such as snakes, scorpions, tigers, lions, elephants, or bears—who might do harm to its inhabitant. The Commentary states that the Vibhaṅga’s purpose in forbidding a bhikkhu from building on a site where termites and other small animals have their home is to show compassion to these and other small creatures like them by not destroying their nests. As for the stipulation against building where snakes and other dangerous animals live, this also extends, it says, to the areas where they regularly forage for food.
+
+     - `《經分別》列出了一長串「干擾」清單 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0210a09>`_\，為了便於理解，我們可以將其分為三類：沒有干擾的場所是（1）不是白蟻、螞蟻或老鼠等可能對建築物造成損害的生物的住所。（2）它不是蛇、蝎子、老虎、獅子、大象或熊等可能傷害其居住者的動物的住所。《義註》指出，《經分別》禁止比丘在白蟻和其他小動物棲息的地方建造房屋的目的是為了表達對白蟻和其他小動物的慈悲，不破壞它們的巢穴。至於禁止在蛇等危險動物居住的地方建造建築的規定，也適用於蛇等危險動物經常覓食的區域。
+
+   * - \(3\) The site is not near any places that will disturb the bhikkhu’s peace and quiet. Examples given in the Vibhaṅga are: fields, orchards, places of execution, cemeteries, pleasure groves, royal property, elephant stables, horse stables, prisons, taverns, slaughterhouses, highways, crossroads, public rest-houses, and meeting places.
+
+     - （3）該地點不靠近任何會擾亂比丘安寧的地方。《經分別》中所舉的例子有：田野、果園、刑場、墓園、遊園、皇家地產、象厩、馬廄、監獄、酒館、屠宰場、高速公路、十字路口、公共休息室和聚會場所。
+
+   * - *Adequate space* means that there is enough room on the site for a yoked wagon or a man carrying a ladder to go around the proposed hut. The question arises as to whether this means that all trees within that radius of the hut must be cut down or simply that there must be enough land around the hut so that if the trees were not there it would be possible to go around the hut in the ways mentioned. The Sub-commentary states that the stipulation for adequate space is so that the hut will not be built on the edge of a precipice or next to a cliff wall, and the Vinaya-mukha notes that the Vibhaṅga here is following the Laws of Manu (an ancient Indian legal text) in ensuring that the dwelling not be built right against someone else’s property. Both of these statements suggest that there is no need to cut the trees down.
+
+     - *合適的空間*\意味著場地上有足夠的空間供一輛有軛的馬車或一個攜帶梯子的人在擬建造的小屋周圍行走。問題是，這是否意味著小屋半徑內的所有樹木都必須被砍伐，或者只是小屋周圍必須有足夠的土地，這樣如果沒有樹木，就可以在小屋周圍以提到的方式行走。《複註》指出，對合適空間的規定如是，以至於小屋不能建在懸崖邊緣或懸崖壁旁邊，而《戒律入口》指出，這裡的《經分別》遵循\ `《摩奴法典》 <https://zh.wikipedia.org/wiki/%E6%91%A9%E5%A5%B4%E6%B3%95%E8%AB%96>`_\（古印度法律文本），以確保住處不會侵犯他人的財產。這兩種說法都顯示沒有必要砍伐樹木。
+
+   * - The Vinaya-mukha deduces further from the Vibhaṅga’s discussion that the procedures for getting the site approved are concerned basically with laying claim to unclaimed land and thus don’t need to be followed in locations where the Community already owns the land, such as in a monastery; if a bhikkhu in such Communities wishes to build a hut for his own use on monastery land, he need only get the approval of the abbot. Nothing in the ancient texts, however, supports this opinion.
+
+     - 《戒律入口》從《經分別》的討論中進一步推斷，獲得場地批准的程序基本上涉及對無人認領的土地提出主張，因此不需要在僧團已經擁有土地的地方遵循，例如在寺院裡；如果這樣的僧團的比丘想在寺院土地上建造一間小屋供自己使用，他只需得到住持的批准即可。然而，古代文獻中並沒有任何內容支持這種觀點。
+
 (未完待續)
