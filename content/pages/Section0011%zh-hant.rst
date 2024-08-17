@@ -1538,4 +1538,25 @@
 
      - 《戒律入口》從《經分別》的討論中進一步推斷，獲得場地批准的程序基本上涉及對無人認領的土地提出主張，因此不需要在僧團已經擁有土地的地方遵循，例如在寺院裡；如果這樣的僧團的比丘想在寺院土地上建造一間小屋供自己使用，他只需得到住持的批准即可。然而，古代文獻中並沒有任何內容支持這種觀點。
 
+   * - —\ *Clearing the site*. Before notifying the local Community, the bhikkhu must get the site cleared—so says the Vibhaṅga, and the Commentary adds that he should get it leveled as well. In both cases, he should arrange to have this done in such a way that does not violate `Pc 10`_ & 11_. If one is planning to build the hut on monastery grounds, the wise policy would be to obtain permission from the abbot before clearing the site. Again, the question arises as to whether *clearing the site* means cutting down the trees on the spot where one proposes building the hut. In the origin story to the following rule, Ven. Channa caused an uproar by cutting down a venerated tree on a site where he planned to build, which led the Buddha to formulate the rule that the Community must inspect and approve the site to prevent uproars of this sort. This suggests that *clearing the site* here means clearing the underbrush so that the presence or absence of termites, etc., can be clearly determined. Only after the Community has approved the site should the necessary trees be cut down.
+
+     - ——\ *清理場地*\。在通知當地僧團之前，比丘必須清理該場地——《經分別》如是說，《義註》補充說他也應該把它夷為平地。在這兩種情況下，他都應該以不違反\ `《波逸提》十`_\和\ `十一`_\的方式進行安排。如果計劃在寺院場地上建造小屋，明智的做法是在清理場地之前獲得住持的許可。再次出現的問題是，\ *清理場地*\是否意味著砍伐提議建造小屋的地點的樹木。在\ `下一條戒條的起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0217a11>`_ 中，闡陀尊者在他計劃建造的地方砍倒了一棵受人尊敬的樹木，引起了軒然大波，這導致佛陀制定了戒條，要求僧團必須檢查並批准該地點，以防止此類騷亂。這表明這裡的\ *清理場地*\意味著清理灌木叢，以便可以清楚地確定白蟻等的存在與否。只有在僧團批准該地點後，才能砍伐必要的樹木。
+
+   * - —\ *Getting the site inspected*. The bhikkhu then goes to the Community and formally asks them to inspect the site. (The Pali passages for this and the remaining formal requests and proclamations are in the Vibhaṅga.) If all the members of the Community are able to go and inspect the site, they should all go. If not, the Community should select some of its members to go and inspect the site in its stead. The Vibhaṅga says that these inspectors should know what does and does not constitute a disturbance and adequate space, and requires that they be chosen by a formal motion with one proclamation. The Commentary says that they may also be chosen by a simple announcement *(apalokana)*, but this opinion violates the principle set forth in `Mv.IX.3.3`_ that if a shorter form is used for a transaction requiring a longer form, the transaction is invalid. Thus the Commentary’s opinion here cannot stand.
+
+     - ——\ *檢查場地*\。然後，比丘前往僧團並正式要求他們檢查場地。（關於這一點的巴利段落以及其餘的正式請求和羯磨文\ `都在《經分別》中 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0208a13>`_\ 。）如果僧團的所有成員都能夠去檢查該地點，他們都應該去。如果不能，僧團應選擇一些成員代替其前往現場檢查。《經分別》說，這些檢查員應該知道什麼構成干擾、什麼不構成干擾以及合適的空間，並要求通過正式的一白和一羯磨（白二羯磨）來挑選他們。《義註》說，也可以透過簡單的\ `求聽 <https://dictionary.sutta.org/browse/a/apalokana/>`_ \ *（apalokana）*\來挑選他們，但這種意見違反了\ `《大品》.九.3.3`_\ 中規定的原則，即如果需要較長形式的羯磨使用較短的形式，則該羯磨無效。因此，《義註》的觀點不能成立。
+
+   * - The inspectors then visit the site. If they find any disturbances or see that the site has inadequate space, they should tell the bhikkhu not to build there. If the site passes inspection, though, they should return and inform the Community that the site is free of disturbances and has adequate space.
+
+     - 檢查員隨後前往場地。如果他們發現任何干擾或發現該地點沒有合適的空間，他們應該告訴比丘不要在那裡建造。不過，如果該地點通過檢查，他們應該返回並通知僧團該地點沒有受到干擾並且有合適的空間。
+
+.. _Pc 10: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10
+.. _11: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
+.. _《波逸提》十: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10
+.. TODO FIXME: replace link to 《波逸提》十
+.. _十一: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
+.. TODO FIXME: replace link to 《波逸提》十一
+.. _Mv.IX.3.3: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.IX.3.3
+.. _《大品》.九.3.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_009#0411a01
+
 (未完待續)
