@@ -1550,6 +1550,37 @@
 
      - 檢查員隨後前往場地。如果他們發現任何干擾或發現該地點沒有合適的空間，他們應該告訴比丘不要在那裡建造。不過，如果該地點通過檢查，他們應該返回並通知僧團該地點沒有受到干擾並且有合適的空間。
 
+   * - —\ *Getting the site approved*. The bhikkhu returns to the Community and formally asks it to approve the site. The transaction statement involves a motion and one proclamation. Once this has passed, the bhikkhu may start construction.
+
+     - ——\ *獲得場地批准*\。比丘返回僧團並正式請求僧團批准該地點。羯磨文涉及一白和一羯磨（白二羯磨）。一旦通過，比丘就可以開始建造了。
+
+   * - *Offenses.* The Vibhaṅga allots the penalties related to the factor of object—a hut without a sponsor, for one’s own use, built without regard for the stipulations in this rule—as follows:
+
+     - *罪行。*\《經分別》指派與對象因素相關的懲罰—沒有資助者，自用，不考慮本戒條的規定而建造的小屋—如下：
+
+   * - an oversized hut—a saṅghādisesa;
+     - 超過尺寸的小屋—《僧殘》；
+
+   * - a hut on an unapproved site—a saṅghādisesa;
+     - 未批准場所的小屋—《僧殘》；
+
+   * - a hut on a site without adequate space—a dukkaṭa;
+     - 沒有合適空間的場所的小屋—《突吉羅》；
+
+   * - a hut on a site with disturbances—a dukkaṭa.
+     - 有干擾的場所的小屋—《突吉羅》；
+
+   * - These penalties are additive. Thus, for example, an oversized hut on an unapproved site would entail a double saṅghādisesa.
+     - 這些懲罰是累加的。因此，例如，在未經批准的場所建造一座超過尺寸小屋將犯兩次《僧殘》。
+
+   * - The wording of the training rule, though, suggests that building a hut without a sponsor, for one’s own use, on a site with disturbances and without adequate space would entail a saṅghādisesa; but the Sub-commentary says—without offering explanation—that to read the rule in this way is to misinterpret it. Because the penalty for a multiple saṅghādisesa is the same as that for a single one, there is only one case where this would make an appreciable difference: a hut of the proper size, built on an approved site that has disturbances or does not have adequate space. This is a case of a Community transaction improperly performed: Either the bhikkhus inspecting the site were incompetent, or the disturbances were not immediately apparent. Because the usual penalty for improperly performing a Community transaction is a dukkaṭa (`Mv.II.16.4`_), this may be why the Vibhaṅga allots penalties as it does. As we noted in the Introduction, in cases where the Vibhaṅga is explaining the training rules that deal with Community transactions, it sometimes has to deviate from the wording of the rules to bring them in line with the general pattern for such transactions, a pattern that was apparently formulated after the rules and came to take precedence over them.
+
+     - 不過，學處的措辭表明，在沒有資助者的情況下，在有干擾且沒有合適空間的場所建造自用的小屋犯一次《僧殘》；但《複註》說——沒有提供解釋——以這種方式解讀本戒條是對它的誤解。由於對多次《僧殘》的懲罰與對單次《僧殘》的懲罰相同，因此只有一種情況會產生明顯的區別：一間大小合適的小屋，建在經批准的場地上，但有干擾或沒有合適的空間。這是一個僧團羯磨執行不當的案例：要麼是檢查現場的比丘無能，要麼是干擾沒有立即顯現出來。因為不當執行僧團羯磨的通常懲罰是《突吉羅》（\ `《大品》.二.16.4`_\ ），這可能是《經分別》如此分配懲罰的原因。正如我們在\ **引言**\ 中指出的，在《經分別》解釋處理僧團羯磨的學處的情況下，有時必須偏離戒條的措辭，以使它們符合此類羯磨的一般模式，這種模式顯然是在戒條之後製定的，並且優先於戒條。
+
+   * - Usually, if a Community transaction has been improperly performed, it is invalid and unfit to stand even if the bhikkhus involved think that they are following the proper procedure. In other words, in the case just mentioned, the site would strictly speaking not count as approved, and the hut would involve a saṅghādisesa. However, the Vibhaṅga seems to be making a special exemption here in assigning only a dukkaṭa, perhaps so as not to punish unduly a bhikkhu who went to all the trouble to follow, as best he and his fellow bhikkhus knew how, the proper procedures prior to building his hut.
+
+     - 通常，如果僧團羯磨執行不當，即使相關比丘認為自己遵循了正確的程序，該羯磨也是無效且不適合成立的。換句話說，在剛才提到的情況下，嚴格來說，該地點不算被批准，而小屋將涉及《僧殘》。然而，《經分別》似乎在這裡做出了特殊的豁免，只指定了《突吉羅》，也許是為了不過度懲罰比丘，因為他和他的比丘同儕們都知道如何不辭辛勞地遵循建造小屋之前的正確程序。
+
 .. _Pc 10: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10
 .. _11: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
 .. _《波逸提》十: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10
@@ -1558,5 +1589,7 @@
 .. TODO FIXME: replace link to 《波逸提》十一
 .. _Mv.IX.3.3: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.IX.3.3
 .. _《大品》.九.3.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_009#0411a01
+.. _Mv.II.16.4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.II.16.4
+.. _《大品》.二.16.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0151a11
 
 (未完待續)
