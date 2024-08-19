@@ -1592,4 +1592,23 @@
 .. _Mv.II.16.4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.II.16.4
 .. _《大品》.二.16.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0151a11
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga allots the derived penalties related to the factor of effort under this rule as follows: If the hut is such that when finished it will entail a saṅghādisesa or two, each act in its construction entails a dukkaṭa, until the next to the last act, which entails a thullaccaya.
+
+     - 《經分別》分配了與本戒條下的努力因素相關的\ `衍生懲罰，如下 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0211a06>`_\：如果小屋在完成後將犯一次或兩次《僧殘》，則其建造中的每個行為都犯《突吉羅》，直到最後一個行為的前一個行為，犯《偷蘭遮》。
+
+   * - If a bhikkhu, intending it for his own use, completes a hut that others have started, he is still bound by the stipulations given in this rule. In other words, the offenses here do not apply only to the original initiator of the hut’s construction.
+
+     - 如果比丘打算自用，而完成了別人已經開始建造的小屋，他仍然受本戒條的約束。換句話說，這裡的犯戒不僅適用於小屋建造的原始發起人。
+
+   * - The Commentary mentions a special case in which two bhikkhus, building a hut for their own use but not to the stipulations under this rule, complete it without having decided which part of the hut will go to which bhikkhu. Because of their indecision, the Commentary states that neither of them incurs the full offense until he has laid claim to his part of the hut.
+
+     - 《義註》提到一個特殊的例子，兩個比丘建造了一座自用的小屋，但不符合本戒條的規定，在沒有決定小屋的哪一部分歸哪位比丘的情況下完成了。由於他們尚未決定，《義註》指出，在他聲稱擁有自己的小屋部分之前，他們都不會完全違犯。
+
 (未完待續)
