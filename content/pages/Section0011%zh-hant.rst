@@ -1627,4 +1627,19 @@
 
      - 如果比丘最初提到了正確的規定，但後來得知建造者忽視了這些規定，他必須親自去或派使者重申這些規定。不這樣做就犯《突吉羅》。如果建築者在被提醒注意這些規定後仍然忽視它們，比丘不會受到懲罰；但是，如果他們是比丘，他們就會因違反有關該場地的三個標準中的每一個而犯《突吉羅》。至於標準尺寸，他們不受它的約束，因為他們建造的小屋是供別人使用的。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Begging**
+     - **乞討**
+
+   * - The Vibhaṅga to this rule does not go into any great detail on the issue of begging for construction materials. However, the Commentary contains a long discussion of what a bhikkhu may and may not beg for when building any kind of building, even those not covered by this rule. Because the Commentary’s discussion here is not based on the Canon, not all Communities regard these points as binding. Still, many of its suggestions merit serious consideration. Its main points are these:
+
+     - 本戒條的《經分別》並沒有詳細討論乞討建築材料的問題。然而，《義註》包含了關於比丘在建造任何類型的建築物時可以乞討什麼和不可以乞討什麼的長篇討論，即使是那些不在本戒條範圍內的建築物。由於此處《義註》的討論並非基於《聖典》，因此並非所有僧團都認為這些要點具有約束力。儘管如此，其中的許多建議仍值得認真考慮。其要點如下：
+
+   * - A bhikkhu may ask for people to give labor in any situation (although this point seems to conflict with the spirit of the origin story to this rule). Thus he may ask stone masons to carry stone posts to his construction site, or carpenters to carry boards there. If, after he has asked them to help with the labor, they volunteer to donate the materials as well, he may accept them without penalty. Otherwise, he has to reimburse them for the materials.
+
+     - 比丘在任何情況下都可以要求人們給予勞力（儘管這一點似乎與本戒條的起源故事的精神相衝突）。因此，他可以請石匠將石柱搬到他的建築工地，或請木匠將木板搬到那裡。如果他要求他們幫忙做工後，他們也自願捐贈材料，他可以接受，不受懲罰。否則的話，他就得給他們補償材料費。
+
 (未完待續)
