@@ -1611,4 +1611,20 @@
 
      - 《義註》提到一個特殊的例子，兩個比丘建造了一座自用的小屋，但不符合本戒條的規定，在沒有決定小屋的哪一部分歸哪位比丘的情況下完成了。由於他們尚未決定，《義註》指出，在他聲稱擁有自己的小屋部分之前，他們都不會完全違犯。
 
+   * - *Getting others to build the hut.* The Vibhaṅga states that if, instead of building the hut himself, a bhikkhu tells others, “Build this hut for me,” he must inform them of the four stipulations mentioned in this rule. If he neglects to inform them, and they finish the hut in such a way that it does not meet any or all of the stipulations, he incurs all the relevant offenses for the stipulations that he neglected to mention and that the builders violated. For example: He tells them to build a hut of the right size, but neglects to tell them to have the site approved. They build it to the right size, the site is without disturbances and has adequate space but is not approved, and he incurs a saṅghādisesa. Offenses in cases like this apply whether he gets them to start the hut’s construction or gets them to complete a hut that he has started.
+
+     - *讓其他人建造小屋。*\《經分別》規定，如果比丘不是自己建造小屋，而是告訴別人：「為我建造這座小屋」，他必須告知他們本戒條中提到的四項規定。如果他疏忽通知他們，而他們以不符合任何或全部規定的方式完成小屋，他將因他疏忽提及和建造者違反的規定而承擔所有相關違犯。例如：他告訴他們建造一個大小合適的小屋，但沒有告訴他們讓場地被批准。他們把它建得大小合適，場地沒有干擾，有合適的空間，但沒有得到批准，他犯《僧殘》。無論他讓他們開始建造小屋還是讓他們完成他已經開始建造的小屋，這種情況下的犯戒都適用。
+
+   * - If, while the builders are still building the hut, he hears of what they are doing, he must either go himself or send a messenger to tell them of the stipulations he neglected to mention. If he does neither, he incurs a dukkaṭa, and when the hut is finished he incurs all the relevant offenses for the stipulations that he neglected to mention and that the builders violated.
+
+     - 如果在建造者還在建造小屋的時候，他聽到了他們正在做的事情，他必須要麼親自去，要麼派一個使者告訴他們他沒有提到的規定。如果他兩者都不做，他犯《突吉羅》，當小屋完工後，他會因他忽略提及而建造者違反的規定而招致所有相關的違犯。
+
+   * - If, while the hut is still unfinished, he returns to the site and discovers that the stipulations he neglected to mention are being violated, he must either have the hut torn down (to the ground, says the Commentary) and have it rebuilt in line with the stipulations, give it to another bhikkhu or the Community, or face the full penalty—when the hut is finished—for each of the stipulations that he neglected to mention and that the builders violated.
+
+     - 如果在小屋尚未完工時，他回到場地，發現他忽略提及的規定遭到違反，他必須要麼將小屋拆掉（《義註》說是夷為平地），按規定重建它，交給另一個比丘或僧團，要不然當小屋完成時，就因他忽略提及和建造者違反的每一項規定而面臨全額懲罰。
+
+   * - If the bhikkhu originally mentions the proper stipulations but later learns that the builders are ignoring them, he must go himself or send a messenger to reiterate the stipulations. Not to do so incurs a dukkaṭa. If, having been reminded of the stipulations, the builders still ignore them, the bhikkhu incurs no penalty; but they—if they are bhikkhus—incur a dukkaṭa for each of the three criteria regarding the site that they disobey. As for the standard measurement, they are not bound by it as they are building the hut for another’s use.
+
+     - 如果比丘最初提到了正確的規定，但後來得知建造者忽視了這些規定，他必須親自去或派使者重申這些規定。不這樣做就犯《突吉羅》。如果建築者在被提醒注意這些規定後仍然忽視它們，比丘不會受到懲罰；但是，如果他們是比丘，他們就會因違反有關該場地的三個標準中的每一個而犯《突吉羅》。至於標準尺寸，他們不受它的約束，因為他們建造的小屋是供別人使用的。
+
 (未完待續)
