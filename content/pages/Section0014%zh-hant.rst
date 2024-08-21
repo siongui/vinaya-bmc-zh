@@ -82,7 +82,7 @@
      - *2）努力：*\同意將其放在旁邊。
 
 .. _NP 10: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP10
-.. _《捨墮》十: {filename}Section0013%zh-hant.rst#np10
+.. _《捨墮》十: {filename}Section0013%zh-hant.rst#NP10
 .. _SN 42\:10: https://www.dhammatalks.org/suttas/SN/SN42_10.html
 .. _《相應部》42\:10經: https://sutra.mobi/chilin/xiangying/content/42.html#%E5%8D%81%E7%8F%A0%E9%AB%BB
 .. _AN 4\:50: https://www.dhammatalks.org/suttas/AN/AN4_50.html

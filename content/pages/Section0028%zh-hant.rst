@@ -389,7 +389,7 @@
      - 意思是：「尊者，我的此袈裟（袈裟布料），經過三次以上的提醒，經過六次以上的站立後獲得，應被捨出。我把它捨給你。」
 
 .. _NP 10: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP10
-.. _《捨墮》十: {filename}Section0013%zh-hant.rst#np10
+.. _《捨墮》十: {filename}Section0013%zh-hant.rst#NP10
 
 
 .. list-table::

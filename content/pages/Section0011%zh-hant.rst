@@ -1642,4 +1642,28 @@
 
      - 比丘在任何情況下都可以要求人們給予勞力（儘管這一點似乎與本戒條的起源故事的精神相衝突）。因此，他可以請石匠將石柱搬到他的建築工地，或請木匠將木板搬到那裡。如果他要求他們幫忙做工後，他們也自願捐贈材料，他可以接受，不受懲罰。否則的話，他就得給他們補償材料費。
 
+   * - As for tools, vehicles, and other things he will use in the process of construction, he may ask only to borrow them from other people and may not ask for them outright (except when asking from relatives or those who have made an offer). If the tools get damaged, he is responsible for getting them repaired before returning them to the owner. (This opinion, however, seems based on the Commentary’s concept of bhaṇḍadeyya, which we have already rejected under `Pr 2`_.) The only things he needn’t return to the owner are light articles *(lahubhaṇḍa)*, which the Sub-commentary identifies as things like reeds, rushes, grass, and clay—i.e., things having little or no monetary value at all.
+
+     - 對於施工過程中使用的工具、車輛等物品，只能向他人借用，不得直接索取（向親戚或提出邀請者索取的除外）。如果工具損壞，他有責任修理好，然後再歸還給所有者。（然而，這個觀點似乎是基於《義註》的 bhaṇḍadeyya 概念，我們已經在\ `《波羅夷》二`_\ 中拒絕了這個概念。）他唯一不需要歸還給所有者的東西是輕物品\ *（lahubhaṇḍa）*\，《複註》將其定為像蘆葦、燈芯草、草和黏土這樣的東西，即幾乎沒有或根本沒有貨幣價值的東西。
+
+   * - This means that unless a bhikkhu is going to build his dwelling out of reeds, etc., or out of thrown-away scraps, he may not ask people in general for any of the materials that will actually go into the dwelling. Keep in mind that these rules were made during a period when wilderness was still plentiful, and solid building materials such as timber and stones were free for the taking. At present, unless a bhikkhu has access to unclaimed wilderness of this sort, to unclaimed garbage, or has enough funds on deposit with his steward (see `NP 10`_) to cover the cost of materials, his only recourse if he wants a solid structure is either to rammed earth or to hinting.
+
+     - 這意味著，除非比丘要用蘆葦等，或用廢棄的廢料來建造他的住所，否則他不能向一般人索取任何實際用於建造住所的材料。請記住，這些規則是在林野仍然充足、木材和石頭等固體建築材料可以免費取得的時期制定的。目前，除非比丘能夠有權使用此類無人認領的荒野，無人認領的垃圾，或者在他的\ `淨人`_\ 處存有足夠的資金（參見\ `《捨墮》十`_\ ）來支付材料費用，否則如果他想要一個堅固的結構，他唯一的辦法就是要夯土，不然就要暗示。
+
+   * - The Commentary notes that while hinting is not allowed with regard to food or cloth, it is allowed with regard to construction materials (although again, this point seems to conflict with the spirit of the origin story). One example it gives is asking, “Do you think this is a good place to build a hut? An ordination hall?” Another example is staking out a construction site in hope that someone will ask, “What are you planning to do here?” If people get the hint and offer the materials, the bhikkhu may accept them. If they don’t, he may not ask directly for any materials except the “light articles” mentioned above.
+
+     - 《義註》指出，雖然在食物或衣服方面不允許暗示，但在建築材料方面卻允許暗示（儘管這一點似乎與起源故事的精神相衝突）。它給出的一個例子是問：「你認為這是建造小屋的好地方嗎？戒堂？」另一個例子是在一個建築工地上立樁標出界線，希望有人會問：「你打算在這裡做什麼？」如果人們得到暗示並提供材料，比丘可以接受。如果沒有，除了上述的「輕物品」之外，他不得直接要求任何材料。
+
+   * - From this it should be obvious that even in cases not covered by this rule—i.e., the dwelling he is building doesn’t qualify as a “hut,” or he is building something for other people to use—a bhikkhu engaged in construction work should not be burdensome to the laity. This is an important point, as the Buddha illustrated in a story he told to the bhikkhus at Āḷavī. A certain bhikkhu had once come to him with a complaint, and he reports the conversation as follows:
+
+     - 由此可見，即使在本戒條未涵蓋的情況下，即他正在建造的住處不符合「小屋」的資格，或者他正在建造供其他人使用時，從事建築工作的比丘不應成為俗人的負擔。這是很重要的一點，正如佛陀在他向 Āḷavī 的比丘們講述故事中所說明的那樣。有一次，有一位比丘來向他抱怨，他將談話的內容記述如下：
+
+       .. TODO FIXME: replace 地名 Āḷavī
+
+.. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
+.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
+.. _NP 10: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP10
+.. _《捨墮》十: {filename}Section0013%zh-hant.rst#NP10
+.. _淨人: https://zh.wikipedia.org/wiki/%E6%B7%A8%E4%BA%BA
+
 (未完待續)
