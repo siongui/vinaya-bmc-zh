@@ -1660,10 +1660,65 @@
 
        .. TODO FIXME: replace 地名 Āḷavī
 
+   * - “‘Venerable sir, there is a large stand of forest on the slopes of the Himalayas, and not far from it is a broad, low-lying marsh. A great flock of birds, after feeding all day in the marsh, goes to roost in the forest at nightfall. That is why I have come to see the Blessed One—because I am annoyed by the noise of that flock of birds.’
+
+     - 「『大德，喜馬拉雅山的山坡上有一大片森林，不遠處有一片廣闊的低窪沼澤。一大群鳥兒在沼澤地裡覓食了一整天後，在夜幕降臨時到森林裡棲息。這就是我來見世尊的原因──因為我對那群鳥的噪音感到惱火。』
+
+   * - “‘Bhikkhu, do you want those birds not to come there?’
+     - 「『比丘，你不想那些鳥兒到那裡去嗎？』
+
+   * - “‘Yes, venerable sir, I want them not to come there.’
+     - 「『是的，大德，我希望他們不要來這裡。』
+
+   * - “‘Then in that case, go back there, enter the stand of forest, and in the first watch of the night make this announcement three times: “Listen to me, good birds. I want a feather from everyone roosting in this forest. Each of you give me one feather.” In the second watch…. In the third watch of the night make this announcement three times: “Listen to me, good birds. I want a feather from everyone roosting in this forest. Each of you give me one feather”…. (The bhikkhu did as he was told.) Then the flock of birds, thinking, ‘The bhikkhu asks for a feather, the bhikkhu wants a feather,’ left the forest. And after they were gone, they never again returned. Bhikkhus, begging is unpleasant, hinting is unpleasant even to these common animals—how much more so to human beings?”
+
+     - 「『那麼，既然如此，你就回到那裡，進入林中，在初夜的時候，宣告三遍：『聽我說，好鳥兒們。我想要棲息在這片森林裡的每隻鳥的一根羽毛。你們每隻給我一根羽毛。在中夜......到後夜，宣告三次：「好鳥兒們，聽我說。我想要棲息在這片森林裡的每隻鳥的一根羽毛。你們每隻給我一根羽毛」… （比丘照他所吩咐的去做。） 然後，群鳥心想：『比丘要一根羽毛，比丘要一根羽毛。』而他們離開之後，就再也沒有回來過。比丘們，乞討是不愉快的，暗示甚至對這些普通動物來說也是不愉快的，何況對人類呢？」
+
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
 .. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
 .. _NP 10: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP10
 .. _《捨墮》十: {filename}Section0013%zh-hant.rst#NP10
 .. _淨人: https://zh.wikipedia.org/wiki/%E6%B7%A8%E4%BA%BA
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The Vibhaṅga’s non-offense clauses mention, in addition to the usual exemptions, that there is no offense “in a leṇa, in a guhā, in a grass hut, in (a dwelling) for another’s use, or in anything other than a dwelling.” The Commentary explains that *no offense* here means that these cases are not subject to any of the four stipulations given in this rule. With regard to “another’s use,” it says that this could mean a dwelling that will belong to another individual—such as one’s preceptor or mentor—or to the Community. As for the last case, it explains that if a bhikkhu is building, e.g., a meeting hall, he is not bound by this rule, but if he plans to lay claim to it and use it as his dwelling as well, he is.
+
+     - 除一般的豁免外，\ `《經分別》的不犯條款 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0216a07>`__\ 還提到，「在leṇa（山窟）、guhā（洞穴）、草屋、供他人使用的（住處）或住處除外的任何東西」均不構成犯戒。《義註》解釋說，此處\ *不犯*\ 意思是這些情況不受本戒條中四項規定中任何一項的約束。關於「他人使用」，它說這意味著屬於另一個人（例如戒師或教授師）或僧團的住處。至於最後一個例子，它解釋說，如果一個比丘正在建造，例如一個會議廳，他就不受本戒條的約束，但如果他打算聲稱擁有它並把它用作他的住所，他就受本戒條的約束。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Further restrictions and allowances**
+     - **進一步的限制和開緣**
+
+   * - Further restrictions and allowances concerning the construction of dwellings are discussed under `Pc 19`_ and in `BMC2, Chapters 6`_ and 18_.
+     - 有關住處建設的進一步限制和開緣在\ `《波逸提》十九`_\ 和\ `《佛教修道準則 第二冊》第六章`_\ 和\ `第十八章`_\ 中討論。
+
+   * - *Summary: Building a plastered hut—or having it built—without a sponsor, destined for one’s own use, without having obtained the Community’s approval, is a saṅghādisesa offense. Building a plastered hut—or having it built—without a sponsor, destined for one’s own use, exceeding the standard measurements, is also a saṅghādisesa offense.*
+
+     - *摘要：在沒有資助者的情況下建造或讓人建造一座灰泥小屋，供自己使用，未經僧團批准，是《僧殘》罪。在沒有資助者的情況下建造或讓人建造一座灰泥小屋，供自己使用，超過標準尺寸，也是《僧殘》罪。*
+
+.. _Pc 19: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc19
+.. _BMC2, Chapters 6: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#BMC2chapter6
+.. _18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. _《波逸提》十九: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc19
+.. TODO FIXME: replace link to 十九
+.. _《佛教修道準則 第二冊》第六章: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#BMC2chapter6
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第六章
+.. _第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十八章
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
