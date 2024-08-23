@@ -138,7 +138,7 @@
      - `\　　六 <{filename}Section0011%zh-hant.rst#Sg6>`__
 
    * - `\　　7 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg7>`__
-     - 　　七
+     - `\　　七 <{filename}Section0011%zh-hant.rst#Sg7>`__
 
    * - `\　　8 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8>`__
      - 　　八

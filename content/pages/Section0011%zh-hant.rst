@@ -1721,4 +1721,33 @@
    \*    \*    \*
 
 
+.. _Sg7:
+
+.. raw:: html
+
+   <span id="Sg7"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **7**
+     - **七**
+
+   * - .. container:: notification
+
+          *When a bhikkhu is having a large dwelling built—having a sponsor and destined for himself—he is to assemble bhikkhus to designate the site. The site the bhikkhus designate should be without disturbances and with adequate space. If the bhikkhu should have a large dwelling built on a site with disturbances and without adequate space, or if he should not assemble the bhikkhus to designate the site, it entails initial and subsequent meetings of the Community.*
+
+     - .. container:: notification
+
+          *當比丘要建造一座大住處時——有資助者並為自己而造——他要召集比丘們來指定地點。比丘們指定的地點應該沒有干擾並且有合適的空間。如果比丘在有干擾且沒有合適空間的地點建造一座大住處，或者如果他不召集比丘來指定地點，僧殘。*
+
+   * - The Vibhaṅga defines *dwelling* here with the same terms it uses for *hut* in the preceding rule. All explanations for this rule may be inferred from those above, the only difference being that, as the dwelling here has a sponsor, no begging is involved in its construction and so there is no need to limit its size.
+
+     - 《經分別》對這裡的\ *住處*\ 的定義與前面戒條中對\ *小屋*\ 使用的術語相同。對本戒條的所有解釋都可以從上面的內容中推斷出來，唯一的區別是，這裡的住處有資助者，建造過程中不涉及乞討，因此不需要限制其尺寸。
+
+   * - None of the texts define *sponsor* aside from the Vibhaṅga’s statement that the sponsor can be a man or a woman, a householder or one gone forth. The Pali term for “sponsor” here, *sāmika*, can also mean “owner,” and this has led some to suggest that this rule covers only those cases where the donor maintains ownership over the dwelling even after the bhikkhu has finished it. This, however, would create a serious gap in the rules. Suppose a donor offers to provide all the materials for a bhikkhu to build himself a large hut and to hand ownership of the hut over to the bhikkhu when it is finished as well. This is an extremely common case, and yet it would not be covered by the preceding rule, for that rule deals only with instances where the bhikkhu has to beg for his materials. If *sāmika* under this rule were confined to the restrictive sense of “owner” given above, the case would not be covered by this rule, either.
+
+     - 除了《經分別》陳述\ *資助者*\ 可以是男人或女人、居士或出家人之外，沒有任何文字定義資助者。這裡的巴利語「資助者」一詞， *sāmika* ，也可以指「所有者」，這導致一些人認為，本戒條只適用於那些即使在比丘完工後，施主仍保留住處所有權的情況。然而，這將在戒條中造成嚴重漏洞。假設一位布施者願意為一位比丘提供所有材料，讓他自己建造一座大小屋，並在完工後將小屋的所有權移交給比丘。這是一個極其常見的情況，但它不會被前面的戒條涵蓋，因為該戒條只涉及比丘必須乞討材料的情況。如果本戒條下的 *sāmika* 僅限於上述「所有者」的限制性含義，則該情況也不會受到本戒條的管轄。
+
 (未完待續)
