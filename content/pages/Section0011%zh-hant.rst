@@ -1750,4 +1750,21 @@
 
      - 除了《經分別》陳述\ *資助者*\ 可以是男人或女人、居士或出家人之外，沒有任何文字定義資助者。這裡的巴利語「資助者」一詞， *sāmika* ，也可以指「所有者」，這導致一些人認為，本戒條只適用於那些即使在比丘完工後，施主仍保留住處所有權的情況。然而，這將在戒條中造成嚴重漏洞。假設一位布施者願意為一位比丘提供所有材料，讓他自己建造一座大小屋，並在完工後將小屋的所有權移交給比丘。這是一個極其常見的情況，但它不會被前面的戒條涵蓋，因為該戒條只涉及比丘必須乞討材料的情況。如果本戒條下的 *sāmika* 僅限於上述「所有者」的限制性含義，則該情況也不會受到本戒條的管轄。
 
+   * - There is evidence in the Canon, though, that the word *sāmika* can have another meaning aside from “owner.” The non-offense clauses to `NP 10`_ use the word *sāmika* to describe a person who creates a robe-fund for a bhikkhu but does not retain ownership of the robe once it has been given to the bhikkhu, and it seems reasonable to use the word in the same sense under this rule as well. Thus a sponsor here would be anyone—man or woman, ordained or not—who underwrites the cost of building a hut in such a way that the bhikkhu does not have to beg for his materials. Thus if a bhikkhu building a hut for his own use draws entirely on funds deposited with his steward for all materials and labor, the case would come under this rule as well.
+
+     - 不過，《聖典》中有證據表明，除了「所有者」之外， *sāmika* 一詞還可以有其他意義。\ `《捨墮》十`_\ 的不犯條款使用 *sāmika* 一詞來描述為比丘創建袈裟資金但一旦將袈裟交給比丘後並不保留其所有權的人，在本戒條下使用具有同樣意義的該詞似乎也是合理的。因此，這裡的資助者可以是任何人——男人或女人，受具足戒與否——承擔建造小屋費用的人，這樣比丘就不必乞討他的材料。因此，如果比丘建造一間小屋供自己使用，其所有材料和勞力都完全由其存放在\ `淨人`_\ 的資金支付，則該情況也將受此戒條管轄。
+
+   * - Given the way the Commentary defines *destined for oneself*, if the sponsor maintained ownership of the finished hut, the case would not fall under this rule. If a sponsor is building a dwelling to give to a bhikkhu, and the bhikkhu is not involved in any way in building it or getting it built, this rule does not apply.
+
+     - 考慮到《義註》對\ *為自己而造*\ 的定義，如果資助者保留了已完工小屋的所有權，則該情況將不屬於本戒條的範圍。如果資助者正在建造一所住處供給一位比丘，而該比丘沒有以任何方式參與建造或令其被建造，則本戒條不適用。
+
+   * - *Summary: Building a hut with a sponsor—or having it built—destined for one’s own use, without having obtained the Community’s approval, is a saṅghādisesa offense.*
+
+     - *摘要：在未獲得僧團批准的情況下，有資助者建造小屋——或者讓人建造小屋——供自己使用，是《僧殘》罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 (未完待續)
