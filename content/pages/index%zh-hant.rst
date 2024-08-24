@@ -105,16 +105,16 @@
      - `\　波羅夷 <{filename}Section0010%zh-hant.rst>`__
 
    * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1>`__
-     - `\　　一 <{filename}Section0010%zh-hant.rst#pr1>`__
+     - `\　　一 <{filename}Section0010%zh-hant.rst#Pr1>`__
 
    * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2>`__
-     - `\　　二 <{filename}Section0010%zh-hant.rst#pr2>`__
+     - `\　　二 <{filename}Section0010%zh-hant.rst#Pr2>`__
 
    * - `\　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3>`__
-     - `\　　三 <{filename}Section0010%zh-hant.rst#pr3>`__
+     - `\　　三 <{filename}Section0010%zh-hant.rst#Pr3>`__
 
    * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4>`__
-     - `\　　四 <{filename}Section0010%zh-hant.rst#pr4>`__
+     - `\　　四 <{filename}Section0010%zh-hant.rst#Pr4>`__
 
    * - `\　Saṅghādisesa <https://www.dhammatalks.org/vinaya/bmc/Section0011.html>`__
      - `\　僧殘 <{filename}Section0011%zh-hant.rst>`__
@@ -141,7 +141,7 @@
      - `\　　七 <{filename}Section0011%zh-hant.rst#Sg7>`__
 
    * - `\　　8 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8>`__
-     - 　　八
+     - `\　　八 <{filename}Section0011%zh-hant.rst#Sg8>`__
 
    * - `\　　9 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9>`__
      - 　　九

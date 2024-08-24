@@ -177,7 +177,7 @@
 .. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
 .. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
 .. _Pc 77: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc77
-.. _《波羅夷》三: {filename}Section0010%zh-hant.rst#pr3
+.. _《波羅夷》三: {filename}Section0010%zh-hant.rst#Pr3
 .. _《波逸提》六一: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
 .. TODO FIXME: replace link to 《波逸提》六一
 .. _《波逸提》七七: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc77
@@ -252,7 +252,7 @@
 .. _在水流中逆流沐浴: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0164a08
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _命令一位沙彌抓住他的（比丘的）陰莖: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0163a07
-.. _《波羅夷》一: {filename}Section0010%zh-hant.rst#pr1
+.. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
 .. _睡眠沙彌案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0163a07
 .. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
 .. _《僧殘》二: #Sg2
@@ -1766,5 +1766,28 @@
 .. container:: has-text-centered
 
    \*    \*    \*
+
+
+.. _Sg8:
+
+.. raw:: html
+
+   <span id="Sg8"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **8**
+     - **八**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu—corrupt, aversive, disgruntled—charge a bhikkhu with an unfounded case entailing defeat, (thinking), “Perhaps I may bring about his fall from this celibate life,” then regardless of whether or not he is cross-examined on a later occasion, if the issue is unfounded and the bhikkhu confesses his aversion, it entails initial and subsequent meetings of the Community.*
+
+     - .. container:: notification
+
+          *如果任何比丘——惡意、瞋恨、不滿——以毫無根據的事由指控比丘犯波羅夷，（想）「也許我可以導致他從這梵行生活中退墮」，那麼無論他是否稍後受到盤問，如果事由沒有根據並且比丘承認他的惡意，僧殘。*
+
 
 (未完待續)

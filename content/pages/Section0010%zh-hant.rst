@@ -24,6 +24,10 @@
 
 .. _Pr1:
 
+.. raw:: html
+
+   <span id="Pr1"></span>
+
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
    :widths: auto
@@ -135,7 +139,7 @@
      - 《Vinīta_-vatthu_》中記載了一個案例，一位「官能受損」的比丘——在性交時既感覺不到快樂也感覺不到痛苦——認為他的缺陷使他不受戒條約束而進行性交。這個案例被提交給佛陀，佛陀說：“無論這個愚癡人有沒有（任何）感覺，這都是一個《波羅夷》的案例。” 從這個裁決可以看出，一個比丘在密宗儀式中沉溺於性交，即使他在行為過程中沒有感到快樂，也會受到全額懲罰。
 
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
-.. _《波羅夷》二: #pr2
+.. _《波羅夷》二: #Pr2
 
 
 .. list-table::
@@ -835,7 +839,7 @@
 .. _Cv.VI.15.2: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Cv.VI.15.2
 .. _《小品》.六.15.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0231a01
 .. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
-.. _《波羅夷》四: #pr4
+.. _《波羅夷》四: #Pr4
 .. _用於其他地方: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0235a08
 .. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
 .. _《波逸提》一: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
@@ -1062,6 +1066,10 @@
 
 
 .. _Pr3:
+
+.. raw:: html
+
+   <span id="Pr3"></span>
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1535,6 +1543,10 @@
 
 
 .. _Pr4:
+
+.. raw:: html
+
+   <span id="Pr4"></span>
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -2080,13 +2092,12 @@
 .. _《佛教修道準則 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十五章
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
-.. _《波羅夷》一: #pr1
+.. _《波羅夷》一: #Pr1
 .. _Mv.I.78.2-5: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.78.2-5
 .. _《大品》.一.78.2-5: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0120a12
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
-.. _《僧殘》八: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
-.. TODO FIXME: replace link to 《僧殘》八
+.. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
 .. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
 .. TODO FIXME: replace link to 第十一章
 .. _Mv.I.61-68: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.61.2

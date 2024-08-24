@@ -568,7 +568,7 @@
      - 《經分別》的不犯條款只包含\ `《波羅夷》一`_\中提到的總括性豁免。
 
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
-.. _《波羅夷》一: {filename}Section0010%zh-hant.rst#pr1
+.. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
 
 
 .. list-table::
@@ -817,7 +817,7 @@
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十章
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
 .. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
-.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#pr2
+.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
 .. _《波逸提》一: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
 .. TODO FIXME: replace link to 《波逸提》一
 
