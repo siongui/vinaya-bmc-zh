@@ -1789,5 +1789,33 @@
 
           *如果任何比丘——惡意、瞋恨、不滿——以毫無根據的事由指控比丘犯波羅夷，（想）「也許我可以導致他從這梵行生活中退墮」，那麼無論他是否稍後受到盤問，如果事由沒有根據並且比丘承認他的惡意，僧殘。*
 
+   * - “Now at that time a householder who served fine food gave food to the Community on a regular basis, four bhikkhus every day…. (One day) he happened to go on some business to the monastery. He went to Ven. Dabba Mallaputta and on arrival bowed down to him and sat to one side…. Ven. Dabba Mallaputta roused… him with a Dhamma talk. Then the householder with fine food… said to Dabba Mallaputta, ‘To whom, venerable sir, is tomorrow’s meal in our house assigned?’
+
+     - 「\ `爾時，一位提供精美食物的居士定期向僧團提供食物 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0224a10>`__\ ，每天有四位比丘… （有一天）他碰巧去寺院辦事。他去找沓婆摩羅子尊者，抵達後向他頂禮並坐在一邊…沓婆摩羅子尊者用佛法開示激勵了……他。然後，有美味食物的居士……對沓婆摩羅子說：『大德，我們家裡明天的飯菜是分配給誰的？』
+
+   * - “‘…To (the) followers of Mettiya and Bhummaja (§), householder.’ [Mettiya and Bhummaja were among the leaders of the group-of-six bhikkhus—so called because the group had six ringleaders—a faction notorious for its shameless behavior, and instigators of many of the situations that compelled the Buddha to formulate training rules.]
+
+     - 「『…居士，分配給慈和地（§）的弟子。』[慈和地是六群比丘的領導人之一——如此稱呼是因為該群有六名頭目——這個派別因其無恥的行為，以及許多情況的發起者迫使佛陀制定學處。]
+
+   * - “This upset the householder with fine food. Thinking, ‘How can these evil bhikkhus eat in our house?’ he returned home and ordered his female slave, ‘Hey. Those who are coming for a meal tomorrow: Prepare a seat for them in the gatehouse and serve them unhusked rice porridge with pickle brine.’
+
+     - 「這讓有美味食物的居士感到不悅。他心想：『這些惡比丘怎麼能在我們家裡吃飯呢？』他回到家裡，吩咐他的女婢：『嘿。明天來吃飯的人，在門房裡為他們預備座位，給與屑米飯添加酸粥。』
+
+   * - “‘As you say, master,’ the female slave answered….
+     - 「『如您所說，主人。』女婢回答道…
+
+   * - “Then the followers of Mettiya and Bhummaja said to one another, ‘Yesterday we were assigned a meal at the house of the householder with fine food. Tomorrow, attending with his wives and children, he will serve us. Some will offer rice, some will offer curry, some oil, and some condiments.’ Because of their joy, they didn’t sleep as much that night as they had hoped.
+
+     - 「然後，慈和地的弟子互相說道：『昨天，我們被安排去有美食的居士家裡用餐。明天，他將帶著妻子和孩子出席，為我們服務。有人會提供米飯，有人會提供咖哩、一些油和一些調味品。』由於高興，他們那天晚上並沒有像他們希望的那樣睡得多。
+
+   * - “Early the next morning… they went to the home of the householder with fine food. The female slave saw them coming from afar. On seeing them, and having prepared them a seat in the gatehouse, she said to them, ‘Have a seat, honored sirs.’
+
+     - 「第二天一早……他們來到了有美食的居士家。女婢遠遠就看到他們過來了。看見他們後，就在門房給他們安排了座位，對他們說：『大德，請坐。』
+
+   * - “The thought occurred to the followers of Mettiya and Bhummaja, ‘No doubt the food isn’t ready yet, which is why we’re being made to sit in the gatehouse.’
+     - 「慈和地的弟子心想，『毫無疑問，食物還沒有準備好，這就是我們坐在門房裡的原因。』
+
+   * - “Then the female slave presented them with unhusked rice porridge with pickle brine and said, ‘Eat, honored sirs.’
+     - “然後，女婢給他們端上屑米飯添加酸粥，說道：『大德，吃吧。』
 
 (未完待續)
