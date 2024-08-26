@@ -1818,4 +1818,45 @@
    * - “Then the female slave presented them with unhusked rice porridge with pickle brine and said, ‘Eat, honored sirs.’
      - “然後，女婢給他們端上屑米飯添加酸粥，說道：『大德，吃吧。』
 
+   * - “‘Sister, we’re the ones here for the regular meal.’
+     - 「『姐妹，我們是來這裡受常施食的。』
+
+   * - “‘I know you’re the ones here for the regular meal. But yesterday the householder ordered me, “Hey. Those who are coming for a meal tomorrow: Prepare a seat for them in the gatehouse and serve them unhusked rice porridge with pickle brine.” So eat, honored sirs.’
+
+     - 「『我知道你們是來這裡受常施食的。但昨天，我家主人命令我說：「嘿。明天來吃飯的人，在門房裡給他們預備座位，給他們吃屑米飯添加酸粥。所以請吃飯吧，大德。』
+
+   * - “Then the followers of Mettiya and Bhummaja said to one another, ‘Yesterday the householder with fine food went to the monastery and met with Dabba Mallaputta. No doubt Dabba Mallaputta turned him against us.’ Because of their disappointment, they didn’t eat as much as they had hoped.
+
+     - 「然後，慈和地的弟子彼此說道：『昨天，那位擁有美味食物的居士去了寺院，並會見了沓婆摩羅子。毫無疑問，沓婆摩羅子讓他背叛了我們。』由於失望，他們沒有吃到他們希望的那麼多。
+
+   * - “Then… they returned to the monastery and, putting away their robes and bowls, went outside the monastery gatehouse and sat with their outer robes holding up their knees (§)—silent, abashed, their shoulders drooping, their heads down, brooding, at a loss for words.
+
+     - 「然後……他們回到寺院，收起袈裟和缽，到寺院門房外，蹲坐於僧伽梨衣（§）——沉默、羞愧、垂肩、低頭、憂鬱，無言以對。
+
+   * - “Then Mettiyā Bhikkhunī approached them… and said to them, ‘I salute you, masters.’ But when she had said this, they didn’t respond. A second time… A third time she said, ‘I salute you, masters.’ And a third time they didn’t respond.
+
+     - 「然後，慈比丘尼走近他們……並對他們說：『我頂禮大德。』但是當她說出這句話時，他們沒有回應。第二次……第三次她說：『我頂禮大德。』第三次他們沒有回應。
+
+   * - “‘Have I offended you, masters? Why don’t you respond to me?’
+     - 「『我冒犯大德了嗎？為什麼不回應我？』
+
+   * - “‘Because *you*, sister, look on impassively while Dabba Mallaputta treats us like dirt.’
+     - 「『因為，姐妹，\ *你*\ 冷漠地看著沓婆摩羅子對待我們就像對待泥土一樣。』
+
+   * - “‘What can I do?’
+     - 「『我能做些什麼？』
+
+   * - “‘If you want, you could get the Blessed One to expel Dabba Mallaputta right this very day.’
+     - 「『如果你願意，你可以在今天就讓世尊驅逐沓婆摩羅子。』
+
+   * - “‘What can I do? How could *I* do that?’
+     - 「『我能做些什麼？\ *我*\ 能怎麼做呢？』
+
+   * - “‘Come, sister. Go to the Blessed One and say this: “It is unfitting, venerable sir, and improper. The quarter without dread, without harm, without danger, is (now) the quarter with dread, with harm, with danger. From where there was a calm, there is (now) a storm-wind. The water, as it were, is ablaze. I have been raped by Master Dabba Mallaputta.”’
+
+     - 「『來吧，姐妹。去向世尊說：「大德，這是不合適的，也是不恰當的。沒有恐懼、沒有傷害、沒有危險的地區，（現在）是有恐懼、有傷害、危險的地區。原本風平浪靜的地方，現在卻刮起了狂風。水就像在燃燒一樣。我被大德沓婆摩羅子強暴了。』
+
+   * - “‘As you say, masters.’ (And she went to carry out their bidding.)”
+     - 「『就如您所說，大德。』（她去執行他們的命令。）」
+
 (未完待續)
