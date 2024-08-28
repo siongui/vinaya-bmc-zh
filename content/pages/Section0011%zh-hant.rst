@@ -1859,4 +1859,18 @@
    * - “‘As you say, masters.’ (And she went to carry out their bidding.)”
      - 「『就如您所說，大德。』（她去執行他們的命令。）」
 
+   * - This is just the heart of the origin story to this rule, which is one of the longest and most controversial accounts in the Vinaya. After Mettiyā Bhikkhunī made her charge, the Buddha convened a meeting of the Saṅgha to question Ven. Dabba Mallaputta. The latter, who had attained arahantship at the age of seven, responded truthfully that he could not call to mind ever having indulged in sexual intercourse even in a dream, much less when awake. The Buddha then told the Saṅgha to expel Mettiyā Bhikkhunī and to interrogate (§) her instigators, after which he returned to his quarters. When the bhikkhus had expelled her, the followers of Mettiya and Bhummaja told them, “Friends, don’t expel Mettiyā Bhikkhunī. She hasn’t done anything wrong. She was instigated by us, who were upset, dissatisfied, and wanted to see him fall.”
+
+     - 這只是本戒條起源故事的核心，也是戒律中最長、最具爭議的記載之一。慈比丘尼提出指控後，佛陀召集僧伽會議質問沓婆摩羅子尊者。後者七歲時證得阿羅漢果，他如實回答說，即使在夢中，他也無法回憶起曾經沉迷於性交的經歷，更不用說在醒時了。然後，佛陀吩咐僧團驅逐慈比丘尼，並審問（§）她的煽動者，然後他返回自己的住處。當比丘們驅逐她時，慈和地的弟子告訴他們：「朋友們，不要驅逐慈比丘尼。她沒有做錯任何事。她是被我們慫恿的，我們心煩意亂，不滿，想看他退墮。」
+
+   * - “‘You mean you were charging Ven. Dabba Mallaputta with an unfounded case entailing defeat?’
+     - 「『你們的意思是你們以毫無根據的波羅夷案件指控沓婆摩羅子尊者？』
+
+   * - “‘Yes, friends.’
+     - 「『是的，朋友們。』
+
+   * - “So the bhikkhus criticized and complained and spread it about, ‘How can the followers of Mettiya and Bhummaja charge Ven. Dabba Mallaputta with an unfounded case entailing defeat?’”
+
+     - 「因此，比丘們批評、抱怨並散佈這樣的言論：『慈和地的弟子怎麼能以毫無根據的波羅夷案件指控沓婆摩羅子尊者？』」
+
 (未完待續)
