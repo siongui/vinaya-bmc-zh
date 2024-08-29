@@ -1873,4 +1873,16 @@
 
      - 「因此，比丘們批評、抱怨並散佈這樣的言論：『慈和地的弟子怎麼能以毫無根據的波羅夷案件指控沓婆摩羅子尊者？』」
 
+   * - In the centuries after the Canon was composed, however, many people have criticized and complained more about the Buddha’s treatment of Mettiyā Bhikkhunī. According to the Commentary, her expulsion was one of the controversial points dividing the bhikkhus in the Abhayagiri Vihāra from those in the Mahāvihāra in the old Sri Lankan capital of Anurādhapura. Even modern scholars have objected to the Buddha’s treatment of Mettiyā Bhikkhunī and interpret this passage as a “monkish gloss,” as if the Buddha himself were not a monk, and the entire Canon not the work of monks and nuns. The Commentary maintains that the Buddha acted as he did because he knew if he treated her less harshly, the followers of Mettiya and Bhummaja would never have volunteered the information that they had put her up to making the charge in the first place, and the truth would never have come out. This would have led some people to remain secretly convinced of Ven. Dabba Mallaputta’s guilt and—because he was an arahant—would have been for their long-term detriment and harm.
+
+     - 然而，在《聖典》形成後的幾個世紀裡，許多人對佛陀對待慈比丘尼的方式提出了更多的批評和抱怨。根據《義註》，她的驅逐是在斯里蘭卡舊首都\ `阿努拉德普勒`_\ 的\ `無畏山寺`_\ 比丘與\ `大寺`_\ 比丘之間分裂的爭議點之一。甚至現代學者也反對佛陀對慈比丘尼的處理，並將這段經文解釋為「僧人的註釋」，彷彿佛陀本人不是僧人，整部《聖典》也不是僧人和尼姑的作品。《義註》認為，佛陀這樣做是因為他知道，如果他對待她不那麼嚴厲，慈和地的弟子就永遠不會自願提供他們一開始就讓她提出指控的信息，事實永遠不會出來。這會導致一些人仍然暗中相信沓婆摩羅子尊者的罪行——因為他是阿羅漢——會對他們造成長久的危害和傷害。
+
+   * - At any rate, what concerns us here is that at some point after this rule was formulated, the Buddha put the Saṅgha in charge of judging accusations of this sort and gave them a definite pattern to follow to ensure that their judgments would be as fair and accurate as possible. Because the Vibhaṅga and Commentary to this rule are based on this pattern, we will discuss the pattern first before dealing with the special case—unfounded charges—covered by this rule.
+
+     - 無論如何，我們在這裡關心的是，在本戒條制定後的某個時刻，佛陀讓僧團負責判斷此類指控，並給了他們一個明確的模式可遵循，以確保他們的判斷是盡可能地公平和正確。由於本戒條的《經分別》和《義註》都是基於此模式，因此我們將首先討論該模式，然後再處理本戒條所涵蓋的特殊情況——毫無根據的指控。
+
+.. _阿努拉德普勒: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92
+.. _無畏山寺: https://zh.wikipedia.org/wiki/%E7%84%A1%E7%95%8F%E5%B1%B1%E5%AF%BA
+.. _大寺: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA
+
 (未完待續)
