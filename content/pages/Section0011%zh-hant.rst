@@ -1885,4 +1885,59 @@
 .. _無畏山寺: https://zh.wikipedia.org/wiki/%E7%84%A1%E7%95%8F%E5%B1%B1%E5%AF%BA
 .. _大寺: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Admonition**
+     - **敎誡**
+
+   * - As the Buddha states in `Sg 12`_, one of the ways bhikkhus may hope for growth in his teachings is through mutual admonition and mutual rehabilitation. If a bhikkhu commits an offense, he is responsible for informing his fellow bhikkhus so that they may help him through whatever procedures the offense may entail. Human nature being what it is, there are bound to be bhikkhus who neglect this responsibility, in which case the responsibility falls to the offender’s fellow bhikkhus who know of the matter to admonish him in private, if possible, or—if he is stubborn—to make a formal charge in a meeting of the Community.
+
+     - 正如佛陀在\ `《僧殘》十二`_\ 中所說，比丘們希望在他的教義中成長的方法之一是透過相互教誡和相互恢復清淨。如果比丘犯了戒，他有責任通知他的比丘同儕，以便他們可以通過該罪可能需要的任何程序來幫助他。人性就是這樣，必然會有比丘忽視這一責任，在這種情況下，責任就落在了犯戒者的比丘同儕身上，他們知道此事，如果可能的話，私下教誡他，或者——如果他很頑固的話－在僧團會議上提出正式指控。
+
+   * - The pattern here is this: Before admonishing the bhikkhu, one must first make sure that one is qualified to admonish him. According to `Cv.IX.5.1-2`_, this means knowing that:
+
+     - 這裡的模式是這樣的：在教誡比丘之前，首先必須確定自己有資格教誡比丘。根據\ `《小品》.九.5.1-2`_\ ，這意味著知道：
+
+   * - 1\) One is pure in bodily conduct.
+     - 1）身行清淨。
+
+   * - 2\) One is pure in verbal conduct.
+     - 2）語行清淨。
+
+   * - 3\) One is motivated by good will, not vindictiveness.
+     - 3）動機是出於善意，而不是出於報復。
+
+   * - 4\) One is learned in the Dhamma.
+     - 4）通達佛法。
+
+   * - 5\) One knows both Pāṭimokkhas (the one for the bhikkhus and the one for the bhikkhunīs) in detail.
+     - 5）詳細了解兩部波羅提木叉（比丘和比丘尼）。
+
+   * - Furthermore, one determines that:
+     - 此外，還確定：
+
+   * - 1\) I will speak at the right time and not at the wrong time.
+     - 1）我會在正確的時候說話，不在錯誤的時候說話。
+
+   * - 2\) I will speak about what is factual and not what is unfactual.
+     - 2）我會說事實，而不是非事實。
+
+   * - 3\) I will speak gently and not harshly.
+     - 3）我會柔軟地說，不粗暴地說。
+
+   * - 4\) I will speak what is connected with the goal *(attha)* and not what is unconnected with the goal (this can also mean: what is connected with the case and not what is unconnected with the case).
+     - 4）我會說與目標（\ attha_\ ）相關的內容，而不是與目標無關的內容（這也可以意味著：與具體情況相關的內容，而不是與具體情況無關的內容）。
+
+   * - 5\) I will speak from a mind of good will and not from inner aversion.
+     - 5）我會出於慈心而不是瞋心的而說。
+
+.. _Sg 12: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
+.. _《僧殘》十二: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
+.. TODO FIXME: replace link to 《僧殘》十二
+.. _Cv.IX.5.1-2: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.5.1
+.. _《小品》.九.5.1-2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_019#0331a14
+.. _attha: https://dictionary.sutta.org/browse/a/attha/
+
 (未完待續)
