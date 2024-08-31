@@ -1933,11 +1933,31 @@
    * - 5\) I will speak from a mind of good will and not from inner aversion.
      - 5）我會出於慈心而不是瞋心的而說。
 
+   * - `Cv.IX.5.7`_ and Pv.XV.5.3 add that one should keep five qualities in mind: compassion, solicitude for the other’s welfare, sympathy, a desire to see him rehabilitated, and esteem for the Vinaya.
+
+     - `《小品》.九.5.7`_\ 和\ `《附隨》.十五.5.3`_\ 補充說，應該牢記五種特質：慈悲、關心他人的福祉、同情、渴望看到他改過自新，以及尊重戒律。
+
+   * - If one feels unqualified in terms of these standards yet believes that another bhikkhu has committed an offense for which he has not made amends, one should find another bhikkhu who is qualified to handle the charge and inform him. Not to inform anyone in cases like this is to incur a pācittiya or a derived offense under `Pc 64`_, except in the extenuating circumstances discussed under that rule.
+
+     - 如果覺得自己不符合這些標準，但又相信另一位比丘犯了戒，而他還沒有改正，那麼應該找到另一位有資格處理指控的比丘，並通知他。在此類情況下，不通知任何人將構成\ `《波逸提》六四`_\ 中的《波逸提》罪或衍生違犯，除了該戒條中討論的情有可原的情況。
+
+   * - The next step, if one is qualified to make the charge, is to look for a proper time and place to talk with the other party—for example, when he is not likely to get embarrassed or upset—and then to ask his leave, i.e., to ask permission to speak with him: “Let the venerable one give me leave. I want to speak with you—\ *Karotu āyasmā okāsaṁ. Ahan-taṁ vattukāmo.*\” To accuse him of an offense without asking leave is to incur a dukkaṭa (`Mv.II.16.1`_).
+
+     - 如果有資格提出指控，下一步就是尋找適當的時間和地點與對方交談——例如，當他不太可能感到尷尬或不安時——然後請求他的許可，即，請求允許與他交談：「請尊者給予我許可。我想和你說話－\ *Karotu āyasmā okāsaṁ. Ahan-taṁ vattukāmo.*\。」未經許可就指控他有罪，犯《突吉羅》（\ `《大品》.二.16.1`_\）。
+
 .. _Sg 12: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
 .. _《僧殘》十二: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
 .. TODO FIXME: replace link to 《僧殘》十二
 .. _Cv.IX.5.1-2: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.5.1
 .. _《小品》.九.5.1-2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_019#0331a14
 .. _attha: https://dictionary.sutta.org/browse/a/attha/
+.. _Cv.IX.5.7: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.5.7
+.. _《小品》.九.5.7: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_019#0334a13
+.. _《附隨》.十五.5.3: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0298a06
+.. _Pc 64: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
+.. _《波逸提》六四: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
+.. TODO FIXME: replace link to 《波逸提》六四
+.. _Mv.II.16.1: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.16.1-3
+.. _《大品》.二.16.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0151a01
 
 (未完待續)
