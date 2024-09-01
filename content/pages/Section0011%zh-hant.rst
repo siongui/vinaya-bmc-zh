@@ -1945,6 +1945,10 @@
 
      - 如果有資格提出指控，下一步就是尋找適當的時間和地點與對方交談——例如，當他不太可能感到尷尬或不安時——然後請求他的許可，即，請求允許與他交談：「請尊者給予我許可。我想和你說話－\ *Karotu āyasmā okāsaṁ. Ahan-taṁ vattukāmo.*\。」未經許可就指控他有罪，犯《突吉羅》（\ `《大品》.二.16.1`_\）。
 
+   * - As for the other party, he may give leave, or not, depending on his assessment of the individual asking for leave, for it is possible that someone might ask for leave without any real grounds, simply to be abusive. (This interpretation follows the Burmese edition on the relevant passage, `Mv.II.16.3`_. In other editions, the same passage says that one is allowed to make another bhikkhu give leave after having assessed him. However, in the context of the allowance—some group-of-six bhikkhus ask leave of bhikkhus they know are pure—there seems no need to allow a bhikkhu to reflect on whether the person he plans to accuse might be pure. That is one of the accuser’s duties, as enforced by the present rule along with the following rule, `Pc 76`_, and another passage in `Mv.II.16.3`_. As for the case of asking leave of someone who might prove abusive, that is already covered in `Mv.II.16.2`_, which says that even after another bhikkhu has given leave, one should assess him before leveling a charge against him. Thus, in context, the Burmese reading makes more sense: Having been asked to give leave, one is allowed to assess the person making the request before giving him leave to speak. If we did not follow the Burmese reading here, there would be no allowance in the Vibhaṅga or the Khandhakas not to give leave to an abusive accuser.) A bhikkhu who asks for leave with no grounds—i.e., he has not seen the other party commit the offense, has heard no reliable report to that effect, and has no reason to suspect anything to that effect—incurs a dukkaṭa (`Mv.II.16.3`_).
+
+     - 至於對方，可以允許，也可以不允許，這取決於他對請求允許者的評估，因為有可能有人會無緣無故請求允許，只是為了施虐。（這一解釋遵循緬甸版本的相關段落，\ `《大品》.二.16.3`_\ 。在其他版本中，同一段落說，可以在對另一位比丘進行評估後，再請求給予允許。然而，就開緣的脈絡中——某六群比丘請求他們知道清淨的比丘們的允許——似乎沒有必要讓比丘思考他打算指控的人是否清淨，這是指控者的職責之一，由本戒條以及之後的\ `《波逸提》七六`_\ 戒條，和\ `《大品》.二.16.3`_\ 中的另一段落強制執行。至於向可能施虐的人請求許可的情況，這已在\ `《大品》.二.16.2`_\ 中涵蓋，其中說，即使在另一位比丘給予許可之後，也應該在對他提出指控之前對其進行評估。因此，就上下文而言，緬甸的解讀更合理：在被要求給予許可後，可以在允許他發言之前對提出請求的人進行評估。如果我們不遵循這裡的緬甸的解讀，那麼《經分別》或《犍度》就不會允許不給予施虐的指控者許可。）比丘無緣無故請求允許──即，他沒有看到對方犯戒，也沒有聽過可靠的舉報，也沒有理由懷疑任何與此有關的事情──犯《突吉羅》（\ `《大品》.二.16.3`_\ ）。
+
 .. _Sg 12: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
 .. _《僧殘》十二: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
 .. TODO FIXME: replace link to 《僧殘》十二
@@ -1959,5 +1963,12 @@
 .. TODO FIXME: replace link to 《波逸提》六四
 .. _Mv.II.16.1: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.16.1-3
 .. _《大品》.二.16.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0151a01
+.. _Mv.II.16.3: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.16.1-3
+.. _《大品》.二.16.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0151a07
+.. _Pc 76: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
+.. _《波逸提》七六: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
+.. TODO FIXME: replace link to 《波逸提》七六
+.. _Mv.II.16.2: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.16.1-3
+.. _《大品》.二.16.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0151a04
 
 (未完待續)
