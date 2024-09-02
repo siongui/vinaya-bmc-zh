@@ -1949,6 +1949,42 @@
 
      - 至於對方，可以允許，也可以不允許，這取決於他對請求允許者的評估，因為有可能有人會無緣無故請求允許，只是為了施虐。（這一解釋遵循緬甸版本的相關段落，\ `《大品》.二.16.3`_\ 。在其他版本中，同一段落說，可以在對另一位比丘進行評估後，再請求給予允許。然而，就開緣的脈絡中——某六群比丘請求他們知道清淨的比丘們的允許——似乎沒有必要讓比丘思考他打算指控的人是否清淨，這是指控者的職責之一，由本戒條以及之後的\ `《波逸提》七六`_\ 戒條，和\ `《大品》.二.16.3`_\ 中的另一段落強制執行。至於向可能施虐的人請求許可的情況，這已在\ `《大品》.二.16.2`_\ 中涵蓋，其中說，即使在另一位比丘給予許可之後，也應該在對他提出指控之前對其進行評估。因此，就上下文而言，緬甸的解讀更合理：在被要求給予許可後，可以在允許他發言之前對提出請求的人進行評估。如果我們不遵循這裡的緬甸的解讀，那麼《經分別》或《犍度》就不會允許不給予施虐的指控者許可。）比丘無緣無故請求允許──即，他沒有看到對方犯戒，也沒有聽過可靠的舉報，也沒有理由懷疑任何與此有關的事情──犯《突吉羅》（\ `《大品》.二.16.3`_\ ）。
 
+   * - Pv.XV.4.7 gives further support to the Burmese reading here by suggesting that one should not give leave to a bhikkhu who:
+     - `《附隨》.十五.4.7`_ 進一步支持緬甸的解讀，建議不應給予以下比丘許可：
+
+   * - 1\) is unconscientious,
+     - 1）無恥，
+
+   * - 2\) is ignorant,
+     - 2）愚癡，
+
+   * - 3\) is not in regular standing (e.g., he is undergoing penance for a saṅghādisesa offense or has been placed under a disciplinary transaction),
+     - 3）沒有正常地位（例如，他正在因《僧殘》罪而接受摩那埵或已受到治罪羯磨），
+
+   * - 4\) speaks intent on creating a disturbance, or
+     - 4）說話意圖製造騷亂，或
+
+   * - 5\) is not intent on rehabilitating the bhikkhu he is accusing.
+     - 5）無意為他所指控的比丘恢復清淨。
+
+   * - Pv.XV.5.4 suggests further that one should not give leave to a bhikkhu who:
+     - `《附隨》.十五.5.4`_ 進一步建議，不應給予以下比丘許可：
+
+   * - 1\) is not pure in bodily conduct,
+     - 1）身行不清淨，
+
+   * - 2\) is not pure in verbal conduct,
+     - 2）語行不清淨，
+
+   * - 3\) is not pure in his livelihood,
+     - 3）活命不清淨，
+
+   * - 4\) is incompetent and inexperienced, or
+     - 4）無能力且缺乏經驗，或
+
+   * - 5\) is unable to give a consistent line of reasoning when questioned.
+     - 5）在被詢問時無法給予一致的論據。
+
 .. _Sg 12: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
 .. _《僧殘》十二: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
 .. TODO FIXME: replace link to 《僧殘》十二
@@ -1970,5 +2006,7 @@
 .. TODO FIXME: replace link to 《波逸提》七六
 .. _Mv.II.16.2: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.16.1-3
 .. _《大品》.二.16.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0151a04
+.. _《附隨》.十五.4.7: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0295a12
+.. _《附隨》.十五.5.4: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0298a10
 
 (未完待續)
