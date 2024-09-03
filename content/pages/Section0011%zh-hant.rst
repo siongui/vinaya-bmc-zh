@@ -1985,6 +1985,14 @@
    * - 5\) is unable to give a consistent line of reasoning when questioned.
      - 5）在被詢問時無法給予一致的論據。
 
+   * - If the bhikkhu is not unqualified in any of these ways, though, one should willingly give him leave to speak. `Cv.IX.5.7`_ says that, when being admonished or accused, one should keep two qualities in mind: truth and staying unprovoked. The Pāṭimokkha also contains a number of rules imposing penalties on behaving improperly when one is being admonished formally or informally: `Sg 12`_ for being difficult to admonish in general, `Pc 12`_ for being evasive or refusing to answer when being formally questioned (see below), `Pc 54`_ for being disrespectful to one’s accuser or to the rule one is being accused of breaking, and `Pc 71`_ for finding excuses for not following a particular training rule.
+
+     - 然而，如果比丘在上述任何一方面都沒有資格的話，應該願意允許他發言。\ `《小品》.九.5.7`_ 說，當受到教誡或指控時，應牢記兩個特質：真實和無忿怒。《波羅提木叉》也包含許多對在正式或非正式教誡時行為不當的處罰戒條：\ `《僧殘》十二`_\ 是在一般情況下難以教誡，\ `《波逸提》十二`_\ 是在正式詢問時迴避或拒絕回答（見下文），\ `《波逸提》五四`_\ 是不尊重指控者或被指控違反的戒條，\ `《波逸提》七一`_\ 是為不遵守特定學處找藉口。
+
+   * - If both sides act in good faith and without prejudice, accusations of this sort are easy to settle on an informal basis. If an accusation can’t be settled informally, it should be taken to a meeting of the Community so that the group as a whole may pass judgment. The procedures for this sort of formal meeting will be discussed under the aniyata and adhikaraṇa-samatha rules. If the issue is to be brought up at a Community meeting for the uposatha, there are extra procedures to be followed, which are discussed in `BMC2, Chapter 15`_. If the issue is to be brought up at the Invitation at the end of the Rains, the procedures to be followed are discussed in `BMC2, Chapter 16`_.
+
+     - 如果雙方本著善意且不帶偏見行事，此類指控很容易在非正式基礎上解決。如果指控無法以非正式方式解決，則應提交僧團會議，以便整個團體做出判斷。此類正式會議的程序將根據《不定》和《滅諍》戒條進行討論。如果要在布薩的僧團會議上提出這個問題，則需要遵循額外的程序，這些程序在\ `《佛教修道準則 第二冊》第十五章`_\ 中討論。如果要在雨安居結束時在自恣時提出該問題，則應遵循的程序將在\ `《佛教修道準則 第二冊》第十六章`_\ 中討論。
+
 .. _Sg 12: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
 .. _《僧殘》十二: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
 .. TODO FIXME: replace link to 《僧殘》十二
@@ -2008,5 +2016,20 @@
 .. _《大品》.二.16.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0151a04
 .. _《附隨》.十五.4.7: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0295a12
 .. _《附隨》.十五.5.4: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0298a10
+.. _Pc 12: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc12
+.. _《波逸提》十二: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc12
+.. TODO FIXME: replace link to 《波逸提》十二
+.. _Pc 54: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
+.. _《波逸提》五四: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
+.. TODO FIXME: replace link to 《波逸提》五四
+.. _Pc 71: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc71
+.. _《波逸提》七一: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc71
+.. TODO FIXME: replace link to 《波逸提》七一
+.. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. _《佛教修道準則 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十五章
+.. _BMC2, Chapter 16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
+.. _《佛教修道準則 第二冊》第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十六章
 
 (未完待續)
