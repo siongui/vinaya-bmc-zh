@@ -2032,4 +2032,30 @@
 .. _《佛教修道準則 第二冊》第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十六章
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Abuse of the system**
+     - **濫用系統**
+
+   * - As shown in the origin story to this rule, a bhikkhu making a charge against another bhikkhu might be acting out of a grudge and simply making up the charge. This rule and the following one cover cases where the made-up charge is that the other bhikkhu has committed a pārājika. `Pc 76`_ covers cases where the made-up charge is that he has broken a less serious rule.
+
+     - 正如本戒條的起源故事所示，一位比丘對另一位比丘提出指控，可能是出於怨恨而只是編造指控。本戒條和接下來的戒條涵蓋了捏造指控另一位比丘犯了《波羅夷》罪的情況。\ `《波逸提》七六`_\ 涵蓋了捏造指控他違反了不太嚴重的戒條的案件。
+
+   * - The full offense under this rule involves four factors.
+     - 本戒條下的完整違犯涉及四個因素。
+
+   * - *1) Object:* The other bhikkhu is regarded as ordained.
+     - *1）對象：*\另一位被視為受戒的比丘。
+
+   * - *2) Perception:* One perceives him to be innocent of the offense one is charging him with.
+     - *2）感知：*\知道他沒有犯下所指控的罪行。
+
+   * - *3) Intention:* One wants to see him expelled from the Saṅgha.
+     - *3）意圖：*\希望看到他被逐出僧團。
+
+   * - *4) Effort:* One makes an unfounded charge in his presence that he is guilty of a pārājika offense.
+     - *4）努力：*\當著他的面毫無根據地指控他犯《波羅夷》罪。
+
 (未完待續)
