@@ -2058,4 +2058,19 @@
    * - *4) Effort:* One makes an unfounded charge in his presence that he is guilty of a pārājika offense.
      - *4）努力：*\當著他的面毫無根據地指控他犯《波羅夷》罪。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The definition of this factor—the other bhikkhu is regarded as ordained—may sound strange, but it comes from the K/Commentary, which apparently extended the principle expressed in the factor of perception, explained below, that if one perceives the bhikkhu as innocent of the charge one is making, the fact of whether he is actually innocent is irrelevant to the offense under this rule. In the same way, the K/Commentary seems to be reasoning, if one perceives the bhikkhu to be a bhikkhu, the fact of whether he is actually a bhikkhu is irrelevant to this offense. The K/Commentary makes this point for a reason: In normal cases the object of this rule will be an innocent bhikkhu, but there may be cases where a bhikkhu has actually committed a pārājika offense that no one knows about; instead of disrobing, he acts as if he were still a bhikkhu, and everyone else assumes that he still is. Yet even a “bhikkhu” of this sort would fulfill this factor as far as this rule is concerned.
+
+     - 這個因素的定義——另一位比丘被認為是受戒的——可能聽起來很奇怪，但它來自K/《義註》，它顯然擴展了感知因素中表達的原則，如下所述，如果認為被指控的比丘是無罪的，他是否實際上是無辜的這一事實與本戒條下的犯戒無關。同樣地，K/《義註》似乎在推理，如果認為該比丘是一位比丘，那麼他實際上是否是比丘這一事實與此罪行無關。K/《義註》提出這一點是有原因的：在正常情況下，本戒條的對象是無辜的比丘，但也可能有比丘實際上犯了無人知曉的《波羅夷》罪的情況；他沒有還俗，而是表現得好像他仍然是比丘，而其他人都認為他仍然是比丘。然而，就本戒條而言，即使是這樣的「比丘」也能滿足這個因素。
+
+   * - For example, Bhikkhu X steals some of the monastery funds, but no one knows about it, and he continues to act as if he were a bhikkhu. Bhikkhu Y later develops a grudge against him and makes an unfounded charge that he has had sexual intercourse with one of the monastery supporters. Even though X is not really a bhikkhu, the fact that people in general assume him to be one means that he fulfills this factor.
+
+     - 例如，X比丘偷走了一些寺院資金，但沒有人知道，他繼續表現得像比丘一樣。Y比丘後來對他懷恨在心，並毫無根據地指控他與一名寺院支持者發生性關係。儘管 X 並不是真正的比丘，但人們普遍認為他是比丘這一事實就意味著他滿足了這一因素。
+
 (未完待續)
