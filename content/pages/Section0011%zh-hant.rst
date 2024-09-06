@@ -2073,4 +2073,37 @@
 
      - 例如，X比丘偷走了一些寺院資金，但沒有人知道，他繼續表現得像比丘一樣。Y比丘後來對他懷恨在心，並毫無根據地指控他與一名寺院支持者發生性關係。儘管 X 並不是真正的比丘，但人們普遍認為他是比丘這一事實就意味著他滿足了這一因素。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Perception**
+     - **感知**
+
+   * - If one perceives the bhikkhu one is charging with a pārājika offense to be innocent of the offense, that is enough to fulfill this factor regardless of whether the accused is actually innocent or not. To make an accusation based on the assumption or suspicion that the accused is *not* innocent entails no offense.
+
+     - 如果認為被指控犯下《波羅夷》罪的比丘是無辜的，那麼就足以滿足這一因素，無論被告是否實際上是無辜的。基於被告\ *非*\ 無辜的假設或懷疑而提出指控並不構成犯戒。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - The wording of the training rule suggests that this factor would have to be fulfilled by impulse—aversion—together with motive—desiring the other bhikkhu’s expulsion—but the Vibhaṅga consistently conflates these two sub-factors under motive. Thus all that is needed to fulfill this factor is the desire to see the other bhikkhu expelled. If one’s motive is simply to insult him, the Vibhaṅga says that one’s actions would come under `Pc 2`_. If one’s motive is both to see him expelled and to insult him, one incurs both a saṅghādisesa and a pācittiya. The texts do not explicitly mention this point, but it would appear that if one has a strange sense of humor and is making the false charge as a joke with no intention of being insulting or taken seriously, one’s actions would come under `Pc 1`_.
+
+     - 學處的措詞表明，這個因素必須透過衝動（瞋恨）和動機（渴望驅逐另一位比丘）來滿足，但《經分別》始終將這兩個子因素合併在動機之下。因此，要滿足這個因素，所需要的只是渴望看到另一位比丘被驅逐。如果動機只是為了侮辱他，《經分別》說，該行為算在\ `《波逸提》二`_\ 之下。如果動機既是為了看到他被驅逐又是為了侮辱他，那麼就會同時犯《僧殘》和《波逸提》。文本中沒有明確提及這一點，但似乎如果有一種奇怪的幽默感，並將虛假指控當作一個笑話，無意侮辱或認真對待，那麼該行為算在\ `《波逸提》一`_\ 之下。
+
+   * - According to the Vibhaṅga, *confessing one’s aversion* simply means admitting that the charge was empty or false. Thus the level of malice impelling one’s desire to see the other bhikkhu expelled need not be severe: If one wants to see him expelled just for the fun of it, that would fulfill the factor of intention here.
+
+     - 根據《經分別》的說法，\ *承認自己的厭惡*\ 僅僅意味著承認指控是空洞的或錯誤的。因此，促使希望看到另一位比丘被驅逐的惡意程度不必太嚴重：如果只是為了好玩而想看到他被驅逐，那就滿足了這裡的意圖因素。
+
+.. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
+.. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
+.. _《波逸提》二: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
+.. TODO FIXME: replace link to 《波逸提》二
+.. _《波逸提》一: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
+.. TODO FIXME: replace link to 《波逸提》一
+
 (未完待續)
