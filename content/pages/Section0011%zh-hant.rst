@@ -2106,4 +2106,27 @@
 .. _《波逸提》一: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
 .. TODO FIXME: replace link to 《波逸提》一
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - The act covered by this rule is that of making an unfounded charge of a pārājika in the accused’s presence. Whether one makes the charge oneself or gets someone else to make it, the penalty is the same. If that “someone else” is a bhikkhu and knows the charge is unfounded, he too incurs the full penalty.
+
+     - 本戒條所涵蓋的行為是在被告在場的情況下提出毫無根據的《波羅夷》罪的指控。無論是自己提出指控或委託他人提出指控，懲罰都是一樣的。如果那個「他人」是比丘並且知道指控毫無根據，他也會受到全額懲罰。
+
+   * - The Vibhaṅga defines an *unfounded charge* as one having no basis in what has been seen, heard, or suspected. In other words, the accuser has not seen the accused committing the offense in question, nor has he heard anything reliable to that effect, nor is there anything in the accused’s behavior to give rise to any honest suspicion.
+
+     - 《經分別》將\ *毫無根據的指控*\ 定義為沒有根據所看到、聽到或懷疑的事實的指控。換句話說，指控者沒有看到被指控者犯下相關罪行，也沒有聽到任何可靠的訊息，被指控者的行為也沒有任何值得懷疑的地方。
+
+   * - *Seeing* and *hearing*, according to the Commentary, also include the powers of clairvoyance and clairaudience one may have developed through meditation. Thus if one charges X with having committed a pārājika offense on the basis of what one has seen clairvoyantly, this would not be an unfounded charge, although one should be careful to make clear from the very beginning what kind of seeing the charge is based on.
+
+     - 根據《義註》，\ *看到*\ 和\ *聽到*\ 也包括透過禪修發展的天眼和天耳的能力。因此，如果根據自己的天眼所見而指控 X 犯《波羅夷》罪，那麼這不是一項毫無根據的指控，儘管應該從一開始就小心地表達清楚該指控是基於哪種看到。
+
+   * - The Vibhaṅga adds that if there is some basis in fact, but one changes the status of the evidence, the penalty is the same. *Changing the status* means, e.g., saying that one saw something when in actuality one simply heard about it or suspected it, or that one saw it clearly when in actuality one saw it indistinctly.
+
+     - 《經分別》補充說，如果有一定的事實依據，但改變了證據的狀態，懲罰是一樣的。\ *改變狀態*\ 意味著，例如，說看到了某物，而實際上只是聽說或懷疑它，或者說清楚地看到了它，而實際上是模糊地看到了它。
+
 (未完待續)
