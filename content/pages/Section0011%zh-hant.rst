@@ -2129,4 +2129,20 @@
 
      - 《經分別》補充說，如果有一定的事實依據，但改變了證據的狀態，懲罰是一樣的。\ *改變狀態*\ 意味著，例如，說看到了某物，而實際上只是聽說或懷疑它，或者說清楚地看到了它，而實際上是模糊地看到了它。
 
+   * - An example from the Commentary: Bhikkhu X goes into a grove to relieve himself. Ms. Y goes into the same grove to get something there. One sees them leaving the grove at approximately the same time—which could count as grounds for suspicion—but one then accuses Bhikkhu X, saying that one actually saw him having sex with Ms. Y. This would count as an unfounded charge. Another example: In the dark of the night, one sees a man stealing something from the monastery storehouse. He looks vaguely like Bhikkhu Z, but one can’t be sure. Still, one firms up one’s accusation by saying that one definitely saw Z steal the item. Again, this would count as an unfounded charge.
+
+     - 《義註》中的例子：比丘 X 到小樹林解手。 Y 女士進入同一個小樹林去拿東西。看到他們大約在同一時間離開樹林——這可以算作懷疑的理由——但隨後指責比丘 X，說實際上看到他與 Y 女士發生性關係。這算是毫無根據的指控。又如：夜深人靜時，見一人在寺庫中偷東西。他看起來有點像 Z 比丘，但無法確定。儘管如此，還是證實了自己的指控，說確實看到了 Z 偷了這件物品。同樣，這算是毫無根據的指控。
+
+   * - The Commentary states that for an unfounded charge to count under this rule, it must state explicitly (a) the precise act the accused supposedly committed (e.g., having sexual intercourse, getting a woman to have an abortion) or (b) that the accused is guilty of a pārājika, or (c) that the accused is no longer a true bhikkhu. If one simply says or does something that might imply that the accused is no longer a bhikkhu—e.g., refusing to show him respect in line with his seniority—that does not yet count as a charge.
+
+     - 《義註》指出，要根據本戒條提出毫無根據的指控，必須明確說明 (a) 被指控者據稱犯下的具體行為（例如，發生性交、讓婦女墮胎）或 (b) 被指控者犯有《波羅夷》罪，或 (c) 被指控者不再是真正的比丘。如果只是說或做了一些可能暗示被指控者不再是比丘的事情——例如，拒絕根據他的戒臘向他表示尊重——那還不算是一項指控。
+
+   * - The Commentary adds that charging a bhikkhu with having committed an equivalent or derived pārājika, as discussed in the conclusion to the preceding chapter, would fulfill this factor as well. For instance, if one makes an unfounded charge accusing Bhikkhu A of having killed his father before his ordination, that would constitute a full offense here. The Vibhaṅga makes no mention of these equivalent pārājikas under this rule, but the Great Standards can be used to justify their inclusion here.
+
+     - 《義註》補充說，指控比丘犯了同等或衍生的《波羅夷》罪（如上一章結論中所討論的那樣）也可以滿足這一因素。例如，如果毫無根據地指控比丘 A 在受具足戒前殺害了他的父親，那麼這裡就構成了完全違犯。《經分別》沒有提及本戒條下的這些同等的《波羅夷》罪，但是《四大教示》可以用來證明它們包含在這裡是合理的。
+
+   * - All of the charges given as examples in the Vibhaṅga are expressed directly to the accused—“I saw you commit a pārājika offense,” “I heard you commit a pārājika offense”—and the Commentary concludes from this that the full offense occurs only when one makes the charge in the accused’s presence, in line with the pattern for admonition discussed above. To make an unfounded charge behind the accused’s back, it states, incurs a dukkaṭa.
+
+     - 《經分別》中作為例子給出的所有指控都是直接向被指控者表達的——「我看到你犯了《波羅夷》罪」，「我聽說你犯了《波羅夷》罪」——《義註》由此得出結論，只有當被指控者在場的情況下提出指控時，才會構成完整違犯，這符合上述教誡的模式。它指出，在被指控者背後提出毫無根據的指控，犯《突吉羅》。
+
 (未完待續)
