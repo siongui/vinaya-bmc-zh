@@ -2145,4 +2145,23 @@
 
      - 《經分別》中作為例子給出的所有指控都是直接向被指控者表達的——「我看到你犯了《波羅夷》罪」，「我聽說你犯了《波羅夷》罪」——《義註》由此得出結論，只有當被指控者在場的情況下提出指控時，才會構成完整違犯，這符合上述教誡的模式。它指出，在被指控者背後提出毫無根據的指控，犯《突吉羅》。
 
+   * - There is nothing in the Vibhaṅga to indicate that the Commentary is wrong here, aside from the consideration that—because the charge is unfounded—it could entail a pācittiya for deliberate lying. Some people, however, have objected to the Commentary’s position here, saying that a dukkaṭa or even a pācittiya is a very light penalty for backhanded character assassination. Nevertheless, we should remember that the correct procedures for making an accusation require that an earnest charge be made in the presence of the accused. If a bhikkhu spreads gossip about another bhikkhu, accusing him of having committed a pārājika, he should be asked whether he has taken up the matter with the accused. If he hasn’t, he should be told to speak to the accused before he speaks to anyone else. If he says that he doesn’t feel qualified or that he fears the accused will retaliate, he should be told to take the matter up with the bhikkhus who will be responsible for calling a meeting of the Community. If he refuses to do that, he shouldn’t be listened to.
+
+     - 《經分別》中沒有任何內容表明《義註》在這裡是錯誤的，除了考慮到——因為指控是沒有根據的——它可能會因故意撒謊而犯《波逸提》罪。然而，有些人反對《義註》在此的立場，稱《突吉羅》甚至《波逸提》對於隱含的人格謀殺來說是一種非常輕微的懲罰。然而，我們應該記住，提出指控的正確程序要求在被指控者在場的情況下提出認真的指控。如果一位比丘散佈關於另一位比丘的流言蜚語，指控他犯了《波羅夷》罪，應該詢問他是否已與被指控者討論此事。如果他沒有，應該告訴他在與其他人交談之前先與被指控者交談。如果他說他覺得自己沒有資格，或者擔心被指控者會報復，那麼他應該被告知向負責召開僧團會議的比丘們提出此事。如果他拒絕這樣做，就不應該聽取他的意見。
+
+   * - For some reason, the Commentary maintains that a charge made in writing does not count, although a charge made by gesture—e.g., pointing at the accused when one is asked who committed the pārājika—does. Perhaps in those days written charges were regarded as too cowardly to take seriously.
+
+     - 出於某種原因，《義註》認為，以書面形式提出的指控不算數，但透過手勢提出的指控（例如，當被問及誰犯了《波羅夷》時指著被指控者）則算在內。也許在當時，書面指控被認為太懦弱而無法認真對待。
+
+   * - The rule seems to require that the accuser confess that he was acting out of depraved impulses, although the Vibhaṅga states that this means simply that he admits the charge was a lie. The Commentary states further that here the rule is showing the point where the rest of the Community knows that the bhikkhu making the charge is guilty of a saṅghādisesa: He actually committed the offense when he made the charge.
+
+     - 本戒條似乎要求原指控者承認他的行為是出於墮落的衝動，儘管《經分別》指出這僅意味著他承認指控是謊言。《義註》進一步指出，這裡的戒條表明，僧團的其他成員都知道提出指控的比丘犯了《僧殘》罪：實際上他在提出指控時犯了戒。
+
+   * - The K/Commentary adds “result” as a further factor to the offense under this rule, saying that the accused must immediately understand the charge—but nothing in the Vibhaṅga supports this added factor.
+
+     - K/《義註》將「結果」加入為本戒條下犯戒的進一步因素，表示被指控者必須立即理解指控，但《經分別》中沒有任何內容支持此附加因素。
+
+   * - Whether anyone actually believes the charge is not a factor here.
+     - 是否有人真正相信該指控並不是這裡的因素。
+
 (未完待續)
