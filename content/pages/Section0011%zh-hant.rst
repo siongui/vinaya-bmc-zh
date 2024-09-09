@@ -2164,4 +2164,24 @@
    * - Whether anyone actually believes the charge is not a factor here.
      - 是否有人真正相信該指控並不是這裡的因素。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - If one understands the accused to be guilty of a pārājika and accuses him honestly on the basis of what one has seen, heard, or suspected, then—regardless of whether he is guilty or not—one has not committed an offense. Even in a case such as this, though, one incurs a dukkaṭa if making the charge without asking leave of the accused, and a pācittiya if making the charge so as to insult him.
+
+     - 如果理解被指控者犯有《波羅夷》罪，並根據自己的所見、所聞或所懷疑的情況誠實地指控他，那麼無論他是否有罪，都沒有犯戒。然而，即使在這樣的情況下，如果未經被指控者許可而提出指控，就會犯《突吉羅》；如果提出指控是為了侮辱他，則會犯《波逸提》。
+
+   * - *Summary: Making an unfounded charge to a bhikkhu that he has committed a pārājika offense, in hopes of having him disrobed, is a saṅghādisesa offense.*
+     - *摘要：：毫無根據地指控比丘犯了《波羅夷》罪，希望讓他還俗，是《僧殘》罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
