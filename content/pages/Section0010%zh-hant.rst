@@ -2108,7 +2108,6 @@
 .. _《小品》.十.26.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0371a05
 .. _9: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
 .. _Pc 64: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
-.. _《僧殘》九: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
-.. TODO FIXME: replace link to 《僧殘》九
+.. _《僧殘》九: {filename}Section0011%zh-hant.rst#Sg9
 .. _《波逸提》六四: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
 .. TODO FIXME: replace link to 《波逸提》六四

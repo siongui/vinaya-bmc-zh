@@ -1787,7 +1787,7 @@
 
      - .. container:: notification
 
-          *如果任何比丘——惡意、瞋恨、不滿——以毫無根據的事由指控比丘犯波羅夷，（想）「也許我可以導致他從這梵行生活中退墮」，那麼無論他是否稍後受到盤問，如果事由沒有根據並且比丘承認他的惡意，僧殘。*
+          *如果任何比丘——惡意、瞋恨、不滿——以毫無根據的事由指控比丘犯波羅夷，（想）「也許我可以導致他從這梵行生活中退墮」，那麼無論他是否稍後受到盤問，如果事由沒有根據並且比丘承認他的瞋恨，僧殘。*
 
    * - “Now at that time a householder who served fine food gave food to the Community on a regular basis, four bhikkhus every day…. (One day) he happened to go on some business to the monastery. He went to Ven. Dabba Mallaputta and on arrival bowed down to him and sat to one side…. Ven. Dabba Mallaputta roused… him with a Dhamma talk. Then the householder with fine food… said to Dabba Mallaputta, ‘To whom, venerable sir, is tomorrow’s meal in our house assigned?’
 
@@ -2183,5 +2183,34 @@
 
    \*    \*    \*
 
+
+.. _Sg9:
+
+.. raw:: html
+
+   <span id="Sg9"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **9**
+     - **九**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu—corrupt, aversive, disgruntled—using as a mere ploy an aspect of an issue that pertains otherwise, charge a bhikkhu with a case entailing defeat, (thinking), “Perhaps I may bring about his fall from this celibate life,” then regardless of whether or not he is cross-examined on a later occasion, if the issue pertains otherwise, an aspect used as a mere ploy, and the bhikkhu confesses his aversion, it entails initial and subsequent meetings of the Community.*
+
+     - .. container:: notification
+
+          *如果任何比丘——惡意、瞋恨、不滿——取其他事情的部分類似之處，指控比丘犯波羅夷，（想）「也許我可以導致他從這梵行生活中退墮」，那麼無論他是否稍後受到盤問，如果取其他事情的部分類似之處，而且比丘承認了他的瞋恨，僧殘。*
+
+   * - “At that time the followers of Mettiya and Bhummaja, descending from Vulture Peak Mountain, saw a billy-goat copulating with a nanny-goat. Seeing them, they said, ‘Look here, friends, let’s name this billy goat Dabba Mallaputta, and this nanny goat Mettiyā Bhikkhunī. Then we’ll phrase it like this: “Before, my friends, we accused Dabba Mallaputta on the basis of what we had heard, but now we have seen him with our very own eyes fornicating with Mettiyā Bhikkhunī!”’”
+
+     - 「\ `爾時，慈和地的弟子從耆闍崛山下來 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0233a03>`_\，看到一隻公山羊與一隻母山羊交配。看到他們，他們說：『看這裡，朋友們，我們把這隻公山羊命名為沓婆摩羅子，把這隻母山羊命名為慈比丘尼。然後我們會這樣表述：「朋友們，以前我們根據所聽到的情況指控沓婆摩羅子，但現在我們親眼看到他與慈比丘尼私通！」』」
+
+   * - Some grudges die hard. This rule is almost identical with the preceding one and involves the same factors except for one of the sub-factors under “Effort”: “Unfounded charge” here becomes “a charge based on an issue *(adhikaraṇa)* that pertains otherwise.” The phrase sounds strange, but the origin story gives a perfect example of what it means.
+
+     - 有些恩怨難消。本戒條幾乎與前一條相同，涉及相同的因素，除了「努力」下的一個子因素：「毫無根據的指控」在這裡變成「基於與此相關的問題（\ *adhikaraṇa*\ ）的指控」。這個表達方式聽起來很奇怪，但起源故事完美地說明了它的意義。
 
 (未完待續)

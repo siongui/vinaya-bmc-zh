@@ -144,7 +144,7 @@
      - `\　　八 <{filename}Section0011%zh-hant.rst#Sg8>`__
 
    * - `\　　9 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9>`__
-     - 　　九
+     - `\　　九 <{filename}Section0011%zh-hant.rst#Sg9>`__
 
    * - `\　　10 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10>`__
      - 　　十

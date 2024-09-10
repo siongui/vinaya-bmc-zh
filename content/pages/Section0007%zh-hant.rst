@@ -235,7 +235,7 @@
 .. _《波羅夷》三: {filename}Section0010%zh-hant.rst#Pr3
 .. _《僧殘》一: {filename}Section0011%zh-hant.rst#Sg1
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
-.. _《僧殘》九: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
+.. _《僧殘》九: {filename}Section0011%zh-hant.rst#Sg9
 .. _七覺支: https://zh.wikipedia.org/zh-hant/%E4%B8%83%E8%A6%BA%E6%94%AF
 .. _《附隨》.六.4: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0199a13
 .. _Pc 57: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57
