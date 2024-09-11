@@ -2213,4 +2213,20 @@
 
      - 有些恩怨難消。本戒條幾乎與前一條相同，涉及相同的因素，除了「努力」下的一個子因素：「毫無根據的指控」在這裡變成「基於與此相關的問題（\ *adhikaraṇa*\ ）的指控」。這個表達方式聽起來很奇怪，但起源故事完美地說明了它的意義。
 
+   * - The precise difference between the two rules is this: With an unfounded charge, one has neither seen, heard, nor suspected that an offense has been committed; or if one has, one changes the status of the evidence—e.g., one states something one has suspected as if one has heard it, or something one has heard as if one has seen it. In a charge based on an issue that pertains otherwise, one has seen an action that would be an offense if committed by a bhikkhu, and one does not change the status of the evidence, but one distorts the facts of the case.
+
+     - 這兩條戒條的具體區別在於：無根據的指控，指的是既沒有看到、聽到、也沒有懷疑過的犯戒行為；或者，如果有的話，就改變證據的狀態——例如，陳述一個人懷疑的事情，就好像有人聽過一樣，或者陳述一個人聽過的事情，就像有人看到過一樣。在基於與此相關的問題的指控中，看到了如果由比丘實施的話將構成犯戒的行為，並且不改變證據的狀態，但歪曲該情況的事實。
+
+   * - The Vibhaṅga lists ten factors that can be used as a ploy in distorting the facts this way. They are: birth (caste), name, clan (family name), physical characteristics, offenses, bowl, robe, preceptor, mentor, lodging. Given the way in which the Vibhaṅga illustrates these factors in action, they fall into two classes: (1) offenses and (2) the remaining nine factors.
+
+     - `《經分別》列出了十個因素 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0235a10>`_\ ，可以用作以這種方式扭曲事實的手段。它們是：出身（種姓）、名字、宗族（姓）、身體特徵、犯戒、鉢、袈裟、戒師、導師、住處。鑑於《經分別》在行動中闡述這些因素的方式，它們分為兩類：（1）犯戒和（2）其餘九個因素。
+
+   * - 1\) An example of using an offense as a ploy: One sees Bhikkhu Y actually committing an offense. Although one perceives it as a lesser offense, one magnifies the charge to a pārājika. For instance, one sees him get into an argument with Bhikkhu Z and in a fit of anger give Z a blow to the head. Z goes unconscious, falls to the floor, and suffers a severe concussion resulting in death. Because Y’s intention was simply to hurt him, not to kill him, he incurs only a pācittiya. If one realizes the nature of Y’s intention and the fact that the penalty is a pācittiya, and yet accuses him of having committed a pārājika, one would incur a saṅghādisesa under this rule. For ease of remembrance, this use of a ploy can be called “same person, different offense.”
+
+     - 1）以犯戒作為手段的例子：看到比丘 Y 實際上犯了戒。儘管認為這是一種較輕的犯戒，但卻將這種指控放大到了《波羅夷》。例如，看到他與比丘 Z 發生爭執，一怒之下就打了 Z 的頭部。 Z 失去知覺，摔倒在地，並遭受嚴重腦震盪導致死亡。因為 Y 的意圖只是傷害他，而不是殺死他，所以他只犯《波逸提》。如果知道到 Y 的意圖的本質以及懲罰是《波逸提》的事實，但仍指控他犯了《波羅夷》，那麼根據本戒條，就會犯《僧殘》。為了便於記憶，這種手法的使用可以稱為「同人異罪」。
+
+   * - 2\) An example of using any of the other nine factors as a ploy: X, who may or may not be a bhikkhu, has something in common with Bhikkhu Y—they are both tall, short, dark, fair, share the same name, are students of the same preceptor, live in the same dwelling, use similar looking bowls or robes, etc. One sees X committing an action that, if he were a bhikkhu, would amount to a pārājika offense; on the basis of the similarity between the two, one claims to have seen Bhikkhu Y committing a pārājika. For instance, X and Y are both very tall. Late at night one sees X—knowing that it is X—stealing tools from the monastery storeroom. One has a grudge against Y and so accuses him of being the thief, saying, “I saw this big tall guy stealing the tools, and he looked just like you. It must have been you.” For ease of remembrance, this use of a ploy can be called “same offense, different person.”
+
+     - 2）使用其他九個因素中的任何一個作為手段的例子：X，可以是也可以不是比丘，與比丘 Y 有一些共同點——他們都高、矮、黑、白，有相同的名字，是同一位戒師的弟子，住在同一住處，使用外觀相似的缽或袈裟等。如果 X 是比丘的話，看到了他做出某種行為，相當於犯了《波羅夷》罪；基於兩者之間的相似性，聲稱曾見過比丘 Y 犯下《波羅夷》罪。例如， X 和 Y 都很高。深夜，看到 X ——知道是 X ——從寺院儲藏室偷工具。對 Y 有怨恨，就指責他是小偷，說：「我看到大高個子偷工具，他長得跟你一模一樣。一定是你。」為了便於記憶，這種手段的使用可以稱為「同罪異人」。
+
 (未完待續)
