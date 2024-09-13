@@ -2237,7 +2237,20 @@
 
      - *不*\屬於本戒條的情況是基於看到或聽到 Y 實施與犯戒有些相似但實際上並非犯戒的行為。例如，無意中聽到他向一些新比丘教授戒律，並以舉例的方式引用了一些可以視為上人法主張的陳述。因為這並不構成犯戒，所以不存在可以用作手段的與此相關的問題（\ *adhikaraṇa*\ ）。簡而言之，這將被視為「同人無罪」。如果了解此來龍去脈，後來指控他違反了\ `《波羅夷》四`_\ ，則該指控將被視為毫無根據的指控，因此將算在前一戒條之下。
 
+   * - The remaining explanations for this rule are exactly the same as those for the preceding rule, except that in the non-offense clauses the Vibhaṅga states that if one makes a charge—or gets someone else to make a charge—against the accused based on what one actually perceives, there is no offense even if the issue turns out to pertain otherwise. For instance, from the examples already given: One sees X stealing tools in the dark and, because of his resemblance to Y, actually thinks Y is the thief. One sees Y give a fatal blow to Z and actually thinks that Y’s intention was to kill Z. In either of these cases, if one then accuses Y of a pārājika offense, one incurs no penalty regardless of how the case comes out, although—as under the preceding rule—one should be careful to ask Y’s leave before making the charge and to have no intention of insulting him.
+
+     - 本戒條的其餘解釋與前一條戒條的解釋完全相同，除了在不犯條款中，《經分別》規定，如果根據自己的實際看法對被指控者提出指控（或讓其他人提出指控），即使事實證明問題並非如此，也沒有犯戒。例如，從已經給出的例子來看：看到 X 在黑暗中偷工具，並且由於他與 Y 相似，竟然認為 Y 是小偷。看到 Y 對 Z 給予致命一擊，竟然認為 Y 的意圖是殺死 Z。在這兩種情況中的任何一種情況下，如果指控 Y 犯有《波羅夷》罪，則無論情況結果如何，都不會受到處罰，儘管——與前面的戒條一樣，在提出指控之前，應該小心地徵求 Y 的許可，並且不要有意侮辱他。
+
+   * - *Summary: Distorting the evidence while accusing a bhikkhu of having committed a pārājika offense, in hopes of having him disrobed, is a saṅghādisesa offense.*
+     - *摘要：扭曲證據，指控比丘犯了波羅夷罪，以期讓他還俗，是《僧殘》罪。*
+
 .. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
 .. _《波羅夷》四: {filename}Section0010%zh-hant.rst#Pr4
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
