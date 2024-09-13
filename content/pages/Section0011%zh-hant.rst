@@ -2229,4 +2229,15 @@
 
      - 2）使用其他九個因素中的任何一個作為手段的例子：X，可以是也可以不是比丘，與比丘 Y 有一些共同點——他們都高、矮、黑、白，有相同的名字，是同一位戒師的弟子，住在同一住處，使用外觀相似的缽或袈裟等。如果 X 是比丘的話，看到了他做出某種行為，相當於犯了《波羅夷》罪；基於兩者之間的相似性，聲稱曾見過比丘 Y 犯下《波羅夷》罪。例如， X 和 Y 都很高。深夜，看到 X ——知道是 X ——從寺院儲藏室偷工具。對 Y 有怨恨，就指責他是小偷，說：「我看到大高個子偷工具，他長得跟你一模一樣。一定是你。」為了便於記憶，這種手段的使用可以稱為「同罪異人」。
 
+   * - None of the texts mention the scenario of a double ploy—i.e., “different person, different offense”—but from the way the Vibhaṅga defines an *issue that pertains otherwise*, a double ploy would fit the definition as well. In other words, if—having seen X engage in lustful contact with a woman—one then accuses Bhikkhu Y, who shares the same family name with X, of engaging in sexual intercourse with the woman, the case would apparently come under this rule.
+
+     - 沒有任何文本提到雙重手段的場景，即「異人異罪」，但從《經分別》定義\ *與此相關的問題*\ 的方式來看，雙重手段也符合此定義。換言之，如果看到 X 與女性發生淫穢的接觸，然後指控與 X 同姓的比丘 Y 與該女性發生性關係，那麼該情況顯然會算在本戒條之下。
+
+   * - A case that would *not* come under this rule is one based on seeing or hearing Y commit an action that bears some resemblance to an offense but is actually not. For instance, one overhears him teaching Vinaya to some new bhikkhus and quoting, by way of illustration, a few of the statements that would count as claims of superior human states. Because this does not constitute an offense, there is no issue *(adhikaraṇa)* pertaining otherwise that can be used as a ploy. In shorthand terms, this would count as “same person, no offense.” If, realizing the context, one later accuses him of having violated `Pr 4`_, the accusation would count as an unfounded charge and so would come under the preceding rule.
+
+     - *不*\屬於本戒條的情況是基於看到或聽到 Y 實施與犯戒有些相似但實際上並非犯戒的行為。例如，無意中聽到他向一些新比丘教授戒律，並以舉例的方式引用了一些可以視為上人法主張的陳述。因為這並不構成犯戒，所以不存在可以用作手段的與此相關的問題（\ *adhikaraṇa*\ ）。簡而言之，這將被視為「同人無罪」。如果了解此來龍去脈，後來指控他違反了\ `《波羅夷》四`_\ ，則該指控將被視為毫無根據的指控，因此將算在前一戒條之下。
+
+.. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
+.. _《波羅夷》四: {filename}Section0010%zh-hant.rst#Pr4
+
 (未完待續)
