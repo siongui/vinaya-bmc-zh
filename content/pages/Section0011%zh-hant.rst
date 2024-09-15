@@ -2289,6 +2289,38 @@
 
      - 破和合僧是僧團中的嚴重分裂，嚴重到如果以不誠實的方式實現，它會與弒母、弒父、殺阿羅漢、惡意出如來血一樣，列為一個人可以犯下的五種最令人髮指的罪行（五逆罪、五無間業）之一（\ `《增支部》5:129經`_\ ）。
 
+   * - To qualify as a schism, the division has to meet five criteria:
+     - 要成為破和合僧，該分裂必須滿足五個標準：
+
+   * - 1\) The Community is originally united, which means that it is composed of bhikkhus of common affiliation living in the same territory.
+     - 1）僧團原本是和合的，是指由居住在同一界、共同羯磨的比丘所組成。
+
+   * - 2\) It contains at least nine bhikkhus.
+     - 2）至少有九位比丘。
+
+   * - 3\) It becomes involved in a dispute over any of eighteen grounds for a creating a schism. In other words, one of the sides advocates any of the following positions, explaining:
+
+     - 3）涉及十八項分裂理由中任何一項的爭議。換句話說，其中一方主張以下任一立場，說：
+
+   * - Dhamma as not-Dhamma;
+     - 法為非法；
+
+   * - not-Dhamma as Dhamma;
+     - 非法為法；
+
+   * - Vinaya as not-Vinaya;
+     - 律為非律；
+
+   * - not-Vinaya as Vinaya;
+     - 非律為律；
+
+   * - what was not spoken by the Buddha as having been spoken by him;
+     - 非佛說為佛說；
+
+   * - what was spoken by the Buddha as not;
+     - 佛說為非佛說；
+
+
 .. _AN 5\:129: https://www.dhammatalks.org/suttas/AN/AN5_129.html
 .. _《增支部》5\:129經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%B8%80%E4%BA%8C%E4%B9%9D%E8%8B%A6%E8%BF%AB
 
