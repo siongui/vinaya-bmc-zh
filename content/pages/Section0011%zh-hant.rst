@@ -2253,4 +2253,43 @@
    \*    \*    \*
 
 
+.. _Sg10:
+
+.. raw:: html
+
+   <span id="Sg10"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **10**
+     - **十**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu agitate for a schism in a united Community, or should he persist in taking up an issue conducive to schism, the bhikkhus are to admonish him thus: “Do not, venerable sir, agitate for a schism in a united Community or persist in taking up an issue conducive to schism. Let the venerable one be reconciled with the Community, for a united Community, on courteous terms, without dispute, with a common recitation, dwells in peace.”*
+
+          *And should that bhikkhu, thus admonished by the bhikkhus, persist as before, the bhikkhus are to rebuke him up to three times for the sake of relinquishing that. If while being rebuked up to three times he relinquishes that, that is good. If he does not relinquish (that), it entails initial and subsequent meetings of the Community.*
+
+     - .. container:: notification
+
+          *如果任何比丘在和合僧團中鼓動分裂，或者他堅持提出導致分裂之事，比丘們應這樣告誡他：「尊者，不要在一個和合僧團中鼓動分裂，或者堅持提出導致分裂之事。願尊者與僧團和解，因為僧團團結，以禮相待，無爭，共同誦[戒]，安住。」*
+
+          *若該比丘受諸比丘如此告誡後，仍堅持如前，諸比丘應斥責他至多三遍，使他捨棄。如果被斥責至三次時，他就捨棄了，那很好。如果他不捨棄，僧殘。*
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Schism**
+     - **破和合僧**
+
+   * - A schism is a serious division in the Community—so serious that, if achieved in a dishonest way, it ranks with matricide, patricide, killing an arahant, and maliciously shedding the Tathāgata’s blood as one of the five most heinous crimes a person can commit (`AN 5:129`_).
+
+     - 破和合僧是僧團中的嚴重分裂，嚴重到如果以不誠實的方式實現，它會與弒母、弒父、殺阿羅漢、惡意出如來血一樣，列為一個人可以犯下的五種最令人髮指的罪行（五逆罪、五無間業）之一（\ `《增支部》5:129經`_\ ）。
+
+.. _AN 5\:129: https://www.dhammatalks.org/suttas/AN/AN5_129.html
+.. _《增支部》5\:129經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%B8%80%E4%BA%8C%E4%B9%9D%E8%8B%A6%E8%BF%AB
+
 (未完待續)

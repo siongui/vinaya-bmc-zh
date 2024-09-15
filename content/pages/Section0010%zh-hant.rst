@@ -673,8 +673,7 @@
      - 至於與感知因素有關的衍生違犯，這些涉及的是不符合本戒條規定的物品的情況，例如，該物品沒有所有者，或者所有者已將其放棄或扔掉——然而比丘認為它沒有被給予。如果他出於偷竊的目的而取走它，他會因三個階段中每一階段的努力而犯一次《突吉羅》。如果物品可以透過將其從原來的位置移開而被偷，則這些階段將是：觸摸該物體，使其移動，將其移離原來的位置。類似的犯戒行為將適用於拿取上述任何其他類型物品的適當階段。
 
 .. _Sg 10-13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
-.. _《僧殘》十到十三: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
-.. TODO FIXME: replace link to 《僧殘》十到十三
+.. _《僧殘》十到十三: {filename}Section0011%zh-hant.rst#Sg10
 .. _Pc 68: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc68
 .. _《波逸提》六八: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc68
 .. TODO FIXME: replace link to 《波逸提》六八
