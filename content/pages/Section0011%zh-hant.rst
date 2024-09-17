@@ -2320,8 +2320,51 @@
    * - what was spoken by the Buddha as not;
      - 佛說為非佛說；
 
+   * - what was not regularly practiced by him as having been regularly practiced by him;
+     - 非他常所行法為他常所行法；
+
+   * - what was regularly practiced by him as not;
+     - 他常所行法為非他常所行法；
+
+   * - what was not formulated by him as having been formulated by him;
+     - 非他制定者為他制定者；
+
+   * - what was formulated by him as not;
+     - 他制定者為非他制定者；
+
+   * - an offense as a non-offense;
+     - 犯為非犯；
+
+   * - a non-offense as an offense;
+     - 非犯為犯；
+
+   * - a heavy offense as a light offense;
+     - 重罪為輕罪；
+
+   * - a light offense as heavy;
+     - 輕罪為重罪；
+
+   * - an offense leaving a remainder (i.e., not a pārājika) as an offense leaving no remainder (§);
+     - 留下剩餘的犯（即，不是《波羅夷》）為不留下剩餘的犯（§）；
+
+   * - an offense leaving no remainder as an offense leaving a remainder (§);
+     - 不留下剩餘的犯為留下剩餘的犯（§）；
+
+   * - a serious offense as not serious; or
+     - 嚴重罪為不嚴重；或者
+
+   * - a not-serious offense as serious.
+     - 不嚴重罪為嚴重。
+
+   * - 4\) There are at least four bhikkhus on either side.
+     - 4）雙方之任何一方至少有四位比丘。
+
+   * - 5\) The dispute reaches the point where the two sides conduct separate Pāṭimokkha recitations, Invitation ceremonies, or other Community transactions within the same territory.
+
+     - 5）爭議達到雙方在同一界內分別進行誦《波羅提木叉》、自恣儀式、或其他僧團羯磨的程度。
 
 .. _AN 5\:129: https://www.dhammatalks.org/suttas/AN/AN5_129.html
 .. _《增支部》5\:129經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%B8%80%E4%BA%8C%E4%B9%9D%E8%8B%A6%E8%BF%AB
+.. 十誦律（卷30） 佛語舍利弗：「若比丘非法說法、法說非法、非律說律、律說非律、犯說非犯、非犯說犯、輕說重、重說輕、無殘說有殘、有殘說無殘、常所行法說非常所行法、非常所行法說是常所行法、說言非說、非說言說，是名說非法者，不應尊重供養讚歎，不應教讀誦經法答所問疑，不應從受讀誦經[20]法、從問所疑，不應與衣鉢、戶鉤、時藥、時分藥、七日藥、盡形藥，亦不應從受[1]衣鉢、戶鉤、時藥、時分藥、七日藥、盡形藥。舍利弗！若比丘非法說非法、法說法、非律說非律、律說律、犯說犯、非犯說非犯、輕說輕、重說重、無殘說無殘、有殘說有殘、常所行法說是常所行法、非常所行法說非常所行法、說言是說、非說言非說，是名說法者 https://deerpark.app/reader/T1435/30
 
 (未完待續)
