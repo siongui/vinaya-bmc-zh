@@ -2363,8 +2363,32 @@
 
      - 5）爭議達到雙方在同一界內分別進行誦《波羅提木叉》、自恣儀式、或其他僧團羯磨的程度。
 
+   * - The Canon tells of two schisms during the time of the Buddha, one involving the bhikkhus in the city of Kosambī, reported in `Mv.X`_; and the other, Devadatta’s schism, reported in Cv.VII. The two schisms began from different motives, with both sides in Kosambī thinking that they were following the Dhamma and Vinaya, whereas Devadatta knew that he was not. The two schisms were also accomplished in different ways—unilaterally in the Kosambī case, bilaterally in Devadatta’s—and resolved in different ways as well, with a full reconciliation in the Kosambī case and only a partial one in Devadatta’s. As we will see below, the different patterns followed in these two schisms led to different patterns in the rules dealing with the topic of schism as a whole.
+
+     - 《聖典》講述了佛陀時代的兩次分裂，一次涉及\ `憍賞彌`_\ 城的比丘們，這在\ `《大品》.十`_\ 中有所記載；另一次是\ `提婆達多`_\ 的分裂，在\ `《小品》.七`_\ 中有記載。兩次分裂是出於不同的動機，\ `憍賞彌`_\ 雙方都認為自己在遵循法與律，而提婆達多知道自己並未遵循。這兩次分裂也以不同的方式完成——在\ `憍賞彌`_\ 案中是單邊的，在\ `提婆達多`_\ 案中是雙邊的——並且以不同的方式解決，在\ `憍賞彌`_\ 案中是完全和解，而在\ `提婆達多`_\ 案中只是部分和解。正如我們將在下面看到的，這兩次分裂所遵循的不同模式導致了處理整個分裂主題的戒條的不同模式。
+
+   * - Schism is the result of a dispute, but not all disputes—even when prolonged—will lead to schism. An example is the dispute that led to the Second Council (Cv.XII). Even though it was bitterly fought, there was never a point when either faction thought of splitting off and conducting communal business separately in the same territory. Still, even minor disputes can be potentially schismatic. At the same time, as we will see below, it is possible to act in a divisive way prior to a dispute without yet broaching the questions around which a dispute could develop. This rule and the following one are designed to nip both sorts of behavior in the bud before they can become schismatic. Once a dispute has become a major issue, these rules cannot be used, for at that point the procedures given in `Cv.IV.14.16-26`_\—explained in `Chapter 11`_\—should be followed. Questions of how to behave once a schism has occurred and how it can be ended are discussed in `BMC2, Chapter 21`_.
+
+     - 分裂是爭議的結果，但並非所有爭議——即使是曠日持久的——都會導致分裂。一個例子是導致\ `第二次結集`_\ （\ `《小品》.十二`_\ ）的爭議。儘管爭吵很激烈，但任何一個派系都沒有想過分裂，在同一界裡分別處理公共事務。儘管如此，即使是很小的爭議也可能導致分裂。同時，正如我們將在下面看到的，在爭議發生之前，有可能以分裂的方式行事，而尚未提出可能引發爭議的問題。本戒條和下一條戒條旨在將這兩種行為消滅在萌芽狀態，以免它們導致分裂。一旦爭議成為重大問題，就不能使用這些戒條，因為此時應遵循\ `《小品》.四.14.16-26`_\ 中給出的程序（\ `第十一章`_\ 中進行了解釋）。\ `《佛教修道準則 第二冊》第二十一章`_\ 討論了分裂發生後如何行事以及如何結束分裂的問題。
+
 .. _AN 5\:129: https://www.dhammatalks.org/suttas/AN/AN5_129.html
 .. _《增支部》5\:129經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%B8%80%E4%BA%8C%E4%B9%9D%E8%8B%A6%E8%BF%AB
 .. 十誦律（卷30） 佛語舍利弗：「若比丘非法說法、法說非法、非律說律、律說非律、犯說非犯、非犯說犯、輕說重、重說輕、無殘說有殘、有殘說無殘、常所行法說非常所行法、非常所行法說是常所行法、說言非說、非說言說，是名說非法者，不應尊重供養讚歎，不應教讀誦經法答所問疑，不應從受讀誦經[20]法、從問所疑，不應與衣鉢、戶鉤、時藥、時分藥、七日藥、盡形藥，亦不應從受[1]衣鉢、戶鉤、時藥、時分藥、七日藥、盡形藥。舍利弗！若比丘非法說非法、法說法、非律說非律、律說律、犯說犯、非犯說非犯、輕說輕、重說重、無殘說無殘、有殘說有殘、常所行法說是常所行法、非常所行法說非常所行法、說言是說、非說言非說，是名說法者 https://deerpark.app/reader/T1435/30
+.. _Mv.X: https://www.dhammatalks.org/vinaya/Mv/MvX.html
+.. _憍賞彌: https://zh.wikipedia.org/wiki/%E6%86%8D%E8%B3%9E%E5%BD%8C
+.. _《大品》.十: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_010
+.. _提婆達多: https://zh.wikipedia.org/wiki/%E6%8F%90%E5%A9%86%E9%81%94%E5%A4%9A
+.. _《小品》.七: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017
+.. _Cv.IV.14.16-26: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.16
+.. _Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
+.. _BMC2, Chapter 21: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
+.. _第二次結集: https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BB%93%E9%9B%86
+.. _《小品》.十二: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_022
+.. _《小品》.四.14.16-26: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0128a01
+.. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
+.. TODO FIXME: replace link to 第十一章
+.. _《佛教修道準則 第二冊》第二十一章: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十一章
+
 
 (未完待續)
