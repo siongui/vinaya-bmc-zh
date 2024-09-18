@@ -2321,16 +2321,16 @@
      - 佛說為非佛說；
 
    * - what was not regularly practiced by him as having been regularly practiced by him;
-     - 非他常所行法為他常所行法；
+     - 非如來常所行法為如來常所行法；
 
    * - what was regularly practiced by him as not;
-     - 他常所行法為非他常所行法；
+     - 如來常所行法為非如來常所行法；
 
    * - what was not formulated by him as having been formulated by him;
-     - 非他制定者為他制定者；
+     - 非如來制定者為如來制定者；
 
    * - what was formulated by him as not;
-     - 他制定者為非他制定者；
+     - 如來制定者為非如來制定者；
 
    * - an offense as a non-offense;
      - 犯為非犯；
@@ -2345,16 +2345,16 @@
      - 輕罪為重罪；
 
    * - an offense leaving a remainder (i.e., not a pārājika) as an offense leaving no remainder (§);
-     - 留下剩餘的犯（即，不是《波羅夷》）為不留下剩餘的犯（§）；
+     - 有餘罪（即，不是《波羅夷》）為無餘罪（§）；
 
    * - an offense leaving no remainder as an offense leaving a remainder (§);
-     - 不留下剩餘的犯為留下剩餘的犯（§）；
+     - 無餘罪為有餘罪（§）；
 
    * - a serious offense as not serious; or
-     - 嚴重罪為不嚴重；或者
+     - 粗罪為非粗；或者
 
    * - a not-serious offense as serious.
-     - 不嚴重罪為嚴重。
+     - 非粗罪為粗。
 
    * - 4\) There are at least four bhikkhus on either side.
      - 4）雙方之任何一方至少有四位比丘。
@@ -2374,6 +2374,7 @@
 .. _AN 5\:129: https://www.dhammatalks.org/suttas/AN/AN5_129.html
 .. _《增支部》5\:129經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%B8%80%E4%BA%8C%E4%B9%9D%E8%8B%A6%E8%BF%AB
 .. 十誦律（卷30） 佛語舍利弗：「若比丘非法說法、法說非法、非律說律、律說非律、犯說非犯、非犯說犯、輕說重、重說輕、無殘說有殘、有殘說無殘、常所行法說非常所行法、非常所行法說是常所行法、說言非說、非說言說，是名說非法者，不應尊重供養讚歎，不應教讀誦經法答所問疑，不應從受讀誦經[20]法、從問所疑，不應與衣鉢、戶鉤、時藥、時分藥、七日藥、盡形藥，亦不應從受[1]衣鉢、戶鉤、時藥、時分藥、七日藥、盡形藥。舍利弗！若比丘非法說非法、法說法、非律說非律、律說律、犯說犯、非犯說非犯、輕說輕、重說重、無殘說無殘、有殘說有殘、常所行法說是常所行法、非常所行法說非常所行法、說言是說、非說言非說，是名說法者 https://deerpark.app/reader/T1435/30
+.. https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0278a09 「破僧，名為破僧者，以何為破僧耶？」「優波離！此處有諸比丘，說非法為法，說法為非法，說非律為律，說律為非律，說非如來所說所言為如來所說所言，說如來所說所言為非如來所說所言，說非如來常所行法為如來常所行法，說如來常所行法為非如來常所行法，說非如來所制為如來所制，說如來所制為非如來所制，說無罪為罪，說罪為無罪，說輕罪為重罪，說重罪為輕罪，說有餘罪為無餘罪，說無餘罪為有餘罪，說粗罪為非粗罪，說非粗罪為粗罪。彼等以此十八事，誘惑而行不共布薩，行不共自恣，行不共僧伽羯磨。優波離！此為破僧也。」
 .. _Mv.X: https://www.dhammatalks.org/vinaya/Mv/MvX.html
 .. _憍賞彌: https://zh.wikipedia.org/wiki/%E6%86%8D%E8%B3%9E%E5%BD%8C
 .. _《大品》.十: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_010
@@ -2390,5 +2391,28 @@
 .. _《佛教修道準則 第二冊》第二十一章: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十一章
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The roots of schism**
+     - **破和合僧的根源**
+
+   * - According to `Cv.IV.14.4`_, the act of taking a position in a dispute can be rooted either in unskillful mind states (covetous, corrupt, or confused) or in skillful ones (not covetous, not corrupt, not confused). Given the false nature of the grounds for a schism, the mind state of a bhikkhu agitating for schism must be unskillful. However, it is crucial to determine the way in which his impulses and motivations are unskillful, for this question determines his personal fate and the prospects for whether the schism can be successfully resolved.
+
+     - 根據\ `《小品》.四.14.4`_\ ，在爭端中採取立場的行為可以源自於不善的心境（貪、瞋或癡）或善的心境（無貪、無瞋、無癡）。鑑於破和合僧理由的虛假性質，煽動破和合僧的比丘的心境一定是不善的。但關鍵是要確定他的衝動和動機是如何不善的，因為這個問題決定了他個人的命運以及破和合僧能否成功解決的前景。
+
+   * - `Cv.VII.5.3`_ and `Cv.VII.5.5-6`_ explain that a bhikkhu who accomplishes a schism in the following way is automatically consigned to hell for an eon. The Commentary to `Mv.I.67`_ adds that as soon as the schism is accomplished he is no longer a bhikkhu and is to be expelled from the Saṅgha.
+
+     - `《小品》.七.5.3`_\和\ `《小品》.七.5.5-6`_\ 解釋說，以下列方式完成破和合僧的比丘會自動入地獄一劫。\ `《大品》.一.67`_ 的《義註》補充說，一旦破和合僧完成，他就不再是比丘，並且將被逐出僧團。
+
+.. _Cv.IV.14.4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.4
+.. _《小品》.四.14.4: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0121a10
+.. _Cv.VII.5.3: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Cv.VII.5.3
+.. _Cv.VII.5.5-6: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Cv.VII.5.5-6
+.. _《小品》.七.5.3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0279a02
+.. _《小品》.七.5.5-6: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0280a01
+.. _Mv.I.67: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.67
+.. _《大品》.一.67: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0111a01
 
 (未完待續)
