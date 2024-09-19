@@ -2406,6 +2406,22 @@
 
      - `《小品》.七.5.3`_\和\ `《小品》.七.5.5-6`_\ 解釋說，以下列方式完成破和合僧的比丘會自動入地獄一劫。\ `《大品》.一.67`_ 的《義註》補充說，一旦破和合僧完成，他就不再是比丘，並且將被逐出僧團。
 
+   * - 1\) The Community, of common affiliation and living in the same territory, is united around a correct understanding of the Dhamma and Vinaya.
+     - 1）具有共同羯磨和生活在同一界的僧團，圍繞著對法與律的正確理解而團結在一起。
+
+   * - 2\) The bhikkhu agitates for a schism, advocating any of the 18 grounds for creating a schism.
+     - 2）比丘煽動破和合僧，主張 18 種破和合僧理由中的任何一個。
+
+   * - 3\) He views his explanations or the act of a schism as not-Dhamma—i.e., he knows that what he is doing is contrary to the Dhamma—or he is doubtful about the matter.
+     - 3）他認為他的解釋或破和合僧行為是非法——也就是說，他知道他所做的事情是與法相違背的——或者他對此事表示懷疑。
+
+   * - 4\) Nevertheless, he misrepresents his views and actions, claiming that they are Dhamma.
+     - 4）然而，他扭曲了自己的觀點和行為，聲稱它們是正法。
+
+   * - If, however, a bhikkhu advocates any of the 18 grounds for creating a schism with the understanding that he is advocating the Dhamma and that the schism would be in line with the Dhamma, then even if he accomplishes a schism he is still a bhikkhu, he is not automatically consigned to hell, and there is the possibility that he can be reconciled with the Community and the schism resolved.
+
+     - 然而，如果一位比丘主張造成破和合僧的十八個理由中的任何一個，認為他是在提倡正法，並且認為破和合僧將符合正法，那麼即使他完成了破和合僧，他仍然是比丘，他不會自動墮入地獄，他有可能與僧團和解並解決破和合僧。
+
 .. _Cv.IV.14.4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.4
 .. _《小品》.四.14.4: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0121a10
 .. _Cv.VII.5.3: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Cv.VII.5.3
