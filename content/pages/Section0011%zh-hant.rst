@@ -2431,4 +2431,45 @@
 .. _Mv.I.67: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.67
 .. _《大品》.一.67: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0111a01
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Strategies for schism**
+     - **破和合僧策略**
+
+   * - The Cullavagga presents two patterns by which a schism may happen. The first pattern, derived from Devadatta’s schism and given in `Cv.VII.5.1`_, states that schism occurs when a disagreement over the Dhamma, the Vinaya, or the Teacher’s instruction is put to a vote in a Community of at least nine bhikkhus with at least four on either side of the split. It further adds that all the bhikkhus involved must be bhikkhus of regular standing in affiliation with the group as a whole (e.g., they are not already of a separate affiliation, they haven’t been suspended from the Community), and they are living in the same territory (see `BMC2, Chapter 13`_).
+
+     - 《小品》提出了兩種可能發生破和合僧的模式。第一種模式源自於提婆達多的分裂，並在\ `《小品》.七.5.1`_\ 中給出，指出當對法、律、或師教的分歧在至少九名比丘組成的僧團中進行投票時，其中分裂雙方至少有四名比丘，破和合僧就會發生。它還進一步補充說，所有涉及的比丘必須是與整個團體有共住的正規地位比丘（例如，他們沒有別住，他們沒有被從僧團中舉罪），並且他們居住在同一界內（參見\ `《佛教修道準則 第二冊》第十三章`_\ ）。
+
+   * - If any of these qualifications is lacking—the issue goes to a vote in a Community of less than nine bhikkhus, one side or the other gains less than four adherents, or the bhikkhus involved are not of regular standing, are not of common affiliation, or are not in the same territory—the efforts at schism count as a crack *(rāji)* in the Community, but not as a full split *(bheda)*.
+
+     - 如果缺乏任何這些資格——爭論在少於九名比丘的僧團中進行投票，一方或另一方獲得少於四名追隨者，或所涉及的比丘沒有正規地位，沒有共住，或不在同一界內－破和合僧的努力算是僧團中的裂縫 *(rāji)* ，但不算完全分裂 *(bheda)* 。
+
+   * - A second pattern—which describes the Kosambī schism but is given in `Cv.VII.5.2`_ (as well as in AN 10:35 & AN 10:37)—lists two steps by which a group becomes schismatic:
+
+     - 第二種模式——描述了憍賞彌的破和合僧，但在\ `《小品》.七.5.2`_\ （以及\ `《增支部》10:35經`_\ 和\ `《增支部》10:37經`_\ ）中給出——列出了一個團體分裂的兩個步驟：
+
+   * - 1\) The members of the group advocate one or more of the 18 grounds for creating schism.
+     - 1）該團體的成員主張 18 條導致破和合僧理由中的一項或多項。
+
+   * - 2\) On the basis of any of these 18 points, they draw themselves apart, performing a separate Pāṭimokkha recitation, a separate Invitation, (or) a separate Community transaction.
+
+     - 2）根據這 18 點中的任何一點，他們將自己分開，進行個別的誦《波羅提木叉》，個別的自恣，（或）個別的僧伽羯磨。
+
+   * - The Parivāra (XV.10.9), trying to collate these two patterns into one, lists five ways in which a schism can take place: discussion, announcement, vote, transaction, and recitation. The Commentary interprets the five ways as four steps in a single process (with the last two ways counting as alternative forms of a single step):
+
+     - `《附隨》（十五.10.9）`_\ 試圖將這兩種模式整合為一種，列出了破和合僧可能發生的五種方式：討論、公告、投票、羯磨和背誦。《義註》將這五種方式解釋為單一過程中的四個步驟（最後兩種方式算作單一步驟的替代形式）：
+
+.. _Cv.VII.5.1: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Cv.VII.5.1
+.. _BMC2, Chapter 13: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
+.. _《小品》.七.5.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0277a11
+.. _《佛教修道準則 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十三章
+.. _Cv.VII.5.2: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Cv.VII.5.2
+.. _《小品》.七.5.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0278a09
+.. _《增支部》10\:35經: https://sutra.mobi/zcj/zengzhi/content/1567.html
+.. _《增支部》10\:37經: https://sutra.mobi/zcj/zengzhi/content/1569.html
+.. _《附隨》（十五.10.9）: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0314a01
+
 (未完待續)
