@@ -2369,7 +2369,7 @@
 
    * - Schism is the result of a dispute, but not all disputes—even when prolonged—will lead to schism. An example is the dispute that led to the Second Council (Cv.XII). Even though it was bitterly fought, there was never a point when either faction thought of splitting off and conducting communal business separately in the same territory. Still, even minor disputes can be potentially schismatic. At the same time, as we will see below, it is possible to act in a divisive way prior to a dispute without yet broaching the questions around which a dispute could develop. This rule and the following one are designed to nip both sorts of behavior in the bud before they can become schismatic. Once a dispute has become a major issue, these rules cannot be used, for at that point the procedures given in `Cv.IV.14.16-26`_\—explained in `Chapter 11`_\—should be followed. Questions of how to behave once a schism has occurred and how it can be ended are discussed in `BMC2, Chapter 21`_.
 
-     - 分裂是爭議的結果，但並非所有爭議——即使是曠日持久的——都會導致分裂。一個例子是導致\ `第二次結集`_\ （\ `《小品》.十二`_\ ）的爭議。儘管爭吵很激烈，但任何一個派系都沒有想過分裂，在同一界裡分別處理公共事務。儘管如此，即使是很小的爭議也可能導致分裂。同時，正如我們將在下面看到的，在爭議發生之前，有可能以分裂的方式行事，而尚未提出可能引發爭議的問題。本戒條和下一條戒條旨在將這兩種行為消滅在萌芽狀態，以免它們導致分裂。一旦爭議成為重大問題，就不能使用這些戒條，因為此時應遵循\ `《小品》.四.14.16-26`_\ 中給出的程序（\ `第十一章`_\ 中進行了解釋）。\ `《佛教修道準則 第二冊》第二十一章`_\ 討論了分裂發生後如何行事以及如何結束分裂的問題。
+     - 分裂是爭議的結果，但並非所有爭議——即使是曠日持久的——都會導致分裂。一個例子是導致\ `第二次結集`_\ （\ `《小品》.十二`_\ ）的爭議。儘管爭吵很激烈，但任何一個派系都沒有想過分裂，在同一界裡分別進行公共事務。儘管如此，即使是很小的爭議也可能導致分裂。同時，正如我們將在下面看到的，在爭議發生之前，有可能以分裂的方式行事，而尚未提出可能引發爭議的問題。本戒條和下一條戒條旨在將這兩種行為消滅在萌芽狀態，以免它們導致分裂。一旦爭議成為重大問題，就不能使用這些戒條，因為此時應遵循\ `《小品》.四.14.16-26`_\ 中給出的程序（\ `第十一章`_\ 中進行了解釋）。\ `《佛教修道準則 第二冊》第二十一章`_\ 討論了分裂發生後如何行事以及如何結束分裂的問題。
 
 .. _AN 5\:129: https://www.dhammatalks.org/suttas/AN/AN5_129.html
 .. _《增支部》5\:129經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%B8%80%E4%BA%8C%E4%B9%9D%E8%8B%A6%E8%BF%AB
@@ -2436,7 +2436,7 @@
    :widths: auto
 
    * - **Strategies for schism**
-     - **破和合僧策略**
+     - **破和合僧策劃**
 
    * - The Cullavagga presents two patterns by which a schism may happen. The first pattern, derived from Devadatta’s schism and given in `Cv.VII.5.1`_, states that schism occurs when a disagreement over the Dhamma, the Vinaya, or the Teacher’s instruction is put to a vote in a Community of at least nine bhikkhus with at least four on either side of the split. It further adds that all the bhikkhus involved must be bhikkhus of regular standing in affiliation with the group as a whole (e.g., they are not already of a separate affiliation, they haven’t been suspended from the Community), and they are living in the same territory (see `BMC2, Chapter 13`_).
 
@@ -2461,6 +2461,30 @@
 
      - `《附隨》（十五.10.9）`_\ 試圖將這兩種模式整合為一種，列出了破和合僧可能發生的五種方式：討論、公告、投票、羯磨和背誦。《義註》將這五種方式解釋為單一過程中的四個步驟（最後兩種方式算作單一步驟的替代形式）：
 
+   * - *1) Discussion.* A bhikkhu aiming at schism advocates any of the 18 positions listed above.
+     - *1）討論。*\一位旨在分裂的比丘主張上述 18 種立場中的任何一種。
+
+   * - *2) Announcement.* He announces that he is splitting off from the Community and asks other bhikkhus to take sides.
+     - *2）公告。*\他宣布他將脫離僧團並要求其他比丘選邊站。
+
+   * - *3) Vote.* The issue goes to a vote in a Community of at least nine bhikkhus, with at least four on either side.
+     - *3）投票。*\這個爭論需要在至少九名比丘組成的僧團中進行投票，雙方至少各有四名比丘。
+
+   * - *4) Transaction or recitation.* The bhikkhus who side with the schismatic split from the others and recite the Pāṭimokkha or perform another Community transaction separately.
+     - *4）羯磨或背誦。*\站在分裂一邊的比丘們從其他人中分裂出來，個別誦《波羅提木叉》或進行另一次僧伽羯磨。
+
+   * - According to the Commentary, the actual schism has not taken place until step 4, when the schismatic group conducts communal business separately within the same territory as the group from which it has split. This is in accordance with `Cv.VII.5.2`_ but conflicts with `Cv.VII.5.1`_, so the Commentary explains that if the vote is taken in a split-off meeting of the Community, steps 3 and 4 happen simultaneously, and the schism has been accomplished. Otherwise, if the vote is taken outside of the territory, the schism is not finalized until the split-off faction conducts Community transactions separately within the same territory as the other faction (Pv.VI.2 & XV.10.10).
+
+     - 根據《義註》，真正的破和合僧直到第四步才發生，此時分裂團體在與其分裂的團體同一界內分別進行公共事務。這符合\ `《小品》.七.5.2`_\ ，但與\ `《小品》.七.5.1`_\ 衝突，因此《義註》解釋說，如果在僧團的分裂會議中進行投票，則步驟 3 和 4 同時發生，並且破和合僧已完成。否則，如果投票是在界外進行的，則直到分裂的派別與另一派別在同一界內分別進行僧團羯磨後，破和合僧才最終確定（\ `《附隨》.六.2`_\ 及\ `十五.10.10`_\ ）。
+
+   * - However, it’s possible that the compilers of the Cullavagga intentionally listed two patterns for a schism because there are two ways in which it can happen: bilaterally and unilaterally. In a bilateral schism, the schismatic group meets with the group from which it is splitting and asks everyone to take sides. This is the pattern presented in `Cv.VII.5.1`_. In a unilateral schism, the schismatic group meets on its own, announces that it has separated from the other bhikkhus in the same territory, and conducts Community transactions separately from them. This is the pattern presented in `Cv.VII.5.2`_.
+
+     - 然而，《小品》的編撰者可能故意列出了兩種破和合僧模式，因為破和合僧有兩種可能發生的方式：雙邊和單邊。在雙邊破和合僧中，分裂團體與它分裂的團體開會，並要求每個人都選邊站。這是\ `《小品》.七.5.1`_\ 中呈現的模式。在單邊破和合僧中，分裂團體自行集會，宣布與同一界的其他比丘分離，並與他們分別進行僧團羯磨。這是\ `《小品》.七.5.2`_\ 中呈現的模式。
+
+   * - The Vinaya-mukha, in trying to make the case that not all the canonical Vinaya reflects the Buddha’s intent, focuses on these detailed descriptions of schism as a case in point, arguing that they actually encourage schism by providing precise instructions for how to go about it. This, it says, is not the sort of thing an enlightened teacher would teach. This argument, however, misses the point of the descriptions. They are meant to provide well-meaning bhikkhus with a clear template so that they can recognize an attempt at schism when they see it.
+
+     - 《戒律入口》試圖證明並非所有經典戒律都反映了佛陀的意圖，重點關注這些對破和合僧的詳細描述作為例證，認為它們透過提供如何進行的精確指示實際上鼓勵了破和合僧。它說，這不是一位開悟的老師會教的東西。然而，這種論點並沒有抓到描述的要點。它們的目的是為善意的比丘提供一個清楚的範本，以便他們在看到破和合僧企圖時能夠識別出來。
+
 .. _Cv.VII.5.1: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Cv.VII.5.1
 .. _BMC2, Chapter 13: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
 .. _《小品》.七.5.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0277a11
@@ -2471,5 +2495,7 @@
 .. _《增支部》10\:35經: https://sutra.mobi/zcj/zengzhi/content/1567.html
 .. _《增支部》10\:37經: https://sutra.mobi/zcj/zengzhi/content/1569.html
 .. _《附隨》（十五.10.9）: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0314a01
+.. _《附隨》.六.2: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0186a14
+.. _十五.10.10: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0314a04
 
 (未完待續)
