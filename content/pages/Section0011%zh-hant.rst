@@ -2498,4 +2498,42 @@
 .. _《附隨》.六.2: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0186a14
 .. _十五.10.10: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0314a04
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The factors for an offense**
+     - **構成犯戒的因素**
+
+   * - The K/Commentary analyzes the factors for an offense under this rule as one—effort—dividing it into several sub-factors. However, it also classifies this rule as *sacittaka*, which means that either perception or intention must play a role in the offense. Because the Vibhaṅga explicitly rules out perception as a factor, that leaves intention. The Sub-Commentary says that “intention” here refers to the offending bhikkhu’s intention not to relinquish his behavior after being rebuked by the Community. However, the Vibhaṅga’s definition of one of the first sub-factors of effort—agitating for a schism—includes intention as an integral part of the effort. Because the alternative sub-factor—persisting in taking up an issue conducive to schism—does not include intention in its definition, this rule is best explained as covering two separate but related offenses with different factors. (See `Sg 2`_, `NP 18`_, and `NP 24`_ for other instances of this sort.)
+
+     - K/《義註》將本戒條下的犯戒因素分析為一個——努力——並將其分為幾個子因素。然而，它也將本戒條歸類為 *sacittaka* ，這意味著感知或意圖必須在犯戒中發揮作用。因為《經分別》明確排除了感知作為一個因素，所以只剩下意圖。《複註》說，這裡的「意圖」指的是犯戒的比丘在受到僧團斥責後仍不放棄其行為的意圖。然而，《經分別》對努力的第一個子因素之一的定義——煽動破和合僧——將意圖作為努力的一個組成部分。因為替代的子因素——堅持提出導致破和合僧的爭論——在其定義中不包括意圖，所以本戒條最好解釋為涵蓋具有不同因素的兩個獨立但相關的犯戒。（有關此類的其他實例，請參閱\ `《僧殘》二`_\ 、\ `《捨墮》十八`_\ 和\ `《捨墮》二四`_\ 。）
+
+   * - In the first offense, the factors are two.
+     - 在第一個犯戒中，因素有二。
+
+   * - *1) Intention:* Acting with the thought, “How might these be divided, how might they be separated, how might they become a faction?”
+     - *1）意圖：*\以「如何分裂，如何分離，如何成為派別？」的想法來行動。
+
+   * - *2) Effort:* a) one agitates for a schism in a united Community—i.e., one of common affiliation in a single territory—
+     - *2）努力：* a）在一個和合僧團中煽動破和合僧－即在同一界內共住的僧團－
+
+   * - b\) even when rebuked three times in a properly performed Community transaction.
+     - b）即使在正確執行的僧團羯磨中受到三次斥責。
+
+   * - In the second offense, there is only one factor, divided into two sub-factors.
+     - 第二個犯戒只有一個因素，分為兩個子因素。
+
+   * - *1) Effort:* a) One persists in taking up an issue conducive to schism in a united Community—i.e., one of common affiliation in a single territory—
+     - *1）努力：* a）堅持在和合僧團中提出導致破和合僧的爭論——即，在同一界內共住的僧團——
+
+   * - b\) even when rebuked three times in a properly performed Community transaction.
+     - b）即使在正確執行的僧團羯磨中受到三次斥責。
+
+.. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
+.. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
+.. _《捨墮》十八: {filename}Section0014%zh-hant.rst#NP18
+.. _《捨墮》二四: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
+.. TODO FIXME: replace link to 《捨墮》二四
+
 (未完待續)
