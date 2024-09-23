@@ -101,9 +101,9 @@
 .. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. _19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. _20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
-.. _《捨墮》一八: {filename}Section0014%zh-hant.rst#np18
-.. _一九: {filename}Section0014%zh-hant.rst#np19
-.. _二十: {filename}Section0014%zh-hant.rst#np20
+.. _《捨墮》一八: {filename}Section0014%zh-hant.rst#NP18
+.. _一九: {filename}Section0014%zh-hant.rst#NP19
+.. _二十: {filename}Section0014%zh-hant.rst#NP20
 
 
 .. list-table::
@@ -155,10 +155,10 @@
 
 .. _NP 19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. _Mv.VI.34.21: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.34.21
-.. _《捨墮》一九: {filename}Section0014%zh-hant.rst#np19
+.. _《捨墮》一九: {filename}Section0014%zh-hant.rst#NP19
 .. _《大品》.六.34.21: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0321a02
 .. _NP 18-20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
-.. _《捨墮》一八至二十: {filename}Section0014%zh-hant.rst#np18
+.. _《捨墮》一八至二十: {filename}Section0014%zh-hant.rst#NP18
 
 
 .. list-table::
@@ -281,7 +281,7 @@
      - 《義註》補充說，不通知施主會犯《突吉羅》，理由是疏忽了職責。然而，這個說法僅適用於知道哪位施主向哪位淨人提供哪項資金的情況。如果淨人管理的單一資金包含許多施主的捐款，如果淨人不回應請求，則不太可能通知所有施主。在這種情況下，有義務只通知其中一位施主。
 
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
-.. _《捨墮》二十: {filename}Section0014%zh-hant.rst#np20
+.. _《捨墮》二十: {filename}Section0014%zh-hant.rst#NP20
 .. _在比丘尚未領受必需品期間，他不應接受坐在淨人處的邀請、接受施捨，或在那裡教導佛法。: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0314a07
 .. _Pc 7: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
 .. _《波逸提》七: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7

@@ -528,7 +528,7 @@
      - *c. 隱藏：*\ 比丘發現地上有物品，為了欺騙所有者，用泥土或樹葉覆蓋它，意圖稍後偷走它。如果所有者在搜尋該物品後，暫時放棄搜尋，然後比丘撿起它，那麼當它從底座上移除時，它就算被偷走。如果所有者認定物品遺失，在比丘取走物品之前將其永久遺棄，《義註》說，比丘沒有犯偷竊戒，但應賠償所有者。我們已經在上面的「對象」章節下，討論了遺失物品的議題，並將在下面討論賠償的議題。
 
 .. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
-.. _《捨墮》一八: {filename}Section0014%zh-hant.rst#np18
+.. _《捨墮》一八: {filename}Section0014%zh-hant.rst#NP18
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _Mv.I.62: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.62.3
 .. _《大品》.一.62: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0107a09
@@ -538,7 +538,7 @@
 .. _不尋常的案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0088a12
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
-.. _《捨墮》二十: {filename}Section0014%zh-hant.rst#np20
+.. _《捨墮》二十: {filename}Section0014%zh-hant.rst#NP20
 .. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
 

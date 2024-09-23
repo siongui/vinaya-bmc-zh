@@ -229,13 +229,13 @@
      - 　　　十七
 
    * - `\　　　18 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18>`__
-     - `\　　　十八 <{filename}Section0014%zh-hant.rst#np18>`__
+     - `\　　　十八 <{filename}Section0014%zh-hant.rst#NP18>`__
 
    * - `\　　　19 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19>`__
-     - `\　　　十九 <{filename}Section0014%zh-hant.rst#np19>`__
+     - `\　　　十九 <{filename}Section0014%zh-hant.rst#NP19>`__
 
    * - `\　　　20 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20>`__
-     - `\　　　二十 <{filename}Section0014%zh-hant.rst#np20>`__
+     - `\　　　二十 <{filename}Section0014%zh-hant.rst#NP20>`__
 
    * - `\　　Three: The Bowl Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0015.html>`__
      - 　　第三 缽品
