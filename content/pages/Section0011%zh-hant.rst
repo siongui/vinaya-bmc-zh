@@ -2536,4 +2536,23 @@
 .. _《捨墮》二四: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
 .. TODO FIXME: replace link to 《捨墮》二四
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - According to the Vibhaṅga, to agitate for a schism is to search for a partisan following or to bind together a group, with the above intention. To persist in taking up an issue conducive to schism is to take a stance on any of the 18 positions mentioned above. The two types of effort may overlap—a bhikkhu attempting to split off a schismatic faction could do so based on any of the 18 positions—but not necessarily. A bhikkhu might try to create a faction in other ways—for example, by arranging special meals exclusively for his friends (see `Pc 32`_). A stubborn bhikkhu might refuse to abandon a position conducive to schism even if he is not yet aiming at schism. In fact, the use of this rule is most effective before the two activities have overlapped. Once a bhikkhu has succeeded in binding together a group around any of the 18 grounds for schism, the Community will have trouble achieving unanimity in rebuking him, for his group will be free to protest the transaction.
+
+     - 根據《經分別》的說法，煽動破和合僧就是為了達到上述目的而尋找黨派追隨者或將一個團體綁在一起。堅持提出導致破和合僧的爭論就是對上述 18 個立場中的任何一個採取立場。這兩種類型的努力可能會重疊——試圖分裂分離派系的比丘可以基於 18 種立場中的任何一種來這樣做——但非一定如此。比丘可能會嘗試以其他方式建立一個派系－例如，專門為他的朋友安排特別的膳食（請參閱\ `《波逸提》三二`_\ ）。固執的比丘可能會拒絕放棄導致破和合僧的立場，即使他的目標還不是破和合僧。事實上，最有效使用本戒條是在兩項活動重疊之前。一旦比丘成功地圍繞 18 個破和合僧理由中的任何一個將一個團體綁在一起，僧團將很難達成一致譴責他，因為他的團體將可以自由地抗議這一羯磨。
+
+   * - Note that, unlike the definition of united Community in `Cv.VII.5.3`_, the Vibhaṅga’s definition of a united Community here does not specify that it has to be united around a correct understanding of the Dhamma and Vinaya. This means, in the case of the first offense, that if a bhikkhu tries to create a partisan following by explaining Vinaya as Vinaya in a Community whose practice has gone astray, the Community could still legitimately rebuke him. If he did not abandon his behavior, he would incur the full offense. This further means that if one wants to establish a return to the genuine Dhamma and Vinaya in such a Community, one should aim at converting the entire Community and not just a clique. If the Community judges one’s efforts to be divisive, one can either search for help from other Communities, as explained in `Chapter 11`_ and exemplified in the story of the Second Council, or simply leave the Community in search of a more conducive location to practice. If other bhikkhus in the Community, approving of one’s views, come to the new location of their own accord, well and good. Nevertheless, this rule indicates that one’s aim in expounding the Dhamma and Vinaya should never be to create a faction. Instead, it should be to convince all who are sincere to join in the pursuit of correct practice. Thus when leaving one’s original Community, one should do so in as amicable a way as possible so as not to alienate those whom one should be aiming to win over to one’s views.
+
+     - 請注意，與\ `《小品》.七.5.3`_\ 中的和合僧的定義不同，這裡的《經分別》對和合僧的定義並沒有指定它必須圍繞對法和律的正確理解而和合。這意味著，在第一個犯戒的情況下，如果一位比丘試圖在一個修行已誤入歧途的僧團中藉由說律為律來製造黨派追隨者，僧團仍然可以合法地譴責他。如果他不放棄自己的行為，他將完全違犯。這進一步意味著，如果想在這樣一個僧團中回歸真正的法與律，就應該以改變整個僧團而不僅僅是一個小集團為目標。如果該僧團認為該努力會造成分裂，那麼可以向其他僧團尋求幫助，如\ `第十一章`_\ 中所解釋的和\ `第二次結集`_\ 的故事中所例證的那樣，或者乾脆離開僧團去尋找一個更有利的實踐地點。如果僧團中的其他比丘都贊同自己的觀點，自願來到新的住所，那就很好。然而，本戒條表明，弘揚法與律的目的絕不應該是為了製造派別。相反，它應該說服所有真誠的人加入追求正確修行的行列。因此，當離開原來的僧團時，應該以盡可能友好的方式這樣做，以免疏遠那些應該爭取支持自己觀點的人。
+
+.. _Pc 32: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
+.. _《波逸提》三二: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
+.. TODO FIXME: replace link to 《波逸提》三二
+
 (未完待續)
