@@ -2555,4 +2555,35 @@
 .. _《波逸提》三二: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
 .. TODO FIXME: replace link to 《波逸提》三二
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Procedure**
+     - **程序**
+
+   * - The Vibhaṅga states that if the bhikkhus see or hear of a bhikkhu who has begun agitating for a schism or persists in taking up an issue conducive to schism in a united Community, it is their duty to reprimand him three times. Otherwise, if he goes unreprimanded, he is free to continue with his efforts as he likes without incurring a penalty. If they neglect this duty, they each incur a dukkaṭa. The Commentary adds that this dukkaṭa applies to every bhikkhu within a half-yojana (five-mile/eight-kilometer) radius who learns of the instigator’s efforts. Furthermore, it says that one may fulfill one’s duty here only by going to him in person, and not by sending a letter or a messenger. (According to the Sub-commentary, any bhikkhu within the half-yojana radius who is ill or otherwise unable to go reprimand the instigator is not subject to this penalty.) As for any bhikkhu outside the half-yojana radius, even though he may not be subject to the penalty, the Commentary states that he should still regard it as his duty if he is able to go reprimand the instigator as well.
+
+     - 《經分別》規定，如果比丘們看到或聽到某個比丘開始煽動破和合僧，或堅持在一個和合僧團中堅持提出導致破和合僧的爭論，他們就有責任斥責他三次。否則，如果他沒有受到斥責，他可以繼續隨心所欲地努力，而不會受到懲罰。如果他們疏忽了這項職責，他們每個人都會犯《突吉羅》。《義註》補充說，此《突吉羅》適用於半由旬（五英里/八公里）半徑內的每一位了解煽動者行為的比丘。而且，它說，此處只能親自找他來履行自己的職責，而不是透過寫信或使者。（根據《複註》，半由旬範圍內的比丘，若有病或因其他原因無法前去斥責煽動者，不受此懲罰。）至於半由旬範圍之外的比丘，即使他可以不受到懲罰，《義註》說，如果他也能去斥責煽動者，他仍然應該認為這是他的職責。
+
+   * - If the attempt takes place during the Rains-residence, the Mahāvagga allows bhikkhus at other locations to cut short their stay at those locations and to come help end the attempt (`Mv.III.11.6-9`_). It also allows a bhikkhu who has tried to prevent a schism, and yet sees that his efforts are likely to fail, to leave that Community even during the Rains-residence if he does not wish to be present for the turmoil that may follow (`Mv.III.11.5`_).
+
+     - 如果該嘗試發生在雨安居期間，《大品》允許在其他地方的比丘縮短在那些地點的停留時間，並前來幫助結束該嘗試（\ `《大品》.三.11.6-9`_\ ）。它還允許一個試圖阻止破和合僧但看到他的努力可能會失敗的比丘，即使在雨居期間，如果他不希望參與隨後可能發生的騷亂，也可以離開該僧團（\ `《大品》.三.11.5`_\ ）。
+
+   * - If, after being reprimanded three times, the instigator abandons his efforts—i.e., stops agitating for a schism or abandons his position with regard to the 18 issues conducive to a schism—he incurs no penalty and nothing further need be done.
+
+     - 如果煽動者在受到三次斥責後放棄努力，即停止煽動破和合僧或放棄對 18 個導致破和合僧的爭論的立場，則不會受到任何懲罰，也無需再採取任何行動。
+
+   * - If he is still recalcitrant, though, he incurs a dukkaṭa. The next step is to take him into the midst of a formal meeting of the Community (seizing him by the hands and feet if necessary, says the Commentary) and admonish him formally three more times. If he abandons his efforts before the end of the third admonition, well and good. If not, he incurs another dukkaṭa. The next step is to recite a formal rebuke by mandate of the Community, using a formula of one motion and three proclamations (see `Appendix VIII`_). If the instigator remains obstinate, he incurs an additional dukkaṭa at the end of the motion, a thullaccaya at the end of each of the first two proclamations, and the full saṅghādisesa at the end of the third. Once he commits the full offense, the penalties he incurred in the preliminary stages are nullified.
+
+     - 然而，如果他仍然頑抗，他就犯《突吉羅》。下一步是帶他參加僧團的正式會議（《義註》說，如有必要，抓住他的手腳），並正式教誡他三次。如果他在第三次教誡結束之前放棄努力，那很好。如果沒有，他就犯另一次《突吉羅》。下一步是根據僧團的授權，使用一白三羯磨（白四羯磨）的形式進行正式訶責（見\ `附錄八`_\）。如果煽動者仍然固執，他會在白文結束時犯額外一次《突吉羅》，在前兩次羯磨文每次結束時犯一次《偷蘭遮》，並在第三次羯磨文結束時完全違犯《僧殘》。一旦他完全違犯，他在初步階段受到的懲罰就無效。
+
+.. _Mv.III.11.6-9: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.11.6
+.. _Mv.III.11.5: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.11.5
+.. _《大品》.三.11.6-9: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0203a09
+.. _《大品》.三.11.5: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0203a06
+.. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
+.. _附錄八: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
+.. TODO FIXME: replace link to 附錄八
+
 (未完待續)
