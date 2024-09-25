@@ -2586,4 +2586,33 @@
 .. _附錄八: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
 .. TODO FIXME: replace link to 附錄八
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Perception**
+     - **感知**
+
+   * - The Vibhaṅga states that if the rebuke transaction is carried out properly—i.e., the bhikkhu really is looking for a faction or taking up an issue conducive to schism, and the various other formal requirements for a valid transaction are fulfilled—then if he does not abandon his efforts, he incurs the full saṅghādisesa regardless of whether he perceives the transaction to be proper, improper, or doubtful. If the transaction is improperly carried out, then regardless of how he perceives its validity, he incurs a dukkaṭa for not abandoning his efforts (§).
+
+     - 《經分別》指出，如果訶責羯磨正確地執行，即比丘確實在尋找一個派別或提出導致破和合僧的爭論，並且滿足了有效羯磨的各種其他正式要求，那麼如果他不放棄他的努力，無論他認為羯磨是正確的、不正確的還是可疑的，他都會完全違犯《僧殘》。如果羯磨執行不當，那麼無論他如何看待其有效性，他都會因不放棄努力而犯《突吉羅》（§）。
+
+   * - The fact that the bhikkhu is not free from an offense in the latter case is important: There are several other, similar points in the Vinaya—such as the Buddha’s advice to the Dhamma-expert in the controversy at Kosambī (`Mv.X.1.8`_)—where for the sake of the harmony of the Community in cases that threaten to be divisive, the Buddha advises bhikkhus to abandon controversial behavior and to yield to the mandate of the Community even if it seems unjust.
+
+     - 在後一種情況下，比丘並非免於犯戒，這一事實很重要：戒律中還有其他幾個類似的要點——例如佛陀在憍賞彌爭論中對佛法專家的建議（\ `《大品》.十.1.8`_\ ）——為了在可能造成分裂的情況下維持僧團和諧，佛陀建議比丘們放棄有爭議的行為，並服從僧團的命令，即使這看起來不公正。
+
+.. _Mv.X.1.8: https://www.dhammatalks.org/vinaya/Mv/MvX.html#pts1_8
+.. _《大品》.十.1.8: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_010#0441a12
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The non-offense clauses, in addition to the usual exemptions, state that there is no offense if the bhikkhu is not reprimanded or if he gives up his efforts (prior to the end of the third reprimand).
+
+     - 除通常的豁免外，不犯條款規定，如果比丘沒有受到訓斥或放棄努力（在第三次訓斥結束之前），則不構成犯戒。
+
 (未完待續)
