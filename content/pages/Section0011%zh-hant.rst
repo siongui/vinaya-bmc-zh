@@ -2615,4 +2615,42 @@
 
      - 除通常的豁免外，不犯條款規定，如果比丘沒有受到訓斥或放棄努力（在第三次訓斥結束之前），則不構成犯戒。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Further steps**
+     - **更進一步步驟**
+
+   * - If the bhikkhu is so stubborn that he refuses to abandon his schismatic efforts even through the third rebuke, he will probably not acknowledge that the Community has acted properly, in which case he will not admit that he has incurred a saṅghādisesa offense or that he has to make amends for it. This gives the Community clear grounds, if it sees fit, for suspending him then and there (see `BMC2, Chapter 20`_). In fact, this may have been the original intention behind the protocols outlined in this and the remaining three saṅghādisesa rules: to give the Community a clear opportunity to test how stubborn a divisive or recalcitrant bhikkhu is and to end his affiliation with them if he proves this stubborn. For this reason, a Community planning to impose any of these rules on one of its members should be prepared to recite the transaction statement for suspension against him as well.
+
+     - 如果比丘如此頑固，即使經過第三次訶責，他也拒絕放棄他的分裂努力，他可能不會承認僧團的行為是正確的，在這種情況下，他不會承認他犯了《僧殘》罪，或者他必須賠罪。這為僧團提供了明確的理由，如果它認為合適的話，可以當場舉罪之（見\ `《佛教修道準則 第二冊》第二十章`_\ ）。事實上，這可能是本戒條和剩餘三項《僧殘》戒條中所概述的協議背後的初衷：給僧團一個明確的機會來測試一個分裂或頑固的比丘有多麼頑固，如果他證明了這一點，就結束與他共住。因此，計劃對其一名成員實施任何這些戒條的僧團也應準備好背誦針對該成員的舉罪羯磨文。
+
+   * - Once the offender’s affiliation with the Community is ended, he may not accost—go up to talk to—any member of the Community at all. Technically speaking, the fact that he is no longer in affiliation means that he can cause no more than a crack, rather than a full split, in the Saṅgha. This, of course, may not end his schismatic efforts, but the fact that the Community met to deal with his case should be enough to alert well-meaning bhikkhus that he is following a wrong course of action, and this should help unite the Community against his efforts. If they deem it necessary—to keep the laity from being swayed by his arguments—they may authorize one or more of their members to inform the lay community that the schismatic has committed this offense (see `Pc 9`_) and explain why. If, unrepentant, he leaves to go elsewhere, they may send word to any Community he tries to join. Of course, if it turns out that the schismatic was actually in the right in his explanation of the Dhamma and Vinaya, the efforts of the original Community will call unflattering attention to its own behavior. This means that a Community is well advised to reflect on its own practice before bringing this rule to bear.
+
+     - 一旦犯戒者與僧團不共住，他就不得與僧團的任何成員搭話——上前交談。從技術上講，他不再共住的事實意味著他只能在僧伽中造成裂縫，而不是完全破和合僧。當然，這可能不會結束他的分裂努力，但僧團開會處理他的案件這一事實應該足以提醒善意的比丘，他正在採取錯誤的行動方針，這應該有助於團結僧團反對他的努力。如果他們認為有必要——為了防止居士被他的論點所動搖——他們可以授權一名或多名成員通知居士團體，分裂者犯下了這一罪行（見\ `《波逸提》九`_\ ）並解釋原因。如果他不悔改，離開去其他地方，他們可以向他試圖加入的任何僧團發送訊息。當然，如果事實證明分裂者對法與律的解釋實際上是正確的，那麼原本僧團的努力將引起對其自身行為的不當關注。這意味著，建議僧團在實施此戒條之前反思自己的做法。
+
+   * - All of this shows why schism is regarded so seriously: As the Buddha states in the second discourse on future dangers (`AN 5:78`_), it is difficult to find time to practice when the Community is embroiled in controversy this way.
+
+     - 這一切都顯示了為什麼破和合僧被如此嚴肅地對待：正如佛陀在關於未來危險的第二次開示中所說的那樣（\ `《增支部》5:78經`_\ ），當僧團捲入這樣的爭議時，很難找到時間去修行。
+
+   * - *Summary: To persist—after the third proclamation of a formal rebuke in the Community—in trying to form a schismatic group or in taking up a position that can lead to schism is a saṅghādisesa offense.*
+     - *摘要：在僧團中第三次正式訶責之後，繼續試圖形成分裂團體或採取可能導致分裂的立場是《僧殘》罪。*
+
+.. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
+.. _Pc 9: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
+.. _《波逸提》九: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
+.. TODO FIXME: replace link to 《波逸提》九
+.. _AN 5\:78: https://www.dhammatalks.org/suttas/AN/AN5_78.html
+.. _《增支部》5\:78經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%B8%83%E5%8D%81%E5%85%AB%E6%9C%AA%E4%BE%86%E4%B9%8B%E4%BA%8C
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
+
 (未完待續)
