@@ -150,7 +150,7 @@
      - `\　　十 <{filename}Section0011%zh-hant.rst#Sg10>`__
 
    * - `\　　11 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11>`__
-     - 　　十一
+     - `\　　十一 <{filename}Section0011%zh-hant.rst#Sg11>`__
 
    * - `\　　12 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12>`__
      - 　　十二

@@ -2652,5 +2652,64 @@
    \*    \*    \*
 
 
+.. _Sg11:
+
+.. raw:: html
+
+   <span id="Sg11"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **11**
+     - **十一**
+
+   * - .. container:: notification
+
+          *Should bhikkhus—one, two, or three—who are followers and partisans of that bhikkhu, say, “Do not, venerable sirs, admonish that bhikkhu in any way. He is an exponent of the Dhamma. He is an exponent of the Vinaya. He acts with our consent and approval. He knows, he speaks for us, and that is pleasing to us,” the bhikkhus are to admonish them thus: “Do not say that, venerable sirs. That bhikkhu is not an exponent of the Dhamma and he is not an exponent of the Vinaya. Do not, venerable sirs, approve of a schism in the Community. Let the venerable ones’ (minds) be reconciled with the Community, for a united Community, on courteous terms, without dispute, with a common recitation, dwells in peace.”*
+
+          *And should those bhikkhus, thus admonished by the bhikkhus, persist as before, the bhikkhus are to rebuke them up to three times for the sake of relinquishing that. If while being rebuked up to three times they relinquish that, that is good. If they do not relinquish (that), it entails initial and subsequent meetings of the Community.*
+
+     - .. container:: notification
+
+          *如果比丘——一位、兩位或三位——是該比丘的追隨者和擁護者，說：「尊者，不要以任何方式勸誡該比丘。他是法說者。他是律說者。他的行為是經過我們的同意和批准的。他知道，他為我們說話，這令我們高興。」比丘們應如此勸誡他們：「那個比丘不是法說者，也不是律說者。尊者，不要贊成僧團的分裂。願諸尊者（心）與僧團和解，僧團和合，以禮相待，無爭執，共同念誦，安住。」*
+
+          *若那些比丘受比丘們如此勸誡，仍堅持如前，比丘們應斥責他們至多三遍，以其放棄。如果當被訶責到三次就放棄了，那很好。如果他們不放棄，僧殘。*
+
+   * - If the schismatic mentioned in the preceding rule begins to attract adherents, they are to be treated under this rule—and quickly, before the schismatic gains a fourth adherent. The reasons are these:
+
+     - 如果前一戒條中提到的破和合僧者開始吸引追隨者，他們將根據本戒條處理——而且很快，在破和合僧者獲得第四個追隨者之前。原因如下：
+
+   * - 1\) One Community cannot impose a penalty on another Community (four or more bhikkhus) in any one transaction (`Mv.IX.2`_).
+     - 1）一個僧團不能在任一羯磨中對另一個僧團（四名或更多比丘）施加懲罰（\ `《大品》.九.2`_\ ）。
+
+   * - 2\) Penalties of this sort may be imposed only with the unanimous agreement of all the bhikkhus present in the meeting. If there is a fourth adherent present in the meeting, his protest can invalidate the rebuke.
+     - 2）此類懲罰只有在所有出席會議的比丘一致同意的情況下才可以實施。如果會議中有第四位追隨者出席，他的抗議可以使訶責無效。
+
+   * - 3\) As the Sub-commentary points out, once the adherents of a potential schismatic have reached four, they are in a position to go ahead with the schism even if he is observing penance under the preceding rule.
+     - 3）正如《複註》所指出的，一旦潛在破和合僧者的追隨者達到四人，即使他正在按照前一戒條進行\ `摩那埵`_\ ，他們也可以繼續破和合僧。
+
+   * - The procedures for dealing with these partisans—reprimanding them in private, admonishing and rebuking them in the midst of the Community—are the same as under the preceding rule. The formula for the rebuke is given in `Appendix VIII`_.
+
+     - 處理這些擁護者的程序──私下訓斥他們，在僧團中勸誡和訶責他們──與前一戒條相同。\ `附錄八`_\ 給了訶責的公式。
+
+   * - As noted under the preceding rule, the procedures to follow once the schismatics have succeeded in creating a schism are discussed in `BMC2, Chapter 21`_.
+
+     - 如前一戒條所述，一旦破和合僧者成功製造破和合僧，應遵循的程序將在\ `《佛教修道準則 第二冊》第二十一章`_\ 中討論。
+
+   * - *Summary: To persist—after the third proclamation of a formal rebuke in the Community—in supporting a potential schismatic is a saṅghādisesa offense.*
+     - *摘要：在僧團中第三次正式訶責羯磨文之後，繼續支持潛在的破和合僧者是《僧殘》罪。*
+
+.. _Mv.IX.2: https://www.dhammatalks.org/vinaya/Mv/MvIX.html#pts2
+.. _《大品》.九.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_009#0408a07
+.. _摩那埵: https://www.google.com/search?q=%E6%91%A9%E9%82%A3%E5%9F%B5
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 
 (未完待續)
