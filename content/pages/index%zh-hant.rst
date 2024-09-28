@@ -153,7 +153,7 @@
      - `\　　十一 <{filename}Section0011%zh-hant.rst#Sg11>`__
 
    * - `\　　12 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12>`__
-     - 　　十二
+     - `\　　十二 <{filename}Section0011%zh-hant.rst#Sg12>`__
 
    * - `\　　13 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13>`__
      - 　　十三

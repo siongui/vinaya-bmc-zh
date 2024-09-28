@@ -1994,8 +1994,7 @@
      - 如果雙方本著善意且不帶偏見行事，此類指控很容易在非正式基礎上解決。如果指控無法以非正式方式解決，則應提交僧團會議，以便整個團體做出判斷。此類正式會議的程序將根據《不定》和《滅諍》戒條進行討論。如果要在布薩的僧團會議上提出這個問題，則需要遵循額外的程序，這些程序在\ `《佛教修道準則 第二冊》第十五章`_\ 中討論。如果要在雨安居結束時在自恣時提出該問題，則應遵循的程序將在\ `《佛教修道準則 第二冊》第十六章`_\ 中討論。
 
 .. _Sg 12: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
-.. _《僧殘》十二: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
-.. TODO FIXME: replace link to 《僧殘》十二
+.. _《僧殘》十二: #Sg12
 .. _Cv.IX.5.1-2: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.5.1
 .. _《小品》.九.5.1-2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_019#0331a14
 .. _attha: https://dictionary.sutta.org/browse/a/attha/
@@ -2276,7 +2275,7 @@
 
           *如果任何比丘在和合僧團中鼓動分裂，或者他堅持提出導致分裂之事，比丘們應這樣告誡他：「尊者，不要在一個和合僧團中鼓動分裂，或者堅持提出導致分裂之事。願尊者與僧團和解，因為僧團團結，以禮相待，無爭，共同誦[戒]，安住。」*
 
-          *若該比丘受諸比丘如此告誡後，仍堅持如前，諸比丘應斥責他至多三遍，使他捨棄。如果被斥責至三次時，他就捨棄了，那很好。如果他不捨棄，僧殘。*
+          *若該比丘受諸比丘如此告誡後，仍堅持如前，諸比丘應訶責他至多三遍，使他捨棄。如果被訶責至三次時，他就捨棄了，那很好。如果他不捨棄，僧殘。*
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -2675,7 +2674,7 @@
 
           *如果比丘——一位、兩位或三位——是該比丘的追隨者和擁護者，說：「尊者，不要以任何方式勸誡該比丘。他是法說者。他是律說者。他的行為是經過我們的同意和批准的。他知道，他為我們說話，這令我們高興。」比丘們應如此勸誡他們：「那個比丘不是法說者，也不是律說者。尊者，不要贊成僧團的分裂。願諸尊者（心）與僧團和解，僧團和合，以禮相待，無爭執，共同念誦，安住。」*
 
-          *若那些比丘受比丘們如此勸誡，仍堅持如前，比丘們應斥責他們至多三遍，以其放棄。如果當被訶責到三次就放棄了，那很好。如果他們不放棄，僧殘。*
+          *若那些比丘受比丘們如此勸誡，仍堅持如前，比丘們應訶責他們至多三遍，使其放棄。如果當被訶責到三次就放棄了，那很好。如果他們不放棄，僧殘。*
 
    * - If the schismatic mentioned in the preceding rule begins to attract adherents, they are to be treated under this rule—and quickly, before the schismatic gains a fourth adherent. The reasons are these:
 
@@ -2711,5 +2710,36 @@
    \*    \*    \*
 
 
+.. _Sg12:
+
+.. raw:: html
+
+   <span id="Sg12"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **12**
+     - **十二**
+
+   * - .. container:: notification
+
+          *In case a bhikkhu is by nature difficult to admonish—who, when being legitimately admonished by the bhikkhus with reference to the training rules included in the (Pāṭimokkha) recitation, makes himself unadmonishable, (saying,) “Do not, venerable ones, say anything to me, good or bad; and I won’t say anything to the venerable ones, good or bad. Refrain, venerable ones, from admonishing me”—the bhikkhus are to admonish him thus: “Let the venerable one not make himself unadmonishable. Let the venerable one make himself admonishable. Let the venerable one admonish the bhikkhus in accordance with what is right, and the bhikkhus will admonish the venerable one in accordance with what is right; for it is thus that the Blessed One’s following is nurtured: through mutual admonition, through mutual rehabilitation.”*
+
+          *And should that bhikkhu, thus admonished by the bhikkhus, persist as before, the bhikkhus are to rebuke him up to three times for the sake of relinquishing that. If while being rebuked up to three times he relinquishes that, that is good. If he does not relinquish (that), it entails initial and subsequent meetings of the Community.*
+
+     - .. container:: notification
+
+          *如果比丘生來難以勸誡，當比丘們根據（《波羅提木叉》）念誦中所包含的學處合法地勸誡他時，他使自己不可勸誡，（說：）「諸位尊者，不要對我說任何事情，無論好壞；我不會對尊者們說什麼，無論好壞。諸位尊者，請不要勸誡我」－比丘們應這樣勸誡他：「請尊者不要讓自己不受勸誡。請尊者讓自己接受勸誡吧。請尊者如法地勸誡比丘，比丘們就會如法地勸誡尊者。因為世尊的追隨者就是這樣培養的：透過相互勸誡，透過相互出罪。*
+
+          *若該比丘受比丘們如此勸誡，仍堅持如前，比丘們應訶責他至多三遍，使其放棄。如果當被訶責到三次就放棄了，那很好。如果他不放棄，僧殘。*
+
+   * - If a bhikkhu breaks any of the rules of the Vinaya without undergoing the penalties they entail, the other bhikkhus have the duty of admonishing him, as explained under `Sg 8`_. If he is difficult to admonish, he is subject to additional penalties: under `Pc 12`_ if he is evasive or uncooperative while being admonished, under `Pc 54`_ if he shows disrespect, and under `Pc 71`_ if he tries to excuse himself from training in the rule in question. If he becomes so difficult to admonish that he will accept criticism from no one at all, he is to be treated under this rule.
+
+     - 如果比丘違反了戒律中的任何規定而沒有受到相應的懲罰，則其他比丘有義務教誡他，如\ `《僧殘》八`_\ 所述。若他難以教誡，他將受到額外懲罰：如果他被教誡時迴避或不合作，則按\ `《波逸提》十二`_\ 規定；如果他表現出不尊重，則按\ `《波逸提》五四`_\ 規定；如果他試圖藉口不接受有關戒條的培訓，則按\ `《波逸提》七一`_\ 規定。如果他變得如此難以教誡，以至於他根本不接受任何人的批評，那麼他就應該受到本戒條的處理。
+
+.. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. _《僧殘》八: #Sg8
 
 (未完待續)
