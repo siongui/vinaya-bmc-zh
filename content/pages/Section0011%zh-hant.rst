@@ -2739,7 +2739,26 @@
 
      - 如果比丘違反了戒律中的任何規定而沒有受到相應的懲罰，則其他比丘有義務教誡他，如\ `《僧殘》八`_\ 所述。若他難以教誡，他將受到額外懲罰：如果他被教誡時迴避或不合作，則按\ `《波逸提》十二`_\ 規定；如果他表現出不尊重，則按\ `《波逸提》五四`_\ 規定；如果他試圖藉口不接受有關戒條的培訓，則按\ `《波逸提》七一`_\ 規定。如果他變得如此難以教誡，以至於他根本不接受任何人的批評，那麼他就應該受到本戒條的處理。
 
+   * - The Commentary defines *difficult to admonish* as “impossible to speak to” and adds that a bhikkhu difficult to admonish is one who cannot stand being criticized or who does not mend his ways after his faults are pointed out to him. It quotes from the Anumāna Sutta (MN 15) a list of traits, any one of which makes a bhikkhu difficult to admonish: He has evil desires; exalts himself and degrades others; is easily angered; because of this he harbors ill will, holds a grudge, utters angry words; accused, he throws a tantrum (literally, “explodes”); accused, he is insulting; accused, he returns the accusation; he evades back and forth; he does not respond; he is mean and spiteful; jealous and possessive; scheming and deceitful; stubborn and proud; attached to his own views, obstinate, unable to let them go.
+
+     - 《註釋》將\ *難以教誡*\ 定義為「無法與之交談」，並補充說，難以教誡的比丘是指不能忍受批評或被指出過錯後仍不改正的比丘。它引用了《反思經》（\ `《中部》15經`_\ ）中的一系列特徵，其中任何一個都使比丘難以教誡：他有邪惡的欲望；抬高自己，貶低別人；容易生氣；因此，他懷有惡意，懷恨在心，說出瞋恨的話。被指控時，他會發脾氣（字面意思是「爆炸」）；被指控時，他是侮辱性的；被指控時，他指控回去；他來回躲避；他沒有回應；他很卑鄙、充滿惡意；嫉妒和占有欲強；詭計多端、詭詐多端；固執而驕傲；執著於自己的觀點，固執己見，無法放下。
+
+   * - A fair number of these traits are exemplified by Ven. Channa—according to tradition, the Buddha’s horseman on the night of the great Going Forth—in the origin stories to `Pc 12`_, 54_, and 71_, and especially in the origin story to this rule.
+
+     - 闡陀尊者體現了其中相當多的特徵——根據傳統，是佛陀在偉大出家之夜的騎手——出現在\ `《波逸提》十二`_\ 、\ `五四`_\ 和\ `七一`_\ 的起源故事中，尤其是本戒條的起源故事中。
+
+   * - “You think *you* are to admonish *me*? It is I who should admonish *you*! The Buddha is mine, the Dhamma is mine, it was by my young master that the Dhamma was realized. Just as a great wind when blowing would gather up grass, sticks, leaves, and rubbish, or a mountain-born river would gather up water weeds and scum, so you, in going forth, have been gathered up from various names, various clans, various ancestries, various families. You think *you* are to admonish *me*? It is I who should admonish *you*!”
+
+     - 「你以為\ *你*\ 是來教誡\ *我*\ 的嗎？該教誡\ *你*\ 的應該是我！佛是我的，法是我的，法是由我少師證悟的。就如大風吹來，會聚起草木、樹葉、垃圾，山中的河流會聚起水草和浮渣，你們出家，是來自不同的名字、不同的宗族、不同的血統、不同的家庭被聚集起來的。你以為\ *你*\ 是來教誡\ *我*\ 的？是我該教誡\ *你*\ 的！
+
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _《僧殘》八: #Sg8
+.. _《中部》15經: https://sutra.mobi/chilin/zhong/content/015.html
+.. _54: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
+.. _五四: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
+.. TODO FIXME: replace link to 五四
+.. _71: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc71
+.. _七一: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc71
+.. TODO FIXME: replace link to 七一
 
 (未完待續)
