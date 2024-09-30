@@ -2747,9 +2747,24 @@
 
      - 闡陀尊者體現了其中相當多的特徵——根據傳統，是佛陀在偉大出家之夜的騎手——出現在\ `《波逸提》十二`_\ 、\ `五四`_\ 和\ `七一`_\ 的起源故事中，尤其是本戒條的起源故事中。
 
-   * - “You think *you* are to admonish *me*? It is I who should admonish *you*! The Buddha is mine, the Dhamma is mine, it was by my young master that the Dhamma was realized. Just as a great wind when blowing would gather up grass, sticks, leaves, and rubbish, or a mountain-born river would gather up water weeds and scum, so you, in going forth, have been gathered up from various names, various clans, various ancestries, various families. You think *you* are to admonish *me*? It is I who should admonish *you*!”
+   * - .. container:: mx-2
 
-     - 「你以為\ *你*\ 是來教誡\ *我*\ 的嗎？該教誡\ *你*\ 的應該是我！佛是我的，法是我的，法是由我少師證悟的。就如大風吹來，會聚起草木、樹葉、垃圾，山中的河流會聚起水草和浮渣，你們出家，是來自不同的名字、不同的宗族、不同的血統、不同的家庭被聚集起來的。你以為\ *你*\ 是來教誡\ *我*\ 的？是我該教誡\ *你*\ 的！
+          “You think *you* are to admonish *me*? It is I who should admonish *you*! The Buddha is mine, the Dhamma is mine, it was by my young master that the Dhamma was realized. Just as a great wind when blowing would gather up grass, sticks, leaves, and rubbish, or a mountain-born river would gather up water weeds and scum, so you, in going forth, have been gathered up from various names, various clans, various ancestries, various families. You think *you* are to admonish *me*? It is I who should admonish *you*!”
+
+     - .. container:: mx-2
+
+          「你以為\ *你*\ 是來教誡\ *我*\ 的嗎？該教誡\ *你*\ 的應該是我！佛是我的，法是我的，法是由我少師證悟的。就如大風吹來，會聚起草木、樹葉、垃圾，山中的河流會聚起水草和浮渣，你們出家，是來自不同的名字、不同的宗族、不同的血統、不同的家庭被聚集起來的。你以為\ *你*\ 是來教誡\ *我*\ 的？是我該教誡\ *你*\ 的！
+
+   * - The procedures to follow when a bhikkhu is difficult to admonish—reprimanding him in private, admonishing and rebuking him in a formal meeting of the Community—are the same as under `Sg 10`_, beginning with the fact that a bhikkhu who, hearing that Bhikkhu X is being difficult to admonish, incurs a dukkaṭa if he does not reprimand him. The question of perception and the non-offenses are also the same as under that rule. The formula for the rebuke is given in `Appendix VIII`_.
+
+     - 當比丘難以教誡時，應遵循的程序——私下訓斥他，在僧團的正式會議上教誡和訶責他——與\ `《僧殘》十`_\ 中的相同，首先是一個比丘聽到比丘 X 很難教誡，如果不訓斥他，就會犯《突吉羅》。感知和不犯的問題也與該戒條下的相同。\ `附錄八`_\ 給了訶責的公式。
+
+   * - If the bhikkhu difficult to admonish carries on as before, even after incurring the full penalty under this rule, the Community may perform a banishment transaction *(pabbājanīya-kamma)* against him for speaking in dispraise of the Community (`Cv.I.13`_—see `BMC2, Chapter 20`_). If he refuses to see that he has committed this saṅghādisesa offense or to undergo the penalty, the Community may exclude him from participating in the Pāṭimokkha and Invitation ceremonies (`Mv.IV.16.2`_; `Cv.IX.2`_—see `BMC2, Chapters 15`_ and `16 <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16>`__) or suspend him from the entire Saṅgha (`Cv.I.26`_; Cv.I.31—see `BMC2, Chapter 20`_).
+
+     - 如果難以教誡的比丘繼續像以前一樣，即使在根據本戒條受到全額懲罰之後，僧團可以對他進行驅出羯磨\ *（pabbājanīya-kamma）*\ ，因為他發表了誹謗僧團的言論（\ `《小品》.一.13`_-見\ `《佛教修道準則 第二冊》第二十章`_\ ）。如果他拒絕承認自己犯了《僧殘》罪行或接受懲罰，僧團可以禁止他參加《波羅提木叉》和自恣儀式（\ `《大品》.四.16.2`_\ ；\ `《小品》.九.2`_ — 參見\ `《佛教修道準則 第二冊》第十五章`_\ 和\ `第十六章`_\ ）或暫停他在整個僧伽中的資格（\ `《小品》.一.26`_\ ；\ `《小品》.一.31`_\ ——見\ `《佛教修道準則 第二冊》第二十章`_\ ）。
+
+   * - *Summary: To persist—after the third proclamation of a formal rebuke in the Community—in being difficult to admonish is a saṅghādisesa offense.*
+     - *摘要：在僧團中第三次正式訶責羯磨文之後，仍堅持難以教誡是《僧殘》罪。*
 
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _《僧殘》八: #Sg8
@@ -2760,5 +2775,26 @@
 .. _71: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc71
 .. _七一: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc71
 .. TODO FIXME: replace link to 七一
+.. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
+.. _《僧殘》十: #Sg10
+.. _Cv.I.13: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.13.7
+.. _Mv.IV.16.2: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#Mv.IV.16.2
+.. _Cv.IX.2: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.2
+.. _BMC2, Chapters 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. _Cv.I.26: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.26
+.. _《小品》.一.13: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0013a01
+.. _《大品》.四.16.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_004#0227a02
+.. _《小品》.九.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_019#0322a08
+.. _第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
+.. TODO FIXME: replace link to 第十六章
+.. _《小品》.一.26: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0029a10
+.. _《小品》.一.31: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0033a02
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 
 (未完待續)
