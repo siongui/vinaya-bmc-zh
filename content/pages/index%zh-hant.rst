@@ -156,7 +156,7 @@
      - `\　　十二 <{filename}Section0011%zh-hant.rst#Sg12>`__
 
    * - `\　　13 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13>`__
-     - 　　十三
+     - `\　　十三 <{filename}Section0011%zh-hant.rst#Sg13>`__
 
    * - `\　Aniyata <https://www.dhammatalks.org/vinaya/bmc/Section0012.html>`__
      - 　不定

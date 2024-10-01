@@ -1153,8 +1153,7 @@
 .. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
 .. _BMC2, Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
 .. _一系列比丘為尋求墮胎的婦女提供藥物的案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0113a01
-.. _《僧殘》十三: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
-.. TODO FIXME: replace link to 《僧殘》十三
+.. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
 .. _《佛教修道準則 第二冊》第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第五章
 .. _起源故事: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0092a07

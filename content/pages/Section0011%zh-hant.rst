@@ -1400,8 +1400,7 @@
      - *摘要：充當中間人安排未婚男女之間的婚姻、私通或約會是《僧殘》罪。*
 
 .. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
-.. _《僧殘》十三: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
-.. TODO FIXME: replace link to 《僧殘》十三
+.. _《僧殘》十三: #Sg13
 
 
 .. container:: has-text-centered
@@ -2794,6 +2793,36 @@
 .. container:: has-text-centered
 
    \*    \*    \*
+
+
+.. _Sg13:
+
+.. raw:: html
+
+   <span id="Sg13"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **13**
+     - **十三**
+
+   * - .. container:: notification
+
+          *In case a bhikkhu living in dependence on a certain village or town is a corrupter of families, a man of depraved conduct—whose depraved conduct is both seen and heard about, and the families he has corrupted are both seen and heard about—the bhikkhus are to admonish him thus: “You, venerable sir, are a corrupter of families, a man of depraved conduct. Your depraved conduct is both seen and heard about, and the families you have corrupted are both seen and heard about. Leave this monastery, venerable sir. Enough of your staying here.”*
+
+          *And should that bhikkhu, thus admonished by the bhikkhus, say about the bhikkhus, “The bhikkhus are biased through desire, biased through aversion, biased through delusion, biased through fear, in that for this sort of offense they banish some and do not banish others,” the bhikkhus are to admonish him thus: “Do not say that, venerable sir. The bhikkhus are not biased through desire, are not biased through aversion, are not biased through delusion, are not biased through fear. You, venerable sir, are a corrupter of families, a man of depraved conduct. Your depraved conduct is both seen and heard about, and the families you have corrupted are both seen and heard about. Leave this monastery, venerable sir. Enough of your staying here.”*
+
+          *And should that bhikkhu, thus admonished by the bhikkhus, persist as before, the bhikkhus are to rebuke him up to three times for the sake of relinquishing that. If while being rebuked up to three times he relinquishes that, that is good. If he does not relinquish (that), it entails initial and subsequent meetings of the Community.*
+
+     - .. container:: notification
+
+          *如果依附於某個村莊或城鎮而生活的比丘，是一個污家者，一個惡行者——他的惡行是被看見和被聽到的，而他所污的諸家也是被看見和聽見的－－比丘們應如此勸告那個比丘：「尊者，你是污家者，惡行者。你的惡行是有目共睹的，你所污的諸家也是有目共睹的。離開這座寺院，尊者。你在這裡待夠了。」*
+
+          *若該比丘受諸比丘如此訓誡，對諸比丘說：「諸比丘是隨欲者，隨瞋者，隨痴者，隨怖者。對同樣的罪，驅出一些人，而不驅出一些人。」諸比丘應如此勸告那個比丘：「尊者，請不要這樣說。諸比丘不是隨欲者，不是隨瞋者，不是隨痴者，不是隨怖者。尊者，你是污家者、惡行者。你的惡行是被看見和被聽到的，你所污的諸家也是被看見和聽見的。離開這座寺院，尊者。你在這裡待夠了。」*
+
+          *若該比丘受諸比丘如此勸誡，仍堅持如前，諸比丘應訶責他至多三遍，使其放棄。如果當被訶責到三次就放棄了，那很好。如果他不放棄，僧殘。*
 
 
 
