@@ -2740,7 +2740,7 @@
 
    * - The Commentary defines *difficult to admonish* as “impossible to speak to” and adds that a bhikkhu difficult to admonish is one who cannot stand being criticized or who does not mend his ways after his faults are pointed out to him. It quotes from the Anumāna Sutta (MN 15) a list of traits, any one of which makes a bhikkhu difficult to admonish: He has evil desires; exalts himself and degrades others; is easily angered; because of this he harbors ill will, holds a grudge, utters angry words; accused, he throws a tantrum (literally, “explodes”); accused, he is insulting; accused, he returns the accusation; he evades back and forth; he does not respond; he is mean and spiteful; jealous and possessive; scheming and deceitful; stubborn and proud; attached to his own views, obstinate, unable to let them go.
 
-     - 《註釋》將\ *難以教誡*\ 定義為「無法與之交談」，並補充說，難以教誡的比丘是指不能忍受批評或被指出過錯後仍不改正的比丘。它引用了《反思經》（\ `《中部》15經`_\ ）中的一系列特徵，其中任何一個都使比丘難以教誡：他有邪惡的欲望；抬高自己，貶低別人；容易生氣；因此，他懷有惡意，懷恨在心，說出瞋恨的話。被指控時，他會發脾氣（字面意思是「爆炸」）；被指控時，他是侮辱性的；被指控時，他指控回去；他來回躲避；他沒有回應；他很卑鄙、充滿惡意；嫉妒和占有欲強；詭計多端、詭詐多端；固執而驕傲；執著於自己的觀點，固執己見，無法放下。
+     - 《義註》將\ *難以教誡*\ 定義為「無法與之交談」，並補充說，難以教誡的比丘是指不能忍受批評或被指出過錯後仍不改正的比丘。它引用了《反思經》（\ `《中部》15經`_\ ）中的一系列特徵，其中任何一個都使比丘難以教誡：他有邪惡的欲望；抬高自己，貶低別人；容易生氣；因此，他懷有惡意，懷恨在心，說出瞋恨的話。被指控時，他會發脾氣（字面意思是「爆炸」）；被指控時，他是侮辱性的；被指控時，他指控回去；他來回躲避；他沒有回應；他很卑鄙、充滿惡意；嫉妒和占有欲強；詭計多端、詭詐多端；固執而驕傲；執著於自己的觀點，固執己見，無法放下。
 
    * - A fair number of these traits are exemplified by Ven. Channa—according to tradition, the Buddha’s horseman on the night of the great Going Forth—in the origin stories to `Pc 12`_, 54_, and 71_, and especially in the origin story to this rule.
 
@@ -2824,6 +2824,16 @@
 
           *若該比丘受諸比丘如此勸誡，仍堅持如前，諸比丘應訶責他至多三遍，使其放棄。如果當被訶責到三次就放棄了，那很好。如果他不放棄，僧殘。*
 
+   * - A *corrupter of families* is a bhikkhu who—behaving in a demeaning, frivolous, or subservient way—succeeds in ingratiating himself to lay people to the point where they withdraw their support from bhikkhus who are earnest in the practice and give it to those who are more ingratiating instead. This is illustrated in the origin story of this rule, in which the followers of Assaji and Punabbasu (leaders of one faction of the group of six) had thoroughly corrupted the lay people at Kīṭāgiri.
 
+     - *污家者*\是指比丘以貶低、輕浮或恭順的方式行事，成功地討好在家人，以致他們撤回對熱心修行的比丘的支持，轉而給予那些更討好的比丘。本戒條的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0251a11>`__\ 說明了這一點，其中馬師和滿宿（六群中的一個派系的領導人）的追隨者徹底腐蝕了雞咤山邑的俗人。
+
+   * - “Now at that time a certain bhikkhu, having finished his Rains-residence among the people of Kāsi and on his way to Sāvatthī to see the Blessed One, arrived at Kīṭāgiri. Dressing (§) early in the morning, taking his bowl and (outer) robe, he entered Kīṭāgiri for alms: gracious in the way he approached and departed, looked forward and behind, drew in and stretched out (his arm); his eyes downcast, his every movement consummate. People seeing him said, ‘Who is this weakest of weaklings, this dullest of dullards, this most snobbish of snobs? Who, if this one approached (§), would even give him alms? Our masters, the followers of Assaji and Punabbasu, are compliant, genial, pleasing in conversation. They are the first to smile, saying, “Come, you are welcome.” *They* are not snobbish. They are approachable. They are the first to speak. *They* are the ones to whom alms should be given.’”
+
+     - 「爾時，有一位比丘，結束了在迦尸人民中的雨安居，在前往舍衛城去見世尊的路上，到達了雞咤山邑。清晨，他穿好衣服（§），帶著缽和（外）袈裟，進入雞咤山邑托缽：他的接近和離開、向前和向後、收縮和伸出（他的手臂）的方式都整齊端莊；他的目光低垂，他的每一個動作都完美無缺。人們看到他說：『這個最弱的弱者、這個最遲鈍的笨蛋、這個最勢利的勢利者是誰？如果這個人接近（§），誰還會給他施捨缽食呢？我們的尊者，馬師和滿宿的追隨者，個性溫順、和藹可親、談話愉快。他們最先微笑著說：「來吧，不客氣。」\ *他們*\ 並不勢利。他們平易近人。他們是最先發言的。\ *他們*\ 才是應該施捨缽食的人。』」
+
+   * - The Vibhaṅga lists the ways of corrupting a family as giving gifts of flowers, fruit, etc., practicing medicine, and delivering messages—although the Commentary qualifies this by saying there is no harm in delivering messages related to religious activities, such as inviting bhikkhus to a meal or to deliver a sermon, or in conveying a lay person’s respects to a senior bhikkhu.
+
+     - 《經分別》列出了\ `污家的方式 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0257a13>`__\ ，包括送花、水果等禮物、行醫以及傳遞信息——儘管《義註》對此進行了限定，稱傳遞與宗教活動有關的訊息，例如邀請比丘吃飯或講經，或向年長比丘表達在家人的敬意，並沒有什麼害處。
 
 (未完待續)
