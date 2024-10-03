@@ -2836,4 +2836,53 @@
 
      - 《經分別》列出了\ `污家的方式 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0257a13>`__\ ，包括送花、水果等禮物、行醫以及傳遞信息——儘管《義註》對此進行了限定，稱傳遞與宗教活動有關的訊息，例如邀請比丘吃飯或講經，或向年長比丘表達在家人的敬意，並沒有什麼害處。
 
+   * - *Depraved conduct* the Vibhaṅga defines merely as growing flowers and making them into garlands, but this, the Commentary says, is a shorthand reference to the long list of bad habits mentioned in the origin story, which includes such things as presenting garlands to women, eating from the same dish with them, sharing a blanket with them; eating at the wrong time, drinking intoxicants; wearing garlands, using perfumes and cosmetics; dancing, singing, playing musical instruments, directing musical performances (§); playing games, performing stunts; learning archery, swordsmanship, and horsemanship; boxing and wrestling. (For the full list, see `BMC2, Chapter 10`_.) Any one of these actions taken in isolation carries only a minor penalty—a dukkaṭa or a pācittiya (see `Cv.V.36`_)—but if indulged in habitually to the point where its bad influence becomes “seen and heard about,” i.e., common knowledge, it can become grounds for the offender’s fellow bhikkhus to banish him from their particular Community until he mends his ways.
+
+     - 《經分別》將\ *惡行*\ `僅僅定義為種植鮮花並將其製成花環 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0258a02>`__\ ，但《義註》說，這是對\ `起源故事中提到的一長串壞習慣 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0251a11>`__\ 的速記，其中包括像向女人贈送花環、和他們吃同一道菜、與他們共用一條毯子；在錯誤的時間進食、飲酒；戴花環、使用香水和化妝品；跳舞、唱歌、演奏樂器、指揮音樂表演 (§)；玩遊戲、表演特技；學習射箭、劍術、馬術；拳擊和摔角。（完整列表，請參見\ `《佛教修道準則 第二冊》第十章`_\ 。）單獨採取的任何一項行為都只會帶來輕微的懲罰——《突吉羅》或《波逸提》（參見\ `《小品》.五.36`_\ ）——但如果習慣性地沉迷到當它的不良影響變得「被看到和聽到」這樣的程度，即眾所周知時，它可以成為犯戒者的比丘同儕將他驅逐出他們的特定僧團的理由，直到他改過自新。
+
+   * - The Cullavagga, in a section that begins with the same origin story as the one for this rule (`Cv.I.13-16`_), treats the banishment transaction in full detail, saying that a Community of bhikkhus, if it sees fit, has the authority to perform a banishment transaction against a bhikkhu with any of the following qualities:
+
+     - 《小品》在以與本戒條（\ `《小品》.一.13-16`_\ ）相同的起源故事開頭的部分中，詳細討論了驅出羯磨，稱比丘僧團如果認為合適，可以對具有下列特點之一的比丘進行驅出羯磨的權力：
+
+   * - 1\) He is a maker of strife, disputes, quarrels, and issues in the Community.
+     - 1）他是僧團中衝突、爭端、爭吵和問題的製造者。
+
+   * - 2\) He is inexperienced, incompetent, and indiscriminately full of offenses (§).
+     - 2）他缺乏經驗，無能，並且任意地充滿犯戒（§）。
+
+   * - 3\) He lives in unbecoming association with householders.
+     - 3）他與居士生活在不恰當的交往中。
+
+   * - 4\) He is defective in his virtue, conduct, or views.
+     - 4）他的戒行、行為或觀點有缺陷。
+
+   * - 5\) He speaks in dispraise of the Buddha, Dhamma, or Saṅgha.
+     - 5）他誹謗佛、法、僧。
+
+   * - 6\) He is frivolous in word, deed, or both.
+     - 6）他在言語、行為或兩者上都很輕率。
+
+   * - 7\) He misbehaves in word, deed, or both.
+     - 7）他在言語、行為或兩者上都有不當。
+
+   * - 8\) He is vindictive in word, deed, or both.
+     - 8）他在言語、行為或兩者上都懷有報復心理。
+
+   * - 9\) He practices wrong modes of livelihood.
+     - 9）他行\ `邪命 <https://www.google.com/search?q=%E9%82%AA%E5%91%BD>`__\ 。
+
+   * - This last category includes such practices as:
+     - 最後一類包括以下做法：
+
+   * - a\) running messages and errands for kings, ministers of state, householders, etc. A modern example would be participating in political campaigns.
+     - a）為國王、國務大臣、戶主等傳遞訊息和辦事。一個現代的例子是參加政治競選。
+
+.. _BMC2, Chapter 10: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
+.. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
+.. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
+.. _《佛教修道準則 第二冊》第十章: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十章
+.. _Cv.I.13-16: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.13.7
+.. _《小品》.一.13-16: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0013a01
+
 (未完待續)
