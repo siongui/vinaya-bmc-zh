@@ -2877,6 +2877,25 @@
    * - a\) running messages and errands for kings, ministers of state, householders, etc. A modern example would be participating in political campaigns.
      - a）為國王、國務大臣、戶主等傳遞訊息和辦事。一個現代的例子是參加政治競選。
 
+   * - b\) scheming, talking, hinting, belittling others for the sake of material gain, pursuing gain with gain (giving items of small value in hopes of receiving items of larger value in return, making investments in hopes of profit, offering material incentives to those who make donations). (For a full discussion of these practices, see Visuddhimagga I.61-82.)
+
+     - b）為了物質利益而算計、言談、暗示、貶低他人、以利取利（給予小價值的物品，希望得到大價值的回報、進行投資以獲利、對捐贈者給予物質獎勵）。（有關這些修行的完整討論，請參閱\ `《清淨道論》一.61-82`_\ 。）
+
+   * - c\) Practicing worldly arts, e.g., medicine, fortune telling, astrology, exorcism, reciting charms, casting spells, performing ceremonies to counteract the influence of the stars, determining propitious sites, setting auspicious dates (for weddings, etc.), interpreting oracles, auguries, or dreams, or—in the words of the Vibhaṅga to the the bhikkhunīs’ `Pc 49 <https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part5>`__ & `50 <https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part5>`__\—engaging in any art that is “external and unconnected with the goal.” The Cullavagga (V.33.2) imposes a dukkaṭa on studying and teaching worldly arts or hedonist doctrines *(lokāyata)*. (For extensive lists of worldly arts, see the passage from `DN 2`_ quoted in `BMC2, Chapter 10`_. For the connection between lokāyata and hedonism (e.g., the Kāma Sūtra), see Warder, *Outline of Indian Philosophy*, pp. 38-39.)
+
+     - c）從事世俗技藝，例如醫學、算命、占星、驅魔、念咒、施咒、舉行儀式以抵消星象的影響、確定吉利地點、設定吉日（婚禮等）、解釋神諭、占卜、夢境，或者——用《經分別》對比丘尼的\ `《波逸提》四九 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0424a06>`__\ 和\ `五十 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0425a06>`__\ 的話來說——從事任何「外在的、與目標無關的」技藝。\ `《小品》（五.33.2）`_\ 對學習和教授世俗技藝或享樂主義教義\ *（lokāyata）*\ 施加了《突吉羅》。（有關世俗技藝的詳細列表，請參閱\ `《佛教修道準則 第二冊》第十章`_\ 中引用的\ `《長部》2經`_\ 中的段落。有關 lokāyata 與享樂主義（例如\ `《欲經》`_\ ）之間的聯繫，請參閱渥德爾，\ *《印度哲學大綱》*\ ，第38-39頁。
+
+   * - A bhikkhu banished for indulging in any of these activities is duty-bound to undergo the observances listed in `Cv.I.15`_ (see `BMC2, Chapter 20`_) and to mend his ways so that the Community will revoke the banishment transaction.
+
+     - 因沉迷於任何這些活動而被驅出的比丘有義務遵守\ `《小品》.一.15`_\ 中列出的正行（見\ `《佛教修道準則 第二冊》第二十章`_\ ）並改正自己的行為，以便僧團撤銷驅出羯磨。
+
+   * - Two of those duties are that he not criticize the act of banishment or those who performed it. If he does not observe either of those two, he is subject to this rule. The procedure to follow in dealing with him—reprimanding him in private, admonishing and rebuking him in a formal meeting of the Community—is the same as under `Sg 10`_, beginning with the fact that a bhikkhu who, hearing that Bhikkhu X is criticizing the act of banishment, incurs a dukkaṭa if he does not reprimand X. The question of perception and the non-offenses are also the same as under that rule. The formula for the rebuke is given in `Appendix VIII`_. As with the preceding three rules, if the offender does not respond to the rebuke or recognize that he has a saṅghādisesa offense for which he must make amends, the Community would then have grounds to suspend him as well.
+
+     - 其中兩項職責是他不得批評驅出行為或執行該行為的人。如果他不遵守這兩條規則中的任何一條，他就受本戒條的約束。處理他所遵循的程序——私下斥責他，在僧團的正式會議上教誡和訶責他——與\ `《僧殘》十`_\ 中的相同，首先是一位比丘聽到比丘 X 批評驅出行為，如果他不斥責 X ，就會犯《突吉羅》。感知和不犯問題也與該戒條下的相同。\ `附錄八`_\ 給了訶責的公式。與前三條戒條一樣，如果犯戒者沒有對訶責作出回應，或者沒有認識到他有必須改正的《僧殘》罪，那麼僧團也有理由舉罪他。
+
+   * - *Summary: To persist—after the third proclamation of a formal rebuke in the Community—in criticizing a banishment transaction performed against oneself is a saṅghādisesa offense.*
+     - *摘要：在僧團中第三次正式訶責羯磨文之後，仍堅持批評針對自己進行的驅出羯磨是《僧殘》罪。*
+
 .. _BMC2, Chapter 10: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
 .. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
 .. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
@@ -2884,5 +2903,18 @@
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十章
 .. _Cv.I.13-16: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.13.7
 .. _《小品》.一.13-16: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0013a01
+.. _《清淨道論》一.61-82: https://tripitaka.cbeta.org/mobile/index.php?index=N67n0035_001#0037a06
+.. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
+.. _《長部》2經: https://sutra.mobi/chilin/chang/content/02.html
+.. _《小品》（五.33.2）: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0186a08
+.. _《欲經》: https://zh.wikipedia.org/wiki/%E6%AC%B2%E7%BB%8F
+.. _Cv.I.15: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.15
+.. _《小品》.一.15: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0018a10
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
