@@ -2917,4 +2917,54 @@
    \*    \*    \*
 
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - A bhikkhu who commits any one of these thirteen saṅghādisesa offenses is duty-bound to inform a fellow bhikkhu and to ask a Community of at least four bhikkhus to impose a six-day period of penance *(mānatta)* on him. (The Canon says, literally, a six-night period: At the time of the Buddha, the lunar calendar was in use and, just as we using the solar calendar count the passage of days, they counted the passage of nights; a 24-hour period, which is a day for us, would be a night for them, as in the Bhaddekaratta Sutta (`MN 131`_), where the Buddha explicitly says that a person who spends a day and night in earnest practice has had an “auspicious night.”)
+
+     - 犯了這十三種《僧殘》罪行中的任何一種的比丘，有義務通知一位同儕比丘，並要求至少由四名比丘組成的僧團對其實施六天的\ `贖罪(摩那埵)`_\ *（mānatta）*\ 。（《聖典》中，字面意思是六夜：在佛陀時代，使用陰曆，就像我們用陽曆計算白天的流逝一樣，他們計算夜晚的流逝；一個24小時的週期，對我們來說是一天，對他們來說就是一夜，正如在《一夜賢者經》（\ `《中部》131經`_\ ）中，佛陀明確表示，一個人花上一天一夜的時間認真修行，就獲得了「吉祥之夜」。
+
+.. _MN 131: https://www.dhammatalks.org/suttas/MN/MN131.html
+.. _《中部》131經: https://sutra.mobi/chilin/zhong/content/131.html
+.. _贖罪(摩那埵): https://www.google.com/search?q=%E6%91%A9%E9%82%A3%E5%9F%B5
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Penance**
+     - **贖罪(摩那埵)**
+
+   * - Penance does not begin immediately, but only at the convenience of the Community giving it. During his period of penance, the offender is partially stripped of seniority and must observe 94 restrictions (`Cv.II.5-6`_), discussed in detail in `BMC2, Chapter 19`_. The four most important are:
+
+     - 摩那埵不會立即開始，而是在僧團方便時才開始。在摩那埵期間，犯戒者將被部分剝奪戒臘，並且必須遵守 94 條限制（\ `《小品》.二.5-6`_\ ），詳細討論見\ `《佛教修道準則 第二冊》第十九章`_\ 。最重要的四個是：
+
+   * - 1\) He must not live under the same roof as a regular bhikkhu.
+     - 1）他不得與正規比丘住在同一屋簷下。
+
+   * - 2\) He must live in a monastery with at least four regular bhikkhus.
+     - 2）他必須居住在至少有四名正規比丘的寺院裡。
+
+   * - 3\) If he goes anyplace outside the monastery, he must be accompanied by four full-fledged bhikkhus unless (a) he is going to escape dangers or (b) he is going to another place where there are regular bhikkhus of the same affiliation and he can reach it in one day’s time.
+     - 3）如果他去寺院以外的任何地方，他必須有四名正式比丘陪同，除非 (a) 他要逃離危險，或 (b) 他要去另一個有共同羯磨的正規比丘的地方，並且他一天之內就能到達。
+
+   * - 4\) Every day he must inform all the bhikkhus in the monastery of the fact that he is observing penance and the precise offense for which the penance was imposed. If visiting bhikkhus come to the monastery, he must inform them as well; if he goes to another monastery, he must inform all the bhikkhus there, too.
+     - 4）每天他必須告知寺院裡的所有比丘他正在遵行摩那埵的事實以及實施摩那埵的具體罪行。如果來訪的比丘來到寺院，他也必須通知他們；如果他去另一座寺院，他也必須通知那裡的所有比丘。
+
+   * - If, on any day of his penance, the bhikkhu neglects to observe any of these four restrictions, that day does not count toward the total of six. In addition, he incurs a dukkaṭa each time he fails to observe any of the 94 restrictions.
+
+     - 如果比丘在摩那埵的任何一天忽略遵守這四種限制中的任何一種，那麼這一天不會計入六天的總數中。此外，每當他不遵守 94 條限制中的任何一條時，他犯《突吉羅》。
+
+   * - Once the bhikkhu has completed his penance, he may ask a Community of at least 20 bhikkhus to give him rehabilitation. Once rehabilitated, he returns to his previous state as a regular bhikkhu in good standing.
+
+     - 一旦比丘完成了他的摩那埵，他可以要求至少有 20 名比丘組成的僧團幫助他出罪清淨。一旦出罪清淨，他就會恢復到以前的狀態，成為一個信譽良好的正規比丘。
+
+.. _Cv.II.5-6: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#Cv.II.5
+.. _BMC2, Chapter 19: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#BMC2chapter19
+.. _《小品》.二.5-6: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_012#0048a05
+.. _《佛教修道準則 第二冊》第十九章: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#BMC2chapter19
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十九章
+
 (未完待續)
