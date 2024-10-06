@@ -2967,4 +2967,74 @@
 .. _《佛教修道準則 第二冊》第十九章: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#BMC2chapter19
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十九章
 
-(未完待續)
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Probation**
+     - **別住(波利婆沙)**
+
+   * - If a bhikkhu who commits a saṅghādisesa offense conceals it from his fellow bhikkhus past dawnrise of the day following the offense, he must observe an additional period of probation *(parivāsa)* for the same number of days as he concealed the offense. Only after he has completed his probation may he then ask for the six-day period of penance.
+
+     - 如果比丘犯了《僧殘》罪，在犯戒當天黎明時分過後對同儕比丘隱瞞此事，他必須行與他隱瞞犯戒相同天數的額外\ `別住(波利婆沙)`_\ *（parivāsa）*\ 。只有在別住結束後，他才可以請求六天的摩那埵。
+
+   * - The Commentary to Cv.III sets the factors of concealment at ten, which may be arranged in five pairs as follows:
+     - `《小品》.三`_\ 的《義註》將隱藏因素設為十種，可排列為五對如下：
+
+   * - 1\) He has committed a saṅghādisesa offense and perceives it as an offense (i.e., this factor is fulfilled even if he thinks it is a lesser offense).
+     - 1）他犯了《僧殘》罪，並將其視為罪行（即，即使他認為這是較輕的罪行，也滿足了此因素）。
+
+   * - 2\) He has not been suspended and perceives that he has not been suspended. (If a bhikkhu has been suspended, he cannot accost other bhikkhus, and thus he cannot tell them until after his suspension has been lifted.)
+     - 2）他沒有被舉罪並且認為他沒有被舉罪。（如果一位比丘被舉罪，他就不能與其他比丘搭話，因此在他的舉罪解除之前他不能告訴他們。）
+
+   * - 3\) There are no obstacles (e.g., a flood, a forest fire, dangerous animals) and he perceives that there are none.
+     - 3）沒有障礙（例如洪水、森林火災、危險動物），而且他認為沒有障礙。
+
+   * - 4\) He is able to inform another bhikkhu (i.e., a fellow bhikkhu suitable to be informed lives in a place that may be reached in that day, one is not too weak or ill to go, etc.) and he perceives that he is able. (According to `Cv.III.34.2`_, going insane after committing the offense (!) would count as “not being able to inform another bhikkhu.”) *A bhikkhu suitable to be informed* means one who is—
+
+     - 4）他能夠告知另一位比丘（即，一位適合被告知的同儕比丘住在當天可以到達的地方，沒有太虛弱或病得不能去，等等），並且他認為他能告知。（根據\ `《小品》.三.34.2`_\ ，犯戒後發狂（！）將被視為「無法通知其他比丘。」）\ *適合被告知的比丘*\ 是指：
+
+   * - a\) of common affiliation,
+     - a）共同羯磨，
+
+   * - b\) in good standing (e.g., not undergoing penance, probation, or suspension himself), and
+     - b）信譽良好（例如，本人沒有行摩那埵、別住或被舉罪），且
+
+   * - c\) not on uncongenial terms with the offender.
+     - c）並未與犯戒者有不友好的的關係。
+
+   * - If any of these factors are lacking, there is no penalty for not informing another bhikkhu that day. For instance, the following cases do not count as concealment:
+     - 如果缺少其中任何一個因素，當天沒有通知其他比丘不會受到懲罰。例如，下列情形不屬於隱瞞行為：
+
+   * - A bhikkhu does not suspect that he has committed an offense and realizes only much later, after reading or hearing about the rules in more detail, that he has incurred a saṅghādisesa.
+     - 比丘並不懷疑自己犯了戒，直到很久以後，在閱讀或聽到更詳細關於該戒條之後，才意識到他已經犯了《僧殘》。
+
+   * - A bhikkhu lives alone in a forest and commits a saṅghādisesa in the middle of the night. Afraid of the snakes or other wild animals he might encounter in the dark, he waits until daylight before going to inform a fellow bhikkhu.
+     - 一位比丘獨自住在森林裡，並在半夜犯了《僧殘》。由於害怕在黑暗中遇到蛇或其他野生動物，他等到天亮才去通知同儕比丘。
+
+   * - A bhikkhu lives alone in a forest, but the only other bhikkhu within one day’s traveling time is a personal enemy who, if he is informed, will use this as an opportunity to smear the offender’s name, so the offender travels another day or two before reaching a congenial bhikkhu whom he informs.
+     - 一位比丘獨自住在森林裡，但在一天的旅行時間內，唯一的另一位比丘是一個仇敵，如果他被告知，他會利用這個機會來抹黑犯戒者的名字，所以犯戒者旅行了一兩天去通知一位友好的比丘。
+
+   * - A bhikkhu intends to tell another bhikkhu before dawn but falls asleep and either wakes up too late or else wakes up in time but remembers his offense only after dawnrise has past.
+     - 一位比丘打算在黎明前告訴另一位比丘，但他睡著了，若非醒得太晚，就是及時醒來，但直到黎明過去才記起他的罪行。
+
+   * - Once all of the first eight factors are complete, though, one must inform another bhikkhu before dawn of the next day or else incur a dukkaṭa and undergo the penalty for concealment.
+     - 然而，一旦前八個因素全部完備後，必須在第二天黎明之前通知另一位比丘，否則會犯《突吉羅》並受到隱瞞罪行的懲罰。
+
+   * - A bhikkhu who commits a lesser offense that he thinks is a saṅghādisesa and then conceals it, incurs a dukkaṭa (`Cv.III.34.1`_).
+     - 比丘犯下較輕的罪行，但他認為是《僧殘》，然後隱瞞它，犯《突吉羅》（\ `《小品》.三.34.1`_\ ）。
+
+   * - The restrictions for a bhikkhu undergoing probation—and the other possible steps in the rehabilitation process—are similar to those for one undergoing penance and are discussed in detail in `BMC2, Chapter 19`_.
+     - 對接受別住的比丘的限制——以及出罪清淨過程中其他可能的步驟——與對接受摩那埵的比丘的限制相似，並在\ `《佛教修道準則 第二冊》第十九章`_\ 中詳細討論。
+
+   * - Saṅghādisesas are classified as heavy offenses *(garukāpatti)*, both because of the seriousness of the offenses themselves and because the procedures of penance, probation, and rehabilitation are burdensome by design, not only for the offender but also for the Community of bhikkhus in which he lives—a fact intended to act as added deterrent to anyone who feels tempted to transgress.
+
+     - 《僧殘》被列為重罪\ *（garukāpatti）*\ ，既因為罪行本身的嚴重性，也因為摩那埵、別住和出罪清淨的程序在設計上是繁重的，不僅對犯戒者來說，而且對他所在的比丘僧團來說也是如此——這一事實意圖對任何想要犯戒的人起到額外的威懾作用。。
+
+.. _別住(波利婆沙): https://www.google.com/search?q=%E5%88%A5%E4%BD%8F(%E6%B3%A2%E5%88%A9%E5%A9%86%E6%B2%99)
+.. _《小品》.三: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_013
+.. _Cv.III.34.2: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#Cv.III.34.2
+.. _《小品》.三.34.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_013#0093a12
+.. _Cv.III.34.1: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#Cv.III.34.1
+.. _《小品》.三.34.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_013#0093a01
