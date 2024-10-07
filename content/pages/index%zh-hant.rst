@@ -162,7 +162,7 @@
      - `\　不定 <{filename}Section0012%zh-hant.rst>`__
 
    * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay1>`__
-     - 　　一
+     - `\　　一 <{filename}Section0012%zh-hant.rst#Ay1>`__
 
    * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay2>`__
      - 　　二
