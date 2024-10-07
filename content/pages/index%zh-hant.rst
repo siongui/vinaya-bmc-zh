@@ -159,7 +159,7 @@
      - `\　　十三 <{filename}Section0011%zh-hant.rst#Sg13>`__
 
    * - `\　Aniyata <https://www.dhammatalks.org/vinaya/bmc/Section0012.html>`__
-     - 　不定
+     - `\　不定 <{filename}Section0012%zh-hant.rst>`__
 
    * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay1>`__
      - 　　一
