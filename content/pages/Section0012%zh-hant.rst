@@ -65,6 +65,17 @@
 
      - 然而，\ `《經分別》規定，他們只能根據他承認的行為來處理他 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_003#0265a14>`_\ 。《義註》對此沒有提供任何解釋，只是說，在不確定的情況下，事情並不總是像看上去的那樣，並引用了一位阿羅漢的故事作為例子，他被另一位比丘錯誤地指控違反了\ `《波逸提》四四`_\ 。
 
+   * - Actually, the Vibhaṅga in departing from the wording of the rule is simply following the general guidelines given in `As 4`_ and the Khandhakas for handling accusations. Apparently what happened was that this rule and the following one were formulated early on. Then `As 4`_—the principle of imposing an offense on a bhikkhu only in line with what he admits to having done—was formulated. This left a conflict. Which was to take precedence: these Ay rules, or `As 4`_? Later still, when the general guidelines were formulated for dealing with accusations, some group-of-six bhikkhus abused the system to impose penalties on innocent bhikkhus they didn’t like (`Mv.IX.3.1`_), so the Buddha formulated a number of checks to prevent the system from working against the innocent. One of those checks, in effect, was to give precedence to `As 4`_, a decision that the Vibhaṅga is following here.
+
+     - 事實上，《經分別》偏離戒條的措辭只是遵循\ `《滅諍》四`_\ 和《犍度》中給出的處理指控的一般準則。顯然，本戒條和下一條戒條是很早就制定的。然後制定了\ `《滅諍》四`_\ ——僅根據比丘承認的行為來對他施加罪行的原則。這就留下了衝突。哪個優先：這些《不定》戒條，還是\ `《滅諍》四`_\ ？再後來，當制定處理指控的一般準則時，一些六群比丘濫用這一制度，對他們不喜歡的無辜比丘施加懲罰（\ `《大品》.九.3.1`_\ ），因此佛陀制定了一些檢查以防止系統對無辜者起作用。實際上，其中一項檢查是優先考慮\ `《滅諍》四`_\ ，這是《經分別》在此遵循的決定。
+
+   * - We will cover the guidelines in detail under the adhikaraṇa-samatha rules in `Chapter 11`_, but here we may note a few of their more important features.
+     - 我們將在\ `第十一章`_\ 中詳細介紹滅諍戒條下的指南，但在這裡我們可以注意到它們的一些更重要的特徵。
+
+   * - If Bhikkhu X wants to charge Bhikkhu Y with an offense, he must first meet privately with Y, as explained under `Sg 8`_. If the issue cannot be settled privately in this way, then it has to go to a formal meeting of the Community. Once the case reaches this stage, one of only three verdicts can settle it: that the accused is innocent, that he was insane at the time he committed the offense (and so absolved of guilt), or that he is not only guilty as charged but—for having dragged out his confession to this point—also deserves a further-punishment transaction (`Cv.IV.14.27-29`_), which is the same as a censure transaction (Cv.IV.11-12).
+
+     - 如果比丘 X 想要指控比丘 Y 犯戒，他必須先與 Y 私下會面，如\ `《僧殘》八`_\ 所述。如果問題不能以這種方式私下解決，則必須提交僧團正式會議。一旦案件到達此階段，只有三個判決之一可以解決這個問題：被指控者無罪，他在犯戒時精神錯亂（因此無罪），或者他不僅有罪，而且，由於他的坦承拖延到了這個地步，他還應該受到罪處所(覓罪相)羯磨（\ `《小品》.四.14.27-29`_\ ），這與訶責羯磨（\ `《小品》.四.11-12`_\ ）相同。
+
 .. _Pc 44: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
@@ -72,5 +83,18 @@
 .. TODO FIXME: replace link to 《波逸提》四四
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
 .. _《僧殘》一: {filename}Section0011%zh-hant.rst#Sg1
+.. _As 4: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As4
+.. _Mv.IX.3.1: https://www.dhammatalks.org/vinaya/Mv/MvIX.html#pts3_1
+.. _《滅諍》四: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As4
+.. TODO FIXME: replace link to 《滅諍》四
+.. _《大品》.九.3.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_009#0410a01
+.. _Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
+.. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
+.. TODO FIXME: replace link to 第十一章
+.. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. _Cv.IV.14.27-29: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.27
+.. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
+.. _《小品》.四.14.27-29: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0134a10
+.. _《小品》.四.11-12: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0115a09
 
 (未完待續)
