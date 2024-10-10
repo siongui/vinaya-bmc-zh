@@ -76,6 +76,18 @@
 
      - 如果比丘 X 想要指控比丘 Y 犯戒，他必須先與 Y 私下會面，如\ `《僧殘》八`_\ 所述。如果問題不能以這種方式私下解決，則必須提交僧團正式會議。一旦案件到達此階段，只有三個判決之一可以解決這個問題：被指控者無罪，他在犯戒時精神錯亂（因此無罪），或者他不僅有罪，而且，由於他的坦承拖延到了這個地步，他還應該受到罪處所(覓罪相)羯磨（\ `《小品》.四.14.27-29`_\ ），這與訶責羯磨（\ `《小品》.四.11-12`_\ ）相同。
 
+   * - When the Community meets, both the accused and the accuser must be present, and both must agree to the case’s being heard by that particular group. (If the original accuser is a lay person, one of the bhikkhus is to take up the charge.) The accused is then asked to state his version of the story and is to be dealt with in accordance with what he admits to having done (`Mv.IX.6.1-4`_). `Cv.IV.14.29`_ shows that the other bhikkhus are not to take his first statement at face value. They should press and cross-examine him until they are all satisfied that he is telling the truth, and only then may they pass one of the three verdicts mentioned above.
+
+     - 當僧團開會時，被指控者和指控者都必須出席，並且雙方都必須同意該案件由該特定群體審理。（如果原告是在家人，則由一名比丘承擔指控。）然後，被指控者被要求陳述他的故事版本，並根據他承認的行為進行處理（\ `《大品》.九.6.1-4`_\ ）。\ `《小品》.四.14.29`_\ 顯示其他比丘不要相信他的最先陳述的表面價值。他們應該對他進行追問和盤問，直到他們都確信他說的是實話，然後才能通過上述三個判決之一。
+
+   * - If necessary, they should be prepared to spend many hours in the meeting to arrive at a unanimous decision, for if they cannot come to a unanimous agreement, the case has to be left as unsettled, which is a very bad question mark to leave hovering over the communal life. The Commentary to `Sg 8`_ suggests that if one side or the other seems unreasonably stubborn, the senior bhikkhus should lead the group in long periods of chanting to wear down the stubborn side.
+
+     - 如果有必要，他們應該準備好在會議上花很多時間來達成一致決定，因為如果他們不能達成一致意見，案件就只能懸而未決，在僧團生活中留下一個非常糟糕的問號。\ `《僧殘》八`_\ 的《義註》建議，如果一方或另一方看起來不合理地頑固，資深比丘應該帶領團體長時間念誦，以磨滅頑固的一方。
+
+   * - If, in the course of the interrogation, Y admits to an action that constitutes an offense but he refuses to see it as an offense (`Mv.IX.1.3`_; Cv.XI.1.10), the case is not settled. However, this much of an admission allows the Community, if it sees fit, to suspend him from the Saṅgha at large (see `BMC2, Chapter 20`_) until he sees the error of his ways and is willing to undergo the penalty for the offense.
+
+     - 如果在審訊過程中，Y 承認構成犯戒的行為，但他拒絕將其視為犯戒（\ `《大品》.九.1.3`_\ ；\ `《小品》.十一.1.10`_\ ），則案件未結案。然而，如此多的承認允許僧團在認為合適的情況下在整個僧伽中舉罪他（參見\ `《佛教修道準則 第二冊》第二十章`_\ ），直到他看到自己的錯誤並願意接受犯戒的懲罰。
+
 .. _Pc 44: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
@@ -96,5 +108,15 @@
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
 .. _《小品》.四.14.27-29: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0134a10
 .. _《小品》.四.11-12: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0115a09
+.. _Mv.IX.6.1-4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.IX.6.3
+.. _Cv.IV.14.29: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.29
+.. _《大品》.九.6.1-4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_009#0420a13
+.. _《小品》.四.14.29: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0136a09
+.. _Mv.IX.1.3: https://www.dhammatalks.org/vinaya/Mv/MvIX.html#pts1_3
+.. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. _《大品》.九.1.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_009#0406a01
+.. _《小品》.十一.1.10: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_021#0386a07
+.. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
 
 (未完待續)
