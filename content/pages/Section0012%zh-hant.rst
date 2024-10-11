@@ -88,6 +88,25 @@
 
      - 如果在審訊過程中，Y 承認構成犯戒的行為，但他拒絕將其視為犯戒（\ `《大品》.九.1.3`_\ ；\ `《小品》.十一.1.10`_\ ），則案件未結案。然而，如此多的承認允許僧團在認為合適的情況下在整個僧伽中舉罪他（參見\ `《佛教修道準則 第二冊》第二十章`_\ ），直到他看到自己的錯誤並願意接受犯戒的懲罰。
 
+   * - If, as a result of the formal meeting, the Community reaches a verdict that is later discovered to be wrong—the accused got away with a plea of innocence when actually guilty, or admitted guilt simply to end the interrogation when actually innocent—the Cullavagga allows the Community to reopen the case and reach a new verdict (`Cv.IV.8`_). If a bhikkhu—learning that a fellow bhikkhu actually was guilty and yet got away with a verdict of innocence—then helps conceal the truth, he is guilty of an offense under `Pc 64`_.
+
+     - 如果僧團正式會議的結果做出的裁決後來被發現是錯誤的——被指控者在實際上有罪時辯稱無罪而逃脫懲罰，或者在實際上無罪時承認有罪只是為了結束審訊——《小品》允許僧團重新審理案件並做出新的裁決（\ `《小品》.四.8`_\ ）。如果一位比丘——得知一位比丘同儕實際上有罪，但卻被判無罪——然後幫助隱瞞真相，那麼他就犯了\ `《波逸提》六四`_\ 的罪行。
+
+   * - Obviously, the main thrust of these guidelines is to prevent an innocent bhikkhu from being unfairly penalized. As for the opposite case—a guilty bhikkhu getting away with no penalty—we should remember that the laws of kamma guarantee that in the long run he is not getting away with anything at all.
+
+     - 顯然，這些指導方針的主要目的是防止無辜的比丘受到不公平的懲罰。至於相反的情況——有罪的比丘逃脫不受懲罰——我們應該記住，業的法則保證從長遠來看，他根本不會逃脫任何懲罰。
+
+   * - These guidelines supersede both aniyata rules except in one important detail: Ordinarily—except on Invitation days (see `BMC2, Chapter 16`_)—if one bhikkhu brings a charge against another either in private or in a formal meeting, he first has to ask leave of the accused, and the accused has the right to deny him leave. However, if the charge is brought by a trustworthy lay follower, then these rules indicate that there is no need to ask or grant leave. One of the bhikkhus must take up the charge, and the accused must respond to it. The fact that the issue has already spread into the lay community means that the Community of bhikkhus must act.
+
+     - 這些指導方針取代了此兩條《不定》戒條，除了一個重要的細節：通常，除了自恣日（見\ `《佛教修道準則 第二冊》第十六章`_\ ）之外，如果一個比丘在私下或在正式會議上對另一個比丘提出指控，他首先必須請求被指控者的許可，被指控者有權拒絕許可。然而，如果指控是由值得信賴的在家弟子提出的，那麼這些戒條表明不需要請求或批准許可。其中一名比丘必須接受指控，而被指控者必須對此做出回應。事實上，這個問題已經蔓延到在家眾，這意味著比丘僧團必須採取行動。
+
+   * - In addition to this point, these rules serve two other important functions:
+     - 除了這一點之外，這些戒條還有另外兩個重要功能：
+
+   * - 1\) They remind the bhikkhus that the Buddha at one point was willing to let the bhikkhus give more weight to the word of a female lay follower than to that of the accused bhikkhu. This in itself, considering the general position of women in Indian society at the time, is remarkable.
+
+     - 1）他們提醒比丘們，佛陀曾經一度願意讓比丘們更重視女性在家弟子的話，而不是被指控的比丘的話。考慮到當時印度社會女性的普遍地位，這本身就很了不起。
+
 .. _Pc 44: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
@@ -118,5 +137,13 @@
 .. _《小品》.十一.1.10: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_021#0386a07
 .. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
+.. _Cv.IV.8: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.8.1
+.. _Pc 64: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
+.. _《小品》.四.8: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0113a06
+.. _《波逸提》六四: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
+.. TODO FIXME: replace link to 《波逸提》六四
+.. _BMC2, Chapter 16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
+.. _《佛教修道準則 第二冊》第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十六章
 
 (未完待續)
