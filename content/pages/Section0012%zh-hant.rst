@@ -107,6 +107,22 @@
 
      - 1）他們提醒比丘們，佛陀曾經一度願意讓比丘們更重視女性在家弟子的話，而不是被指控的比丘的話。考慮到當時印度社會女性的普遍地位，這本身就很了不起。
 
+   * - 2\) As we will see under `Pc 44`_, it is possible under some circumstances—depending on the bhikkhu’s state of mind—to sit alone with a woman in a secluded place without incurring a penalty. Still, a bhikkhu should not blithely take advantage of the exemptions under that rule, for even if his motives are pure, his actions may not appear pure to anyone who comes along and sees him there. These rules serve to remind such a bhikkhu that he could easily be subject to a charge that would lead to a formal meeting of the Community. Even if he were to be declared innocent, the meeting would waste a great deal of time both for himself and for the Community. And in some people’s minds—given the Vibhaṅga’s general rule that he is innocent until proven guilty—there would remain the belief that he was actually guilty and got off with no penalty simply from lack of hard evidence. A bhikkhu would thus be wise to avoid such situations altogether, remembering what Lady Visākhā told Ven. Udāyin in the origin story to this rule:
+
+     - 2）正如我們將在\ `《波逸提》四四`_\ 中看到的，在某些情況下——取決於比丘的心態——與女人單獨坐在僻靜的地方而不受懲罰是可能的。然而，比丘不應該輕率地利用該戒條下的豁免，因為即使他的動機是純潔的，他的行為對於任何走過並在那裡看到他的人來說可能顯得不純潔。這些戒條旨在提醒這樣的比丘，他很容易受到指控，導致僧團召開正式會議。即使他被宣布無罪，這次會議也會對他本人和僧團浪費大量時間。在某些人的心目中，考慮到《經分別》的一般戒條，即在被證明有罪之前他是無辜的，人們仍然相信他實際上有罪，並且僅僅因為缺乏確鑿的證據而沒有受到任何懲罰。因此，比丘應該明智地完全避免這種情況，記住\ `毘舍佉鹿子母在本戒條的起源故事中告訴優陀夷尊者的話 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_003#0263a11>`__\ ：
+
+   * - .. container:: mx-2
+
+          “It is unfitting, venerable sir, and improper, for the master to sit in private, alone with a woman…. Even though the master may not be aiming at that act, cynical people are hard to convince.”
+
+     - .. container:: mx-2
+
+          「大德，大師與一個女人單獨坐在一起，是不合適的，也是不恰當的……。縱然大師並非有意為之，但憤世嫉俗的人卻很難信服。」
+
+   * - *Summary: When a trustworthy female lay follower accuses a bhikkhu of having committed a pārājika, saṅghādisesa, or pācittiya offense while sitting alone with a woman in a private, secluded place, the Community should investigate the charge and deal with the bhikkhu in accordance with whatever he admits to having done.*
+
+     - *摘要：當一位值得信賴的優婆夷指控一名比丘在私密、僻靜的地方與一名女人單獨坐時犯下《波羅夷》、《僧殘》或《波逸提》罪時，僧團應調查該指控，並根據比丘所承認的行為來處理。*
+
 .. _Pc 44: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
@@ -145,5 +161,11 @@
 .. _BMC2, Chapter 16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
 .. _《佛教修道準則 第二冊》第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十六章
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
