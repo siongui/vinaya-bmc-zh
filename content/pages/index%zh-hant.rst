@@ -165,7 +165,7 @@
      - `\　　一 <{filename}Section0012%zh-hant.rst#Ay1>`__
 
    * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay2>`__
-     - 　　二
+     - `\　　二 <{filename}Section0012%zh-hant.rst#Ay2>`__
 
    * - `\　Nissaggiya Pācittiya <https://www.dhammatalks.org/vinaya/bmc/Section0013.html>`__
      - 　尼薩耆波逸提

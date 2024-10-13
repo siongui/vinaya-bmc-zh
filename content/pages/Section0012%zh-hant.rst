@@ -39,7 +39,7 @@
 
      - .. container:: notification
 
-          *如果任何比丘與一名女人私密地單獨坐在足夠（進行性交的）僻靜座位上，以至於一位言詞可信的優婆夷，在見過（他們）之後，可能會描述它構成了以下三種情況任何一種——《波羅夷》、《僧殘》、或《波逸提》——比丘承認坐了（那裡），可以按照三種情況——《波羅夷》、《僧殘》、或《波逸提》——中的任何一種來處理，或者依言詞可信的優婆夷所說來予以處理他。此情況不定。*
+          *如果任何比丘與一名女人私密地單獨坐在足夠（進行性交的）僻靜座位上，以至於一位言詞可信的優婆夷，在見過（他們）之後，可能會描述它構成了以下三種情況任何一種——《波羅夷》、《僧殘》、或《波逸提》——比丘承認坐了（那裡），可以按照三種情況——《波羅夷》、《僧殘》、或《波逸提》——中的任何一種來處理，或者依言詞可信的優婆夷所說來予以處理之。此情況不定。*
 
    * - *Woman* here means a female human being, “even one born that very day, all the more an older one.” *To sit* also includes lying down. Whether the bhikkhu sits down when the woman is already seated, or the woman sits down when he is already seated, or both sit down at the same time, makes no difference here.
 
@@ -121,7 +121,7 @@
 
    * - *Summary: When a trustworthy female lay follower accuses a bhikkhu of having committed a pārājika, saṅghādisesa, or pācittiya offense while sitting alone with a woman in a private, secluded place, the Community should investigate the charge and deal with the bhikkhu in accordance with whatever he admits to having done.*
 
-     - *摘要：當一位值得信賴的優婆夷指控一名比丘在私密、僻靜的地方與一名女人單獨坐時犯下《波羅夷》、《僧殘》或《波逸提》罪時，僧團應調查該指控，並根據比丘所承認的行為來處理。*
+     - *摘要：當一位值得信賴的優婆夷指控一名比丘在私密、僻靜的地方與一名女人單獨坐時犯下《波羅夷》、《僧殘》或《波逸提》罪時，僧團應調查該指控，並根據比丘所承認的行為來處理該比丘。*
 
 .. _Pc 44: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
@@ -168,4 +168,44 @@
    \*    \*    \*
 
 
-(未完待續)
+.. _Ay2:
+
+.. raw:: html
+
+   <span id="Ay2"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **2**
+     - **二**
+
+   * - .. container:: notification
+
+          *In case a seat is not sufficiently secluded to lend itself (to sexual intercourse) but sufficiently so to address lewd words to a woman, should any bhikkhu sit in private, alone with a woman on such a seat, so that a female lay follower whose word can be trusted, having seen (them), might describe it as constituting either of two cases—entailing communal meetings or confession—then the bhikkhu, acknowledging having sat (there), may be dealt with in line with either of the two cases—entailing communal meetings or confession—or he may be dealt with in line with whichever case the female lay follower whose word can be trusted described. This case too is indefinite.*
+
+     - .. container:: notification
+
+          *如果某個座位不夠僻靜，不足以供其（性交）使用，但足以對婦女說出淫穢的話，如果任何比丘單獨與一名女人坐在這樣的座位上，以至於一位言詞可信的優婆夷，見過（他們），可能將其描述為構成兩種情況中的一種——《僧殘》或《波逸提》——然後比丘承認坐過（那裡），可以根據兩種情況中的一種來處理——《僧殘》或《波逸提》——或者依言詞可信的優婆夷所說來予以處理之。此情況也是不定。*
+
+   * - This rule differs from the preceding one mainly in the type of seat it describes—private to the eye and private to the ear, but not secluded. Examples would be an open-air meeting hall or a place out in the open in sight of other people but far enough away from them so that they could not see one wink, etc., or hear what one is saying in a normal voice. Such a place, although inconvenient for committing `Pr 1`_, `Sg 1`_ & 2_, or `Pc 44`_, would be convenient for committing `Sg 3`_ & 4_ or `Pc 45`_. As a result, the term woman under this rule is defined as under those rules: one experienced enough to know what is properly and improperly said, what is lewd and not lewd.
+
+     - 本戒條與前一條戒條的不同之處主要在於它所描述的座位類型——視線私密，聞聲私密，但並不僻靜。例如，露天會議廳或其他人可以看到的露天場所，但距離他們足夠遠，以至於他們看不到眨眼等，也聽不到別人用正常聲音說話。這樣的地方雖然不方便犯\ `《波羅夷》一`_\ 、\ `《僧殘》一`_\ 及\ `二`_\ 、或\ `《波逸提》四四`_\ ，但方便於犯\ `《僧殘》三`_\ 及\ `四`_\ 、或\ `《波逸提》四五`_\ 。因此，本戒條下的「女人」一詞如同那些戒條被定義為：一個有足夠經驗的人，知道什麼是適當的和不適當的言詞，什麼是淫穢和不淫穢。
+
+   * - Otherwise, all explanations for this rule are the same as for the preceding rule.
+     - 此外，本戒條的所有解釋與前一條戒條相同。
+
+   * - *Summary: When a trustworthy female lay follower accuses a bhikkhu of having committed a saṅghādisesa or pācittiya offense while sitting alone with a woman in an unsecluded but private place, the Community should investigate the charge and deal with the bhikkhu in accordance with whatever he admits to having done.*
+
+     - *摘要：當一位值得信賴的優婆夷指控一位比丘在不僻靜但私密的地方與一名女人單獨坐在一起時，犯下《僧殘》或《波逸提》罪行，僧團應該調查該指控，並根據比丘所承認的行為來處理該比丘。*
+
+.. _2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
+.. _Sg 3: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
+.. _4: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4
+.. _Pc 45: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
+.. _二: {filename}Section0011%zh-hant.rst#Sg2
+.. _《僧殘》三: {filename}Section0011%zh-hant.rst#Sg3
+.. _四: {filename}Section0011%zh-hant.rst#Sg4
+.. _《波逸提》四五: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
+.. TODO FIXME: replace link to 《波逸提》四五
