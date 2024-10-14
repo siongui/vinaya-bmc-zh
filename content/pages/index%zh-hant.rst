@@ -168,11 +168,11 @@
      - `\　　二 <{filename}Section0012%zh-hant.rst#Ay2>`__
 
    * - `\　Nissaggiya Pācittiya <https://www.dhammatalks.org/vinaya/bmc/Section0013.html>`__
-     - 　尼薩耆波逸提
+     - `\　尼薩耆波逸提 <{filename}Section0013%zh-hant.rst>`__
        :hidden:`(捨墮)`
 
    * - `\　　One: The Robe-cloth Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP_ChOne>`__
-     - 　　第一 衣品
+     - `\　　第一 衣品 <{filename}Section0013%zh-hant.rst#NP_ChOne>`__
 
    * - `\　　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1>`__
      - 　　　一

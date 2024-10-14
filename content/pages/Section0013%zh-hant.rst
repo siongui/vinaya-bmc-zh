@@ -11,6 +11,36 @@
    :class: is-size-7
 
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - The term *nissaggiya*, used in connection with training rules, means “entailing forfeiture.” Used in connection with articles, it means “to be forfeited.” *Pācittiya* is a word of uncertain etymology. The Parivāra gives a didactic derivation—that it means letting skillful qualities fall away *(patati)* with a deluded mind *(citta)*\—but the term is more likely related to the verb *pacinati* (pp. *pacita*), which means to discern, distinguish, or know.
+
+     - *nissaggiya* 一詞與學處一起使用，意思是「導致捨出」。與物品一起使用時，它的意思是「被捨出」。 *Pācittiya* 是一個字源不確定的字。《附隨》給了一個說教性的推導－它意味著讓善巧的品質隨著迷惑的心\ *（citta）*\ 而消失\ *（patati）*\－但這個術語更可能與動詞 *pacinati* （過去分詞 *pacita* ）相關，意思是辨別、區分、或知道。
+
+   * - Each of the rules in this category involves an item that a bhikkhu has acquired or used wrongly, and that he must forfeit before he may “make the offense known”—confess it—to a fellow bhikkhu, a group of bhikkhus, or to the Community as a whole. This confession is what clears him of the offense. In most cases, the forfeiture is symbolic. After his confession, the offender receives the item in return so that, as a donor’s gift, it does not go to waste. Even under the three rules requiring that the offender give up the item for good, the forfeiture protocols allow for the Community to benefit from the item, again as a way of preserving the donor’s faith.
+
+     - 此類別中的每條戒條都涉及比丘錯誤獲得或使用的物品，並且他必須捨出該物品，然後才能向一位同儕比丘、一群比丘或向整個僧團「坦白罪行」——懺悔之。此坦白懺悔使他洗清了罪行。在大多數情況下，捨出是象徵性的。犯戒者懺悔後，會收到該物品作為回報，這樣，作為施主的布施，它就不會被浪費。即使根據要求犯戒者永久放棄該物品的三項戒條，捨出行儀也允許僧團從該物品中受益，這也是維護施主信心的一種方式。
+
+   * - There are thirty rules in this category, divided into three chapters *(vagga)* of ten rules each.
+     - 此類別有三十條戒條，分為三品\ *（vagga）*\ ，每品十條。
+
+
+.. _NP_ChOne:
+
+.. raw:: html
+
+   <span id="NP_ChOne"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **One: The Robe-cloth Chapter**
+     - **第一 衣品**
+
+
 (未完待續)
 
 
