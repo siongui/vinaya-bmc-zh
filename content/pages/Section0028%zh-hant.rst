@@ -224,8 +224,7 @@
      - 從前面的例子可以推論出伸手可及之處之外的袈裟布料的公式的變化。這兩個返還袈裟的公式適用於所有涉及袈裟或袈裟布料的情況，以下不再贅述。
 
 .. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
-.. _《捨墮》一: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
-.. TODO FIXME: replace link to 《捨墮》一
+.. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
 
 
 .. list-table::

@@ -748,8 +748,7 @@
      - 所有這些源自《義註》的行儀都是非強制的，然而，正如上面所指出的，《經分別》並沒有限制比丘在捨出物品並收到歸還後可以或不可以對物品做什麼。
 
 .. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
-.. _《捨墮》一: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
-.. TODO FIXME: replace link to 《捨墮》一
+.. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
 .. _18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. _一八: #NP18
 

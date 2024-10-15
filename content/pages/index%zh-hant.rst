@@ -175,7 +175,7 @@
      - `\　　第一 衣品 <{filename}Section0013%zh-hant.rst#NP_ChOne>`__
 
    * - `\　　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1>`__
-     - 　　　一
+     - `\　　　一 <{filename}Section0013%zh-hant.rst#NP1>`__
 
    * - `\　　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2>`__
      - 　　　二
