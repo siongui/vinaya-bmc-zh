@@ -114,6 +114,45 @@
 
           「那時，比丘們獲得了額外的袈裟。他們想，『現在我們應該遵循什麼行為準則？』他們把這件事告訴了世尊，（世尊說）『我允許將額外的袈裟布置於共同所有權之下。』」
 
+   * - The offense under this rule involves two factors.
+     - 本戒條下的違犯涉及兩個因素。
+
+   * - *1) Object:* a piece of extra robe-cloth, i.e., a piece of cloth suitable to be made into a robe or other cloth requisite, measuring at least four by eight inches (fingerbreadths), that has not been formally determined for use or placed under shared ownership. This category includes finished requisites as well as simple pieces of cloth, but does not include robe-cloth belonging to the Community.
+
+     - *1）對象：*\一塊額外的袈裟布，即一塊適合製成袈裟或其他布料必需品的布料，尺寸至少為四乘八英寸（指寬），尚未正式決意使用或置於共同所有權之下。此類別包括成品必需品以及單純的布料，但不包括屬於僧團的袈裟布。
+
+   * - *2) Effort:* One keeps it for more than ten days (except during the allowed period) without determining it for use, placing it under shared ownership, abandoning it (giving or throwing it away); and without the cloth’s being lost, destroyed, burnt, snatched away, or taken by someone else on trust within that time.
+
+     - *2）努力：*\儲存十天以上（允許期限內除外）而未決意使用、置於共同所有權之下、放棄（贈送或丟棄）；在此期間，布料沒有丟失、毀壞、燒毀、被搶走或被其他信任的人拿走。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - According to `Mv.VIII.3.1`_, six kinds of cloth are suitable for making into cloth requisites: linen, cotton, silk, wool, jute (§), or hemp (§). The Sub-commentary adds that cloth made of any mixture of hemp with any of the other types of thread would be allowed under “hemp.” Applying the Great Standards, nylon, rayon, and other synthetic fibers would count as suitable as well. Unsuitable materials—such as cloth made of hair, horse-hair, grass, bark, wood-shavings, or antelope hide (and by extension, leather)—do not come under this rule. (For a full list of unsuitable materials, see `Mv.VIII.28`_—`BMC2, Chapter 2`_.) `Mv.VIII.29`_ gives a list of colors—such as black, blue, and crimson—and patterns that are not suitable for robes but that, according to the Commentary, are suitable for things like bed sheets or for linings (inside layers?) in double-layer robes (see `BMC2, Chapter 2`_). Pieces of cloth dyed these colors or printed with these patterns *would* come under this rule.
+
+     - 根據\ `《大品》.八.3.1`_\ ，六種布料適合製作布料必需品：\ `麻布`_\ 、\ `棉花`_\ 、\ `絲綢`_\ 、\ `綿`_\ 、\ `黃麻`_\ （§）或\ `火麻`_\ （§）。《複註》補充說，由\ `火麻`_\ 與任何其他類型的線的任何混合物製成的布料都可以算在「\ `火麻`_\ 」的允許下。應用《四大教示》，\ `尼龍`_\ 、\ `人造絲`_\ 和其他合成纖維也算適合。不適合的材料——例如由頭髮、馬毛、草、樹皮、刨花或羚羊皮（以及延伸而來的皮革）製成的布料——不屬於本戒條的範圍。（有關不適合材料的完整列表，請參閱\ `《大品》.八.28`_ — `《佛教修道準則 第二冊》第二章`_\ 。）\ `《大品》.八.29`_\ 列出了不適合袈裟的顏色（例如黑色、藍色和深紅色）和圖案，但根據《義註》，它適合床單或雙層袈裟的襯裡（內層？）（參見\ `《佛教修道準則 第二冊》第二章`_\ ）。染有這些顏色或印有這些圖案的布料\ *會*\ 受本戒條管轄。
+
+.. _Mv.VIII.3.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.3.1
+.. _Mv.VIII.28: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Mv.VIII.28.1
+.. _BMC2, Chapter 2: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#BMC2chapter2
+.. _Mv.VIII.29: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.29
+.. _《大品》.八.3.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0368a01
+.. _麻布: https://zh.wikipedia.org/wiki/%E9%BA%BB%E5%B8%83
+.. _棉花: https://zh.wikipedia.org/wiki/%E6%A3%89%E8%8A%B1
+.. _絲綢: https://zh.wikipedia.org/wiki/%E4%B8%9D%E7%BB%B8
+.. _綿: https://zh.wikipedia.org/wiki/%E7%B6%BF
+.. _黃麻: https://zh.wikipedia.org/wiki/%E9%BB%84%E9%BA%BB
+.. _火麻: https://zh.wikipedia.org/wiki/%E7%81%AB%E9%BA%BB
+.. _尼龍: https://zh.wikipedia.org/wiki/%E5%B0%BC%E9%BE%99
+.. _人造絲: https://zh.wikipedia.org/wiki/%E5%AB%98%E7%B8%88
+.. _《大品》.八.28: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0395a02
+.. _《佛教修道準則 第二冊》第二章: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#BMC2chapter2
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二章
+.. _《大品》.八.29: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0396a06
 
 (未完待續)
 
