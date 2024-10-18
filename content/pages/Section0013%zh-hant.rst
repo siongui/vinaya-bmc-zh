@@ -136,6 +136,34 @@
 
      - 根據\ `《大品》.八.3.1`_\ ，六種布料適合製作布料必需品：\ `麻布`_\ 、\ `棉花`_\ 、\ `絲綢`_\ 、\ `綿`_\ 、\ `黃麻`_\ （§）或\ `火麻`_\ （§）。《複註》補充說，由\ `火麻`_\ 與任何其他類型的線的任何混合物製成的布料都可以算在「\ `火麻`_\ 」的允許下。應用《四大教示》，\ `尼龍`_\ 、\ `人造絲`_\ 和其他合成纖維也算適合。不適合的材料——例如由頭髮、馬毛、草、樹皮、刨花或羚羊皮（以及延伸而來的皮革）製成的布料——不屬於本戒條的範圍。（有關不適合材料的完整列表，請參閱\ `《大品》.八.28`_ — `《佛教修道準則 第二冊》第二章`_\ 。）\ `《大品》.八.29`_\ 列出了不適合袈裟的顏色（例如黑色、藍色和深紅色）和圖案，但根據《義註》，它適合床單或雙層袈裟的襯裡（內層？）（參見\ `《佛教修道準則 第二冊》第二章`_\ ）。染有這些顏色或印有這些圖案的布料\ *會*\ 受本戒條管轄。
 
+   * - `Mv.VIII.21.1`_ states that if a bhikkhu receives a piece of suitable cloth measuring four by eight fingerbreadths or more but does not yet plan to use it, he may place it under shared ownership *(vikappana)* until he has need for it. Once he decides to make use of the cloth, he must rescind the shared ownership (see `Pc 59`_) before making it into a finished requisite (if it isn’t already). Once it is finished, he may then determine it for use *(adhiṭṭhāna)* or place it under shared ownership again, depending on the nature of the article:
+
+     - `《大品》.八.21.1`_\ 規定，如果比丘收到一塊四乘八指寬或更大的適合的布，但尚未計劃使用它，他可以將其置於共享所有權\ *（vikappana）*\ 之下，直到他需要為止。一旦他決定使用這塊布料，他必須在將其製成成品必需品（如果還沒有）之前取消共享所有權（參見\ `《波逸提》五九`_\ ）。完成後，他可以決意使用它\ *（adhiṭṭhāna）*\ 或再次將其置於共享所有權之下，具體取決於物品的性質：
+
+   * - .. container:: mx-2
+
+          *Each of the three basic robes, handkerchiefs, bed sheets, and the sitting cloth* are to be determined, and may not be placed under shared ownership.
+
+     - .. container:: mx-2
+
+          *三衣中任何一件、手帕、床單、坐布*\ 必須決意，不得置於共享所有權之下。
+
+   * - .. container:: mx-2
+
+          *A rains-bathing cloth* (see `NP 24`_) may be determined for the four months of the rainy season and is to be placed under shared ownership for the remainder of the year.
+
+     - .. container:: mx-2
+
+          *雨浴衣*\ （參見\ `《捨墮》二四`_\ ）可以在雨季四個月內的決意，並在一年中的剩餘時間內置於共享所有權之下。
+
+   * - .. container:: mx-2
+
+          *Other items of cloth* may be determined as “requisite cloths.”
+
+     - .. container:: mx-2
+
+          *其他布料*\可以被決意為「必需布」。
+
 .. _Mv.VIII.3.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.3.1
 .. _Mv.VIII.28: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Mv.VIII.28.1
 .. _BMC2, Chapter 2: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#BMC2chapter2
@@ -153,6 +181,14 @@
 .. _《佛教修道準則 第二冊》第二章: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#BMC2chapter2
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二章
 .. _《大品》.八.29: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0396a06
+.. _Mv.VIII.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.21.1
+.. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
+.. _《大品》.八.21.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0385a09
+.. _《波逸提》五九: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
+.. TODO FIXME: replace link to 《波逸提》五九
+.. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
+.. _《捨墮》二四: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
+.. TODO FIXME: replace link to 《捨墮》二四
 
 (未完待續)
 
