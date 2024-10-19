@@ -164,6 +164,67 @@
 
           *其他布料*\可以被決意為「必需布」。
 
+   * - (The procedures for determining and placing under shared ownership are given in `Appendices IV`_ & V_.)
+     - （決意以及置於共享所有權的程序請參閱\ `附錄四`_\ 和\ `五`_\ 。）
+
+   * - Any cloth made of any of the suitable materials and of the requisite size counts as an extra cloth if—
+     - 由任何適合材料製成且具有所需尺寸的任何布料，如果滿足以下條件，則視為額外布料：
+
+   * - .. container:: mx-2
+
+          it has not been determined for use or placed under shared ownership,
+
+     - .. container:: mx-2
+
+          尚未決意使用或置於共享所有權之下，
+
+   * - .. container:: mx-2
+
+          it has been improperly determined or placed under shared ownership, or
+
+     - .. container:: mx-2
+
+          它被不正確地決意或置於共享所有權之下，或
+
+   * - .. container:: mx-2
+
+          its determination or shared ownership has lapsed.
+
+     - .. container:: mx-2
+
+          其決意或共享所有權已失效。
+
+   * - Many of the cases in which determination and shared ownership lapse also exempt the cloth from this rule: e.g., the owner disrobes or dies, he gives the cloth away, it gets snatched away, destroyed (bitten by things such as termites, says the Commentary), burnt, lost, or someone else takes it on trust. There are a few cases, however, where determination and shared ownership lapse and the cloth *does* fall under this rule. They are—
+
+     - 許多決意和共享所有權失效的情況也使布料不受本戒條的約束：例如，所有者還俗或死亡，他將布料送人，布料被搶走，毀壞（《義註》說，被白蟻等東西咬）、燒毀、遺失或被其他人基於信任拿走。然而，在少數情況下，決意和共享所有權失效，布料\ *確實*\ 屬於本戒條的範圍。他們是——
+
+   * - *Under shared ownership:* The first owner takes the cloth on trust, or the second owner formally rescinds the shared ownership.
+     - *在共享所有權下：*\ 第一個所有者基於信任拿到布料，或第二個所有者正式撤銷共享所有權。
+
+   * - *Under determination:* The owner rescinds the determination, or (if the cloth has been determined as one of the three basic robes) the cloth develops a hole. This latter case comes in the Commentary, which gives precise standards for deciding what kind of hole does and does not make the determination of the robe lapse:
+
+     - *在決意之下：*\ 擁有者撤銷決意，或（如果該布料已被決意為三衣之一）布料出現破洞。後一種情況出現在《義註》中，它給出了確定什麼樣的洞使或不使袈裟失效的精確標準：
+
+   * - .. container:: mx-2
+
+          *1) Size.* The hole has to be a full break (through both layers of cloth, if in the outer robe) at least the size of the nail on one’s little finger. If one or more threads remain across the hole, then the hole makes the determination lapse only if either of the two “halves” divided by the thread(s) is the requisite size.
+
+     - .. container:: mx-2
+
+          *1）尺寸。*\ 洞必須是一個完整的破洞（如果是在\ `僧伽黎`_\ ，則要穿過兩層布），至少要達到小指指甲的大小。如果一個或多個線仍然穿過該洞，則僅當被線劃分的兩個「半部」中的任何一個達到所需尺寸時，該洞才會使決意失效。
+
+   * - .. container:: mx-2
+
+          *2) Location.* On an upper robe or outer robe, the hole has to be at least one span (25 cm.) from the longer side and eight fingerbreadths from the shorter; on a lower robe, at least one span from the longer side and four fingerbreadths from the shorter. Any hole closer to the edge of the robe than these measurements does not make the determination lapse.
+
+     - .. container:: mx-2
+
+          *2）位置。*\ 在\ `郁多羅僧`_\ 或\ `僧伽黎`_\ 上，該洞距離較長邊至少一跨（25公分），距離較短邊至少八指寬；在\ `安陀會`_\ 上，距離較長邊至少一跨，距離較短邊至少四指寬。任何比這些測量值更靠近袈裟邊緣的洞都不會導致決意失效。
+
+   * - Because of these stipulations, the Commentary notes that if one is patching a worn spot—not a hole as defined above—more than the maximum distance away from the edge of one’s robe, the determination lapses if one cuts out the worn spot before applying the patch, but not if one applies the patch before cutting out the worn spot. If the determination lapses, it is an easy matter to re-determine the robe, but one must be mindful to do it within the time span allotted by this rule.
+
+     - 由於這些規定，《義註》指出，如果正在修補磨損的地方（不是上面定義的洞），超過距離袈裟邊緣的最大距離，並且在縫上補丁之前剪掉磨損的地方，則該決意失效。但如果在剪掉磨損的地方之前縫上補丁，則不會。如果決意失效，重新決意袈裟是一件容易的事情，但必須注意在本戒條規定的時間內進行。
+
 .. _Mv.VIII.3.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.3.1
 .. _Mv.VIII.28: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Mv.VIII.28.1
 .. _BMC2, Chapter 2: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#BMC2chapter2
@@ -189,6 +250,15 @@
 .. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
 .. _《捨墮》二四: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
 .. TODO FIXME: replace link to 《捨墮》二四
+.. _Appendices IV: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIV
+.. _V: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
+.. _附錄四: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIV
+.. TODO FIXME: replace link to 附錄四
+.. _五: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
+.. TODO FIXME: replace link to 五
+.. _僧伽黎: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
+.. _郁多羅僧: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
+.. _安陀會: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
 
 (未完待續)
 
