@@ -260,6 +260,39 @@
 .. _郁多羅僧: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
 .. _安陀會: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - According to the Vibhaṅga, if one keeps a piece of extra robe-cloth past the eleventh dawnrise (except when the robe-season privileges are in effect), one commits the full offense under this rule. The Commentary explains this by saying that the dawnrise at the morning of the day on which one receives the cloth, or lets its determination/shared ownership lapse, counts as the first dawn. Thus the eleventh dawnrise would actually be the tenth dawnrise after one receives, etc., the cloth.
+
+     - 根據《經分別》的規定，如果在第十一個黎明\ :small:`[明相]`\ 過後後保留一塊額外的袈裟布（除了當袈裟季節特權\ :small:`[方便利益]`\ 有效時），那麼就完全違犯了本戒條。《義註》解釋說，在收到布料，或使其決意/共享所有權失效的那天早晨的黎明\ :small:`[明相]`\ ，算作第一個黎明\ :small:`[明相]`\ 。因此，第十一次黎明\ :small:`[明相]`\ 實際上是在收到布等等之後的第十次黎明\ :small:`[明相]`\ 。
+
+   * - Because neither the Canon nor the Commentary gives a precise definition of dawn or dawnrise, their exact meaning is a controversial point. The clearest definition of dawnrise—and the one that seems most consistent with the Canon’s use of the term—is in a sub-commentary called the Vinayālaṅkāra, which states that at dawnrise “a red band in the eastern direction and a whiteness in the remaining directions, due to the diffusion of sunlight, can be discerned.” In modern terminology, this corresponds to the onset of civil twilight. This is the definition followed in this book. Further, dawnrise is apparently the moment at which dawn begins, although this is a controversial point. For further discussion, see `Appendix I`_.
+
+     - 因為《聖典》和《義註》都沒有給出黎明或黎明升起的精確定義，所以它們的確切含義是一個有爭議的點。黎明升起最清晰的定義——而且該定義似乎與《聖典》對該術語的使用最一致——出現在名為《律莊嚴》的複註中，其中指出黎明升起時「由於陽光的擴散，可以看出東邊有一條紅色帶，其餘方向則有一條白色帶」。用現代術語來說，這對應於\ `民用曙暮光`_\ 的開始。這就是本書所遵循的定義。此外，黎明升起顯然是黎明開始的時刻，儘管這是一個有爭議的點。進一步討論請參閱\ `附錄一`_\ 。
+
+       .. Vinayālaṅkāra Ṭīkā 《律莊嚴復註》 http://www.dhammarain.org.tw/books/upasaka-memo-santv-2nd.html
+
+   * - `Mv.V.13.13`_ states that if one is informed of a gift of robe-cloth, the counting of the time span does not begin until the cloth has reached one’s hand. The Commentary to that passage insists that this means either when physically coming to one’s possession or when one is informed by the donors that the robe-cloth is with so-and-so or when one is informed by another to the same effect. However, this interpretation seems to directly contradict the passage it is commenting on, which expressly says, “There is no counting of the time span as long as it has not come to his hand”—“his” in this case meaning the bhikkhu’s.
+
+     - `《大品》.五.13.13`_\ 規定，如果某人被告知一件袈裟布的布施，則直到布料到達某人的手時，才開始計算時間跨度。這段落的《義註》堅持認為，這意味著若非當某人實際到手擁有時，不然就是當某人被布施者告知袈裟布與某某人在一起時，或者當某人被另一個人告知同樣的效果時。然而，這種解釋似乎與它所註解的段落直接矛盾，該段落明確表示：「只要它沒有到達他的手中，就不計算時間跨度」——這裡的「他的」指的是比丘的。
+
+   * - Perception is not a mitigating factor here. Even if one miscounts the days or perceives a robe to be determined when it actually is not, one is not immune from the offense. The robe is to be forfeited and the offense confessed.
+
+     - 在這裡，感知並不是減輕處罰的因素。即使算錯了日數，或認為一件袈裟已被決意，而實際上並非如此，也不能倖免於犯戒。袈裟需被捨出，罪行需被懺悔。
+
+.. _Appendix I: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
+.. _民用曙暮光: https://zh.wikipedia.org/wiki/%E6%9B%99%E6%9A%AE%E5%85%89
+.. _附錄一: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
+.. TODO FIXME: replace link to 附錄一
+.. _Mv.V.13.13: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.V.13.13
+.. _《大品》.五.13.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_005#0263a11
+
+
 (未完待續)
 
 
