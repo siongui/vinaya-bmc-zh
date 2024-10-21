@@ -285,12 +285,31 @@
 
      - 在這裡，感知並不是減輕處罰的因素。即使算錯了日數，或認為一件袈裟已被決意，而實際上並非如此，也不能倖免於犯戒。袈裟需被捨出，罪行需被懺悔。
 
+   * - If, before it has been forfeited, one uses a robe or piece of robe-cloth that deserves to be forfeited under this rule, the penalty is a dukkaṭa. This is one of only six nissaggiya pācittiya rules where the Vibhaṅga mentions this penalty—the others are `NP 2`_, `3 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3>`__, `21 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21>`__, `28 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28>`__, & `29 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29>`__\—but the K/Commentary extends the principle to all nissaggiya pācittiya rules: To use an unforfeited item that deserves to be forfeited incurs a dukkaṭa in every case. (We should add, though, that the use of gold or money acquired in defiance of `NP 18`_ or 19_ would carry a nissaggiya pācittiya if used in defiance of `NP 19`_ or 20_.)
+
+     - 如果在被捨出之前，使用了根據本戒條應被沒收的袈裟或袈裟布，則懲罰為《突吉羅》。這是《經分別》中僅有的提到了這種懲罰的六條《捨墮》戒條之一——其他的是\ `《捨墮》二`_\ 、\ `三`_\ 、\ `二一`_\ 、\ `二八`_\ 和\ `二九`_\ ——但K/《義註》將該原則擴展到所有《捨墮》戒條：使用應該被捨出但未捨出的物品在任何情況下，都會犯《突吉羅》。（不過，我們應該補充一點，如果使用違反\ `《捨墮》一八`_\ 或\ `一九`_\ 的規定而獲得的黃金或金錢，則如果用於違反\ `《捨墮》一九`_\ 或\ `二十`_\ 的規定，則將帶來《捨墮》。）
+
+   * - The Vibhaṅga also states that, in the case of an extra robe that has not been kept more than ten days, if one perceives it to have been kept more than ten days or if one is in doubt about it, the penalty is a dukkaṭa. This can be interpreted in one of two ways: There is a dukkaṭa simply in continuing to keep the robe, or a dukkaṭa in using it. The Commentary opts for the second interpretation.
+
+     - 《經分別》還規定，一件額外的袈裟在沒有保存超過十天的情形下，如果認為它已經保存了超過十天或有疑問，則懲罰是《突吉羅》。這可以用以下兩種方式之一來解釋：繼續保留袈裟是《突吉羅》，或者使用它是《突吉羅》。《義註》選擇了第二種解釋。
+
 .. _Appendix I: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
 .. _民用曙暮光: https://zh.wikipedia.org/wiki/%E6%9B%99%E6%9A%AE%E5%85%89
 .. _附錄一: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
 .. TODO FIXME: replace link to 附錄一
 .. _Mv.V.13.13: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.V.13.13
 .. _《大品》.五.13.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_005#0263a11
+.. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
+.. _《捨墮》二: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
+.. TODO FIXME: replace link to 《捨墮》二
+.. _三: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
+.. TODO FIXME: replace link to 《捨墮》三
+.. _二一: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
+.. TODO FIXME: replace link to 《捨墮》二一
+.. _二八: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28
+.. TODO FIXME: replace link to 《捨墮》二八
+.. _二九: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
+.. TODO FIXME: replace link to 《捨墮》二九
 
 
 (未完待續)
