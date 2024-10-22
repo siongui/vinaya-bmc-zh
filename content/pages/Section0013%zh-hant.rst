@@ -311,6 +311,38 @@
 .. _二九: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
 .. TODO FIXME: replace link to 《捨墮》二九
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Robe-season privileges**
+     - **袈裟季節方便利益**
+
+   * - The fourth lunar month of the rainy season—beginning the day after the first full moon in October and lasting to dawnrise of the day following the next full moon—is termed the robe season, a period traditionally devoted to robe-making. In the early days, when most bhikkhus spent the cold and hot seasons wandering, and stayed put in one place only during the Rains-residence, this would have been the ideal period for them to prepare robes for their wandering, and for lay people who had come to know the bhikkhus during the Rains-residence to show their gratitude and respect for them by presenting them with gifts of cloth for this purpose.
+
+     - 陰曆雨季的第四個月的——從十月第一個滿月後的第二天開始，一直持續到下一個滿月日的次日黎明升起——被稱為袈裟季節，這是傳統上專門製作袈裟的時期。早期，大多數比丘在寒熱季節都在遊方，只有在雨安居期間才待在一個地方，此時正是他們為遊方準備袈裟的理想時期，而對於雨安居期間認識比丘的在家人為了表達對比丘的感激和尊敬，為此目的向比丘布施布料。。
+
+   * - During this robe season, five of the training rules—NP 1 & 3; `Pc 32`_, 33_, & 46_\—are relaxed to make it more convenient for the bhikkhus to make robes. Also, any cloth accruing to a particular monastery during this period may be shared only among the bhikkhus who spent the Rains-residence there, and not with any incoming visitors.
+
+     - 在這個袈裟季節，有五個學處－《捨墮》一 以及 三；\ `《波逸提》三二`_\ 、\ `三三`_\ 、\ `四六`_\ －被放寬規定，以便比丘們更方便地製作袈裟。此外，在此期間，特定寺院獲得的任何布料只能與在那裡度過雨安居的比丘們分享，而不能與任何到來的訪客分享。
+
+   * - Under certain circumstances (see `BMC2, Chapter 17`_) bhikkhus who have spent the Rains-residence are also entitled to participate in a *kaṭhina* ceremony in which they receive a gift of cloth from lay people, bestow it on one of their members, and then as a group make it into a robe before dawnrise of the following day. (*Kaṭhina* means frame, and refers to the frame over which the robe-cloth is stretched while sewing it, much like the frame used in America to make a quilt.) After participating in this ceremony, the bhikkhus may extend their robe season for an additional four lunar months, up to the dawn after the full-moon day that ends the cold season in late February or early-to-mid March (called Phagguna in Pali). During this period they may also take advantage of the additional privilege of not having to observe `NP 2`_. However, a bhikkhu’s kaṭhina privileges may be rescinded—and his robe season ended—earlier than that for either of two reasons:
+
+     - 在某些情況下（參見\ `《佛教修道準則 第二冊》第十七章`_\ ），度過雨安居的比丘也有權參加\ `功德衣`_\ :small:`[kaṭhina]`\ 儀式，在儀式中，他們從在家人那裡接受布料的布施，將其贈予其中一位成員，然後在第二天黎明升起前，群體將其製成袈裟。（ *Kaṭhina* 的意思是框架，指的是縫製袈裟布時將其拉伸的框架，很像美國用來製作被子的框架。）參加此儀式後，比丘們可以將他們的袈裟季節延長額外四個陰曆月，直到二月底或三月初至中旬，寒冷季節結束的滿月日之後的黎明（巴利語稱為Phagguna）。在此期間，他們還可以利用不必遵守\ `《捨墮》二`_\ 的額外方便利益\ :small:`[特權]`\ 。然而，比丘的功德衣方便利益可能會在此之前被取消——並且他的袈裟季節結束，出於以下兩個原因之一：
+
+.. _Pc 32: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
+.. _33: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
+.. _46: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
+.. _《波逸提》三二: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
+.. TODO FIXME: replace link to 《波逸提》三二
+.. _三三: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
+.. TODO FIXME: replace link to 三三
+.. _四六: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
+.. TODO FIXME: replace link to 四六
+.. _BMC2, Chapter 17: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
+.. _《佛教修道準則 第二冊》第十七章: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
+.. _功德衣: https://www.google.com/search?q=%E8%BF%A6%E7%B5%BA%E9%82%A3
+
 
 (未完待續)
 
