@@ -330,6 +330,86 @@
 
      - 在某些情況下（參見\ `《佛教修道準則 第二冊》第十七章`_\ ），度過雨安居的比丘也有權參加\ `功德衣`_\ :small:`[kaṭhina]`\ 儀式，在儀式中，他們從在家人那裡接受布料的布施，將其贈予其中一位成員，然後在第二天黎明升起前，群體將其製成袈裟。（ *Kaṭhina* 的意思是框架，指的是縫製袈裟布時將其拉伸的框架，很像美國用來製作被子的框架。）參加此儀式後，比丘們可以將他們的袈裟季節延長額外四個陰曆月，直到二月底或三月初至中旬，寒冷季節結束的滿月日之後的黎明（巴利語稱為Phagguna）。在此期間，他們還可以利用不必遵守\ `《捨墮》二`_\ 的額外方便利益\ :small:`[特權]`\ 。然而，比丘的功德衣方便利益可能會在此之前被取消——並且他的袈裟季節結束，出於以下兩個原因之一：
 
+   * - .. container:: mx-2
+
+          1\) He participates in a meeting in which all the bhikkhus in the monastery, as a Community transaction, voluntarily relinquish their kaṭhina privileges. (This act is discussed under bhikkhunīs’ `Pc 30 <https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part3>`__—see `BMC2, Chapter 17`_ and `Appendix I`_.)
+
+     - .. container:: mx-2
+
+          1）他參加了一次僧團羯磨會議，寺院裡的所有比丘自願放棄他們的功德衣方便利益。（此行為在比丘尼的\ `《波逸提》三十 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0398a07>`__\ 中討論——參見\ `《佛教修道準則 第二冊》第十七章`_\ 和\ `附錄一`_\ 。）
+
+   * - .. container:: mx-2
+
+          2\) He comes to the end both of his constraint with regard to the monastery *(āvāsa-palibodha)* and of his constraint with regard to making a robe *(cīvara-palibodha)*. (See `Mv.VII.1.7`_; `Mv.VII.2`_ & Pv.XIV.6.)
+
+     - .. container:: mx-2
+
+          2）他結束了對寺院\ *（āvāsa-palibodha）*\ 的約束和對製作袈裟\ *（cīvara-palibodha）*\ 的約束。（參見\ `《大品》.七.1.7`_\ ；\ `《大品》.七.2`_\ 和\ `《附隨》.十四.6`_\ 。）
+
+   * - .. container:: mx-4
+
+          a\) A constraint with regard to a monastery ends when either of the following things happens:
+
+     - .. container:: mx-4
+
+          a）當下列任一情況發生時，對寺院的約束結束：
+
+   * - .. container:: mx-6
+
+          —One leaves the monastery without intending to return.
+
+     - .. container:: mx-6
+
+          —離開寺院，不打算再回來。
+
+   * - .. container:: mx-6
+
+          —One has left the monastery, planning to return, but learns that the bhikkhus in the monastery have formally decided to relinquish their kaṭhina privileges.
+
+     - .. container:: mx-6
+
+          —離開寺院，打算返回，卻得知寺院的比丘們已正式決定放棄他們的功德衣方便利益。
+
+   * - .. container:: mx-4
+
+          b\) A constraint with regard to making a robe ends when any of the following occurs:
+
+     - .. container:: mx-4
+
+          b）當下列任一情況發生時，對製作袈裟的約束結束：
+
+   * - .. container:: mx-6
+
+          —One finishes making one’s robe(s).
+
+     - .. container:: mx-6
+
+          —完成了製作自己的袈裟。
+
+   * - .. container:: mx-6
+
+          —One decides not to make a robe.
+
+     - .. container:: mx-6
+
+          —決定不製作袈裟。
+
+   * - .. container:: mx-6
+
+          —One’s robe-cloth gets lost, snatched away, or destroyed.
+
+     - .. container:: mx-6
+
+          —袈裟布遺失、被搶走或被毀壞。
+
+   * - .. container:: mx-6
+
+          —One expects to obtain robe-cloth, but—after not obtaining it as expected—one abandons one’s expectation.
+
+     - .. container:: mx-6
+
+          —期望得到袈裟布，但—在未如期望得到之後—放棄期望。
+
 .. _Pc 32: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
 .. _33: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
 .. _46: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
@@ -342,6 +422,11 @@
 .. _BMC2, Chapter 17: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
 .. _《佛教修道準則 第二冊》第十七章: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
 .. _功德衣: https://www.google.com/search?q=%E8%BF%A6%E7%B5%BA%E9%82%A3
+.. _Mv.VII.1.7: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#Mv.VII.1.7
+.. _Mv.VII.2: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#Mv.VII.2
+.. _《大品》.七.1.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_007#0336a05
+.. _《大品》.七.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_007#0336a08
+.. _《附隨》.十四.6: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_014#0280a02
 
 
 (未完待續)
