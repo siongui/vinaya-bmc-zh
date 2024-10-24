@@ -410,6 +410,14 @@
 
           —期望得到袈裟布，但—在未如期望得到之後—放棄期望。
 
+   * - Only if Point 1 happens, or *both* Points 2a and 2b happen, do one’s kaṭhina privileges lapse before the dawn after the full moon day marking the end of the cold season.
+
+     - 只有當第 1 點發生，或第 2a 點和第 2b 點\ *同時*\ 發生時，功德衣方便利益才會在標誌著寒冷季節結束的滿月日後的黎明之前失效。
+
+   * - During the robe season, one may keep an extra piece of robe-cloth for more than ten days without committing an offense under this rule. Once these privileges lapse, though, one must determine the cloth, place it under shared ownership, or abandon it within ten days. If one fails to do so by the eleventh dawnrise after the privileges lapse, the cloth is to be forfeited and the offense confessed.
+
+     - 在袈裟季節期間，得多留一件袈裟十日以上，不犯本戒條規定。然而，一旦這些方便利益失效，就必須決意這塊布料，將其置於共同所有權之下，或在十天內將其放棄。如果在方便利益失效後的第十一個黎明升起之前未能這樣做，那麼布料將被捨出，並且罪行將被懺悔。
+
 .. _Pc 32: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
 .. _33: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
 .. _46: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
