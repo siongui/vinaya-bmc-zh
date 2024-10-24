@@ -436,6 +436,21 @@
 .. _《大品》.七.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_007#0336a08
 .. _《附隨》.十四.6: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_014#0280a02
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Forfeiture & confession**
+     - **捨出 & 懺罪**
+
+   * - To be absolved of the offense under this rule, one must first forfeit the robe-cloth kept more than ten days and then confess the offense. This may be done in the presence of one other bhikkhu, a group of two or three, or a Community of four or more. After confessing the offense, one receives the robe-cloth in return. This is the pattern followed under all the nissaggiya pācittiya rules except for the few in which forfeiture must be done in the presence of a full Community and under which the article may not be returned to the offender. (We will note these rules as we come to them.)
+
+     - 欲免除本戒條的罪行，須先捨出十日以上的袈裟布，然後懺悔罪行。這可以在另一位比丘在場的情況下進行，也可以是兩比丘或三比丘的團體，或是四比丘或更多比丘的僧團。懺悔罪行後，會收到袈裟布作為回報。這是所有《尼薩耆波逸提》（《捨墮》）戒條所遵循的模式，除了少數戒條外，捨出必須在全體僧團在場的情況下進行，並且物品不得返還給犯戒者。（當我們遇到這些戒條時，我們會談到它們。）
+
+   * - The Pali formulae to use in forfeiture, confession, and return of the article for this and all the following rules are given in `Appendix VI`_. We should note, though, that according to the Commentary one may conduct these procedures in any language at all.
+
+     - `附錄六`_\ 中給出了本戒條以及以下所有戒條用於捨出、懺罪和歸還物品的巴利語公式。但我們應該注意到，根據《義註》，可以用任何語言執行這些程序。
+
 
 (未完待續)
 
