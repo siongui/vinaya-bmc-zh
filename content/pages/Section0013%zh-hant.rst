@@ -451,6 +451,17 @@
 
      - `附錄六`_\ 中給出了本戒條以及以下所有戒條用於捨出、懺罪和歸還物品的巴利語公式。但我們應該注意到，根據《義註》，可以用任何語言執行這些程序。
 
+   * - In this and every other rule under which the article may be returned to the offender, it *must* be returned to him. According to the Vibhaṅga, a bhikkhu who receives the article being forfeited without returning it incurs a dukkaṭa. The Commentary qualifies this by saying that this penalty applies only to the bhikkhu who assumes that, in receiving an article being forfeited in this way, it is his to take as he likes. For the bhikkhu who knows that it is not his to take, the offense is to be treated under `Pr 2`_, with the penalty determined by the value of the article. In passing this judgment, the Commentary is treating the act of accepting the forfeited article as a species of accepting an object placed in safekeeping. However, it has neglected to note that the act of forfeiture is worded in such a way that the offender is actually giving up ownership of the cloth; because the cloth then has no owner, it would not fulfill the factors for an offense under `Pr 2`_. Thus it seems preferable to stick with the Vibhaṅga in saying that, in all cases, a bhikkhu who does not return the article being forfeited incurs a dukkaṭa.
+
+     - 在本戒條以及所有其他可以將物品退還給犯戒者的戒條中，\ *必須*\ 將其退還給他。根據《經分別》，比丘收到被捨出的物品而沒有歸還，犯《突吉羅》。《義註》對此進行了限定，說這種懲罰只適用於比丘認為在收到以這種方式捨出的物品時，該物是他的可以隨心所欲地拿走。對於知道該物品不屬於他的比丘，該犯戒應根據\ `《波羅夷》二`_\ 處理，並根據該物品的價值確定懲罰。在作出這項判決時，《義註》將接受捨出物品的行為視為接受保管物品的一種行為。然而，它忽略了捨出行為的措辭方式，即犯戒者實際上放棄了布料的所有權；因為布料沒有主人，所以它不符合\ `《波羅夷》二`_\ 下的犯戒因素。因此，似乎最好堅持《經分別》的說法，即在所有情況下，不歸還被捨出物品的比丘犯《突吉羅》。
+
+   * - A bhikkhu who has received the robe-cloth in return after forfeiting it and confessing the offense may use it again without penalty, unless he keeps it as a piece of extra robe-cloth beyond ten more dawns. Thus the wise policy is to determine the cloth or place it under shared ownership immediately after receiving it in return.
+
+     - 比丘在捨出袈裟布並懺悔罪行後收到歸還，可以再次使用它而不受懲罰，除非他將其作為額外的袈裟布保留超過十個黎明。因此，明智之舉是在收到歸還後立即決意布料或將其置於共同所有權之下。
+
+.. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
+.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
+
 
 (未完待續)
 
