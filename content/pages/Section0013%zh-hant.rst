@@ -462,6 +462,21 @@
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
 .. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - In addition to the allowance to keep extra robe-cloth more than ten days during the robe season, the Vibhaṅga says that there is no offense if within ten days the cloth is determined, placed under shared ownership, lost, snatched away, destroyed, burnt, taken by someone else on trust, thrown away, or given away.
+
+     - 除了在袈裟季節保留額外袈裟布超過十天的開緣外，《經分別》說，如果在十天內，布料被決意、置於共同所有權之下、遺失、被搶走、毀壞、燒毀，被其他人基於信任拿走、丟棄或被給予出去，則沒有犯戒。
+
+   * - In connection with this last point, the Commentary discusses proper and improper ways of giving things away. The article counts as having been properly given if one says, “I give this to you,” or “I give this to so-and-so,” or “Take this, it’s yours,” but not if one says things like, “Make this yours,” or “May this be yours.” Apparently, if one simply hands the article over without saying anything to show that one is transferring ownership, it again does not count. As we noted above, perception is not a mitigating factor under this rule. If one gives extra robe-cloth away in an improper manner, then even though one may assume that the cloth has been given away it still counts as one’s own extra robe-cloth under this rule.
+
+     - 關於最後一點，《義註》討論了適當和不適當的給予東西的方式。如果有人說「我把這個給你」或「我把這個給某某人」或「拿著這個，它是你的」，那麼該物品就被認為是適當地給出的，但如果有人說這樣的話：「讓它成為你的」或「願這是你的」，則不算是適當地給予的。顯然，如果只是僅僅交出該物品，而沒有說什麼來表明正在轉讓所有權，那麼它就不算數。正如我們上面所指出的，根據本戒條，感知不是減輕懲罰的因素。如果以不適當的方式贈送額外的袈裟布，那麼即使也許認為該布已經被給予出去，但根據本戒條，它仍然算作自己的額外袈裟布。
+
 
 (未完待續)
 
