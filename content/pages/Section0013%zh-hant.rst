@@ -477,6 +477,28 @@
 
      - 關於最後一點，《義註》討論了適當和不適當的給予東西的方式。如果有人說「我把這個給你」或「我把這個給某某人」或「拿著這個，它是你的」，那麼該物品就被認為是適當地給出的，但如果有人說這樣的話：「讓它成為你的」或「願這是你的」，則不算是適當地給予的。顯然，如果只是僅僅交出該物品，而沒有說什麼來表明正在轉讓所有權，那麼它就不算數。正如我們上面所指出的，根據本戒條，感知不是減輕懲罰的因素。如果以不適當的方式贈送額外的袈裟布，那麼即使也許認為該布已經被給予出去，但根據本戒條，它仍然算作自己的額外袈裟布。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Current practice**
+     - **目前做法**
+
+   * - As the origin story shows, the purpose of this rule was to prevent bhikkhus from having more than one set of the three robes at any one time. With the passage of time, though, gifts of cloth to the Community became more numerous, and the need for stringency in this matter became less and less felt. Exactly when spare robes became accepted is not recorded, although a passage in the pupil’s duties to his preceptor (`Mv.I.25.9`_) shows that the practice of having a spare lower robe was already current when that part of the Canon was compiled (see `Appendix X`_). `Mv.VII.1`_ also mentions a group of wilderness dwelling bhikkhus who were “wearers of the three robes,” as if this were a special distinguishing characteristic. A number of passages in the Canon—including SN 16:8 and `Thag&16:7`_—mention the practice of using only one set of three robes as special, and the Visuddhimagga (5th century C.E.) classes this practice as one of the thirteen optional *dhutaṅga* (ascetic) practices.
+
+     - 正如起源故事所示，本戒條的目的是防止比丘們在任何時候擁有多於一套\ `三衣`_\ 。然而，隨著時間的推移，向僧團布施的布料變得越來越多，越來越感覺不到在這件事上嚴格執行的必要性。備用袈裟被接受的確切時間沒有記錄，儘管弟子對其戒師的義務（\ `《大品》.一.25.9`_\ ）中的一段話表明，在編纂《聖典》的該部分時，擁有備用下衣的做法已經存在（參見\ `附錄十`_\ ）。\ `《大品》.七.1`_\ 也提到一群住在林野的比丘，他們「著三衣」，好像這是一個特殊的顯著特徵。《聖典》中的許多段落（包括\ `《相應部》16:8經`_\ 和《長老偈》&16:7）都提到僅使用一套三衣的修行是特殊的，《清淨道論》（公元五世紀）將這種修行歸為十三種可選的頭陀（\ *dhutaṅga*\ ）行之一。
+
+.. _Mv.I.25.9: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.25.8-24
+.. _Appendix X: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
+.. _Mv.VII.1: https://www.dhammatalks.org/vinaya/Mv/MvVII.html#pts1
+.. _Thag&16\:7: https://www.dhammatalks.org/suttas/KN/Thag/thag16_7.html
+.. _三衣: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
+.. _《大品》.一.25.9: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0063a02
+.. _附錄十: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
+.. TODO FIXME: replace link to 附錄十
+.. _《大品》.七.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_007#0333a03
+.. _《相應部》16\:8經: https://sutra.mobi/chilin/xiangying/content/16.html#%E5%85%AB%E6%95%99%E5%8C%96%E4%B9%8B%E4%B8%89
+
 
 (未完待續)
 
