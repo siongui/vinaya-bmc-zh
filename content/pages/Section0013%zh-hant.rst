@@ -112,18 +112,18 @@
 
      - .. container:: mx-2
 
-          「那時，比丘們獲得了額外的袈裟。他們想，『現在我們應該遵循什麼行為準則？』他們把這件事告訴了世尊，（世尊說）『我允許將額外的袈裟布置於共同所有權之下。』」
+          「那時，比丘們獲得了額外的袈裟。他們想，『現在我們應該遵循什麼行為準則？』他們把這件事告訴了世尊，（世尊說）『我允許將額外的袈裟布置於共享所有權之下。』」
 
    * - The offense under this rule involves two factors.
      - 本戒條下的違犯涉及兩個因素。
 
    * - *1) Object:* a piece of extra robe-cloth, i.e., a piece of cloth suitable to be made into a robe or other cloth requisite, measuring at least four by eight inches (fingerbreadths), that has not been formally determined for use or placed under shared ownership. This category includes finished requisites as well as simple pieces of cloth, but does not include robe-cloth belonging to the Community.
 
-     - *1）對象：*\一塊額外的袈裟布，即一塊適合製成袈裟或其他布料必需品的布料，尺寸至少為四乘八英寸（指寬），尚未正式決意使用或置於共同所有權之下。此類別包括成品必需品以及單純的布料，但不包括屬於僧團的袈裟布。
+     - *1）對象：*\一塊額外的袈裟布，即一塊適合製成袈裟或其他布料必需品的布料，尺寸至少為四乘八英寸（指寬），尚未正式決意使用或置於共享所有權之下。此類別包括成品必需品以及單純的布料，但不包括屬於僧團的袈裟布。
 
    * - *2) Effort:* One keeps it for more than ten days (except during the allowed period) without determining it for use, placing it under shared ownership, abandoning it (giving or throwing it away); and without the cloth’s being lost, destroyed, burnt, snatched away, or taken by someone else on trust within that time.
 
-     - *2）努力：*\儲存十天以上（允許期限內除外）而未決意使用、置於共同所有權之下、放棄（贈送或丟棄）；在此期間，布料沒有丟失、毀壞、燒毀、被搶走或被其他信任的人拿走。
+     - *2）努力：*\儲存十天以上（允許期限內除外）而未決意使用、置於共享所有權之下、放棄（贈送或丟棄）；在此期間，布料沒有丟失、毀壞、燒毀、被搶走或被其他信任的人拿走。
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -416,7 +416,7 @@
 
    * - During the robe season, one may keep an extra piece of robe-cloth for more than ten days without committing an offense under this rule. Once these privileges lapse, though, one must determine the cloth, place it under shared ownership, or abandon it within ten days. If one fails to do so by the eleventh dawnrise after the privileges lapse, the cloth is to be forfeited and the offense confessed.
 
-     - 在袈裟季節期間，得多留一件袈裟十日以上，不犯本戒條規定。然而，一旦這些方便利益失效，就必須決意這塊布料，將其置於共同所有權之下，或在十天內將其放棄。如果在方便利益失效後的第十一個黎明升起之前未能這樣做，那麼布料將被捨出，並且罪行將被懺悔。
+     - 在袈裟季節期間，得多留一件袈裟十日以上，不犯本戒條規定。然而，一旦這些方便利益失效，就必須決意這塊布料，將其置於共享所有權之下，或在十天內將其放棄。如果在方便利益失效後的第十一個黎明升起之前未能這樣做，那麼布料將被捨出，並且罪行將被懺悔。
 
 .. _Pc 32: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
 .. _33: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
@@ -457,7 +457,7 @@
 
    * - A bhikkhu who has received the robe-cloth in return after forfeiting it and confessing the offense may use it again without penalty, unless he keeps it as a piece of extra robe-cloth beyond ten more dawns. Thus the wise policy is to determine the cloth or place it under shared ownership immediately after receiving it in return.
 
-     - 比丘在捨出袈裟布並懺悔罪行後收到歸還，可以再次使用它而不受懲罰，除非他將其作為額外的袈裟布保留超過十個黎明。因此，明智之舉是在收到歸還後立即決意布料或將其置於共同所有權之下。
+     - 比丘在捨出袈裟布並懺悔罪行後收到歸還，可以再次使用它而不受懲罰，除非他將其作為額外的袈裟布保留超過十個黎明。因此，明智之舉是在收到歸還後立即決意布料或將其置於共享所有權之下。
 
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
 .. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
@@ -471,7 +471,7 @@
 
    * - In addition to the allowance to keep extra robe-cloth more than ten days during the robe season, the Vibhaṅga says that there is no offense if within ten days the cloth is determined, placed under shared ownership, lost, snatched away, destroyed, burnt, taken by someone else on trust, thrown away, or given away.
 
-     - 除了在袈裟季節保留額外袈裟布超過十天的開緣外，《經分別》說，如果在十天內，布料被決意、置於共同所有權之下、遺失、被搶走、毀壞、燒毀，被其他人基於信任拿走、丟棄或被給予出去，則沒有犯戒。
+     - 除了在袈裟季節保留額外袈裟布超過十天的開緣外，《經分別》說，如果在十天內，布料被決意、置於共享所有權之下、遺失、被搶走、毀壞、燒毀，被其他人基於信任拿走、丟棄或被給予出去，則沒有犯戒。
 
    * - In connection with this last point, the Commentary discusses proper and improper ways of giving things away. The article counts as having been properly given if one says, “I give this to you,” or “I give this to so-and-so,” or “Take this, it’s yours,” but not if one says things like, “Make this yours,” or “May this be yours.” Apparently, if one simply hands the article over without saying anything to show that one is transferring ownership, it again does not count. As we noted above, perception is not a mitigating factor under this rule. If one gives extra robe-cloth away in an improper manner, then even though one may assume that the cloth has been given away it still counts as one’s own extra robe-cloth under this rule.
 
@@ -486,7 +486,27 @@
 
    * - As the origin story shows, the purpose of this rule was to prevent bhikkhus from having more than one set of the three robes at any one time. With the passage of time, though, gifts of cloth to the Community became more numerous, and the need for stringency in this matter became less and less felt. Exactly when spare robes became accepted is not recorded, although a passage in the pupil’s duties to his preceptor (`Mv.I.25.9`_) shows that the practice of having a spare lower robe was already current when that part of the Canon was compiled (see `Appendix X`_). `Mv.VII.1`_ also mentions a group of wilderness dwelling bhikkhus who were “wearers of the three robes,” as if this were a special distinguishing characteristic. A number of passages in the Canon—including SN 16:8 and `Thag&16:7`_—mention the practice of using only one set of three robes as special, and the Visuddhimagga (5th century C.E.) classes this practice as one of the thirteen optional *dhutaṅga* (ascetic) practices.
 
-     - 正如起源故事所示，本戒條的目的是防止比丘們在任何時候擁有多於一套\ `三衣`_\ 。然而，隨著時間的推移，向僧團布施的布料變得越來越多，越來越感覺不到在這件事上嚴格執行的必要性。備用袈裟被接受的確切時間沒有記錄，儘管弟子對其戒師的義務（\ `《大品》.一.25.9`_\ ）中的一段話表明，在編纂《聖典》的該部分時，擁有備用下衣的做法已經存在（參見\ `附錄十`_\ ）。\ `《大品》.七.1`_\ 也提到一群住在林野的比丘，他們「著三衣」，好像這是一個特殊的顯著特徵。《聖典》中的許多段落（包括\ `《相應部》16:8經`_\ 和《長老偈》&16:7）都提到僅使用一套三衣的修行是特殊的，《清淨道論》（公元五世紀）將這種修行歸為十三種可選的頭陀（\ *dhutaṅga*\ ）行之一。
+     - 正如起源故事所示，本戒條的目的是防止比丘們在任何時候擁有多於一套\ `三衣`_\ 。然而，隨著時間的推移，向僧團布施的布料變得越來越多，越來越感覺不到在這件事上嚴格執行的必要性。備用袈裟被接受的確切時間沒有記錄，儘管弟子對其戒師的義務（\ `《大品》.一.25.9`_\ ）中的一段話表明，在編纂《聖典》的該部分時，擁有備用下衣的做法已經存在（參見\ `附錄十`_\ ）。\ `《大品》.七.1`_\ 也提到一群住在林野的比丘，他們「著三衣」，好像這是一個特殊的顯著特徵。《聖典》中的許多段落（包括\ `《相應部》16:8經`_\ 和《長老偈》&16:7）都提到僅使用一套三衣的修行是特殊的，《清淨道論》（公元五世紀）將這種修行歸為十三種可選的\ `頭陀`_\ （\ *dhutaṅga*\ ）行之一。
+
+   * - As we will see below, `Pc 92`_ suggests that in the early days the under, upper, and outer robes were all nearly the same size, so there would have been no difficulty in washing one robe and using the other two while the first one dried. Later, when the compilers of the ancient commentaries greatly enlarged the size of the upper and outer robes after deciding that the Buddha was of superhuman height, getting by with just one set of three robes became less convenient. Thus many teachers at present suggest that even a frugal bhikkhu, when staying in monasteries, should use one spare lower robe or a spare lower and upper robe—so that he will have no trouble keeping his robes clean and presenting an acceptable appearance at all times—and save the three-robe dhutaṅga practice for when he is alone in the wilderness.
+
+     - 正如我們將在下面看到的，\ `《波逸提》九二`_\ 表明，在早期，下衣、上衣和外衣的尺寸幾乎相同，因此清洗一件袈裟並當其乾燥時使用另外兩件是沒有困難的。後來，當古代註釋書的編纂者認為佛陀具有超人的高度後，大大增加了上衣和外衣的尺寸，僅一套三衣就變得不太方便了。因此，目前許多導師建議，即使是節儉的比丘，在寺院居住時，也應該使用一件備用的下衣，或者一件備用的下衣和上衣—這樣他就可以毫無困難地保持袈裟清潔，並在任何時候都呈現出可接受的外觀—並將三衣頭陀行保留到他獨自在林野時。
+
+   * - At any rate, because only one set of three robes may be determined as such, spare robes—once they became generally accepted—were determined as “requisite cloths.” This point may be inferred from the Commentary’s explanation of this rule, and the Sub-commentary’s explanation of `NP 7`_. The Commentary even contains a discussion of the views of various elders as to whether a bhikkhu who wishes to avoid the special rules surrounding the use of the three robes (such as the following rule) may determine his basic set as requisite cloths as well. The majority opinion—with only one dissenting voice—was Yes, although at present many Communities do not agree with this opinion.
+
+     - 無論如何，由於只有一套三件袈裟可以被決意為這樣，所以備用袈裟一旦被普遍接受，就被決意為「必需布」。這一點可以從《義註》對本戒條的解釋以及《複註》對\ `《捨墮》七`_\ 的解釋中推斷出來。《義註》甚至包含了對不同長老的觀點的討論，關於希望避免有關使用三衣的特殊戒條（例如接下來的戒條）的比丘是否也可以將他的基本三衣決意為必需布。大多數意見（只有一個反對聲音）是「可以」，儘管目前許多僧團不同意這一意見。
+
+   * - The Sub-commentary suggests an alternative way of dealing with spare robes: placing them under shared ownership and—because none of the three robes may be placed under shared ownership—calling them simply “cloth” *(cīvara)*. This, however, plays havoc with `Pc 59`_ and the general purpose of shared ownership in the Canon as a way of keeping cloth that is not being used. Thus the previous method—determining spare robes as requisite cloth—seems preferable.
+
+     - 《複註》提出了另一種處理備用袈裟的方法：將它們置於共享所有權之下，並且——因為這三衣都不能置於共享所有權之下——僅稱它們為「布料」\ *（cīvara）*\ 。然而，這對\ `《波逸提》五九`_\ 和《聖典》中共享所有權的一般用途（作為保留不使用的布料的一種方式）造成了嚴重混亂。因此，先前的方法——將備用袈裟決意為必需布——似乎更可取。
+
+   * - In any event, ever since spare robes have been accepted, the effect of this rule has been mainly to deter a bhikkhu from hoarding up robe-cloth in secret and from letting a hole in any of his basic set of three robes go unmended for more than ten days. Nevertheless, the spirit of the rule makes it incumbent on each bhikkhu to keep his cloth requisites to a minimum.
+
+     - 無論如何，自從備用袈裟被接受以來，本戒條的作用主要是阻止比丘秘密囤積袈裟布，以及防止他的基本三衣中的任何一件出現破洞超過十天而不修補。然而，本戒條的精神使得每個比丘有責任將自己的衣物必需品保持在最低限度。
+
+   * - *Summary: Keeping a piece of robe-cloth for more than ten days without determining it for use or placing it under shared ownership—except when the robe-season privileges are in effect—is a nissaggiya pācittiya offense.*
+
+     - *摘要：將一塊袈裟布保存十天以上，而沒有決意使用或將其置於共享所有權之下（除非袈裟季節方便利益仍有效），是《尼薩耆波逸提》（《捨墮》）罪。*
 
 .. _Mv.I.25.9: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.25.8-24
 .. _Appendix X: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
@@ -498,6 +518,18 @@
 .. TODO FIXME: replace link to 附錄十
 .. _《大品》.七.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_007#0333a03
 .. _《相應部》16\:8經: https://sutra.mobi/chilin/xiangying/content/16.html#%E5%85%AB%E6%95%99%E5%8C%96%E4%B9%8B%E4%B8%89
+.. _頭陀: https://zh.wikipedia.org/wiki/%E5%A4%B4%E9%99%80
+.. _Pc 92: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc92
+.. _《波逸提》九二: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc92
+.. TODO FIXME: replace link to 《波逸提》九二
+.. _NP 7: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
+.. _《捨墮》七: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
+.. TODO FIXME: replace link to 《捨墮》七
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
 
 
 (未完待續)
