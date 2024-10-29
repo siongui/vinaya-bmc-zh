@@ -245,8 +245,7 @@
      - 意思是：「尊者，未經比丘許可，我分開過夜的這件袈裟，將被捨出。我把它捨給你。」兩件袈裟將 *cīvaraṁ* 改為 *dvi-cīvaraṁ* ，三件袈裟則改為 *ti-cīvaraṁ* 。如有必要，其他變化可以從上面的\ `《捨墮》一`_\ 的公式中推斷出來。那裡也給出了歸還袈裟的公式。
 
 .. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
-.. _《捨墮》二: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
-.. TODO FIXME: replace link to 《捨墮》二
+.. _《捨墮》二: {filename}Section0013%zh-hant.rst#NP2
 
 
 .. list-table::

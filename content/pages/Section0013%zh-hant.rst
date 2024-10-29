@@ -300,8 +300,7 @@
 .. _Mv.V.13.13: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.V.13.13
 .. _《大品》.五.13.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_005#0263a11
 .. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
-.. _《捨墮》二: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
-.. TODO FIXME: replace link to 《捨墮》二
+.. _《捨墮》二: #NP2
 .. _三: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
 .. TODO FIXME: replace link to 《捨墮》三
 .. _二一: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
@@ -530,6 +529,36 @@
 .. container:: has-text-centered
 
    \*    \*    \*
+
+
+.. _NP2:
+
+.. raw:: html
+
+   <span id="NP2"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **2**
+     - **二**
+
+   * - .. container:: notification
+
+          *When a bhikkhu has finished his robe and the frame is dismantled (his kaṭhina privileges are ended), he is to keep extra robe-cloth ten days at most. Beyond that, it is to be forfeited and confessed.*
+          *When a bhikkhu has finished his robe and the frame is dismantled (his kaṭhina privileges are ended): If he dwells apart from (any of) his three robes even for one night—unless authorized by the bhikkhus—it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *當比丘完成他的袈裟並且框架被拆除時（他的功德衣方便利益結束）：如果他與他的（任何一件）三衣分開居住，即使是一晚—除非得到比丘們的授權—尼薩耆波逸提。*
+
+   * - In the origin story here, a number of bhikkhus went off on tour, leaving their outer robes with their friends at the monastery. Eventually the robes became moldy, and the bhikkhus at the monastery were burdened with having to sun them to get rid of the mold. The Buddha thus formulated this rule so that bhikkhus would be responsible for looking after their own robes.
+
+     - 在\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0279a07>`__\ 的中，一些比丘外出旅行，把外衣留給了在寺院的朋友。最終，袈裟發霉了，在寺院的比丘們不得不將它們曬乾以除去黴菌。佛陀因此制定了本戒條，好讓比丘們負責照顧自己的袈裟。
+
+   * - The offense here consists of two factors: object and effort.
+     - 這裡的違犯由兩個因素組成：對象和努力。
 
 
 (未完待續)

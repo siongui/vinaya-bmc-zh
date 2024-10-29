@@ -178,7 +178,7 @@
      - `\　　　一 <{filename}Section0013%zh-hant.rst#NP1>`__
 
    * - `\　　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2>`__
-     - 　　　二
+     - `\　　　二 <{filename}Section0013%zh-hant.rst#NP2>`__
 
    * - `\　　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3>`__
      - 　　　三
