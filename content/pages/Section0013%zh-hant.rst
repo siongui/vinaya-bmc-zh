@@ -501,7 +501,7 @@
 
    * - In any event, ever since spare robes have been accepted, the effect of this rule has been mainly to deter a bhikkhu from hoarding up robe-cloth in secret and from letting a hole in any of his basic set of three robes go unmended for more than ten days. Nevertheless, the spirit of the rule makes it incumbent on each bhikkhu to keep his cloth requisites to a minimum.
 
-     - 無論如何，自從備用袈裟被接受以來，本戒條的作用主要是阻止比丘秘密囤積袈裟布，以及防止他的基本三衣中的任何一件出現破洞超過十天而不修補。然而，本戒條的精神使得每個比丘有責任將自己的衣物必需品保持在最低限度。
+     - 無論如何，自從備用袈裟被接受以來，本戒條的作用主要是阻止比丘秘密囤積袈裟布，以及防止他的基本三衣中的任何一件出現破洞超過十天而不修補。然而，本戒條的精神使得每個比丘有責任將自己的布料必需品保持在最低限度。
 
    * - *Summary: Keeping a piece of robe-cloth for more than ten days without determining it for use or placing it under shared ownership—except when the robe-season privileges are in effect—is a nissaggiya pācittiya offense.*
 
@@ -559,6 +559,42 @@
 
    * - The offense here consists of two factors: object and effort.
      - 這裡的違犯由兩個因素組成：對象和努力。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object:**
+     - **對象：**
+
+   * - Any one of the robes that a bhikkhu has determined as his basic set of three—the *antaravāsaka* (lower robe), *uttarāsaṅga* (upper robe), and *saṅghāṭi* (outer robe). This rule thus does not apply to spare robes or other cloth requisites.
+
+     - 比丘決意為基本三衣中的任何一件— `安陀會`_ *antaravāsaka* （下衣）、 `郁多羅僧`_ *uttarāsaṅga* （上衣）和 `僧伽黎`_ *saṅghāṭi* （外衣）。因此，本戒條不適用於備用袈裟或其他布料必需品。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort:**
+     - **努力：**
+
+   * - Greeting dawnrise at a place outside of the zone in which any of one’s robes are located, except when the exemptions mentioned in the rule are in effect.
+     - 在任何袈裟所在區域之外的地方迎接黎明升起\ :small:`[明相]`\ ，除非戒條中提到的豁免生效。
+
+   * - *Dawnrise*, as stated under the preceding rule, corresponds to the onset of civil twilight. In Thailand, this point is often measured in a practical way by looking at the palm of one’s hand as it is held out at full arm’s length: Dawnrise is the point in time when the major lines of the hand are visible by natural light. On a bright moonlit night, dawnrise is measured by looking at the foliage of trees: Dawnrise is the point when one can detect the green in the color of the leaves. For further discussion of some of the controversies surrounding dawn and dawnrise, see `Appendix I`_.
+
+     - *黎明升起*\ :small:`[明相]`\ ，如前一條戒條所述，對應於\ `民用曙暮光`_\ 的開始。在泰國，這一點通常是透過觀察伸出全臂長度時的手掌來實際測量的：黎明升起是在自然光下可以看到手部主要線條的時間點。在明亮的月光之夜，黎明升起的出現是透過觀察樹葉來衡量的：黎明升起是人們可以看到樹葉顏色呈現綠色的時刻。有關黎明和黎明升起的一些爭議的進一步討論，請參閱\ `附錄一`_\ 。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Zones**
+     - **區域**
+
+   * - This is the most complex facet of this rule. The zone where a bhikkhu must be at dawnrise depends on the type of location where his robes are placed, whether the property around the location is enclosed, and—if it is enclosed—whether it belongs to one or more than one *kula*.
+
+     - 這是本戒條最複雜的方面。比丘在黎明升起\ :small:`[明相]`\ 時必須所處的區域取決於他放置袈裟的地點類型、該地點周圍的所有物是否被封閉，以及——如果是封閉的——它是否屬於一個或多個 *kula* 。
 
 
 (未完待續)
