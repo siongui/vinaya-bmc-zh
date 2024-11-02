@@ -682,6 +682,38 @@
 
           c\. 未封閉：在存放袈裟的房間內，或在其周圍的一個伸手可及處（§）的區域內迎接黎明升起。
 
+   * - .. container:: mx-2
+
+          *3. A monastic dwelling (vihāra—according to the Sub-commentary, this includes entire monasteries):*
+
+     - .. container:: mx-2
+
+          *3. 寺院住所（vihāra—根據《複註》，這包括整個寺院）：*
+
+   * - .. container:: mx-4
+
+          a\. Enclosed and single-kula: Having kept the robes within the enclosure, greet dawnrise within the enclosure.
+
+     - .. container:: mx-4
+
+          a\. 封閉且單kula：將袈裟存放在封閉區域內，在封閉區域內迎接黎明升起。
+
+   * - .. container:: mx-4
+
+          b\. Enclosed and multi-kula: Greet dawnrise in the dwelling where the robes are kept, at the entrance to the enclosure, or in the area one hatthapāsa around either of the two (§).
+
+     - .. container:: mx-4
+
+          b\. 封閉且多kula：在存放袈裟的住所、封閉區域入口處，或在兩者之任一處周圍的一個伸手可及處（§）的區域內迎接黎明升起。
+
+   * - .. container:: mx-4
+
+          c\. Unenclosed: Greet dawnrise in the dwelling where the robes are kept or in the area one hatthapāsa around it (§).
+
+     - .. container:: mx-4
+
+          c\. 未封閉：在存放袈裟的住所內，或在其周圍的一個伸手可及處（§）的區域內迎接黎明升起。
+
 .. _毗舍離: https://zh.wikipedia.org/wiki/%E6%AF%97%E8%88%8D%E9%9B%A2
 .. _拘尸那羅: https://zh.wikipedia.org/wiki/%E6%8B%98%E5%B0%B8%E9%82%A3%E6%8F%AD%E7%BE%85
 .. _Mv.II.12.3: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#Mv.II.12.3
