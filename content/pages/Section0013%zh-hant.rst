@@ -618,8 +618,74 @@
 
      - 有些人反對《義註》的立場，認為其不一致且沒有任何作用，並建議在任何情況下都應從袈裟來測量伸手所及。然而，這會導致冗餘：例如，如果將袈裟放在一個房間裡，被允許（1）留在房間裡或（2）距離袈裟不超過一個伸手所及，那麼若非（2）否定（1）—換句話說，必須留在距離袈裟一個伸手可及內，而不能去房間的其他地方—否則（1）就使（2）變得冗餘：可以留在房間的任何地方，而不必擔心袈裟在房間裡的確切位置。相較之下，《義註》的立場不僅避免了這些冗餘，而且實際上也達到了目的。除了上述的便利性之外，在多kula住所或較大的多kula建築物中還有另一個便利：如果存放袈裟的房間旁邊有一個小浴室，那麼可以在黎明時使用浴室，而無需帶袈裟進入浴室。出於這些原因，我們在這裡將堅守《義註》的解釋。
 
+   * - .. container:: mx-2
+
+          *1. A village:*
+
+     - .. container:: mx-2
+
+          *1. 村莊：*
+
+   * - .. container:: mx-4
+
+          a\. Enclosed and single-kula: Having kept the robes within the enclosure, greet dawnrise in the enclosure. (The Vibhaṅga actually says, “in the village,” but as the Commentary to `Mv.II.12.3`_ notes, when a village is enclosed, everything in the enclosure counts as “village,” and that is the most sensible interpretation for the Vibhaṅga’s statement here. This is the pattern followed throughout all cases of “enclosed and single-kula.”)
+
+     - .. container:: mx-4
+
+          a\. 封閉且單kula：將袈裟存放在封閉區域內，在封閉區域內迎接黎明升起。（《經分別》實際上說「在村莊裡」，但正如\ `《大品》.二.12.3`_\ 的《義註》所指出的，當一個村莊被圍起來時，封閉區域內的所有東西都算作「村莊」，這是對《經分別》此處的陳述最明智的解釋。這是所有「封閉且單kula」情況中所遵循的模式。
+
+   * - .. container:: mx-4
+
+          b\. Enclosed and multi-kula: Greet dawnrise in the house where the robes are kept, in the public meeting hall, at the town gate, or one hatthapāsa around any of these places (§). If the robes are kept within a hatthapāsa of the path going to the public meeting hall, greet dawnrise in the public meeting hall, at the town gate, or in the area one hatthapāsa around either of the two. If the robes are kept in the public meeting hall, greet dawnrise in the public meeting hall, at the town gate, or in the area one hatthapāsa around either of the two.
+
+     - .. container:: mx-4
+
+          b\. 封閉且多kula：在存放袈裟的房子、公共會議廳、城門，或這些地方周圍的一個伸手可及處（§）迎接黎明升起。如果袈裟存放在通往公共會議廳的道路的一個伸手可及處之內，在公共會議廳、城門，或兩者中任何一處周圍的一個伸手可及處的區域內迎接黎明升起。如果袈裟存放在公共會議廳，則在公共會議廳、城門，或兩者中任何一處周圍的一個伸手可及處的區域內迎接黎明升起。
+
+   * - .. container:: mx-4
+
+          c\. Unenclosed: Greet dawnrise in the house where the robes are kept or in the area one hatthapāsa around it (§). (See 2 & 3 below for further details.)
+
+     - .. container:: mx-4
+
+          c\. 未封閉：在存放袈裟的房子裡或在它周圍的一個伸手可及處（§）的區域內迎接黎明升起。（更多詳情請參閱下面的 2 和 3。）
+
+   * - .. container:: mx-2
+
+          *2. A dwelling with a yard:*
+
+     - .. container:: mx-2
+
+          *2. 有院子的住處：*
+
+   * - .. container:: mx-4
+
+          a\. Enclosed and single-kula: Having kept the robes within the enclosure, greet dawnrise within the enclosure.
+
+     - .. container:: mx-4
+
+          a\. 封閉且單kula：將袈裟存放在封閉區域內，在封閉區域內迎接黎明升起。
+
+   * - .. container:: mx-4
+
+          b\. Enclosed and multi-kula: Greet dawnrise in the room where the robes are kept, at the entrance to the enclosure, or in the area one hatthapāsa around either of the two (§).
+
+     - .. container:: mx-4
+
+          b\. 封閉且多kula：在存放袈裟的房間、封閉區域入口處，或在兩者之任一處周圍的一個伸手可及處（§）的區域內迎接黎明升起。
+
+   * - .. container:: mx-4
+
+          c\. Unenclosed: Greet dawnrise in the room where the robes are kept, or in the area one hatthapāsa around it (§).
+
+     - .. container:: mx-4
+
+          c\. 未封閉：在存放袈裟的房間內，或在其周圍的一個伸手可及處（§）的區域內迎接黎明升起。
+
 .. _毗舍離: https://zh.wikipedia.org/wiki/%E6%AF%97%E8%88%8D%E9%9B%A2
 .. _拘尸那羅: https://zh.wikipedia.org/wiki/%E6%8B%98%E5%B0%B8%E9%82%A3%E6%8F%AD%E7%BE%85
+.. _Mv.II.12.3: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#Mv.II.12.3
+.. _《大品》.二.12.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0145a01
 
 
 (未完待續)
