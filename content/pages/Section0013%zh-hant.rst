@@ -624,7 +624,7 @@
 
      - .. container:: mx-2
 
-          *1. 村莊：*
+          *一、村莊：*
 
    * - .. container:: mx-4
 
@@ -656,7 +656,7 @@
 
      - .. container:: mx-2
 
-          *2. 有院子的住處：*
+          *二、有院子的住處：*
 
    * - .. container:: mx-4
 
@@ -688,7 +688,7 @@
 
      - .. container:: mx-2
 
-          *3. 寺院住所（vihāra—根據《複註》，這包括整個寺院）：*
+          *三、寺院住所（vihāra—根據《複註》，這包括整個寺院）：*
 
    * - .. container:: mx-4
 
@@ -713,6 +713,86 @@
      - .. container:: mx-4
 
           c\. 未封閉：在存放袈裟的住所內，或在其周圍的一個伸手可及處（§）的區域內迎接黎明升起。
+
+   * - .. container:: mx-2
+
+          *4. A field, orchard, garden (park), or threshing floor:*
+
+     - .. container:: mx-2
+
+          *四、田地、果園、花園（公園）、打穀場：*
+
+   * - .. container:: mx-4
+
+          a\. Enclosed and single-kula: Having kept the robes within the enclosure, greet dawnrise within the enclosure.
+
+     - .. container:: mx-4
+
+          a\. 封閉且單kula：將袈裟存放在封閉區域內，在封閉區域內迎接黎明升起。
+
+   * - .. container:: mx-4
+
+          b\. Enclosed and multi-kula (e.g., many fields, etc., within a single enclosure): Having kept the robes within the enclosure, greet dawnrise in the enclosure, at the entrance to the field, etc., where the robe is kept, or in the area one hatthapāsa around either (§).
+
+     - .. container:: mx-4
+
+          b\. 封閉且多kula（例如，許多田地等，在單一封閉區域內）：將袈裟存放在封閉區域內，在封閉區域、田地入口等存放袈裟的地方，或在兩者之任一處周圍的一個伸手可及處（§）的區域內迎接黎明升起。
+
+   * - .. container:: mx-4
+
+          c\. Unenclosed: Greet dawnrise within one hatthapāsa of the robes.
+
+     - .. container:: mx-4
+
+          c\. 未封閉：距離袈裟一個伸手可及處接黎明升起。
+
+   * - .. container:: mx-2
+
+          *5. Buildings with no yard (such as a fortress or city apartment block):*
+
+     - .. container:: mx-2
+
+          *五、沒有庭院的建築物（例如堡壘或城市公寓大樓）：*
+
+   * - .. container:: mx-4
+
+          a\. Single-kula: Having kept the robes within the building, greet dawnrise within the building.
+
+     - .. container:: mx-4
+
+          a\. 單kula：將袈裟存放在建築物內，在建築物內迎接黎明升起。
+
+   * - .. container:: mx-4
+
+          b\. Multi-kula: Greet dawnrise within the room where the robes are kept, at the entrance (to the building), or in the area one hatthapāsa around either (§).
+
+     - .. container:: mx-4
+
+          b\. 多kula：在存放袈裟的房間內，在（建築物）入口，或在兩者之任一處周圍的一個伸手可及處（§）的區域內迎接黎明升起。
+
+   * - .. container:: mx-2
+
+          *6. A boat (and by extension, other vehicles):*
+
+     - .. container:: mx-2
+
+          *六、船（以及推而廣之，其他交通工具）：*
+
+   * - .. container:: mx-4
+
+          a\. Single-kula: Having kept the robes within the vehicle, greet dawnrise within the vehicle.
+
+     - .. container:: mx-4
+
+          a\. 單kula：將袈裟存放在交通工具內，在交通工具內迎接黎明升起。
+
+   * - .. container:: mx-4
+
+          b\. Multi-kula (as in a commercial airplane or bus): Greet dawnrise in the room where the robes are kept or in the area one hatthapāsa around it (§). (For this reason, a bhikkhu traveling in an airplane overnight should wear his complete set of robes or have it with him in his cabin baggage, rather than in his checked baggage.) The Thai edition of the Canon, unlike the others, adds that one may also greet dawnrise at the entrance to the boat or in the area one hatthapāsa around it.
+
+     - .. container:: mx-4
+
+          b\. 多kula（如在商用飛機或巴士內）：在存放袈裟的房間內，或其周圍的一個伸手可及處的區域內迎接黎明升起（§）。（因此，搭飛機過夜的比丘應該穿著整套袈裟，或者將其帶在隨身行李中，而不是放在托運行李中。）與其他版本不同，泰國版的《聖典》補充道：也可以在船的入口處或船周圍的一個伸手可及處的區域內迎接黎明升起。
 
 .. _毗舍離: https://zh.wikipedia.org/wiki/%E6%AF%97%E8%88%8D%E9%9B%A2
 .. _拘尸那羅: https://zh.wikipedia.org/wiki/%E6%8B%98%E5%B0%B8%E9%82%A3%E6%8F%AD%E7%BE%85
