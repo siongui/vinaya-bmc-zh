@@ -794,10 +794,75 @@
 
           b\. 多kula（如在商用飛機或巴士內）：在存放袈裟的房間內，或其周圍的一個伸手可及處的區域內迎接黎明升起（§）。（因此，搭飛機過夜的比丘應該穿著整套袈裟，或者將其帶在隨身行李中，而不是放在托運行李中。）與其他版本不同，泰國版的《聖典》補充道：也可以在船的入口處或船周圍的一個伸手可及處的區域內迎接黎明升起。
 
+   * - .. container:: mx-2
+
+          *7. A caravan (according to the Sub-commentary, this includes groups traveling by foot as well as by cart; group hiking trips would thus be included here):*
+
+     - .. container:: mx-2
+
+          *七、房車（根據《複註》，這包括步行和乘車旅行的團體；因此此處包括團體徒步旅行）：*
+
+   * - .. container:: mx-4
+
+          a\. Single-kula: Having kept the robes within the caravan, greet dawnrise anywhere up to seven abbhantaras (98 meters) in front of or behind the caravan, and up to one abbhantara (14 meters) to either side.
+
+     - .. container:: mx-4
+
+          a\. 單kula：將袈裟留在房車內，在房車前後最多七個 abbhantara_ （98 公尺）以及兩側最多一個 abbhantara_ （14 公尺）的任何地方迎接黎明升起。
+
+   * - .. container:: mx-4
+
+          b\. Multi-kula: Having kept the robes within the caravan, greet dawnrise within one hatthapāsa of the caravan.
+
+     - .. container:: mx-4
+
+          b\. 多kula：將袈裟留在房車內，在房車的一個伸手可及處內迎接黎明升起。
+
+   * - .. container:: mx-2
+
+          *8. At the foot of a tree:*
+
+     - .. container:: mx-2
+
+          *八、在樹下：*
+
+   * - .. container:: mx-4
+
+          a\. Single-kula: Having kept the robes within the area shaded by the tree at noon, greet dawnrise within that area. According to the Commentary, this doesn’t include spots where sunlight leaks through gaps in the foliage, but many Communities regard this stipulation as excessive.
+
+     - .. container:: mx-4
+
+          a\. 單kula：將袈裟留在中午時分樹蔭下的區域內，在該區域內迎接黎明升起。根據《義註》，這不包括陽光從樹葉縫隙洩漏的地方，但許多僧團認為這項規定太過度。
+
+   * - .. container:: mx-4
+
+          b\. Multi-kula (e.g., a tree on the boundary between two pieces of land): Greet dawnrise within one hatthapāsa of the robes.
+
+     - .. container:: mx-4
+
+          b\. 多kula（例如，兩塊土地邊界上的一棵樹）：在袈裟的一個伸手可及處內迎接黎明升起。
+
+   * - .. container:: mx-2
+
+          *9. In the open air (according to the Vibhaṅga, this means a wilderness area where there are no villages; the Commentary adds that this includes dense forests and uninhabited islands):*
+
+     - .. container:: mx-2
+
+          *九、在露天（根據《經分別》的說法，這代表沒有村莊的荒野地區；《義註》補充說，這包括茂密的森林和無人居住的島嶼）：*
+
+   * - .. container:: mx-4
+
+          • Greet dawnrise within a seven-abbhantara (98 meter) radius of the robes. (Some have argued that this allowance should apply only when one is staying outside of a dwelling in the wilderness; as for a hut in the wilderness, they say, the zone under (3) should apply. The problem with this interpretation is what it would mean in practice: If a bhikkhu keeping his robes in a wilderness hut wanted to greet dawnrise in the open air, he would have to take his robes out of the hut. Then he would be free to wander 98 meters away from them. This would actually expose the robes to more dangers than if they were left in the hut. Thus it seems preferable to stick with the Vibhaṅga’s definition for this zone: any wilderness area where there are no villages.)
+
+     - .. container:: mx-4
+
+          • 在袈裟半徑七個 abbhantara_ （98 公尺）內迎接黎明升起。（有些人認為，這項開緣只應適用於住在荒野中的住處外的情況；至於荒野中的小屋，他們說，應適用第（3）項下的區域。這種解釋的問題在於它在實踐中意思是什麼：如果一個比丘將袈裟放在荒野小屋裡，想要在露天迎接黎明升起，他就必須將袈裟帶出小屋。然後他就可以自由地在距離袈裟 98 公尺的地方徘徊了。這實際上會讓袈裟比留在小屋裡面臨更多的危險。因此，似乎最好堅持《經分別》對這個區域的定義：任何沒有村莊的荒野地區。）
+
 .. _毗舍離: https://zh.wikipedia.org/wiki/%E6%AF%97%E8%88%8D%E9%9B%A2
 .. _拘尸那羅: https://zh.wikipedia.org/wiki/%E6%8B%98%E5%B0%B8%E9%82%A3%E6%8F%AD%E7%BE%85
 .. _Mv.II.12.3: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#Mv.II.12.3
 .. _《大品》.二.12.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0145a01
+.. _abbhantara: https://dictionary.sutta.org/browse/a/abbhantara/
 
 
 (未完待續)
