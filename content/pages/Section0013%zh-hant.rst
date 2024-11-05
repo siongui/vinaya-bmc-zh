@@ -865,6 +865,30 @@
 .. _abbhantara: https://dictionary.sutta.org/browse/a/abbhantara/
 
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Exemptions**
+     - **豁免**
+
+   * - 1\) As with the preceding rule, this rule is not in force when the kaṭhina privileges are in effect. However—unlike the preceding rule—it *is* in force during the first month after the Rains-residence unless one has participated in a kaṭhina.
+
+     - 1）與前一戒條一樣，當功德衣方便利益有效時，本戒條不生效。然而，與前一戒條不同的是，除非參加過功德衣，否則它\ *在*\ 雨安居後的第一個月內有效。
+
+   * - 2\) In the origin story to this rule, the Buddha gives permission for a Community of bhikkhus to authorize an ill bhikkhu to be separated from his robes at dawnrise throughout the course of his illness without penalty. (The procedure and transaction statement for this authorization are given in `Appendix VIII`_.)
+
+     - 2）在本戒條的起源故事中，佛陀允許比丘僧團授權生病的比丘在他患病期間在黎明升起時與袈裟分開，而不受懲罰。（本授權的程序和羯磨文請見\ `附錄八`_\ 。）
+
+   * - The Commentary discusses how long this authorization lasts, and concludes that once the bhikkhu has recovered he should make every reasonable effort to get back to his robes as soon as possible without jeopardizing his health. The authorization then automatically subsides, with no further transaction being required to rescind it. If his illness returns, the authorization is automatically reinstated.
+
+     - 《義註》討論了這種授權的持續時間，並得出結論，一旦比丘康復，他應該盡一切合理努力盡快回到他的袈裟，而不危及他的健康。然後授權會自動消退，無需進一步的羯磨即可取消之。如果他的病情復發，授權將自動恢復。
+
+.. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
+.. _附錄八: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
+.. TODO FIXME: replace link to 附錄八
+
+
 (未完待續)
 
 
