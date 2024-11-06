@@ -884,9 +884,21 @@
 
      - 《義註》討論了這種授權的持續時間，並得出結論，一旦比丘康復，他應該盡一切合理努力盡快回到他的袈裟，而不危及他的健康。然後授權會自動消退，無需進一步的羯磨即可取消之。如果他的病情復發，授權將自動恢復。
 
+   * - 3\) In `Mv.II.12.1-3`_, the Buddha directs the bhikkhus to declare a *sīmā*\—or territory in which Community transactions are enacted—as a *ticīvara-avippavāsa*, which means that if a bhikkhu’s robes are anywhere within the territory, he may greet dawnrise at any other part of that territory without committing an offense under this rule. In the early days, when such a territory might cover many monasteries (the maximum allowable size is 3x3 *yojanas*, approximately 48x48 kilometers), this was a definite convenience for bhikkhus who had to leave their monastery to join in Community meetings at another monastery in the same territory. Because it was possible for such territories to include villages and homes as well, the Buddha added the extra stipulation that robes left in the houses of lay people lying in such a territory were not covered by this exemption. For further details, see `BMC2, Chapter 13`_.
+
+     - 3）在\ `《大品》.二.12.1-3`_\ 中，佛陀指示比丘們宣告 *sīmā* —進行僧團羯磨之界—為 *ticīvara-avippavāsa* ，這意味著如果比丘的袈裟位於該界內的任何地方，他可在該界的任何其他地方迎接黎明升起，而不犯本戒條所訂的罪行。在早期，當這樣的界可能涵蓋許多寺院時（允許的最大面積為 3x3 *由旬*\ ，大約 48x48 公里），這對於必須離開寺院前往同一界內另一寺院參加僧團會議的比丘來說絕對是一個方便。因為這些界也可能包括村莊和住家，所以佛陀添加了額外的規定，即留在此類界內的居士家中的袈裟不屬於這項豁免範圍。有關更多詳細信息，請參閱\ `《佛教修道準則 第二冊》第十三章`_\ 。
+
+   * - At present the custom is to designate much smaller areas as territories—usually only a fraction of the land in one monastery—and although these can also be designated as ticīvara-avippavāsa, this arrangement in such cases is not the great convenience it is in the larger territories.
+
+     - 目前的習俗是將較小的區域指定為界——通常只是一座寺院土地的一小部分——雖然這些也可以指定為 ticīvara-avippavāsa ，但在這種情況下，這種安排並不像在較大的界內中那樣方便。
+
 .. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
 .. _附錄八: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
 .. TODO FIXME: replace link to 附錄八
+.. _Mv.II.12.1-3: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#Mv.II.12.1
+.. _《大品》.二.12.1-3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0144a05
+.. _BMC2, Chapter 13: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
+.. _《佛教修道準則 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
 
 
 (未完待續)
