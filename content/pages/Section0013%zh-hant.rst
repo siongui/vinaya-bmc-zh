@@ -900,6 +900,28 @@
 .. _BMC2, Chapter 13: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
 .. _《佛教修道準則 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Forfeiture & confession**
+     - **捨出 & 懺罪**
+
+   * - If a bhikkhu greets dawnrise outside of the zone where any one of his three determined robes is placed—except when the exemptions are in effect—the robe is to be forfeited and the offense confessed. Perception and intention are not mitigating factors here. If he thinks that he is in the same zone when he actually isn’t, if he thinks the robe is not determined when it actually is, or if he means to be in the same zone when circumstances prevent him, he incurs the penalty all the same. If he then uses the robe before forfeiting it and confessing the offense, he incurs a dukkaṭa.
+
+     - 如果比丘在放置決意的三衣中任何一件的區域外迎接黎明升起——除非豁免生效——該袈裟將被捨出並懺罪。在這裡，感知和意圖並不是減輕懲罰的因素。如果他認為自己在同一個區域，但實際上並不在同一個區域，如果他認為袈裟沒被決意但實際上已決意的，或者如果他在情況不允許的情況下仍打算在同一個區域，那麼他將受到所有懲罰相同。如果他在捨出並懺罪之前使用了袈裟，他就犯《突吉羅》。
+
+   * - The Vibhaṅga adds that, with regard to a robe that hasn’t been apart from one, if one perceives it to have been apart or one is in doubt about it, the penalty is a dukkaṭa. The Commentary does not explain these statements, but from the parallel situations under `NP 1`_ it would seem that the dukkaṭa here is for *using* the robe.
+
+     - 《經分別》補充說，對於一件尚未分開的袈裟，如果認為它已經分開或有懷疑，則懲罰是《突吉羅》。《義註》沒有解釋這些陳述，但從\ `《捨墮》一`_\ 下的類似情況來看，這裡的《突吉羅》似乎是因為\ *使用*\ 了袈裟。
+
+   * - The procedures for forfeiture, confession, and return of the robe are the same as in the preceding rule. For the Pali formula to use in forfeiture, see `Appendix VI`_. Once the robe has been forfeited, its determination lapses, so when the bhikkhu receives it in return he must re-determine it for use or give it away within ten days so as not to commit an offense under the preceding rule.
+
+     - 捨出、懺罪、返還袈裟的程序，與前一戒條相同。有關捨出中使用的巴利公式，請參閱\ `附錄六`_\ 。一旦袈裟被捨出，它的決意就失效了，所以當比丘收到它時，他必須在十天內重新決意它以供使用或放棄它，以免犯前一戒條的罪行。
+
+.. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. _《捨墮》一: #NP1
+
 
 (未完待續)
 
