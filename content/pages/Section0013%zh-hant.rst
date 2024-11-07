@@ -922,6 +922,36 @@
 .. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
 .. _《捨墮》一: #NP1
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - In addition to the above-mentioned exemptions, there is no offense if, before dawn, the robe is lost, destroyed, burnt, or snatched away; if someone else takes it on trust; or if the bhikkhu gives it away or rescinds its determination. Because of this last allowance, the Commentary recommends that if a bhikkhu realizes he will not be able to get back to his robe before dawn, he should rescind the robe’s determination before dawnrise so as to avoid an offense, and then re-determine the robe after dawnrise has passed.
+
+     - 除上述豁免外，天亮前，袈裟遺失、被破壞、被燒毀或被搶走者，不犯；如果其他人基於信任拿走它，不犯；或如果比丘放棄或撤銷其決意，不犯。由於這最後的開緣，《義註》建議，如果比丘意識到他無法在黎明前回到他的袈裟處，他應該在黎明升起前撤銷袈裟的決意，以避免犯戒，然後在黎明升起過後重新決意袈裟。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **A note on Thai practice**
+     - **泰國做法注意事項**
+
+   * - The author of the Vinaya-mukha missed the Sub-commentary’s discussion of monastic residences under this rule and so came to the conclusion that none of the texts discuss the question of zones in a monastery. As a result, he formulated his own system, treating each separate monastic dwelling as a lay dwelling with a yard. Furthermore, he neglected to discuss the question of what counts as single-kula and multi-kula in such a dwelling. In the absence of any other standard, Thai bhikkhus have come to view a dwelling of two or more bhikkhus, in which the bhikkhus come from different families, as a multi-kula dwelling. If the bhikkhus live in separate rooms, then the room where the robes are placed, plus a radius of one hatthapāsa around it, is the bhikkhu’s zone. If two or more bhikkhus are spending the night in a single room, each bhikkhu must greet dawnrise within one hatthapāsa of his robes.
+
+     - 《戒律入口》的作者錯過了《複註》對本戒條下寺院住所的討論，因此得出的結論是，沒有任何文獻討論寺院區域的問題。於是，他制定了自己的制度，將每一個單獨的寺院住所視為有院子的俗家。此外，他忽略了討論在這樣的住所中什麼算是單kula和多kula的問題。在沒有其他標準的情況下，泰國比丘們開始將來自不同家庭的兩個或兩個以上比丘的住所視為多kula住所。如果比丘住在不同的房間，那麼放置袈裟的房間，加上周圍一個伸手可及處的半徑，就是該比丘的區域。如果兩個或兩個以上的比丘在單一個房間裡過夜，每個比丘必須在他的袈裟的一個伸手可及處內迎接黎明升起。
+
+   * - Although there is no basis in the Canon or commentaries for this practice, it is so widely accepted in Thailand that the wise policy for anyone spending the night in the same dwelling or the same room with a Thai bhikkhu is to be aware of it and abide by it, to avoid the useless controversies that can arise over minor matters like this.
+
+     - 雖然這種做法在《聖典》或註釋書中沒有依據，但它在泰國被廣泛接受，因此對於任何與泰國比丘在同一住處或同一房間過夜的人來說，明智之舉是意識到這一點並遵守之，以避免因此類小事而引起的無用爭議。
+
+   * - *Summary: Being in a separate zone from any of one’s three robes at dawnrise—except when one’s kaṭhina privileges are in effect or one has received formal authorization from the Community—is a nissaggiya pācittiya offense.*
+
+     - *摘要：黎明升起時分，與三衣中的任何一件處於不同的區域——除非功德衣方便利益有效或已獲得僧團的正式授權——是《尼薩耆波逸提》（《捨墮》）罪。*
+
 
 (未完待續)
 
