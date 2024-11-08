@@ -271,8 +271,7 @@
      - 如有必要，其他變化可以從\ `《捨墮》一`_\ 的公式中推斷出來。
 
 .. _NP 3: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
-.. _《捨墮》三: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
-.. TODO FIXME: replace link to 《捨墮》三
+.. _《捨墮》三: {filename}Section0013%zh-hant.rst#NP3
 
 
 .. list-table::

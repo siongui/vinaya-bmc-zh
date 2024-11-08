@@ -301,8 +301,7 @@
 .. _《大品》.五.13.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_005#0263a11
 .. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
 .. _《捨墮》二: #NP2
-.. _三: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
-.. TODO FIXME: replace link to 《捨墮》三
+.. _三: #NP3
 .. _二一: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
 .. TODO FIXME: replace link to 《捨墮》二一
 .. _二八: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28
@@ -546,7 +545,6 @@
 
    * - .. container:: notification
 
-          *When a bhikkhu has finished his robe and the frame is dismantled (his kaṭhina privileges are ended), he is to keep extra robe-cloth ten days at most. Beyond that, it is to be forfeited and confessed.*
           *When a bhikkhu has finished his robe and the frame is dismantled (his kaṭhina privileges are ended): If he dwells apart from (any of) his three robes even for one night—unless authorized by the bhikkhus—it is to be forfeited and confessed.*
 
      - .. container:: notification
@@ -951,6 +949,33 @@
    * - *Summary: Being in a separate zone from any of one’s three robes at dawnrise—except when one’s kaṭhina privileges are in effect or one has received formal authorization from the Community—is a nissaggiya pācittiya offense.*
 
      - *摘要：黎明升起時分，與三衣中的任何一件處於不同的區域——除非功德衣方便利益有效或已獲得僧團的正式授權——是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
+.. _NP3:
+
+.. raw:: html
+
+   <span id="NP3"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **3**
+     - **三**
+
+   * - .. container:: notification
+
+          *When a bhikkhu has finished his robe and the frame is dismantled (his kathina privileges are ended): Should out-of-season robe-cloth accrue to him, he may accept it if he so desires. Having accepted it, he is to make it up immediately (into a cloth requisite). If it should not be enough (§), he may lay it aside for a month at most when he has an expectation for filling the lack. If he should keep it beyond that, even when he has an expectation (for further cloth), it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *當比丘完成他的袈裟並且框架被拆除時（他的功德衣方便利益結束）：如果他得到了非時的袈裟布，如果他願意的話，他可以接受。他接受了之後，應立即將其做成（成為布料必需品）。如果不夠（§），當他期望填補不足時，他最多可以將其擱置一個月。如果他保留的超出了這個範圍，即使他有（更多布料）的期望，尼薩耆波逸提。*
 
 
 (未完待續)
