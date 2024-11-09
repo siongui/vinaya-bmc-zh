@@ -977,6 +977,33 @@
 
           *當比丘完成他的袈裟並且框架被拆除時（他的功德衣方便利益結束）：如果他得到了非時的袈裟布，如果他願意的話，他可以接受。他接受了之後，應立即將其做成（成為布料必需品）。如果不夠（§），當他期望填補不足時，他最多可以將其擱置一個月。如果他保留的超出了這個範圍，即使他有（更多布料）的期望，尼薩耆波逸提。*
 
+   * - There are two factors for an offense here.
+     - 這裡的犯戒有兩個因素。
+
+   * - *1) Object:* (a) out-of-season robe-cloth, made of any of the proper six kinds of material, in pieces measuring at least four by eight fingerbreadths;
+     - *1）對象：* （a）非時的袈裟布，由六種適當材料中的任何一種製成，尺寸至少為四乘八指寬；
+
+   * - \(b\) the cloth is not enough to make the cloth requisite one has in mind, but one expects to receive more.
+     - （b）布料不足以製做成心中要的布料必需品，但期望收到更多。
+
+   * - *2) Effort:* One keeps the cloth for more than 30 days, except when the kaṭhina privileges are in effect.
+     - *2）努力：*\ 將布料保留超過 30 天，除非當功德衣方便利益生效。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga defines in-season robe-cloth as any robe-cloth accruing to a bhikkhu—either from the Community, from a group, from relatives, from friends, from cast-off cloth, or from his own resources—during the first month after the Rains-residence if he has not yet participated in a kaṭhina, or during the time when his kaṭhina privileges are in effect if he has. Thus out-of-season cloth is any cloth accruing to him at any other time. However, the Vibhaṅga also notes that cloth accruing to a bhikkhu during the one-month or five-month robe season can count as out-of-season cloth if the donors dedicate it to that purpose. There are two reasons why they might want to do so.
+
+     - 《經分別》將當季袈裟布定義為比丘獲得的任何袈裟布料——無論是來自僧團、團體、親戚、朋友、廢棄的布料，還是他自己的資源——如果他還沒有參加過功德衣，則在雨安居後的第一個月內，或者如果他參加過，則在其功德衣方便利益生效期間。因此，非時的袈裟布是指他在任何其他時間獲得的任何布料。然而，《經分別》也指出，如果施主將其專門用於該目的，比丘在一個月或五個月的袈裟季節期間獲得的布料可以算是非時的袈裟布。他們想要這樣做有兩個原因。
+
+   * - 1\) Given the way “extra robe-cloth” is defined under `NP 1`_, a gift of in-season robe-cloth can be kept—if it is neither determined nor placed under shared ownership—for ten days after the robe season ends. However, if the cloth is not enough to make into a robe, it cannot be kept—if neither determined nor placed under shared ownership—for the month allowed by this rule. However, as the K/Commentary to `NP 24`_ notes, a gift of out-of-season cloth *can* be kept for the extra month under this rule. Thus if the donors want to provide the recipient(s) with that extra amount of time—which would be especially useful if they give the cloth toward the end of the robe season—they can dedicate the cloth given in-season as out-of-season cloth.
+
+     - 1）鑑於\ `《捨墮》一`_\ 中「額外袈裟布料」的定義方式，當季袈裟布料的布施可以在袈裟季節結束後保留十天（如果既沒有決意也沒有置於共同所有權之下）。然而，如果布料不足以製作成袈裟，則在本戒條允許的月份內，如果既沒有決意也沒有置於共同所有權之下，則不能保留它。然而，正如\ `《捨墮》二四`_\ 的 K/《義註》所指出的，根據本戒條，非時的布料的布施\ *可以*\ 保留額外的一個月。因此，如果施主想為接受者（們）提供額外的時間（如果他們在袈裟季節結束時提供布料，這將特別有用），他們可以將當季給予的布料供養為非時的布料。
+
 
 (未完待續)
 
