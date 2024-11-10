@@ -1002,7 +1002,19 @@
 
    * - 1\) Given the way “extra robe-cloth” is defined under `NP 1`_, a gift of in-season robe-cloth can be kept—if it is neither determined nor placed under shared ownership—for ten days after the robe season ends. However, if the cloth is not enough to make into a robe, it cannot be kept—if neither determined nor placed under shared ownership—for the month allowed by this rule. However, as the K/Commentary to `NP 24`_ notes, a gift of out-of-season cloth *can* be kept for the extra month under this rule. Thus if the donors want to provide the recipient(s) with that extra amount of time—which would be especially useful if they give the cloth toward the end of the robe season—they can dedicate the cloth given in-season as out-of-season cloth.
 
-     - 1）鑑於\ `《捨墮》一`_\ 中「額外袈裟布料」的定義方式，當季袈裟布料的布施可以在袈裟季節結束後保留十天（如果既沒有決意也沒有置於共同所有權之下）。然而，如果布料不足以製作成袈裟，則在本戒條允許的月份內，如果既沒有決意也沒有置於共同所有權之下，則不能保留它。然而，正如\ `《捨墮》二四`_\ 的 K/《義註》所指出的，根據本戒條，非時的布料的布施\ *可以*\ 保留額外的一個月。因此，如果施主想為接受者（們）提供額外的時間（如果他們在袈裟季節結束時提供布料，這將特別有用），他們可以將當季給予的布料供養為非時的布料。
+     - 1）鑑於\ `《捨墮》一`_\ 中「額外袈裟布料」的定義方式，當季袈裟布料的布施可以在袈裟季節結束後保留十天（如果既沒有決意也沒有置於共享所有權之下）。然而，如果布料不足以製作成袈裟，則在本戒條允許的月份內，如果既沒有決意也沒有置於共享所有權之下，則不能保留它。然而，正如\ `《捨墮》二四`_\ 的 K/《義註》所指出的，根據本戒條，非時的布料的布施\ *可以*\ 保留額外的一個月。因此，如果施主想為接受者（們）提供額外的時間（如果他們在袈裟季節結束時提供布料，這將特別有用），他們可以將當季給予的布料供養為非時的布料。
+
+   * - 2\) According to `Mv.VIII.24-25`_, in-season cloth given to a Community may be shared among only the bhikkhus who spent the Rains-residence in that particular Community, and not among any visiting bhikkhus. The bhikkhunīs’ `NP 2 <https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#np-part1>`__ tells of a case where well-behaved but shabbily dressed bhikkhunīs visited a Community of bhikkhunīs when the robe-season privileges were in effect; lay donors, wishing to help them, gave cloth to the Community with the stipulation that it be treated as out-of-season robe-cloth so that the visiting bhikkhunīs would also have a share.
+
+     - 2）根據\ `《大品》.八.24-25`_\ ，給予某個僧團的當季布料只能由在該特定僧團中度過雨安居的比丘分享，而不是與任何來訪的比丘分享。\ `比丘尼的《捨墮》二`_\ 講述了一個案例，在袈裟季節方便利益生效期間，行為端正但衣著破舊的比丘尼拜訪了比丘尼社團；在家布施者希望幫助他們，向僧團捐贈布料，並規定將其視為非時的袈裟布料，以便來訪的比丘尼也能分享。
+
+   * - Out-of-season cloth, if it is enough to make the cloth requisite one has in mind, is treated as extra robe-cloth under `NP 1`_: During the period outside of the robe season it can be kept for at most ten days. If, however, it is not enough, and one expects to get further cloth from any source—again, from the Community, from a group, from relatives, from friends, from cast-off cloth, or from one’s own resources—it may be kept for up to 30 days with no need to be determined or placed under shared ownership.
+
+     - 非時的布料，如果足以製作成心中要的布料必需品，則被視為\ `《捨墮》一`_\ 下的額外袈裟布料：在袈裟季節之外的時期內，最多可以保留十天。然而，如果這還不夠，而且期望從任何來源獲得更多布料——同樣，從僧團、從團體、從親戚、從朋友、從廢棄的布料，或從自己的資源——它可能最多保留三十天，無需決意或置於共享所有權之下。
+
+.. _Mv.VIII.24-25: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.VIII.25.3
+.. _《大品》.八.24-25: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0387a08
+.. _比丘尼的《捨墮》二: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_011#0336a09
 
 
 (未完待續)
