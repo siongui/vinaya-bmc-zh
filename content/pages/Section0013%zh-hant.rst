@@ -1012,6 +1012,14 @@
 
      - 非時的布料，如果足以製作成心中要的布料必需品，則被視為\ `《捨墮》一`_\ 下的額外袈裟布料：在袈裟季節之外的時期內，最多可以保留十天。然而，如果這還不夠，而且期望從任何來源獲得更多布料——同樣，從僧團、從團體、從親戚、從朋友、從廢棄的布料，或從自己的資源——它可能最多保留三十天，無需決意或置於共享所有權之下。
 
+   * - The further cloth, when received, has a life span of ten days, as under `NP 1`_, and one must finish making one’s requisite within the time period determined by whichever cloth has the shorter life span. Thus, if one obtains the expected cloth during the first 20 days, the requisite must be made within ten days, this being the life span of the second cloth. If one obtains it after the 21st day, the requisite must be made before the original 30 days are up.
+
+     - 收到後的另一塊布料的使用壽命為十天，如\ `《捨墮》一`_\ 所示，並且必須在由壽命較短的布料決定的時間內完成必需品的製作。因此，如果在前二十天內獲得了預期的布料，則必須在十天內製作必需品，這就是第二塊布料的壽命。如果在第二十一天之後獲得，則必須在原來的三十天結束之前製作成必需品。
+
+   * - If the second cloth turns out to be of different quality from the first, one is under no compulsion to put the two cloths together to make up the requisite if one does not want to, and may continue waiting for further cloth, if one has further expectation of cloth, as long as the life span of the first cloth allows. The Commentary recommends that if the second cloth is of poorer quality than the first, one may determine it as requisite cloth; if the second cloth is of better quality, one may determine the first cloth as requisite cloth and start a new 30-day countdown from the day of receiving the second cloth.
+
+     - 如果第二塊布的品質與第一塊布的品質不同，如果不願意，則沒有強迫將兩塊布放在一起來製作成必需品，並且可以繼續等待更多的布（如果有期望更多的布），只要第一塊布料的壽命允許。《義註》建議，如果第二塊布的品質比第一塊布的品質差，則可以將其決意為必需布；如果第二塊布的品質更好，則可以將第一塊布決意為必需布，並從收到第二塊布之日起開始新的三十天倒數計時。
+
 .. _Mv.VIII.24-25: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.VIII.25.3
 .. _《大品》.八.24-25: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0387a08
 .. _比丘尼的《捨墮》二: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_011#0336a09
