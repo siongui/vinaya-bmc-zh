@@ -1024,6 +1024,36 @@
 .. _《大品》.八.24-25: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0387a08
 .. _比丘尼的《捨墮》二: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_011#0336a09
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - Days are counted by dawns. If, by the 30th dawnrise after one receives the original cloth, one has not determined it, placed it under shared ownership, or abandoned it, it is to be forfeited and the offense confessed. The Sub-commentary adds that if at any time after the first ten days have elapsed one abandons any expectation for further cloth, one must determine the original cloth, place it under shared ownership, or abandon it before the following dawnrise. Otherwise, one commits an offense under `NP 1`_.
+
+     - 日子是按黎明計算的。若在收到原始布料後第30天黎明升起時未決意、置其於共享所有權之下、或放棄，則需捨出並懺罪。《複註》補充說，如果在前十天過去後的任何時候，放棄了對更多布料的任何期望，則必須決意原始布料，將其置於共享所有權之下，或者在下一個黎明升起之前將其放棄。否則，即構成\ `《捨墮》一`_\ 下的犯戒。
+
+   * - As noted under `NP 1`_, `Mv.V.13.13`_ states that if one is informed of a gift of robe-cloth, the counting of the time span does not begin until the cloth has reached one’s hand.
+
+     - 正如\ `《捨墮》一`_\ 中所指出的，\ `《大品》.五.13.13`_\ 規定，如果被告知一件袈裟布的布施，則直到布料到達該人的手裡時才開始計算時間跨度。
+
+   * - As in the preceding rules, perception is not a mitigating factor. If one miscounts the dawns or thinks the cloth is properly determined, etc., when in fact it isn’t, there is an offense all the same. The Vibhaṅga states that, with regard to a robe that has not been kept beyond the allowable time, if one perceives it to have been kept beyond that time or if one is in doubt about it, the penalty is a dukkaṭa. As under the preceding rules, this penalty apparently applies to *using* the robe.
+
+     - 正如前面的戒條一樣，感知不是減輕處罰的因素。如果錯誤地計算了黎明，或者認為布料是正確被決意的，等等，而事實上並非如此，這仍然是犯戒。《經分別》規定，對於一件沒有超過允許時間保存的袈裟，如果認為它的保存時間超過了該時間，或者如果對此有疑問，則懲罰是《突吉羅》。與前述戒條一樣，這種懲罰顯然適用於\ *使用*\ 袈裟。
+
+   * - As for out-of-season cloth received shortly before the beginning of the robe season, the countdown would begin when it is received, would be suspended throughout the robe season, and would resume at the robe season’s end.
+
+     - 對於在袈裟季節開始前不久收到的非時布料，倒數計時將從收到時開始，在整個袈裟季節期間暫停，並在袈裟季節結束時恢復計時。
+
+   * - However, as with many of the above issues, this situation rarely comes up in practice, as it is a simple enough matter to determine the original cloth as requisite cloth or place it under shared ownership until one has enough cloth to make one’s requisite, remove it from those arrangements to make the requisite, and so avoid having to worry about this rule at all.
+
+     - 然而，與上述許多問題一樣，這種情況在實踐中很少出現，因為決意原始布料為必需布或將其置於共享所有權之下是一件足夠簡單的事情，直到有足夠的布料來製作自己的必需品，從這些安排中移除它來製作必需品為止，因此根本不必擔心本戒條。
+
+.. _Mv.V.13.13: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.V.13.13
+.. _《大品》.五.13.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_005#0263a11
+
 
 (未完待續)
 
