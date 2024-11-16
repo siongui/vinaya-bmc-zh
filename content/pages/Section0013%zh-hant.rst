@@ -1054,6 +1054,32 @@
 .. _Mv.V.13.13: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.V.13.13
 .. _《大品》.五.13.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_005#0263a11
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Forfeiture & confession**
+     - **捨出 & 懺罪**
+
+   * - The procedures for forfeiture, confession, and return of the cloth are the same as under the preceding rules. For the Pali formula to use in forfeiting the cloth, see `Appendix VI`_. Once the cloth is received in return and is now enough for the requisite one has in mind, it is classed as extra robe-cloth under `NP 1`_. If not, the 30-day countdown starts all over again.
+
+     - 捨出、懺罪、返還布料的程序同前述戒條。關於捨出布料時所使用的巴利語公式，請參閱\ `附錄六`_\ 。一旦收到返還的布料並且現在足以製成心中所需的必需品，它就會被歸類為\ `《捨墮》一`_\ 下的額外袈裟布料。如果不足，30 天倒數將重新開始。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if, before the 30 days are up, the original cloth is lost, destroyed, burnt, or snatched away; if someone else takes it on trust; or if the owner determines it for use, places it under shared ownership, or abandons it. And, as stated above, this rule does not apply when the robe-season privileges are in effect.
+
+     - 若在 30 天結束前，原始布料遺失、毀損、燒毀，或被搶走，並不構成犯戒；如果其他人基於信任拿走它；或者如果所有者決意它來使用、將其置於共享所有權之下，或放棄它。並且，如上所述，當袈裟季節方便利益生效時，本戒條不適用。
+
+   * - *Summary: Keeping out-of-season robe-cloth for more than 30 days when it is not enough to make a requisite and one has expectation for more—except when the robe-season privileges are in effect—is a nissaggiya pācittiya offense.*
+
+     - *摘要：在不足以製成必需品且期望獲得更多的情況下，將非時的袈裟布料保留超過 30 天（除非袈裟季節方便利益有效時），是《尼薩耆波逸提》（《捨墮》）罪。*
+
 
 (未完待續)
 
