@@ -184,7 +184,7 @@
      - `\　　　三 <{filename}Section0013%zh-hant.rst#NP3>`__
 
    * - `\　　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP4>`__
-     - 　　　四
+     - `\　　　四 <{filename}Section0013%zh-hant.rst#NP4>`__
 
    * - `\　　　5 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5>`__
      - 　　　五

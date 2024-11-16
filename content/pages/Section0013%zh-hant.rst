@@ -1081,6 +1081,32 @@
      - *摘要：在不足以製成必需品且期望獲得更多的情況下，將非時的袈裟布料保留超過 30 天（除非袈裟季節方便利益有效時），是《尼薩耆波逸提》（《捨墮》）罪。*
 
 
+.. _NP4:
+
+.. raw:: html
+
+   <span id="NP4"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **4**
+     - **四**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu have a used robe washed, dyed, or beaten by a bhikkhunī unrelated to him, it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘用過的袈裟被非親戚的比丘尼清洗、染色或搥打，尼薩耆波逸提。*
+
+   * - The origin story here is one of the classics of Vinaya literature, although it is hard to say which is more memorable—the dry, matter-of-fact style with which the narrative relates the improbable events, or the reaction of the bhikkhunīs when they hear what has happened.
+
+     - 這裡的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0290a03>`__\ 是戒律文獻的經典之一，雖然很難說哪一個更令人難忘—是用枯燥乏味的、實事求是的敘述方式講述不可能發生的事件，還是比丘尼當聽到發生什麼事時的反應。
+
+
 (未完待續)
 
 
