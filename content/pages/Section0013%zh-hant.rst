@@ -1106,6 +1106,49 @@
 
      - 這裡的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0290a03>`__\ 是戒律文獻的經典之一，雖然很難說哪一個更令人難忘—是用枯燥乏味的、實事求是的敘述方式講述不可能發生的事件，還是比丘尼當聽到發生什麼事時的反應。
 
+   * - .. container:: mx-2
+
+          “Now at that time Ven. Udāyin’s wife had gone forth among the bhikkhunīs. She often went to his place, and he often went to hers. One day he went to her place for a meal-donation. Dressing (§) early in the morning, taking his bowl and (outer) robe, he went to her and on arrival sat down in front of her, exposing his penis. She sat down in front of him, exposing her vagina. He, impassioned, stared at her vagina. Semen was released from his penis (§). He said to her, ‘Go and fetch some water, sister. I’ll wash my lower robe.’
+
+     - .. container:: mx-2
+
+          「爾時，優陀夷尊者的妻子出家於比丘尼之中。她常去他那裡，他也常去她那裡。有一天，他去她的地方給食。一大早就穿好衣服（§），拿著缽和（外）衣，他去她那裡，到達後坐在她面前，露出他的陰莖。她在他面前坐下，露出自己的陰道。他熱情地盯著她的陰道。精液從他的陰莖泄出來（§）。他對她說：『妹，取水來。我要洗我的下衣。』
+
+   * - .. container:: mx-2
+
+          “‘Give it here, master. *I’ll* wash it.’
+
+     - .. container:: mx-2
+
+          「『把它放這裡，大德。\ *我來*\ 洗它。』
+
+   * - .. container:: mx-2
+
+          “Then she took some of the semen (§) in her mouth and inserted some of it in her vagina. With that, she conceived a child.
+
+     - .. container:: mx-2
+
+          「然後她將一些精液（§）放入口中，並將其中一些精液插入陰道。就這樣，她懷了一個孩子。
+
+   * - .. container:: mx-2
+
+          “The bhikkhunīs said, ‘This bhikkhunī has been practicing unchastity. She’s pregnant.’
+
+     - .. container:: mx-2
+
+          「比丘尼們說：『這位比丘尼一直在行非梵行。她懷孕了。』
+
+   * - .. container:: mx-2
+
+          “‘It’s not that I’ve been practicing unchastity.’ And she told them what had happened. The bhikkhunīs criticized and complained and spread it about, ‘How can this Master Udāyin get a bhikkhunī to wash his used robe?’”
+
+     - .. container:: mx-2
+
+          「『並不是我一直在行非梵行。』她告訴她們發生了什麼事。比丘尼們批評、抱怨、散佈：『這位優陀夷大德怎麼能讓比丘尼來洗他用過的袈裟呢？』
+
+   * - There are three factors for an offense here: object, effort, and result.
+     - 這裡的犯戒有三個因素：對象、努力和結果。
+
 
 (未完待續)
 
