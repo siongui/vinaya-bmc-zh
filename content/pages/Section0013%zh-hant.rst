@@ -1165,12 +1165,31 @@
      - 根據《經分別》的說法，\ *用過*\ 意味著至少在身體上穿著一次。根據《義註》，它也可以意味著以其他方式使用，例如捲起來作為枕頭或披在肩膀或頭上。
 
    * - The Vibhaṅga adds that sitting cloths and bed sheets are grounds for a dukkaṭa; other requisites, grounds for no offense.
-     - 《經分別》補充說，坐布和床單犯《突吉羅》；其他必需品，不犯。
+     - 《經分別》補充說，坐布和床單則犯《突吉羅》；其他必需品，不犯。
 
 .. _Pc 58: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
 .. _《波逸提》五八: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
 .. TODO FIXME: replace link to 《波逸提》五八
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - One tells an unrelated bhikkhunī to wash, dye, or beat the robe.
+     - 吩咐一位非親戚比丘尼清洗、染色或捶打袈裟。
+
+   * - A *bhikkhunī*, here, means one who has received the double ordination, first in the Bhikkhunī Saṅgha and secondly in the Bhikkhu Saṅgha (see `BMC2, Chapter 23`_). A bhikkhunī who has received only her first ordination is grounds for a dukkaṭa. Female trainees and female novices are not grounds for an offense.
+
+     - 此處，\ *比丘尼*\ 是指已二部受戒的人，首先在比丘尼僧團受戒，其次在比丘僧團受戒（見\ `《佛教修道準則 第二冊》第二十三章`_\ ）。只受第一部戒的比丘尼則犯《突吉羅》。\ `式叉摩那`_\ 和\ `沙彌尼`_\ 則不犯。
+
+.. _BMC2, Chapter 23: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
+.. _《佛教修道準則 第二冊》第二十三章: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十三章
+.. _式叉摩那: https://zh.wikipedia.org/wiki/%E5%BC%8F%E5%8F%89%E6%91%A9%E9%82%A3
+.. _沙彌尼: https://zh.wikipedia.org/wiki/%E6%B2%99%E5%BD%8C%E5%B0%BC
 
 (未完待續)
 
