@@ -1149,6 +1149,28 @@
    * - There are three factors for an offense here: object, effort, and result.
      - 這裡的犯戒有三個因素：對象、努力和結果。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object:**
+     - **對象：**
+
+   * - A used robe. *Robe*, here, according to the Commentary, means any robe that has been dyed and properly marked (see `Pc 58`_). This is its way of saying that the robe must be a finished cloth requisite of the type suitable for wearing, but need not be determined as one of one’s basic three robes. In other words, it could also be as yet undetermined, or a spare robe determined as a requisite cloth.
+
+     - 一件用過的袈裟。根據《義註》，此處的\ *袈裟*\ 是指任何經過染色並適當地標記的袈裟（參見\ `《波逸提》五八`_\ ）。這是說，袈裟必須是適合穿著的成品布料必需品，但不必決意為基本三衣之一。換句話說，它也可能尚未決意，或者一件備用袈裟被決意為必需布。
+
+   * - *Used*, according to the Vibhaṅga, means worn around the body at least once. According to the Commentary, it can mean used in other ways—e.g., rolled up as a pillow or worn draped over the shoulder or head—as well.
+
+     - 根據《經分別》的說法，\ *用過*\ 意味著至少在身體上穿著一次。根據《義註》，它也可以意味著以其他方式使用，例如捲起來作為枕頭或披在肩膀或頭上。
+
+   * - The Vibhaṅga adds that sitting cloths and bed sheets are grounds for a dukkaṭa; other requisites, grounds for no offense.
+     - 《經分別》補充說，坐布和床單犯《突吉羅》；其他必需品，不犯。
+
+.. _Pc 58: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
+.. _《波逸提》五八: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
+.. TODO FIXME: replace link to 《波逸提》五八
+
 
 (未完待續)
 
