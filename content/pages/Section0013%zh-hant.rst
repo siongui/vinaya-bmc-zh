@@ -1185,11 +1185,34 @@
 
      - 此處，\ *比丘尼*\ 是指已二部受戒的人，首先在比丘尼僧團受戒，其次在比丘僧團受戒（見\ `《佛教修道準則 第二冊》第二十三章`_\ ）。只受第一部戒的比丘尼則犯《突吉羅》。\ `式叉摩那`_\ 和\ `沙彌尼`_\ 則不犯。
 
+   * - *Unrelated* is explained by the Vibhaṅga as meaning unrelated back through seven grandfathers, either on the father’s or the mother’s side. The Commentary explains further that this means seven generations counted back starting from one’s grandfather. Thus all descendants of one’s great-great-great-great-great-great-great-grandfathers are counted as one’s relatives. In-laws, however, are not. This definition of *unrelated* applies wherever the Vibhaṅga mentions the word. At the time of the Buddha, perceived ties of kinship extended more widely than they do today, and a bhikkhu at present would be well advised to regard as his relatives only those blood-relations with whom ties of kinship are actually felt.
+
+     - 《經分別》將\ *非親戚*\ 解釋為\ `非繫屬追溯到七代，無論是父親那邊還是母親那邊 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0291a06>`_\ 。《義註》進一步解釋說，這意味著從祖父開始計算七代。因此，曾曾曾曾曾曾曾祖父的所有後裔都被算作親戚。然而，姻親卻不是。此\ *非親戚*\ 的定義適用於《經分別》中提到該字的任何地方。在佛陀時代，人們所感知到的親屬關係比今天更廣泛，現在的比丘最好只將那些真正感受到親屬關係的血親視為他的親戚。
+
+   * - Perception is not an issue here. If a bhikkhu perceives a bhikkhunī as related when in fact she isn’t, he is subject to the full penalty all the same. If he perceives a related bhikkhunī as unrelated, or if he is in doubt as to whether she is related, he incurs a dukkaṭa in getting her to wash, etc., a robe.
+
+     - 感知在這裡無關。如果比丘認為比丘尼有親屬關係，而事實上她沒有親屬關係，那麼他仍然要受到全額懲罰。如果他認為一位有血緣關係的比丘尼沒有血緣關係，或懷疑她是否有血緣關係，他就會因為讓她洗袈裟等而犯《突吉羅》。
+
+   * - *Telling*, according to the Commentary, includes gesturing as well. Thus if a bhikkhunī is washing her robes, and a bhikkhu throws his used robe down next to her, that would fulfill the factor here.
+
+     - *告知*\ ，根據《義註》，也包括示意動作。因此，如果一位比丘尼正在清洗她的袈裟，而一位比丘將他用過的袈裟扔到她旁邊，那就滿足了這裡的因素。
+
 .. _BMC2, Chapter 23: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
 .. _《佛教修道準則 第二冊》第二十三章: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十三章
 .. _式叉摩那: https://zh.wikipedia.org/wiki/%E5%BC%8F%E5%8F%89%E6%91%A9%E9%82%A3
 .. _沙彌尼: https://zh.wikipedia.org/wiki/%E6%B2%99%E5%BD%8C%E5%B0%BC
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Result**
+     - **結果**
+
+   * - The bhikkhunī washes, dyes, or beats the robe as requested.
+     - 比丘尼依要求清洗、染色或捶打袈裟。
+
 
 (未完待續)
 
