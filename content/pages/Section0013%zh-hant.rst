@@ -1195,7 +1195,7 @@
 
    * - *Telling*, according to the Commentary, includes gesturing as well. Thus if a bhikkhunī is washing her robes, and a bhikkhu throws his used robe down next to her, that would fulfill the factor here.
 
-     - *告知*\ ，根據《義註》，也包括示意動作。因此，如果一位比丘尼正在清洗她的袈裟，而一位比丘將他用過的袈裟扔到她旁邊，那就滿足了這裡的因素。
+     - *吩咐*\ ，根據《義註》，也包括示意動作。因此，如果一位比丘尼正在清洗她的袈裟，而一位比丘將他用過的袈裟扔到她旁邊，那就滿足了這裡的因素。
 
 .. _BMC2, Chapter 23: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
 .. _《佛教修道準則 第二冊》第二十三章: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
@@ -1212,6 +1212,45 @@
 
    * - The bhikkhunī washes, dyes, or beats the robe as requested.
      - 比丘尼依要求清洗、染色或捶打袈裟。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Offenses**
+     - **犯戒**
+
+   * - A bhikkhu who tells an unrelated bhikkhunī to wash, etc., his used robe incurs a dukkaṭa in the telling. (For every effort she then makes toward washing it, the Commentary adds, he incurs an extra dukkaṭa, but there is no basis for this opinion in the Vibhaṅga.) If he tells her to wash it, then when the robe is washed it is to be forfeited and the nissaggiya pācittiya offense confessed. If he tells her to dye it, then when the robe is dyed it is to be forfeited and the nissaggiya pācittiya offense confessed. If he tells her to beat it, then when she has beaten the robe at least once with a stick or her hand, it is to be forfeited and the nissaggiya pācittiya offense confessed. The bhikkhu incurs a nissaggiya pācittiya and a dukkaṭa if he gets her to do two of the three actions mentioned in the rule—e.g., washing and dyeing the robe; and a nissaggiya pācittiya and two dukkaṭas if he gets her to do all three.
+
+     - 比丘吩咐非親戚比丘尼洗滌等，他用過的袈裟會在吩咐時招致《突吉羅》。（《義註》補充道，對於她隨後為清洗它所做的每一次努力，他都會招致額外的《突吉羅》，但這種觀點在《經分別》中沒有任何基礎。）如果他告訴她清洗它，那麼當袈裟被清洗時，它需被捨出並懺悔《捨墮》罪。如果他告訴她要染色，那麼當袈裟被染色時，它需被捨出並懺悔《捨墮》罪。如果他告訴她要搥打它，那麼當她用棍子或她的手至少打過一次袈裟時，它需被捨出並懺悔《捨墮》罪。如果比丘讓比丘尼做戒條中提到的三種行為中的兩種，例如洗滌和染色袈裟，他就會招致一次《捨墮》和一次《突吉羅》。如果他讓她做所有這三件事的話，一次《捨墮》和兩次《突吉羅》。
+
+   * - The procedures for forfeiture, confession, and return of the robe are the same as under the preceding rules. Once the robe is returned, it counts as an extra robe-cloth under `NP 1`_.
+
+     - 捨出、懺罪、歸還袈裟的程序，如同前述戒條。一旦袈裟被歸還，它就被視為\ `《捨墮》一`_\ 之下的額外袈裟布料。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if the bhikkhunī is related to the bhikkhu, if an unrelated bhikkhunī washes the robe unasked, if an unrelated bhikkhunī helps a related bhikkhunī wash it, if the robe has not yet been used, if one gets an unrelated bhikkhunī to wash another type of requisite (aside from a robe, a sitting cloth, or a bed sheet), or if one gets an unrelated female trainee or female novice to wash a used robe.
+
+     - 如果比丘尼與該比丘有親屬關係，如果一個無血緣關係的比丘尼未經要求就洗了袈裟，如果一個無血緣關係的比丘尼幫助有血緣關係的比丘尼洗了它，如果袈裟還沒有被使用過，如果讓一個沒有血緣關係的比丘尼清洗另一種必需品（除了袈裟、坐布或床單）或找一個無血緣關係的\ `式叉摩那`_\ 或\ `沙彌尼`_\ 來洗一件用過的袈裟，這並沒有犯戒。
+
+   * - The Commentary discusses the case of a bhikkhu who gives a used robe to a female trainee to wash: She takes it, becomes ordained as a bhikkhunī in the meantime, and then washes it. The verdict: He incurs the full penalty under this rule. For the fun of it, the Commentary then discusses the case of a bhikkhu who gives his used robe to a lay man to wash. The lay man undergoes a spontaneous sex change and becomes a bhikkhunī before washing the robe, and again, the bhikkhu incurs the full penalty. What lesson is intended here is hard to say.
+
+     - 《義註》討論了一位比丘將一件用過的袈裟交給\ `式叉摩那`_\ 清洗的案例：她接受了它，同時受戒為比丘尼，然後清洗它。判決：根據本戒條，他將受到全額懲罰。為了好玩，《義註》接著討論了一位比丘將他用過的袈裟交給一位在家男居士清洗的案例。在家男居士在洗袈裟之前經歷自發性的變性並成為比丘尼，而同樣地，比丘遭受全額懲罰。很難說這裡的教訓到底是什麼。
+
+   * - *Summary: Getting an unrelated bhikkhunī to wash, dye, or beat a robe that has been used at least once is a nissaggiya pācittiya offense.*
+
+     - *摘要：讓非親戚比丘尼清洗、染色或搥打至少使用過一次的袈裟是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
 
 
 (未完待續)
