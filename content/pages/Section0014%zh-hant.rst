@@ -804,8 +804,7 @@
      - 一般來說，將資金留在自己的處所保管不是一個明智之舉——一個允許這樣做的僧團會讓自己面臨搶劫和襲擊的危險——但這裡的《義註》似乎對描述理想行為不太感興趣，而僅僅只是區分什麼是犯戒和什麼不是犯戒。
 
 .. _NP 5: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
-.. _《捨墮》五: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
-.. TODO FIXME: replace link to 《捨墮》五
+.. _《捨墮》五: {filename}Section0013%zh-hant.rst#NP5
 .. _式叉摩那: https://zh.wikipedia.org/wiki/%E5%BC%8F%E5%8F%89%E6%91%A9%E9%82%A3
 .. _沙彌: https://zh.wikipedia.org/wiki/%E6%B2%99%E5%BD%8C
 .. _沙彌尼: https://zh.wikipedia.org/wiki/%E6%B2%99%E5%BD%8C%E5%B0%BC

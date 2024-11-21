@@ -1253,6 +1253,55 @@
    \*    \*    \*
 
 
+.. _NP5:
+
+.. raw:: html
+
+   <span id="NP5"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **5**
+     - **五**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu accept robe-cloth from the hand of a bhikkhunī unrelated to him—except in exchange—it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘從非親戚比丘尼手中接受袈裟布—除非作為交換—尼薩耆波逸提。*
+
+   * - The reason behind this rule is expressed by a single sentence in the origin story: ‘It’s hard for us women to come by things.’ In the original version of the rule, the Buddha made no allowance for accepting robe-cloth in exchange, but this point was later added at the request of the bhikkhunīs. They had tried to exchange robe-cloth with the bhikkhus, who refused because of the rule as it stood at that time, and this upset the bhikkhunīs. As the Commentary explains, their poverty was what made them complain, ‘If the Masters are not on familiar terms with us even to this extent, how are we supposed to keep going?’
+
+     - 本戒條背後的原因可以用\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0293a07>`__\ 中的一句話來表達：「我們女人很難得到東西。」在最初版本的戒條中，佛陀不允許接受袈裟作為交換，但這一點是後來應比丘尼的要求而加上去的。她們試圖與比丘們交換袈裟，但比丘們因為當時的規定而拒絕了，這讓比丘尼們很不高興。正如《義註》所解釋的那樣，她們的貧困使她們抱怨，「如果大德與我們的關係不熟悉到這種程度，我們該如何繼續前進？」
+
+   * - The offense under this rule is composed of two factors: object and effort.
+     - 本戒條下的犯戒由兩個因素組成：對象和努力。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object:**
+     - **對象：**
+
+   * - Any piece of robe-cloth of the six suitable kinds, measuring at least four by eight fingerbreadths. Other requisites are not grounds for an offense.
+     - 任何六種適合的袈裟布，尺寸至少為四乘八指寬。其他必需品不犯戒。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - The bhikkhu receives such cloth from an unrelated bhikkhunī and does not give her anything in exchange.
+     - 比丘從一位非親戚的比丘尼那裡得到這樣的布料，但沒有給她任何東西作為交換。
+
+
 (未完待續)
 
 
@@ -1547,7 +1596,7 @@
 
    * - As for the second of the two instances—the donor gives the gift to the bhikkhu’s normal steward but does not inform the bhikkhu or have him informed—the steward can either inform the bhikkhu or not. If he/she chooses to inform the bhikkhu, then according to the Commentary the bhikkhu would have the right to make any number of promptings, as the steward now counts as having given an invitation. Thus the steward would not be protected by the protocol under this rule, which doesn’t seem proper. If, however, the steward chooses not to inform the bhikkhu, there are two further possibilities: Either the bhikkhu never learns of the arrangement, in which case the issue is moot; or else he learns through a third party, in which case the bhikkhu would seem to have the right to ask the steward if the third party’s report is true. If the steward lies and says No, then that’s the steward’s kamma. If the steward truthfully reports Yes, then it would seem reasonable to apply the protocol under this rule.
 
-     - 至於這兩種情況中的第二種情況──施主將布施給比丘的正常淨人，但沒有通知比丘或讓他被通知──淨人可以通知比丘，也可以不通知。如果他/她選擇通知比丘，那麼根據《義註》，比丘將有權做出任意次數的提示，因為淨人現在被視為已發出邀請。因此，根據本戒條，淨人將不受行儀的保護，這似乎不合適。然而，如果淨人選擇不通知比丘，則還有兩種可能性：要麽比丘永遠不知道這一安排，在這種情況下，這議題就沒有意義了；否則，他透過第三者得知，在這種情況下，比丘似乎有權詢問淨人第三者的報告是否屬實。如果淨人撒謊並說「否」，那麼這就是淨人的業力。如果淨人如實報告「是」，那麼適用本戒條下的行儀似乎是合理的。
+     - 至於這兩種情況中的第二種情況──施主將布施給比丘的正常淨人，但沒有通知比丘或讓他被通知──淨人可以通知比丘，也可以不通知。如果他/她選擇通知比丘，那麼根據《義註》，比丘將有權做出任意次數的提示，因為淨人現在被視為已發出邀請。因此，根據本戒條，淨人將不受行儀的保護，這似乎不合適。然而，如果淨人選擇不通知比丘，則還有兩種可能性：要麼比丘永遠不知道這一安排，在這種情況下，這議題就沒有意義了；否則，他透過第三者得知，在這種情況下，比丘似乎有權詢問淨人第三者的報告是否屬實。如果淨人撒謊並說「否」，那麼這就是淨人的業力。如果淨人如實報告「是」，那麼適用本戒條下的行儀似乎是合理的。
 
    * - Thus, given these considerations, there would seem to be little reason to limit the protocols under this rule to cases where the steward is indicated by the bhikkhu, and stronger reason, using the Great Standards, to apply the protocols to all three cases: where the steward is indicated by the bhikkhu, by the donor, or by neither.
 
