@@ -1301,6 +1301,28 @@
    * - The bhikkhu receives such cloth from an unrelated bhikkhunī and does not give her anything in exchange.
      - 比丘從一位非親戚的比丘尼那裡得到這樣的布料，但沒有給她任何東西作為交換。
 
+   * - *Unrelated bhikkhunī* here is defined in the same terms as under the preceding rule: a bhikkhunī who has received the double ordination and is not related to the bhikkhu back through their great x 7 grandfathers. A bhikkhunī who has received only her first ordination, from the bhikkhunīs, is grounds for a dukkaṭa. Female trainees and female novices are not grounds for an offense.
+
+     - 此處\ *非親戚比丘尼*\ 的定義與前一條戒條中的術語相同：已二部受戒的比丘尼，與該比丘的七代曾祖父沒有血緣關係。從比丘尼們那裡已一部受戒的比丘尼，犯《突吉羅》。\ `式叉摩那`_\ 和\ `沙彌尼`_\ 則不犯。
+
+   * - Perception here is not a mitigating factor: According to the Vibhaṅga, even if a bhikkhu perceives an unrelated bhikkhunī as related he is still subject to the penalty. If he perceives a related bhikkhunī as unrelated or if he is in doubt about whether she is related, he incurs a dukkaṭa in receiving a robe from her.
+
+     - 此處感知並不是減輕懲罰的因素：根據《經分別》，即使比丘認為一位非親戚比丘尼有親屬關係，他仍然會受到懲罰。如果他認為一位親戚比丘尼沒有血緣關係，或者懷疑她是否有血緣關係，他從她那裡接受袈裟時就會犯《突吉羅》。
+
+   * - The Commentary adds that even if one does not know that the robe comes from a bhikkhunī—as when many donors place robes in a pile for a bhikkhu, and one of the donors, unbeknownst to him, is a bhikkhunī—this factor is fulfilled all the same. If a bhikkhunī gives robe-cloth to someone else to present to a bhikkhu, though, the bhikkhu commits no offense in accepting it.
+
+     - 《義註》補充說，即使不知道袈裟來自比丘尼——就像許多布施者將袈裟堆成一堆送給比丘，而其中一位布施者在他不知情的情況下是比丘尼——仍然滿足了此一因素。然而，如果比丘尼將袈裟交給別人，讓其送給比丘，比丘接受它並沒有犯戒。
+
+   * - The Commentary also states that receiving need not be hand-to-hand. If a bhikkhunī simply places robe-cloth near a bhikkhu as her way of giving it to him and he accepts it as given, this factor is fulfilled.
+
+     - 《義註》也指出，接收不一定是手對手。如果比丘尼只是將袈裟布放在比丘附近作為布施給比丘的方式，而比丘接受它作為布施，那麼這個因素就滿足了。
+
+   * - As for the item given in exchange for the cloth, the Vibhaṅga states that it can be worth much more than the cloth or much less. Buddhaghosa quotes the Mahā Paccarī, one of the ancient commentaries, as saying that even if, in return for the cloth, the bhikkhu gives the bhikkhunī a piece of yellow myrobalan—a medicinal fruit, one of the cheapest things imaginable in India—he escapes the penalty under this rule.
+
+     - 至於用布料換取的物品，《經分別》指出，它的價值可能比布料高得多，也可能比布料低很多。\ `佛音`_\ 引用古代註釋書之一《Mahā Paccarī》的話說，即使比丘為了換取布，給比丘尼一塊黃色的訶子——一種藥用水果，是印度能想像到的最便宜的東西之一——他也逃脫了本戒條的處罰。
+
+.. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
+
 
 (未完待續)
 
