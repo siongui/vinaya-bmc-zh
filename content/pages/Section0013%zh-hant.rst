@@ -1383,6 +1383,36 @@
    \*    \*    \*
 
 
+.. _NP6:
+
+.. raw:: html
+
+   <span id="NP6"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **6**
+     - **六**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu ask for robe-cloth from a man or woman householder unrelated to him, except at the proper occasion, it is to be forfeited and confessed. Here the proper occasion is this: The bhikkhu’s robe has been snatched away or destroyed. This is the proper occasion here.*
+
+     - .. container:: notification
+
+          *如果任何比丘向非親戚男女居士索取袈裟布，除非在適當的場合，尼薩耆波逸提。此處適當的場合是：比丘的袈裟被搶走或毀壞。這是這裡的適當場合。*
+
+   * - .. container:: mx-2
+
+          “Now at that time Ven. Upananda the Sakyan was accomplished in giving Dhamma talks. A certain financier’s son went to him and, on arrival, bowed down to him and sat to one side. As he was sitting there, Ven. Upananda the Sakyan instructed, urged, roused, and encouraged him with a Dhamma talk. Then the financier’s son… said to him, ‘Tell me, venerable sir, what I would be capable of giving you that you need: Robe-cloth? Almsfood? Lodgings? Medicines for the sick?’
+
+     - .. container:: mx-2
+
+          「\ `爾時，優波難陀尊者釋迦子在說法方面頗有成就。 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0296a14>`_\ 一位金融家的兒子走到他面前，一到就向他敬禮，坐在一邊。當他坐在那裡時，優波難陀尊者釋迦子以佛法開示教導、督促、喚醒和鼓勵他。然後金融家的兒子……對他說：『大德，請告訴我，我能為您提供您需要的東西：袈裟布？缽食？住處？病資具藥物？』
+
+
 (未完待續)
 
 

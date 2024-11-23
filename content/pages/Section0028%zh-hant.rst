@@ -298,8 +298,7 @@
      -
 
 .. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
-.. _《捨墮》六: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
-.. TODO FIXME: replace link to 《捨墮》六
+.. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
 
 
 .. list-table::
