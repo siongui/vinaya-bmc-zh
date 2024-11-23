@@ -1323,6 +1323,65 @@
 
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Offenses**
+     - **犯戒**
+
+   * - In making an effort to receive robe-cloth from an unrelated bhikkhunī without offering anything in return, a bhikkhu incurs a dukkaṭa. Once he has obtained the cloth, he must forfeit it and confess the nissaggiya pācittiya offense. The procedures for forfeiture, confession, and return of the cloth are the same as under the preceding rules.
+
+     - 當比丘試圖從非親戚比丘尼那裡接受袈裟布而不提供任何回報時，比丘犯《突吉羅》。一旦他獲得了布料，他就必須捨出它並懺悔《捨墮》罪。捨出、懺罪、返還布料的程序同前述戒條。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense:
+     - 沒有犯戒：
+
+   * - if the bhikkhunī is related;
+     - 如果比丘尼有親屬關係；
+
+   * - if the bhikkhunī is not related but the bhikkhu gives her something in exchange;
+     - 如果比丘尼沒有親屬關係，但比丘給她某物作為交換；
+
+   * - if the bhikkhu takes the cloth on trust;
+     - 如果比丘基於信任拿走布料；
+
+   * - if he borrows the cloth;
+     - 如果他借布料；
+
+   * - if he accepts a non-cloth requisite; or
+     - 如果他接受非布料必需品；或者
+
+   * - if he accepts robe-cloth from a female trainee or female novice.
+     - 如果他接受\ `式叉摩那`_\ 或\ `沙彌尼`_\ 的袈裟布。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Exchange**
+     - **交換**
+
+   * - The origin story to this rule is where the Buddha explicitly gives permission for bhikkhus, bhikkhunīs, female trainees, male novices, and female novices to trade items with one another. `NP 20`_ forbids bhikkhus from trading items with lay people and people ordained in other religions.
+
+     - 本戒條的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0293a07>`__\ ，佛陀明確地允許比丘、比丘尼、\ `式叉摩那`_\ 、沙彌和\ `沙彌尼`_\ 互相交易物品。\ `《捨墮》二十`_\ 禁止比丘與俗人和其他宗教出家的人進行物品交易。
+
+   * - *Summary: Accepting robe-cloth from an unrelated bhikkhunī without giving her anything in exchange is a nissaggiya pācittiya offense.*
+
+     - *摘要：接受非親戚比丘尼的袈裟布而不給她任何東西作為交換，是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
 
