@@ -1412,6 +1412,75 @@
 
           「\ `爾時，優波難陀尊者釋迦子在說法方面頗有成就。 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0296a14>`_\ 一位金融家的兒子走到他面前，一到就向他敬禮，坐在一邊。當他坐在那裡時，優波難陀尊者釋迦子以佛法開示教導、督促、喚醒和鼓勵他。然後金融家的兒子……對他說：『大德，請告訴我，我能為您提供您需要的東西：袈裟布？缽食？住處？病資具藥物？』
 
+   * - .. container:: mx-2
+
+          “‘If you want to give me something, friend, then give me one of those cloths (you are wearing).’
+
+     - .. container:: mx-2
+
+          「『如果你想給我一些東西，朋友，那就給我一件（你穿的）衣服。』
+
+   * - .. container:: mx-2
+
+          “‘I’m the son of a good family, venerable sir. How can I go about wearing one cloth? Wait till I go home. After going home, I will send you one of these cloths or a more beautiful one.’
+
+     - .. container:: mx-2
+
+          「『大德，我是一位良家子。我怎能只穿一件衣服呢？等我回家吧。回家後，我會給你送一件這樣的衣服，或者一件更漂亮的衣服。』
+
+   * - .. container:: mx-2
+
+          “A second time… A third time, Ven. Upananda said to him, ‘If you want to give me something, friend, then give me one of those cloths.’
+
+     - .. container:: mx-2
+
+          「第二次……第三次，優波難陀尊者對他說：『朋友，如果你想給我什麼東西，就給我其中一件衣服吧。』
+
+   * - .. container:: mx-2
+
+          “‘I’m the son of a good family, venerable sir. How can I go about wearing one cloth? Wait till I go home. After going home, I will send you one of these cloths or a more beautiful one.’
+
+     - .. container:: mx-2
+
+          「『大德，我是一位良家子。我怎能只穿一件衣服呢？等我回家吧。回家後，我會給你送一件這樣的衣服，或者一件更漂亮的衣服。』
+
+   * - .. container:: mx-2
+
+          “‘What’s with this offer without wanting to give, friend, in that having made the offer you don’t give?’
+
+     - .. container:: mx-2
+
+          「『朋友，提出了不想給予的邀請，但不想給予的這個邀請是怎麼回事？』
+
+   * - .. container:: mx-2
+
+          “So the financier’s son, being pressured by Ven. Upananda, left having given him one cloth. People seeing him said to him, ‘Why, master, are you going around wearing only one cloth?’
+
+     - .. container:: mx-2
+
+          「所以金融家的兒子，受到了優波難陀尊者的壓力，給了他一件衣服就離開了。人們看見他就問他：『賢者，你為什麼只穿一件衣服到處走？』
+
+   * - .. container:: mx-2
+
+          “He told them what had happened. So the people criticized and complained and spread it about, ‘They’re arrogant, these Sakyan-son monks, and malcontent. It’s no simple matter to make a reasonable offer to them. How can they, after being made a reasonable offer by the financier’s son, take his cloth?’”
+
+     - .. container:: mx-2
+
+          「他告訴他們發生了什麼事。於是人們批評、抱怨、傳播：『這些釋迦子僧人傲慢，不滿。向他們提出合理的邀請並不是一件簡單的事。在金融家的兒子提出合理的邀請後，他們怎麼能拿走他的衣服呢？』」
+
+   * - The factors for an offense here are three.
+     - 這裡的犯戒因素有三。
+
+   * - *1) Object:* a piece of any of the six suitable kinds of robe-cloth, measuring at least four by eight fingerbreadths.
+     - *1）對象：*\ 六種合適的袈裟布料中的任何一種，尺寸至少為四乘八指寬。
+
+   * - *2) Effort:* One asks, except at the proper time, for such cloth from a lay person who is not related back through one’s great x 7 grandfathers. Perception is not a mitigating factor here. Even if one perceives the lay person to be related when in fact he/she isn’t, that fulfills the factor here.
+
+     - *2）努力：*\ 除非在適當的場合之外，向一位與自己的七代祖父沒有血緣關係的在家人索取這樣的布料。在這裡，感知並不是減輕懲罰的因素。即使認為在家人有血緣關係，但實際上他/她沒有血緣關係，這也滿足了這裡的因素。
+
+   * - *3) Result:* One obtains the cloth.
+     - *3）結果：*\ 獲得布料。
+
 
 (未完待續)
 
