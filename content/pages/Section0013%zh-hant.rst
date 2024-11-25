@@ -1540,6 +1540,21 @@
 .. _《波逸提》十一: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
 .. TODO FIXME: replace link to 《波逸提》十一
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Offenses**
+     - **犯戒**
+
+   * - The act of asking for robe-cloth from an unrelated lay person not at the proper time entails a dukkaṭa. The cloth, once obtained, is to be forfeited and the nissaggiya pācittiya offense confessed. The procedures for forfeiture, confession, and return of the cloth are the same as under the preceding rules. The Pali formula to use in forfeiting the cloth is given in `Appendix VI`_.
+
+     - 在適當的場合向非親戚居士索取袈裟布的行為犯《突吉羅》。布料一旦獲得，將被捨出，並懺悔《捨墮》罪。捨出、懺罪、返還布料的程序同前述戒條。\ `附錄六`_\ 給出了用於捨出布料的巴利語公式。
+
+   * - If one perceives a related householder as unrelated, or if one is in doubt about whether he/she is related, one incurs a dukkaṭa in asking for and receiving a robe from him/her.
+
+     - 如果認為一位有親屬關係的居士沒有親屬關係，或者懷疑他/她是否有親屬關係，那麼向他/她索要一件袈裟並接受時各犯一次《突吉羅》。
+
 
 (未完待續)
 
