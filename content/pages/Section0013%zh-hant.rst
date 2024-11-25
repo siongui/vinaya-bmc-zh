@@ -1481,6 +1481,65 @@
    * - *3) Result:* One obtains the cloth.
      - *3）結果：*\ 獲得布料。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The proper occasions**
+     - **適當的場合**
+
+   * - *Snatched away*, according to the Vibhaṅga, refers to a robe snatched by anyone at all, even a king. This would cover cases not only where the robe has been stolen but also where it has been confiscated by a government official. *Destroyed* means burnt, carried away by water, eaten by such things as rats or termites, or worn out by use—although the Sub-commentary adds here that worn out by use means worn to the point where the robe can no longer offer proper covering for the body.
+
+     - 根據《經分別》的說法，\ *被搶走*\ 是指被任何人，甚至國王，搶走的袈裟。這不僅涵蓋袈裟被盜的情況，還包括袈裟被政府官員沒收的情況。\ *毀壞*\ 是指被燒毀、被水沖走、被老鼠或白蟻之類的東西吃掉，或者因使用而磨損——儘管《複註》在這裡補充說，因使用而磨損是指磨損到袈裟不再能提供適當遮蓋身體的程度。
+
+   * - If all of a bhikkhu’s robes are snatched away or destroyed, the Vibhaṅga says that he is not to “come” naked, which apparently means that he should not approach other people while naked. To do so incurs a dukkaṭa (as opposed to the thullaccaya `Mv.VIII.28.1`_ imposes on a bhikkhu who chooses to go about naked when he has robes to wear). If a bhikkhu with no cloth to cover his body happens on an unoccupied Saṅgha residence, he is permitted to take any cloth he finds there—robes, sheets, mats, pillow cases, or whatever—to wear as a makeshift robe as long as he has the intention of returning it when he obtains a proper robe. Otherwise he should make a covering of grass and leaves.
+
+     - 如果比丘的所有袈裟都被搶走或毀壞，《經分別》說他不應該赤身裸體『來』，這顯然意味著他不應該赤身裸體接近其他人。這樣做犯《突吉羅》（與\ `《大品》.八.28.1`_\ 中相反，當比丘有袈裟時，他選擇赤身裸體，犯《偷蘭遮》）。如果比丘沒有衣服遮蓋自己的身體，碰巧在無人居住的僧伽住處，他可以拿走那裡找到的任何衣服——袈裟、床單、墊子、枕頭套或任何東西——作為臨時袈裟穿著，只要當他獲得一件合適的袈裟時，他打算歸還它。否則他應該用草和樹葉覆蓋。
+
+   * - The Commentary adds several points here:
+     - 《義註》在此補充了幾點：
+
+   * - .. container:: mx-2
+
+          1\) If one picks leaves or cuts grass to make a covering for oneself under these circumstances, one is exempt from the penalty for damaging plant life under `Pc 11`_. In other words, the allowance here takes precedence over the prohibition in that rule, rather than *vice versa*. (The Vibhaṅga does not clearly state which takes precedence over which.) Other bhikkhus are also exempt from that penalty if they pick grass and leaves to help make a covering for a bhikkhu whose robes have been snatched away or destroyed.
+
+     - .. container:: mx-2
+
+          1）如果在這種情況下採摘樹葉或割草為自己做遮蓋物，則可以免除\ `《波逸提》十一`_\ 規定的破壞植物生命的懲罰。換句話說，這裡的開緣優先於該戒條中的禁止，而不是\ *反之亦然*\ 。（《經分別》並沒有明確說明哪個比哪個優先。）其他比丘如果摘草和樹葉來幫助袈裟被搶走或毀壞的比丘做遮蔽物，也可以免受該懲罰。
+
+   * - .. container:: mx-2
+
+          2\) If, after getting one’s makeshift robe from an unoccupied Saṅgha residence, one has to go a great distance before getting a proper robe, one may leave the makeshift robe with any convenient monastery as property of the Saṅgha.
+
+     - .. container:: mx-2
+
+          2）如果從無人居住的僧伽住處獲得臨時袈裟後，必須走很遠的距離才能獲得合適的袈裟，則可以將臨時袈裟留在任何方便的寺院，作為僧團的財產。
+
+   * - .. container:: mx-2
+
+          3\) If, under these circumstances, one asks lay people for cloth and receives cloth of a type or color that normally is not allowed, there is no offense in wearing it until one can obtain suitable cloth.
+
+     - .. container:: mx-2
+
+          3）在這種情況下，如果向在家人要衣服，卻收到了通常不允許的類型或顏色的衣服，那麼在獲得合適的衣服之前，穿著它並沒有犯戒。
+
+   * - .. container:: mx-2
+
+          4\) If one’s robes have been taken on trust by another bhikkhu or novice, they count as “snatched away” for the purpose of this and the following rule.
+
+     - .. container:: mx-2
+
+          4）如果袈裟基於信任被另一位比丘或沙彌拿走，就本戒條和以下戒條而言，它們被視為「被搶走」。
+
+   * - The following rule adds extra stipulations on how much cloth one may ask for in circumstances like this.
+     - 以下戒條在這種情況下可以要求多少布料添加了額外的規定。
+
+.. _Mv.VIII.28.1: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Mv.VIII.28.1
+.. _《大品》.八.28.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0395a02
+.. _Pc 11: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
+.. _《波逸提》十一: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
+.. TODO FIXME: replace link to 《波逸提》十一
+
 
 (未完待續)
 
