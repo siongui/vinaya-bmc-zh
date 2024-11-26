@@ -1555,6 +1555,77 @@
 
      - 如果認為一位有親屬關係的居士沒有親屬關係，或者懷疑他/她是否有親屬關係，那麼向他/她索要一件袈裟並接受時各犯一次《突吉羅》。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - According to the Vibhaṅga, there is no offense if—
+     - 根據《經分別》，如果符合以下條件，則不犯戒—
+
+   * - .. container:: mx-2
+
+          one asks at the right time,
+
+     - .. container:: mx-2
+
+          在適當的時候要求，
+
+   * - .. container:: mx-2
+
+          one asks from one’s relations,
+
+     - .. container:: mx-2
+
+          向自己的親戚要求，
+
+   * - .. container:: mx-2
+
+          one asks from people who have invited one to ask for cloth,
+
+     - .. container:: mx-2
+
+          向已邀請自己的人索取布料，
+
+   * - .. container:: mx-2
+
+          one obtains cloth through one’s own resources, or
+
+     - .. container:: mx-2
+
+          透過自己的資源獲得布料，或者
+
+   * - .. container:: mx-2
+
+          one asks for the sake of another. (None of the texts state specifically whether *another* here includes only other bhikkhus, or bhikkhunīs and novices as well. We will assume that all co-religionists are covered under this exemption.)
+
+     - .. container:: mx-2
+
+          為了另一個人而要求。（沒有任何文獻具體說明這裡的\ *另一個*\ 是否只包括其他比丘，或者也包括比丘尼和沙彌。我們假設所有同宗教者都包含在這項豁免範圍內。）
+
+   * - The Commentary explains that this last point means two things: One may ask for cloth for the sake of another (co-religionist) (1) from one’s own relations or from people who have invited one to ask for cloth *or* (2) from the relatives of that (co-religionist) or from people who have invited him/her to ask. This point applies for all rules where one is allowed to ask for the sake of another.
+
+     - 《義註》解釋說，最後一點意味著兩件事：可以為了另一個人（同宗教者）索取布料（1）從自己的親戚或邀請自己索要布料的人，\ *或者*\ （2）從該人（同宗教者）的親戚或邀請他/她要求的人。這一點適用於所有允許為另一個人請求的戒條。
+
+   * - On the surface, it would seem that the allowance to ask for another should mean that one should also be allowed to ask from anyone for the sake of another bhikkhu whose robe has been snatched away or destroyed. However, the origin story to the following rule shows why this is not so: Lay donors can be extremely generous when they learn that a bhikkhu’s robes have been snatched away or destroyed, and it is important to place limits on how much cloth can be requested, and on how many bhikkhus can do the requesting, so as not to take unfair advantage of that generosity.
+
+     - 從表面上看，允許為了另一個比丘要求似乎意味著，也應該允許為了另一位袈裟被搶走或毀壞的比丘而向任何人請求。然而，以下戒條的起源故事表明了為什麼事實並非如此：當在家布施者得知比丘的袈裟被搶走或毀壞時，他們可能會非常慷慨，並且重要的是對可以請求的布料數量進行限制，以及有多少比丘可以提出請求，以免不公平地利用這種慷慨。
+
+   * - As for obtaining cloth through one’s own resources, the Sub-commentary notes that one should be careful to do it in such a way as not to commit an offense under `NP 20`_. Again, this applies to all rules that contain this exemption.
+
+     - 至於透過自己的資源獲得布料，《複註》指出，應該小心行事，以免觸犯\ `《捨墮》二十`_\ 下的罪行。同樣，這適用於包含此豁免的所有戒條。
+
+   * - *Summary: Asking for and receiving robe-cloth from an unrelated lay person, except when one’s robes have been snatched away or destroyed, is a nissaggiya pācittiya offense.*
+
+     - *摘要：向非親戚的在家人索取和接受袈裟，除非他的袈裟被搶走或毀壞，是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
 
