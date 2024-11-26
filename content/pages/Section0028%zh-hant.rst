@@ -325,8 +325,7 @@
      -
 
 .. _NP 7: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
-.. _《捨墮》七: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
-.. TODO FIXME: replace link to 《捨墮》七
+.. _《捨墮》七: {filename}Section0013%zh-hant.rst#NP7
 
 
 .. list-table::

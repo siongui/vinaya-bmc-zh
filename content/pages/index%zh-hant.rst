@@ -193,7 +193,7 @@
      - `\　　　六 <{filename}Section0013%zh-hant.rst#NP6>`__
 
    * - `\　　　7 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7>`__
-     - 　　　七
+     - `\　　　七 <{filename}Section0013%zh-hant.rst#NP7>`__
 
    * - `\　　　8 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP8>`__
      - 　　　八

@@ -521,8 +521,7 @@
 .. _《波逸提》九二: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc92
 .. TODO FIXME: replace link to 《波逸提》九二
 .. _NP 7: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
-.. _《捨墮》七: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
-.. TODO FIXME: replace link to 《捨墮》七
+.. _《捨墮》七: #NP7
 
 
 .. container:: has-text-centered
@@ -1625,6 +1624,32 @@
 .. container:: has-text-centered
 
    \*    \*    \*
+
+
+.. _NP7:
+
+.. raw:: html
+
+   <span id="NP7"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **7**
+     - **七**
+
+   * - .. container:: notification
+
+          *If that unrelated man or woman householder presents the bhikkhu with many robes (pieces of robe-cloth), he is to accept at most (enough for) an upper and a lower robe. If he accepts more than that, it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果那位非親戚的男居士或女居士向比丘獻上許多袈裟（袈裟布），他最多接受（足夠）一件上衣和一件下衣。如果他接受的超過該數量，尼薩耆波逸提。*
+
+   * - This rule is a continuation of the preceding one, dealing with the protocol in asking for robe-cloth when one’s robes have been snatched away or destroyed. The origin story is as follows:
+
+     - 本戒條是前一條戒條的延續，處理當袈裟被搶走或毀壞時索要袈裟的行儀（禮節）。\ `故事的起源 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0301a03>`__\ 是這樣的：
 
 
 (未完待續)
