@@ -1651,6 +1651,70 @@
 
      - 本戒條是前一條戒條的延續，處理當袈裟被搶走或毀壞時索要袈裟的行儀（禮節）。\ `故事的起源 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0301a03>`__\ 是這樣的：
 
+   * - .. container:: mx-2
+
+          “At that time some group-of-six bhikkhus, having approached bhikkhus whose robes had been snatched away, said, ‘Friends, the Blessed One has allowed those whose robes are snatched away or destroyed to ask an unrelated man or woman householder for robe-cloth. Ask for robe-cloth, friends.’
+
+     - .. container:: mx-2
+
+          「爾時，有六群比丘，接近袈裟被搶走的比丘，說道：『諸位朋友，世尊允許那些袈裟被搶走或毀壞的比丘，向非親戚的男女居士索要袈裟布。朋友們，索要袈裟布。』
+
+   * - .. container:: mx-2
+
+          “‘Never mind, friends. We have already received (enough) robe-cloth.’
+
+     - .. container:: mx-2
+
+          「『沒關係，朋友們。我們已經收到了（足夠的）袈裟布。』
+
+   * - .. container:: mx-2
+
+          “‘We are asking for your sake, friends’ (§—reading *āyasmantānaṁ atthāya* with the Thai and Sri Lankan editions of the Canon).
+
+     - .. container:: mx-2
+
+          「『朋友們，我們為你們索要』（§—在泰文版和斯里蘭卡版的《聖典》拼讀為 *āyasmantānaṁ atthāya* ）。
+
+   * - .. container:: mx-2
+
+          “‘Then go ahead and ask.’
+
+     - .. container:: mx-2
+
+          「『那就去問吧。』
+
+   * - .. container:: mx-2
+
+          “So the group-of-six bhikkhus, having approached unrelated householders, said, ‘Bhikkhus have come whose robes were snatched away. Give robe-cloth for them.’ And they asked for a lot of robe-cloth. Then a certain man, sitting in a meeting hall, said to another man, ’Master, bhikkhus have come whose robes were snatched away. I gave robe-cloth for them.’
+
+     - .. container:: mx-2
+
+          「於是，六群比丘來到非親戚的在家人面前，說：『袈裟被搶走的比丘們來了。給他們袈裟布。』並且他們要了很多袈裟布。那時，有一個人坐在集會處裡，對另一個人說：『賢者，袈裟被搶走的比丘們來了。我給了他們袈裟布。』
+
+   * - .. container:: mx-2
+
+          “And he said, ‘I gave, too.’
+
+     - .. container:: mx-2
+
+          「他說，『我也給了。』
+
+   * - .. container:: mx-2
+
+          “And another said, ‘I gave, too.’
+
+     - .. container:: mx-2
+
+          「另一位說，『我也給了。』
+
+   * - .. container:: mx-2
+
+          “So they criticized and complained and spread it about: ‘How can these Sakyan-son monks, not knowing moderation, ask for a lot of robe-cloth? Will the Sakyan-son monks deal in the cloth business? Or will they set up a shop?’”
+
+     - .. container:: mx-2
+
+          「於是他們批評、抱怨、散播：『這些沙門釋子不知節制，怎麼能要那麼多袈裟布呢？沙門釋子將做布料生意嗎？或者他們會開一家商店嗎？』」
+
 
 (未完待續)
 
