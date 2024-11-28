@@ -1715,6 +1715,29 @@
 
           「於是他們批評、抱怨、散播：『這些沙門釋子不知節制，怎麼能要那麼多袈裟布呢？沙門釋子將做布料生意嗎？或者他們會開一家商店嗎？』」
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Protocol**
+     - **行儀**
+
+   * - The Vibhaṅga states that when a bhikkhu’s robes are snatched away or destroyed, the amount of cloth he may ask for and accept from an unrelated householder who has not previously invited him to ask for cloth depends on the number of robes snatched away or destroyed. If three, he may ask for and accept only enough for two. If two, he may ask for and accept only enough for one. If one, he should not ask for any cloth at all.
+
+     - 《經分別》規定，當比丘的袈裟被搶走或毀壞時，他可以向先前未曾邀請他索要布料的非親戚居士索要和接受布匹的數量，取決於被搶走或毀壞的袈裟的數量。如果是三件，他可以要求並只接受足夠兩件的份量。如果是兩件，他以要求並只接受足夠一件的量。如果是一件，他根本不該索取任何布料。
+
+   * - The K/Commentary mentions that these stipulations apply only when robes from one’s determined set of three are snatched away or destroyed. The way it phrases this restriction suggests that if one’s spare robes are snatched away or destroyed, one has no right to ask for robe-cloth at all. The Sub-commentary, though, interprets this restriction not as a restriction but as an allowance opening a loophole so that if one loses any of one’s spare robes, one may ask for as much cloth as one likes. It then accuses the K/Commentary of contradicting the Canon and Commentary, and of ignoring the purpose of the rule, which is to teach moderation and fewness of wants. Its conclusion: The protocol applies when any of one’s robes are snatched away or destroyed—whether undetermined, determined as the basic set of three, or determined as requisite cloths.
+
+     - K/《義註》提到，這些規定僅適用於決意的\ `三衣`_\ 被搶走或毀壞的情況。這種限制的措辭方式表明，如果備用袈裟被搶走或毀壞，那麼他根本沒有權利索要袈裟布。然而，《複註》將這一限制解釋為不是一種限制，而是一種開緣，打開了一個漏洞，這樣如果丟失了任何一件備用袈裟，想要求多少布料都可以。然後，它指責K/《義註》與《聖典》和《義註》相矛盾，並忽略了本戒條的目的，即教導節制和少欲。結論是：當任何一件袈裟被搶走或毀壞時，本行儀都適用——無論是未決意的、決意為基本\ `三衣`_\ ，還是決意為必需布。
+
+   * - If, however, we recall that originally each bhikkhu had only one set of three robes, and that the allowance in the preceding rule was to relieve the hardship of having little or nothing to wear, we can agree with the K/Commentary’s interpretation: that the allowance in the preceding rule applies *only* when robes from one’s basic set of three are snatched away or destroyed, and that this is the case we are concerned with here. If one’s spare robes get snatched away or destroyed, one may not make use of the allowance to ask for robe-cloth at all.
+
+     - 然而，如果我們記得最初每個比丘只有一套\ `三衣`_ ，而前述戒條中的開緣是為了減輕幾乎沒有或沒有衣服可穿的困難，我們就可以同意K/《義註》的解釋：前述戒條中的開緣\ *僅*\ 適用於基本的\ `三衣`_\ 被搶走或毀壞時，這就是我們這裡關注的情況。如果備用袈裟被搶走或毀壞，根本不可以用這個開緣來索取袈裟布。
+
+   * - The Vibhaṅga states further that if the householder presents one with a great deal of cloth, with the invitation to take as much as one likes, one should take only enough cloth to make the allowable number of robes. The non-offense clauses add that one may take excess cloth if one promises to return the excess when one has finished making one’s robe(s). And if the donor tells one to keep the excess, one may do so without penalty.
+
+     - 《經分別》進一步指出，如果居士贈送大量布料，並邀請拿取任意數量的布料，則應該只拿足夠製作允許袈裟數量的布料。不犯條款還補充說，如果承諾在完成袈裟製作後歸還多餘的布料，則可以拿走多餘的布料。如果布施者告訴說保留多餘的部分，則可以這樣做而不會受到懲罰。
+
 
 (未完待續)
 
