@@ -1552,7 +1552,7 @@
 
    * - If one perceives a related householder as unrelated, or if one is in doubt about whether he/she is related, one incurs a dukkaṭa in asking for and receiving a robe from him/her.
 
-     - 如果認為一位有親屬關係的居士沒有親屬關係，或者懷疑他/她是否有親屬關係，那麼向他/她索要一件袈裟並接受時各犯一次《突吉羅》。
+     - 如果認為一位有親屬關係的居士沒有親屬關係，或者懷疑他/她是否有親屬關係，那麼向他/她索要及接受一件袈裟時，各犯一次《突吉羅》。
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1737,6 +1737,28 @@
    * - The Vibhaṅga states further that if the householder presents one with a great deal of cloth, with the invitation to take as much as one likes, one should take only enough cloth to make the allowable number of robes. The non-offense clauses add that one may take excess cloth if one promises to return the excess when one has finished making one’s robe(s). And if the donor tells one to keep the excess, one may do so without penalty.
 
      - 《經分別》進一步指出，如果居士贈送大量布料，並邀請拿取任意數量的布料，則應該只拿足夠製作允許袈裟數量的布料。不犯條款還補充說，如果承諾在完成袈裟製作後歸還多餘的布料，則可以拿走多餘的布料。如果布施者告訴說保留多餘的部分，則可以這樣做而不會受到懲罰。
+
+   * - The factors of the offense for overstepping the bounds of this protocol are three.
+     - 違反本行儀規定的犯戒行為的要素有三。
+
+   * - *1) Object:* any piece of the six kinds of suitable robe-cloth, measuring at least four by eight fingerbreadths.
+     - *1）對象：*\ 六種合適的袈裟布中的任何一件，尺寸至少為四乘八指寬。
+
+   * - *2) Effort:* One asks for more than the allowable amount of robe-cloth from an unrelated householder who has not previously made an invitation to ask. Perception is not a mitigating factor here: Even if one perceives the householder to be related when in fact he/she isn’t—or feels that he/she would be happy to offer the excess cloth even though he/she has given no previous invitation to ask—this factor is fulfilled all the same.
+
+     - *2）努力：*\ 向一位沒有親屬關係的居士索取超過允許數量的袈裟布，而該居士以前沒有提出過邀請詢問。在這裡，感知不是一個減輕懲罰的因素：即使認為居士有親戚關係，但實際上他/她沒有，或者感覺他/她很樂意提供多餘的布料，即使他/她以前沒有提出過邀請詢問——這個因素仍然得到滿足。
+
+   * - *3) Result:* One obtains the excess robe-cloth.
+     - *3）結果：*\ 獲得過量的袈裟布。
+
+   * - The offenses here are as follows: a dukkaṭa for asking in the way that fulfills the factor of effort, and a nissaggiya pācittiya when all three factors are fulfilled. The procedures to follow in forfeiture, confession, and receiving the cloth in return are the same as under the preceding rules. For the Pali formula to use in forfeiting the cloth, see `Appendix VI`_.
+
+     - 這裡的犯戒如下：以滿足努力因素的方式索取，犯《突吉羅》，以及當所有三個因素都滿足時，犯《捨墮》。捨出、懺罪、返還布料時所遵循的程序，與前述戒條相同。關於捨出布料時所使用的巴利語公式，請參閱\ `附錄六`_\ 。
+
+   * - If one perceives a related householder as unrelated, or if one is in doubt about whether he/she is related, one incurs a dukkaṭa in asking for and obtaining excess robe-cloth from him/her.
+
+     - 如果認為一位有親屬關係的居士沒有親屬關係，或懷疑他/她是否有親屬關係，那麼向他/她索取及獲得過量的袈裟布時，各犯一次《突吉羅》。
+
 
 
 (未完待續)
