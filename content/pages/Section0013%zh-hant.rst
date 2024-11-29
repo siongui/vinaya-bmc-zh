@@ -1808,6 +1808,28 @@
    \*    \*    \*
 
 
+.. _NP8:
+
+.. raw:: html
+
+   <span id="NP8"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **8**
+     - **八**
+
+   * - .. container:: notification
+
+          *In case a man or woman householder unrelated (to the bhikkhu) prepares a robe fund for the sake of a bhikkhu, thinking, “Having purchased a robe with this robe fund, I will clothe the bhikkhu named so-and-so with a robe”: If the bhikkhu, not previously invited, approaching (the householder) should make a stipulation with regard to the robe, saying, “It would be good indeed, sir, if you clothed me (with a robe), having purchased a robe of such-and-such a sort with this robe fund”—out of a desire for something fine—it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果（與比丘）非親戚的男女居士為比丘準備袈裟資金，心想：「用此袈裟資金購買了袈裟後，我將給名叫某某的比丘穿上袈裟。」：如果比丘，未經事先邀請，來（居士）對袈裟作出規定，說道：「先生，如果您用這個袈裟資金，購買了一件這樣或那樣袈裟，給我穿上（袈裟），那就太好了。」出於對美好事物的渴望，尼薩耆波逸提。*
+
+
 (未完待續)
 
 

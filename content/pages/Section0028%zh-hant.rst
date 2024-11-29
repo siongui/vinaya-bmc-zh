@@ -346,8 +346,7 @@
      - 意思是：「尊者，我的這塊布，在沒有事先邀請的情況下，我接洽了一個非親戚的居士，並就布料做了指示——應該被捨出。我把它捨給你。」
 
 .. _NP 8: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP8
-.. _《捨墮》八: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP8
-.. TODO FIXME: replace link to 《捨墮》八
+.. _《捨墮》八: {filename}Section0013%zh-hant.rst#NP8
 
 
 .. list-table::
