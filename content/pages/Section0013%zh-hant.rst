@@ -1759,6 +1759,53 @@
 
      - 如果認為一位有親屬關係的居士沒有親屬關係，或懷疑他/她是否有親屬關係，那麼向他/她索取及獲得過量的袈裟布時，各犯一次《突吉羅》。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - In addition to the two cases mentioned above—one takes excess cloth with the promise to return the excess when one has finished one’s robe(s), and the donors tell one to keep the excess—there is no offense in taking excess cloth if:
+
+     - 除了上述兩種情況——拿走過量的布，並承諾在完成袈裟後歸還過量的部分，布施者告訴說保留過量的部分——在以下情況下，拿過量的布並沒有犯戒：
+
+   * - .. container:: mx-2
+
+          the donors are offering cloth for reasons other than that one’s robes were snatched away or destroyed (e.g., they are impressed with one’s learning, says the Commentary);
+
+     - .. container:: mx-2
+
+          布施者提供布料的原因並非是袈裟被搶走或毀壞（例如，《義註》說，他們對某人的學識印象深刻）；
+
+   * - .. container:: mx-2
+
+          one is asking from one’s relatives or people who have previously made one an invitation to ask for cloth (before one’s robes were snatched away or destroyed, says the Sub-commentary);
+
+     - .. container:: mx-2
+
+          向自己的親戚或以前提出邀請詢問的人索取布料（《複註》說，在袈裟被搶走或毀壞之前）；
+
+   * - .. container:: mx-2
+
+          or one obtains the cloth by means of one’s own resources.
+
+     - .. container:: mx-2
+
+          或以自己的資源獲得布料。
+
+   * - The Commentary calls attention to the fact that the Vibhaṅga’s non-offense clauses make no mention of asking for the sake of another. It then draws the conclusion, based on the fact that the rule was formulated in response to bhikkhus’ requesting excess cloth for the sake of others, that in the circumstances mentioned in this rule, one may not ask for excess cloth for the sake of others. The Sub-commentary takes issue with this, and presents three arguments for its case, with the third argument being the most compelling: If asking for another’s sake is not allowable here, it should also not be allowable in the preceding rule. However, the Sub-commentary misses the point of the origin story, which is that lay donors can be especially generous when they learn that a bhikkhu’s robes have been snatched away or lost. If all other bhikkhus could request cloth for his sake, there is no limit to the amount of cloth they could request, and this would be an unfair exploitation of the donors’ generosity.
+
+     - 《義註》提醒注意這樣一個事實，即《經分別》的不犯條款沒有提及為他人而請求。基於本戒條是針對比丘為他人索取多餘布匹而制定的事實，得出結論：在本戒條所述的情況下，不得為他人索取多餘布匹。《複註》對此提出了異議，並提出了三個論點，其中第三個論點最引人注目：如果這裡不允許為他人請求，那麼在前面的戒條中也應該不允許。然而，《複註》忽略了起源故事的要點，即當在家布施者得知比丘的袈裟被搶走或丟失時，他們會特別慷慨。如果所有其他比丘都可以為他索取布匹，那麼他們可以索取布匹的數量就沒有限制，這將是對布施者慷慨行為的不公平剝削。
+
+   * - *Summary: Asking for and receiving excess robe-cloth from unrelated lay people when one’s robes have been snatched away or destroyed is a nissaggiya pācittiya offense.*
+
+     - *摘要：當袈裟被搶走或毀壞時，向非親戚的在家人索要並接受多餘的袈裟布料，是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
 
 
 (未完待續)
