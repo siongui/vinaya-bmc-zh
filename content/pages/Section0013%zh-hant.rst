@@ -1829,6 +1829,58 @@
 
           *如果（與比丘）非親戚的男女居士為比丘準備袈裟資金，心想：「用此袈裟資金購買了袈裟後，我將給名叫某某的比丘穿上袈裟。」：如果比丘，未經事先邀請，來（居士）對袈裟作出規定，說道：「先生，如果您用這個袈裟資金，購買了一件這樣或那樣袈裟，給我穿上（袈裟），那就太好了。」出於對美好事物的渴望，尼薩耆波逸提。*
 
+   * - .. container:: mx-2
+
+          “Now at that time a certain householder said to his wife, ‘I will clothe Master Upananda with a robe.’ A certain bhikkhu on his alms round overheard the man saying this. So he went to Ven. Upananda the Sakyan and on arrival said to him, ‘You have a lot of merit, friend Upananda. In that place over there a certain man said to his wife, ‘I will clothe Master Upananda with a robe.’
+
+     - .. container:: mx-2
+
+          「\ `爾時，有一位居士對他的妻子說 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0303a07>`__\ ：『我要給優波難陀大德穿上袈裟。』有一位正在托缽的比丘無意中聽到那人這樣說。於是他就去找釋迦子優波難陀尊者，抵達後對他說：『朋友優波難陀，你有很多功德。在那裡，有一個人對他的妻子說：『我要給優波難陀大德穿上袈裟。』
+
+   * - .. container:: mx-2
+
+          “‘He’s my supporter, my friend.’
+
+     - .. container:: mx-2
+
+          「『他是我的支持者（檀越），我的朋友。』
+
+   * - .. container:: mx-2
+
+          “So Ven. Upananda the Sakyan went to the man and on arrival said to him, ‘My friend, is it true that you want to clothe me with a robe?’
+
+     - .. container:: mx-2
+
+          「所以釋迦子優波難陀尊者來到那人那裡，一到就對他說：『我的朋友，你真的想給我穿袈裟嗎？』
+
+   * - .. container:: mx-2
+
+          “‘Now, wasn’t I just thinking, “I will clothe Master Upananda with a robe”?’
+
+     - .. container:: mx-2
+
+          「『現在，我不是在想：「我要給優波難陀大德穿上袈裟」嗎？』
+
+   * - .. container:: mx-2
+
+          “‘Well, if you want to clothe me with a robe, clothe me with a robe like this. What use is it to me to be clothed with a robe I won’t use?’
+
+     - .. container:: mx-2
+
+          「『好吧，如果你想給我穿上一件袈裟，就給我穿上這樣的一件袈裟吧。穿一件我不會用的袈裟對我來說有什麼用呢？』
+
+   * - .. container:: mx-2
+
+          “So the man criticized and complained and spread it about, ‘They’re arrogant, these Sakyan-son monks, and malcontent. It’s no simple matter to clothe them with a robe. How can this Master Upananda, without having first been invited by me, make a stipulation concerning a robe?’”
+
+     - .. container:: mx-2
+
+          「於是，那個人批評、抱怨並傳播：『這些沙門釋迦子很傲慢，而且不知足。給他們穿上袈裟可不是一件簡單的事。這位優波難陀大德，未經我事先邀請，怎能對袈裟做出規定呢？』
+
+   * - The situation covered by this rule is this: An unrelated lay person has put aside resources for purchasing robe-cloth to present to a bhikkhu but without yet asking the bhikkhu what kind of cloth he wants. The factors for the offense here are four.
+
+     - 本戒條所涵蓋的情況是這樣的：一個非親戚的居士已經撥出資源購買袈裟布來供養比丘，但還沒有詢問比丘他想要什麼樣的布。這裡的犯戒因素有四個。
+
 
 (未完待續)
 
