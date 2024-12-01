@@ -1881,6 +1881,54 @@
 
      - 本戒條所涵蓋的情況是這樣的：一個非親戚的居士已經撥出資源購買袈裟布來供養比丘，但還沒有詢問比丘他想要什麼樣的布。這裡的犯戒因素有四個。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga here does not specify a minimum size for the cloth, nor does it list the types of thread from which the cloth has to be made. Because the primary focus of its discussion is on the price of the cloth, the size and type of cloth are apparently irrelevant. Any piece of cloth of any type, no matter how small, would fulfill this factor.
+
+     - 此處《經分別》沒有指定布料的最小尺寸，也沒有列出製作布料的線的類型。因為討論的主要焦點是布料的價格，所以布料的尺寸和類型顯然無關緊要。任何類型的任何一塊布，無論多小，都可以滿足這個因素。
+
+   * - The texts also do not mention whether funds for other requisites would be grounds for a lesser offense or no offense under this rule, although given the spirit of the rule it would be a wise policy for a bhikkhu not to make stipulations, when uninvited, to a lay person who has prepared funds for purchasing any kind of requisite for his use.
+
+     - 文獻也沒有提及用於其他必需品的資金是否會成為本戒條下較輕犯戒或不犯戒的理由，儘管考慮到本戒條的精神，對於比丘來說，明智之舉是，在未經邀請的情況下，不要對已準備好資金購買任何必需品供他使用的在家人作出規定。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - One wants to get a better piece of cloth than the lay person is planning to buy. The Vibhaṅga defines *better* as “better quality, higher price.” The Commentary, for some reason, limits *better* to “higher price,” but there is nothing in the Vibhaṅga to support this.
+
+     - 想要得到一塊比在家人打算購買的更好的布。《經分別》將\ *更好的*\ 定義為「更好的品質，更高的價格」。由於某種原因，《義註》將\ *更好的*\ 限制為「更高的價格」，但《經分別》中沒有任何內容可以支持這一點。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - One requests the unrelated lay person to improve the cloth. Example statements in the Vibhaṅga are: “Make it long, make it broad, make it tightly-woven, make it soft.” As in the previous rules, perception is not a factor here. Even if one perceives the lay person to be related when he/she actually isn’t, that would fulfill the factor here all the same.
+
+     - 請求非親戚在家人改進布料。《經分別》中的範例語句是：「使其長，使其寬，使其緊密編織，使其柔軟。」與之前的戒條一樣，感知在這裡不是一個因素。即使認為在家人有血緣關係，而他/她實際上沒有血緣關係，那仍然會滿足這裡的因素。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Result**
+     - **結果**
+
+   * - One obtains the long, broad, etc., cloth that the householder bought in line with one’s request. The way the Vibhaṅga defines this factor suggests that whether the lay person actually spends more on the cloth than he/she actually planned is not an issue here.
+
+     - 獲得居士依照自己的要求購買的長的、寬的等布料。《經分別》定義這個因素的方式表明，在家人實際上在布料上花費的錢是否比他/她實際計劃的多，在這裡是無關的。
+
 
 (未完待續)
 
