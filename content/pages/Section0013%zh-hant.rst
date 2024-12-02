@@ -1929,6 +1929,60 @@
 
      - 獲得居士依照自己的要求購買的長的、寬的等布料。《經分別》定義這個因素的方式表明，在家人實際上在布料上花費的錢是否比他/她實際計劃的多，在這裡是無關的。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Offenses**
+     - **犯戒**
+
+   * - When the donor buys the cloth in line with one’s request, the penalty is a dukkaṭa. When one obtains the cloth it is to be forfeited and the nissaggiya pācittiya offense confessed. The procedures to follow in forfeiture, confession, and receiving the cloth in return are the same as in the preceding rules. For the Pali formula to use in forfeiting the cloth, see `Appendix VI`_.
+
+     - 當布施者依照要求購買布料時，懲罰是《突吉羅》。當獲得這塊布時，該布料須被捨出，並懺悔《捨墮》罪。捨出、懺罪、返還布料所遵循之程序，與前述戒條相同。關於捨出布料時所使用的巴利語公式，請參閱\ `附錄六`_\ 。
+
+   * - If one perceives a related householder as unrelated, or if one is in doubt about whether he/she is related, one incurs a dukkaṭa in making a request and receiving cloth from him/her in the manner forbidden by this rule.
+
+     - 如果認為一個有親屬關係的居士沒有親屬關係，或者如果懷疑他/她是否有親屬關係，那麼以本戒條禁止的方式提出請求並從他/她那裡接受布料，犯《突吉羅》。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - According to the Vibhaṅga, there is no offense if:
+     - 根據《經分別》，如果滿足以下條件之一，則不犯戒：
+
+   * - the lay person is a relative or has invited one to ask for cloth;
+     - 在家人是親戚或已經提出邀請索取布料；
+
+   * - one asks for another’s sake;
+     - 為另一個人要求；
+
+   * - one is getting the robe with one’s own resources; or
+     - 以自己的資源獲得袈裟；或者
+
+   * - one gets the lay person, who originally wanted to purchase a more expensive piece of cloth, to purchase a less expensive one.
+     - 讓原本想要購買更昂貴的布料的在家人購買比較不昂貴的布料。
+
+   * - The Commentary adds that there is also no offense if one’s request to improve the cloth results in a cloth equal in price to the cloth the lay person had in mind—but, as noted above, the Vibhaṅga does not support the Commentary here.
+
+     - 《義註》補充說，如果要求改進布料，結果得到的布料與在家人心目中的布料價格相同，也沒有犯戒——但是，如上所述，《經分別》不支持這裡的《義註》。
+
+   * - The Vibhaṅga’s Word-commentary to this rule also indicates that there would be no offense if, after one has asked for a better piece of cloth, the lay person ignores the request, buying and presenting the cloth he/she originally had in mind.
+
+     - 《經分別》對本戒條的單字註釋也表明，如果要求一件更好的布料後，在家人不理睬這個要求，購買並供養他/她最初心目中的布料，也不犯戒。
+
+   * - *Summary: When a lay person who is not a relative is planning to get robe-cloth for one but has yet to ask one what kind of cloth one wants: Receiving the cloth after making a request that would improve it is a nissaggiya pācittiya offense.*
+
+     - *摘要：當非親戚的在家計劃為自己獲取袈裟布時，但尚未詢問自己想要哪種布料時：在提出改善布料的請求後收到布料，是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
 
