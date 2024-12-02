@@ -1984,7 +1984,43 @@
    \*    \*    \*
 
 
-(未完待續)
+.. _NP9:
+
+.. raw:: html
+
+   <span id="NP9"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **9**
+     - **九**
+
+   * - .. container:: notification
+
+          *In case two householders—men or women— unrelated (to the bhikkhu) prepare separate robe funds for the sake of a bhikkhu, thinking, “Having purchased separate robes with these separate robe funds of ours, we will clothe the bhikkhu named so-and-so with robes”: If the bhikkhu, not previously invited, approaching (them) should make a stipulation with regard to the robe, saying, “It would be good indeed, sirs, if you clothed me (with a robe), having purchased a robe of such-and-such a sort with these separate robe funds, the two (funds) together for one (robe)”—out of a desire for something fine—it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果兩位（與比丘）沒有血緣關係的居士——男性或女性——為比丘準備了不同的袈裟資金，心想：「用我們這些不同的袈裟資金購買了不同的袈裟後，我們將給名叫某某的比丘穿上衣服。」：如果比丘在未事先邀請的情況下接近（他們），對袈裟作出規定，說道：「先生們，如果您用這些不同的袈裟資金，這兩個（資金）合在一起為一件（袈裟），購買了某某類型的袈裟，給我穿上（袈裟），那就太好了。」——出於對美好事物的渴望——尼薩耆波逸提。*
+
+   * - Explanations for this training rule are the same as those for the preceding one, the only difference being in the factor of effort: One asks the two donors to put their funds together to purchase one piece of cloth. The question of whether the request would raise the amount of money they would have to spend is not an issue here. A piece of cloth equal in price to the original two pieces would still fulfill the factor of effort here. However, the Vibhaṅga says that if one gets the donors to provide a piece of cloth *less* expensive than they had originally planned, there is no offense.
+
+     - 本學處的解釋與前一條相同，唯一的區別在於努力因素：要求兩位布施者將他們的資金放在一起購買一塊布料。該要求是否會增加他們必須花費的資金的問題在此處無關。一塊布的價格與原來的兩塊布相同，在這裡仍然會滿足努力因素。然而，《經分別》表示，如果讓布施者提供比他們最初計劃的價格\ *較不*\ 昂貴的布，並沒有犯戒。
+
+   * - The Commentary adds that, under the conditions mentioned here, making requests of three or more people to combine their robe funds into one is also covered by this rule.
+
+     - 《義註》補充說，在此提到的條件下，提出三人或三人以上將其袈裟資金合併為一筆的請求也適用於本戒條。
+
+   * - *Summary: When two or more lay people who are not one’s relatives are planning to get separate pieces of robe-cloth for one but have yet to ask one what kind of cloth one wants: Receiving cloth from them after asking them to pool their funds to get one piece of cloth—out of a desire for something fine—is a nissaggiya pācittiya offense.*
+
+     - *摘要：當兩位或兩位以上非親戚的居士計劃為自己獲取不同件袈裟布時，但尚未詢問自己想要哪種布時：請他們集資來獲取單一件布料後，從他們那裡收到布料—出於對美好事物的渴望—是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
 
 
 .. _NP10:

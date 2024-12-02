@@ -361,8 +361,7 @@
      - 對於向兩個或兩個以上非親戚的居士做出指示後收到的布料，使用與前一戒條相同的公式，將 *aññātakaṁ gahapatikaṁ* 更改為 *aññātake gahapatike* 。
 
 .. _NP 9: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP9
-.. _《捨墮》九: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP9
-.. TODO FIXME: replace link to 《捨墮》九
+.. _《捨墮》九: {filename}Section0013%zh-hant.rst#NP9
 
 
 .. list-table::
