@@ -11,6 +11,40 @@
    :class: is-size-7
 
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Two: The Silk Chapter**
+     - **第二 蠶絲品**
+
+
+.. _NP11:
+
+.. raw:: html
+
+   <span id="NP11"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **11**
+     - **十一**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu have a felt (blanket/rug) made of a mixture containing silk, it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘擁有由絲綢混合物製成的毛氈（毯子/地毯），尼薩耆波逸提。*
+
+   * - *Santhata*, translated here as a felt blanket/rug, is a type of cloth described in the texts simply by its method of manufacture. Instead of being woven, it is made by strewing threads over a smooth surface, sprinkling them with a glue-like mixture made from boiled rice, using a roller to roll it smooth, and then repeating the process until the felt is thick and strong enough for one’s purposes. Although felt made like this has a number of uses, its major use in the time of the texts seems to have been as a small personal rug for sitting or lying down, or as a rough blanket for wearing around oneself when sick or cold. Blankets/rugs like this are still made and used in parts of India even today, and as the non-offense clauses to this and the following rules show, it is precisely to this type of blanket/rug that these rules apply.
+
+     - *Santhata*\，這裡翻譯為氈毯/地毯，是一種在文獻中僅通過其製造方法描述的布料。它不是編織的，而是通過將線撒在光滑的表面上，撒上由煮米製成的膠狀混合物，用滾筒將其滾平滑，然後重複該過程，直到毛氈足夠厚且堅固，為了自己的目的而使用。雖然這樣製成的毛氈有多種用途，但在文獻的年代，它的主要用途似乎是作為坐著或躺著的小個人地毯，或作為生病或寒冷時穿在身上的粗糙毯子。即使在今天，這樣的毯子/地毯仍在印度部分地區製造和使用，正如本戒條和以下戒條的不犯條款所示，這些戒條正是適用於這種類型的毯子/地毯。
+
+
 (未完待續)
 
 

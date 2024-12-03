@@ -205,10 +205,10 @@
      - `\　　　十 <{filename}Section0013%zh-hant.rst#NP10>`__
 
    * - `\　　Two: The Silk Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0014.html>`__
-     - 　　第二 蠶絲品
+     - `\　　第二 蠶絲品 <{filename}Section0014%zh-hant.rst>`__
 
    * - `\　　　11 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP11>`__
-     - 　　　十一
+     - `\　　　十一 <{filename}Section0014%zh-hant.rst#NP11>`__
 
    * - `\　　　12 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP12>`__
      - 　　　十二
