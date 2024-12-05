@@ -211,7 +211,7 @@
      - `\　　　十一 <{filename}Section0014%zh-hant.rst#NP11>`__
 
    * - `\　　　12 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP12>`__
-     - 　　　十二
+     - `\　　　十二 <{filename}Section0014%zh-hant.rst#NP12>`__
 
    * - `\　　　13 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP13>`__
      - 　　　十三

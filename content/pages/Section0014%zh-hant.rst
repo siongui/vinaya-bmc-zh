@@ -88,6 +88,46 @@
    \*    \*    \*
 
 
+.. _NP12:
+
+.. raw:: html
+
+   <span id="NP12"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **12**
+     - **十二**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu have a felt (blanket/rug) made of pure black wool, it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘擁有純黑羊毛製成的毛氈（毯子/地毯），尼薩耆波逸提。*
+
+   * - The origin story to this rule indicates that a pure black felt blanket/rug was considered stylish at that time, and thus inappropriate for a bhikkhu’s use. This is a recurrent theme throughout the Vinaya: that stylish, luxurious, or elegant articles are not in keeping with the bhikkhus’ way of life.
+
+     - 本戒條的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0320a03>`__\ 表明，純黑色氈毯/地毯在當時被認為是時尚的，因此不適合比丘使用。這是整個戒律中反覆出現的主題：時尚、奢華或優雅的物品不符合比丘的生活方式。
+
+   * - The Vibhaṅga notes that *black wool* here covers both wool that is naturally black and wool that has been dyed that color.
+     - 《經分別》指出，這裡的\ *黑色羊毛*\ 既包括天然黑色的羊毛，也包括染成黑色的羊毛。
+
+   * - All other explanations for this training rule are the same as for the preceding rule, simply replacing “a felt blanket/rug made with silk mixed in it” with “a felt blanket/rug made entirely of black wool.”
+     - 此學處的所有其他解釋與前述戒條相同，只是將「混有絲綢的毛氈毯/地毯」替換為「完全由黑色羊毛製成的毛氈毯/地毯」。
+
+   * - *Summary: Making a felt blanket/rug entirely of black wool for one’s own use—or having it made—is a nissaggiya pācittiya offense.*
+     - *摘要：完全用黑色羊毛製作毛氈毯/地毯供自己使用，或使其被製作，是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
 
 
