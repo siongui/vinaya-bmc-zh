@@ -198,6 +198,29 @@
 
           *當比丘製作了新敷具時，他必須保留（至少）六年。如果在不到六年的時間裡，他再製作另一塊新敷具，無論他是否已經處理掉第一塊敷具，那麼——除非他得到比丘們的授權——尼薩耆波逸提。*
 
+   * - “Now at that time bhikkhus were (each) having a new felt blanket/rug made every year. They were constantly begging, constantly hinting, ‘Give wool. We need wool.’ People criticized and complained and spread it about, ‘How can these Sakyan-son monks have a new felt blanket/rug made every year?… The felt blanket/rugs we make for ourselves last five or six years, even though our children wet them and soil them, and they get chewed on by rats. But these Sakyan-son monks have a new felt blanket/rug made every year and are constantly begging, constantly hinting, ‘Give wool. We need wool.’”
+
+     - 「\ `那時，比丘們（每人）每年都會製作一條新敷具 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0323a07>`_\ 。他們不斷地乞求、不斷地暗示，『給羊毛吧。我們需要羊毛。』人們批評、抱怨、傳播：『這些沙門釋子怎麼能每年都有新敷具呢？我們為自己製作的敷具可以使用五到六年，儘管我們的孩子弄濕了它們並弄髒了它們，並且它們被老鼠啃咬了。但這些沙門釋子每年都會製作一條新敷具，並且不斷地乞求、不斷地暗示：『給羊毛吧。我們需要羊毛。』」
+
+   * - There are three factors for the full offense here.
+     - 這裡的完整違犯有三個因素。
+
+   * - *1) Object:* a new felt blanket/rug for one’s own use.
+     - *1）對象：*\ 一條自用的新敷具。
+
+   * - *2) Effort:* (a) One either makes it oneself, gets someone else to make it, finishes what others have left unfinished, or gets someone else to finish what one has left unfinished (b) less than six years after one’s last one was made, (c) even though one has not been formally authorized by the bhikkhus to do so.
+     - *2）努力：*\ (a) 自己做，讓別人做，完成別人未完成的，或讓別人完成自己未完成的 (b) 上一個完成後不到六年 (c) 即使沒有得到比丘們的正式授權這樣做。
+
+   * - *3) Result:* One obtains the rug after it is finished (or finishes it, if one is making it oneself).
+     - *3）結果：*\ 完成後獲得敷具（如果是自己製作，則完成時）。
+
+   * - The texts are silent on the factor of perception here, which suggests that if a bhikkhu miscounts the passage of years—making a new rug when six years haven’t passed even though he thinks they have—he fulfills the factor of effort all the same.
+     - 這裡的文獻沒有提及感知的因素，這表明，如果比丘錯誤地計算了歲月的流逝——六年還沒有過去，他就製作了一張新敷具，儘管他認為六年已經過去了——他仍然滿足了努力因素。
+
+   * - According to the Vibhaṅga, there is a dukkaṭa in the effort of making the rug or having it made. When all three factors of the offense are fulfilled, the rug is to be forfeited and the nissaggiya pācittiya offense confessed. The procedures for forfeiture, confession, and receiving the blanket/rug in return are the same as under the preceding rules.
+
+     - 根據《經分別》，在製作敷具或讓人製作之的努力過程中犯《突吉羅》。當犯戒的所有三個因素都滿足時，敷具須被捨出，並且懺悔《捨墮》罪。捨出、懺罪、返還敷具的程序與前述戒條相同。
+
 
 (未完待續)
 
