@@ -38,17 +38,17 @@
 
      - .. container:: notification
 
-          *如果任何比丘擁有由絲綢混合物製成的毛氈（毯子/地毯），尼薩耆波逸提。*
+          *如果任何比丘擁有由絲綢混合物製成的敷具，尼薩耆波逸提。*
 
    * - *Santhata*, translated here as a felt blanket/rug, is a type of cloth described in the texts simply by its method of manufacture. Instead of being woven, it is made by strewing threads over a smooth surface, sprinkling them with a glue-like mixture made from boiled rice, using a roller to roll it smooth, and then repeating the process until the felt is thick and strong enough for one’s purposes. Although felt made like this has a number of uses, its major use in the time of the texts seems to have been as a small personal rug for sitting or lying down, or as a rough blanket for wearing around oneself when sick or cold. Blankets/rugs like this are still made and used in parts of India even today, and as the non-offense clauses to this and the following rules show, it is precisely to this type of blanket/rug that these rules apply.
 
-     - `Santhata <https://dictionary.sutta.org/browse/s/santhata/>`_\ ，這裡翻譯為氈毯/地毯，是一種在文獻中僅通過其製造方法描述的布料。它不是編織的，而是通過將線撒在光滑的表面上，撒上由煮米製成的膠狀混合物，用滾筒將其滾平滑，然後重複該過程，直到毛氈足夠厚且堅固，為了自己的目的而使用。雖然這樣製成的毛氈有多種用途，但在文獻的年代，它的主要用途似乎是作為坐著或躺著的小個人地毯，或作為生病或寒冷時穿在身上的粗糙毯子。即使在今天，這樣的毯子/地毯仍在印度部分地區製造和使用，正如本戒條和以下戒條的不犯條款所示，這些戒條正是適用於這種類型的毯子/地毯。
+     - `Santhata <https://dictionary.sutta.org/browse/s/santhata/>`_\ ，這裡翻譯為敷具，是一種在文獻中僅通過其製造方法描述的布料。它不是編織的，而是通過將線撒在光滑的表面上，撒上由煮米製成的膠狀混合物，用滾筒將其滾平滑，然後重複該過程，直到敷具足夠厚且堅固，為了自己的目的而使用。雖然這樣製成的敷具有多種用途，但在文獻的年代，它的主要用途似乎是作為坐著或躺著的小個人地毯，或作為生病或寒冷時穿在身上的粗糙毯子。即使在今天，這樣的敷具仍在印度部分地區製造和使用，正如本戒條和以下戒條的不犯條款所示，這些戒條正是適用於這種類型的敷具。
 
    * - There are three factors for the full offense here.
      - 這裡的完整犯戒有三個因素。
 
    * - *1) Object:* a felt blanket/rug containing silk threads and intended for one’s own use.
-     - *1）物品：*\ 含有絲線且供個人使用的氈毯/地毯。
+     - *1）物品：*\ 含有絲線且供個人使用的敷具。
 
    * - *2) Effort:* One either makes it oneself, gets someone else to make it, finishes what others have left unfinished, or gets someone else to finish what one has left unfinished.
      - *2）努力：*\ 自己製作，讓別人製作，完成別人未完成的，或讓別人完成自己未完成的。
@@ -58,15 +58,15 @@
 
    * - The Vibhaṅga does not mention intention or perception as mitigating factors here. Noting this fact, the Commentary concludes if one is making a felt blanket/rug, and silk threads happen to float in on the breeze and land in the felt, one commits an offense all the same. Perhaps the Commentary’s interpretation here is why bhikkhus no longer use felt rugs, for there is no way of knowing whether there are any stray silk filaments in them that would make them unsuitable for use.
 
-     - 《經分別》在這裡沒有提到意圖或感知作為減輕懲罰的因素。注意到這一事實，《義註》得出結論，如果正在製作毛氈毯子/地毯，而絲線碰巧在微風中漂浮並落在毛氈上，那麼仍然犯了戒。也許《義註》在這裡的解釋是比丘們不再使用氈毯的原因，因為無法知道氈毯中是否有雜絲，導致它們不適合使用。
+     - 《經分別》在這裡沒有提到意圖或感知作為減輕懲罰的因素。注意到這一事實，《義註》得出結論，如果正在製作敷具，而絲線碰巧在微風中漂浮並落在敷具上，那麼仍然犯了戒。也許《義註》在這裡的解釋是比丘們不再使用敷具的原因，因為無法知道敷具中是否有雜絲，導致它們不適合使用。
 
    * - The Vibhaṅga assigns a dukkaṭa for the effort of making a blanket/rug with silk mixed in it, or for having it made. Once it is obtained (or finished, if one is making it oneself), it is to be forfeited and the nissaggiya pācittiya offense confessed. The procedures for forfeiture, confession, and receiving the blanket/rug in return are the same as under the preceding rules on robe-cloth.
 
-     - 《經分別》指出，為製作混有絲綢的毯子/地毯，或使之被製作，而付出的努力犯了《突吉羅》。一旦獲得時（或完成時，如果是自己製作的話），它需被捨出並懺悔《捨墮》罪。捨出、懺罪、返還毯子/地毯的程序與上述袈裟布的戒條相同。
+     - 《經分別》指出，為製作混有絲綢的敷具，或使之被製作，而付出的努力犯了《突吉羅》。一旦獲得時（或完成時，如果是自己製作的話），它需被捨出並懺悔《捨墮》罪。捨出、懺罪、返還敷具的程序與上述袈裟布的戒條相同。
 
    * - According to the Vibhaṅga, there is a dukkaṭa in making a blanket/rug with silk mixed in it for another’s use. If one obtains a blanket/rug with silk mixed in it made by another (§)—not at one’s instigation—then using it entails a dukkaṭa.
 
-     - 根據《經分別》，用絲綢混合製作毯子/地毯供他人使用犯《突吉羅》。如果獲得了另一個人（§）製作的混有絲綢的毯子/地毯（不是在自己的慫恿下），那麼使用它犯《突吉羅》。
+     - 根據《經分別》，用絲綢混合製作敷具供他人使用犯《突吉羅》。如果獲得了另一個人（§）製作的混有絲綢的敷具（不是在自己的慫恿下），那麼使用它犯《突吉羅》。
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -77,10 +77,10 @@
 
    * - There is no offense in making felt with silk mixed in it to use as a canopy, a floor-covering, a wall screen, a mattress/cushion, or a kneeling mat. None of the texts discuss the issue, but there is apparently also no offense in getting such an item made.
 
-     - 用絲綢混合製成的毛氈用作天篷（頂罩）、地板覆蓋物、牆屏、床墊/墊子或跪墊並沒有犯戒。沒有任何文獻討論這個問題，但使這樣的物品被製作顯然也沒有犯戒。
+     - 用絲綢混合製成的敷具用作天篷（頂罩）、地板覆蓋物、牆屏、床墊/墊子或跪墊並沒有犯戒。沒有任何文獻討論這個問題，但使這樣的物品被製作顯然也沒有犯戒。
 
    * - *Summary: Making a felt blanket/rug with silk mixed in it for one’s own use—or having it made—is a nissaggiya pācittiya offense.*
-     - *摘要：製作混有絲綢的氈毯/地毯供自己使用，或使其被製作，是《尼薩耆波逸提》（《捨墮》）罪。*
+     - *摘要：製作混有絲綢的敷具供自己使用，或使其被製作，是《尼薩耆波逸提》（《捨墮》）罪。*
 
 
 .. container:: has-text-centered
@@ -107,20 +107,20 @@
 
      - .. container:: notification
 
-          *如果任何比丘擁有純黑羊毛製成的毛氈（毯子/地毯），尼薩耆波逸提。*
+          *如果任何比丘擁有純黑羊毛製成的敷具，尼薩耆波逸提。*
 
    * - The origin story to this rule indicates that a pure black felt blanket/rug was considered stylish at that time, and thus inappropriate for a bhikkhu’s use. This is a recurrent theme throughout the Vinaya: that stylish, luxurious, or elegant articles are not in keeping with the bhikkhus’ way of life.
 
-     - 本戒條的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0320a03>`__\ 表明，純黑色氈毯/地毯在當時被認為是時尚的，因此不適合比丘使用。這是整個戒律中反覆出現的主題：時尚、奢華或優雅的物品不符合比丘的生活方式。
+     - 本戒條的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0320a03>`__\ 表明，純黑色敷具在當時被認為是時尚的，因此不適合比丘使用。這是整個戒律中反覆出現的主題：時尚、奢華或優雅的物品不符合比丘的生活方式。
 
    * - The Vibhaṅga notes that *black wool* here covers both wool that is naturally black and wool that has been dyed that color.
      - 《經分別》指出，這裡的\ *黑色羊毛*\ 既包括天然黑色的羊毛，也包括染成黑色的羊毛。
 
    * - All other explanations for this training rule are the same as for the preceding rule, simply replacing “a felt blanket/rug made with silk mixed in it” with “a felt blanket/rug made entirely of black wool.”
-     - 此學處的所有其他解釋與前述戒條相同，只是將「混有絲綢的毛氈毯/地毯」替換為「完全由黑色羊毛製成的毛氈毯/地毯」。
+     - 此學處的所有其他解釋與前述戒條相同，只是將「混有絲綢的敷具」替換為「完全由黑色羊毛製成的敷具」。
 
    * - *Summary: Making a felt blanket/rug entirely of black wool for one’s own use—or having it made—is a nissaggiya pācittiya offense.*
-     - *摘要：完全用黑色羊毛製作毛氈毯/地毯供自己使用，或使其被製作，是《尼薩耆波逸提》（《捨墮》）罪。*
+     - *摘要：完全用黑色羊毛製作敷具供自己使用，或使其被製作，是《尼薩耆波逸提》（《捨墮》）罪。*
 
 
 .. container:: has-text-centered
@@ -147,15 +147,15 @@
 
      - .. container:: notification
 
-          *當比丘製作新毛氈（毯子/地毯）時，要加入兩部分純黑羊毛，第三（部分）白色，第四棕色。如果比丘擁有一塊新毛氈（毯子/地毯），但未使用兩部分純黑羊毛、第三白色和第四棕色製成，尼薩耆波逸提。*
+          *當比丘製作新敷具時，要加入兩部分純黑羊毛，第三（部分）白色，第四棕色。如果比丘擁有一塊新敷具，但未使用兩部分純黑羊毛、第三白色和第四棕色製成，尼薩耆波逸提。*
 
    * - This is a continuation of the preceding rule. Its purpose is to set the maximum amount of black wool a bhikkhu may include when making his felt blanket/rug or having it made for his own use. The Vibhaṅga gives precise amounts for how much black, white, and brown wool one should use in making the rug, but the Commentary says that these quantities are relative: As long as black wool constitutes no more than half the total amount of wool used, the bhikkhu making the rug commits no offense.
 
-     - 這是前一條戒條的延續。其目的是設定比丘在製作自用的氈毯/地毯或使其被製作時，可以包含的黑色羊毛的最大數量。《經分別》給出了製作氈毯時應使用多少黑色、白色和棕色羊毛的精確數量，但《義註》說這些數量是相對的：只要黑色羊毛不超過所用羊毛總量的一半，製作氈毯的比丘沒有犯戒。
+     - 這是前一條戒條的延續。其目的是設定比丘在製作自用的敷具或使其被製作時，可以包含的黑色羊毛的最大數量。《經分別》給出了製作敷具時應使用多少黑色、白色和棕色羊毛的精確數量，但《義註》說這些數量是相對的：只要黑色羊毛不超過所用羊毛總量的一半，製作敷具的比丘沒有犯戒。
 
    * - As in the preceding rules, the Vibhaṅga assigns a dukkaṭa for making, for another person’s use, a felt blanket/rug that is more than one-half black wool. If one obtains a felt blanket/rug that is more than one-half black wool made by another—not at one’s instigation—then using it entails a dukkaṭa as well (§).
 
-     - 與前面的戒條一樣，《經分別》說，製作供他人使用，黑色羊毛超過二分之一的氈毯/地毯，犯《突吉羅》。如果獲得的毛氈毯子/地毯，黑色羊毛超過二分之一，且由另一個人製作（而不是在自己的慫恿下），那麼使用它也犯《突吉羅》（§）。
+     - 與前面的戒條一樣，《經分別》說，製作供他人使用，黑色羊毛超過二分之一的敷具，犯《突吉羅》。如果獲得的敷具，黑色羊毛超過二分之一，且由另一個人製作（而不是在自己的慫恿下），那麼使用它也犯《突吉羅》（§）。
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -166,15 +166,37 @@
 
    * - There is no offense if the rug is one-quarter or more white wool *and* one-quarter or more brown wool, or if it is made entirely of white wool or of brown. There is also no offense in felt that is more than one-half black wool if one is making the felt—or having it made—for a canopy, a floor-covering, a wall screen, a mattress/cushion, or a kneeling mat.
 
-     - 如果地毯的白色羊毛佔四分之一或更多\ *而且*\ 棕色羊毛佔四分之一或更多，或如果完全由白色羊毛或棕色羊毛製成，則沒有犯戒。如果製作或讓人製作用於天篷（頂罩）、地板覆蓋物、牆屏、床墊/坐墊或跪墊的毛氈，那麼毛氈的黑色羊毛超過二分之一也沒有犯戒。
+     - 如果敷具的白色羊毛佔四分之一或更多\ *而且*\ 棕色羊毛佔四分之一或更多，或如果完全由白色羊毛或棕色羊毛製成，則沒有犯戒。如果製作或讓人製作用於天篷（頂罩）、地板覆蓋物、牆屏、床墊/坐墊或跪墊的敷具，那麼敷具的黑色羊毛超過二分之一也沒有犯戒。
 
    * - *Summary: Making a felt blanket/rug that is more than one-half black wool for one’s own use—or having it made—is a nissaggiya pācittiya offense.*
-     - *摘要：製作黑色羊毛超過二分之一的毛氈毯/地毯供自己使用（或讓人製作），是《尼薩耆波逸提》（《捨墮》）罪。*
+     - *摘要：製作黑色羊毛超過二分之一的敷具供自己使用（或讓人製作），是《尼薩耆波逸提》（《捨墮》）罪。*
 
 
 .. container:: has-text-centered
 
    \*    \*    \*
+
+
+.. _NP14:
+
+.. raw:: html
+
+   <span id="NP14"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **14**
+     - **十四**
+
+   * - .. container:: notification
+
+          *When a bhikkhu has had a new felt (blanket/rug) made, he is to keep it for (at least) six years. If after less than six years he should have another new felt (blanket/rug) made, regardless of whether or not he has disposed of the first, then—unless he has been authorized by the bhikkhus—it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *當比丘製作了新敷具時，他必須保留（至少）六年。如果在不到六年的時間裡，他再製作另一塊新敷具，無論他是否已經處理掉第一塊敷具，那麼——除非他得到比丘們的授權——尼薩耆波逸提。*
 
 
 (未完待續)
