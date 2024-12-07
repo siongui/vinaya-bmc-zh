@@ -418,9 +418,7 @@
 
    * - In support of the first extreme, it is possible to cite the origin story to `NP 15 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15>`_, which quotes the Buddha as saying, “What has not been formulated (as a rule) should not be formulated, and what has been formulated should not be rescinded, but one should dwell in conformity and in accordance with the rules that have been formulated.”
 
-     - 為了支持第一種極端，可以引用\ `《捨墮》一五 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15>`_\ 的起源故事，其中引用了佛陀的話說：「未制不得制，已制不得壞，隨所制之戒而持住。」
-
-       .. TODO FIXME: replace link to 《捨墮》一五
+     - 為了支持第一種極端，可以引用\ `《捨墮》一五 <{filename}Section0014%zh-hant.rst#NP15>`_\ 的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0326a11>`__\ ，其中引用了佛陀的話說：「未制不得制，已制不得壞，隨所制之戒而持住。」
 
    * - From this statement, it is possible to argue that the Commentary has no legislative authority at all. One of its most controversial aspects—and this applies to the Sub-commentary as well—is a tendency not only to explain passages in the Canon but also to extrapolate from them, assigning prohibitions and allowances in areas that the Canon did not cover. This would appear to be in violation of the above statement. However, we must remember that the rules formulated by the Buddha include not only prohibitions but also allowances. As the Dhamma-Vinaya has spread to many nations, encountering new cultures, and has endured over time, encountering new technologies, the question has often arisen: Is everything not allowed prohibited? Is everything not prohibited allowed? Either position carried to its extreme would create huge problems in the practice. To say that everything not allowed is prohibited would prevent bhikkhus from utilizing many harmless conveniences; to say that everything not prohibited is allowed would give countless defilements free rein.
 

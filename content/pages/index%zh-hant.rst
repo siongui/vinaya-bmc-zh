@@ -220,7 +220,7 @@
      - `\　　　十四 <{filename}Section0014%zh-hant.rst#NP14>`__
 
    * - `\　　　15 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15>`__
-     - 　　　十五
+     - `\　　　十五 <{filename}Section0014%zh-hant.rst#NP15>`__
 
    * - `\　　　16 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP16>`__
      - 　　　十六
