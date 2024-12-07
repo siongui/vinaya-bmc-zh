@@ -221,6 +221,29 @@
 
      - 根據《經分別》，在製作敷具或讓人製作之的努力過程中犯《突吉羅》。當犯戒的所有三個因素都滿足時，敷具須被捨出，並且懺悔《捨墮》罪。捨出、懺罪、返還敷具的程序與前述戒條相同。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if a bhikkhu makes a new felt blanket/rug (or, apparently, if he has one made) after six or more years have passed; if he makes one or has one made for another’s use; if, having obtained one made by (§) someone else—not at his instigation—he uses it; or if he makes felt to use as a canopy, a floor-covering, a wall screen, a mattress/cushion, or a kneeling mat.
+
+     - 如果比丘在六年或更長時間過去後製作了一條新的敷具（或者，顯然，如果他已經製作了一條），並沒有犯戒；如果他製造了一個或製造了一個供他人使用；如果他獲得了由（§）其他人的製作——並非在他的慫恿下——他使用之；或者他製作敷具用作天篷（頂罩）、地板覆蓋物、牆屏、床墊/墊子或跪墊。
+
+   * - Also, as the rule indicates, there is no offense if within less than six years he makes a felt blanket/rug for his own use after being authorized to do so by the bhikkhus. The Vibhaṅga explains this by saying that the Community, if it sees fit, may formally give this authorization—a transaction with a motion and one proclamations *(ñatti-dutiya-kamma)* —to a bhikkhu who is too ill to do without a new felt blanket/rug before his six years are up. This authorization is best explained by noting that there is no exemption under this rule for a bhikkhu whose felt blanket/rug is snatched away, lost, or destroyed. Had there been such an exemption, bhikkhus might have abused it by intentionally ridding themselves of their existing felt blanket/rugs in order to get new ones. In the absence of such exemptions, if a bhikkhu’s blanket/rug is snatched away, lost, or destroyed, the Community—if they are satisfied that he did not intentionally lose it, destroy it, or put it in a place where it might easily get stolen—can give him the authorization to get a new one made.
+
+     - 此外，正如戒條所表明的，如果他在得到比丘們的授權後，在不到六年的時間裡製作了一條敷具供自己使用，也不算犯戒。《經分別》解釋說，如果僧團認為合適，可以正式給予這項授權——白二羯磨（一白一羯磨）\ *（ñatti-dutiya-kamma）*\ ——給一位病得太重而無法在在沒有新敷具的情況下做事的比丘。這項授權的最佳解釋是，根據本戒條，對於敷具被搶走、丟失或毀壞的比丘來說，沒有任何豁免。如果有這樣的豁免，比丘們可能會濫用它，故意扔掉自己現有的敷具，以獲得新的。在沒有此類豁免的情況下，如果比丘的敷具被搶走、丟失或毀壞，僧團——如果他們確信他不是故意丟失、毀壞它或將其放在容易被盜的地方——可以授權他製作新的。
+
+   * - *Summary: Unless one has received authorization to do so from the Community, making a felt blanket/rug for one’s own use—or having it made—less than six years after one’s last one was made is a nissaggiya pācittiya offense.*
+     - *摘要：除非獲得傭團的授權，否則在製作最後一張敷具後不到六年內製作供自己使用的敷具（或讓人製作），是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
 
