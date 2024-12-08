@@ -266,6 +266,18 @@
 
           *當比丘製作敷具坐墊（尼師壇）時，應在每一邊加入一善至張手（25公分）的舊敷具，以使其壞色。如果比丘製作一張新敷具坐墊，沒有在每一邊加入一善至張手的舊敷具，尼薩耆波逸提。*
 
+   * - The full offense here has three factors:
+     - 這裡的完整違犯包含三個因素：
+
+   * - *1) Object:* a felt sitting rug made without incorporating a piece of old felt a sugata span on each side and intended for one’s own use.
+     - *1）對象：*\ 敷具坐墊（尼師壇），每一邊沒有加入一善至張手舊敷具，供自己使用。
+
+   * - *2) Effort:* One either makes it oneself, gets someone else to make it, finishes what others have left unfinished, or gets someone else to finish what one has left unfinished.
+     - *2）努力：*\ 自己做，讓別人做，完成別人未完成的，或讓別人完成自己未完成的。
+
+   * - *3) Result:* One obtains it after it is finished (or finishes it, if one is making it oneself).
+     - *3）結果：*\ 完成後獲得（如果是自己製作，則在完成時）。
+
 
 (未完待續)
 
