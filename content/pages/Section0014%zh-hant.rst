@@ -278,6 +278,32 @@
    * - *3) Result:* One obtains it after it is finished (or finishes it, if one is making it oneself).
      - *3）結果：*\ 完成後獲得（如果是自己製作，則在完成時）。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - Object is the only factor requiring explanation here.
+     - 對象是這裡唯一需要解釋的因素。
+
+   * - A sitting cloth—for protecting his robes from getting soiled by any place where he sits down, and for protecting any place where he sits down from being soiled by him—is one of the requisites a bhikkhu is allowed to have (`Mv.VIII.16.1`_). In fact, if he goes without one for more than four months, he incurs a dukkaṭa (`Cv.V.18`_). `Pc 89`_ gives stipulations for its size and for the requirement that it should have at least one border piece.
+
+     - 坐布－為了保護他的袈裟不被他所坐的任何地方弄髒，以及為了保護他所坐的任何地方不被他弄髒－是比丘被允許擁有的必需品之一（\ `《大品》.八.16.1`_\ ）。事實上，如果他超過四個月沒有坐布，他就會犯《突吉羅》（\ `《小品》.五.18`_\ ）。\ `《波逸提》八九`_\ 對其尺寸和至少有一個邊框片的要求做出了規定。
+
+   * - There is some question as to whether the felt sitting rug described in this rule counts as a sitting cloth. The Commentary to `Pc 89`_ says Yes, the Sub-commentary No. The Vibhaṅga’s definition for *sitting cloth* under that rule, however, states simply that it “has a border,” and because the felt sitting rug also “has a border,” it would seem to come under that definition, too. Thus the Commentary’s appears to be the correct position here.
+
+     - 關於本戒條中所描述的敷具坐墊（尼師壇）是否算作坐布存在一些疑問。\ `《波逸提》八九`_\ 的《義註》說是，《複註》說否。然而，《經分別》在該戒條下對\ *坐布*\ 的定義僅指出它「有一個邊界」，並且因為敷具坐墊也「有一個邊界」，所以它似乎也符合該定義。因此，《義註》的立場似乎是正確的。
+
+.. _Mv.VIII.16.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.16.1
+.. _Cv.V.18: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Cv.V.18
+.. _Pc 89: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
+.. _《大品》.八.16.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0382a14
+.. _《小品》.五.18: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0166a12
+.. _《波逸提》八九: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
+.. TODO FIXME: replace link to 《波逸提》八九
+
 
 (未完待續)
 
