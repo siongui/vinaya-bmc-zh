@@ -296,6 +296,18 @@
 
      - 關於本戒條中所描述的敷具坐墊（尼師壇）是否算作坐布存在一些疑問。\ `《波逸提》八九`_\ 的《義註》說是，《複註》說否。然而，《經分別》在該戒條下對\ *坐布*\ 的定義僅指出它「有一個邊界」，並且因為敷具坐墊也「有一個邊界」，所以它似乎也符合該定義。因此，《義註》的立場似乎是正確的。
 
+   * - The Commentary to `Pc 89`_ describes the border piece of a felt sitting rug as follows: “Having made a felt rug, then on one end in an area of one sugata span, cutting it at two points, one makes three border pieces.” Whether these three pieces are to be left flapping or are to be sewn back together, it doesn’t say.
+
+     - `《波逸提》八九`_\ 的《義註》對敷具坐墊（尼師壇）邊界片的描述是這樣的：「作了敷具，然後在一善至張手的區域的一端，在兩點切割，就製成了三個邊界片。」這三塊是要繼續飄動，還是要縫合在一起，它並沒有說。
+
+   * - According to the Vibhaṅga, when one is making a felt sitting rug, one should take a piece of old felt—at least one span in diameter or one span square—and then either place it down in one part of the new felt as is, or else shred it up and scatter the pieces throughout the new felt. This, it says, will help to strengthen the new felt.
+
+     - 根據《經分別》，當製作敷具坐墊（尼師壇）時，應該取一塊舊敷具——至少一跨直徑或一跨正方形——然後將其按原樣放在新敷具的一部分上，或者將其撕碎並將碎片散佈在新敷具上。它說，這將有助於加強新敷具的強度。
+
+   * - *Old felt* the Vibhaṅga defines as worn wrapped around oneself at least once: This is one of the few places indicating that felt was commonly used as a blanket. The Commentary rewords the Vibhaṅga’s definition, saying “sat on or lied down upon at least once,” which—at least in the days of the commentators—was the more common usage. The Commentary adds that, in addition to wanting to discolor the new felt sitting rug and make it stronger, one of the Buddha’s purposes in formulating this rule was to teach bhikkhus how to make good use of old, used requisites so as to maintain the good faith of those who donated them.
+
+     - *舊敷具*\ ，《經分別》將其定義為至少纏繞穿在自己身上一次：這是少數表明敷具通常用作毯子的地方之一。《義註》重新表述了《經分別》的定義，說「至少坐過或躺過一次」，這是更常見的用法，至少在註釋者的時代是這樣。《義註》補充說，佛陀制定本戒條，除了想讓新敷具坐墊（尼師壇）壞色、使其更堅固外，其目的之一是教導比丘們如何善用舊的、用過的必需品，以維持布施者的信心。
+
 .. _Mv.VIII.16.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.16.1
 .. _Cv.V.18: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Cv.V.18
 .. _Pc 89: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
