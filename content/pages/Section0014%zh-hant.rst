@@ -316,6 +316,36 @@
 .. _《波逸提》八九: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
 .. TODO FIXME: replace link to 《波逸提》八九
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Offenses**
+     - **犯戒**
+
+   * - As with the previous rules, there is a dukkaṭa for the bhikkhu who makes a sitting rug—or has one made—that violates this rule, whether it is for his own use or for that of another; and a nissaggiya pācittiya offense when he obtains the rug thus made for his own use (or finishes it, if he is making it himself). The procedures for forfeiture, confession, and receiving the rug in return are the same as under the preceding rules.
+
+     - 與先前的戒條一樣，對於製作或令人製作了違反此戒條的坐墊的比丘，無論是為自己使用還是為他人使用，都犯《突吉羅》；當他獲得如此製作的坐墊供自己使用（或完成它時，如果他自己製作）時，則犯《捨墮》罪。捨出、懺罪、返還坐墊的程序與前述戒條相同。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if, being unable to find a large enough piece of old felt to provide the one-span piece, one includes a smaller piece of old felt in the sitting rug; if, being unable to find any old felt at all, one does not include any old felt in the rug; if, having obtained a felt sitting rug made by (§) another without old felt—not at one’s instigation—one uses it; or if one is making a canopy, a floor-covering, a wall screen, a mattress/cushion, or a kneeling mat. It seems logical that there would also be no offense for the bhikkhu making a felt blanket that does not have any border pieces and that he is not planning to use for sitting, but for some reason none of the texts mention this point.
+
+     - 如果無法找到一塊足夠大的舊敷具來提供一跨度片段，那麼可以在坐墊上放一塊較小的舊敷具，並沒有犯戒。如果根本找不到任何舊敷具，則坐墊中不包含任何舊敷具；如果獲得了由（§）另一個人製作的沒有舊敷具的敷具坐墊（不是在自己的慫恿下）而使用它；或者如果有人正在製作天篷（頂罩）、地板覆蓋物、牆屏、床墊/墊子或跪墊。比丘製作沒有任何邊界片的敷具並且他不打算用來坐著，邏輯上似乎也沒有犯戒，但出於某種原因，沒有任何文獻提到這一點。
+
+   * - *Summary: Making a felt sitting rug for one’s own use—or having it made—without incorporating a one-span piece of old felt is a nissaggiya pācittiya offense.*
+     - *摘要：製作一張自用的敷具坐墊（尼師壇）—或讓人製作—而不加入一塊一跨度舊敷具是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
 
