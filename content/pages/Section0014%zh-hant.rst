@@ -347,6 +347,39 @@
    \*    \*    \*
 
 
+.. _NP16:
+
+.. raw:: html
+
+   <span id="NP16"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **16**
+     - **十六**
+
+   * - .. container:: notification
+
+          *Should wool accrue to a bhikkhu as he is going on a journey, he may accept it if he so desires. Having accepted it, he may carry it by hand—there being no one else to carry it—three yojanas (48 km.=30 miles) at most. If he should carry it farther than that, even if there is no one else to carry it, it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果比丘在旅途中獲得了羊毛，如果他願意的話，他可以接受它。接受之後，他可以用手拿著它——沒有其他人可以拿著它——最多三由旬（48公里=30英里）。如果他把它拿得更遠，即使沒有其他人拿著它，尼薩耆波逸提。*
+
+   * - .. container:: mx-2
+
+          “At that time wool accrued to a bhikkhu as he was on the road in the Kosalan districts, going to Sāvatthī. So, tying the wool into a bundle with his upper robe, he went along his way. People who saw him teased him, ‘How much did you pay for it, venerable sir? How much will the profit be?’”
+
+     - .. container:: mx-2
+
+          「\ `當時，一位比丘在拘薩羅地區前往舍衛城的路上，獲得了羊毛。 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0330a13>`_\ 於是，他用上衣將羊毛捆成一捆，就上路了。眾人見了，都戲笑他：『大德，你花了多少錢買的？利潤是多少？』」
+
+   * - There are three factors for an offense here: object, effort, and intention.
+     - 這裡的犯戒有三個因素：對象、努力和意圖。
+
+
 (未完待續)
 
 
