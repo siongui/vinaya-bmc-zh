@@ -379,6 +379,29 @@
    * - There are three factors for an offense here: object, effort, and intention.
      - 這裡的犯戒有三個因素：對象、努力和意圖。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - *Wool*, under this rule, refers to wool that has not been made into goods (§). The Commentary explains that wool here thus does not include woolen cloth, woolen felt, woolen yarn, or even raw wool tied up with a thread, although this last point is in contradiction to the origin story, where the bhikkhu carried his wool tied up with a robe.
+
+     - *羊毛*\，根據本戒條，是指尚未製成商品的羊毛（§）。因此，《義註》解釋說，這裡的羊毛不包括羊毛布、羊毛氈、羊毛紗，甚至不包括用線捆紮的原始羊毛，儘管最後一點與起源故事相矛盾，在故事中，比丘攜帶捆紮在袈裟的羊毛。
+
+   * - The Commentary goes on to say, though, that wool here *does* refer to even small quantities of “unmade” wool, such as wool placed in the ear when one has an earache, or wrapped around scissors in their sheath to protect them from rusting, so a bhikkhu should be careful not to travel more than three yojanas with such items.
+
+     - 不過，《義註》接著說，這裡的羊毛\ *確實*\ 指的是即使是少量的「未加工」的羊毛，例如當人們耳痛時放在耳朵裡的羊毛，或者包裹在剪刀鞘中以防止它們生鏽的羊毛，因此，比丘應該小心，不要攜帶這些物品旅行超過三個由旬。
+
+   * - For wool to “accrue,” the Vibhaṅga states, means that one obtains it either from a Community, from a group, from relatives, from friends, from what has been thrown away, or from one’s own resources.
+
+     - 《經分別》指出，羊毛的「獲得」意味著可以從僧團、群體、親戚、朋友、被丟棄的東西或自己的資源中獲得羊毛。
+
+   * - The wording of the rule seems to indicate that it applies to wool acquired only when one is on a journey. However, the non-offense clauses do not grant an exception for wool acquired under other circumstances, and from this fact the Sub-commentary concludes that this rule applies to wool acquired anywhere.
+
+     - 本戒條的措辭似乎表明它僅適用於在旅途中獲得的羊毛。然而，不犯條款並未對在其他情況下獲得的羊毛給予例外，根據這一事實，《複註》得出結論，本戒條適用於在任何地方獲得的羊毛。
+
 
 (未完待續)
 
