@@ -402,6 +402,51 @@
 
      - 本戒條的措辭似乎表明它僅適用於在旅途中獲得的羊毛。然而，不犯條款並未對在其他情況下獲得的羊毛給予例外，根據這一事實，《複註》得出結論，本戒條適用於在任何地方獲得的羊毛。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - Effort includes not only carrying unmade wool more than three yojanas oneself, but also placing it in a bundle or vehicle belonging to someone else without his/her knowing about it, and then letting him/her take it more than three yojanas. Perception is not a mitigating factor here: If one travels more than three yojanas, even if one thinks one hasn’t, that fulfills this factor all the same.
+
+     - 努力不僅包括自己攜帶三由旬以上的未加工羊毛，還包括在他人不知情的情況下將其放在他人的捆包或車輛中，然後讓他/她拿三由旬以上。在這裡，感知並不是減輕懲罰的因素：如果旅行超過三個由旬，即使認為自己沒有超過，仍然滿足本因素。
+
+   * - The Vibhaṅga adds that if one has not traveled more than three yojanas with the wool but perceives that one has or is in doubt about the matter, the penalty is a dukkaṭa. Whether this penalty applies to carrying the wool further or to using it, none of the texts say. Arguing from the Commentary’s interpretation of a parallel passage under `NP 1`_, this penalty would apply to *using* the wool.
+
+     - 《經分別》補充說，如果帶著羊毛旅行不超過三個由旬，但認為已經超過或者對此事有疑問，則懲罰是《突吉羅》。任何文獻都沒有說明此懲罰是否適用於將羊毛帶得更遠或使用它。從《義註》對\ `《捨墮》一`_\ 下的對應段落的解釋來看，此懲罰將適用於\ *使用*\ 羊毛。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - The Vibhaṅga says that there is no offense for the bhikkhu who, after traveling three yojanas, cannot find a proper place to stay and so carries his wool further until finding a proper place. Thus the offense under this rule is only for a bhikkhu who carries wool past the three-yojana mark for motives other than looking for a place to stay.
+
+     - 《經分別》說，比丘在旅行了三個由旬之後，找不到合適的住處，所以繼續攜帶羊毛，直到找到合適的地方，這並沒有犯戒。因此，本戒條下的犯戒只針對那些出於尋找住宿以外的動機而攜帶羊毛超過三由旬標準的比丘。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - In addition to the issue of intention just mentioned, the non-offense clauses say that there is no offense for the bhikkhu who carries wool three yojanas or less; for the bhikkhu traveling more than three yojanas who is carrying wool that he has received back after it was snatched away; for the bhikkhu traveling more than three yojanas who is carrying wool that he has received back after having forfeited it (in line with this rule, the Commentary implies); for the bhikkhu who carries the wool three yojanas and then carries it back; or for the bhikkhu who gets someone else to agree to carry the wool for him.
+
+     - 除了剛才提到的意圖問題外，不犯條款規定，攜帶三由旬或以下羊毛的比丘，不構成犯戒；比丘旅行三由旬以上，攜帶被搶走之後又收回的羊毛；比丘旅行三由旬以上，攜帶了他在捨出後又收回的羊毛（根據《義註》暗示，與本戒條一致）；比丘攜帶羊毛三由旬，然後又把它帶回來；或比丘讓別人同意替他攜帶羊毛。
+
+   * - *Summary: Carrying wool that has not been made into cloth or yarn for more than three yojanas is a nissaggiya pācittiya offense.*
+     - *摘要：攜帶未製成布料或紗線的羊毛超過三由旬是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
 
