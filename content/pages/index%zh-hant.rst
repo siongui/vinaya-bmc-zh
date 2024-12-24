@@ -226,7 +226,7 @@
      - `\　　　十六 <{filename}Section0014%zh-hant.rst#NP16>`__
 
    * - `\　　　17 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP17>`__
-     - 　　　十七
+     - `\　　　十七 <{filename}Section0014%zh-hant.rst#NP17>`__
 
    * - `\　　　18 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18>`__
      - `\　　　十八 <{filename}Section0014%zh-hant.rst#NP18>`__

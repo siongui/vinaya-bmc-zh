@@ -448,7 +448,63 @@
    \*    \*    \*
 
 
-(未完待續)
+.. _NP17:
+
+.. raw:: html
+
+   <span id="NP17"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **17**
+     - **十七**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu have wool washed, dyed, or carded by a bhikkhunī unrelated to him, it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘讓非親戚比丘尼洗滌、染色或梳理羊毛，尼薩耆波逸提。*
+
+   * - The reason behind this rule is expressed succinctly in the following conversation from the origin story:
+     - 本戒條背後的原因在\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0333a03>`__\ 中的以下對話中得到了簡潔的表達：
+
+   * - .. container:: mx-2
+
+          “Then Mahāpajāpatī Gotamī went to the Blessed One and, on arrival, bowed to him and stood to one side. As she was standing there, the Blessed One said to her, ‘I trust, Gotamī, that the bhikkhunīs remain heedful, ardent, and resolute?’
+
+     - .. container:: mx-2
+
+          「那時，摩訶波闍波提瞿曇彌至世尊處，一到就向他頂禮，並站在一旁。當她站在那裡時，世尊對她說：『我相信，瞿曇彌，比丘尼們會保持謹慎、熱心和堅定嗎？』
+
+   * - .. container:: mx-2
+
+          “‘From where, venerable sir, is there heedfulness among the bhikkhunīs? The masters—the group-of-six bhikkhus—keep having the bhikkhunīs wash, dye, and card wool. The bhikkhunīs, washing, dyeing, and carding wool, neglect… the training in heightened virtue, the training in heightened mind, and the training in heightened discernment.’”
+
+     - .. container:: mx-2
+
+          「『世尊，比丘尼們如何得熱心呢？大德們——六群比丘——不斷地讓比丘尼洗滌、染色和梳理羊毛。比丘尼們，洗滌、染色、梳理羊毛，忽視了……增上戒、增上心、增上慧。』」
+
+   * - *Wool*, here, as under the preceding rule, refers to wool that has not been made into cloth or yarn. Thus there is no offense for a bhikkhu who gets a bhikkhunī unrelated to him to wash woolen cloth or yarn that has not yet been used (see `NP 4`_).
+
+     - *羊毛*\，在此處，如同前述戒條，是指尚未製成布或紗的羊毛。因此，比丘請一位非親戚比丘尼來清洗尚未使用過的羊毛布或紗線，並沒有犯戒（見\ `《捨墮》四`_\ ）。
+
+   * - Otherwise, all the explanations for this training rule are identical with those for `NP 4`_, except that here “beating” is replaced by “carding.”
+     - 除此之外，本學處的所有解釋與\ `《捨墮》四`_\ 的解釋相同，只是在此處「搥打」被「梳理」取代。
+
+   * - *Summary: Getting an unrelated bhikkhunī to wash, dye, or card wool that has not been made into cloth or yarn is a nissaggiya pācittiya offense.*
+     - *摘要：讓非親戚比丘尼清洗、染色或梳理未製成布料或紗線的羊毛是《尼薩耆波逸提》（《捨墮》）罪。*
+
+.. _NP 4: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP4
+.. _《捨墮》四: {filename}Section0013%zh-hant.rst#NP4
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
 
 
 .. _NP18:
