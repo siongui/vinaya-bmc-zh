@@ -238,10 +238,10 @@
      - `\　　　二十 <{filename}Section0014%zh-hant.rst#NP20>`__
 
    * - `\　　Three: The Bowl Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0015.html>`__
-     - 　　第三 缽品
+     - `\　　第三 缽品 <{filename}Section0015%zh-hant.rst>`__
 
    * - `\　　　21 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21>`__
-     - 　　　二十一
+     - `\　　　二十一 <{filename}Section0015%zh-hant.rst#NP21>`__
 
    * - `\　　　22 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22>`__
      - 　　　二十二

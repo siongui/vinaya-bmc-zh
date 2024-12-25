@@ -448,8 +448,7 @@
      -
 
 .. _NP 21: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
-.. _《捨墮》二一: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
-.. TODO FIXME: replace link to 《捨墮》二一
+.. _《捨墮》二一: {filename}Section0015%zh-hant.rst#NP21
 
 
 .. list-table::
