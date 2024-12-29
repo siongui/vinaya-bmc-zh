@@ -221,4 +221,52 @@
    \*    \*    \*
 
 
+.. _NP22:
+
+.. raw:: html
+
+   <span id="NP22"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **22**
+     - **二十二**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu with an alms bowl having fewer than five mends ask for another new bowl, it is to be forfeited and confessed. The bowl is to be forfeited by the bhikkhu to the company of bhikkhus. That company of bhikkhus’ final bowl should be presented to the bhikkhu, (saying,) “This, bhikkhu, is your bowl. It is to be kept until broken.” This is the proper course here.*
+
+     - .. container:: notification
+
+          *如果任何比丘的缽少於五處修補，要求另一個新缽，尼薩耆波逸提。比丘應將缽捨出給比丘同伴。比丘同伴最後的缽應給比丘，（說：）「比丘，這是你的缽。必須保留它，直到損壞為止。」這於此是如法的。*
+
+   * - .. container:: mx-2
+
+          “Now at that time a certain potter had invited the bhikkhus, saying, ‘If any of the masters needs a bowl, I will supply him with a bowl.’ So the bhikkhus, knowing no moderation, asked for many bowls. Those with small bowls asked for large ones. Those with large ones asked for small ones. (§) The potter, making many bowls for the bhikkhus, could not make other goods for sale. (As a result,) he could not support himself, and his wife and children suffered.”
+
+     - .. container:: mx-2
+
+          「\ `爾時，有一個陶匠邀請了比丘們 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0348a03>`_\ ，說：『如果哪位大德需要一個缽，我就供給他一個缽。』於是，比丘們毫無節制地要了很多缽。那些有小缽的人要求大缽。那些有大缽的要求小缽。（§）陶匠為比丘們製作了許多缽，無法製作其他物品來出售。（結果）他無法養活自己，他的妻子和孩子也受苦了。」
+
+   * - Here the full offense involves three factors:
+     - 這裡，完整的違犯涉及三個因素：
+
+   * - *1) Effort:* Before one’s alms bowl is beyond repair, one asks for
+     - *1）努力：*\在缽無法修復之前，要求
+
+   * - *2) Object:* a new almsbowl fit to be determined for use.
+     - *2）對象：*\一個適合決意使用的新缽。
+
+   * - *3) Result:* One obtains the bowl.
+     - *3）結果：*\獲得缽。
+
+   * - According to the Commentary, the phrase, a bowl “having fewer than five mends” refers to one that is not beyond repair, as explained under the preceding rule. Thus this rule allows a bhikkhu whose bowl *is* beyond repair to ask for a new one.
+
+     - 根據《義註》，該措辭，缽「少於五處修補」，是指未至不可修復的缽，如前述戒條所解釋。因此，本戒條允許比丘的缽\ *為*\ 無法修復時可以要求換一個新的。
+
+   * - A bhikkhu whose bowl is not beyond repair incurs a dukkaṭa in asking for a new bowl, and a nissaggiya pācittiya in receiving it.
+     - 當比丘的缽沒有無法修復時，會因索取新缽而犯《突吉羅》，並在接受新缽時犯《捨墮》。
+
 (未完待續)

@@ -41,8 +41,7 @@
 .. _22: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22
 .. _《捨墮》一八: {filename}Section0014%zh-hant.rst#NP18
 .. _一九: {filename}Section0014%zh-hant.rst#NP19
-.. _二二: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22
-.. TODO FIXME: replace link to 《捨墮》二二
+.. _二二: {filename}Section0015%zh-hant.rst#NP22
 
 
 .. list-table::
@@ -162,8 +161,7 @@
      - 違反其餘《捨墮》戒條而使用或接收的物品可以被捨出給僧團、團體或個人。這裡，僅給出捨出給個人的公式。很少被違犯的戒條的公式——例如涉及比丘尼或毛氈地毯——則不列出。
 
 .. _NP 22: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22
-.. _《捨墮》二二: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22
-.. TODO FIXME: replace link to 《捨墮》二二
+.. _《捨墮》二二: {filename}Section0015%zh-hant.rst#NP22
 .. _Appendix VII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVII
 .. _附錄七: #appendixVII
 .. _Appendix II in BMC2: https://www.dhammatalks.org/vinaya/bmc/Section0069.html
