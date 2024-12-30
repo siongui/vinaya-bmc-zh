@@ -269,4 +269,35 @@
    * - A bhikkhu whose bowl is not beyond repair incurs a dukkaṭa in asking for a new bowl, and a nissaggiya pācittiya in receiving it.
      - 當比丘的缽沒有無法修復時，會因索取新缽而犯《突吉羅》，並在接受新缽時犯《捨墮》。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Forfeiture, confession, & bowl exchange**
+     - **捨出、懺罪和交換缽**
+
+   * - Once a bhikkhu has obtained a bowl in violation of this rule, he must forfeit it in the midst of the Community and confess the offense. (See `Appendix VI`_ for the Pali formulae used in forfeiture and confession.) He then receives the Community’s “final bowl” to use in place of the new one he has forfeited.
+
+     - 一旦比丘違反本戒條獲得了缽，他必須在僧團中捨出它並懺悔罪行。（請參閱\ `附錄六`_\ ，用於捨出和懺罪的巴利語公式。）然後，他收到僧團的「最後缽」來使用，以代替他捨出的新缽。
+
+   * - The Community’s final bowl is selected in the following way: Each bhikkhu coming to the meeting to witness the offender’s forfeiture and confession must bring the bowl he has determined for his own use. If a bhikkhu has an inferior bowl in his possession—either extra or placed under shared ownership—he is not to determine that bowl and take it to the meeting in hopes of getting a more valuable one in the exchange about to take place. To do so entails a dukkaṭa.
+
+     - 僧團的最後缽是按下列方式選出的：每一位來參加集會見證犯戒者捨出和懺罪的比丘必須攜帶他已決意供自己使用的缽。如果比丘擁有一個較差的缽——無論是額外的還是置於共享所有權之下——他都不能決意該缽並將其帶到集會上，希望在即將舉行的交換中得到一個更有價值的缽。這樣做犯《突吉羅》。
+
+   * - Once the bhikkhus have assembled, the offender forfeits his bowl and confesses the offense. The Community, following the pattern of a motion and one proclamation *(ñatti-dutiya-kamma)* given in `Appendix VI`_, then chooses one of its members as bowl exchanger. As with all Community officials, the bowl exchanger must be free of the four types of bias: based on desire, based on aversion, based on delusion, based on fear. He must also know when a bowl is properly exchanged and when it’s not. His duty, once authorized, is to take the forfeited bowl and show it to the most senior bhikkhu, who is to choose whichever of the two bowls pleases him more—his own or the new one. If the new bowl is preferable to his own and yet he does not take it out of sympathy for the offender, he incurs a dukkaṭa. The K/Commentary and Sub-commentary add that if he does not prefer the new bowl, there is no offense in not taking it. The Commentary states that if he does prefer the new bowl but, out of a desire to develop the virtue of contentment with what he has, decides not to take it, there is also no offense.
+
+     - 一旦比丘們聚集在一起，犯戒者捨出他的缽並懺悔罪行。僧團按照\ `附錄六`_\ 中給出的一項動議和一項公告[譯註：一白與一羯磨] *(ñatti-dutiya-kamma [譯註：白二羯磨])* 的模式，選擇其中一名成員作為缽交換者。與所有僧團執事一樣，缽交換者必須擺脫四種類型的偏見：基於貪、基於嗔、基於癡、基於恐懼。他還必須知道何時正確交換缽，何時不正確。一旦獲得授權，他的職責就是將被捨出的缽拿給戒臘最高的比丘看，後者要選擇兩個缽中他更喜歡的一個——他自己的缽或新的缽。如果新缽比他自己的缽更好，但他出於對犯戒者的同情而沒有拿走它，他犯《突吉羅》。 K/《義註》和《複註》補充說，如果他不喜歡新缽，不接受它並沒有犯戒。《義註》指出，如果他確實喜歡新缽，出於培養滿足於自己所擁有的美德的願望，決定不接受它，也沒有犯戒。
+
+   * - To continue with the Vibhaṅga: Once the most senior bhikkhu has taken his choice, the remaining bowl is then shown to the bhikkhu second in seniority, who repeats the process, and so on down the line to the most junior bhikkhu. The bowl exchanger then takes the bowl remaining from this last bhikkhu’s choice—the least desirable bowl belonging to that company of bhikkhus—and presents it to the offender, telling him to determine it for his use and to care for it as best he can until it is no longer useable.
+
+     - 繼續講《經分別》：一旦戒臘最高的比丘做出了選擇，剩下的缽就會呈給戒臘第二高的比丘，重複這個過程，依此類推，依次遞給戒臘最低的比丘。然後，缽交換者將最後一位比丘選擇的剩餘缽——屬於比丘同伴們最不合意的缽——交給犯戒者，告訴他決意來使用並盡其所能地照料它，直到它不可用為止。
+
+   * - If the offender treats it improperly—putting it in a place where it might get damaged, using it in the wrong sort of way (on both of these points, see `BMC2, Chapter 3`_)—or tries to get rid of it (§), thinking, “How can this bowl be lost or destroyed or broken,” he incurs a dukkaṭa.
+
+     - 如果犯戒者對待它不當——將其放在可能損壞的地方，以錯誤的方式使用它（這兩點，請參閱\ `《佛教修道準則 第二冊》第三章`_\ ）——或試圖擺脫它（§），心想：「這個缽怎麼才會遺失、毀壞或破碎呢？」
+
+.. _BMC2, Chapter 3: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#BMC2chapter3
+.. _《佛教修道準則 第二冊》第三章: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#BMC2chapter3
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第三章
+
 (未完待續)
