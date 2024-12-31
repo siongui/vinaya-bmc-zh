@@ -323,4 +323,34 @@
    \*    \*    \*
 
 
+.. _NP23:
+
+.. raw:: html
+
+   <span id="NP23"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **23**
+     - **二十三**
+
+   * - .. container:: notification
+
+          *There are these tonics to be taken by sick bhikkhus: ghee, fresh butter, oil, honey, sugar/molasses. Having been received, they are to be used from storage seven days at most. Beyond that, they are to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *生病的比丘可以服用以下補充品：酥油、新鮮奶油、油、蜂蜜、糖/糖蜜。收到後，最多可儲藏使用七天。超過此限者，尼薩耆波逸提。*
+
+   * - The factors for a full offense here are two.
+     - 完全違犯的因素有二。
+
+   * - *1) Object:* any of the five tonics.
+     - *1）對象：*\ 五種補品中的任何一種。
+
+   * - *2) Effort:* One keeps the tonic past the seventh dawnrise after receiving it.
+     - *2）努力：*\ 在接受補品後將其保留到第七次黎明（明相）。
+
 (未完待續)

@@ -755,8 +755,7 @@
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _NP 23: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
 .. _《捨墮》二十: #NP20
-.. _《捨墮》二三: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
-.. TODO FIXME: replace link to 《捨墮》二三
+.. _《捨墮》二三: {filename}Section0015%zh-hant.rst#NP23
 
 
 .. list-table::
