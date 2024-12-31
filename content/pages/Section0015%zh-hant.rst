@@ -300,4 +300,27 @@
 .. _《佛教修道準則 第二冊》第三章: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#BMC2chapter3
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第三章
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - A bhikkhu whose bowl is not beyond repair incurs no penalty if he asks for a new bowl from relatives or from people who have invited him to ask, or if he gets a new bowl with his own resources. He is also allowed to ask for a bowl for the sake of another, which—following the Commentary to `NP 6`_—would mean that Bhikkhu X may ask for a bowl for Y only if he asks from his own relatives or people who have invited him to ask for a bowl OR if he asks from Y’s relatives or people who have invited Y to ask. Asking for and receiving a bowl for Y from people other than these would entail the full offense.
+
+     - 比丘的缽尚未無法修復時，如果他向親戚或邀請他的人索取新缽，或者用自己的資源得到新缽，則不會受到懲罰。他也被允許為另一個人要一個缽，這——根據\ `《捨墮》六`_\ 的《義註》——意味著比丘 X 只有在向自己的親戚或邀請他的人索取時，\ **或者**\ 向 Y 的親戚或邀請 Y 的人索取時，才可以為 Y 要一個缽。向這些人以外的人索取並為 Y 接受的缽將構成完全違犯。
+
+   * - *Summary: Asking for and receiving a new alms bowl when one’s current bowl is not beyond repair is a nissaggiya pācittiya offense.*
+     - *摘要：當現有的缽尚未無法修復時，索取並接受新的缽是《尼薩耆波逸提》（《捨墮》）罪。*
+
+.. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
+.. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
