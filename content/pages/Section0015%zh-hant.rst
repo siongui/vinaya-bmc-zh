@@ -353,4 +353,46 @@
    * - *2) Effort:* One keeps the tonic past the seventh dawnrise after receiving it.
      - *2）努力：*\ 在接受補品後將其保留到第七次黎明（明相）。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The five tonics mentioned in this rule form one of four classes of edibles grouped according to the time period within which they may be eaten after being received. The other three—food, juice drinks, and medicines—are discussed in detail at the beginning of the `Food Chapter`_ in the pācittiya rules. Here is the story of how the tonics came to be a special class:
+
+     - 本戒條中提到的五種補品屬於四類食品之一，根據收到後可以食用的時間段進行分組。其他三種——食物、果汁飲料和藥物——在《波逸提》戒條的\ `食物品`_\ 開頭詳細討論。以下是補品如何成為一類特殊類別的故事：
+
+   * - .. container:: mx-2
+
+          “Then as the Blessed One was alone in seclusion, this line of reasoning occurred to his mind: ‘At present the bhikkhus, afflicted by the autumn disease, bring up the conjey they have drunk and the meals they have eaten. Because of this they are thin, wretched, unattractive, and pale, their bodies covered with veins. What if I were to allow medicine for them that would be both medicine and agreed to be medicine by the world, and serve as food, yet would not be considered gross (substantial) food.’
+
+     - .. container:: mx-2
+
+          「當世尊獨自隱居時，他心中生起這樣的推理：『現在，諸比丘，受秋病之苦，嘔吐出他們所喝的粥和所吃的飯菜。因此，他們瘦弱、可憐、毫無吸引力、臉色蒼白，全身佈滿青筋。如果我允許為他們提供藥物，這種藥物既是藥物，又被世人認為是藥物，又可以作為食物，但又不會被視為粗劣（大量）食物。」
+
+   * - .. container:: mx-2
+
+          “Then this thought occurred to him: ‘There are these five tonics—ghee, fresh butter, oil, honey, sugar/molasses—that are both medicine and agreed to be medicine by the world, and serve as food yet would not be considered gross food. What if I were now to allow the bhikkhus, having accepted them at the right time (from dawnrise to noon), to consume them at the right time’….
+
+     - .. container:: mx-2
+
+          「然後他想到：『有這五種滋補品——酥油、新鮮奶油、油、蜂蜜、糖/糖蜜——既是藥物，又被世人認為是藥物，作為食物卻不會被認為是粗劣食物。如果我現在允許比丘們，在正確的時間（從黎明到中午）接受它們，在正確的時間食用，會怎麼樣」…。
+
+   * - .. container:: mx-2
+
+          “Now at that time bhikkhus, having accepted the five tonics at the right time, consumed them at the right time. Because of this they could not stomach even ordinary coarse foods, much less rich, greasy ones. As a result, afflicted both by the autumn disease and this loss of appetite for meals, they became even more thin and wretched…. So the Blessed One, with regard to this cause, having given a Dhamma talk, addressed the bhikkhus: ‘Bhikkhus, I allow that the five tonics, having been accepted, be consumed at the right time or the wrong time (from noon to dawnrise).’”—`Mv.VI.1.2-5`_
+
+     - .. container:: mx-2
+
+          「那時，諸比丘們，在適當的時候接受了五種補品，在適當的時候食用了它們。因此，他們連普通的粗糧都吃不了，更別說油膩的了。結果，在秋病和食慾不振的雙重折磨下，他們變得更加瘦弱……。為此，世尊在說法之後，對比丘們說：『比丘們，我允許接受之後，在正確的時間或錯誤的時間（從中午到黎明）服食五種補品。』」—`《大品》.六.1.2-5`_
+
+.. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
+.. _食物品: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
+.. TODO FIXME: replace link to 附錄四
+.. _Mv.VI.1.2-5: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts1_2
+.. _《大品》.六.1.2-5: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0267a08
+
+
 (未完待續)
