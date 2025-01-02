@@ -388,11 +388,32 @@
 
           「那時，諸比丘們，在適當的時候接受了五種補品，在適當的時候食用了它們。因此，他們連普通的粗糧都吃不了，更別說油膩的了。結果，在秋病和食慾不振的雙重折磨下，他們變得更加瘦弱……。為此，世尊在說法之後，對比丘們說：『比丘們，我允許接受之後，在正確的時間或錯誤的時間（從中午到黎明）服食五種補品。』」—`《大品》.六.1.2-5`_
 
+   * - .. The Vibhaṅga defines the five tonics as follows:
+     - 《經分別》對五種補品的定義如下：
+
+   * - *Ghee* means strained, boiled butter oil made from the milk of any animal whose flesh is allowable for bhikkhus to eat (see the introduction to the `Food Chapter`_ in the pācittiya rules).
+
+     - *酥油*\是指任何允許比丘食用其肉的動物的奶製成的過濾煮沸的奶油（參見《波逸提》戒條中\ `食物品`_\ 的介紹）。
+
+   * - *Fresh butter* must be made from the milk of any animal whose flesh is allowable. None of the Vinaya texts go into detail on how fresh butter is made, but `MN 126`_ describes the process as “having sprinkled curds in a pot, one twirls them with a churn.” Fresh butter of this sort is still made in India today by taking a small churn—looking like an orange with alternate sections removed, attached to a small stick—and twirling it in curds, all the while sprinkling them with water. The fresh butter—mostly milk fat—coagulates on the churn, and when the fresh butter is removed, what is left in the pot is diluted buttermilk. Fresh butter, unlike creamery butter made by churning cream, may be stored unrefrigerated in bottles for several days even in the heat of India without going rancid.
+
+     - 新鮮奶油必須由任何允許食用其肉的動物的奶製成。律藏文獻中沒有詳細介紹如何製作新鮮奶油，但\ `《中部》126經`_\ 將這一過程描述為「將凝乳撒在鍋中，然後用攪拌器旋轉它們」。如今，這種新鮮奶油在印度仍然是通過取一個小攪拌器（看起來像一個被去除了交替部分的橙子，連接到一根小棍子上）並將其與凝乳一起旋轉，同時在凝乳中撒上水來製作的。新鮮奶油（主要是乳脂）在攪拌器上凝固，當新鮮奶油被取出時，鍋中剩下的就是稀釋的酪乳。與攪拌奶油製成的乳清奶油不同，新鮮奶油即使在印度炎熱的天氣下也可以在不冷藏的情況下在瓶子中保存幾天而不會變質。
+
+   * - Arguing by the Great Standards, creamery butter would obviously come under fresh butter here. A more controversial topic is cheese.
+     - 按照《四大教示》，乳清奶油顯然屬於新鮮奶油。一個更有爭議的話題是起司。
+
+   * - In `Mv.VI.34.21`_, the Buddha allows bhikkhus to consume five products of the cow: milk, curds, buttermilk, fresh butter, and ghee. Apparently, cheese—curds heated to evaporate their liquid content and then cured with or without mold—was unknown in those days, but there seems every reason, using the Great Standards, to include it under one of the five. The question is which one. Some have argued that it should come under fresh butter, but the argument for classifying it under curds seems stronger, as it is closer to curds in composition and is generally regarded as more of a substantial food. Different Communities, however, have differing opinions on this matter.
+
+     - 在\ `《大品》.六.34.21`_\ 中，佛陀允許比丘食用五種奶牛產品：牛奶、凝乳、酪乳、新鮮奶油和酥油。顯然，起司——加熱蒸發其液體成分的凝乳，然後在有或沒有黴菌的情況下固化——在當時還不為人所知，但使用《四大教示》，似乎有充分的理由將其納入此五種之一。問題是哪一個。有些人認為它應該歸類為新鮮奶油，但將其歸類為凝乳的論點似乎更強烈，因為它的成分更接近凝乳，並且通常被認為是更大量的食物。然而，不同的僧團對此問題有不同的看法。
+
 .. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
 .. _食物品: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
 .. TODO FIXME: replace link to 附錄四
 .. _Mv.VI.1.2-5: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts1_2
 .. _《大品》.六.1.2-5: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0267a08
-
+.. _MN 126: https://www.dhammatalks.org/suttas/MN/MN126.html
+.. _《中部》126經: https://sutra.mobi/chilin/zhong/content/126.html
+.. _Mv.VI.34.21: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.34.21
+.. _《大品》.六.34.21: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0321a02
 
 (未完待續)
