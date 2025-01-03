@@ -388,7 +388,7 @@
 
           「那時，諸比丘們，在適當的時候接受了五種補品，在適當的時候食用了它們。因此，他們連普通的粗糧都吃不了，更別說油膩的了。結果，在秋病和食慾不振的雙重折磨下，他們變得更加瘦弱……。為此，世尊在說法之後，對比丘們說：『比丘們，我允許接受之後，在正確的時間或錯誤的時間（從中午到黎明）服食五種補品。』」—`《大品》.六.1.2-5`_
 
-   * - .. The Vibhaṅga defines the five tonics as follows:
+   * - The Vibhaṅga defines the five tonics as follows:
      - 《經分別》對五種補品的定義如下：
 
    * - *Ghee* means strained, boiled butter oil made from the milk of any animal whose flesh is allowable for bhikkhus to eat (see the introduction to the `Food Chapter`_ in the pācittiya rules).
@@ -406,6 +406,14 @@
 
      - 在\ `《大品》.六.34.21`_\ 中，佛陀允許比丘食用五種奶牛產品：牛奶、凝乳、酪乳、新鮮奶油和酥油。顯然，起司——加熱蒸發其液體成分的凝乳，然後在有或沒有黴菌的情況下固化——在當時還不為人所知，但使用《四大教示》，似乎有充分的理由將其納入此五種之一。問題是哪一個。有些人認為它應該歸類為新鮮奶油，但將其歸類為凝乳的論點似乎更強烈，因為它的成分更接近凝乳，並且通常被認為是更大量的食物。然而，不同的僧團對此問題有不同的看法。
 
+   * - *Oil*, according to the Vibhaṅga, includes sesame oil, mustard seed oil, “honey tree” oil, castor oil, and oil from tallow. The Commentary adds that oil made from any plants not listed in the Vibhaṅga carries a dukkaṭa if kept more than seven days, although it would seem preferable to use the Great Standards and simply apply the full offense under this rule to all plant oils that can be used as food; and to class as medicines (see `BMC2, Chapter 5`_) any aromatic plant oils—such as tea-tree oil or peppermint oil—made from leaves or resins that qualify as medicines that can be kept for life.
+
+     - 油，根據《經分別》，包括芝麻油、芥菜籽油、「蜜樹」油、蓖麻油和動物脂油。《義註》補充說，由任何未列入《經分別》中的植物製成的油，如果保存超過七天，犯《突吉羅》，儘管使用《四大教示》似乎更合適，並且只需將本戒條下的完全違犯適用於所有可當食物使用的植物油；並將任何由可以作為可以終生保存藥物的葉子或樹脂製成的芳香植物油（例如茶樹油或薄荷油）歸類為藥物（參見\ `《佛教修道準則 第二冊》第五章`_\ ）。
+
+   * - `Mv.VI.2.1`_ allows five kinds of tallow: bear, fish, alligator, pig, and donkey tallow. Because bear meat is one of the kinds normally unallowable for bhikkhus, the Sub-commentary interprets this list as meaning that oil from the tallow of any animal whose flesh is allowable—and from any animal whose flesh, if eaten, carries a dukkaṭa—is allowable here. Because human flesh, if eaten, carries a thullaccaya, oil from human fat is not allowed.
+
+     - `《大品》.六.2.1`_\ 允許使用五種動物脂：熊脂、魚脂、鱷魚脂、豬脂和驢脂。因為熊肉是比丘通常不允許食用的種類之一，所以《複註》解釋了這個清單，意思是來自任何食用其肉是允許的動物的脂油——以及來自任何如果食用其肉犯《突吉羅》的動物——是這裡允許。因為如果食用人肉，犯《偷蘭遮》，因此不允許使用人類脂肪製成的油。
+
 .. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
 .. _食物品: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
 .. TODO FIXME: replace link to 附錄四
@@ -415,5 +423,11 @@
 .. _《中部》126經: https://sutra.mobi/chilin/zhong/content/126.html
 .. _Mv.VI.34.21: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.34.21
 .. _《大品》.六.34.21: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0321a02
+.. _BMC2, Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
+.. _《佛教修道準則 第二冊》第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第五章
+.. _Mv.VI.2.1: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.2.1
+.. _《大品》.六.2.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0268a09
+
 
 (未完待續)
