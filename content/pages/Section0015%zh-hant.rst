@@ -408,11 +408,27 @@
 
    * - *Oil*, according to the Vibhaṅga, includes sesame oil, mustard seed oil, “honey tree” oil, castor oil, and oil from tallow. The Commentary adds that oil made from any plants not listed in the Vibhaṅga carries a dukkaṭa if kept more than seven days, although it would seem preferable to use the Great Standards and simply apply the full offense under this rule to all plant oils that can be used as food; and to class as medicines (see `BMC2, Chapter 5`_) any aromatic plant oils—such as tea-tree oil or peppermint oil—made from leaves or resins that qualify as medicines that can be kept for life.
 
-     - 油，根據《經分別》，包括芝麻油、芥菜籽油、「蜜樹」油、蓖麻油和動物脂油。《義註》補充說，由任何未列入《經分別》中的植物製成的油，如果保存超過七天，犯《突吉羅》，儘管使用《四大教示》似乎更合適，並且只需將本戒條下的完全違犯適用於所有可當食物使用的植物油；並將任何由可以作為可以終生保存藥物的葉子或樹脂製成的芳香植物油（例如茶樹油或薄荷油）歸類為藥物（參見\ `《佛教修道準則 第二冊》第五章`_\ ）。
+     - *油*\，根據《經分別》，包括芝麻油、芥菜籽油、「蜜樹」油、蓖麻油和動物脂油。《義註》補充說，由任何未列入《經分別》中的植物製成的油，如果保存超過七天，犯《突吉羅》，儘管使用《四大教示》似乎更合適，並且只需將本戒條下的完全違犯適用於所有可當食物使用的植物油；並將任何由可以作為可以終生保存藥物的葉子或樹脂製成的芳香植物油（例如茶樹油或薄荷油）歸類為藥物（參見\ `《佛教修道準則 第二冊》第五章`_\ ）。
 
    * - `Mv.VI.2.1`_ allows five kinds of tallow: bear, fish, alligator, pig, and donkey tallow. Because bear meat is one of the kinds normally unallowable for bhikkhus, the Sub-commentary interprets this list as meaning that oil from the tallow of any animal whose flesh is allowable—and from any animal whose flesh, if eaten, carries a dukkaṭa—is allowable here. Because human flesh, if eaten, carries a thullaccaya, oil from human fat is not allowed.
 
      - `《大品》.六.2.1`_\ 允許使用五種動物脂：熊脂、魚脂、鱷魚脂、豬脂和驢脂。因為熊肉是比丘通常不允許食用的種類之一，所以《複註》解釋了這個清單，意思是來自任何食用其肉是允許的動物的脂油——以及來自任何如果食用其肉犯《突吉羅》的動物——是這裡允許。因為如果食用人肉，犯《偷蘭遮》，因此不允許使用人類脂肪製成的油。
+
+   * - `Mv.VI.2.1`_ adds that tallow of any allowable sort may be consumed as oil if received in the right time (before noon, according to the Commentary), rendered in the right time, and filtered in the right time. (The PTS and Thai editions of the Canon use the word *saṁsaṭṭha* here, which usually means “mixed together”; the Sri Lankan edition reads *saṁsatta*, or “hung together.” Whichever the reading, the Commentary states that the meaning here is “filtered,” which best fits the context.) According to `Mv.VI.2.2`_, if the tallow has been received, rendered, or filtered after noon, the act of consuming the resulting oil carries a dukkaṭa for each of the three activities that took place after noon. For example, if the tallow was received before noon but rendered and filtered after noon, there are two dukkaṭas for consuming the resulting oil.
+
+     - `《大品》.六.2.1`_\ 補充說，如果在正確的時間（根據《義註》，在中午之前）接受、在正確的時間提煉並在正確的時間過濾，任何允許種類的動物脂都可以作為油食用。（《聖典》的 PTS 和泰國版本在這裡使用 *saṁsaṭṭha* 這個詞，通常意味著「混合在一起」；斯里蘭卡版本讀作 *saṁsatta* ，「懸掛在一起」。無論哪種讀法，《義註》都指出這裡的含義是「過濾」，這最適合上下文。）根據\ `《大品》.六.2.2`_\ ，如果動物脂在中午之後被接受、提煉或過濾，那麼食用所得的油的行為就會為中午之後發生的三項活動中的每一項犯《突吉羅》。例如，如果在中午之前收到動物脂，但在中午之後提煉和過濾，則食用所得的油犯兩次《突吉羅》。
+
+   * - Whether the Great Standards can be used to include gelatin under the category of “oil” here is a controversial topic. The argument for including it is that, like oil from tallow, it is rendered from a part of an animal’s body that the Commentary would include under “flesh,” and—on its own—it does not serve as substantial food. Different Communities, however, have differing opinions on this matter.
+
+     - 是否可以依照《四大教示》將\ `明膠`_\ 納入「油」範疇，這是一個有爭議的議題。支持將其包括在內的論點是，就像來自動物脂中的油一樣，它是從動物身體的一部分提煉出來的，《義註》將其納入「肉」中，並且它本身並不能作為大量的食物。然而，不同的僧團對此問題有不同的看法。
+
+   * - *Honey* means the honey of bees, although the Commentary lists two species of bee—\ *cirika*, long and with wings, and *tumbala*, large, black and with hard wings—whose honey it says is very viscous and ranks as a medicine, not as one of the five tonics.
+
+     - 蜂蜜的意思是蜜蜂的蜂蜜，儘管《義註》列出了兩種蜜蜂—— *cirika* ，長且有翅膀，和 *tumbala* ，大，黑色，翅膀堅硬——它說它們的蜂蜜非常黏稠，可以作為藥物，而不是作為五種補品之一。
+
+   * - *Sugar/molasses* the Vibhaṅga defines simply as what is extracted from sugar cane. The Commentary interprets this as meaning not only sugar and molasses, but also fresh sugar cane juice, but this contradicts `Mv.VI.35.6`_, which classes fresh sugar cane juice as a juice drink, not a tonic. The Commentary also says that sugar or molasses made from any fruit classed as a food—such as coconut or date palm—ranks as a food and not as a tonic, but it is hard to guess at its reasoning here, as sugar cane itself is also classed as a food. The Vinaya-mukha seems more correct in using the Great Standards to say that all forms of sugar and molasses, no matter what the source, would be included here. Thus maple syrup and beet-sugar would come under this rule.
+
+     - *糖/糖蜜*\，《經分別》僅將其定義為從甘蔗中提取的物質。《義註》將其解釋為不僅指糖和糖蜜，還指新鮮甘蔗汁，但這與\ `《大品》.六.35.6`_\ 相矛盾，後者將新鮮甘蔗汁歸類為果汁飲料，而不是補品。《義註》還說，由任何被歸類為食物的水果（例如椰子或椰棗）製成的糖或糖蜜都屬於食物，而不是補品，但很難猜測其原因，因為甘蔗本身就是也被歸類為食物。《戒律入口》似乎更正確地使用《四大教示》來說所有形式的糖和糖蜜，無論來源是什麼，都包括在這裡。因此，楓糖漿和甜菜糖算在本戒條之下。
 
 .. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
 .. _食物品: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
@@ -428,6 +444,11 @@
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第五章
 .. _Mv.VI.2.1: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.2.1
 .. _《大品》.六.2.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0268a09
+.. _Mv.VI.2.2: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts2_2
+.. _《大品》.六.2.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0268a12
+.. _明膠: https://zh.wikipedia.org/wiki/%E6%98%8E%E8%86%A0
+.. _Mv.VI.35.6: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.35.6
+.. _《大品》.六.35.6: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0323a01
 
 
 (未完待續)
