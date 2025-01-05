@@ -430,6 +430,17 @@
 
      - *糖/糖蜜*\，《經分別》僅將其定義為從甘蔗中提取的物質。《義註》將其解釋為不僅指糖和糖蜜，還指新鮮甘蔗汁，但這與\ `《大品》.六.35.6`_\ 相矛盾，後者將新鮮甘蔗汁歸類為果汁飲料，而不是補品。《義註》還說，由任何被歸類為食物的水果（例如椰子或椰棗）製成的糖或糖蜜都屬於食物，而不是補品，但很難猜測其原因，因為甘蔗本身就是也被歸類為食物。《戒律入口》似乎更正確地使用《四大教示》來說所有形式的糖和糖蜜，無論來源是什麼，都包括在這裡。因此，楓糖漿和甜菜糖算在本戒條之下。
 
+   * - The Vinaya-mukha—arguing from the parallel between sugar cane juice, which is a juice drink, and sugar, which is made by boiling sugar cane juice—maintains that boiled juice would fit under sugar here. This opinion, however, is not accepted in all Communities.
+
+     - 《戒律入口》——從甘蔗汁（一種果汁飲料）和糖（通過煮沸甘蔗汁製成）之間的相似性出發——認為煮沸的果汁可以算在此處的糖之下。然而，這項意見並未被所有僧團接受。
+
+   * - According to `Mv.VI.16.1`_, even if the sugar has a little flour mixed in with it simply to make it firmer—as sometimes happens in sugar cubes and blocks of palm sugar—it is still classed as a tonic as long as it is still regarded simply as “sugar.” If the mixture is regarded as something else—candy, for instance—it counts as a food and may not be eaten after noon of the day on which it is received.
+
+     - 根據\ `《大品》.六.16.1`_\ ，即使糖中混有少量麵粉，只是為了使其更堅硬（有時會發生在方糖和棕櫚糖塊中），只要它仍然僅被視為「糖」，它仍然被歸類為補品。如果混合物被視為其他東西（例如糖果），則它被視為食物，並且在接受的當天中午之後不得食用。
+
+   * - Sugar substitutes that have no food value would apparently not be classed as a food or a tonic, and thus would come under the category of life-long medicines.
+     - 沒有食用價值的\ `糖替代品`_\ 顯然不會被歸類為食品或補品，因此將屬於終身藥物的範疇。
+
 .. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
 .. _食物品: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
 .. TODO FIXME: replace link to 附錄四
@@ -449,6 +460,9 @@
 .. _明膠: https://zh.wikipedia.org/wiki/%E6%98%8E%E8%86%A0
 .. _Mv.VI.35.6: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.35.6
 .. _《大品》.六.35.6: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0323a01
+.. _Mv.VI.16.1: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.16.1
+.. _《大品》.六.16.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0279a10
+.. _糖替代品: https://zh.wikipedia.org/wiki/%E7%B3%96%E6%9B%BF%E4%BB%A3%E5%93%81
 
 
 (未完待續)
