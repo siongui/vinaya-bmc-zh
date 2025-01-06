@@ -464,5 +464,34 @@
 .. _《大品》.六.16.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0279a10
 .. _糖替代品: https://zh.wikipedia.org/wiki/%E7%B3%96%E6%9B%BF%E4%BB%A3%E5%93%81
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Proper use**
+     - **適當使用**
+
+   * - According to `Mv.VI.40.3`_, any tonic received today may be eaten mixed with food or juice drinks received today, but not with food or juice drinks received on a later day. Thus, as the Commentary points out, tonics received in the morning may be eaten with food that morning; if received in the afternoon, they may not be eaten mixed with food at all.
+
+     - 根據\ `《大品》.六.40.3`_\ ，今天接受的任何補品可以與今天接受的食物或果汁飲料混合食用，但不能與稍後的日子接受的食物或果汁飲料混合食用。因此，正如《義註》所指出的，早上接受的補品可以與當天早上的食物一起吃；如果是下午接受的，則根本不可與食物混合食用。
+
+   * - Also, the Commentary to this rule says at one point that one may take the tonic at any time during those seven days regardless of whether one is ill. At another point, though—in line with the Vibhaṅga to `Pc 37`_ & 38_, which assigns a dukkaṭa for taking a tonic as food—it says that one may take the tonic after the morning of the day on which it is received only if one has a reason. This statement the Sub-commentary explains as meaning that any reason suffices—e.g., hunger, weakness—as long as one is not taking the tonic for nourishment as food. In other words, one may take enough to assuage one’s hunger, but not to fill oneself up.
+
+     - 此外，本戒條的《義註》中曾提到，在這七天內，無論是否生病，都可以隨時服用補品。然而，在另一點上，與\ `《波逸提》三七`_\ 和\ `三八`_\ 的《經分別》一致，它為服用補品作為食物指定了《突吉羅》，它說，只有在有理由的情況下，才可以在接受補品的當天早上之後服用補品。《複註》解釋這句話的意思是，任何原因都可以──例如飢餓、虛弱──只要不以服用補品滋補作為食物。換句話說，可以吃足夠的東西來緩解飢餓，但不能填飽自己。
+
+   * - `Mv.VI.27`_, however, contains a special stipulation for the use of sugar. If one is ill, one may take it “as is” at any time during the seven days; if not, then after noon of the first day one may take it only if it is mixed with water.
+
+     - 然而，\ `《大品》.六.27`_\ 對糖的使用有特殊規定。如果生病了，可以在七天內的任何時間「照原樣」服用；如果沒有，那麼第一天中午之後，只有與水混合後才可以服用。
+
+.. _Mv.VI.40.3: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.40.3
+.. _《大品》.六.40.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0329a02
+.. _Pc 37: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc37
+.. _38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
+.. _《波逸提》三七: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc37
+.. TODO FIXME: replace link to 《波逸提》三七
+.. _三八: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
+.. TODO FIXME: replace link to 三八
+.. _Mv.VI.27: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.27
+.. _《大品》.六.27: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0298a14
 
 (未完待續)
