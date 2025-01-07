@@ -494,4 +494,43 @@
 .. _Mv.VI.27: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.27
 .. _《大品》.六.27: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0298a14
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - If a bhikkhu keeps a tonic past the seventh dawnrise after it has been received—either by himself or another bhikkhu—he is to forfeit it and confess the nissaggiya pācittiya offense. Perception is not a mitigating factor here. Even if he thinks that seven days have not yet passed when they actually have—or thinks that the tonic is no longer in his possession when it actually is—he incurs the penalty all the same (§).
+
+     - 如果一位比丘在接受補品後，無論是他自己還是其他比丘，在第七次\ `黎明（明相）`_\ 之後仍保留補品，他將捨出該補品並懺悔《捨墮》罪。在這裡，感知並不是減輕懲罰的因素。即使他認為還沒有過去七天，但實際上七天已經過去了——或者認為補品已經不在他手中了，而實際上仍在——他仍然會受到懲罰（§）。
+
+.. _黎明（明相）: https://zh.wikisource.org/wiki/%E4%BD%9B%E5%AD%B8%E5%A4%A7%E8%BE%AD%E5%85%B8/%E6%98%8E%E7%9B%B8
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Offenses**
+     - **犯戒**
+
+   * - The procedures for forfeiture, confession, and return of the tonic are the same as under `NP 1`_. The formula to use in forfeiting the tonic is given in `Appendix VI`_. Once the bhikkhu receives the tonic in return, he may not use it to eat or to apply to his body, although he may use it for other external purposes, such as oil for a lamp, etc. Other bhikkhus may not eat the tonic either, but they may apply it to their bodies—for example, as oil to rub down their limbs.
+
+     - 捨出、懺罪和返還補品的程序與\ `《捨墮》一`_\ 中的相同。\ `附錄六`_\ 給出了捨出補品的公式。一旦比丘收到補藥作為回報，他就不能用它來吃或塗在身體上，儘管他可以將它用於其他外部用途，例如燈油等。其他比丘也不可吃該補品，但他們可將其塗在身體上——例如，作為油擦在四肢上。
+
+   * - The Vibhaṅga states that, in the case of a tonic that has not been kept more than seven days, if one perceives it to have been kept more than seven days or if one is in doubt about it, the penalty is a dukkaṭa. As under `NP 1`_, this dukkaṭa is apparently for *using* the tonic.
+
+     - 《經分別》指出，對於未保存超過七天的補品，如果認為它已保存超過七天或有疑問，則懲罰為《突吉羅》。與\ `《捨墮》一`_\ 中一樣，這個《突吉羅》顯然是因為\ *使用*\ 補品。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - According to the Vibhaṅga, there is no offense if within seven days the tonic gets lost, destroyed, burnt, snatched away, or taken on trust; or if the bhikkhu determines it for use, abandons it, or—having given it away to an unordained person, abandoning desire for it—he receives it in return and makes use of it (§).
+
+     - 根據《經分別》，如果補品在七天內遺失、毀壞、燒毀、被搶走或基於信任被拿走，並沒有犯戒；或者，如果比丘決意使用它，放棄它，或者—將它布施給未受具足戒的人，放棄對它的渴望—他得到它作為回報並使用它（§）。
+
 (未完待續)
