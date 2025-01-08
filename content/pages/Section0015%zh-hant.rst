@@ -531,6 +531,33 @@
 
    * - According to the Vibhaṅga, there is no offense if within seven days the tonic gets lost, destroyed, burnt, snatched away, or taken on trust; or if the bhikkhu determines it for use, abandons it, or—having given it away to an unordained person, abandoning desire for it—he receives it in return and makes use of it (§).
 
-     - 根據《經分別》，如果補品在七天內遺失、毀壞、燒毀、被搶走或基於信任被拿走，並沒有犯戒；或者，如果比丘決意使用它，放棄它，或者—將它布施給未受具足戒的人，放棄對它的渴望—他得到它作為回報並使用它（§）。
+     - 根據《經分別》，如果補品在七天內遺失、毀壞、燒毀、被搶走或基於信任被拿走，並沒有犯戒；或者，如果比丘決意使用它，放棄它，或者—將它給予未受具足戒的人，放棄對它的渴望—他收到它作為回報並使用它（§）。
+
+   * - The Commentary contains an extended discussion of these last three points.
+     - 《義註》包含對最後三點的擴展討論。
+
+   * - .. container:: mx-2
+
+          1\) Determining the tonic for use means that within the seven days the bhikkhu determines that he will use it not as an internal medicine, but only to apply to the outside of his body or for other external purposes instead. In this case, he may keep the tonic as long as he likes without penalty.
+
+     - .. container:: mx-2
+
+          1）決意使用補品，是指比丘在七日內決意不將其用作內服藥，而只用於塗抹身體外部或作其他外用。在這種情況下，他可以隨心所欲地保留補品，而不會受到懲罰。
+
+   * - .. container:: mx-2
+
+          2\) Unlike the other rules dealing with robe-cloth or bowls kept *x* number of days, the non-offense clauses here do not include exemptions for tonics placed under shared ownership, but the Commentary discusses *abandons it* as if it read “places it under shared ownership.” Its verdict: Any tonic placed under shared ownership may be kept for more than seven days without incurring a penalty as long as the owners do not divide up their shares, but after the seventh day they may not use it for internal purposes. The Sub-commentary adds that any tonic placed under shared ownership may not be used at all until the arrangement is rescinded.
+
+     - .. container:: mx-2
+
+          2）與其他處理袈裟布或缽保存 *x* 天數的戒條不同，這裡的不犯條款不包括對共享所有權下的補品的豁免，但《義註》討論\ *放棄它*\ ，就好像它讀作「將其置於共享所有權之下」。其判決：只要所有者不分割其份額，任何共享所有權下的補品都可以保留超過七天，而不會受到處罰，但在第七天之後，他們不得將其用於內用目的。《複註》補充說，在取消該安排之前，任何共享所有權下的補品都不得使用。
+
+   * - .. container:: mx-2
+
+          3\) The Commentary reports a controversy between two Vinaya experts on the meaning of the last exemption in the list—i.e., “having given it away to an unordained person, abandoning possession of it in his mind, he receives it in return and makes use of it.” Ven. Mahā Sumanatthera states that the phrase, “if within seven days” applies here as well: If within seven days the bhikkhu gives the tonic to an unordained person, having abandoned possession of it in his mind, he may then keep it and consume it for another seven days if the unordained person happens to return it to him.
+
+     - .. container:: mx-2
+
+          3）《義註》記述了兩位戒律專家之間關於列表中最後一項豁免的含義的爭議，即「將它給予未受具足戒的人，在心中放棄了對它的擁有，他收到它作為回報並使用它」。摩訶Sumanatthera尊者指出，該措辭「若在七日內」也適用於此：如果在七日內，比丘將補品給予一位未受具足戒的人，並在心中放棄了對它的擁有，如果未受具足戒的人碰巧將其歸還給他，那麼他可以保留它並繼續食用七天。
 
 (未完待續)
