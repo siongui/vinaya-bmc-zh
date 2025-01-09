@@ -560,4 +560,16 @@
 
           3）《義註》記述了兩位戒律專家之間關於列表中最後一項豁免的含義的爭議，即「將它給予未受具足戒的人，在心中放棄了對它的擁有，他收到它作為回報並使用它」。摩訶Sumanatthera尊者指出，該措辭「若在七日內」也適用於此：如果在七日內，比丘將補品給予一位未受具足戒的人，並在心中放棄了對它的擁有，如果未受具足戒的人碰巧將其歸還給他，那麼他可以保留它並繼續食用七天。
 
+   * - Ven. Mahā Padumatthera disagrees, saying that the exemption *abandons it* already covers such a case, and that the exemption here refers to the situation where a bhikkhu has kept a tonic past seven days, has forfeited it and received it in return, and then gives it up to an unordained person. If the unordained person then returns the tonic to him, he may use it to rub on his body.
+
+     - 摩訶Padumatthera尊者不同意，他說，\ *放棄它*\ 的豁免已經涵蓋了這種情況，這裡的豁免是指比丘保留補品超過七天，已經捨出並收到它作為回報，然後給予一位未受具足戒的人的情況。如果未受具足戒者隨後將補品歸還給他，他可以用它來塗抹身體。
+
+   * - The K/Commentary agrees with the latter position, but this creates some problems, both textual and practical. To begin with, the phrase, “if within seven days,” modifies every one of the other non-offense clauses under this rule, and there is nothing to indicate that it does not modify this one, too. Second, every one of the other exemptions refers directly to ways of avoiding the full offense and not to ways of dealing with the forfeited article after it is returned, and again there is nothing to indicate that the last exemption breaks this pattern.
+
+     - K/《義註》同意後一種觀點，但這造成了一些問題，包括文字和實際問題。首先，「如果在七天之內」這句話修改了本戒條下的所有其他不犯條款，並且沒有任何跡象表明它不會修改這條。其次，其他每項豁免都直接提到了避免完全違犯的方式，而不是提到歸還捨出物品後的處理方式，而且沒有任何跡象表明最後一項豁免打破了這種模式。
+
+   * - On the practical side, if the exemption *abandons it* covers cases where a bhikkhu may give up the tonic to anyone at all and then receive it in return to use for another seven days, bhikkhus could spend their time trading hoards of tonics among themselves indefinitely, and the rule would become meaningless. But as the origin story shows, it was precisely to prevent them from amassing such hoards that the rule was formulated in the first place.
+
+     - 從實際角度來看，如果\ *放棄它*\ 的豁免涵蓋了比丘可以將補品給予任何人，然後再收到補藥以供使用七天的情況，比丘們可以無限期地花時間在他們之間交易補品，那麼本戒條就變得毫無意義了。但正如起源故事所示，最初制定本戒條正是為了防止他們累積如此多的東西。
+
 (未完待續)
