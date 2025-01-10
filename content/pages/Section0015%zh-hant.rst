@@ -570,6 +570,38 @@
 
    * - On the practical side, if the exemption *abandons it* covers cases where a bhikkhu may give up the tonic to anyone at all and then receive it in return to use for another seven days, bhikkhus could spend their time trading hoards of tonics among themselves indefinitely, and the rule would become meaningless. But as the origin story shows, it was precisely to prevent them from amassing such hoards that the rule was formulated in the first place.
 
-     - 從實際角度來看，如果\ *放棄它*\ 的豁免涵蓋了比丘可以將補品給予任何人，然後再收到補藥以供使用七天的情況，比丘們可以無限期地花時間在他們之間交易補品，那麼本戒條就變得毫無意義了。但正如起源故事所示，最初制定本戒條正是為了防止他們累積如此多的東西。
+     - 從實際角度來看，如果\ *放棄它*\ 的豁免涵蓋了比丘可以將補品給予任何人，然後再收到補藥以供使用七天的情況，比丘們可以無限期地花時間在他們之間交易補品，那麼本戒條就變得毫無意義了。但正如\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0354a14>`__\ 所示，最初制定本戒條正是為了防止他們累積如此多的東西。
+
+   * - .. container:: mx-2
+
+          “Then Ven. Pilindavaccha went to the residence of King Seniya Bimbisāra of Magadha and, on arrival, sat down on a seat made ready. Then King Seniya Bimbisāra… went to Ven. Pilindavaccha and, on arrival, having bowed down to him, sat to one side. As he was sitting there, Ven. Pilindavaccha addressed him: ‘For what reason, great king, has the monastery attendant’s family been imprisoned?’
+
+     - .. container:: mx-2
+
+          「於是，畢陵伽婆蹉尊者來到摩揭陀斯尼耶頻毘娑羅王的住所，一到那裡，就在準備好的座位上坐下。然後，斯尼耶頻毘娑羅王… 去找畢陵伽婆蹉尊者，到達後，向他敬禮，然後坐在一旁。當他坐在那裡時，畢陵伽婆蹉尊者問他：『偉大的國王，寺院淨人一族因何被監禁？』
+
+   * - .. container:: mx-2
+
+          “‘Venerable sir, in the monastery attendant’s house was a garland of gold: beautiful, attractive, exquisite. There is no garland of gold like it even in our own harem, so from where did that poor man (get it)? It must have been taken by theft.’
+
+     - .. container:: mx-2
+
+          「『尊者，寺院淨人一族有一串金花環：美麗、迷人、精巧。就連我們自己的後宮中都沒有這樣的金花環，那麼，那個可憐的男人是從哪裡得到它的呢？它肯定是被偷了。』
+
+   * - .. container:: mx-2
+
+          “Then Ven. Pilindavaccha willed that the palace of King Seniya Bimbisāra be gold. And it became made entirely of gold. ‘But from where did you get so much of this gold, great king?’
+
+     - .. container:: mx-2
+
+          「時，畢陵伽婆蹉尊者用意念將斯尼耶頻毘娑羅王的宮殿變成黃金。它變成完全由黃金製成。『但是，偉大的國王，您從哪裡得到這麼多的黃金？』
+
+   * - .. container:: mx-2
+
+          “(Saying,) ‘I understand, venerable sir. This is simply the master’s psychic power’ (§—reading *ayyass’ev’eso* with the Thai edition of the Canon)’ he had the monastery attendant’s family released.
+
+     - .. container:: mx-2
+
+          「（說）『我明白了，尊者。這只是大德的神通力』（§—泰國版《聖典》拼讀成 *ayyass’ev’eso*\）』他釋放了寺院淨人一族。
 
 (未完待續)
