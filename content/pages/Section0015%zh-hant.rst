@@ -604,4 +604,33 @@
 
           「（說）『我明白了，尊者。這只是大德的神通力』（§—泰國版《聖典》拼讀成 *ayyass’ev’eso*\）』他釋放了寺院淨人一族。
 
+   * - .. container:: mx-2
+
+          “The people, saying, ‘A psychic wonder, a superior human feat, they say, was displayed to the king and his retinue by the master Pilindavaccha,’ were pleased and delighted. They presented Ven. Pilindavaccha with the five tonics: ghee, fresh butter, oil, honey, and sugar.
+
+     - .. container:: mx-2
+
+          「人們說：『據說，畢陵伽婆蹉大德向國王和他的隨從示現神通不可思議之過人法，』他們很開心高興。他們為畢陵伽婆蹉尊者持來五種補品：酥油、新鮮奶油、油、蜂蜜和糖。
+
+   * - .. container:: mx-2
+
+          “Now ordinarily Ven. Pilindavaccha was already a receiver of the five tonics (§), so he distributed his gains among his company, who came to live in abundance. They put away their gains, having filled pots and pitchers. They hung up their gains in windows, having filled water strainers and bags. These kept oozing and seeping, and their dwellings were crawling and creeping with rats. People, engaged in a tour of the dwellings and seeing this, criticized and complained and spread it about, ‘These Sakyan-son monks have inner storerooms like the king….’”
+
+     - .. container:: mx-2
+
+          「現在畢陵伽婆蹉尊者已獲得五種補品（§），因此他將所得分配給他的隨從，使他們過得富足。他們把所得裝滿了罐子和水壺，然後存了起來。他們把所得裝滿濾水器和水袋，掛在窗戶上。這些地方不斷有液體滲出，他們的住處到處都是老鼠。人們在參觀住處時看到這種情況，便批評、抱怨並四處傳播：『這些沙門釋子與國王一樣擁有內部儲藏室……。』」
+
+   * - Thus it seems more likely that the Vibhaṅga’s non-offense clauses should be interpreted like this: A bhikkhu is no longer held responsible for a tonic if he abandons it or gives it away—no matter to whom he gives it, or what his state of mind—but he may receive it in return and use it another seven days *only* if within the first seven days he has given it to an unordained person, having abandoned all possession of it in his mind.
+
+     - 因此，《經分別》的不犯條款似乎更有可能被這樣解釋：如果比丘放棄或贈送補品，他不再對補品負責——無論他給誰，或他的心理狀態如何——但他可以接受其歸還並再使用七天，\ *只有*\ 當前提是，在前七天裡，他必須將其給予一個未受具足戒的人，並在心中放棄對它的所有權。
+
+   * - *Summary: Keeping any of the five tonics—ghee, fresh butter, oil, honey, or sugar/molasses—for more than seven days, unless one determines to use them only externally, is a nissaggiya pācittiya offense.*
+     - *摘要：將酥油、新鮮奶油、油、蜂蜜或糖/糖蜜這五種補品中的任何一種保存超過七天，除非決意只外用，否則是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
