@@ -2531,8 +2531,7 @@
 .. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
 .. _《捨墮》十八: {filename}Section0014%zh-hant.rst#NP18
-.. _《捨墮》二四: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
-.. TODO FIXME: replace link to 《捨墮》二四
+.. _《捨墮》二四: {filename}Section0015%zh-hant.rst#NP24
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

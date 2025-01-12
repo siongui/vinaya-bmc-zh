@@ -248,8 +248,7 @@
 .. _《波逸提》五九: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
 .. TODO FIXME: replace link to 《波逸提》五九
 .. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
-.. _《捨墮》二四: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
-.. TODO FIXME: replace link to 《捨墮》二四
+.. _《捨墮》二四: {filename}Section0015%zh-hant.rst#NP24
 .. _Appendices IV: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIV
 .. _V: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
 .. _附錄四: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIV

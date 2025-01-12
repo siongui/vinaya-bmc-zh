@@ -633,4 +633,31 @@
    \*    \*    \*
 
 
+.. _NP24:
+
+.. raw:: html
+
+   <span id="NP24"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **24**
+     - **二十四**
+
+   * - .. container:: notification
+
+          *When a month is left to the hot season, a bhikkhu may seek a rains-bathing cloth. When a half-month is left to the hot season, (the cloth) having been made, may be worn. If when more than a month is left to the hot season he should seek a rains-bathing cloth, (or) when more than a half-month is left to the hot season, (the cloth) having been made should be worn, it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *當離炎熱季節還有一個月的時候，比丘可尋求一件雨浴衣。離炎熱季節還有半個月，（衣）做好了，可以穿了。如果距離炎熱季節還超過一個月，他尋求一件雨浴衣，（或）距離炎熱季節還超過半個月，（衣）已經做好了並穿上，尼薩耆波逸提。*
+
+   * - Bhikkhus in the time of the Buddha commonly bathed in a river or lake. Passages in the Canon tell of some of the dangers involved: They had to watch over their robes to make sure they weren’t stolen or washed away by the river, and at the same time make sure they didn’t expose themselves. (SN 2:10 tells of a female deva who, seeing a young bhikkhu bathing, became smitten with the sight of him wearing only his lower robe. She appeared to him, suggesting that he leave the monkhood to take his fill of sensual pleasures before his youth had passed, but fortunately he was far enough in the practice to resist her advances.) A further danger during the rainy season was that the rivers would become swollen and their currents strong. During this time, then, bhikkhus would bathe in the rain.
+
+     - 佛陀時代的比丘通常在河流或湖泊中沐浴。《聖典》中的段落講述了其中涉及的一些危險：他們必須看管好自己的袈裟，確保它們不會被偷走或被河水沖走，同時確保他們不會暴露自己。（\ `《相應部》2:10經`_\ 講述了一位女天神看到一位年輕的比丘沐浴，被他只穿著下衣袈裟所吸引。她出現在他面前，建議他還俗，在他的青春已逝之前盡情享受感官愉悅，但幸運的是，他的修行已經足夠深入，可以抵抗她的追求。）雨季的另一個危險是河水上漲且水流湍急。在這段時間裡，比丘們會在雨中沐浴。
+
+.. _《相應部》2\:10經: https://sutra.mobi/chilin/xiangying/content/02.html#%E5%8D%81%E6%97%A5%E5%A4%A9%E5%AD%90
+
 (未完待續)
