@@ -675,9 +675,19 @@
 
      - 《經分別》中概述的行儀——包括圓括號中的《義註》細節和方括號中我自己的評論——如下：在炎熱季節的第四個陰曆月的前兩週——[以七月滿月結束的月亮週期，或如果有兩個滿月，則為第一個滿月]——比丘可以尋求雨浴衣並製作它（如果他獲得足夠的材料）。（然而，他還不能使用它或決意使用它，因為它只可以在雨季的四個月內被決意使用——[見\ `《大品》.八.20.2`_\]。）
 
+   * - In seeking the cloth he may directly ask for it from relatives or people who have invited him to ask, or he may approach people who have provided rains-bathing cloths in the past and give them such hints as: “It is the time for material for a rains-bathing cloth,” or “People are giving material for a rains-bathing cloth.” As under `NP 10`_, he may not say, “Give me material for a rains-bathing cloth,” or “Get me…” or “Exchange for me…” or “Buy me material for a rains-bathing cloth.” (If he asks directly from people who are not relatives or who have not invited him to ask, he incurs a dukkaṭa; if he then receives cloth from them, he incurs the full penalty under `NP 6`_. If he gives hints to people who have never provided rains-bathing cloths in the past, he incurs a dukkaṭa [which the Commentary assigns on the general principle of breaking a duty].)
+
+     - 在尋求布料時，他可以直接向親戚或邀請他來詢問的人索取，或者他可以接近過去曾提供過雨浴衣服的人，並給他們這樣的暗示：「現在是需要雨浴衣材料的時候了」或「人們正在提供用於雨浴衣的材料」。根據\ `《捨墮》十`_\ ，他不得說「給我一件雨浴衣的材料」，或「給我拿來…」或「給我換來…」或「給我買一件雨浴衣的材料」。（如果他直接向非親屬或沒有邀請他來詢問的人索取，他犯《突吉羅》；如果他隨後從他們那裡接受布，他會遭受\ `《捨墮》六`_\ 規定的全部懲罰。如果他向過去從未提供過雨浴衣的人暗示，他犯《突吉羅》[《義註》中對違反義務的一般原則的規定]。
+
+   * - During the last two weeks of the fourth lunar month of the hot season he may now begin using his cloth (although he may not yet determine it for use). [This shows clearly that this rule is providing an exemption to `NP 1`_, under which he otherwise would be forced to determine the cloth within ten days after receiving it.] (If he has not yet received enough material, he may continue seeking for more in the way described above and make himself a cloth when he receives enough.)
+
+     - 在炎熱季節的第四個陰曆月的最後兩週，他現在可以開始使用他的布料了（儘管他可能還沒有決意使用）。[這清楚地表明，本戒條為\ `《捨墮》一`_\ 提供了豁免，否則他將被迫在收到布料後十天內決意布料。]（如果他還沒有得到足夠的材料，他可以繼續按照上面描述的方式尋求更多的材料，當他得到足夠的材料時，他可以為自己做一件衣。）
+
 .. _Mv.VIII.15.1-7: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts15_1
 .. _Mv.VIII.20.2: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.20.2
 .. _《大品》.八.15.1-7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0377a13
 .. _《大品》.八.20.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0385a04
+.. _NP 10: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP10
+.. _《捨墮》十: {filename}Section0013%zh-hant.rst#NP10
 
 (未完待續)
