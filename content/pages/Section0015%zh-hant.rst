@@ -660,4 +660,24 @@
 
 .. _《相應部》2\:10經: https://sutra.mobi/chilin/xiangying/content/02.html#%E5%8D%81%E6%97%A5%E5%A4%A9%E5%AD%90
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Rains-bathing cloth**
+     - **雨浴衣**
+
+   * - `Mv.VIII.15.1-7`_ tells the story of a servant girl who went to a monastery and—seeing bhikkhus out bathing naked in the rain—concluded that there were no bhikkhus there, but only naked ascetics. She returned to tell her mistress, Lady Visākhā, who realized what was actually happening and made this the occasion to ask permission of the Buddha to provide rains-bathing cloths for the bhikkhus, because as she put it, “Nakedness is repulsive.” He granted her request, and at a later point (`Mv.VIII.20.2`_) stated that a rains-bathing cloth could be determined for use during the four months of the rainy season—beginning with the day after the full moon in July, or the second if there are two—and that at the end of the four months it was to be placed under shared ownership. This training rule deals with the protocol for seeking and using such a cloth during the rains and the period immediately preceding them.
+
+     - `《大品》.八.15.1-7`_ 講述了一個女僕去寺院的故事，她看到比丘們在雨中裸體沐浴，於是得出結論，那裡沒有比丘，只有裸體的苦行僧。她回去告訴了女主人，毘舍佉夫人，毘舍佉夫人意識到了事情的真相，並藉此機會向佛陀請求允許為比丘們提供雨浴衣，因為用她的話來說，「裸體是令人厭惡的」。他答應了她的請求，並在後來的某個時刻（\ `《大品》.八.20.2`_\ ）表示，可以在雨季的四個月內決意使用雨浴衣——從七月滿月後的次日開始，或者如果有兩個滿月的話，則是第二個滿月後的次日開始——並且在四個月結束後，將其置於共享所有權之下。本學處涉及在雨季和雨季之前尋求和使用這種衣物的行儀。
+
+   * - The protocol as sketched out in the Vibhaṅga—together with details from the Commentary in parentheses and my own comments in brackets—is as follows: During the first two weeks of the fourth lunar month of the hot season—[the lunar cycle ending with the full moon in July, or the first full moon if there are two]—a bhikkhu may seek a rains-bathing cloth and make it (if he gets enough material). (However, he may not yet use it or determine it for use because it may be determined for use only during the four months of the rainy season—[see `Mv.VIII.20.2`_].)
+
+     - 《經分別》中概述的行儀——包括圓括號中的《義註》細節和方括號中我自己的評論——如下：在炎熱季節的第四個陰曆月的前兩週——[以七月滿月結束的月亮週期，或如果有兩個滿月，則為第一個滿月]——比丘可以尋求雨浴衣並製作它（如果他獲得足夠的材料）。（然而，他還不能使用它或決意使用它，因為它只可以在雨季的四個月內被決意使用——[見\ `《大品》.八.20.2`_\]。）
+
+.. _Mv.VIII.15.1-7: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts15_1
+.. _Mv.VIII.20.2: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.20.2
+.. _《大品》.八.15.1-7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0377a13
+.. _《大品》.八.20.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0385a04
+
 (未完待續)
