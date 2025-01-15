@@ -703,4 +703,29 @@
 .. _《捨墮》十: {filename}Section0013%zh-hant.rst#NP10
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Offenses**
+     - **犯戒**
+
+   * - As the K/Commentary points out, this rule covers two separate offenses whose factors are somewhat different: the offense for seeking a rains-bathing cloth at the wrong time and the offense for using it at the wrong time.
+
+     - 正如 K/《義註》指出的那樣，本戒條涵蓋兩項不同的罪行，其因素略有不同：在錯誤的時間尋求雨浴衣的罪行和在錯誤的時間使用雨浴衣的罪行。
+
+   * - *Seeking*
+     - *尋求*
+
+   * - The factors here are three: object, effort, and result. The bhikkhu is looking for material for a rains-bathing cloth, he makes hints to people during the time he is not allowed to make hints, and he receives the cloth.
+
+     - 這裡的因素有三：對象、努力、結果。比丘在尋找雨浴衣的材料，他在不允許暗示的時間向人們暗示，並得到了布料。
+
+   * - *Using*
+     - *使用*
+
+   * - The factors here are two: object—he has a rains-bathing cloth—and effort—he has other robes to use, there are no dangers, and yet he wears the cloth during the period when he is not allowed to wear it. (The conditions here are based on the non-offenses clauses, which we will discuss below.)
+
+     - 這裡的因素有兩個：對象—他有一件雨浴衣—而努力—他有其他袈裟可用，也沒有危險，但他卻在禁止穿雨浴衣的期間裡穿著它。（這裡的條件是基於不犯條款，我們將在下面討論。）
+
 (未完待續)
