@@ -728,4 +728,31 @@
 
      - 這裡的因素有兩個：對象—他有一件雨浴衣—而努力—他有其他袈裟可用，也沒有危險，但他卻在禁止穿雨浴衣的期間裡穿著它。（這裡的條件是基於不犯條款，我們將在下面討論。）
 
+   * - In neither of these cases is perception a mitigating factor. Even if a bhikkhu thinks that the right time to hint for the cloth or to wear it has come when it actually hasn’t, he is not immune from an offense.
+
+     - 在這兩種情況下，感知都不是減輕懲罰的因素。即使比丘認為暗示衣物或穿戴衣物的正確時機已到，但實際上並未到，他仍不能免於犯戒。
+
+   * - A bhikkhu who has committed either of the two full offenses here is to forfeit the cloth and confess the offense. The procedures for forfeiture, confession, and return of the cloth are the same as under `NP 1`_.
+
+     - 比丘若完全違犯了此處所述的兩種罪行，則須捨出衣物並懺悔罪行。捨出、懺罪及歸還衣物的程序與\ `《捨墮》一`_\ 相同。
+
+   * - If a bhikkhu seeks or uses a rains-bathing cloth during the permitted times and yet believes that he is doing so outside of the permitted times, or if he is in doubt about the matter, he incurs a dukkaṭa.
+
+     - 如果比丘在允許的時間內尋求或使用雨浴衣，然而卻相信他是在允許的時間之外這樣做，或者如果他對此事有懷疑，他犯《突吉羅》。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - As the rule states, there is no offense for the bhikkhu who hints for a rains-bathing cloth within the last lunar month of the hot season, or for one who wears his rains-bathing cloth during the last two weeks of that month.
+
+     - 根據本戒條所述，在炎熱季節的最後一個陰曆月內暗示雨浴衣的比丘，或在該月的最後兩週內穿著雨浴衣的比丘，均不構成犯戒。
+
+   * - The Vibhaṅga then refers to a situation that occasionally happens under the lunar calendar: The four months of the hot season end, but the Rains-residence is delayed another lunar cycle because a thirteenth lunar month has been added at the end of the hot season or the beginning of the rainy season to bring the lunar year back into line with the solar year. In this case, it says that the rains-bathing cloth—having been sought for during the fourth month and worn during the last two weeks of the hot season—is to be washed and then put aside. When the proper season arrives, it may be brought out for use (§).
+
+     - 《經分別》接著提到了陰曆中偶爾發生的情況：四個月的炎熱季節結束了，但雨安居又推遲了一個陰曆週期，因為在炎熱季節結束或者雨季的開始時又增加了第十三個陰曆月，使得陰曆年與陽曆年重新保持一致。在這種情況下，它說，在炎熱季節的第四個月尋求並在最後兩週穿著的雨浴衣需要清洗然後放在一邊。當適當的季節到來時，就可以拿出來使用（§）。
+
 (未完待續)
