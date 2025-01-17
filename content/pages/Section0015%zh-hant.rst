@@ -755,4 +755,35 @@
 
      - 《經分別》接著提到了陰曆中偶爾發生的情況：四個月的炎熱季節結束了，但雨安居又推遲了一個陰曆週期，因為在炎熱季節結束或者雨季的開始時又增加了第十三個陰曆月，使得陰曆年與陽曆年重新保持一致。在這種情況下，它說，在炎熱季節的第四個月尋求並在最後兩週穿著的雨浴衣需要清洗然後放在一邊。當適當的季節到來時，就可以拿出來使用（§）。
 
+   * - The Commentary adds that there is no need to determine the cloth in this period until the day the Rains-residence officially starts, but it doesn’t say when the proper season for using it begins. Having made use of the two-week allowance for using the undetermined bathing cloth at the end of the hot season, is one granted another two-week allowance prior to the Rains-residence, or can one begin using it only when the Rains-residence begins? None of the texts say. It would make sense to allow the bhikkhu to begin using the cloth two weeks before the Rains-residence, but this is simply my own opinion.
+
+     - 《義註》補充道，直到雨安居正式開始的那一天為止，不需要決這段時期的衣物，但沒有說明使用它的適當季節從何時開始。在炎熱季節結束時，已經使用了兩週開緣的未決意浴衣，在雨安居之前，是否還獲得另外兩週的開緣，或者只能在雨安居時開始時才能開始使用？沒有任何文獻提及。允許比丘在雨安居前兩週開始使用衣物算是合理的，但這只是我個人的看法。
+
+   * - The Vibhaṅga then adds three more exemptions: There is no offense for a “snatched-away-robe” bhikkhu, a “destroyed-robe” bhikkhu, or when there are dangers. Strangely enough, the Commentary and the K/Commentary—although both were composed by Buddhaghosa—give conflicting interpretations of these exemptions. The Commentary interprets “robe” here as meaning rains-bathing cloth, and says that these exemptions apply to the dukkaṭa offense for bathing naked in the rain. A bhikkhu whose rains-bathing cloth has been snatched away or destroyed may bathe naked in the rain without incurring a penalty, as may a bhikkhu with an expensive bathing cloth who would rather bathe naked because of his fear of cloth thieves.
+
+     - 然後，《經分別》又增加了三種豁免：「被奪走袈裟」的比丘、「被毀壞袈裟」的比丘，或當有危險時，則不犯戒。奇怪的是，儘管《義註》和 K/《義註》都是由\ `佛音`_\ 編纂的，但對這些豁免的解釋卻相互矛盾。《義註》將這裡的「袈裟」解釋為雨浴衣，並表示這些豁免適用於在雨中裸浴的《突吉羅》罪。比丘的雨浴衣被搶走或毀壞，可以在雨中裸體沐浴而不受懲罰；如果比丘有一件昂貴的浴衣，但是由於害怕盜衣賊，他寧願裸體沐浴，那麼他也可以不受懲罰。
+
+   * - The K/Commentary, however, makes the Vibhaṅga’s exemptions refer also to the full offense. If a bhikkhu’s other robes have been snatched away or destroyed, he may wear his rains-bathing cloth out of season. The same holds true when, in the words of the K/Commentary, “naked thieves are plundering,” and a bhikkhu decides to wear his rains-bathing cloth out-of-season in order to protect either it or his other robes from being snatched away.
+
+     - 然而，K/《義註》使《經分別》的豁免也涉及完全違犯。如果比丘的其他袈裟被奪走或毀壞，他可以在非時季節穿著雨浴衣。同樣的情況也適用於，用 K/《義註》的話來說，「赤身裸體的盜賊正在掠奪」，而比丘決定在非時季節穿他的雨浴衣，以保護它或其他袈裟不被搶走。
+
+   * - Because the non-offense clauses usually apply primarily to the full offense, it seems appropriate to follow the K/Commentary here.
+     - 由於不犯條款通常主要適用於完全違犯，因此遵循此處的 K/《義註》似乎是適當的。
+
+   * - At present, much of this discussion is purely academic, inasmuch as most bhikkhus—if they use a bathing cloth—tend to determine it for use as a “requisite cloth” so as to avoid any possible offense under this rule.
+
+     - 目前，這方面的討論大多是純粹學術性的，因為大多數比丘——如果他們使用雨浴衣——傾向於將其決意為「必需布」，以避免本戒條下的任何可能罪行。
+
+   * - *Summary: Seeking and receiving a rains-bathing cloth before the fourth month of the hot season is a nissaggiya pācittiya offense.*
+     - *摘要：在炎熱季節的第四個月之前尋求並接受雨浴衣是《尼薩耆波逸提》（《捨墮》）罪。*
+
+   * - *Using a rains-bathing cloth before the last two weeks of the fourth month of the hot season is also a nissaggiya pācittiya offense.*
+     - *在炎熱季節第四個月的最後兩週之前使用雨浴衣也是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
