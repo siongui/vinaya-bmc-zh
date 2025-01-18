@@ -503,8 +503,7 @@
      - 意思是：「尊者，我的這件袈裟（袈裟布料），在我親自給予比丘後被奪回，應被捨出。我把它捨給你。」
 
 .. _NP 25: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP25
-.. _《捨墮》二五: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP25
-.. TODO FIXME: replace link to 《捨墮》二五
+.. _《捨墮》二五: {filename}Section0015%zh-hant.rst#NP25
 
 
 .. list-table::

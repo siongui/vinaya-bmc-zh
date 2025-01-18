@@ -786,4 +786,33 @@
    \*    \*    \*
 
 
+.. _NP25:
+
+.. raw:: html
+
+   <span id="NP25"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **25**
+     - **二十五**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu—having himself given robe-cloth to (another) bhikkhu and then being angered and displeased—snatch it back or have it snatched back, it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘將袈裟布給了（另一個）比丘，然後感到憤怒和不悅，將其奪回，或讓別人將其奪回，尼薩耆波逸提。*
+
+   * - .. container:: mx-2
+
+          “At that time Ven. Upananda the Sakyan said to his brother’s student, ‘Come, friend, let’s set out on a tour of the countryside.’
+
+     - .. container:: mx-2
+
+          「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0360a11>`__\ ，釋迦族的優波難陀對其兄弟的學生說：『朋友，走吧，我們去郊外遊覽吧。』
+
 (未完待續)

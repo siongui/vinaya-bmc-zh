@@ -253,7 +253,7 @@
      - `\　　　二十四 <{filename}Section0015%zh-hant.rst#NP24>`__
 
    * - `\　　　25 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP25>`__
-     - 　　　二十五
+     - `\　　　二十五 <{filename}Section0015%zh-hant.rst#NP25>`__
 
    * - `\　　　26 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP26>`__
      - 　　　二十六
