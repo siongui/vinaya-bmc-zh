@@ -813,6 +813,22 @@
 
      - .. container:: mx-2
 
-          「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0360a11>`__\ ，釋迦族的優波難陀對其兄弟的學生說：『朋友，走吧，我們去郊外遊覽吧。』
+          「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0360a11>`__\ ，釋迦族的優波難陀尊者對其兄弟的學生說：『朋友，走吧，我們去遊行諸方吧。』
+
+   * - .. container:: mx-2
+
+          “‘I can’t go, venerable sir. My robe is threadbare.’
+
+     - .. container:: mx-2
+
+          「『我不能去，大德。我的袈裟已經破爛了。』
+
+   * - .. container:: mx-2
+
+          “‘Come, friend, I’ll give you a robe.’ And he gave him a robe. Then that bhikkhu heard, ‘The Blessed One, they say, is going to set out on a tour of the countryside.’ The thought occurred to him: ‘Now I won’t set out on a tour of the countryside with Ven. Upananda the Sakyan. I’ll set out on a tour of the countryside with the Blessed One.’
+
+     - .. container:: mx-2
+
+          「『來吧，朋友，我給你一件袈裟。』於是他就給了他一件袈裟。然後那位比丘聽到說：『他們說，世尊要去遊行諸方。』他心裡想：『現在我不和釋迦族的優波難陀尊者去遊行諸方了。我要和世尊去遊行諸方。』
 
 (未完待續)
