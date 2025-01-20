@@ -831,4 +831,38 @@
 
           「『來吧，朋友，我給你一件袈裟。』於是他就給了他一件袈裟。然後那位比丘聽到說：『他們說，世尊要去遊行諸方。』他心裡想：『現在我不和釋迦族的優波難陀尊者去遊行諸方了。我要和世尊去遊行諸方。』
 
+   * - .. container:: mx-2
+
+          “Then Ven. Upananda said to him, ‘Come, friend, let’s set out on that tour of the countryside now.’
+
+     - .. container:: mx-2
+
+          「然後，優波難陀尊者對他說：『來吧，朋友，我們現在就去遊行諸方吧。』
+
+   * - .. container:: mx-2
+
+          “‘I won’t set out on a tour of the countryside with you, venerable sir. I’ll set out on a tour of the countryside with the Blessed One.’
+
+     - .. container:: mx-2
+
+          「『我不會和您去遊行諸方，大德。我要和世尊去遊行諸方。』
+
+   * - .. container:: mx-2
+
+          “‘But the robe I gave you, my friend, will set out on a tour of the countryside with *me*.’ And angered and displeased, he snatched the robe back.”
+
+     - .. container:: mx-2
+
+          「『但是我給你的袈裟，我的朋友，會和\ *我*\ 去遊行諸方。』他既生氣又不高興，把袈裟搶了回去。」
+
+   * - As the Commentary points out, this rule applies to cases where one perceives the robe-cloth as being rightfully one’s own even after having given it away, as when giving it on an implicit or explicit condition that the recipient does not later fulfill. Thus the act of snatching back here does not entail a pārājika. If, however, one has mentally abandoned ownership of the robe to the recipient and then for some reason snatches it back, the case would come under `Pr 2`_.
+
+     - 正如《義註》所指出的，本戒條適用於這樣的情況：即使在將袈裟布贈予他人之後，仍認為袈裟布理應屬於自己，例如在贈予袈裟時附加了隱含或明確的條件，而接受者後來沒有履行該條件。因此，此處的奪回行為並不涉及《波羅夷》。然而，如果在心裡已經放棄了袈裟的所有權，將其交給了接受者，然後又因為某種原因把它奪了回來，這種情況就屬於\ `《波羅夷》二`_\ 的情況。
+
+   * - The factors for an offense here are three.
+     - 此處的犯戒因素有三。
+
+.. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
+.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
+
 (未完待續)
