@@ -901,4 +901,46 @@
 
      - 被憤怒或不滿所驅使。然而，這裡的不滿不必太大，因為《經分別》只對本戒條下的一種意圖進行了豁免，那就是基於信任地拿走布料（§）。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Forfeiture & confession.**
+     - **捨出及懺罪**
+
+   * - A bhikkhu who has obtained robe-cloth in violation of this rule is to forfeit it and confess the offense. The procedures for forfeiture, confession, and return of the cloth are the same as under `NP 1`_. The formula to use in forfeiting the cloth is given in `Appendix VI`_.
+
+     - 違反本戒條而獲得袈裟布的比丘應予捨出並懺悔其罪行。捨出、懺罪及歸還布料的程序與\ `《捨墮》一`_\ 相同。捨出布料所使用的公式請見\ `附錄六`_\ 。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Lesser offenses**
+     - **較輕罪行**
+
+   * - There is a dukkaṭa for angrily snatching back from a bhikkhu requisites other than cloth; and for angrily snatching back any kind of requisite—cloth or otherwise—that one has given to someone who is not a bhikkhu. The Sub-commentary adds that to give robe-cloth to a layman planning to be ordained, and then to snatch it back in this way after his ordination, entails the full offense.
+
+     - 憤怒地從比丘手中奪回布料以外的其他必需品，《突吉羅》；憤怒地奪回給予非比丘之人的任何必需品（布料或其他物品）。《複註》補充說，將袈裟布送給即將受具足戒的俗人，然後在受具足戒之後再以此方式將其奪回，犯全部罪行。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - According to the Vibhaṅga, there is no offense if the recipient returns the robe of his own accord or if the donor takes it back on trust (§). The Commentary’s discussion of the first exemption shows that if the recipient returns the robe after receiving a gentle hint from the donor—“I gave you the robe in hopes that you would study with me, but now you are studying with someone else”—the donor incurs no penalty. However, if the donor’s hint shows anger—“I gave this robe to a bhikkhu who would study with me, not to one who would study with somebody else!”—he incurs a dukkaṭa for the hint, but no penalty when the recipient returns the robe.
+
+     - 根據《經分別》，如果接受者自願歸還袈裟，或捐贈者基於信任而收回袈裟（§），則不犯戒。《義註》對第一項豁免的討論表明，如果接受者在收到捐贈者的溫和暗示後歸還袈裟——「我給你袈裟是希望你跟我學習，但現在你卻在跟別人學習」——那麼捐贈者不會受到任何懲罰。然而，如果捐贈者的暗示表現出憤怒——「我把這件袈裟給一個要和我一起學習的比丘，而不是給一個和別人一起學習的比丘！」——他會因這個暗示而犯《突吉羅》，但當接受者歸還袈裟時不會受到懲罰。
+
+   * - *Summary: Having given another bhikkhu a robe on a condition and then—angry and displeased—snatching it back or having it snatched back is a nissaggiya pācittiya offense.*
+     - *摘要：在有條件的情況下給予另一位比丘袈裟，然後——生氣和不滿——將其奪回或令其被奪回，是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
