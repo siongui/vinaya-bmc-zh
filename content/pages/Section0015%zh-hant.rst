@@ -943,4 +943,43 @@
    \*    \*    \*
 
 
+.. _NP26:
+
+.. raw:: html
+
+   <span id="NP26"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **26**
+     - **二十六**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, having requested thread, have robe-cloth woven by weavers, it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *若比丘自己乞線後，請織匠們織袈裟布者，尼薩耆波逸提。*
+
+   * - This rule covers two actions—asking for thread and getting weavers to weave it into robe-cloth—but the Vibhaṅga is often unclear as to which action its explanations refer to. It barely touches on the first action explicitly, and even its treatment of the second action is extremely terse, leaving many questions unanswered. For these reasons, the compilers of the Commentary felt called upon to clarify the references and fill in the blanks even more than is normally the case. The Vibhaṅga’s discussion does make clear that the factors for an offense here are three—object, effort, and result—so the following discussion will focus on each factor in turn, stating what the Vibhaṅga does and doesn’t say about that factor, giving the Commentary’s further explanations, at the same time evaluating those further explanations as to their cogency.
+
+     - 本戒條涵蓋兩個行動 - 索取線和讓織工將其織成袈裟布 - 但《經分別》通常不清楚其解釋指的是哪個行動。它幾乎沒有明確涉及第一個行動，甚至對第二個行動的處理也非常簡潔，留下許多未解答的問題。基於這些原因，《義註》的編纂者感到有必要比平常更澄清參考文獻並填補空白。《經分別》的討論確實明確指出，此處的犯戒因素有三個——對象、努力和結果——因此，以下的討論將依次關注每個因素，說明《經分別》對該因素說了什麼和沒有說什麼，給出《義註》的進一步解釋，同時評估這些進一步解釋的說服力。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object:**
+     - **對象：**
+
+   * - Thread or yarn of the six allowable types for robe-cloth that a bhikkhu has himself requested from others. Because the Vibhaṅga’s non-offense clauses give an exemption “to sew a robe,” the Commentary is apparently right in stating that, to fulfill this factor, the thread or yarn has to have been requested for the purpose of making robe-cloth. And because the non-offense clauses also state, “from relatives or people who have invited one to ask,” the Commentary also seems right in stating that thread requested from these two types of people would not fulfill this factor. However, none of the texts explicitly assign a penalty for requesting thread that would not fall under the exemptions. Perhaps it would entail a dukkaṭa under the catch-all rule against misbehavior (`Cv.V.36`_).
+
+     - 比丘向他人乞求的、可用於製作袈裟布料的六種允許類型的線或紗。因為《分別經》的不犯條款豁免了「縫製袈裟」，所以《義註》顯然正確地指出，要滿足這一因素，線或紗必須是為了製作袈裟布而乞求的。而且，由於不犯條款還規定「來自親戚或已經邀請詢問者」，因此《義註》似乎正確地指出，向這兩類人乞求線不會滿足這一因素。但是，沒有任何文獻明確規定對請求不屬於豁免範圍的線進行懲罰。也許，根據針對不當行為包含所有的戒條（\ `《小品》.五.36`_\ ），這將犯《突吉羅》。
+
+.. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
+.. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
+
 (未完待續)
