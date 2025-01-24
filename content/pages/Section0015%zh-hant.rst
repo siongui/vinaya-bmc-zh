@@ -966,7 +966,7 @@
 
    * - This rule covers two actions—asking for thread and getting weavers to weave it into robe-cloth—but the Vibhaṅga is often unclear as to which action its explanations refer to. It barely touches on the first action explicitly, and even its treatment of the second action is extremely terse, leaving many questions unanswered. For these reasons, the compilers of the Commentary felt called upon to clarify the references and fill in the blanks even more than is normally the case. The Vibhaṅga’s discussion does make clear that the factors for an offense here are three—object, effort, and result—so the following discussion will focus on each factor in turn, stating what the Vibhaṅga does and doesn’t say about that factor, giving the Commentary’s further explanations, at the same time evaluating those further explanations as to their cogency.
 
-     - 本戒條涵蓋兩個行動 - 索取線和讓織工將其織成袈裟布 - 但《經分別》通常不清楚其解釋指的是哪個行動。它幾乎沒有明確涉及第一個行動，甚至對第二個行動的處理也非常簡潔，留下許多未解答的問題。基於這些原因，《義註》的編纂者感到有必要比平常更澄清參考文獻並填補空白。《經分別》的討論確實明確指出，此處的犯戒因素有三個——對象、努力和結果——因此，以下的討論將依次關注每個因素，說明《經分別》對該因素說了什麼和沒有說什麼，給出《義註》的進一步解釋，同時評估這些進一步解釋的說服力。
+     - 本戒條涵蓋兩個行動 - 索取線和讓織匠將其織成袈裟布 - 但《經分別》通常不清楚其解釋指的是哪個行動。它幾乎沒有明確涉及第一個行動，甚至對第二個行動的處理也非常簡潔，留下許多未解答的問題。基於這些原因，《義註》的編纂者感到有必要比平常更澄清參考文獻並填補空白。《經分別》的討論確實明確指出，此處的犯戒因素有三個——對象、努力和結果——因此，以下的討論將依次關注每個因素，說明《經分別》對該因素說了什麼和沒有說什麼，給出《義註》的進一步解釋，同時評估這些進一步解釋的說服力。
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -981,5 +981,37 @@
 
 .. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
 .. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - One gets weavers to weave robe-cloth using the thread. Again, because of the exemptions regarding relatives and people who have invited one to ask, the Commentary seems correct in saying that any weavers who fall into either of these categories would not fulfill this factor.
+
+     - 讓織匠用線織成袈裟布。同樣，由於親戚和邀請詢問者有豁免，《義註》似乎正確地指出，任何屬於這兩類的織匠都不會滿足這一因素。
+
+   * - The Vibhaṅga does not give a minimum size for the robe-cloth. The Commentary, following the pattern from other NP rules, states that any cloth measuring four by eight fingerbreadths or larger would fulfill this factor. However, several of the items allowed in the non-offense clauses would be larger than that measurement, so it seems preferable to interpret *robe-cloth* here as *robe*\—as the Commentary does under `Pc 58`_, where again the Vibhaṅga gives no minimum size for the cloth. In other words, the penalty is for getting the weavers to weave a wearable robe.
+
+     - 《經分別》並沒有規定袈裟布的最小尺寸。《義註》遵循其他《捨墮》戒條的模式，指出任何尺寸為四乘八指寬或更大的布料都滿足這一因素。然而，不犯條款中允許的幾件物品會比該尺寸更大，因此，似乎最好將\ *袈裟布*\ 解釋為\ *袈裟*\ ——正如《義註》在\ `《波逸提》五八`_\ 中所做的那樣，其中《經分別》也沒有給出布料的最小尺寸。換句話說，懲罰是針對讓織匠織出一件可穿的袈裟。
+
+   * - The Vibhaṅga states that there is a dukkaṭa in the effort of getting the weavers to weave the robe-cloth, which the Commentary explains by saying that the first dukkaṭa is incurred with the weavers’ first effort toward actually making the cloth, with additional dukkaṭas incurred for each additional effort they make. In other words, the dukkaṭa is for *successfully* getting the weavers to act on one’s request. It may seem strange not to allot a dukkaṭa for the request itself, but the Vibhaṅga to the following rule clearly states that the bhikkhu, in a similar case, incurs a dukkaṭa only when the weavers act on his request to improve a robe. The Vibhaṅga for this rule simply uses the causative—the form of verb describing the act of getting someone else to do something—which is ambiguous, for it could mean either trying to get the weavers to weave the cloth or successfully getting the weavers to weave the cloth. To clear up the ambiguity, the Commentary seems justified in applying the pattern from the following rule here. However, it seems excessive to impose multiple dukkaṭas on the bhikkhu for what, from his point of view, was a single action. There are many rules—such as `Pc 10`_, `Pc 20`_, and `Pc 56`_\—where a single request carries only one offense even if the person requested does the action many times.
+
+     - 《經分別》中說，在讓織匠織造袈裟布的努力，會犯一次《突吉羅》，而《義註》則解釋說，第一次《突吉羅》是在織匠第一次努力實際織造布料時發生的，而額外的《突吉羅》則發生在他們每一次額外的努力。換句話說，《突吉羅》是針對\ *成功地*\ 讓織匠按照自己的要求採取行動。請求本身不犯《突吉羅》似乎很奇怪，但以下戒條的《經分別》明確指出，在類似情況下，只有當織匠根據他的要求改善袈裟時，比丘才會犯《突吉羅》。本戒條的《經分別》僅使用使役動詞——描述讓別人做某事的行為的動詞形式——這是模棱兩可的，因為它可能意味著試圖讓織匠織布，也可能意味著成功地讓織匠織布。為了消除歧義，《義註》似乎有理由在此套用以下戒條的模式。然而，從比丘的角度來看，對於一個單一的行動而犯多次《突吉羅》似乎太過度了。有許多戒條（例如\ `《波逸提》十`_\ 、\ `《波逸提》二十`_\ 和\ `《波逸提》五六`_\ ），其中單次要求只會構成一次犯戒，即使被要求的人多次執行該行動。
+
+.. _Pc 58: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
+.. _《波逸提》五八: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
+.. TODO FIXME: replace link to 《波逸提》五八
+.. _Pc 10: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10
+.. _《波逸提》十: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10
+.. TODO FIXME: replace link to 《波逸提》十
+.. _Pc 20: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc20
+.. _《波逸提》二十: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc20
+.. TODO FIXME: replace link to 《波逸提》二十
+.. _Pc 56: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc56
+.. _《波逸提》五六: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc56
+.. TODO FIXME: replace link to 《波逸提》五六
 
 (未完待續)
