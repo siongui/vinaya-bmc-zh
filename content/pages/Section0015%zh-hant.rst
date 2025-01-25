@@ -1001,6 +1001,10 @@
 
      - 《經分別》中說，在讓織匠織造袈裟布的努力，會犯一次《突吉羅》，而《義註》則解釋說，第一次《突吉羅》是在織匠第一次努力實際織造布料時發生的，而額外的《突吉羅》則發生在他們每一次額外的努力。換句話說，《突吉羅》是針對\ *成功地*\ 讓織匠按照自己的要求採取行動。請求本身不犯《突吉羅》似乎很奇怪，但以下戒條的《經分別》明確指出，在類似情況下，只有當織匠根據他的要求改善袈裟時，比丘才會犯《突吉羅》。本戒條的《經分別》僅使用使役動詞——描述讓別人做某事的行為的動詞形式——這是模棱兩可的，因為它可能意味著試圖讓織匠織布，也可能意味著成功地讓織匠織布。為了消除歧義，《義註》似乎有理由在此套用以下戒條的模式。然而，從比丘的角度來看，對於一個單一的行動而犯多次《突吉羅》似乎太過度了。有許多戒條（例如\ `《波逸提》十`_\ 、\ `《波逸提》二十`_\ 和\ `《波逸提》五六`_\ ），其中單次要求只會構成一次犯戒，即使被要求的人多次執行該行動。
 
+   * - None of the texts discuss this point further, but the Commentary’s interpretation of the causative verb here apparently holds for other rules as well in which the Vibhaṅga imposes a penalty on a bhikkhu for improperly getting someone else to make an item for him, such as `NP 11-15`_ and `Pc 86-92`_: no offense for the request itself, but a dukkaṭa if the request successfully persuades the other person to act in line with it. Only when the Vibhaṅga explicitly states that there is an offense in the request—as under `Pc 26`_, the rule concerned with sewing a robe or having one sewn for a bhikkhunī—does the request carry an offense even if the person requested does not follow it.
+
+     - 沒有任何文獻進一步討論這一點，但《義註》對此處使役動詞的解釋顯然也適用於其他戒條，其中《經分別》對比丘因不適當地讓別人為自己製作物品而施加懲罰，例如\ `《捨墮》十一至十五`_\ 和\ `《波逸提》八六至九二`_\ ：請求本身並不犯戒，但如果請求成功說服另一方按照其行事，則犯《突吉羅》。只有當《經分別》明確指出請求中有犯戒之處時——如\ `《波逸提》二六`_\ 關於縫製袈裟或為比丘尼縫製袈裟的戒條——即使被請求者不遵照行事，該請求仍構成犯戒。
+
 .. _Pc 58: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
 .. _《波逸提》五八: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
 .. TODO FIXME: replace link to 《波逸提》五八
@@ -1013,5 +1017,28 @@
 .. _Pc 56: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc56
 .. _《波逸提》五六: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc56
 .. TODO FIXME: replace link to 《波逸提》五六
+.. _NP 11-15: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP11
+.. _Pc 86-92: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
+.. _Pc 26: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc26
+.. _《捨墮》十一至十五: {filename}Section0014%zh-hant.rst#NP11
+.. _《波逸提》八六至九二: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
+.. TODO FIXME: replace link to 《波逸提》八六至九二
+.. _《波逸提》二六: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc26
+.. TODO FIXME: replace link to 《波逸提》二六
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Result**
+     - **結果**
+
+   * - One obtains the cloth. According to the Commentary, the cloth counts as “obtained” when the weavers have completed weaving four by eight fingerbreadths of cloth. It also states that there is an extra NP offense for each added four-by-eight-fingerbreadths section they complete. Neither of these explanations has a precedent anywhere in the Canon. `Mv.V.13.13`_ states clearly that the countdown on the time span of robe-cloth begins only when it is delivered to one’s hand, and the same principle would surely apply here: The full offense is incurred when the robe-cloth is delivered to one’s hand. As for the second explanation, the Vibhaṅga assigns only one full offense for receiving the cloth, which means that a larger piece of cloth would not carry more offenses than a smaller one.
+
+     - 得到了布料。根據《義註》，當織匠織完四乘八指寬的布料時，布料就算「獲得」。它還規定，他們每完成一個額外的四乘八指寬的部分，就會被犯一次額外的《捨墮》。這兩種解釋在《聖典》中都沒有任何先例。\ `《大品》.五.13.13`_\ 明確指出，袈裟布的時間跨度倒數計時只有當它被送到手中時才開始，同樣的原則肯定也適用於這裡：當袈裟布被送到手中時，就會完全違犯。至於第二種解釋，《經分別》規定接受布料時只完全違犯一次，這意味著一塊大布料不會比一塊小布料犯更多次戒。
+
+   * - Perception is not a factor here. The Vibhaṅga states if the cloth was woven as a result of one’s request, then even if one perceives it as not having been woven at one’s request or if one is in doubt about the matter, one incurs the full offense. If, on the other hand, the cloth was not woven at one’s request and yet one perceives it as having been woven at one’s request—or one is in doubt about the matter—the penalty on obtaining it is a dukkaṭa.
+
+     - 在此處，感知不是一個因素。《經分別》規定，如果這塊布是應自己的要求而織成的，那麼即使認為它不是應自己的要求而織成的，或者對該事情有懷疑，也會完全違犯。另一方面，如果這塊布不是應自己的要求而織成的，而卻認為它是應自己的要求而織成的——或者對此事有懷疑——那麼對獲得它的懲罰就是《突吉羅》。
 
 (未完待續)
