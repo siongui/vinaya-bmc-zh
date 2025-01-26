@@ -1041,4 +1041,41 @@
 
      - 在此處，感知不是一個因素。《經分別》規定，如果這塊布是應自己的要求而織成的，那麼即使認為它不是應自己的要求而織成的，或者對該事情有懷疑，也會完全違犯。另一方面，如果這塊布不是應自己的要求而織成的，而卻認為它是應自己的要求而織成的——或者對此事有懷疑——那麼對獲得它的懲罰就是《突吉羅》。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Forfeiture & confession**
+     - **捨出 & 懺罪**
+
+   * - Robe-cloth received in a way that entails the full offense under this rule is to be forfeited and the offense confessed, following the procedure under `NP 1`_.
+
+     - 以構成本戒條所規定完全違犯的方式收到的袈裟布須被捨出，並懺悔罪行，按照\ `《捨墮》一`_\ 中的程序進行。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Derived offenses**
+     - **衍生違犯**
+
+   * - To provide a complete treatment of the various combinations of proper and improper behavior related to the two actions covered by this rule, the Commentary gives a table working out the possible combinations of offenses based on two variables: thread properly or improperly received, and weavers proper or improper for the bhikkhu to ask. Thread properly received is any that the bhikkhu has requested from people who are related to him or have invited him to ask. Similarly, weavers proper for him to ask are any who are related to him or have offered him their services.
+
+     - 為了全面處理與本戒條涵蓋的兩種行為相關的適當和不適當行為的各種組合，《義註》提供了一張表格，根據兩個變數計算出可能的犯戒組合：以適當或不適當的方式接受線，以及適合或不適合比丘要求的織匠。適當接受的線是比丘向與他有親戚關係的人或邀請他詢問的人要求的任何線。同樣，適合他要求的織匠是任何與他有親戚關係或為他提供服務的人。
+
+   * - If both the thread and the weavers are classed as not proper, the penalty is a dukkaṭa in getting them to weave cloth, and a nissaggiya pācittiya when the cloth is obtained.
+
+     - 如果線和織匠都被歸類為不合適，那麼在讓他們織布時要受到《突吉羅》的懲罰，而在獲得布時要受到《捨墮》的懲罰。
+
+   * - There is a dukkaṭa in obtaining the cloth if the thread is proper, but the weavers not; OR if the thread is not proper, but the weavers are. (For ease of remembrance: a dukkaṭa if one variable is proper and the other not.)
+
+     - 如果線合適，織匠不合適，當獲得布時犯《突吉羅》；\ **或**\ 如果線不合適，但織匠合適。（為了方便記憶：如果一個變數合適而另一個變數不合適，則為《突吉羅》。）
+
+   * - If both variables are proper, there is no offense.
+     - 如果兩個變數都合適，則不犯戒。
+
+   * - The Commentary then has a field day working out the permutations if two different weavers—one proper and one improper—work on the cloth, or if proper and improper thread are used in the cloth—proper warp and improper woof, or alternating strands of proper and improper thread—which if nothing else provides an insight into the commentators’ minds.
+
+     - 然後，《義註》開始花一整天時間研究如果兩個不同的織匠（一位合適，一位不合適）在織布，或者如果在布中使用了合適的和不合適的線（合適的經線和不合適的緯線，或交替使用合適的線），會出現什麼樣的排列組合。這至少能讓我們洞察註釋者的想法。
+
 (未完待續)
