@@ -1078,4 +1078,23 @@
 
      - 然後，《義註》開始花一整天時間研究如果兩個不同的織匠（一位合適，一位不合適）在織布，或者如果在布中使用了合適的和不合適的線（合適的經線和不合適的緯線，或交替使用合適的線），會出現什麼樣的排列組合。這至少能讓我們洞察註釋者的想法。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The Vibhaṅga says that there is no offense “to sew a robe; in (§) a knee strap (§), in a belt, in a shoulder strap, in a bag for carrying the bowl, or in a water-strainer; from relatives or people who have invited one to ask; for the sake of another; or by means of one’s own resources.”
+
+     - 《經分別》說，以下不犯「縫製袈裟；在（§）膝帶（§）中、腰帶中、肩帶中、裝缽的袋子中，或濾水器中；向親戚或邀請的人詢問；為了他人的利益；或利用自己的資源。」
+
+   * - The Commentary interprets the first exemption as applying to the first action mentioned in the rule, meaning that there is no offense in asking anyone at all for thread or yarn to sew a robe. This seems right, as the grammatical form of the exemption is unusual for a non-offense clause, and does not follow the pattern the Vibhaṅga would have used if the exemption were for getting the weavers to sew a robe.
+
+     - 《義註》將第一項豁免解釋為適用於本戒條中提到的第一個行動，這意味著向任何人索取線或紗線來縫製袈裟都沒有犯戒。這似乎是正確的，因為豁免的語法形式對於不犯條款來說是不尋常的，而且如果豁免是為了讓織匠縫製袈裟，並不遵循《經分別》所採用的模式。。
+
+   * - The Commentary also states that the exemptions for a knee strap and the other small items also apply to the first action. In other words, one may request thread or yarn from anyone to make these items, but may not get weavers to weave them. This explanation seems designed to support the Commentary’s position that a piece of cloth measuring four by eight fingerbreadths would be grounds for a full offense under this rule. Here, however, the grammatical form of the relevant exemptions does *not* support the Commentary’s assertion, for it follows a pattern typical throughout the Vibhaṅga for non-offenses related to the main action covered by a rule. Thus there would be no offense in providing weavers with thread with which to make small items of this sort. Because these articles can be quickly woven, this may have been a common courtesy that weavers extended to contemplatives in the Buddha’s time.
+
+     - 《義註》也指出，膝帶和其他小件物品的豁免也適用於第一個行動。換句話說，可以向任何人要求線或紗來製作這些物品，但不能讓織匠來編織它們。這個解釋似乎是設計來支持《義註》的觀點，即一塊尺寸為四指乘以八指寬的布料將構成本戒條規定的完全違犯行為的理由。然而，這裡相關豁免的語法形式並\ *不*\ 支持《義註》的斷言，因為它遵循了整個《經分別》中關於與戒條涵蓋的主要行為相關的不犯的典型模式。因此，向織匠提供用於製作此類小物件的線並不犯戒。由於這些物品可以快速編織完成，這可能是佛陀時代織匠對沙門的常見禮遇。
+
 (未完待續)
