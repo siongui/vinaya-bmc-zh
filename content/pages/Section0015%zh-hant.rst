@@ -1097,4 +1097,25 @@
 
      - 《義註》也指出，膝帶和其他小件物品的豁免也適用於第一個行動。換句話說，可以向任何人要求線或紗來製作這些物品，但不能讓織匠來編織它們。這個解釋似乎是設計來支持《義註》的觀點，即一塊尺寸為四指乘以八指寬的布料將構成本戒條規定的完全違犯行為的理由。然而，這裡相關豁免的語法形式並\ *不*\ 支持《義註》的斷言，因為它遵循了整個《經分別》中關於與戒條涵蓋的主要行為相關的不犯的典型模式。因此，向織匠提供用於製作此類小物件的線並不犯戒。由於這些物品可以快速編織完成，這可能是佛陀時代織匠對沙門的常見禮遇。
 
+   * - As for the exemptions for relatives and people who have invited one to ask, we have already noted that the Commentary seems correct in applying them to both actions: asking for thread and getting weavers to weave cloth.
+
+     - 至於親戚和邀請詢問者的豁免，我們已經注意到，《義註》似乎正確地將其應用於兩種行為：要求線和讓織匠織布。
+
+   * - Following the Commentary’s explanation under `NP 6`_ & `22 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22>`_, *for the sake of another* here would mean that one may ask from one’s own relatives or from those who have invited one to ask OR from relatives of the other person or people who have invited him to ask. Asking for his sake from people other than these would entail the full offense.
+
+     - 按照《義註》中\ `《捨墮》六`_\ 和\ `二十二 <#NP22>`_\ 的解釋，這裡的「\ *為了他人*\ 」是指可以向自己的親戚或邀請自己詢問者要求，\ **或者**\ 向他人的親戚或邀請他人詢問者要求。向除這些人之外的人為了他人而要求會構成完全違犯。
+
+   * - If the cloth is obtained by means of one’s own resources—i.e., one arranges to pay for the thread and hire the weavers—the Commentary states that one is responsible for the cloth as soon as it is finished and fully paid for, regardless of whether it is delivered into one’s possession. One must therefore determine it for use within 10 days of that date so as not to commit an offense under `NP 1`_. (Alternatively, the Commentary suggests, one may avoid this difficulty by not giving full payment for the cloth until it is delivered.) If, after one has given full payment for the cloth, the weavers promise to send word when the cloth is done, one’s responsibility starts when one receives word from their messenger; if they have promised to send the cloth when done, one’s responsibility begins when their messenger delivers it. At any rate, as with its explanation of “obtaining cloth” under this rule, the Commentary’s statements here conflict with the principle in `Mv.V.13.13`_, in which the countdown on the time span of the cloth begins only when it is delivered to one’s hand.
+
+     - 如果布料是透過自己的資源獲得的——即自己安排支付線的費用並僱用織匠——《義註》指出，只要布料完成並全額付款，就應對布料負責，無論它是否已被交付到手中。因此，必須在該日期後的十天內決意使用，以免違反\ `《捨墮》一`_\ 。（或者，《義註》建議，可以透過在布料交付之前不支付全額款項來避免這種困難。）如果在支付了布料的全部款項之後，織匠承諾在布料完成後捎來消息，那麼責任就從他收到信使的消息時開始；如果他們承諾完成後會把布料送來，那麼當信使送達時，責任就開始了。無論如何，正如對本戒條下「獲得布料」的解釋一樣，《義註》中的陳述與\ `《大品》.五.13.13`_\ 中的原則相衝突，在該原則中，布料時間跨度的倒數計時僅在布料交付到手中才開始。
+
+   * - *Summary: Taking thread that one has asked for improperly and getting weavers to weave cloth from it—when they are unrelated and have not made a previous offer to weave—is a nissaggiya pācittiya offense.*
+     - *摘要：獲得自己不適當地索取的線，並讓織匠用它來織布——如果織匠與自己沒有血緣關係，而且之前也沒有提出過編織邀請——是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
