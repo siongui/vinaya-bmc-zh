@@ -1118,4 +1118,25 @@
    \*    \*    \*
 
 
+.. _NP27:
+
+.. raw:: html
+
+   <span id="NP27"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **27**
+     - **二十七**
+
+   * - .. container:: notification
+
+          *In case a man or woman householder unrelated (to the bhikkhu) has robe-cloth woven by weavers for the sake of a bhikkhu, and if the bhikkhu, not previously invited (by the householder), having approached the weavers, should make stipulations with regard to the cloth, saying, “This cloth, friends, is being woven for my sake. Make it long, make it broad, make it tightly woven, well woven, well spread, well scraped, well smoothed, and perhaps I may reward you with a little something”; and should the bhikkhu, having said that, reward them with a little something, even as much as almsfood, it (the cloth) is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果一位（與比丘）無血緣關係的男或女居士，讓織匠為比丘織布，而比丘事先沒有受到（居士）邀請，就去前往織匠處，對衣作指示，說道：「朋友們，這塊布是為我織的。把它弄長、弄寬、織得緊密、織得好、鋪得好、刮得好、撫平得好，也許我可以給你一點獎勵」；如果比丘說了這樣的話，以一點東西獎勵他們，即使是缽食之量，（布料）尼薩耆波逸提。*
+
 (未完待續)
