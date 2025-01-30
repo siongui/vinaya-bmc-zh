@@ -1139,4 +1139,32 @@
 
           *如果一位（與比丘）無血緣關係的男或女居士，讓織匠為比丘織布，而比丘事先沒有受到（居士）邀請，就去前往織匠處，對衣作指示，說道：「朋友們，這塊布是為我織的。把它弄長、弄寬、織得緊密、織得好、鋪得好、刮得好、撫平得好，也許我可以給你一點獎勵」；如果比丘說了這樣的話，以一點東西獎勵他們，即使是缽食之量，（布料）尼薩耆波逸提。*
 
+   * - The origin story here starts like the origin story for `NP 8`_—a donor plans to clothe Ven. Upananda with a robe—but it contains two differences: Ven. Upananda interferes in the process of making the robe while it is still cloth being woven; and he addresses his stipulations, not to the donors, but to the weavers. The Buddha could have used this occasion as a chance to expand that rule, but he didn’t—perhaps because the change in details required new definitions for the factors of effort and object. Under `NP 8`_, “object” is fulfilled only by a finished robe; here, it is fulfilled simply by the cloth made by the weavers, whether sewn into a finished robe or not.
+
+     - 這裡的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0364a14>`_ 與\ `《捨墮》八`_\ 的起源故事一樣——一位施主計劃為優波難陀尊者提供袈裟——但它有兩個不同之處：當袈裟還是一塊正在編織的布時，優波難陀尊者就介入了袈裟的製作過程；他不是針對施主，而是針對織匠說出的自己明確的要求。佛陀本可以利用這次機會來擴展本戒條，但他沒有這樣做——也許是因為細節的改變需要對努力和對象因素有新的定義。根據\ `《捨墮》八`_\ ，「對象」僅由一件完成的袈裟來滿足；在這裡，它僅透過織匠製作的布料來實現，無論是否縫製成成品袈裟。
+
+   * - The factors for an offense here are three.
+     - 此處構成犯戒的因素有三。
+
+.. _NP 8: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP8
+.. _《捨墮》八: {filename}Section0013%zh-hant.rst#NP8
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object:**
+     - **對象：**
+
+   * - A piece of any of the six allowable types of robe-cloth, measuring at least four by eight fingerbreadths, which is being made for one’s sake by the arrangement of a donor who is unrelated and has not given an invitation to ask.
+
+     - 六種允許使用類型的袈裟布中的任一種，尺寸至少為四指乘八指寬，由無親屬關係且未發出邀請詢問的施主安排為自己製作，。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
 (未完待續)
