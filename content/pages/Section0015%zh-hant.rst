@@ -1167,4 +1167,33 @@
    * - **Effort**
      - **努力**
 
+   * - One approaches the weavers and gets them to improve the cloth in any of the seven ways mentioned in the rule. Although the rule seems to indicate that the factor of effort is completed only when the weavers receive the promised reward, the Vibhaṅga says simply that it is completed when, as a result of one’s statement, the weavers improve the cloth as requested. In addition, the non-offense clauses give no exemption for a bhikkhu who does not give the promised reward. Thus, the bhikkhu does not have to give the reward for this factor to be fulfilled. The commentaries follow the Vibhaṅga on this point, and add that the bhikkhu’s statement need not even include a promise of a reward. As the Commentary puts it, the bhikkhu’s words quoted in the rule are meant simply as an example of any way in which one might get them to add more thread to the cloth. The Sub-commentary, however, notes that of the seven ways of improving the cloth, only the first three involve added thread. Its implied conclusion is that any statement that succeeds in getting the weavers to improve the cloth in any of these seven ways would fulfill the factor of effort here, regardless of whether the improvement involves adding more thread.
+
+     - 聯繫織匠並讓他們按照戒條中提到的七種方法中的任何一種方法來改進布料。雖然戒條似乎表明，只有當織匠收到承諾的獎勵時，努力的因素才算完成，但《經分別》僅說，當織匠根據陳述，按照要求改進布料時，努力的因素就完成。此外，不犯條款並未給予沒有承諾獎勵的比丘任何豁免。因此，比丘不必給予獎勵就滿足這個因素。註釋書在這一點上遵循了《經分別》，並補充說，比丘的陳述甚至不需要包括獎勵的承諾。正如《義註》中所說，戒條中引用的比丘的話只是為了舉例說明如何讓他們在布上添加更多的線。然而，《複註》指出，在七種改良布料的方法中，只有前三種需要添加線。其隱含的結論是，任何成功地讓織匠以這七種方式中的任何一種來改進布料的陳述都可以滿足這裡的努力因素，不管這種改進是否涉及添加更多的線。
+
+   * - As for the promised reward, the Vibhaṅga defines *almsfood* as covering anything of even the slightest material value—food, a lump of powder, tooth wood, unwoven thread, or even a phrase of Dhamma. (For example, the bhikkhu might try to get the weavers to improve the cloth by promising to describe the merit they will gain by doing so.) Note, however, that almsfood is defined as the minimal amount of reward. There is no maximum on what might be promised. Thus, even if the bhikkhu promises to pay in full for any added materials or time that the weavers might devote to the robe, he does not escape fulfilling this factor of the offense. (Some have objected that it should be all right for the bhikkhu to pay in full for the improvements in the robe, but remember that to do so would be an insult to the donors.)
+
+     - 至於承諾的獎勵，《經分別》將缽食定義為任何具有最微小物質價值的東西，如食物、一塊粉末、牙木、未編織的線、甚至一句佛法。（例如，比丘可能會試圖讓織匠改善布料，並承諾描述他們這樣做將獲得的功德。）但請注意，缽食被定義為最低限度的獎勵。對於承諾之物沒有上限。因此，即使比丘承諾全額支付織匠為製作袈裟所花費的任何額外材料或時間，他仍然逃脫不了滿足本戒的此因素。（有些人反對，認為比丘全額支付改善袈裟的費用是可以的，但請記住，這樣做是對施主的侮辱。）
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Result**
+     - **結果**
+
+   * - One obtains the cloth.
+     - 獲得該布料。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Offenses**
+     - **犯戒**
+
+   * - The bhikkhu incurs a dukkaṭa when the weavers improve the cloth in line with his instructions, and the full offense when he obtains it. The procedures for forfeiture, confession, and return of the cloth are the same as under `NP 1`_. The role of perception—regarding whether the donors are one’s relatives or not—is the same as under `NP 8`_.
+
+     - 當織匠按照比丘的指示改進布料時，比丘犯《突吉羅》；而當他得到布料時，則完全違犯。捨出、懺悔罪行、歸還布料的程序與\ `《捨墮》一`_\ 相同。感知的角色——關於施主是否是自己的親戚——與\ `《捨墮》八`_\ 中相同。
+
 (未完待續)
