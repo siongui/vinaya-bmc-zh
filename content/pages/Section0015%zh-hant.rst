@@ -1196,4 +1196,38 @@
 
      - 當織匠按照比丘的指示改進布料時，比丘犯《突吉羅》；而當他得到布料時，則完全違犯。捨出、懺悔罪行、歸還布料的程序與\ `《捨墮》一`_\ 相同。感知的角色——關於施主是否是自己的親戚——與\ `《捨墮》八`_\ 中相同。
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if—
+     - 若符合以下情況則不構成犯戒：
+
+   * - the donors are relatives,
+     - 施主是親戚，
+
+   * - they have invited one to ask,
+     - 他們已經邀請詢問，
+
+   * - one asks for the sake of another,
+     - 為了另一個人要求，
+
+   * - one gets the weavers to make the cloth less expensive than the donors had ordered, or
+     - 讓織匠以低於施主訂購的價格織出布料，或者
+
+   * - it is by means of one’s own resources. (This last point refers only to cases where the bhikkhu was the one who had the weavers hired in the first place.)
+     - 藉由利用自己的資源。（最後一點僅指比丘為首先僱用織匠者的情況。）
+
+   * - *Summary: When donors who are not relatives—and have not invited one to ask—have arranged for weavers to weave robe-cloth intended for one: Receiving the cloth after getting the weavers to improve it is a nissaggiya pācittiya offense.*
+     - *摘要：當非親戚的布施者—也不曾邀請詢問—安排織匠為自己編織袈裟布時：在讓織匠改進布料後再接受布料，是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
