@@ -302,8 +302,7 @@
 .. _《捨墮》二: #NP2
 .. _三: #NP3
 .. _二一: {filename}Section0015%zh-hant.rst#NP21
-.. _二八: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28
-.. TODO FIXME: replace link to 《捨墮》二八
+.. _二八: {filename}Section0015%zh-hant.rst#NP28
 .. _二九: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
 .. TODO FIXME: replace link to 《捨墮》二九
 

@@ -1230,4 +1230,29 @@
    \*    \*    \*
 
 
+.. _NP28:
+
+.. raw:: html
+
+   <span id="NP28"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **28**
+     - **二十八**
+
+   * - .. container:: notification
+
+          *Ten days prior to the third-month Kattika full moon, should robe-cloth offered in urgency accrue to a bhikkhu, he is to accept it if he regards it as offered in urgency. Once he has accepted it, he may keep it throughout the robe season. Beyond that, it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *咖底咖第三個月滿月前十天，若有袈裟布被緊急供養給比丘，則比丘若認為此袈裟布為緊急供養，則應接受。一旦他接受了它，他可以在整個袈裟季節保留它。存放超過此者，尼薩耆波逸提。*
+
+   * - The *third-month Kattika full moon* is the full moon in October, or the first if there are two. This is the final day of the first Rains-residence, and the day before the beginning of the robe season.
+
+     - 咖底咖第三個月滿月是十月的滿月，或者如果有兩個滿月的話，則是第一個滿月。這是前雨安居的最後一天，也是袈裟季節開始的前一天。
+
 (未完待續)

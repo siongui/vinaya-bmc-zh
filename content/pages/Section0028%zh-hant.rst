@@ -523,8 +523,7 @@
      - 意思是：「尊者，我的這件緊急供養的袈裟，保存超過袈裟季節，將被捨出。我把它捨給你。」
 
 .. _NP 28: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28
-.. _《捨墮》二八: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28
-.. TODO FIXME: replace link to 《捨墮》二八
+.. _《捨墮》二八: {filename}Section0015%zh-hant.rst#NP28
 
 
 .. list-table::
