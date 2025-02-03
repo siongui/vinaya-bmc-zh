@@ -1255,4 +1255,15 @@
 
      - 咖底咖第三個月滿月是十月的滿月，或者如果有兩個滿月的話，則是第一個滿月。這是前雨安居的最後一天，也是袈裟季節開始的前一天。
 
+   * -  *Robe-cloth offered in urgency* is any piece of the six allowable kinds of robe-cloth, measuring at least four by eight fingerbreadths, offered under the following conditions: The donor is someone who wants the greater merit that some people believe accrues to a gift of cloth given during the robe season, but who does not want to wait until the robe season to make an offering, either because his/her survival is in doubt—as when a soldier is going into war, a traveler is about to set out on a journey, or a woman has become pregnant—or because he/she has developed new-found faith in the religion. At any time from the fifth through the fifteenth day of the waxing moon at the end of the first Rains-residence (see `BMC2, Chapter 11`_) he/she sends a messenger to the bhikkhus, saying, “May the venerable ones come. I am giving a Rains-residence (cloth).” (The Commentary adds that the donor can also simply bring the cloth to the bhikkhus him- or herself.) Out of compassion for the donor, the bhikkhus should accept the cloth and then, before putting it aside, mark it as robe-cloth offered in urgency. The cloth can then be kept throughout the robe season—the first month after the Rains if the kaṭhina is not spread; and the period during which the kaṭhina privileges are in effect if it is.
+
+     - 緊急供養的袈裟布是六種允許類型的袈裟布中的任一種，尺寸至少為四指寬乘以八指寬，供養條件如下：供養者是想要獲得更大功德的人，有些人認為，在袈裟季節布施布料可以增加功德，但不想等到袈裟季節再去供養，要麼是因為他/她懷疑是否能活到那時—例如當士兵奔赴戰場，旅人即將啟程，或婦女懷孕時—或者因為他/她對宗教建立了新的信仰。在前雨季居結束時從上弦月的第五天到第十五天的任何時間（見\ `《佛教修道準則 第二冊》第十一章`_\ ），他/她派遣使者去見比丘們，說道：「願尊者們到來。我正在布施雨安居（布料）。（《義註》補充說，布施者也可以自己把布帶給比丘。）出於對布施者的慈悲，比丘應該接受布，然後在放在一邊之前，將其標記為緊急供養的袈裟布。然後，可以在整個袈裟季節（雨季後的第一個月，如果沒有敷展功德衣；如果有敷展的話，功德衣方便利益的有效期限）保留這塊布料。
+
+   * - The question is, why mark it?
+     - 問題是，為什麼要標記它？
+
+.. _BMC2, Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#BMC2chapter11
+.. _《佛教修道準則 第二冊》第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#BMC2chapter11
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十一章
+
 (未完待續)
