@@ -1272,4 +1272,30 @@
 .. _3: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
 .. _三: {filename}Section0013%zh-hant.rst#NP3
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The factors for an offense**
+     - **犯戒因素**
+
+   * - The factors for an offense here are two: *object*\—robe-cloth offered in urgency; and *effort*\—one keeps it past the end of the robe season: the dawnrise after the full moon one month after the end of the first Rains-residence if one does not participate in a kaṭhina, or the end of one’s kaṭhina privileges if one does.
+
+     - 這裡的犯戒因素有兩個：\ *對象*\—緊急供養的袈裟布；和\ *努力*\—將其保留到袈裟季節結束後：如果不參加功德衣，那麼在前雨安居結束後的一個月，滿月後的黎明時分；如果參加了，那麼在功德衣方便利益結束時。
+
+   * - Perception is not a mitigating factor here. Thus the Vibhaṅga states that if, at the end of the robe season, one perceives a piece of robe-cloth offered in urgency as something else—say, as ordinary out-of-season cloth—and keeps it for the amount of time allowed for ordinary out-of-season cloth under `NP 3`_, one commits the full offense all the same. The same penalty holds if the cloth has not been determined or placed under shared ownership and yet one keeps it past the end of the robe season, perceiving that it has.
+
+     - 在這裡，感知並不是一個減輕懲罰的因素。因此，《經分別》規定，如果在袈裟季節結束時，將緊急供養的一塊袈裟布視為其他東西—比如說，普通的非時布料—並將其保留至\ `《捨墮》三`_\ 規定的普通非時布料允許保留的時間，則其同樣完全違犯。如果布料尚未決意或尚未置於共享所有權之下，但在袈裟季節結束後仍保留它，並認為它已經決意或置於共享所有權之下，則將受到同樣的懲罰。
+
+   * - As for robe-cloth that has not been offered in urgency, if one perceives it as having been offered in urgency or is in doubt about the matter, the penalty is a dukkaṭa. Arguing from the Commentary’s explanation of the similar situation discussed under `NP 1`_, the dukkaṭa here would be for *using* the cloth without having forfeited it after the robe season is ended.
+
+     - 對於沒有緊急供養的袈裟布，如果認為它是緊急供養的，或者對此事有懷疑，則懲罰是《突吉羅》。根據《義註》對\ `《捨墮》一`_\ 中討論的類似情況的解釋，此處的《突吉羅》是指在袈裟季節結束後，\ *使用*\ 布料而沒有捨出它。
+
+   * - The procedures for forfeiture, confession, and return of the cloth are the same as under `NP 1`_. See `Appendix VI`_ for the Pali formula to use in forfeiting the cloth.
+
+     - 捨出、懺悔罪行、歸還布料的程序與\ `《捨墮》一`_\ 相同。請參閱\ `附錄六`_\ ，以了解捨出布料所使用的巴利語公式。
+
+.. _NP 3: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
+.. _《捨墮》三: {filename}Section0013%zh-hant.rst#NP3
+
 (未完待續)
