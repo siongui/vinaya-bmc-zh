@@ -1298,4 +1298,18 @@
 .. _NP 3: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
 .. _《捨墮》三: {filename}Section0013%zh-hant.rst#NP3
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if, before the robe season is over, one determines the cloth, places it under shared ownership, or abandons it (gives it away or throws it away); if it is lost, destroyed, burnt, or snatched away; or if someone else takes it on trust.
+
+     - 如果在袈裟季節結束之前，決意了布料，將其置於共享所有權之下，或者放棄它（贈送或扔掉），則不構成犯戒；如果遺失、毀壞、燒毀或被搶走；或者如果其他人基於信任拿走它。
+
+   * - *Summary: Keeping robe-cloth offered in urgency past the end of the robe season after having accepted it during the last eleven days of the Rains-residence is a nissaggiya pācittiya offense.*
+     - *摘要：在雨安居最後十一天接受了緊急供養的袈裟布，但在袈裟季節結束後仍繼續保留，是《尼薩耆波逸提》（《捨墮》）罪。*
+
 (未完待續)
