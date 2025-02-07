@@ -303,8 +303,7 @@
 .. _三: #NP3
 .. _二一: {filename}Section0015%zh-hant.rst#NP21
 .. _二八: {filename}Section0015%zh-hant.rst#NP28
-.. _二九: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
-.. TODO FIXME: replace link to 《捨墮》二九
+.. _二九: {filename}Section0015%zh-hant.rst#NP29
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

@@ -544,8 +544,7 @@
      - 意思是：「尊者，未經比丘們許可，我的這件袈裟（與我）分離超過六夜，將被捨出。我把它捨給你。」兩件袈裟則將 *cīvaraṁ* 改為 *dvi-cīvaraṁ*，三件改為 *ti-cīvaraṁ* 。
 
 .. _NP 29: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
-.. _《捨墮》二九: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
-.. TODO FIXME: replace link to 《捨墮》二九
+.. _《捨墮》二九: {filename}Section0015%zh-hant.rst#NP29
 
 
 .. list-table::

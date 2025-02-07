@@ -1312,4 +1312,32 @@
    * - *Summary: Keeping robe-cloth offered in urgency past the end of the robe season after having accepted it during the last eleven days of the Rains-residence is a nissaggiya pācittiya offense.*
      - *摘要：在雨安居最後十一天接受了緊急供養的袈裟布，但在袈裟季節結束後仍繼續保留，是《尼薩耆波逸提》（《捨墮》）罪。*
 
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
+.. _NP29:
+
+.. raw:: html
+
+   <span id="NP29"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **29**
+     - **二十九**
+
+   * - .. container:: notification
+
+          *There are wilderness lodgings that are considered dubious and risky. A bhikkhu living in such lodgings after having observed the Kattika full moon may keep any one of his three robes in a village if he so desires. Should he have any reason to live apart from the robe, he may do so for six nights at most. If he should live apart from it beyond that—unless authorized by the bhikkhus—it is to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *有些荒野住所被認為是可疑和有風險的。居住在此類住所的比丘在奉行咖底咖月滿月之後，如果願意的話，可以將他的三衣中的任何一件留在村莊裡。如果他因為任何原因離該衣生活，那麼最多只能六個晚上。如果他離開生活超過此者，除非得到比丘們的授權，尼薩耆波逸提。*
+
 (未完待續)

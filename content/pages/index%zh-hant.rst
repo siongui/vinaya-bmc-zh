@@ -265,7 +265,7 @@
      - `\　　　二十八 <{filename}Section0015%zh-hant.rst#NP28>`__
 
    * - `\　　　29 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29>`__
-     - 　　　二十九
+     - `\　　　二十九 <{filename}Section0015%zh-hant.rst#NP29>`__
 
    * - `\　　　30 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30>`__
      - 　　　三十
