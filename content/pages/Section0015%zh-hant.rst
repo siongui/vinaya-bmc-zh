@@ -1363,7 +1363,35 @@
 
           2）他住在荒野住所，《經分別》將其定義為距離最近的村莊至少 500 弓長或 1 公里的住所，此距離以兩村之間最短的步行路徑測量，而非直線距離。同時，他離村莊也不太遠，早上他可以去那裡托缽，然後在中午之前返回住處吃飯。
 
+   * - .. container:: mx-2
+
+          3\) The lodging is dubious and risky. According to the Vibhaṅga, *dubious* means that signs of thieves—such as their eating, resting, sitting, or standing places—have been seen within it or its vicinity; *risky* means that people are known to have been hurt or plundered by thieves there. Unlike other rules occurring later in the Pāṭimokkha that mention the vicinity of a lodging—such as `Pc 15`_ & 84_\—none of the texts define precisely how far the vicinity extends for the purpose of this rule. This lack of a precise definition also occurs in the other rule dealing with dangerous wilderness lodgings, `Pd 4`_. Given the risks inherent in such places, perhaps it was felt unwise to delimit the area in too precise a manner. Thus, in the context of this rule, the “vicinity” of the lodging can be stretched to include any area where the presence of thieves leads to a common perception that the lodging is dangerous.
+
+     - .. container:: mx-2
+
+          3）住所可疑，有風險。根據《經分別》的說法，\ *可疑*\ 的意思是，在其內部或其附近發現了小偷的跡象，例如他們吃飯、休息、坐著或站立的地方；\ *危險*\ 意味著已知有人在那裡受到盜賊傷害或搶劫。與《波羅提木叉》裡後期出現的提到了住所的附近區域的其他戒條不同——例如\ `《波逸提》十五`_\ 和\ `八四`_\ ——沒有任何文獻為本戒條精確地定義附近區域延伸到多遠。這種缺乏精確定義的現象也出現在另一個處理危險荒野住所的戒條，\ `《應悔過》四`_\ 。因此，在本戒條的背景下，住所的「附近」可以擴大到包括任何因小偷的存在而導致人們普遍認為住所很危險的區域。
+
+   * - .. container:: mx-2
+
+          4\) The time period for the extension is one month beginning the day after the end of the first Rains-residence.
+
+     - .. container:: mx-2
+
+          4）延長期間為一個月，從前雨安居結束的次日開始。
+
+   * - A bhikkhu living in the situation complying with these four factors may keep one robe of his set of three anywhere in the village where he normally goes for alms, and—if he has a reason—may stay apart from it six nights at most. As usual, nights are counted by dawns.
+
+     - 符合上述四個條件的比丘，可以將他的三衣中的一件保留在他通常去托缽的村莊的任何地方，並且——如果他有理由的話——最多可以六夜離開它。照常，夜晚是以黎明（明相）來計算的。
+
 .. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
 .. _《捨墮》二: {filename}Section0013%zh-hant.rst#NP2
+.. _Pc 15: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc15
+.. _84: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
+.. _Pd 4: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd4
+.. _《波逸提》十五: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc15
+.. TODO FIXME: replace link to 《波逸提》十五
+.. _八四: {filename}Section0024%zh-hant.rst#Pc84
+.. _《應悔過》四: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd4
+.. TODO FIXME: replace link to 《應悔過》四
 
 (未完待續)
