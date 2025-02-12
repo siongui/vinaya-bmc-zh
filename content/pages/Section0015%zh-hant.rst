@@ -1409,4 +1409,22 @@
 
      - 正如《複註》所指出的，《義註》和 K/《義註》對這裡的努力因素的定義有所不同——特別是對於離開袈裟的含義。差異在於兩部註釋書如何解釋其中一條不犯條款：「離開六夜，進入村界（gāma-sīmā），住於彼處（迎接黎明），他離開。」 K/《義註》將此解釋為，如果在第七個黎明時分，在自己的荒野住所，那麼就完全違犯，但是，如果他在第七個黎明時分進入村界，那麼他可以把袈裟留在那裡另外六個黎明。這意味著，當比丘將他的袈裟放在村莊裡並且他自己在荒野住所時，他就算是與他的袈裟離開了。
 
+   * - The Commentary, however, interprets the non-offense clause as covering a different and very particular situation: The bhikkhu is away from both the village and the lodging, and as the seventh dawnrise approaches he is closer to the village than the lodging. The non-offense clause allows him to enter the village, stay in the public hall or any other spot in the village, check up on his robe, and then return to his dwelling, free from an offense. From this interpretation, the Sub-commentary, following Bhadanta Buddhadatta Thera, concludes that the bhikkhu is not counted as apart from his robe when it is placed in the village and he is staying in his lodging. Thus he can leave the robe in the village for the entire fourth month of the rainy season, but if he leaves that lodging on business and lets his robe remain in the village, he may stay away from the lodging or the village only six dawns at a stretch.
+
+     - 然而，《義註》將不犯條款解釋為涵蓋一種不同的、非常特殊的情況：比丘遠離村莊和住處，隨著第七個黎明的臨近，他距離村莊比距離住處更近。不犯條款允許他進入村莊，留在公共大廳或村莊的任何其他地方，檢查他的袈裟，然後返回他的住所，而不犯戒。根據這種解釋，《複註》遵循了\ `佛授長老 <https://dictionary.sutta.org/browse/b/buddhadatta/>`_\ 的結論，認為當比丘的袈裟被放置在村落中並且比丘住在住處時，他不算與袈裟分開。因此，他可以在雨季的整個第四個月將袈裟留在村子裡，但是，如果他因事離開住處，而將袈裟留在村子裡，那麼他只可連續六個黎明離開住處或村莊。
+
+   * - There are minor problems with both interpretations. The Commentary’s explanation of the non-offense clause seems forced, but the K/Commentary’s interpretation ignores the Vibhaṅga’s definition of “any reason”—i.e., “any business”—which under other rules indicates situations where a bhikkhu would be away from his lodging. The reason for this rule, as suggested by the origin story, was similar to that for `NP 2`_: When the bhikkhus were away from their robes, the robes “were lost, destroyed, burned, eaten by rats.” If the bhikkhu is staying in his lodging and going for alms in the village, he may check up on his robe every day to make sure that it is safe and sound. The Commentary’s interpretation seems preferable, but both interpretations would fulfill what seems to be the purpose for the rule, so the question of which interpretation to follow is up to each Community.
+
+     - 這兩種解釋都存在一些小問題。《義註》對不犯條款的解釋似乎有些牽強，但 K/《義註》的解釋忽略了《經分別》對「任何原因」的定義——即「任何事務」——在其他戒條下，這表示比丘離開住處的情況。起源故事表明，這條戒條的原因與\ `《捨墮》二`_\ 的原因類似：當比丘們離開他們的袈裟時，袈裟「會遺失、被毀壞、被燒毀、被老鼠吃掉」。如果比丘住在住處並去村裡托缽，他可以每天檢查他的袈裟，以確保其安全無虞。《義註》的解釋似乎更可取，但兩種解釋似乎都可以實現該戒條的目的，因此遵循哪種解釋的問題取決於每個僧團。
+
+   * - None of the texts, by the way, define *village territory* in the context of this exemption. Apparently it has the same meaning as the village territory mentioned in `Mv.II.12.7`_ which, according to the Commentary to that rule, includes not only the built-up area of the village but also any surrounding areas—such as land under cultivation—from which it collects taxes (see `BMC2, Chapter 13`_).
+
+     - 順便說一句，沒有任何文獻在這一豁免的背景下對\ *村界*\ 進行定義。顯然，它與\ `《大品》.二.12.7`_\ 中提到的村界具有相同的含義，根據該戒條的《義註》，它不僅包括村莊的建成區，還包括村莊的任何從中徵稅的週邊區域（例如耕地）（參見\ `《佛教修道準則 第二冊》第十三章`_\ ）。
+
+.. _Mv.II.12.7: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#Mv.II.12.7
+.. _BMC2, Chapter 13: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
+.. _《大品》.二.12.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0146a11
+.. _《佛教修道準則 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十三章
+
 (未完待續)
