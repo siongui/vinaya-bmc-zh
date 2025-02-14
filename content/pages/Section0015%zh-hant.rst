@@ -1427,4 +1427,67 @@
 .. _《佛教修道準則 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十三章
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Forfeiture & confession**
+     - **捨出 & 懺罪**
+
+   * - A bhikkhu under these conditions who has been away from his robe for seven dawns is to forfeit it and confess the offense. The procedures for forfeiture, confession, and return of the robe are the same as under `NP 1`_. The Pali formula for forfeiting the robe is in `Appendix VI`_.
+
+     - 處於此種情形的比丘若已離開其袈裟達七個黎明（明相），則須捨出其袈裟並懺悔其罪行。捨出、懺悔罪行及歸還袈裟的程序與\ `《捨墮》一`_\ 相同。捨出袈裟的巴利語公式在\ `附錄六`_\ 。
+
+   * - If seven dawns have not yet passed, and yet one thinks that they have or one is in doubt about the matter, the penalty is a dukkaṭa. As under `NP 1`_, this penalty is apparently for *using* the robe.
+
+     - 如果七次黎明尚未過去，但卻認為已經過去，或者對此事存有疑問，則懲罰是《突吉羅》。根據\ `《捨墮》一`_\ ，這個懲罰顯然是針對\ *使用*\ 袈裟的。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense for a bhikkhu who has stayed away from his robe six dawns or fewer than six; or
+     - 若比丘已經六次黎明或少於六次黎明沒有離開他的袈裟，則不犯戒；或者
+
+   * - .. container:: mx-2
+
+          if, having been apart from his robe six dawns, he enters the village territory again, stays there (to greet dawnrise), and departs;
+
+     - .. container:: mx-2
+
+          如果他已經離開他的袈裟六個黎明，再次進入村界，留在那裡（迎接黎明昇起），然後離開；
+
+   * - .. container:: mx-2
+
+          if, within the six nights, he rescinds the determination of the robe, abandons it; or the robe gets lost, destroyed, burnt, snatched away, or taken by someone else on trust; or
+
+     - .. container:: mx-2
+
+          如果在六夜之內，他撤銷了袈裟的決意，放棄了它；或袈裟遺失、毀壞、燒毀、被搶走，或被他人基於信任拿走；或者
+
+   * - .. container:: mx-2
+
+          if he has been authorized by the Community to be apart from his robe. (This, according to the Commentary, refers to the authorization discussed under `NP 2`_.)
+
+     - .. container:: mx-2
+
+          如果他已得到僧團的授權，可以離開袈裟。（根據《義註》，這指的是\ `《捨墮》二`_\ 下討論的授權。）
+
+   * - As mentioned above, a bhikkhu is immune from an offense under this rule as long as his kaṭhina privileges are in effect, no matter how many nights he is away from any of his robes.
+
+     - 如上所述，只要比丘的功德衣方便利益仍然有效，無論他有多少個夜晚離開袈裟，他都不犯本戒條。
+
+   * - *Summary: When one is living in a dangerous wilderness lodging during the month after the Rains-residence and has left one of one’s robes in the village where one normally goes for alms: Being away from the lodging and the village for more than six nights at a stretch—except when authorized by the Community—is a nissaggiya pācittiya offense.*
+
+     - *摘要：如果在雨安居後的一個月內居住在危險的荒野住所，並將自己的一件袈裟留在其通常去托缽的村子裡：除非得到僧團的批准，否則，離開住所和村莊連續超過六個晚上，是《尼薩耆波逸提》（《捨墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
