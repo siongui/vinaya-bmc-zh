@@ -570,8 +570,7 @@
      -
 
 .. _NP 30: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
-.. _《捨墮》三十: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
-.. TODO FIXME: replace link to 《捨墮》三十
+.. _《捨墮》三十: {filename}Section0015%zh-hant.rst#NP30
 
 
 .. _appendixVII:

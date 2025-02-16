@@ -1490,4 +1490,35 @@
    \*    \*    \*
 
 
+.. _NP30:
+
+.. raw:: html
+
+   <span id="NP30"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **30**
+     - **三十**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu knowingly divert to himself gains that had been allocated for a Community, they are to be forfeited and confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘明知故犯地將分配給僧團的所獲挪作己用，尼薩耆波逸提。*
+
+   * - In `AN 3:58`_, the Buddha states that a person who prevents a donor from giving a gift where intended creates three obstacles: one for the donor’s merit, one for the intended recipient’s gains, and one for himself. There are many ways of creating these obstacles, one of them being to convince the donor to give, not to the recipient originally intended, but to someone else. This is one of two rules— `Pc 82`_ is the other—aimed at preventing a bhikkhu from creating obstacles of this sort.
+
+     - 在\ `《增支部》3:58經`_\ 中，佛陀指出，如果阻止布施者將禮物贈予指定的人，那麼將製造三種障礙：一種是布施者的功德障礙，一種是受施者的利益障礙，一種是他自己的障礙。設置這些障礙的方法有很多種，其中之一就是說服布施者將布施對象改為其他人，而不是布施給原本打算接受者的人。這是兩條戒條之一（另一條是\ `《波逸提》八二`_\ ），旨在防止比丘製造此類障礙。
+
+.. _AN 3\:58: https://www.dhammatalks.org/suttas/AN/AN3_58.html
+.. _Pc 82: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
+.. _《增支部》3\:58經: https://sutra.mobi/zcj/zengzhi/content/0481.html
+.. _《波逸提》八二: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
+.. TODO FIXME: replace link to 《波逸提》八二
+
 (未完待續)

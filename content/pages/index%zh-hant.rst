@@ -268,7 +268,7 @@
      - `\　　　二十九 <{filename}Section0015%zh-hant.rst#NP29>`__
 
    * - `\　　　30 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30>`__
-     - 　　　三十
+     - `\　　　三十 <{filename}Section0015%zh-hant.rst#NP30>`__
 
    * - `\　Pācittiya <https://www.dhammatalks.org/vinaya/bmc/Section0016.html>`__
      - 　波逸提

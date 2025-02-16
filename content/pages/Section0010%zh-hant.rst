@@ -311,8 +311,7 @@
 .. _果園的園丁允許比丘們從果園拿水果: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0086a14
 .. _NP 30: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
 .. _Pc 82: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
-.. _《捨墮》三十: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
-.. TODO FIXME: replace link to 《捨墮》三十
+.. _《捨墮》三十: {filename}Section0015%zh-hant.rst#NP30
 .. _《波逸提》八二: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
 .. TODO FIXME: replace link to 《波逸提》八二
 .. _支提: https://zh.wikipedia.org/wiki/%E6%94%AF%E6%8F%90_(%E5%BB%BA%E7%AD%91)
