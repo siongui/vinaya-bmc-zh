@@ -1515,6 +1515,41 @@
 
      - 在\ `《增支部》3:58經`_\ 中，佛陀指出，如果阻止布施者將禮物贈予指定的人，那麼將製造三種障礙：一種是布施者的功德障礙，一種是受施者的利益障礙，一種是他自己的障礙。設置這些障礙的方法有很多種，其中之一就是說服布施者將布施對象改為其他人，而不是布施給原本打算接受者的人。這是兩條戒條之一（另一條是\ `《波逸提》八二`_\ ），旨在防止比丘製造此類障礙。
 
+   * - The origin story here is this:
+     - \ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0375a13>`__\ 如下：
+
+   * - .. container:: mx-2
+
+          “Now in Sāvatthī at that time a certain guild had prepared a meal with robe-cloth for the Community, (thinking,) ‘Having fed (the bhikkhus), we will clothe them with robe-cloth.’
+
+     - .. container:: mx-2
+
+          「當時，在舍衛城，有一個行會為僧團準備了一頓飯以及袈裟布，（他們想）『供養（比丘們）食物之後，我們將為他們提供袈裟布。』
+
+   * - .. container:: mx-2
+
+          “Then some group-of-six bhikkhus went to the guild and on arrival said, ‘Give us these robe-cloths, friends.’
+
+     - .. container:: mx-2
+
+          「然後，六群比丘來到行會，一到就說：『朋友們，把這些袈裟布給我們吧。』
+
+   * - .. container:: mx-2
+
+          “‘We can’t, venerable sirs. We arrange alms with robe-cloth for the Community (like this) on a yearly basis.’
+
+     - .. container:: mx-2
+
+          「『我們不能給，大德。我們每年都會為僧團準備施食和袈裟布（就像這樣）。』
+
+   * - .. container:: mx-2
+
+          “‘Many are the Community’s donors, my friends. Many are the Community’s supporters. It’s in dependence on you, looking to you, that we live here. If you won’t give to us, then who is there who will? Give us these robe-cloths, friends.’
+
+     - .. container:: mx-2
+
+          「『我的朋友們，很多人都是僧團的施主。很多人都是僧團的支持者。我們依靠您、仰望您，才能在這裡生存。如果你不給我們，那還有誰會給我們呢？把這些袈裟布給我們吧，朋友們。』
+
 .. _AN 3\:58: https://www.dhammatalks.org/suttas/AN/AN3_58.html
 .. _Pc 82: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
 .. _《增支部》3\:58經: https://sutra.mobi/zcj/zengzhi/content/0481.html
