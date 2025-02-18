@@ -1550,6 +1550,33 @@
 
           「『我的朋友們，很多人都是僧團的施主。很多人都是僧團的支持者。我們依靠您、仰望您，才能在這裡生存。如果你不給我們，那還有誰會給我們呢？把這些袈裟布給我們吧，朋友們。』
 
+   * - .. container:: mx-2
+
+          “So the guild, pressured by the group-of-six bhikkhus, gave them what robe-cloth they had prepared and then served the meal to the Community. The bhikkhus who knew that a meal with robe-cloth had been prepared for the Community, but not that the cloth had been given to the group-of-six bhikkhus, said to the guild: ‘Present the robe-cloth to the Community, friends.’
+
+     - .. container:: mx-2
+
+          「於是，在六群比丘的壓力下，行會將他們準備好的袈裟布給了他們，並為僧團提供了餐食。那些比丘們知道已經為僧團準備了帶有袈裟布的餐食，但不知道已經將袈裟布送給了六群比丘，於是他們對行會說道：『朋友們，請將袈裟布贈送給僧團。』
+
+   * - .. container:: mx-2
+
+          “‘There isn’t any, venerable sirs. What robe-cloth we had prepared, the masters—the group-of-six bhikkhus—have diverted to themselves.’
+
+     - .. container:: mx-2
+
+          「『沒有，大德。我們所準備的袈裟布，卻被那六群比丘的大德們迴入為己有了。』
+
+   * - .. container:: mx-2
+
+          “Those bhikkhus who were modest… criticized and complained and spread it about: ‘How can these group-of-six bhikkhus knowingly divert to themselves gains allocated for the Community?’”
+
+     - .. container:: mx-2
+
+          「那些少欲的比丘們......批評、抱怨並散佈：『這六位比丘怎麼能明知故犯地將分配給僧團的所獲迴入為己有呢？』」
+
+   * - Here there are four factors for an offense.
+     - 這裡有四個構成犯戒的因素。
+
 .. _AN 3\:58: https://www.dhammatalks.org/suttas/AN/AN3_58.html
 .. _Pc 82: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
 .. _《增支部》3\:58經: https://sutra.mobi/zcj/zengzhi/content/0481.html
