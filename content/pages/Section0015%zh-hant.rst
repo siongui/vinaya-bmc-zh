@@ -1594,10 +1594,6 @@
 
      - 任何必需品——「袈裟布、施食、住所、藥品，甚至一塊粉末、牙木或未編織的線」——施主透過言語或示意動作表示他們打算布施給僧團。正如《義註》所指出的，這裡的\ *施主*\ 不僅包括一般的俗人，還包括自己的比丘同儕和親戚——甚至是自己的母親。分配給僧團這一事實超越了所有其他考慮，即使自己生病了。
 
-.. list-table::
-   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
-   :widths: auto
-
    * - **Perception**
      - **感知**
 
@@ -1611,5 +1607,32 @@
 
    * - This is the only NP rule where perception is a factor in the full offense.
      - 這是唯一一條將感知作為完全違犯的因素的《捨墮》戒條。
+
+   * - **Effort**
+     - **努力**
+
+   * - One tries to persuade them that they should give it to oneself instead. (The texts make no allowance for *kappiya-vohāra* here.) This in itself, following on the second factor, entails a dukkaṭa.
+
+     - 試圖說服他們應該把它給自己。（此處文獻沒有對 *kappiya-vohāra* 開緣。）這本身，按照第二個因素，導致了《突吉羅》。
+
+   * - **Result**
+     - **結果**
+
+   * - One obtains the article from the donors. This entails the full offense.
+     - 從施主那裡獲得了物品。這構成完全違犯。
+
+   * - **Forfeiture & confession**
+     - **捨出 & 懺罪**
+
+   * - Any gains obtained in violation of this rule are to be forfeited and the offense confessed. The procedures here are the same as under `NP 1`_. The Pali formula for forfeiting the gains is in `Appendix VI`_.
+
+     - 違反本戒條所獲得的一切收益均須捨出，並懺悔罪行。此處的程序與\ `《捨墮》一`_\ 相同。捨出所獲的巴利公式見\ `附錄六`_\ 。
+
+   * - **Related offenses**
+     - **相關違犯**
+
+   * - If one knowingly tries to divert gains allocated for a Community to oneself, but the donors go ahead and give the gains to the Community anyway, then the Commentary says that one should not have a share in them. If one does receive a share from the Community, one should return it. If, instead of returning it, one shares it among lay people, the case is to be treated under `Pr 2`_. This, however, seems unnecessarily harsh, for in the case where the donors *do* give the item to the bhikkhu who tries to divert it to himself, he can receive it back after having forfeited it and then use it as he likes. To impose a heavier penalty on a bhikkhu for not being successful in diverting items to himself seems unfair, and the Vibhaṅga’s judgment here seems preferable: that the penalty in this case would simply be a dukkaṭa for fulfilling the factor of effort.
+
+     - 如果明知故犯地試圖將分配給僧團的收益挪為自己所有，但施主仍然將收益捐給僧團，那麼《義註》說，不應該分享這些收益。如果確實從僧團獲得了一份收益，應該歸還它。如果不歸還，而是與俗人分享，則應根據\ `《波羅夷》二`_\ 處理此情況。然而，這似乎沒有必要那麼嚴厲，因為在施主\ *確實*\ 將物品給了試圖將其挪作己用的比丘的情況下，他可以在捨出物品後將其接受回來，然後按照自己的喜好使用它。因為比丘未能成功將物品轉移給自己而對其施加更重的懲罰似乎不公平，而《經分別》在此的判斷似乎更可取：在這種情況下的懲罰僅僅是因履行努力因素而犯《突吉羅》。
 
 (未完待續)
