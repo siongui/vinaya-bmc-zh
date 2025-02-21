@@ -1635,4 +1635,18 @@
 
      - 如果明知故犯地試圖將分配給僧團的收益挪為自己所有，但施主仍然將收益捐給僧團，那麼《義註》說，不應該分享這些收益。如果確實從僧團獲得了一份收益，應該歸還它。如果不歸還，而是與俗人分享，則應根據\ `《波羅夷》二`_\ 處理此情況。然而，這似乎沒有必要那麼嚴厲，因為在施主\ *確實*\ 將物品給了試圖將其挪作己用的比丘的情況下，他可以在捨出物品後將其接受回來，然後按照自己的喜好使用它。因為比丘未能成功將物品轉移給自己而對其施加更重的懲罰似乎不公平，而《經分別》在此的判斷似乎更可取：在這種情況下的懲罰僅僅是因履行努力因素而犯《突吉羅》。
 
+   * - To divert items allocated for a Community to another individual entails a pācittiya under `Pc 82`_. To divert items allocated for one Community of bhikkhus to another Community or to a shrine *(cetiya)* entails a dukkaṭa. The same holds true for diverting items allocated for a shrine to a Community, to an individual, or to another shrine; and for diverting items allocated for an individual to a Community, to a shrine, or to another individual. In all of these cases, there is no preliminary offense for the effort. The offense is incurred only when—assuming all the other factors are present—the factor of result is fulfilled.
+
+     - 將分配給僧團的物品迴入給另一個人，根據\ `《波逸提》八二`_\ 犯《波逸提》。將分配給比丘僧團的物品迴入給另一個僧團或\ `支提`_\ *（cetiya）*\，犯《突吉羅》。將分配給\ `支提`_\ 的物品迴入給僧團、個人或其他\ `支提`_\ 也是如此；以及將分配給個人的物品迴入給僧團、\ `支提`_\ 或其他個人。在所有這些情況中，都沒有因努力的初步違犯。只有當（假設所有其他因素均存在）結果因素已滿足時，才會犯戒。
+
+   * - The Commentary states that the term *individual* here can mean common animals as well as human beings, and that this last case thus includes even such things as saying, “Don’t give it to that dog. Give it to this one.” This point is well-taken: A bhikkhu has no business interfering with the gains that are to be freely given to another being, no matter what that being’s current status (see `AN 3:58`_).
+
+     - 《義註》指出，這裡的「個人」一詞既可以指普通動物，也可以指人類，因此最後一種情況甚至包括這樣的話：「不要把它給那隻狗。把它給這隻。」這一點很有道理：比丘無權干涉其他眾生自由給予的所獲，無論該眾生目前的狀態如何（參閱\ `《增支部》3:58經`_\ ）。
+
+   * - The Sub-commentary holds that once an item has been presented by a donor, there is nothing wrong in diverting it elsewhere. Thus, it says, taking flowers presented to one shrine and placing them at another—or chasing a dog away from food that has been given to it so that another dog can have a share—would be perfectly all right, but the Thai editors of the Sub-commentary state in a footnote that they disagree.
+
+     - 《複註》認為，一旦施主已經贈予了某件物品，那麼將其轉移到其他地方並沒有什麼不妥。因此，文中說，把供奉在一個\ `支提`_\ 的鮮花帶到另一個\ `支提`_\ ，或者把一隻狗從已經餵過的食物旁趕走，以便另一隻狗能分得一份，這些都完全沒有問題，但《複註》的泰國編輯者在註腳中表示他們不同意。
+
+.. _支提: https://zh.wikipedia.org/wiki/%E6%94%AF%E6%8F%90_(%E5%BB%BA%E7%AD%91)
+
 (未完待續)
