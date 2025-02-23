@@ -1688,4 +1688,19 @@
    \*    \*    \*
 
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - A bhikkhu who commits any of these thirty nissaggiya pācittiya offenses must first forfeit the item in question before confessing the offense. If he makes use of the item before forfeiting it, he incurs an extra dukkaṭa—except for money received in violation of `NP 18`_ or 19_, which would involve another nissaggiya pācittiya if used in trade. The Commentary to `NP 20`_ states that if the item gets lost, destroyed, or consumed before the bhikkhu forfeits it, he may simply confess a pācittiya. The same would apparently hold true if the item is snatched away or thrown away.
+
+     - 比丘若犯下此三十種《捨墮》罪中的任何一種，在懺悔其罪行之前，必須先捨出所犯的物品。如果他在捨出該物品之前使用它，他犯額外一次《突吉羅》 —— 違反\ `《捨墮》十八`_\ 或\ `十九`_\ 而收到的金錢除外，如果用於交易，會涉及另一次《捨墮》。\ `《捨墮》二十`_\ 的《義註》指出，如果物品在比丘捨出之前丟失，毀壞或被用盡，他可以僅懺悔《波逸提》。如果物品被搶走或丟棄，情況顯然也是一樣適用。
+
+.. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
+.. _19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
+.. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
+.. _《捨墮》十八: {filename}Section0014%zh-hant.rst#NP18
+.. _十九: {filename}Section0014%zh-hant.rst#NP19
+.. _《捨墮》二十: {filename}Section0014%zh-hant.rst#NP20
+
 (未完待續)
