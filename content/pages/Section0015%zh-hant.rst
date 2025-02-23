@@ -1668,7 +1668,24 @@
 
      - 至於《經分別》中的不犯條款，與\ `《相應部》3:24經`_\ 中的一段話類似，波斯匿王問佛陀應該布施在哪裡，佛陀回答說：「心受到啟發的地方。」這是比丘威儀的重要一點。在早期文獻中，慷慨行為被視為施主選擇自由的表達和行動原則的體現。如果沒有選擇的自由，行動就會被預先決定，就沒有動機去遵循一條導致苦的止息的行動之道。當施主布施時，他/她會體驗到擺脫貪婪和占有欲束縛的自由，並直接體驗到行使這種自由的好處。基於這個原因，佛陀非常小心，從不建議有布施的義務來侵犯這種自由。在同一部經中，當波斯匿王問佛陀，什麼樣的布施能夠結出大果報時，佛陀表示，這是一個完全不同的問題，他可以直接回答：「給予有德之人，而非無德之人，才會結出大果報。」
 
+   * - Thus, following the Buddha’s example, a bhikkhu may tell where a gift bears great fruit, but even when asked where a gift should be given he may not be more specific than the Buddha’s response in `SN 3:24`_ or the response in the Vibhaṅga’s non-offense clause here. When not asked, he has no business at all telling people where they should give their gifts, regardless of how noble his motives may seem in his eyes.
+
+     - 因此，效法佛陀的例子，比丘可以說出在何處布施會帶來大果報，但即使被問及應該在何處布施，他的回答也不可比佛陀在\ `《相應部》3:24經`_\ 中的回答或此處《經分別》的不犯條款中的回答更具體。當沒有人問起時，他根本沒有權利告訴人們應該布施給哪裡，不管在他眼裡他的動機有多麼高貴。
+
+   * - The Commentary provides an additional example of what it regards as proper etiquette in this case: If donors come to a bhikkhu, expressing a desire to give a gift to a Community, a shrine, or an individual bhikkhu, adding that they want to give it in line with his preference, the bhikkhu may say, “Give where you want.” If they are inspired by this remark and give the gift to him, he incurs no offense. The Commentary adds, though, that if the donors express a general desire to give without saying that they want to give in line with the bhikkhu’s preference, he may say only what is stated in the non-offense clause.
+
+     - 《義註》還提供了一個額外的例子，說明在這種情況下什麼是適當的威儀：如果施主們來到一位比丘面前，表達了想要向僧團、\ `支提`_\ 、或一位比丘個人布施的願望，並補充說他們想按照他的喜好來布施，比丘可以說，「布施給你想要的地方。」如果他們被這句話啟發，並把布施給他，他不犯戒。然而，《義註》補充道，如果施主表達了一般性的布施願望，而沒有說他們想按照比丘的喜好來布施，那麼他只能說不犯條款中所述的內容。
+
+   * - *Summary: Persuading a donor to give a gift to oneself, knowing that he or she had planned to give it to a Community, is a nissaggiya pācittiya offense.*
+     - *摘要：明知施主計畫將布施給僧團，卻勸說施主布施給自己，是《尼薩耆波逸提》（《捨墮》）罪。*
+
 .. _SN 3\:24: https://www.dhammatalks.org/suttas/SN/SN3_24.html
 .. _《相應部》3\:24經: https://sutra.mobi/chilin/xiangying/content/03.html#%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%BC%93%E7%AE%AD%E6%89%8B
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
