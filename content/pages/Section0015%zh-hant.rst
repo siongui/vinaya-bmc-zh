@@ -1696,11 +1696,29 @@
 
      - 比丘若犯下此三十種《捨墮》罪中的任何一種，在懺悔其罪行之前，必須先捨出所犯的物品。如果他在捨出該物品之前使用它，他犯額外一次《突吉羅》 —— 違反\ `《捨墮》十八`_\ 或\ `十九`_\ 而收到的金錢除外，如果用於交易，會涉及另一次《捨墮》。\ `《捨墮》二十`_\ 的《義註》指出，如果物品在比丘捨出之前丟失，毀壞或被用盡，他可以僅懺悔《波逸提》。如果物品被搶走或丟棄，情況顯然也是一樣適用。
 
+   * - Aside from cases where forfeiture must be made in the midst of a Community of four bhikkhus or more (`NP 18`_, 19_, & 22_), the offender may forfeit the item to a single bhikkhu, to a group of two or three, or to a Community of four or more. Once he has confessed the offense, he is cleared of the penalty.
+
+     - 除必須在四名或四名以上比丘的僧團中捨出物品的情況（\ `《捨墮》十八`_\ 、\ `十九`_\ 和\ `二二`_\ ）外，犯戒者可以將物品捨出給單一比丘，或者兩人或三人比丘群體，或者四人或四人以上的比丘僧團。一旦他懺悔了罪行，他就清除了懲罰。
+
+   * - In cases where he must forfeit the item in the midst of the Community, he may not receive it in return. In the remaining cases, though, the item must be returned to him. Not to do so entails a dukkaṭa for the bhikkhu(s) to whom it is forfeited. In two cases—NP 22 & 23—there are restrictions as to what a bhikkhu may and may not do with the item received in return after forfeiture, but apart from these rules he is free to use the returned item as he likes.
+
+     - 在他必須於僧團中捨出該物品的情況下，他不可接受該物品歸還。不過，在其餘情況下，物品必須歸還給他。如果不這樣做，接收該捨出物品的比丘犯《突吉羅》。在兩種情況下——\ `《捨墮》二二 <#NP22>`_\ 和\ `二三 <#NP23>`_\ ——對於比丘在捨出後可以和不可以對所收到的歸還物品做什麼有所限制，但除了這些戒條之外，他可以自由隨意地使用歸還的物品。
+
+   * - The act of forfeiture is thus symbolic in most cases, and the effect of the rules is more internal: The offender may not make use of the item until he has confessed his wrong doing, and this in itself should give him time to reflect on his actions. If the item has been obtained or made in an inappropriate way, the act of handing it over to another provides the opportunity to reflect on whether it is worth whatever greed, anger, or delusion it has sparked in one’s mind. If the item has been held in possession either too long (as under `NP 1`_ & 21_) or not kept in one’s care at the necessary time (such as `NP 2`_), one can reflect on this evidence of one’s carelessness and on the need for heightened mindfulness.
+
+     - 因此，捨出行為在大多數情況下是象徵性的，戒條的效果更多的是內在的：犯戒者在懺悔錯誤行為之前不得使用該物品，這本身會給他時間反思自己的行為。如果該物品是透過不適當的方式獲得或製作的，那麼將其交給他人的行為提供了一個機會來反思它是否值得在一個人心中激起的貪、嗔或痴。如果該物品被持有的時間過長（如\ `《捨墮》一`_\ 和\ `二一`_\  所述）或在必要的時間內不在自己的照料中（如\ `《捨墮》二`_\ ），則可以反思這一粗心大意的證據，並認識到需要提高正念。
+
+   * - Offenses of this and the remaining categories in this book are classed as light offenses *(lahukāpatti)* and are also termed *desanā-gāminī*, meaning that they can be cleared through confession.
+
+     - 本書中，此類罪行以及接下來剩餘類別的罪行被歸類為輕罪\ *（lahukāpatti）*\ ，也稱為 *desanā-gāminī*\ ，意思是可以透過懺悔來清除。
+
 .. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. _19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _《捨墮》十八: {filename}Section0014%zh-hant.rst#NP18
 .. _十九: {filename}Section0014%zh-hant.rst#NP19
 .. _《捨墮》二十: {filename}Section0014%zh-hant.rst#NP20
-
-(未完待續)
+.. _22: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22
+.. _二二: #NP22
+.. _21: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
+.. _二一: #NP21
