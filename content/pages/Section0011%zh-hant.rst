@@ -2101,8 +2101,7 @@
 .. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
 .. _《波逸提》二: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
 .. TODO FIXME: replace link to 《波逸提》二
-.. _《波逸提》一: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
-.. TODO FIXME: replace link to 《波逸提》一
+.. _《波逸提》一: {filename}Section0016%zh-hant.rst#Pc1
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

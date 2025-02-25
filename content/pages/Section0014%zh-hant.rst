@@ -1308,8 +1308,7 @@
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
 .. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
 .. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
-.. _《波逸提》一: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
-.. TODO FIXME: replace link to 《波逸提》一
+.. _《波逸提》一: {filename}Section0016%zh-hant.rst#Pc1
 
 
 .. list-table::

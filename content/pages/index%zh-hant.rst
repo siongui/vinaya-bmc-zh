@@ -271,14 +271,14 @@
      - `\　　　三十 <{filename}Section0015%zh-hant.rst#NP30>`__
 
    * - `\　Pācittiya <https://www.dhammatalks.org/vinaya/bmc/Section0016.html>`__
-     - 　波逸提
+     - `\　波逸提 <{filename}Section0016%zh-hant.rst>`__
        :hidden:`(單墮)`
 
    * - `\　　One: The Lie Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc_ChOne>`__
-     - 　　第一 虛妄語品
+     - `\　　第一 虛妄語品 <{filename}Section0016%zh-hant.rst#Pc_ChOne>`__
 
    * - `\　　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1>`__
-     - 　　　一
+     - `\　　　一 <{filename}Section0016%zh-hant.rst#Pc1>`__
 
    * - `\　　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2>`__
      - 　　　二

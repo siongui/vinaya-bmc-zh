@@ -840,8 +840,7 @@
 .. _《波羅夷》四: #Pr4
 .. _用於其他地方: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0235a08
 .. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
-.. _《波逸提》一: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
-.. TODO FIXME: replace link to 《波逸提》一
+.. _《波逸提》一: {filename}Section0016%zh-hant.rst#Pc1
 .. _一位比丘尼接近她老師的在家供養者並索取藥物，並說這些藥物是給她老師的: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0088a04
 .. _Mv.III.14.1-14: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.14.4
 .. _《大品》.三.14.1-14: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0207a07
