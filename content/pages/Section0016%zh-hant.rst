@@ -89,4 +89,12 @@
    * - *2) Effort:* the effort to make another individual know whatever one wants to communicate based on that aim.
      - *2）努力：*\ 為了達到這個目的，努力使另一個人了解自己想要傳達的訊息。
 
+   * - **Intention**
+     - **意圖**
+
+   * - The aim to misrepresent the truth fulfills this factor regardless of what one’s motives are. Thus “white lies”—made with benevolent intentions (e.g., to a person whose state of mind is too weak to take the truth)—would fall under this rule, so a bhikkhu who wants to shield an emotionally weak person from harsh truths has to be very skillful in phrasing his statements. Also, outrageous lies meant as jokes—to amuse rather than to deceive—would fall under this rule as well, a point we will discuss further in the non-offense section.
+
+     - 無論動機是什麼，歪曲事實的目的都符合這個因素。因此，「善意的謊言」——出於善意而說的謊言（例如，對一個精神狀態太弱而無法接受真相的人說的謊言）——就屬於本戒條，所以，如果比丘想保護一個情感脆弱的人免受殘酷真相的傷害，他就必須非常巧妙地措辭。此外，出於玩笑目的（為了逗樂而不是欺騙）的離譜謊言也屬於本戒條的範疇，我們將在不犯部分進一步討論這一點。
+
+
 (未完待續)
