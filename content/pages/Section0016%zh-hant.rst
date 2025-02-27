@@ -96,5 +96,23 @@
 
      - 無論動機是什麼，歪曲事實的目的都符合這個因素。因此，「善意的謊言」——出於善意而說的謊言（例如，對一個精神狀態太弱而無法接受真相的人說的謊言）——就屬於本戒條，所以，如果比丘想保護一個情感脆弱的人免受殘酷真相的傷害，他就必須非常巧妙地措辭。此外，出於玩笑目的（為了逗樂而不是欺騙）的離譜謊言也屬於本戒條的範疇，我們將在不犯部分進一步討論這一點。
 
+   * - **Effort**
+     - **努力**
+
+   * - According to the Vibhaṅga, to misrepresent the truth means to say that one has seen X when one hasn’t, that one hasn’t seen X when one has, or that one has seen X clearly when one is in doubt about the matter. This pattern holds for the other senses—hearing, smell, taste, touch, and ideation—as well. Thus to repeat what one has heard, seen, etc., even if it actually is misinformation, does not count as a misrepresentation of the truth under this rule, as one is truthfully reporting what one has seen, etc. If, however, one says that one believes in such misinformation—when one actually doesn’t—one’s statement *would* count as a misrepresentation of the truth and so would fulfill this factor.
+
+     - 根據《經分別》，歪曲事實的意思是說，當他沒有看到X時，卻說他看到了它；當他看到了X時，卻說他沒有看到它；或者當他對該事有疑問時，卻說他清楚地看到了X。這種模式也適用於其他感官——聽覺、嗅覺、味覺、觸覺和思考。因此，重複自己所聽到、所看到等內容，即使它實際上是錯誤的信息，也不算本戒條下的歪曲事實，因為是在如實地報道自己所看到等等。然而，如果說自己相信這些錯誤訊息──而實際上自己並不相信──那麼他的話\ *就*\ 算是歪曲了事實，因此就滿足了這個因素。
+
+   * - According to the Commentary, *effort* here covers falsehoods conveyed not only by speech but also by writing or gesture. As for falsehoods conveyed by silence: `Mv.II.3.3`_ states that if, while listening to the recitation of the Pāṭimokkha, one remembers that one has an unconfessed offense and yet remains silent about it, that counts as a deliberate lie; `Mv.II.3.7`_ then goes on to impose a dukkaṭa for this kind of lie, which suggests that remaining silent in a situation where silence conveys a false message does not fulfill this factor for the full offense here.
+
+     - 根據《義註》，這裡的\ *努力*\ 不僅包括透過言語傳達的謊言，還包括透過寫作或示意動作傳達的謊言。至於透過沉默傳達的謊言：\ `《大品》.二.3.3`_\ 規定，如果在聆聽《波羅提木叉》時，想起自己有未懺悔的罪過，但卻保持沉默，那就算是故意撒謊；然後，\ `《大品》.二.3.7`_\ 繼續對這種謊言施加《突吉羅》，這表明在沉默傳達錯誤訊息的情況下保持沉默並不能滿足此處完全違犯的本因素。
+
+   * - Result is not a factor under this rule. Thus whether anyone understands the lie or is deceived by it is irrelevant to the offense.
+     - 根據本戒條，結果不是影響因素。因此，是否有人理解謊言或被謊言欺騙，與犯戒無關。
+
+.. _Mv.II.3.3: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.3.3
+.. _Mv.II.3.7: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.3.7
+.. _《大品》.二.3.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0136a12
+.. _《大品》.二.3.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0138a06
 
 (未完待續)
