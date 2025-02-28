@@ -110,9 +110,35 @@
    * - Result is not a factor under this rule. Thus whether anyone understands the lie or is deceived by it is irrelevant to the offense.
      - 根據本戒條，結果不是影響因素。因此，是否有人理解謊言或被謊言欺騙，與犯戒無關。
 
+   * - In cases where a particular lie would fall under another rule—such as `Pr 4`_, `Sg 8`_ or 9_, `Pc 13`_, 24_, or 76_\—the penalties assigned by that rule take precedence over the ones assigned here. For instance, making a false but unspecific claim to a superior human state would entail a thullaccaya under `Pr 4`_; falsely accusing another bhikkhu of a pārājika offense would entail a saṅghādisesa under `Sg 8`_; falsely accusing him of a saṅghādisesa would entail a pācittiya under `Pc 76`_; and falsely accusing him of a lesser offense would entail a dukkaṭa under that rule.
+
+     - 當特定謊言屬於另一條戒條時（例如\ `《波羅夷》四`_\ 、\ `《僧殘》八`_\ 或\ `九`_\ 、\ `《波逸提》十三`_\ 、\ `二四`_\ 或\ `七六`_\ ），該戒條指定的懲罰優先於此處指定的懲罰。例如，對上人法作出虛假但不明確的主張，將導致\ `《波羅夷》四`_\ 下的《偷蘭遮》；虛假地指控另一位比丘犯了《波羅夷》罪，將導致\ `《僧殘》八`_\ 下的《僧殘》；虛假地指控他犯《僧殘》，將導致\ `《波逸提》七六`_\ 下的《波逸提》；而根據該戒條，虛假地指控他犯下輕罪，將導致《突吉羅》。
+
+   * - The Vinaya-mukha argues that this rule should take precedence in cases where a particular lie would entail only a dukkaṭa under any of the other rules—as in the last example—but this contradicts the Vibhaṅga.
+
+     - 《戒律入口》認為，當某個謊言根據其他任何戒條只會導致《突吉羅》時（如最後一個例子），本戒條應該優先於其他任何戒條，但這與《經分別》相矛盾。
+
 .. _Mv.II.3.3: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.3.3
 .. _Mv.II.3.7: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.3.7
 .. _《大品》.二.3.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0136a12
 .. _《大品》.二.3.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0138a06
+.. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
+.. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. _9: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
+.. _Pc 13: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc13
+.. _24: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc24
+.. _76: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
+.. _Pc 76: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
+.. _《波羅夷》四: {filename}Section0010%zh-hant.rst#Pr4
+.. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
+.. _九: {filename}Section0011%zh-hant.rst#Sg9
+.. _《波逸提》十三: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc13
+.. TODO FIXME: replace link to 《波逸提》十三
+.. _二四: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc24
+.. TODO FIXME: replace link to 《波逸提》二四
+.. _七六: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
+.. TODO FIXME: replace link to 《波逸提》七六
+.. _《波逸提》七六: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
+.. TODO FIXME: replace link to 《波逸提》七六
 
 (未完待續)
