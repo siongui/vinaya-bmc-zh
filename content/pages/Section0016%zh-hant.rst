@@ -167,4 +167,30 @@
 .. _MN 61: https://www.dhammatalks.org/suttas/MN/MN61.html
 .. _《中部》61經: https://sutra.mobi/chilin/zhong/content/061.html
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Broken promises**
+     - **違背承諾**
+
+   * - `Mv.III.14.1-14`_ imposes a dukkaṭa on the act of making a promise with pure intentions but later breaking it. Because the texts make no mention of any circumstances beyond one’s control that would exempt one from that penalty, a bhikkhu should be very careful of how he states his plans for the future. A special instance of breaking a promise—accepting an invitation to a meal but then not going—is treated, not under `Mv.III.14.1-14`_, but under `Pc 33`_.
+
+     - `《大品》.三.14.1-14`_\ 對出於純潔意圖作出承諾但後來卻違背承諾的行為施加《突吉羅》。因為文獻中沒有提到任何超出個人控制範圍的情況可以免除這種懲罰，所以比丘應該對如何陳述他對未來的計劃非常小心。違背承諾的一個特殊例子——接受了用餐邀請但後來卻不去——不是在\  `《大品》.三.14.1-14`_\ 中處理，而是在\ `《波逸提》三三`_\ 中處理。
+
+   * - *Summary: The intentional effort to misrepresent the truth to another individual is a pācittiya offense.*
+     - *摘要：故意向他人扭曲事實，是《波逸提》（《單墮》）罪。*
+
+.. _Mv.III.14.1-14: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.14.4
+.. _Pc 33: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
+.. _《大品》.三.14.1-14: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0207a07
+.. _《波逸提》三三: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
+.. TODO FIXME: replace link to 《波逸提》三三
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
