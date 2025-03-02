@@ -193,4 +193,38 @@
    \*    \*    \*
 
 
+.. _Pc2:
+
+.. raw:: html
+
+   <span id="Pc2"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **2**
+     - **二**
+
+   * - .. container:: notification
+
+          *An insult is to be confessed.*
+
+     - .. container:: notification
+
+          *侮辱，波逸提。*
+
+   * - An insult is a gesture or statement, written or spoken, made with the malicious intent of hurting another person’s feelings or of bringing him/her into disgrace. The Vibhaṅga analyzes the full offense under this rule in terms of three factors:
+
+     - 侮辱是一種書面或口頭的手勢或言論，目的是惡意傷害他人感情或使他人蒙羞。《經分別》從三個因素分析了本戒條下的完全違犯：
+
+   * - *1) Effort:* One insults a person directly to his face, touching on any one of the ten topics for abuse *(akkosa-vatthu)* listed below.
+     - *1）努力：*\當面侮辱某人，觸及下面列出的十個辱罵話題\ *（akkosa-vatthu）*\ 中的任何一個。
+
+   * - *2) Object:* The person is a bhikkhu.
+     - *2）對象：*\ 該人是比丘。
+
+   * - *3) Intention:* One’s motive is to humiliate him.
+     - *3）意圖：*\ 動機是羞辱他。
+
 (未完待續)

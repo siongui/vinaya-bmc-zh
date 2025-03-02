@@ -948,8 +948,7 @@
      - 《經分別》明確指出，本戒條不包括憤怒時所發表的言論。因此，比丘出於憤怒而不是出於欲望而對女性進行的任何侮辱——即使他們指的是她的生殖器等——都屬於\ `《波逸提》二`_\，而不是這裡。
 
 .. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
-.. _《波逸提》二: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
-.. TODO FIXME: replace link to 《波逸提》二
+.. _《波逸提》二: {filename}Section0016%zh-hant.rst#Pc2
 
 
 .. list-table::
@@ -2097,10 +2096,7 @@
 
      - 根據《經分別》的說法，\ *承認自己的厭惡*\ 僅僅意味著承認指控是空洞的或錯誤的。因此，促使希望看到另一位比丘被驅逐的惡意程度不必太嚴重：如果只是為了好玩而想看到他被驅逐，那就滿足了這裡的意圖因素。
 
-.. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
 .. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
-.. _《波逸提》二: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
-.. TODO FIXME: replace link to 《波逸提》二
 .. _《波逸提》一: {filename}Section0016%zh-hant.rst#Pc1
 
 .. list-table::
