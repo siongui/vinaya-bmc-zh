@@ -219,12 +219,105 @@
      - 侮辱是一種書面或口頭的手勢或言論，目的是惡意傷害他人感情或使他人蒙羞。《經分別》從三個因素分析了本戒條下的完全違犯：
 
    * - *1) Effort:* One insults a person directly to his face, touching on any one of the ten topics for abuse *(akkosa-vatthu)* listed below.
-     - *1）努力：*\當面侮辱某人，觸及下面列出的十個辱罵話題\ *（akkosa-vatthu）*\ 中的任何一個。
+     - *1）努力：*\當面侮辱某人，觸及下面列出的十個辱罵主題\ *（akkosa-vatthu）*\ 中的任何一個。
 
    * - *2) Object:* The person is a bhikkhu.
      - *2）對象：*\ 該人是比丘。
 
    * - *3) Intention:* One’s motive is to humiliate him.
      - *3）意圖：*\ 動機是羞辱他。
+
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga lists ten ways a verbal insult can be phrased: making remarks about the other person’s:
+     - 《經分別》列出了十種言語侮辱的表達方式：對他人進行以下的評論：
+
+   * - .. container:: mx-2
+
+          *race, class, or nationality* (You nigger! You bum! You Frenchman!);
+
+     - .. container:: mx-2
+
+          *種族、階級或國籍*\（你這個黑鬼！你這個流浪漢！你這個法國人！）；
+
+   * - .. container:: mx-2
+
+          *name* (You really are a Dick!);
+
+     - .. container:: mx-2
+
+          *名字*\（你真是個混蛋！）；
+
+   * - .. container:: mx-2
+
+          *family or lineage* (You bastard! You son of a bitch!);
+
+     - .. container:: mx-2
+
+          *家族或血統*\（你這個混蛋！你這個狗娘養的！）；
+
+   * - .. container:: mx-2
+
+          *occupation* (You pimp! You capitalist pig!);
+
+     - .. container:: mx-2
+
+          *職業*\（你這個皮條客！你這個資本主義豬！）；
+
+   * - .. container:: mx-2
+
+          *craft* (What would you expect from a guy who crochets?);
+
+     - .. container:: mx-2
+
+          *技藝*\（您對鉤針編織的人有什麼期望？）；
+
+   * - .. container:: mx-2
+
+          *disease or handicap* (Hey, Clubfoot! Spastic!);
+
+     - .. container:: mx-2
+
+          *疾病或殘障*\（嘿，馬蹄足！痙攣！）；
+
+   * - .. container:: mx-2
+
+          *physical characteristics* (Hey, Fatty! Beanpole! Shrimp! Hulk!);
+
+     - .. container:: mx-2
+
+          *身體特徵*\（嘿，胖子！瘦高個！蝦米！綠巨人！）；
+
+   * - .. container:: mx-2
+
+          *defilements* (You control freak! Fool! Queer! Breeder!);
+
+     - .. container:: mx-2
+
+          *褻瀆*\（你這個控制狂！傻瓜！同性戀！繁殖狂！）
+
+   * - .. container:: mx-2
+
+          *offenses* (You liar! You thief!); or
+
+     - .. container:: mx-2
+
+          *冒犯*\（你這個騙子！你這個小偷！）；或者
+
+   * - .. container:: mx-2
+
+          *using an abusive form of address*, such as, “You camel! You goat! You ass! You penis! You vagina!” (§) (All five of these come from the Vibhaṅga.)
+
+     - .. container:: mx-2
+
+          *用辱罵性的稱謂*\，如「你這隻駱駝！你這個山羊！你這個混蛋！你這個陰莖！你這個陰道！（§）（此五句皆出自《經分別》。）
+
+   * - (The category of “offense”—which literally means “falling”—contains an interesting sub-category, in that the noble attainment of stream-entry is, literally, “falling into the stream.” Thus an insult along the lines of, “Some stream-winner you are!” would also fit under this category as well.)
+
+     - （「冒犯」這個類別的字面意思是「墮落」，它包含一個有趣的子類別，即入流的聖成就，字面意思是「墮入果位」。因此，類似「你真是個果位獲得者！」這樣的侮辱也屬於這一類別。）
+
+   * - These ten topics are called the *akkosa-vatthu*\—topics for abuse—and appear in the following training rule as well.
+     - 這十個主題被稱為 *akkosa-vatthu*\（辱罵主題），也出現在以下學處中。
 
 (未完待續)
