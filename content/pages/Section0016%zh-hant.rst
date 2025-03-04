@@ -320,4 +320,30 @@
    * - These ten topics are called the *akkosa-vatthu*\—topics for abuse—and appear in the following training rule as well.
      - 這十個主題被稱為 *akkosa-vatthu*\（辱罵主題），也出現在以下學處中。
 
+   * - As the examples in the Vibhaṅga show, the remark that fulfills the factor of effort here must touch on one of these topics for abuse and must be made directly to the listener: “You are X.” It may be phrased either as sarcastic praise or as out-and-out abuse. The Commentary and Sub-commentary say that any insulting remark not listed in the Vibhaṅga would only be grounds for a dukkaṭa, but the Vibhaṅga defines the topics for abuse in such a general way that *any* term related to them in any way would fulfill this factor here.
+
+     - 正如《經分別》中的例子所示，這裡滿足努力因素的言論必須涉及這些辱罵主題之一，並且必須直接對聽者說：「你是 X 」。它既可以表現為諷刺性的讚揚，也可以表現為徹頭徹尾的辱罵。《義註》和《複註》說，任何未在《經分別》中列出的侮辱性言論都只能成為《突吉羅》的理由，但《經分別》對辱罵的主題進行了非常籠統的定義，以至於\ *任何*\ 與它們相關的術語都可以滿足此處的這個因素。
+
+   * - Remarks made in an indirect or insinuating manner, though, would not fulfill this factor. *Indirect remarks* are when the speaker includes himself together with the target of his insult in his statement (“We’re all a bunch of fools”). *Insinuating remarks* are when he leaves it uncertain as to whom he is referring to (“There are camels among us”). Any remark of either of these sorts, if meant as an insult, entails a dukkaṭa regardless of whether the target is a bhikkhu or not.
+
+     - 然而，以間接或影射的方式發表的言論並不能滿足這一因素。\ *間接言論*\ 是指說話者在言論中將自己與被侮辱的對象連結在一起（「我們都是一群傻瓜」）。\ *影射言論*\ 是指當他不明確指出是誰時，（「我們中間有駱駝」）。任何上述言論，如果意在侮辱，無論對象是否為比丘，都會犯《突吉羅》。
+
+   * - All of the insults mentioned in the Vibhaṅga take the form of remarks about the person, whereas insults and verbal abuse at present often take the form of a command—Go to hell! F— off! etc.—and the question is whether these too would be covered by this rule. Viewed from the standpoint of intent, they fit under the general definition of an insult; but if for some reason they would not fit under this rule, they would in most cases be covered by `Pc 54`_.
+
+     - 《經分別》中提到的所有侮辱都是對人的評價，而當今的侮辱和言語虐待常常以命令的形式出現－去死吧！滾！等等－問題是這些是否也包含在本戒條中。從意圖的角度來看，它們符合侮辱的一般定義；但如果由於某種原因它們不符合本戒條，則大多數情況下它們將符合\ `《波逸提》五四`_\ 。
+
+   * - Insulting remarks made about someone behind his/her back are dealt with under `Pc 13`_.
+     - 在背後對某人發表的侮辱性言論將根據\ `《波逸提》十三`_\ 處理。
+
+   * - **Object**
+     - **對象**
+
+   * - To insult a bhikkhu incurs a pācittiya; to insult an unordained person—according to the Commentary, this runs the gamut from bhikkhunīs to all other living beings—a dukkaṭa.
+
+     - 侮辱比丘犯《波逸提》；侮辱未受具足戒的人——根據《義註》，這適用於從比丘尼到所有其他生物——《突吉羅》。
+
+.. _Pc 54: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
+.. _《波逸提》五四: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
+.. TODO FIXME: replace link to 《波逸提》五四
+
 (未完待續)
