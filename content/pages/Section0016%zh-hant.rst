@@ -346,4 +346,15 @@
 .. _《波逸提》五四: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
 .. TODO FIXME: replace link to 《波逸提》五四
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - The Vibhaṅga defines this factor as “desiring to jeer at, desiring to scoff at, desiring to make (him) abashed.” If, with no insult intended, a bhikkhu jokes about another person’s race, etc., he incurs a dubbhāsita, regardless of whether the person is lay or ordained, mentioned outright or insinuatingly, and regardless of whether he/she takes it as a joke or an insult. This is the only instance of this class of offense.
+
+     - 《經分別》將此因素定義為「想要嘲笑、想要嘲弄、想要讓（他）羞愧」。如果比丘開玩笑地談論別人的種族等，而無意冒犯，則無論此人是在家人還是出家人，是直接提及還是暗示，也無論他/她將其視為玩笑還是侮辱，他犯惡說（dubbhāsita）。這是此類犯戒的唯一例子。
+
 (未完待續)
