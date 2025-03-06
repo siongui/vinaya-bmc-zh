@@ -355,6 +355,14 @@
 
    * - The Vibhaṅga defines this factor as “desiring to jeer at, desiring to scoff at, desiring to make (him) abashed.” If, with no insult intended, a bhikkhu jokes about another person’s race, etc., he incurs a dubbhāsita, regardless of whether the person is lay or ordained, mentioned outright or insinuatingly, and regardless of whether he/she takes it as a joke or an insult. This is the only instance of this class of offense.
 
-     - 《經分別》將此因素定義為「想要嘲笑、想要嘲弄、想要讓（他）羞愧」。如果比丘開玩笑地談論別人的種族等，而無意冒犯，則無論此人是在家人還是出家人，是直接提及還是暗示，也無論他/她將其視為玩笑還是侮辱，他犯惡說（dubbhāsita）。這是此類犯戒的唯一例子。
+     - 《經分別》將此因素定義為「想要嘲笑、想要嘲弄、想要讓（他）羞愧」。如果比丘開玩笑地談論別人的種族等，而無意冒犯，則無論此人是在家人還是出家人，是直接提及還是暗示，也無論他/她將其視為玩笑還是侮辱，他犯《惡說》（dubbhāsita）。這是此類犯戒的唯一例子。
+
+   * - The K/Commentary adds result as a fourth factor—the target of one’s insult knows, “He’s insulting me”—but there is no basis for this in either the Vibhaṅga or the Commentary. If one makes an insulting remark under one’s breath, not intending to be heard—or in a foreign language, not intending to be understood—the motive would be to let off steam, which would not qualify as the intention covered by this rule. If one truly wants to humiliate someone, one will make the necessary effort to make that person hear and understand one’s words. But if for some reason that person *doesn’t* hear or understand (a loud noise blots out one’s words, one uses a slang term that is new to one’s listener), there is nothing in the Vibhaṅga to indicate that one would escape from the full penalty.
+
+     - K/《義註》加入了結果作為第四個因素，即被侮辱的人知道「他在侮辱我」——但在《經分別》和《義註》都沒有任何此依據。如果低聲說出侮辱性言論，而無意讓別人聽到，或用外語說出侮辱性言論，而無意讓別人理解，其動機可能是為了發洩，這不屬於本戒條所涵蓋的意圖。如果真正想羞辱某人，他就會盡一切努力讓那個人聽到並理解他的話。但如果由於某種原因，那個人\ *沒有*\ 聽見或聽\ *不*\ 懂（巨大的噪音遮住了話語，使用了聽眾不熟悉的俚語），《經分別》中沒有任何內容表明可以逃脫全部懲罰。
+
+   * - For this reason, whether the person addressed actually feels insulted by one’s remarks is irrelevant in determining the severity of the offense. If one makes a remark to a fellow bhikkhu, touching on one of the topics for abuse and meaning it as an insult, one incurs a pācittiya even if he takes it as a joke. If one means the remark as a joke, one incurs a dubbhāsita even if the other person feels insulted.
+
+     - 因此，聽者是否真的覺得被自己的言論侮辱，與判斷犯戒的嚴重程度無關。如果對一位比丘同儕發表言論，觸及辱罵主題之一，且意圖侮辱，那麼即使他只當做笑話，也會犯《波逸提》。如果言論意圖只是開玩笑，那麼即使另一方感覺受到了侮辱，犯《惡說》。
 
 (未完待續)
