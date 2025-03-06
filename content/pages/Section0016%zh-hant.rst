@@ -365,4 +365,24 @@
 
      - 因此，聽者是否真的覺得被自己的言論侮辱，與判斷犯戒的嚴重程度無關。如果對一位比丘同儕發表言論，觸及辱罵主題之一，且意圖侮辱，那麼即使他只當做笑話，也會犯《波逸提》。如果言論意圖只是開玩笑，那麼即使另一方感覺受到了侮辱，犯《惡說》。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - According to the Vibhaṅga, a bhikkhu who mentions another person’s race, etc., commits no offense if he is “aiming at Dhamma, aiming at (the person’s) benefit (*attha*\—this can also mean “the goal”), aiming at teaching.” The Commentary illustrates this with a bhikkhu saying to a member of the untouchable caste: “You are an untouchable. Don’t do any evil. Don’t be a person born into misfortune and going on to misfortune.”
+
+     - 根據《經分別》，如果比丘「旨在於法、旨在於（該人的）利益（\ *attha*\——這也可以表示「目標」）、旨在於教導」，那麼當他提及他人的種族等時，並不構成犯戒。《義註》中以一位比丘對賤民種姓成員所說的話為例：「你是賤民。莫做惡事。不要做一個生來不幸、走向不幸的人。」
+
+   * - Another example would be of a teacher who uses insulting language to get the attention of a stubborn student so that the latter will bring his behavior in line with the Dhamma. This would entail no offense, but one should be very sure of the purity of one’s motives and of the beneficial effect of one’s words before using language of this sort.
+
+     - 另一個例子是，一位老師使用侮辱性的語言來引起頑固學生的注意，以便後者的行為符合法。這並不犯戒，但是在使用此類語言之前，我們應該非常確定自己動機的純潔性以及言語的有益效果。
+
+   * - *Summary: An insult made with malicious intent to another bhikkhu is a pācittiya offense.*
+     - *摘要：懷著惡意侮辱另一位比丘，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
