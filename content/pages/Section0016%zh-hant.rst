@@ -385,4 +385,48 @@
    \*    \*    \*
 
 
+.. _Pc3:
+
+.. raw:: html
+
+   <span id="Pc3"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **3**
+     - **三**
+
+   * - .. container:: notification
+
+          *Divisive tale-bearing among bhikkhus is to be confessed.*
+
+     - .. container:: notification
+
+          *在比丘之間分裂性的搬弄是非，波逸提。*
+
+   * - Divisive tale-bearing is described in the Vibhaṅga with a series of examples in the following form: X makes remarks about Y touching on his race, name, or any of the other ten *akkosa-vatthu* listed in the explanation to the preceding rule. Z, hearing these remarks, goes to tell someone else—either W or Y himself—in hopes of causing a rift between X and his listener or of winning favor with his listener in case there is already a rift between the two. For example:
+
+     - 《經分別》以下列形式舉了一系列例子來描述分裂性的搬弄是非： X 對 Y 的種族、姓名或在前一條戒條的解釋中列出的其他十個 *akkosa-vatthu* 發表言論。 Z 聽到這些言論後，便去告訴其他人（ W 或 Y 本人），希望能引起 X 和他的聽者之間的裂痕，或者在兩人之間已經有裂痕的情況下贏得聽者的好感。例如：
+
+   * - .. container:: mx-2
+
+          a\) X calls Y a bastard behind his back. Z tells Y, in hopes of ingratiating himself with Y.
+
+     - .. container:: mx-2
+
+          a）X 背地裡罵 Y 是混蛋。 Z 告訴 Y，希望能討好 Y。
+
+   * - .. container:: mx-2
+
+          b\) X makes racist remarks about Y to his face. Z knows that W is a friend of Y and hates racists, and so tells W what X said, in hopes of causing a rift between W and X.
+
+     - .. container:: mx-2
+
+          b）X 當面對 Y 發表種族主義言論。 Z 知道 W 是 Y 的朋友，並且討厭種族主義者，所以就把 X 說的話告訴了 W，希望藉此挑起 W 和 X 之間的裂痕。
+
+   * - Bhikkhu Z commits the full offense here when three factors are fulfilled: object, effort, and intent.
+     - 當滿足三個因素時，比丘 Z 就犯了全部罪行：對象、努力和意圖。
+
 (未完待續)
