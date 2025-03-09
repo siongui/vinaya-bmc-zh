@@ -470,5 +470,45 @@
 
      - 《複註》指出，除了關於十種 *akkosa-vatthu* 的言論之外，其他事項的搬弄是非犯《突吉羅》—即，告訴 Y 有關 X 所說或所做的事情，使 X 看起來很糟糕，希望贏得好感或造成裂痕—雖然有些這種情況屬於\ `《波逸提》十三`_\ 。
 
+   * - **Effort**
+     - **努力**
+
+   * - This rule is sometimes translated as dealing with slander—false tale-bearing—but as the examples in the Vibhaṅga show, it actually deals with true tale-bearing: X really does say insulting things about Y, and Z gives a true report. The Vinaya-mukha notes that if Z engages in false tale-bearing, then regardless of whether X and Z’s listener are bhikkhus, Z incurs the full penalty under `Pc 1`_.
+
+     - 本戒條有時被翻譯為處理誹謗——虛假的搬弄是非——但正如《經分別》中的例子所示，它實際上處理的是真實的搬弄是非：X 確實說了關於 Y 的侮辱性的話，而 Z 給出了真實的報道。《戒律入口》指出，如果 Z 散佈虛假的搬弄是非，那麼無論 X 和 Z 的聽者是否是比丘，Z 完全違犯\ `《波逸提》一`_\ 。
+
+   * - **Intent**
+     - **意圖**
+
+   * - To give a true report of such matters with motives other than those of winning favor or causing a rift entails no offense. Examples of this would include:
+     - 如果真實地報道這些事情並且不是為了贏得好感或製造裂痕，則並不構成犯戒。例如：
+
+   * - .. container:: mx-2
+
+          informing a senior bhikkhu when one bhikkhu has accused another of a serious offense, so that an inquiry can be made for the sake of harmony in the Community; or
+
+     - .. container:: mx-2
+
+          當一個比丘指控另一個比丘犯有嚴重罪行時，要通知一位資深比丘，以便為了僧團的和合而進行調查；或者
+
+   * - .. container:: mx-2
+
+          telling a senior bhikkhu about a student of his who is making racist remarks, so that the senior bhikkhu can put a stop to it.
+
+     - .. container:: mx-2
+
+          告訴一位資深比丘，他的一個學生正在發表種族主義言論，以便這位資深比丘可以阻止這種行為。
+
+   * - *Summary: Telling a bhikkhu about insulting remarks made by another bhikkhu—in hopes of winning favor or causing a rift—is a pācittiya offense.*
+     - *摘要：為了博取好感或製造裂痕，向一位比丘講述另一位比丘的侮辱性言論，是《波逸提》（《單墮》）罪。*
+
+.. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
+.. _《波逸提》一: #Pc1
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
