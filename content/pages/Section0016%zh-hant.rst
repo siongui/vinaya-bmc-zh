@@ -429,4 +429,31 @@
    * - Bhikkhu Z commits the full offense here when three factors are fulfilled: object, effort, and intent.
      - 當滿足三個因素時，比丘 Z 就犯了全部罪行：對象、努力和意圖。
 
+   * - .. container:: mx-2
+
+          *1) Object:* Both Z’s listener and X are bhikkhus; X has made remarks about Y that qualify as a direct insult under the preceding rule—or, if he didn’t make them in Y’s presence, remarks that would have qualified as a direct insult had he done so. (Note that under case (b) above, Y would not have to be a bhikkhu for this factor to be fulfilled.)
+
+     - .. container:: mx-2
+
+          *1）對象：*\  Z 的聽者和 X 都是比丘； X 對 Y 發表的言論根據前一條戒條可視為直接侮辱；或者，如果他沒有在 Y 面前發表這些言論，他真的這麼說了屬於直接侮辱的言論。（請注意，在上述情況 (b) 中，Y 不必是比丘即可滿足此因素。）
+
+   * - .. container:: mx-2
+
+          *2) Effort:* Z reports X’s remarks to his listener verbally or by gesture (as in writing a letter),
+
+     - .. container:: mx-2
+
+          *2）努力：*\  Z 透過口頭或示意動作（如寫信）向他的聽者傳達 X 的言論，
+
+   * - .. container:: mx-2
+
+          *3) Intent:* with the intent of ingratiating himself with his listener, or of causing a rift between his listener and X.
+
+     - .. container:: mx-2
+
+          *3）意圖：*\ 意圖討好聽者，或造成聽者與 X 之間的裂痕。
+
+   * - The K/Commentary adds a fourth factor—Z’s listener understands what he is saying—but, as with the preceding rule, there is no basis for this in the Vibhaṅga.
+     - K/《義註》增加了第四個因素—— Z 的聽眾理解他在說什麼——但是，與前一條戒條一樣，在《經分別》中沒有這一點的依據。
+
 (未完待續)
