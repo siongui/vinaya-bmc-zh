@@ -456,4 +456,19 @@
    * - The K/Commentary adds a fourth factor—Z’s listener understands what he is saying—but, as with the preceding rule, there is no basis for this in the Vibhaṅga.
      - K/《義註》增加了第四個因素—— Z 的聽眾理解他在說什麼——但是，與前一條戒條一樣，在《經分別》中沒有這一點的依據。
 
+   * - **Object**
+     - **對象**
+
+   * - If either X or Z’s listener—or both—are not bhikkhus, then the penalty for Z is a dukkaṭa.
+     - 如果 X 或 Z 的聽者（或兩者）不是比丘，那麼 Z 的懲罰就是《突吉羅》。
+
+   * - If X’s remarks qualified only as an indirect insult under the preceding rule—e.g., he said with reference to Y that, “There are camels among us”—then Z incurs a dukkaṭa if he reports them with the intent to ingratiate himself or cause a rift, regardless of whether his listener or X are bhikkhus or not.
+
+     - 如果 X 的言論根據前一條戒條僅屬於間接侮辱——例如，他對 Y 說，「我們之間有駱駝」——那麼如果 Z 以討好或製造裂痕為目的報道這些言論，無論聽者或 X 是否是比丘，犯《突吉羅》。
+
+   * - The Sub-commentary states that there is a dukkaṭa for bearing tales dealing with matters other than remarks about the ten *akkosa-vatthu*\—i.e., telling Y about things said or done by X, to make X appear in a bad light in hopes of winning favor or causing a rift—although some cases of this sort would come under `Pc 13`_.
+
+     - 《複註》指出，除了關於十種 *akkosa-vatthu* 的言論之外，其他事項的搬弄是非犯《突吉羅》—即，告訴 Y 有關 X 所說或所做的事情，使 X 看起來很糟糕，希望贏得好感或造成裂痕—雖然有些這種情況屬於\ `《波逸提》十三`_\ 。
+
+
 (未完待續)
