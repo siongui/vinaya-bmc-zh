@@ -287,7 +287,7 @@
      - `\　　　三 <{filename}Section0016%zh-hant.rst#Pc3>`__
 
    * - `\　　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4>`__
-     - 　　　四
+     - `\　　　四 <{filename}Section0016%zh-hant.rst#Pc4>`__
 
    * - `\　　　5 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc5>`__
      - 　　　五

@@ -497,7 +497,7 @@
 
      - .. container:: mx-2
 
-          告訴一位資深比丘，他的一個學生正在發表種族主義言論，以便這位資深比丘可以阻止這種行為。
+          告訴一位資深比丘，他的一位弟子正在發表種族主義言論，以便這位資深比丘可以阻止這種行為。
 
    * - *Summary: Telling a bhikkhu about insulting remarks made by another bhikkhu—in hopes of winning favor or causing a rift—is a pācittiya offense.*
      - *摘要：為了博取好感或製造裂痕，向一位比丘講述另一位比丘的侮辱性言論，是《波逸提》（《單墮》）罪。*
@@ -510,5 +510,48 @@
 
    \*    \*    \*
 
+
+.. _Pc4:
+
+.. raw:: html
+
+   <span id="Pc4"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **4**
+     - **四**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu have an unordained person recite Dhamma line by line (with him), it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘讓未受具足戒的人（與他）逐行誦讀佛法，波逸提。*
+
+   * - This is an offense with two factors:
+     - 這是有兩個因素的罪行：
+
+   * - .. container:: mx-2
+
+          *1) Effort:* One gets a student to recite Dhamma line-by-line with oneself (which, as we shall see below, means to train the student to be a skilled reciter of a Pali Dhamma text).
+
+     - .. container:: mx-2
+
+          *1）努力：*\ 讓弟子與自己一起一行一行地背誦佛法（正如我們將在下文中看到的，這意味著訓練弟子成為熟練的巴利語佛法誦讀者）。
+
+   * - .. container:: mx-2
+
+          *2) Object:* The student is neither a bhikkhu nor a bhikkhunī.
+
+     - .. container:: mx-2
+
+          *2）對象：*\ 弟子既不是比丘，也不是比丘尼。
+
+   * - Only the first factor needs explanation, and is best treated under two headings: Dhamma and reciting line-by-line.
+     - 只有第一個因素需要解釋，最好用兩個標題來處理：佛法和逐行背誦。
 
 (未完待續)
