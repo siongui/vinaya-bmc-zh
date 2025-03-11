@@ -554,4 +554,25 @@
    * - Only the first factor needs explanation, and is best treated under two headings: Dhamma and reciting line-by-line.
      - 只有第一個因素需要解釋，最好用兩個標題來處理：佛法和逐行背誦。
 
+   * - **Dhamma**
+     - **佛法**
+
+   * - *Dhamma* the Vibhaṅga defines as “a saying made by the Buddha, his disciples, seers, or heavenly beings, connected with the teaching or connected with the goal.” The Commentary devotes a long discussion to these terms, coming to the conclusion that *connected with the Dhamma* refers to the Pali Canon—in Pali, not in translation—as agreed on in the first three councils, while *connected with the goal (attha)* refers to the Mahā Aṭṭhakathā, the most revered ancient commentary (only in its original Pali version, the Sub-commentary says).
+
+     - 《經分別》將\ *佛法*\ 定義為「佛陀、其弟子、先知或天人所說的與教義或目標相關的話」。《義註》對這些術語進行了長討論，得出結論：\ *與佛法相關*\ 指的是巴利《聖典》（巴利語，而非翻譯），正如前三次結集所達成的一致意見，而\ *與目標（attha）相關*\ 指的是 Mahā Aṭṭhakathā，即最受尊敬的古代註釋（《複註》稱僅限其原始巴利語版本）。
+
+   * - The ancient commentaries disagreed as to what other works would fit under this category, but Buddhaghosa’s conclusion seems to be that—in the *Milinda Pañhā*, for example—Ven. Nāgasena’s quotes of the Buddha’s words would count, but not his own formulations of the teaching, and the same principle holds for other texts quoting the Buddha’s words as well. The ancient commentaries are unanimous, though, in saying that *Dhamma* does *not* cover the Mahāyāna sūtras or any compositions (this would include translations) dealing with the Dhamma in languages other than Pali.
+
+     - 古代註釋對於哪些其他作品可以歸入這一類別意見不一，但\ `佛音`_\ 的結論似乎是——例如在\ `《彌蘭王問經》`_\ 中——龍軍尊者所引述的佛陀話語可以算在內，但他自己對教義的表述則不算數，同樣的原則也適用於引用佛陀話語的其他文獻。然而，古代註釋一致認為，\ *佛法*\ 並\ *不*\ 涵蓋大乘經典或任何巴利語以外的語言論述佛法的作品（這包括翻譯作品）。
+
+   * - This interpretation, identifying *Dhamma* with particular Pali texts, has caused no controversy in the context of this rule—although it seems unlikely that the compilers of the Vibhaṅga would have had the commentaries in mind when they said, “connected with the goal”—but it *has* met with disagreement in the context of `Pc 7`_, and so we will discuss it in more detail there.
+
+     - 這種將\ *佛法*\ 與特定的巴利文獻聯繫起來的解釋，在本戒條的脈絡下沒有引起任何爭議——儘管《經分別》的編纂者在說「與目標相關」時似乎不太可能想到註釋——但它\ *確實*\ 在\ `《波逸提》七`_\ 的脈絡下遭到了反對，因此我們將在那裡更詳細地討論它。
+
+.. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
+.. _《彌蘭王問經》: https://zh.wikipedia.org/wiki/%E5%BD%8C%E8%98%AD%E7%8E%8B%E5%95%8F%E7%B6%93
+.. _Pc 7: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
+.. _《波逸提》七: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
+.. TODO FIXME: replace link to 《波逸提》七
+
 (未完待續)
