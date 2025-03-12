@@ -575,4 +575,62 @@
 .. _《波逸提》七: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
 .. TODO FIXME: replace link to 《波逸提》七
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Reciting line-by-line**
+     - **逐行背誦**
+
+   * - To make someone recite line by line means to train him/her by rote to be a skilled reciter of a text.
+     - 讓某人一行一行地背誦意味著透過死記硬背來訓練他/她成為文獻的熟練背誦者。
+
+   * - Bhikkhus in the days of the Buddha committed the teachings in the Canon to memory to preserve them from generation to generation. Although writing was in use at the time—mainly for keeping accounts—no one used it to record teachings either of the Buddha or of any other religious teacher. The Pali Canon was not written down until approximately 500 years after the Buddha’s passing away, after an invasion of Sri Lanka had threatened its survival.
+
+     - 佛陀時代的比丘們將《聖典》中的教義銘記於心，以便代代傳承。儘管當時已經使用文字（主要用於記帳），但沒有人用它來記錄佛陀或其他宗教導師的教義。直到佛陀圓寂約 500 年後，由於斯里蘭卡遭到入侵，巴利《聖典》的存亡受到威脅，才寫成文字成書。
+
+   * - The Vibhaṅga lists four ways in which a person might be trained to be a reciter of a text:
+     - 《經分別》列出了四種訓練一個人成為背誦者的方法：
+
+   * - .. container:: mx-2
+
+          1\) The teacher and student recite in unison, i.e., beginning together and ending together.
+
+     - .. container:: mx-2
+
+          1）師生同聲背誦，即一起開始，一起結束。
+
+   * - .. container:: mx-2
+
+          2\) The teacher begins a line, the student joins in, and they end together.
+
+     - .. container:: mx-2
+
+          2）老師開始某一行，學生加入，最後他們一起結束。
+
+   * - .. container:: mx-2
+
+          3\) The teacher recites the beginning syllable of a line together with the student, who then completes it alone.
+
+     - .. container:: mx-2
+
+          3）老師和學生一起背誦某一行的首個音節，然後學生獨自完成。
+
+   * - .. container:: mx-2
+
+          4\) The teacher recites one line, and the student recites the next line alone.
+
+     - .. container:: mx-2
+
+          4）老師背誦某一行，學生單獨背誦下一行。
+
+   * - At present, reciters of the Vedas still use these methods when practicing their texts.
+     - 目前，\ `吠陀`_\ 的背誦者在練習他們的文獻時仍會使用這些方法。
+
+   * - The origin story states that the Buddha forbade these methods of training unordained people because they caused the lay students to feel disrespect for the bhikkhus. The Vinaya-mukha explains this by noting that if a teacher made a slip of the tongue while teaching in this way, his students would look down on him for it. If this were the right explanation, though, the non-offense clauses would have listed “proper” ways of training novices and lay people to recite the Dhamma, but they don’t.
+
+     - `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0019a06>`__\ 說，佛陀禁止這些訓練非受具足戒者的方法，因為它們導致在家學生對比丘感到不尊重。《戒律入口》對此的解釋是：如果老師以這種方式教學時口誤，他的學生就會因此看不起他。如果這是正確的解釋，那麼不犯條款就會列出訓練沙彌和俗人背誦佛法的「適當」方法，但它並未列出。
+
+.. _吠陀: https://zh.wikipedia.org/wiki/%E5%90%A0%E9%99%80
+
 (未完待續)
