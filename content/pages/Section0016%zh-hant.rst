@@ -631,6 +631,44 @@
 
      - `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0019a06>`__\ 說，佛陀禁止這些訓練非受具足戒者的方法，因為它們導致在家學生對比丘感到不尊重。《戒律入口》對此的解釋是：如果老師以這種方式教學時口誤，他的學生就會因此看不起他。如果這是正確的解釋，那麼不犯條款就會列出訓練沙彌和俗人背誦佛法的「適當」方法，但它並未列出。
 
+   * - A more likely explanation is that at the time of the Buddha the duty of memorizing and reciting the texts was considered the province of the bhikkhus and bhikkhunīs. Although some lay people memorized discourses (`Mv.III.5.9`_), and bhikkhus of course taught the Dhamma to lay people, there was apparently the feeling that to teach non-ordainees to become skilled reciters of the texts was not good for the relationship between bhikkhus and the unordained. There are three possible reasons for this:
+
+     - 更可能的解釋是，在佛陀時代，記憶和背誦經文被認為是比丘和比丘尼的職責。雖然有些在家眾會記憶經文（\ `《大品》.三.5.9`_\ ），而比丘當然也會向在家眾宣講佛法，但是顯然人們覺得，教導非受具足戒者成為熟練的文獻背誦者，不利於比丘與非受具足戒者之間的關係。可能的原因有三：
+
+   * - .. container:: mx-2
+
+          1\) People may have felt that the bhikkhus were shirking their responsibilities by trying to pass their duty off onto others.
+
+     - .. container:: mx-2
+
+          1）人們或許覺得比丘們試圖將自己的職責推給別人，從而逃避自己的責任。
+
+   * - .. container:: mx-2
+
+          2\) Brahmans at the time were very strict in not allowing anyone outside their caste to memorize the Vedas, and their example may have led lay people to feel disrespect for bhikkhus who were not equally protective of their own tradition.
+
+     - .. container:: mx-2
+
+          2）當時的婆羅門非常嚴格，不允許其種姓之外的任何人背誦\ `吠陀`_\ ，他們的例子可能導致俗人對那些沒有同樣保護自己傳統的比丘感到不尊重。
+
+   * - .. container:: mx-2
+
+          3\) A bhikkhu acting as a tutor for a lay person wishing to memorize the Dhamma might, over time, come to be seen as the lay person’s hireling.
+
+     - .. container:: mx-2
+
+          3）一位比丘擔任一位想要記憶佛法的俗人的導師，隨著時間的推移，可能會被視為這位俗人的僱工。
+
+   * - At present, the entire Canon is available in print, and even bhikkhus rarely commit it to memory, although they do frequently memorize parts of it, such as the Pāṭimokkha, the major discourses, and other passages chanted on ceremonial occasions. To train a lay person or novice to become skilled in reciting such teachings by rote would entail the full penalty under this rule.
+
+     - 目前，整部《聖典》均已印刷出版，即使是比丘也很少將其牢記在心，儘管他們經常會記住其中的部分內容，例如《波羅提木叉》、主要經文和其他在儀式場合朗誦的段落。根據本戒條，訓練一名俗人或沙彌熟練地背誦這些教義，將完全違犯本戒條。
+
+   * - Offenses are counted as follows: If teaching an unordained person to recite line-by-line, one incurs a pācittiya for each line; if teaching syllable-by-syllable, a pācittiya for each syllable.
+
+     - 犯戒的次數如下：若教未受具足戒者一行一行背誦，則每行犯一次《波逸提》；如果逐個音節地教學，則每個音節犯一次《波逸提》。
+
 .. _吠陀: https://zh.wikipedia.org/wiki/%E5%90%A0%E9%99%80
+.. _Mv.III.5.9: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.5.5-9
+.. _《大品》.三.5.9: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0189a06
 
 (未完待續)
