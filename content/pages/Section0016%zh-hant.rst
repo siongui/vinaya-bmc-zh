@@ -667,6 +667,14 @@
 
      - 犯戒的次數如下：若教未受具足戒者一行一行背誦，則每行犯一次《波逸提》；如果逐個音節地教學，則每個音節犯一次《波逸提》。
 
+   * - *Intention* is not a mitigating factor here. Thus if a bhikkhu is training a mixed group of bhikkhus and novices, he incurs a pācittiya even if his intention is to train only the bhikkhus in the group.
+
+     - *意圖*\ 在此不是一個減輕懲罰的因素。因此，如果一位比丘正在訓練一個由比丘和沙彌組成的混合團體，那麼即使他的意圖只是訓練該團體中的比丘，他也犯《波逸提》。
+
+   * - *Perception* is also not a mitigating factor. If the person being trained is unordained, the bhikkhu incurs a pācittiya if he perceives him as unordained, a pācittiya if he is in doubt about the matter, and a pācittiya if he perceives him as ordained. If the person is ordained, then the bhikkhu incurs a dukkaṭa if he perceives him as unordained and a dukkaṭa if he is in doubt about the matter. Only if the person is ordained and the bhikkhu perceives him as ordained is he not grounds for an offense. *This pattern of six possibilities—three pācittiyas, two dukkaṭas, and one non-offense—is standard in many of the pācittiya rules where perception is not a mitigating factor.* We will note other rules in this chapter where this pattern also applies, but explain it in detail only here.
+
+     - *感知*\ 也不是一個減輕懲罰因素。若受訓練者尚未受具足戒，且比丘認為該人尚未受具足戒，則犯《波逸提》；若比丘對此事有所懷疑，則犯《波逸提》；若比丘認為該人已受具足戒，則犯《波逸提》。如果該人已受具足戒，而比丘認為該人未受具足戒，則犯《突吉羅》；如果比丘對此事有所懷疑，則犯《突吉羅》。只有當該人已受具足戒，且比丘認為該人已受具足戒時，才不構成犯戒。\ *此六種可能性的模式——三《波逸提》、兩《突吉羅》和一不犯——是許多《波逸提》戒條的標準，在這些戒條中，感知並不是減輕懲罰的因素。*\ 我們將在本章中指出此模式也適用的其他戒條，但僅在此詳細解釋。
+
 .. _吠陀: https://zh.wikipedia.org/wiki/%E5%90%A0%E9%99%80
 .. _Mv.III.5.9: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.5.5-9
 .. _《大品》.三.5.9: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0189a06
