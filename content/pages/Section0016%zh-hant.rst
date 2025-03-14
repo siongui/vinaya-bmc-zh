@@ -679,4 +679,28 @@
 .. _Mv.III.5.9: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.5.5-9
 .. _《大品》.三.5.9: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0189a06
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - Because this rule is aimed at methods of teaching, the Vibhaṅga states that there is no offense “for one made to recite in unison.” This, says the Commentary, refers to a young bhikkhu who, in the process of learning a text, is told by his teacher to recite together with a novice who is also the teacher’s student.
+
+     - 因為本戒條針對的是教學方法，所以《經分別》規定「讓一個人齊聲朗誦」並無犯戒。《義註》說，這指的是一位年輕比丘在學習一部經文的過程中，被老師要求與另一位沙彌（也是老師的學生）一起背誦。
+
+   * - Also, according to the Vibhaṅga, there is no offense if a bhikkhu corrects an unordained person who has memorized most of a passage or who is reciting in a confused manner; or if a bhikkhu “rehearses” a passage in unison with unordained people. In the time of the Canon, this meant the practice of reciting a passage one had already memorized. At present, this would include the practice of bhikkhus reciting together with lay people who are reading from a text or reciting from memory—for example, during the evening chanting—and are not learning the text from the bhikkhus. The Commentary extends this allowance to include cases of bhikkhus learning a text from an unordained person, probably on the model of the Itivuttaka, which—according to its Commentary—the bhikkhus first learned from a servant woman who had memorized some of the Buddha’s teachings that the bhikkhus had overlooked.
+
+     - 此外，根據《經分別》的規定，如果比丘糾正一個沒有受具足戒的人，而該人已經記住了大部分經文，或者以混亂的方式誦讀，這並不構成犯戒；或比丘與未受具足戒的眾人一同「排練」一段經文。在《聖典》時代，這意味著背誦已經記住的段落的做法。目前，這包括比丘與正在閱讀經文或背誦記憶的俗人一起誦讀的做法（例如，在晚課誦經時），而不是從比丘那裡學習經文。《義註》將這種開緣擴展到包括比丘從未受具足戒者那裡學習經文的情況，可能是以《如是語經》為模型，根據《如是語經》的《義註》，比丘首先從一名女僕那裡學習，這名女僕記住了比丘們忽略的一些佛陀教義。
+
+   * - *Summary: To train a novice or lay person to recite passages of Dhamma by rote is a pācittiya offense.*
+     - *摘要：訓練沙彌或俗人死記硬背誦佛經，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
