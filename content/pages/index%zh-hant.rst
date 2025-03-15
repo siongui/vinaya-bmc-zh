@@ -290,7 +290,7 @@
      - `\　　　四 <{filename}Section0016%zh-hant.rst#Pc4>`__
 
    * - `\　　　5 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc5>`__
-     - 　　　五
+     - `\　　　五 <{filename}Section0016%zh-hant.rst#Pc5>`__
 
    * - `\　　　6 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc6>`__
      - 　　　六

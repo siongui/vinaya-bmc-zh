@@ -703,4 +703,92 @@
    \*    \*    \*
 
 
+.. _Pc5:
+
+.. raw:: html
+
+   <span id="Pc5"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **5**
+     - **五**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu lie down together (in the same dwelling) with an unordained person for more than two or three consecutive nights, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘與未受具足戒者（在同一住所）同寢超過連續兩三個夜晚，波逸提。*
+
+   * - As the Vinaya-mukha comments, “The Buddha originally laid down the rule forbidding the act of sleeping in the same dwelling with an unordained person so that lay people would not see the unsightly attitudes a bhikkhu might assume while asleep. But then when novices came into being they were classed as unordained people and so had no place to stay. The Buddha therefore relaxed the rule, allowing bhikkhus to sleep in the same dwelling with an unordained person no more than three nights running, thus also opening the way for them to sleep in the same dwelling with ordinary lay men.”
+
+     - 正如《戒律入口》所說：「佛陀最初制定本戒條，禁止與未受具足戒的人同睡在同一住處，是為了讓俗人看不到比丘在睡覺時可能呈現的難看姿態。但當沙彌開始出現時，他們就被歸類為未受具足戒者，因此無處可居。因此，佛陀放寬了戒條，允許比丘與未受具足戒者同睡在同一住所，但不得超過三個連續夜晚，這也為比丘與普通俗人同睡在同一住所開闢了道路。」
+
+   * - The occasion for the first formulation of the rule was this:
+     - 本戒條首次制定的場合如下：
+
+   * - .. container:: mx-2
+
+          “Now at that time, lay men came to the monastery to hear the Dhamma. After the Dhamma had been taught, each of the elder bhikkhus went to his own dwelling, while the newer bhikkhus went to sleep right there in the assembly hall with the lay men—with muddled mindfulness, unalert, naked, mumbling, and snoring. The lay men criticized and complained and spread it about, ‘How can their reverences go to sleep with muddled mindfulness, unalert, naked, mumbling, and snoring?’”
+
+     - .. container:: mx-2
+
+          「\ `當時，很多俗人來到寺院聽法。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0021a06>`_\ 教導完佛法之後，各位長老比丘各自回自己的住處，而新比丘則就在集會堂裡與俗人一起睡覺——失正念、毫無警覺、赤身裸體、喃喃自語、鼾聲不斷。俗人批評、抱怨並四處傳播：『大德怎麼能失正念、毫無警覺、赤身裸體、喃喃自語、打鼾地睡覺呢？』」
+
+   * - The occasion for the final formulation was this:
+     - 最終制定的場合如下：
+
+   * - .. container:: mx-2
+
+          “The bhikkhus said to Ven. Rāhula (who was a novice at the time), ‘There is a training rule laid down by the Blessed One that (a bhikkhu) should not lie down together with an unordained person. Find yourself a place to sleep.’ So Ven. Rāhula, not finding a place to sleep, went to sleep in the restroom. Then the Blessed One, getting up toward the end of the night, went to the restroom and on arriving cleared his throat. Ven. Rāhula cleared his throat.
+
+     - .. container:: mx-2
+
+          「比丘們對羅睺羅尊者（當時是沙彌）說：『世尊有制定學處，即（比丘）不得與未受具足戒者同寢。自己找個地方睡覺。』羅睺羅尊者找不到地方睡覺，所以就到廁所睡覺。然後，世尊在夜晚將結束時起床，前往廁所，一到那兒就清了清喉嚨。羅睺羅尊者也清了清喉嚨。
+
+   * - .. container:: mx-2
+
+          “‘Who’s there?’
+
+     - .. container:: mx-2
+
+          「『誰在那裡？』
+
+   * - .. container:: mx-2
+
+          “‘It’s me, venerable sir—Rāhula.’
+
+     - .. container:: mx-2
+
+          「『是我羅睺羅，大德。』
+
+   * - .. container:: mx-2
+
+          “‘Why are you lying there?’ (§—reading *nipanno’sīti* with the Thai edition)
+
+     - .. container:: mx-2
+
+          「『為什麼你躺在那裡？』（§—泰國版讀寫成 *nipanno’sīti* ）
+
+   * - .. container:: mx-2
+
+          “So Ven. Rāhula told him what had happened.”
+
+     - .. container:: mx-2
+
+          「所以羅睺羅尊者就將所發生的事告訴他。」
+
+   * - There are two factors for the full offense here:
+     - 此處的完全違犯有兩個因素：
+
+   * - *1) Object:* an unordained person.
+     - *1）對象：*\ 未受具足戒者。
+
+   * - *2) Effort:* (a) lying down, (b) together in the same dwelling with the unordained person, (c) for four nights running.
+     - *2）努力：*\ （a）躺下，（b）與未受具足戒者同一住處，（c）連續四夜。
+
 (未完待續)
