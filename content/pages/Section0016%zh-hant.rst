@@ -559,7 +559,7 @@
 
    * - *Dhamma* the Vibhaṅga defines as “a saying made by the Buddha, his disciples, seers, or heavenly beings, connected with the teaching or connected with the goal.” The Commentary devotes a long discussion to these terms, coming to the conclusion that *connected with the Dhamma* refers to the Pali Canon—in Pali, not in translation—as agreed on in the first three councils, while *connected with the goal (attha)* refers to the Mahā Aṭṭhakathā, the most revered ancient commentary (only in its original Pali version, the Sub-commentary says).
 
-     - 《經分別》將\ *佛法*\ 定義為「佛陀、其弟子、先知或天人所說的與教義或目標相關的話」。《義註》對這些術語進行了長討論，得出結論：\ *與佛法相關*\ 指的是巴利《聖典》（巴利語，而非翻譯），正如前三次結集所達成的一致意見，而\ *與目標（attha）相關*\ 指的是 Mahā Aṭṭhakathā，即最受尊敬的古代註釋（《複註》稱僅限其原始巴利語版本）。
+     - 《經分別》將\ *佛法*\ 定義為「佛陀、其弟子、先知或天人所說的與教義或目標相關的話」。《義註》對這些術語進行了長討論，得出結論：\ *與佛法相關*\ 指的是巴利《聖典》（巴利語，而非翻譯），正如前三次結集所達成的一致意見，而\ *與目標（attha）相關*\ 指的是《Mahā Aṭṭhakathā》，即最受尊敬的古代註釋（《複註》稱僅限其原始巴利語版本）。
 
    * - The ancient commentaries disagreed as to what other works would fit under this category, but Buddhaghosa’s conclusion seems to be that—in the *Milinda Pañhā*, for example—Ven. Nāgasena’s quotes of the Buddha’s words would count, but not his own formulations of the teaching, and the same principle holds for other texts quoting the Buddha’s words as well. The ancient commentaries are unanimous, though, in saying that *Dhamma* does *not* cover the Mahāyāna sūtras or any compositions (this would include translations) dealing with the Dhamma in languages other than Pali.
 
@@ -817,5 +817,91 @@
 
    * - If both parties get up and then lie down again, the bhikkhu incurs another pācittiya.
      - 若雙方都起身又再次躺下，則比丘將犯另一次《波逸提》。
+
+   * - **Dwelling**
+     - **住處**
+
+   * - The Vibhaṅga defines the dwelling that can be grounds for a pācittiya here as a place fully roofed and fully walled, or mostly roofed and mostly walled. A place half-roofed and half-walled, it says, is grounds for a dukkaṭa, while a place (a) fully roofed but with no wall (e.g., an open pavilion), (b) fully walled but with no roof (e.g., a corral), or (c) less than half-roofed and less than half-walled, is not grounds for an offense.
+
+     - 《經分別》將構成《波逸提》罪的住所定義為完全覆蓋屋頂和完全覆蓋牆壁的地方，或大部分覆蓋屋頂和大部分覆蓋牆壁的地方。它稱，半覆蓋屋頂和半覆蓋牆壁的地方構成《突吉羅》罪，而 (a) 完全覆蓋屋頂但沒有牆壁的地方（例如，開放式亭子），(b) 完全覆蓋牆壁但沒有屋頂的地方（例如，畜欄），或 (c) 屋頂覆蓋少於一半和牆壁覆蓋少於一半的地方，不構成犯戒。
+
+   * - Buddhaghosa quotes the Mahā Aṭṭhakathā, the major ancient commentary, as filling in all the other possibilities:
+     - `佛音`_\ 引述了主要的古代註釋《Mahā Aṭṭhakathā》，以補充所有其他可能性：
+
+   * - .. container:: mx-2
+
+          *Grounds for a pācittiya:*
+
+     - .. container:: mx-2
+
+          *構成《波逸提》罪：*
+
+   * - a place—
+     - 該地方—
+
+   * - fully roofed and mostly walled,
+     - 完全覆蓋屋頂和大部分覆蓋牆壁，
+
+   * - fully roofed and half-walled,
+     - 完全覆蓋屋頂和半覆蓋牆壁，
+
+   * - mostly roofed and half-walled,
+     - 大部分覆蓋屋頂和半覆蓋牆壁，
+
+   * - mostly roofed and fully walled,
+     - 大部分覆蓋屋頂和完全覆蓋牆壁，
+
+   * - half-roofed and fully walled, or
+     - 半覆蓋屋頂和完全覆蓋牆壁，或者
+
+   * - half-roofed and mostly walled.
+     - 半覆蓋屋頂和大部分覆蓋牆壁。
+
+   * - .. container:: mx-2
+
+          *Grounds for a dukkaṭa:*
+
+     - .. container:: mx-2
+
+          *構成《突吉羅》罪：*
+
+   * - a place—
+     - 該地方—
+
+   * - fully roofed and less than half-walled,
+     - 完全覆蓋屋頂和牆壁覆蓋少於一半，
+
+   * - mostly roofed and less than half-walled,
+     - 大部分覆蓋屋頂和牆壁覆蓋少於一半，
+
+   * - less than half-roofed and fully walled, or
+     - 屋頂覆蓋少於一半和完全覆蓋牆壁，或者
+
+   * - less than half-roofed and mostly walled.
+     - 屋頂覆蓋少於一半和大部分覆蓋牆壁。
+
+   * - .. container:: mx-2
+
+          *Grounds for no offense:*
+
+     - .. container:: mx-2
+
+          *不構成犯戒：*
+
+   * - a place—
+     - 該地方—
+
+   * - half-roofed and less than half-walled,
+     - 半覆蓋屋頂和牆壁覆蓋少於一半，
+
+   * - less than half-roofed and half-walled, or
+     - 屋頂覆蓋少於一半和半覆蓋牆壁，或者
+
+   * - less than half-roofed and less than half-walled.
+     - 屋頂覆蓋少於一半和牆壁覆蓋少於一半。
+
+   * - The Commentary notes that tents would fit under the definition of “place” here, and it would seem that vehicles—caravans in the time of the Buddha; automobiles, trains, buses, and airplanes in ours—would fit here as well.
+
+     - 《義註》指出，帳篷符合這裡「住處」的定義，而且似乎交通工具——佛陀時代的大篷車；我們生活中的汽車、火車、巴士和飛機——在此處也同樣符合。
 
 (未完待續)
