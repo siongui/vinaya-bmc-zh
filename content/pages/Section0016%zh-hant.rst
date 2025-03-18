@@ -904,4 +904,22 @@
 
      - 《義註》指出，帳篷符合這裡「住處」的定義，而且似乎交通工具——佛陀時代的大篷車；我們生活中的汽車、火車、巴士和飛機——在此處也同樣符合。
 
+   * - **The same dwelling**
+     - **同一住處**
+
+   * - Unfortunately, the Vibhaṅga does not say how far the boundary of a “single dwelling” would extend. For example, would each separate room in a house count as a separate dwelling? Would the entire house? Would an entire apartment building be a single dwelling? The Commentary tries to remedy this omission by introducing the factor of “having a single common entrance” or “being part of the same enclosure.” (The Pali word it uses, *ek’ūpacāra*, has both meanings, and the Commentary makes use of both in its discussion.)
+
+     - 不幸的是，《經分別》並沒有說明「單一住處」的邊界延伸到多遠。例如，房屋中的每個獨立房間是否算是獨立住處？整個房子算是嗎？整棟公寓大樓會是單一住處嗎？《義註》試圖透過引入「擁有單一公共入口」或「屬於同一封閉區域」的因素來彌補這一遺漏。（其中所使用的巴利單字 *ek’ūpacāra* 兼具這兩種意義，《義註》在討論中也運用了這兩種意義。）
+
+   * - What it says is this: Even a seven-story palace or a building with 100 rooms would count as a single dwelling if all the rooms make use of a common entrance. If there are several buildings in a single enclosure, and one can go from one to another without stepping on outside ground, they would count as part of the same dwelling. If there is a building divided into units that are not connected by internal doorways, each unit having a separate entrance, the different units would count as separate dwellings. Locking or closing a door does *not* close off the doorway. Only if the door opening is bricked up or otherwise permanently sealed off does it no longer count as a doorway.
+
+     - 它所說的是這樣的：即使是七層宮殿或擁有 100 個房間的建築物，如果所有房間都使用一個公共入口，將算作單一住處。如果單一封閉區域內有多座建築物，並且可以從一棟建築物走到另一棟建築物而不需要踩踏外面的地面，那麼這些建築物將算作同一住處的一部分。如果一座建築物被分成多個單元，且這些單元之間沒有內部門口連接，每個單元都有單獨的入口，則不同的單元將被視為單獨的住處。鎖門或關門並\ *不*\ 會關閉門口。只有當門口被磚頭砌起來或以其他方式永久封閉時，它才不再算作門口。
+
+   * - The Commentary admits that the “single entrance” factor is not mentioned in the Canon in connection with this rule but is borrowed from the idea of “single enclosure” in the Vibhaṅga to `NP 2`_. It argues, though, that this factor is unavoidably bound up in the concept of “walled and roofed” and illustrates its point as follows: There is a two-room dwelling, composed of an antechamber through which one must pass to get to the inner chamber. A bhikkhu is sleeping in the inner chamber, and an unordained person in the antechamber. Now suppose that a stubborn Vinaya student maintains that if the door between the two rooms is closed, the bhikkhu is sleeping in a separate dwelling from the unordained person, while if the door is open, they are in the same dwelling. His teacher then asks him, “Why are they in the same dwelling if the door is open?”
+
+     - 《義註》承認，在與本戒條相關的《聖典》中沒有提到「單一入口」因素，而是借用了\ `《捨墮》二`_\ 的《經分別》的「單一封閉區域」的概念。不過，它認為這個因素不可避免地與「覆蓋牆壁和覆蓋屋頂」的概念緊密相連，並這樣說明其觀點：有一個兩房間的住宅，由一個前室組成，必須經過前廳才能到達內室。一位比丘在內室睡覺，一位未受具足戒的人在前室。現在假設一位頑固的戒律學生堅持認為，如果兩個房間之間的門關閉，比丘就與未受戒者睡在不同的住處，而如果門打開，他們就在同一個住處。他的老師問他：「如果門開著，為什麼他們會在同一個住處？」
+
+.. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
+.. _《捨墮》二: {filename}Section0013%zh-hant.rst#NP2
+
 (未完待續)
