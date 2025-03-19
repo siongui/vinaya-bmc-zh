@@ -919,6 +919,26 @@
 
      - 《義註》承認，在與本戒條相關的《聖典》中沒有提到「單一入口」因素，而是借用了\ `《捨墮》二`_\ 的《經分別》的「單一封閉區域」的概念。不過，它認為這個因素不可避免地與「覆蓋牆壁和覆蓋屋頂」的概念緊密相連，並這樣說明其觀點：有一個兩房間的住宅，由一個前室組成，必須經過前廳才能到達內室。一位比丘在內室睡覺，一位未受具足戒的人在前室。現在假設一位頑固的戒律學生堅持認為，如果兩個房間之間的門關閉，比丘就與未受戒者睡在不同的住處，而如果門打開，他們就在同一個住處。他的老師問他：「如果門開著，為什麼他們會在同一個住處？」
 
+   * - “Because the two rooms share the same roof and walls.”
+     - 「因為這兩個房間共用一個屋頂和牆壁。」
+
+   * - “And if the door is closed, does that destroy the roof and walls they had in common?”
+     - 「如果門關上了，那是否會破壞他們共同的屋頂和牆壁？」
+
+   * - “No, of course not. But the enclosure in which the bhikkhu is sleeping is marked by the door.”
+     - 「不，當然不會。不過比丘睡覺的封閉區域有門作為標記。」
+
+   * - This, the Commentary says, shows that the notion of enclosure is part and parcel of the concept of dwelling, and that the stubborn student has defeated his own argument. Its reasoning here is probably more convincing in Pali than in English—because as we noted above, Pali uses the same word for enclosure and entrance—but even so the illustration does not carry much force when applied to such places as separate apartments in an apartment building and so leaves the issue unsettled as far as they are concerned.
+
+     - 《義註》說，這表明封閉區域的概念是住處概念的一部分，並且固執的學生已經打敗了他自己的論點。這裡的推論在巴利語中可能比在英語中更有說服力——因為正如我們上面提到的，巴利語使用同一個字來表示封閉區域和入口——但即使如此，當應用於公寓大樓中的獨立公寓等地方時，這個例子也沒有太大的說服力，因此就他們而言，問題仍未得到解決。
+
+   * - The Vinaya-mukha notes that the factor introduced by the Commentary has implications that go far beyond the original purpose of this rule—and of the following rule, in which the concept of “single dwelling” is even more important. It suggests borrowing an additional factor from `NP 2`_: the factor of separate residences or zones of ownership (the Pali word *kula* carries both meanings). Thus in a large building composed of separate residences—such as an apartment building, a hotel, or a hospital with private rooms—it suggests that each separate residence count as a separate dwelling.
+
+     - 《戒律入口》指出，《義註》中引入的因素的含義遠遠超出了本戒條的最初目的，也超出了下一條戒條的最初目的，其中「單一住處」的概念更為重要。它建議從\ `《捨墮》二`_\ 借用一個附加因素：單獨住所或所有權區域的因素（巴利語 *kula* 兼具這兩種意義）。因此，在由單獨住所組成的大型建築物中（例如公寓大樓、飯店，或設有私人房間的醫院），它建議每個單獨住所都算作一個單獨住處。
+
+   * - Because the Canon gives no clear guidance on this point, the wise policy for an individual bhikkhu is to follow the views of the Community to which he belongs.
+     - 因為《聖典》在這一點上沒有給出明確的指導，所以對於比丘個人來說，明智之舉是遵循他所屬僧團的觀點。
+
 .. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
 .. _《捨墮》二: {filename}Section0013%zh-hant.rst#NP2
 
