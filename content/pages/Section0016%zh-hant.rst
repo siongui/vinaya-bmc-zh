@@ -942,4 +942,41 @@
 .. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
 .. _《捨墮》二: {filename}Section0013%zh-hant.rst#NP2
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Nights**
+     - **夜晚**
+
+   * - Nights here are counted by dawns. Thus if a bhikkhu is sleeping in the same dwelling with an unordained person but one of them gets up before dawn, that night does not count. If a bhikkhu has been lying down in the same dwelling with an unordained person for two nights running but then skips a night—for example, getting up before dawn at the end of the third night—the consecutive series is broken. (As discussed in `Appendix I`_, *before dawn* here apparently means before dawnrise, i.e., before the beginning of civil twilight.) If he then lies down in the same dwelling with an unordained person the next night, the counting starts again from one.
+
+     - 這裡的夜晚是以\ `黎明（明相）`_\ 來計算的。因此，如果一位比丘與一位未受具足戒的人睡在同一住處，但其中一人在\ `黎明（明相）`_\ 前起床，那麼這個夜晚就不算數。如果一位比丘與一位未受具足戒者連續兩個晚上在同一個住處躺下，但隨後跳過一個晚上——例如，在第三天夜晚結束\ `黎明（明相）`_\ 前起床——連續的系列就被破壞。（如\ `附錄一`_\ 所述，這裡的\ *黎明（明相）前*\ 顯然是指黎明昇起之前，即\ `民用曙暮光`_\ 開始之前。）如果他下一個夜晚與一個未受具足戒的人同一個住處躺下，則重新從一開始計數。
+
+   * - However, once he has been lying down in the same dwelling with an unordained person three nights running, then if after sundown on the fourth night he is lying down in the same dwelling in which a lay person is lying down—even if only for a moment—he incurs a pācittiya.
+
+     - 然而，一旦他已經連續三個夜晚與未受具足戒者在同一住處躺下，那麼如果在第四天夜晚日落之後，他在有在家眾躺著的同一住處躺下 —— 即使只是片刻 —— 他犯《波逸提》。
+
+   * - The Commentary interprets the phrase *after sundown* as meaning any time on the fourth day. In other words, there is no need to wait until the next dawn to count the fourth period of lying down together. As we noted above in the conclusion to the chapter on the saṅghādisesa rules, there was a tendency in the time of the Canon to call a 24-hour period of day and night a “night.” For the purpose of this rule and the following one, this period apparently begins at sundown.
+
+     - 《義註》將「日落之後」一詞解釋為第四天的任何時間。也就是說，不必等到下次\ `黎明（明相）`_\ ，才算第四次一起躺下的週期。正如我們上文《僧殘》戒條篇章結論部分所指出的，在《聖典》時代，人們傾向於將 24 小時的白天和夜晚的週期稱為一個「夜晚」。就本戒條和下一條戒條的目的而言，這一週期顯然從日落時開始。
+
+   * - The Commentary also states that the unordained person need not be the same person each of the four nights, and the same principle holds true for the dwelling. In other words, if a bhikkhu lies down in a dwelling with novice X one night and then goes elsewhere and lies down in a dwelling with layman Y the next night and so on for four nights running, he commits an offense all the same.
+
+     - 《義註》也指出，未受具足戒者不必在四個夜晚都是同一個人，對於住處也適用同樣的原則。換句話說，如果一位比丘一個夜晚與沙彌 X 在一個住處裡躺下，然後下一個夜晚又到別處與俗人 Y 在一住處裡躺下，如此連續四天，他同樣犯了戒。
+
+   * - Perception and intention are not mitigating factors here. Thus a bhikkhu lying down in the same dwelling with a novice whom he thinks to be another bhikkhu commits an offense all the same, as does a bhikkhu who miscounts the nights and lies down in the same room with an unordained person for what he thinks is his third night when it is actually his fourth.
+
+     - 在這裡，感知和意圖並不是減輕懲罰的因素。因此，如果一位比丘與一位他認為是另一名比丘的沙彌在同一個住處躺下，那麼他同樣犯了戒；如果一個比丘算錯了夜晚的數量，與一個沒有受具足戒的人在同一個房間裡躺下，他以為那是他的第三個夜晚，而實際上是第四個夜晚，那麼他同樣犯了戒。
+
+   * - In fact, this is a training rule that one may break without ever realizing it. Suppose a novice comes to lie down in a room where a bhikkhu is sleeping, and then gets up to leave before the bhikkhu awakens. If he does this for four nights running, the bhikkhu incurs a pācittiya even though he may never have been aware of what the novice was doing. Rules like this are the reason why many bhikkhus make a practice of confessing offenses even when they are not consciously aware of having committed them.
+
+     - 事實上，這是一個可能在不知不覺中就違犯的學處。假設一位沙彌來到一位比丘睡覺的房間內躺下，然後在比丘醒來之前起身離開。如果他連續四晚都這樣做，該比丘就犯《波逸提》，儘管他可能根本不知道沙彌在做什麼。正是因為這樣的戒條，使得許多比丘即使在沒有意識到自己已犯下罪行的情況下，也會養成懺悔罪行的習慣。
+
+.. _Appendix I: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
+.. _黎明（明相）: https://zh.wikisource.org/wiki/%E4%BD%9B%E5%AD%B8%E5%A4%A7%E8%BE%AD%E5%85%B8/%E6%98%8E%E7%9B%B8
+.. _民用曙暮光: https://zh.wikipedia.org/wiki/%E6%9B%99%E6%9A%AE%E5%85%89
+.. _附錄一: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
+.. TODO FIXME: replace link to 附錄一
+
 (未完待續)
