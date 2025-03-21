@@ -979,4 +979,39 @@
 .. _附錄一: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
 .. TODO FIXME: replace link to 附錄一
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - To recapitulate some of the points from the above discussion: To lie down with an unordained person in a dwelling that would qualify as grounds for a pācittiya or a dukkaṭa is no offense as long as one does it no more than three days running. If, after lying down in the same dwelling with an unordained person for two nights running, one gets up before dawn at the end of the third night, one may resume lying down in the same dwelling with an unordained person the next night. Also, there is no offense in lying down any number of consecutive nights with an unordained person in a dwelling that would not qualify as grounds for an offense. And, there is no offense if one of the parties is sitting while the other is lying down, or if both parties are sitting (although see `Pc 44`_ & 45_).
+
+     - 重述上述討論中的一些要點：與未受具足戒者躺下，在可構成《波逸提》或《突吉羅》的住處內，只要連續不超過三天，就不犯戒。如果在與未受具足戒者連續兩晚在同一住處躺下之後，第三個夜晚結束黎明前起床，則下一個夜晚可以繼續與未受具足戒者在同一住處躺下。此外，與未受具足戒者在不構成犯戒的住處無論連續幾晚躺下都不構成犯戒。並且，如果一方坐著而另一方躺著，或者雙方都坐著，則不構成犯戒（儘管參見\ `《波逸提》四四`_\ 和\ `四五`_\ ）。
+
+   * - The Vinaya-mukha comments that although this rule as it presently stands no longer fulfills its original purpose, bhikkhus should keep the original purpose in mind and avoid sleeping in the same place with an unordained person whenever possible. It would also be a wise policy to avoid sleeping out in a public park, on a public beach, in an unwalled pavilion, etc., in full view of the public, even though no offense would be involved.
+
+     - 《戒律入口》評論說，儘管本戒條現在已不再符合其原來的目的，但比丘們應該牢記原來的目的，儘可能避免與未受具足戒的人睡在同一個地方。避免在公共公園、公共海灘、沒有圍牆的涼亭等公眾場合露宿也是明智之舉，儘管這並不構成犯戒。
+
+   * - It is also worth noting that this rule encourages bhikkhus to get up and meditate before dawn every day so that they can know for sure they haven’t committed the offense here.
+
+     - 另外值得注意的是，本戒條鼓勵比丘每天\ `黎明（明相）`_\ 前起床禪修，以便他們能確定自己沒有犯下此戒。
+
+   * - *Summary: Lying down at the same time, in the same dwelling, with a novice or layman for more than three nights running is a pācittiya offense.*
+     - *摘要：與沙彌或俗人超過連續三個夜晚在同一時間、同一住處躺下，是《波逸提》（《單墮》）罪。*
+
+.. _Pc 44: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
+.. _45: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
+.. _《波逸提》四四: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
+.. TODO FIXME: replace link to 《波逸提》四四
+.. _四五: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
+.. TODO FIXME: replace link to 《波逸提》四五
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
