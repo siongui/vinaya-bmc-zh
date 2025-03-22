@@ -992,7 +992,7 @@
 
    * - The Vinaya-mukha comments that although this rule as it presently stands no longer fulfills its original purpose, bhikkhus should keep the original purpose in mind and avoid sleeping in the same place with an unordained person whenever possible. It would also be a wise policy to avoid sleeping out in a public park, on a public beach, in an unwalled pavilion, etc., in full view of the public, even though no offense would be involved.
 
-     - 《戒律入口》評論說，儘管本戒條現在已不再符合其原來的目的，但比丘們應該牢記原來的目的，儘可能避免與未受具足戒的人睡在同一個地方。避免在公共公園、公共海灘、沒有圍牆的涼亭等公眾場合露宿也是明智之舉，儘管這並不構成犯戒。
+     - 《戒律入口》評論說，儘管本戒條現在已不再符合其原來的目的，但比丘們應該牢記原來的目的，儘可能避免與未受具足戒的人睡在同一個地方。避免露宿在公共公園、公共海灘、沒有圍牆的涼亭等等完全曝露在公眾視線下，也是明智之舉，儘管這並不構成犯戒。
 
    * - It is also worth noting that this rule encourages bhikkhus to get up and meditate before dawn every day so that they can know for sure they haven’t committed the offense here.
 
