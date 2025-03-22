@@ -1048,4 +1048,32 @@
 
      - 2）刪除「努力」之下的四個夜晚條款，這意味著比丘與她在同一住處躺下時，即犯《波逸提》。
 
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga states that female yakkhas, petas, nāgas, devas, and animals—as well as paṇḍakas (people born neuter or castrated men)—are grounds for a dukkaṭa here. The Commentary qualifies this by saying that *female animal* means one with which it is possible to have intercourse, and the phrase, *female yakkhas, petas, nāgas, and devas*, includes only those who make themselves visible.
+
+     - 《經分別》指出，雌性的夜叉（\ `yakkha`_\ ）、餓鬼（\ `peta`_\ ）、龍（\ `nāga`_\ ）、天神（\ `deva`_\ ）和動物——以及\ `黃門`_\ （\ `paṇḍaka`_\ ，生來就是中性者或被閹割的男性）——在此處則犯《突吉羅》。《義註》對此進行了限定，指出\ *雌性動物*\ 是指可以與之性交的動物，而\ *雌性夜叉、餓鬼、龍和天神*\ 這些詞組僅包括那些讓自己可被看見者。
+
+   * - Even if another man is present in the dwelling, it does not negate the offense.
+     - 即使住處內有另一名男子，也不免除犯戒。
+
+   * - Perception as to whether the other person is a woman is not a mitigating factor here (see `Pc 4`_).
+     - 對於另一方是否為女性的感知並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - Intention is also not a mitigating factor. Thus a bhikkhu lying down in the same dwelling with a woman commits an offense regardless of whether he realizes that she is there.
+
+     - 意圖也不是減輕懲罰的因素。因此，比丘如果與女人在同一住處內躺下，無論他是否意識到女人在那裡，都犯了戒。
+
+   * - The same principles regarding perception and intention also apply to paṇḍakas: A bhikkhu who lies down in the same room with a paṇḍaka whom he thinks to be an ordinary man commits a dukkaṭa; and the same is true for a bhikkhu lying down in a dwelling not knowing that a paṇḍaka is also lying down there.
+
+     - 同樣的關於感知和意圖的原則也適用於\ `黃門`_\ ：如果比丘與他認為是普通男人的\ `黃門`_\ 在同一個房間內躺下，犯《突吉羅》；同樣地，如果一個比丘躺在住處，而不知道有\ `黃門`_\ 也躺在那裡，也犯《突吉羅》。
+
+.. _yakkha: https://dictionary.sutta.org/browse/y/yakkha/
+.. _peta: https://dictionary.sutta.org/browse/p/peta/
+.. _nāga: https://dictionary.sutta.org/browse/n/n%C4%81ga/
+.. _deva: https://dictionary.sutta.org/browse/d/deva/
+.. _黃門: https://zh.wikipedia.org/wiki/%E9%BB%83%E9%96%80_(%E4%BD%9B%E6%95%99)
+.. _paṇḍaka: https://dictionary.sutta.org/browse/p/pa%E1%B9%87%E1%B8%8Daka/
+
 (未完待續)
