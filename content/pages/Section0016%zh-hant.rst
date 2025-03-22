@@ -1014,4 +1014,38 @@
    \*    \*    \*
 
 
+.. _Pc6:
+
+.. raw:: html
+
+   <span id="Pc6"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **6**
+     - **六**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu lie down together (in the same dwelling) with a woman, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘與女人（在同一住處）一起躺下，波逸提。*
+
+   * - There are only two differences between this rule and the preceding one:
+     - 本戒條與前一條戒條只有兩點區別：
+
+   * - 1\) The factor of “object” here is fulfilled only by a female human being, “even one born that day, all the more an older one,” regardless of whether she is related to the bhikkhu.
+
+     - 1）此處「對象」因素僅由女性人類滿足，「即使是當天出生的，更何況年長的」，無論她是否與比丘有親屬關係。
+
+       .. 「即使是當天出生的，更不用提/更別提年長的」
+
+   * - 2\) The four-night clause under “effort” is dropped, which means that the bhikkhu incurs a pācittiya the instant he lies down in the same dwelling with her.
+
+     - 2）刪除「努力」之下的四個夜晚條款，這意味著比丘與她在同一住處躺下時，即犯《波逸提》。
+
 (未完待續)
