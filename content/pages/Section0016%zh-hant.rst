@@ -1076,4 +1076,26 @@
 .. _黃門: https://zh.wikipedia.org/wiki/%E9%BB%83%E9%96%80_(%E4%BD%9B%E6%95%99)
 .. _paṇḍaka: https://dictionary.sutta.org/browse/p/pa%E1%B9%87%E1%B8%8Daka/
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - A single dwelling is defined as in the preceding rule. Thus a bhikkhu sleeping in the same house as his mother, even if they are in separate rooms and another man is present, commits an offense all the same.
+
+     - 單一住處的定義如前一戒條規定。因此，如果比丘與母親睡在同一間屋子裡，即使他們在不同的房間，且有另一個男人在場，也一樣犯了戒。
+
+   * - The primary point where this rule differs from the preceding one under the factor of effort is that a bhikkhu incurs a pācittiya the moment he is lying down in a dwelling at the same time a woman is lying there, with no need to count nights or dawns. This is expressed in the Vibhaṅga by saying, “If after sundown a bhikkhu is lying down when a woman is lying down, it is to be confessed.”
+
+     - 本戒條與前一戒條在努力因素下的主要不同點在於，當比丘在住處中躺下時，如果與一名女人同時躺下，則他即犯《波逸提》，無需計算夜晚或\ `黎明（明相）`_\ 。《經分別》中這樣表達，「如果日落之後，比丘躺下，而此時有女人也躺下，《波逸提》。」
+
+   * - The Sub-commentary interprets this as meaning that this rule applies only at night, but the non-offense clauses in the Vibhaṅga give no exemptions for daytime or “before sundown,” which suggests that the Sub-commentary’s interpretation is invalid. What the Vibhaṅga’s statement means is that there is no need to wait until dawnrise to count the period of lying down together. As we noted under the preceding rule, there was a tendency in the time of the Canon to call a 24-hour period of day and night a “night,” and for the purpose of these two rules, this period apparently begins at sundown. The Commentary, switching to our current practice of calling a 24-hour period a day, says, “In the preceding rule, the offense is on the fourth day. Here it is right from the first day.”
+
+     - 《複註》將此解釋為本戒條僅適用於夜間，但《經分別》中的不犯條款並未對白天或「日落之前」給予豁免，這表明《複註》的解釋無效。《經分別》的意思是，不必等到\ `黎明（明相）`_\ 才計算一起躺下的週期。正如我們在前一戒條中提到的，在《聖典》時代，人們傾向於將日夜 24 小時週期稱為一「夜」，而就這兩條戒條目的而言，這個週期顯然從日落開始。《義註》改用我們目前稱 24 小時週期為一天的做法，說：「在前一戒條中，犯戒發生在第四天。這裡是從第一天即犯。」
+
+   * - Thus, no matter what time of day or night a bhikkhu lies down in the same dwelling with a woman, he immediately incurs a pācittiya.
+     - 因此，無論白天或夜晚什麼時間，比丘如果與女人在同一住處躺下，他就會立即犯《波逸提》。
+
 (未完待續)
