@@ -1098,4 +1098,52 @@
    * - Thus, no matter what time of day or night a bhikkhu lies down in the same dwelling with a woman, he immediately incurs a pācittiya.
      - 因此，無論白天或夜晚什麼時間，比丘如果與女人在同一住處躺下，他就會立即犯《波逸提》。
 
+   * - **The purposes of this rule**
+     - **本戒條的目的**
+
+   * - Another difference between this rule and the preceding one is the obvious point that they have different purposes. As the origin story shows, this rule is to prevent situations that might tempt a bhikkhu to commit a serious offense, such as a `Pr 1`_ or `Sg 2`_.
+
+     - 本戒條與前一條戒條的另一個明顯區別是它們的目的不同。如\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0024a03>`__\ 所示，本戒條是為了防止可能誘使比丘犯下嚴重罪行（例如\ `《波羅夷》一`_\ 或\ `《僧殘》二`_\ ）的情況。
+
+   * - .. container:: mx-2
+
+          “Then the woman, having herself prepared a bed inside (her house) for Ven. Anuruddha, having put on her jewelry and scented herself with perfumes, went to him… and said, ‘Master, you are beautiful, good-looking, and appealing. I, too, am beautiful, good-looking, and appealing. It would be good if I were to be your wife.’
+
+     - .. container:: mx-2
+
+          「然後，那位女人在（她的屋子）內為阿那律尊者準備了一張床，戴上珠寶，噴上香水，來到他面前……說道：『大德，您美麗、好看、有魅力。我也美麗、好看、有魅力。如果我能成為您的妻子就好了。』
+
+   * - .. container:: mx-2
+
+          “When she said this, Ven. Anuruddha remained silent. So a second time…. A third time she said to him, ‘Master, you are beautiful, good-looking, and appealing. I, too, am beautiful, good-looking, and appealing. It would be good if you would take me together with all my wealth.’
+
+     - .. container:: mx-2
+
+          「當她說這些話時，阿那律尊者保持沉默。於是第二次……第三次她對他說：『大德，您美麗、好看、有魅力。我也美麗、好看、有魅力。如果您能帶我以及我所有的財富一起走，，那就太好了。』
+
+   * - .. container:: mx-2
+
+          “A third time, Ven. Anuruddha remained silent. So the woman, having slipped off her clothing, paraded up and down in front of him, stood, sat down, and then lay down in front of him. But Ven. Anuruddha, keeping control of his faculties, didn’t as much as glance at her or say even a word.
+
+     - .. container:: mx-2
+
+          「第三次，阿那律尊者保持沉默。於是那位女人脫去衣服，在他面前走來走去，站著，坐下，然後躺在他面前。但阿奴律尊者保持對自己能力的控制，沒有看她一眼，甚至沒有說一句話。
+
+   * - .. container:: mx-2
+
+          “Then the thought occurred to her: ‘Isn’t it amazing! Isn’t it astounding! Many men send for me at a price of 100 or even 1,000 (a night), but this monk, even when I myself beg him, doesn’t want to take me together with all my wealth!’ So, putting her clothing back on and bowing her head at his feet, she said to him: ‘Venerable sir, a transgression has overcome me in that I was so foolish, so muddle-headed, so unskillful as to act in such a way. Please accept this confession of my transgression as such, for the sake of (my) restraint in the future.’”
+
+     - .. container:: mx-2
+
+          「然後她想到：『這難道不奇怪！這難道不令人震驚！許多男人以（一晚） 100 甚至 1,000 的價格來找我，但這個沙門，即使我親自請求他，也不願意帶走我以及我所有的財富！』於是，她重新穿上衣服，在他的腳下低下頭，對他說：『大德，我犯了罪孽，因為我太愚昧、太糊塗、太不善，才會做出這樣的事。請接受我對此罪的懺悔，以便我將來能夠克制自己。』」
+
+   * - Ven. Anuruddha was very advanced in the practice and so was able to get through the situation with his mindfulness and precepts intact. Many a lesser bhikkhu, though, would have succumbed right from the woman’s first request, and so the Buddha formulated this rule for his protection.
+
+     - 阿那律尊者的修行非常精進，所以能夠憑藉著他的正念和戒行完整渡過難關。然而，許多修行較差的比丘在女人第一次要求時就會屈服，因此佛陀制定了本戒條來保護他。
+
+.. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
+.. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
+.. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
+.. _《僧殘》二: {filename}Section0011%zh-hant.rst#Sg2
+
 (未完待續)
