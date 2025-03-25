@@ -1154,4 +1154,69 @@
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
 .. _《僧殘》二: {filename}Section0011%zh-hant.rst#Sg2
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The Vibhaṅga states that there is no offense in lying down with a woman in a dwelling that under the preceding rule would not be grounds for an offense, i.e.:
+     - 《經分別》規定，在前一戒條下不構成犯戒的住處內與女性躺下並不犯戒，即：
+
+   * - .. container:: mx-2
+
+          fully roofed but with no walls (e.g., an open pavilion),
+
+     - .. container:: mx-2
+
+          完全覆蓋屋頂但沒有牆壁（例如開放式涼亭），
+
+   * - .. container:: mx-2
+
+          fully walled but with no roof (e.g., a corral),
+
+     - .. container:: mx-2
+
+          完全覆蓋牆壁但沒有屋頂（例如畜欄），
+
+   * - .. container:: mx-2
+
+          less than half-roofed and less than half-walled.
+
+     - .. container:: mx-2
+
+          屋頂和牆壁覆蓋都少於一半。
+
+   * - The Commentary adds that these two dwellings would also not be grounds for an offense here:
+     - 《義註》也補充道，這兩種住處也不會成為犯戒的理由：
+
+   * - .. container:: mx-2
+
+          half-roofed and less than half-walled,
+
+     - .. container:: mx-2
+
+          半覆蓋屋頂，而且牆壁覆蓋少於一半，
+
+   * - .. container:: mx-2
+
+          less than half-roofed and half-walled.
+
+     - .. container:: mx-2
+
+          屋頂覆蓋少於一半，而且半覆蓋牆壁，
+
+   * - Still, as noted above, a bhikkhu would be well-advised to avoid such situations whenever possible, and to have another man present when not.
+     - 然而，如上所述，建議比丘最好盡可能避免這種情況，並在無法避免時請另一個男人在場。
+
+   * - *Summary: Lying down at the same time in the same dwelling with a woman is a pācittiya offense.*
+     - *摘要：與女人在同一住處同時躺下，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
