@@ -1141,6 +1141,14 @@
 
      - 阿那律尊者的修行非常精進，所以能夠憑藉著他的正念和戒行完整渡過難關。然而，許多修行較差的比丘在女人第一次要求時就會屈服，因此佛陀制定了本戒條來保護他。
 
+   * - This rule is also meant to prevent situations where suspicious people might think a bhikkhu has committed a serious offense even when he hasn’t. Like Caesar’s wife, a bhikkhu must not only *be* pure, he must *look* pure if he is to maintain his reputation. If a bhikkhu and a woman are seen going into a house together in the evening and leaving together the following morning, then even if they slept in separate rooms, suspicious neighbors—and very few neighbors aren’t suspicious of bhikkhus—would be quick to jump to conclusions. This is why no exemption is made for a bhikkhu who commits this offense unknowingly. Other people may know what is happening, and this is the sort of case where their opinion matters a great deal. For the same reason, the wise policy mentioned in the preceding rule applies even more forcefully here: A bhikkhu would be well-advised not to lie down with a woman in such places as parks, beaches, or unwalled pavilions even though in terms of the rules no offense would be involved.
+
+     - 本戒條也是為了防止這樣的情況出現：即使比丘沒有犯下嚴重罪行，懷疑者也可能認為他犯了嚴重罪行。像凱撒的妻子一樣，比丘如果想保持自己的名聲，不僅\ *要*\ 純潔，而且\ *看起來*\ 也必須純潔。如果比丘和女人被看到晚上一起進屋，第二天早上一起離開，那麼即使他們睡在不同的房間，多疑的鄰居——很少有鄰居不懷疑比丘——也會很快得出結論。這就是為什麼對於無意間犯下此罪的比丘不會給予豁免。其他人可能知道發生了什麼，這種情況下他們的意見就非常重要。基於同樣的原因，前一戒條中提到的明智之舉在這裡更加適用：建議比丘不要與女人在公園、海灘或沒有圍牆的亭子等地方躺下，即使從戒條上來說這並不構成犯戒。
+
+   * - There is some overlap between this rule and `Pc 44`_ & 45_, which deal with a bhikkhu sitting or lying down together in private with a woman (or women). Special cases covered by this rule not covered by those would include, for example, a bhikkhu and a woman lying down in separate rooms of the same dwelling; and a bhikkhu and a woman lying down in the same dwelling with another man present. Also, under those rules the questions of the bhikkhu’s state of mind and his awareness of the situation are important factors. Here they are of no consequence: Even a bhikkhu with the purest state of mind—or completely unknowingly—incurs a pācittiya when lying down together with a woman in the same dwelling.
+
+     - 本戒條與\ `《波逸提》四四`_\ 和\ `四五`_\ 有一些重疊，這兩條涉及比丘與一名（或多名）女人私下一起坐或躺下。本戒條所涵蓋而那些戒條不涵蓋的特殊情況包括，例如，比丘與女人在同一住處的不同房間裡躺下；一位比丘與一位女人在同一住處內躺下，而且還有另一位男人在場。此外，根據那些戒條，比丘的心態和對情況的認知的問題也是重要因素。在這裡，它們無關緊要：即使是一位心境最純淨的比丘——或完全不知道地——在同一個住處與一位女人一起躺下時，犯《波逸提》。
+
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
