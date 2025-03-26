@@ -2289,8 +2289,7 @@
 .. _《捨墮》二十: {filename}Section0014%zh-hant.rst#NP20
 .. _在比丘尚未領受必需品期間，他不應接受坐在淨人處的邀請、接受施捨，或在那裡教導佛法。: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0314a07
 .. _Pc 7: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
-.. _《波逸提》七: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
-.. TODO FIXME: replace link to 《波逸提》七
+.. _《波逸提》七: {filename}Section0016%zh-hant.rst#Pc7
 
 
 .. list-table::

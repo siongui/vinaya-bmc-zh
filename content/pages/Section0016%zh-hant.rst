@@ -572,8 +572,7 @@
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _《彌蘭王問經》: https://zh.wikipedia.org/wiki/%E5%BD%8C%E8%98%AD%E7%8E%8B%E5%95%8F%E7%B6%93
 .. _Pc 7: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
-.. _《波逸提》七: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
-.. TODO FIXME: replace link to 《波逸提》七
+.. _《波逸提》七: #Pc7
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1218,5 +1217,67 @@
 
    \*    \*    \*
 
+
+.. _Pc7:
+
+.. raw:: html
+
+   <span id="Pc7"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **7**
+     - **七**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu teach more than five or six sentences of Dhamma to a woman, unless a knowledgeable man is present, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘向女人宣講超過五、六句佛法，除非有知識淵博的男子在場，波逸提。*
+
+   * - .. container:: mx-2
+
+          “Then Ven. Udāyin, dressing early in the morning and taking his bowl and (outer) robe, went to visit a certain family. At that time the lady of the house was sitting in the main entrance, while the daughter-in-law was sitting in the door to the inner chamber. So Ven. Udāyin went to the lady of the house… and whispered Dhamma into her ear. The daughter-in-law thought, ‘Is this monk my mother-in-law’s lover, or is he being fresh with her?’ Then, having whispered Dhamma into the ear of the lady of the house, Ven. Udāyin went to the daughter-in-law… and whispered Dhamma into her ear. The lady of the house thought, ‘Is this monk my daughter-in-law’s lover, or is he being fresh with her?’ After whispering Dhamma into the daughter-in-law’s ear, Ven. Udāyin left. So the lady of the house said to the daughter-in-law, ‘Hey. What did that monk say to you?’
+
+     - .. container:: mx-2
+
+          「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0027a12>`__\ ，優陀夷尊者一大早就穿好衣服，拿著缽和袈裟（外衣）去拜訪一戶人家。那時，女主人正坐在正門，兒媳正坐在內室門口。於是，優陀夷尊者來到女主人那裡……並在她耳邊低聲說了佛法。兒媳心裡想：『這位沙門是不是我婆婆的情人？還是他在對她調情？』於是，在女主人耳邊低聲說了佛法後，優陀夷尊者來到兒媳身邊...並在她耳邊低聲說了佛法。女主人想：『這位沙門是我兒媳的情人嗎？還是他在對她調情？』在媳婦耳邊低聲說了佛法後，優陀夷尊者離開了。於是女主人就對兒媳說：『嘿。那個沙門對你說了什麼？』
+
+   * - .. container:: mx-2
+
+          “‘He taught me Dhamma, ma’am. And what did he say to you?’
+
+     - .. container:: mx-2
+
+          「『他教我佛法，夫人。他對你說了什麼？』
+
+   * - .. container:: mx-2
+
+          “‘He taught me Dhamma, too.’
+
+     - .. container:: mx-2
+
+          「『他也教我佛法。』
+
+   * - .. container:: mx-2
+
+          “So they criticized and complained and spread it about, ‘How can Ven. Udāyin whisper Dhamma into women’s ears? Shouldn’t the Dhamma be taught openly and out loud?’”
+
+     - .. container:: mx-2
+
+          「因此他們批評、抱怨並四處散播，『優陀夷尊者怎麼能在女人耳邊低聲說佛法呢？佛法難道不應該公開地大聲宣說嗎？』」
+
+   * - The two factors for the full offense here are:
+     - 此處完全違犯的兩個因素是：
+
+   * - *1) Object:* a female human being who knows what is and is not lewd, what is well-spoken and ill-spoken, and who has not asked one a question about the Dhamma.
+     - *1）對象：*\ 知道什麼是淫穢，什麼不是淫穢，什麼是善說，什麼是惡說，並且尚未請問有關佛法的問題的女性人類。
+
+   * - *2) Effort:* One teaches her more than six sentences of Dhamma without a knowledgeable man present—i.e., a male human being who also knows what is and is not lewd, what is well-spoken and ill-spoken.
+     - *2）努力：*\ 在沒有知識淵博男人在場的情況下，為她教授六句以上佛法。在場男人需要懂得什麼是淫穢，什麼是非淫穢，什麼是善說，什麼是惡說。
 
 (未完待續)

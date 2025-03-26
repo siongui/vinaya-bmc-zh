@@ -296,7 +296,7 @@
      - `\　　　六 <{filename}Section0016%zh-hant.rst#Pc6>`__
 
    * - `\　　　7 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7>`__
-     - 　　　七
+     - `\　　　七 <{filename}Section0016%zh-hant.rst#Pc7>`__
 
    * - `\　　　8 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc8>`__
      - 　　　八
