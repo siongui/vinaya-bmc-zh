@@ -1297,4 +1297,19 @@
    * - This factor contains two sub-factors requiring explanation: “Dhamma” and “six sentences.”
      - 此因素包含兩個需要解釋的子因素：「佛法」與「六句」。
 
+   * - **Dhamma**
+     - **佛法**
+
+   * - *Dhamma* the Vibhaṅga defines in the same terms as under `Pc 4`_: “a saying made by the Buddha, his disciples, seers, or heavenly beings, connected with the teaching, connected with the goal *(attha)*.”
+
+     - 《經分別》對\ *佛法*\ 的定義與\ `《波逸提》四`_\ 相同：「佛陀、其弟子、先知或天人所說的話，與教導相關，與目標\ *（attha）*\ 相關。」
+
+   * - Precisely what this means is a point of controversy. The Commentary identifies “sayings made by the Buddha, his disciples, seers, or heavenly beings” with different parts of the Pali Canon—in Pali—and then treats “connected with the teaching, connected with the goal” as nouns, the first referring to the Canon, and the second to the ancient commentary named the Mahā Aṭṭhakathā. This last point is highly unlikely, as the Mahā Aṭṭhakathā did not yet exist when the Canon was being composed.
+
+     - 這究竟意味著什麼是一個爭論點。《義註》將「佛陀、其弟子、先知或天人所說的話」與巴利《聖典》的不同部分聯繫起來——用巴利語——然後將「與教義相關、與目標相關」視為名詞，前者指的是《聖典》，後者指的是名為《Mahā Aṭṭhakathā》的古代註釋。最後這一點極不可能，因為在編纂《聖典》時，《Mahā Aṭṭhakathā》尚未存在。
+
+   * - There are two alternatives to the Commentary’s interpretation: One follows the Commentary in treating “connected with the teaching, connected with the goal” as nouns, but interprets them as meaning *any* statement dealing with the Dhamma, no matter what language it is in, and regardless of whether it is quoted from a text. Thus, according to this interpretation, anything a bhikkhu would say about the Dhamma—quoted from the Canon, from a later text, or of his own invention—would count as Dhamma here.
+
+     - 《義註》的解讀有兩種替代解釋：一種是沿襲《義註》，將「與教義相關、與目標相關」視為名詞，但將其解讀為\ *任何*\ 與佛法有關的陳述，無論使用何種語言，也無論是否引自文獻。因此，根據這種解釋，比丘所說的關於佛法的任何內容——無論是引自《聖典》、後來的文獻還是他自己的發明——在這裡都算是佛法。
+
 (未完待續)
