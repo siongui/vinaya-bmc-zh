@@ -1280,4 +1280,21 @@
    * - *2) Effort:* One teaches her more than six sentences of Dhamma without a knowledgeable man present—i.e., a male human being who also knows what is and is not lewd, what is well-spoken and ill-spoken.
      - *2）努力：*\ 在沒有知識淵博男人在場的情況下，為她教授六句以上佛法。在場男人需要懂得什麼是淫穢，什麼是非淫穢，什麼是善說，什麼是惡說。
 
+   * - **Object**
+     - **對象**
+
+   * - The word *woman* covers *women* as well: If a bhikkhu is with two or more women but without a knowledgeable man present, he may teach them no more than five or six sentences of Dhamma. Perception as to whether the person being taught is a woman or a man is not a mitigating factor here (see `Pc 4`_).
+
+     - *女人*\一詞也涵蓋\ *女人們*\ ：如果一位比丘與兩名或兩名以上的女人在一起，但沒有知識淵博的男子在場，則他只能為她們教授不超過五六句佛法。受教者是女性還是男性的感知並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - According to the Vibhaṅga, a female yakkha, a female peta, a paṇḍaka, or an animal (probably a nāga) in the form of a human woman are each grounds for a dukkaṭa here.
+
+     - 根據《經分別》，女性夜叉、女性餓鬼、\ `黃門`_\ 或化身為人類女性的動物（可能是龍）在此均犯《突吉羅》。
+
+   * - **Effort**
+     - **努力**
+
+   * - This factor contains two sub-factors requiring explanation: “Dhamma” and “six sentences.”
+     - 此因素包含兩個需要解釋的子因素：「佛法」與「六句」。
+
 (未完待續)
