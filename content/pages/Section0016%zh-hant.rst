@@ -1306,10 +1306,29 @@
 
    * - Precisely what this means is a point of controversy. The Commentary identifies “sayings made by the Buddha, his disciples, seers, or heavenly beings” with different parts of the Pali Canon—in Pali—and then treats “connected with the teaching, connected with the goal” as nouns, the first referring to the Canon, and the second to the ancient commentary named the Mahā Aṭṭhakathā. This last point is highly unlikely, as the Mahā Aṭṭhakathā did not yet exist when the Canon was being composed.
 
-     - 這究竟意味著什麼是一個爭論點。《義註》將「佛陀、其弟子、先知或天人所說的話」與巴利《聖典》的不同部分聯繫起來——用巴利語——然後將「與教義相關、與目標相關」視為名詞，前者指的是《聖典》，後者指的是名為《Mahā Aṭṭhakathā》的古代註釋。最後這一點極不可能，因為在編纂《聖典》時，《Mahā Aṭṭhakathā》尚未存在。
+     - 這究竟意味著什麼是一個爭論點。《義註》將「佛陀、其弟子、先知或天人所說的話」與巴利《聖典》的不同部分聯繫起來——用巴利語——然後將「與教導相關、與目標相關」視為名詞，前者指的是《聖典》，後者指的是名為《Mahā Aṭṭhakathā》的古代註釋。最後這一點極不可能，因為在編纂《聖典》時，《Mahā Aṭṭhakathā》尚未存在。
 
    * - There are two alternatives to the Commentary’s interpretation: One follows the Commentary in treating “connected with the teaching, connected with the goal” as nouns, but interprets them as meaning *any* statement dealing with the Dhamma, no matter what language it is in, and regardless of whether it is quoted from a text. Thus, according to this interpretation, anything a bhikkhu would say about the Dhamma—quoted from the Canon, from a later text, or of his own invention—would count as Dhamma here.
 
-     - 《義註》的解讀有兩種替代解釋：一種是沿襲《義註》，將「與教義相關、與目標相關」視為名詞，但將其解讀為\ *任何*\ 與佛法有關的陳述，無論使用何種語言，也無論是否引自文獻。因此，根據這種解釋，比丘所說的關於佛法的任何內容——無論是引自《聖典》、後來的文獻還是他自己的發明——在這裡都算是佛法。
+     - 《義註》的解讀有兩種替代解釋：一種是沿襲《義註》，將「與教導相關、與目標相關」視為名詞，但將其解讀為\ *任何*\ 與佛法有關的陳述，無論使用何種語言，也無論是否引自文獻。因此，根據這種解釋，比丘所說的關於佛法的任何內容——無論是引自《聖典》、後來的文獻還是他自己的發明——在這裡都算是佛法。
+
+   * - The second interpretation regards “connected with the teaching, connected with the goal” as adjectives modifying “sayings made by the Buddha, his disciples, seers, or heavenly beings.” This makes more sense in terms of Pali syntax—the terms are in the masculine case, agreeing with the word *dhammo*, whereas they probably would have been in the neuter case had they been intended as nouns. This limits the meaning of *Dhamma* in this rule to passages from the Canon, but not necessarily in the Pali language. Translations from the Canon would also come under the rule, as there is a passage in the Cullavagga (V.33.1) where the Buddha allows bhikkhus to learn Dhamma each in his own language, thus showing, contrary to the Commentary, that Dhamma does not have to be in Pali to be Dhamma.
+
+     - 第二種解釋是，以「與教導相關、與目的相關」當作修飾「佛陀、其弟子、先知或天人所說的話」的形容詞。從巴利語法的角度來看，這更說得通——這些術語是陽性格，與 *dhammo* 一詞一致，而如果它們是用作名詞，則它們可能為中性格。這就將本戒條中\ *佛法*\ 的意思限制為《聖典》中的段落，但不一定是巴利語。來自《聖典》的翻譯也算在本戒條，因為在\ `《小品》（五.33.1）`_\ 中有一段文字，佛陀允許比丘們用自己的語言學習佛法，因此與《義註》相反，這表明佛法不一定非要用巴利語才是佛法。
+
+   * - However, both interpretations have their adherents at present, and the question comes down to what one perceives to be the purpose of the rule. Adherents of the first interpretation say that the rule is designed to prevent the sort of suspicions that arise when a bhikkhu is talking at length alone with a woman, but this argument does not fit with the Buddha’s allowance for a bhikkhu to give a talk when a woman asks him for instruction.
+
+     - 然而，目前這兩種解釋都有其擁護者，問題歸結為認為本戒條的目的是什麼。支持第一種解釋的人說，本戒條是為了防止當比丘與女人單獨長時間交談時產生的那種懷疑，但是這種說法與佛陀允許比丘在女人向他尋求指導時給予開示的規定不符。
+
+   * - It is more likely that the rule is aimed at preventing a bhikkhu from using his knowledge of Dhamma as a come-on, a way of making himself attractive to a woman. As any man who teaches Dhamma soon learns, there are women who find such knowledge irresistible. To view the rule in this light makes either of the two interpretations tenable, so the wise policy is to adhere to the interpretation of the Community to which one belongs.
+
+     - 更可能的情況是，這條戒條旨在防止比丘利用他的佛法知識來吸引女性。任何教授佛法的男人很快就會發現，有些女人對於這種知識有著難以抗拒的吸引力。從這個角度來看這個戒條使得兩種解釋中的任何一種都是站得住腳的，因此明智之舉是遵循自己所屬僧團的解釋。
+
+   * - This rule applies to telephone conversations as well as to conversations in person, but because the Pv.I.5.7 notes that it deals only with the spoken word, it does not cover letters or other written communications.
+
+     - 本戒條適用於電話交談和面對面交談，但由於\ `《附隨》.一.5.7`_\ 指出它僅涉及口頭交談，因此不涵蓋信件或其他書面交流。
+
+.. _《小品》（五.33.1）: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0186a01
+.. _《附隨》.一.5.7: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_001#0021a02
 
 (未完待續)
