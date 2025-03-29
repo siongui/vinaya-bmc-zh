@@ -1331,4 +1331,26 @@
 .. _《小品》（五.33.1）: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0186a01
 .. _《附隨》.一.5.7: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_001#0021a02
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Six sentences**
+     - **六句**
+
+   * - As for the amount of Dhamma a bhikkhu may say to a woman or women without a knowledgeable man present, the Pali word for “sentence,” *(vācā)*, can also mean “word,” but the Commentary states specifically that one vācā is approximately equal to a line of verse. The Sub-commentary goes on to say that the Commentary’s definition here applies to poetry, while one vācā of prose is equal to the conjugation of a verb, i.e., six words. In either case, six vācās would amount to six sentences.
+
+     - 至於在沒有知識淵博的男人在場的情況下，比丘可以對一位或多位女人說多少佛法，表示「句子」的巴利單字\ *（vācā）*\ 也可以表示「單字」，但《義註》具體指出，一個 vācā 大約等於一行詩句。《複註》繼續說道，此處《義註》的定義適用於詩歌，而散文的一個 vācā 等於一個動詞的變位，即六個單字。無論哪種情況，六個 vācā 都等於六句話。
+
+   * - Offenses are counted as follows: If one is teaching the Dhamma line-by-line, one incurs a pācittiya for each line; if syllable-by-syllable, a pācittiya for each syllable.
+
+     - 犯戒的計算方式如下：如果正在逐行宣講佛法，則每行犯一次《波逸提》；如果是逐個音節的話，則每個音節一次《波逸提》。
+
+   * - **Conversations on other topics**
+     - **關於其他主題的對話**
+
+   * - Strangely enough, neither the Vibhaṅga nor the Commentary makes mention of conversations with women that do not touch on the Dhamma. The Sub-commentary notes this, and in one of its rare stabs at humor concludes, “It’s perfectly all right to talk as much as you like about Tamils and that sort of thing.”
+
+     - 奇怪的是，《經分別》和《義註》都沒有提到與女性的不涉及佛法的對話。《複註》中提到了這一點，並在一次罕見的幽默嘗試中總結道：「你想怎麼談論泰米爾人或類似的事情，完全沒問題。」
+
 (未完待續)
