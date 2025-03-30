@@ -1382,4 +1382,22 @@
 .. _《不定》一: {filename}Section0012%zh-hant.rst#Ay1
 .. _二: {filename}Section0012%zh-hant.rst#Ay2
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if, after the bhikkhu teaches the woman six sentences of Dhamma, either he or she changes position—stands up, sits down, etc.—and he continues with six more sentences. This point was most likely included to indicate separate conversations. Once a bhikkhu has taught five or six sentences to a woman, he may teach her again when they meet again and is not condemned to silence for the rest of his life.
+
+     - 如果比丘教導了女人六句佛法之後，他或她改變姿勢——站起來、坐下等等——然後繼續另外六句話，並不犯戒。這一點很可能是為了表明不同的對話。一旦比丘向一位女人教導了五六句話，他可以在他們再次見面時再次教導她，而不會被判處終身沉默。
+
+   * - Another exemption is that a bhikkhu, after teaching six sentences of Dhamma to one woman, may turn and teach six more sentences to another without incurring a penalty. Thus the Commentary notes that a bhikkhu addressing an assembly of 100 women may teach them a total of 600 sentences of Dhamma if he aims each set of six at a different woman.
+
+     - 另一項豁免是，比丘在向一名女人教導了六句佛法之後，可以轉而向另一名女人教導另外六句，而不會受到懲罰。因此，《義註》指出，如果一位比丘對著 100 名女人的集會發表演說，如果他將每六句佛法針對不同的女人，那麼他總共可以向她們教導 600 句佛法。
+
+   * - A third exemption is that there is no penalty for a bhikkhu who is teaching Dhamma to someone else, and a woman happens to be listening in.
+     - 第三個豁免是，如果比丘正在向其他人教導佛法，而有一位女人恰好在聽，則不會受到懲罰。
+
 (未完待續)
