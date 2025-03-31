@@ -299,7 +299,7 @@
      - `\　　　七 <{filename}Section0016%zh-hant.rst#Pc7>`__
 
    * - `\　　　8 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc8>`__
-     - 　　　八
+     - `\　　　八 <{filename}Section0016%zh-hant.rst#Pc8>`__
 
    * - `\　　　9 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9>`__
      - 　　　九

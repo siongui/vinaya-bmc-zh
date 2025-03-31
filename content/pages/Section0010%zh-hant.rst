@@ -1814,8 +1814,7 @@
      - 與\ `《波逸提》一`_\ 的《經分別》不同，本戒條的《經分別》不考慮這樣的情況：一位比丘懷疑自己的成就，卻將其陳述為不容置疑的事實。這表明，《經分別》的編撰者認為這裡的完全違犯只適用於比丘毫無疑問地知道他對上人法的聲稱是不真實的情況。由此可見，如果對自己是否達到這樣一種境界有疑問，但又明確聲稱達到這種境界，那麼就會在\ `《波逸提》一`_\ 戒條下犯《波逸提》。
 
 .. _Pc 8: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc8
-.. _《波逸提》八: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc8
-.. TODO FIXME: replace link to 《波逸提》八
+.. _《波逸提》八: {filename}Section0016%zh-hant.rst#Pc8
 
 
 .. list-table::

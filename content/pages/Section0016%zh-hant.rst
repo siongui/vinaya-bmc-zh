@@ -1421,4 +1421,49 @@
    \*    \*    \*
 
 
+.. _Pc8:
+
+.. raw:: html
+
+   <span id="Pc8"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **8**
+     - **八**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu report (his own) superior human state to an unordained person, when it is factual, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘向未受具足戒的人報告（他自己的）上人法，如果這是事實，波逸提。*
+
+   * - The factors for the full offense here are two:
+     - 此處完全違犯的因素有二：
+
+   * - .. container:: mx-2
+
+          *1) Effort:* One reports one’s actual attainment of a superior human state
+
+     - .. container:: mx-2
+
+          *1）努力：*\報告自己實際達到的上人法
+
+   * - .. container:: mx-2
+
+          *2) Object:* to an unordained person, i.e., any human being who is not a bhikkhu or bhikkhunī.
+
+     - .. container:: mx-2
+
+          *2）對象：*\非受具足戒者，即不是比丘或比丘尼的任何人。
+
+   * - The commentaries add an extra factor here—result—but this is based on the same misunderstanding that led them to add the same factor to `Pr 4`_. See the explanation under “Understanding,” below.
+
+     - 註釋書在這裡添加了一個額外的因素——結果——但這是基於相同的誤解，導致他們在\ `《波羅夷》四`_\ 中添加了相同的因素。請參閱下面「理解」下的解釋。
+
+
 (未完待續)
