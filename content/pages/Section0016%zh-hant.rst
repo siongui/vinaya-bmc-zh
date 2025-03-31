@@ -1400,4 +1400,25 @@
    * - A third exemption is that there is no penalty for a bhikkhu who is teaching Dhamma to someone else, and a woman happens to be listening in.
      - 第三個豁免是，如果比丘正在向其他人教導佛法，而有一位女人恰好在聽，則不會受到懲罰。
 
+   * - Finally, as noted above, if a woman asks a bhikkhu a question, he may give her a talk even if no other man is present. This exemption is common to all the rules that deal with instructing women (see `Pc 21`_ & 22_), but precisely what it means is somewhat uncertain, as none of the texts define how teaching Dhamma *(dhammaṁ deseti)* differs from giving a talk *(katheti)*, if they differ at all. The Commentary notes simply that in giving a talk one is not limited to six sentences; its example of a ‘talk’ is a recitation of the complete Dīgha Nikāya (!), which shows that, as far as the commentators are concerned, teaching Dhamma and giving a talk are essentially the same. Thus a bhikkhu may answer a woman’s question about Dhamma with a talk including as many sentences of Dhamma as he needs to make his point clear.
+
+     - 最後，如上所述，如果一個女人向比丘問一個問題，即使在場沒有其他男人，比丘也可以和她談話。這種豁免在所有涉及教導女性的戒條中都很常見（見\ `《波逸提》二一`_\ 和\ `二二`_\ ），但它的具體含義有些不確定，因為沒有任何文獻定義教導佛法\ *（dhammaṁ deseti）*\ 與講說\ *（katheti）*\ 有何不同，如果它們有任何區別的話。《義註》只是指出，講說不限於六句話；其「講說」的例子是朗誦完整的《長部》（！），這表明，就註釋者而言，教導佛法和講說本質上是一樣的。因此，比丘可以在講說用他所需盡可能多的佛法句子來回答女人關於佛法的問題，以闡明他的觀點。
+
+   * - This allowance is important in that it honors a woman’s desire to understand the Dhamma. A wise policy, though, would be to show restraint in such situations. The relationship of male teacher to female student has a long, well-known history of getting out of hand. Even if a bhikkhu is in control of himself in such conversations, passers-by—and the woman herself—can easily misconstrue his words and actions. So, wherever possible, he should go out of his way to guard himself against suspicion and misunderstandings in such cases by having a man present when talking alone with a woman, even though the special exemption is made.
+
+     - 這項開緣很重要，因為它尊重了女性理解佛法的願望。不過，在這種情況下，明智之舉是保持克制。男導師與女弟子之間的關係由來已久，眾所周知，這種關係很容易失控。即使比丘在這樣的談話中能夠控制自己，路人——包括女人自己——也很容易誤解他的話語和行為。因此，只要有可能，他應該盡量保護自己避免在這種情況下產生懷疑和誤解，在與女性單獨交談時最好有一位男性在場，即使有特殊豁免。
+
+   * - *Summary: Teaching more than six sentences of Dhamma to a woman, except in response to a question, is a pācittiya offense unless a knowledgeable man is present.*
+     - *摘要：除了是為了回答問題，否則向女性教導超過六句佛法，是《波逸提》（《單墮》）罪，除非有知識淵博的男性在場。*
+
+.. _22: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc22
+.. _二二: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc22
+.. TODO FIXME: replace link to 《波逸提》二二
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
