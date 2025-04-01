@@ -1465,5 +1465,26 @@
 
      - 註釋書在這裡添加了一個額外的因素——結果——但這是基於相同的誤解，導致他們在\ `《波羅夷》四`_\ 中添加了相同的因素。請參閱下面「理解」下的解釋。
 
+   * - **Effort**
+     - **努力**
+
+   * - Effort is the only factor requiring explanation here.
+     - 努力是這裡唯一需要解釋的因素。
+
+   * - The meaning of *superior human state* is discussed at length under `Pr 4`_. In brief, it covers (a) jhāna, (b) the cognitive powers that can arise as its result, and (c) the transcendent attainments.
+
+     - `《波羅夷》四`_\ 詳細討論了\ *上人法*\ 的意義。簡言之，它涵蓋（a）禪那，（b）由此結果而產生的感知能力，以及（c）出世間的成就。
+
+   * - *Factual* is not explained in the texts, but probably means factual from the bhikkhu’s own point of view. In other words, regardless of whether he has actually attained a superior human state, if he thinks he has and reports it to an unordained person, he commits an offense all the same. If he actually has attained such a state, e.g., jhāna, but thinks he hasn’t, and yet claims that he has—in other words, he is telling what he thinks to be a lie—he incurs a pārājika.
+
+     - 文獻中沒有解釋\ *事實*\ ，但可能意味著從比丘自己的角度來看為事實。換句話說，不管他實際上是否已經達到上法，如果他認為自己已經達到，並向沒有受具足戒的人報告，那麼他就同樣犯了戒。如果他實際上已達到這種狀態，例如禪那，但認為自己還沒有，卻又聲稱自己已經達到——換句話說，他在說自認為是謊言的話——他就犯了《波羅夷》。
+
+   * - To report, says the Vibhaṅga, means to speak directly of one’s own attainments, as explained under `Pr 4`_\—i.e., to claim that the state is present in oneself or that one is present in the state. To speak indirectly of one’s own attainments—e.g., “The bhikkhu who lives in this dwelling enters jhāna at will”—entails a dukkaṭa. According to the Commentary, gestures fall under this rule as well. Thus, if a bhikkhu who has attained stream-entry nods when asked by a lay person if he has any noble attainments, his nod would fulfill the factor of effort here. As under `Pr 4`_, the use of idioms to express a superior human attainment would fulfill the factor of effort as well.
+
+     - 《經分別》中說，報告的意思是直接談論自己的成就，如\ `《波羅夷》四`_\ 所解釋的，即聲稱這種狀態存在於自己身上或自己處於這種狀態中。間接地談論自己的成就——例如，「住在此住處的比丘隨意進入禪那」——犯《突吉羅》。根據《義註》，示意動作也屬於本戒條。因此，如果一位已證入流果的比丘在被俗人問及他是否有任何聖成就時點頭，他的點頭就滿足了這裡的努力因素。如\ `《波羅夷》四`_\ 所述，使用成語來表達上人法也會滿足努力因素。
+
+   * - The origin story to this rule deals with bhikkhus who, as a tactic for getting almsfood in a time of scarcity, had agreed to speak of one another’s superior human states to householders. This would seem to suggest that to speak of another bhikkhu’s actual attainment of superior human states with such motives in mind—e.g., hoping to get a share of the increased gains he might receive—should entail a penalty too, but none of the texts mention this point, so it is not an offense. Still, any bhikkhu who plans to act in such a way, on the grounds that whatever is not an offense is perfectly all right, should remember that the Buddha criticized the bhikkhus in the origin story in very strong terms.
+
+     - 本戒條的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0031a03>`__\ 與比丘有關，作為在食物匱乏時獲取施捨食物的策略，他們同意向在家人講述彼此的上人法。這似乎意味著，如果心中以這樣的動機談論另一位比丘實際上達到了上人法——例如，希望獲得他可能得到的增加的收益的一部分——也應該受到懲罰，但沒有任何文獻提到這一點，所以這並不是一種犯戒。然而，任何比丘如果打算這樣做，理由是只要不構成犯戒，就完全沒問題，那麼他應該記住，佛陀非常嚴厲地批評了在起源故事中的比丘們。
 
 (未完待續)
