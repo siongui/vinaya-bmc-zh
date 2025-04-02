@@ -1487,4 +1487,19 @@
 
      - 本戒條的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0031a03>`__\ 與比丘有關，作為在食物匱乏時獲取施捨食物的策略，他們同意向在家人講述彼此的上人法。這似乎意味著，如果心中以這樣的動機談論另一位比丘實際上達到了上人法——例如，希望獲得他可能得到的增加的收益的一部分——也應該受到懲罰，但沒有任何文獻提到這一點，所以這並不是一種犯戒。然而，任何比丘如果打算這樣做，理由是只要不構成犯戒，就完全沒問題，那麼他應該記住，佛陀非常嚴厲地批評了在起源故事中的比丘們。
 
+   * - **Understanding**
+     - **理解**
+
+   * - The Vibhaṅga contains a series of situations in which understanding is a factor, paralleling a similar series given under `Pr 4`_. In each of the situations, a bhikkhu means to claim one superior human state but ends up claiming another. None of the texts mention this point, but apparently in these cases the state intended has to be actually present within him, whereas the state mentioned by mistake does not. At any rate, if he realizes his slip of the tongue, he incurs a pācittiya; if not, a dukkaṭa.
+
+     - `《經分別》包含一系列以理解為因素的情況 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0037a08>`_\ ，與\ `《波羅夷》四`_\ 所舉的一系列類似情況相似。在每一種情況下，比丘都想宣稱一種上人法，但最終卻宣稱另一種。沒有任何文獻提到這一點，但顯然在這些情況下，預期的狀態必須實際存在於他身上，而錯誤提到的狀態卻不存在。無論如何，如果他意識到自己的口誤，犯《波逸提》；如果沒有意識到，犯《突吉羅》。
+
+   * - Unlike `Pr 4`_, the bhikkhu’s understanding when he makes an indirect claim to a superior human state here is not an issue. He incurs a dukkaṭa whether he understands the implications of his statement or not.
+
+     - 與\ `《波羅夷》四`_\ 不同的是，當比丘在此間接聲稱上人法時，他的理解並不成問題。無論他是否理解自己言論的涵義，他都犯《突吉羅》。
+
+   * - *Intention* is not a factor under this rule. Thus, whether one has a skillful or an unskillful motive for mentioning one’s factual superior human attainments to an unordained person is irrelevant to the offense.
+
+     - 根據本戒條，\ *意圖*\ 不是一個因素。因此，向未受具足戒的人提及自己事實的上人法時，其動機是否善或惡，與犯戒無關。
+
 (未完待續)
