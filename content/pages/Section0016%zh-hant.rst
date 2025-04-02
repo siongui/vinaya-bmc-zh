@@ -1509,4 +1509,36 @@
 
      - 《經分別》只列出了兩條不犯條款：向另一位比丘或比丘尼報告自己上人法成就並不犯戒，並且最初犯本戒條的人也不犯戒。《義註》指出，精神失常者沒有一般的豁免，並解釋如下：達到任何聖成就的人永遠不會變得精神失常；已達到禪那的人只有在失去達到禪那的能力後才會變得精神失常。後一類的比丘無權聲稱禪那是「存在於他自己身上」的狀態，因此不值得根據本戒條獲得豁免。然而，最後一點與《經分別》相衝突，《經分別》包括以過去時態陳述的聲稱——例如「我已經達到初禪」——作為合法聲稱的例子。對於本戒條下缺乏全面豁免的更可能的解釋是，它們已經根據\ `《波羅夷》四`_\ 獲得豁免。
 
+   * - As for the first exemption, allowing a bhikkhu to claim his factual attainments to another bhikkhu or bhikkhunī, a series of stories in the Vinīta-vatthu to `Pr 4`_ raises some points to bear in mind in such situations. A typical example—the stories differ only in minor details—is this:
+
+     - 至於第一項豁免，即允許比丘向另一位比丘或比丘尼聲稱其實際成就，\ `《波羅夷》四`_\ 的《Vinīta_-vatthu_》中的一系列故事提出了一些在這種情況下需要牢記的要點。一個典型的例子——這些故事只在細節上有所不同——是這樣的：
+
+   * - .. container:: mx-2
+
+          “Then Ven. Mahā Moggallāna, as he was descending Vulture Peak Mountain, smiled at a certain place. Ven. Lakkhaṇa said to him, ‘Friend Moggallāna, what is the reason, what is the cause for your smile?’
+
+     - .. container:: mx-2
+
+          「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0144a01>`__\ ，摩訶目犍連尊者從\ `靈鷲山`_\ 下來時，對著某處微笑。勒佉㝹尊者對他說：『目犍連朋友，您微笑的因緣是什麼？』
+
+   * - .. container:: mx-2
+
+          “‘This is not the time, friend Lakkhaṇa, to answer this question. Ask me in the presence of the Blessed One.’
+
+     - .. container:: mx-2
+
+          「『勒佉㝹朋友，現在不是回答這個問題的時候。在世尊面前問我。』
+
+   * - .. container:: mx-2
+
+          “So Ven. Lakkhaṇa and Ven. Mahā Moggallāna… went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As they were sitting there, Ven. Lakkhaṇa said to Ven. Mahā Moggallāna, ‘Just now, friend Moggallāna… you smiled. What was the reason, what was the cause for your smile?’
+
+     - .. container:: mx-2
+
+          「於是，勒佉㝹尊者和摩訶目犍連尊者……來到世尊面前，一到世尊面前，便向世尊頂禮，坐在一邊。當他們坐在那裡時，勒佉㝹尊者對摩訶目犍連尊者說：『剛才，目犍連朋友……你微笑了。你微笑的因緣是什麼？』
+
+.. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
+.. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
+.. _靈鷲山: https://zh.wikipedia.org/wiki/%E7%81%B5%E9%B9%AB%E5%B1%B1_(%E5%8D%B0%E5%BA%A6)
+
 (未完待續)
