@@ -1502,4 +1502,11 @@
 
      - 根據本戒條，\ *意圖*\ 不是一個因素。因此，向未受具足戒的人提及自己事實的上人法時，其動機是否善或惡，與犯戒無關。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The Vibhaṅga lists only two non-offense clauses: There is no offense in reporting one’s own superior human attainments to another bhikkhu or to a bhikkhunī, and there is no offense for the original instigators of the rule. The Commentary, noting the absence of the usual exemption for one who is insane, explains it as follows: A person who has attained any of the noble attainments can never become insane; a person who has attained jhāna can become insane only after his/her ability to attain jhāna has been lost. A bhikkhu in the latter category has no right to claim jhāna as a state “present in himself” and therefore does not deserve an exemption under this rule. This last point, however, conflicts with the Vibhaṅga, which includes claims stated in the past tense—for example, “I have attained the first jhāna”—as examples of legitimate claims. A more likely explanation for the lack of the blanket exemptions under this rule is that they are already exempted under `Pr 4`_.
+
+     - 《經分別》只列出了兩條不犯條款：向另一位比丘或比丘尼報告自己上人法成就並不犯戒，並且最初犯本戒條的人也不犯戒。《義註》指出，精神失常者沒有一般的豁免，並解釋如下：達到任何聖成就的人永遠不會變得精神失常；已達到禪那的人只有在失去達到禪那的能力後才會變得精神失常。後一類的比丘無權聲稱禪那是「存在於他自己身上」的狀態，因此不值得根據本戒條獲得豁免。然而，最後一點與《經分別》相衝突，《經分別》包括以過去時態陳述的聲稱——例如「我已經達到初禪」——作為合法聲稱的例子。對於本戒條下缺乏全面豁免的更可能的解釋是，它們已經根據\ `《波羅夷》四`_\ 獲得豁免。
+
 (未完待續)
