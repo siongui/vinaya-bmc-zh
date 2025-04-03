@@ -1569,4 +1569,31 @@
 .. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
 .. _靈鷲山: https://zh.wikipedia.org/wiki/%E7%81%B5%E9%B9%AB%E5%B1%B1_(%E5%8D%B0%E5%BA%A6)
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Displaying psychic powers**
+     - **展示神通**
+
+   * - A related rule at `Cv.V.8.2`_ states that to display psychic powers to lay people is a dukkaṭa. In the origin story leading up to that rule, the Buddha levels strong criticism at such an act: “Just as a woman might expose her vagina for a miserable wooden *māsaka* coin, so too have you displayed a superior human state, a wonder of psychic power, to lay people for the sake of a miserable wooden bowl.”
+
+     - `《小品》.五.8.2`_ 中的相關戒條規定，向俗人展示神通力犯《突吉羅》。在制定該戒條的起源故事中，佛陀對這種行為提出了強烈的批評：「就像一個女人會為了一枚可憐的木製 *māsaka* 硬幣而暴露她的陰道一樣，你也為了一個可憐的木缽，向俗人展示了上人法，神通奇蹟。」
+
+   * - To display psychic powers to anyone who is not a lay person, though, is no offense. Thus, given the way these two rules are framed, one may not tell a novice of one’s powers but may levitate before his very eyes.
+
+     - 然而，向任何非俗人展示神通並不犯戒。因此，根據這兩條戒條的制定方式，不可告訴沙彌自己的能力，但可以在他眼前懸浮起來。
+
+   * - *Summary: To tell an unordained person of one’s actual superior human attainments is a pācittiya offense.*
+     - *摘要：告訴未受具足戒者自己實際的上人法，是《波逸提》（《單墮》）罪。*
+
+.. _Cv.V.8.2: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.8.2
+.. _《小品》.五.8.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0151a13
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
