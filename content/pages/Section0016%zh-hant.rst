@@ -1537,6 +1537,34 @@
 
           「於是，勒佉㝹尊者和摩訶目犍連尊者……來到世尊面前，一到世尊面前，便向世尊頂禮，坐在一邊。當他們坐在那裡時，勒佉㝹尊者對摩訶目犍連尊者說：『剛才，目犍連朋友……你微笑了。你微笑的因緣是什麼？』
 
+   * - .. container:: mx-2
+
+          “‘Just now, my friend… I saw a man immersed head and all in a pit of excrement, feeding on excrement with both hands. The thought occurred to me, “Isn’t it amazing, isn’t it astounding, that there is a being even like this….”’
+
+     - .. container:: mx-2
+
+          「『剛才，我的朋友……我看到一個男人頭和全身都浸在糞坑裡，用雙手吃著糞土。我突然想到，「難道這不令人驚奇，難道這不令人震驚，竟然還有這樣的生物……」』
+
+   * - .. container:: mx-2
+
+          “Bhikkhus criticized and complained and spread it about, ‘Ven. Moggallāna is boasting of a superior human state!’
+
+     - .. container:: mx-2
+
+          「比丘們批評、抱怨並四處散播：『目犍連尊者誇耀上人法！』
+
+   * - .. container:: mx-2
+
+          “Then the Blessed One said to the bhikkhus, ‘Actually, bhikkhus, there *are* disciples of vision and knowledge who will know or see or bear witness like this. Once I myself saw that being but I didn’t disclose it. Had I disclosed it, others would not have believed me… and that would have been to their long-term pain and detriment. That being, bhikkhus, was once a corrupted brahman right in this very same Rājagaha. He, in the time of the Buddha Kassapa, having invited a Community of bhikkhus to a meal, having filled a trough with excrement and announcing the time, said, “Venerable sirs, eat from this and take with you as much as you like.” Having been boiled in hell as a result of that action for many years, many hundreds of years, many thousands of years, many hundreds of thousands of years, he is now—through the remainder of the result of that very same action—experiencing existence as an individual like this. Moggallāna spoke truly, bhikkhus. There is no offense for him.’”
+
+     - .. container:: mx-2
+
+          「然後世尊對比丘們說：『比丘們，實際上，\ *有*\ 知見的弟子會知道、看到或見證這樣的事。我曾經親眼看到那個眾生，但我沒有透露。如果我透露了，其他人不會相信我……那將給他們帶來長期的痛苦和損害。比丘們，那個人曾經就是這個王舍城裡的墮落婆羅門。在迦葉佛的時代，他邀請一群比丘僧團來吃飯，用糞盆裝滿糞便，然後宣佈時間說：「大德們，請吃這個，想拿多少就拿多少。」由於這一行為，他在地獄中被煎熬了很多年、幾百年、幾千年、幾十萬年，現在，他——透過該同一行為的剩餘果報——感受如是自體之存在。比丘們，目犍連言語真實。他沒有犯戒。』」
+
+   * - Ven. Moggallāna’s conduct here—waiting until he is in the presence of his teacher before relating his vision—has become a model for conduct among meditators, for as the bhikkhus’ reaction and the Buddha’s comments make clear, there are situations where the act of relating one’s visions, etc., even when allowed, will serve no positive purpose.
+
+     - 此處目犍連尊者的行為——等到他的老師面前才講述他的所見——已經成為禪修者行為的典範，因為正如比丘們的反應和佛陀的評論所表明的那樣，在某些情況下，講述自己所見的行為等等，即使被允許，也不會起到任何積極的作用。
+
 .. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
 .. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
 .. _靈鷲山: https://zh.wikipedia.org/wiki/%E7%81%B5%E9%B9%AB%E5%B1%B1_(%E5%8D%B0%E5%BA%A6)
