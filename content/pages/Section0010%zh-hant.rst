@@ -853,8 +853,7 @@
 .. _Cv.I.20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.20
 .. _《小品》.一.20: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0024a12
 .. _Pc 9: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
-.. _《波逸提》九: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
-.. TODO FIXME: replace link to 《波逸提》九
+.. _《波逸提》九: {filename}Section0016%zh-hant.rst#Pc9
 
 
 .. list-table::

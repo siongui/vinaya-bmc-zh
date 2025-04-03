@@ -2632,8 +2632,7 @@
 .. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
 .. _Pc 9: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
-.. _《波逸提》九: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
-.. TODO FIXME: replace link to 《波逸提》九
+.. _《波逸提》九: {filename}Section0016%zh-hant.rst#Pc9
 .. _AN 5\:78: https://www.dhammatalks.org/suttas/AN/AN5_78.html
 .. _《增支部》5\:78經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%B8%83%E5%8D%81%E5%85%AB%E6%9C%AA%E4%BE%86%E4%B9%8B%E4%BA%8C
 

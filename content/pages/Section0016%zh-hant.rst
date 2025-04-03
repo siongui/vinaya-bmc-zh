@@ -1596,4 +1596,25 @@
    \*    \*    \*
 
 
+.. _Pc9:
+
+.. raw:: html
+
+   <span id="Pc9"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **9**
+     - **九**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu report (another) bhikkhu’s serious offense to an unordained person—unless authorized by the bhikkhus—it is to be confessed.*
+
+     - .. container:: notification
+
+          *若任何比丘向非受具足戒者告知（另一位）比丘的嚴重罪行 —— 除非得到比丘的授權 —— 波逸提。*
+
 (未完待續)

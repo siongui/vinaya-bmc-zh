@@ -230,9 +230,7 @@
 
    * - Still, the existence of this belief in the 5th century placed certain constraints on Buddhaghosa’s work. At points where the ancient commentaries conflicted with the Canon, he had to write the discrepancies off as copier’s mistakes or else side with the commentaries against the Canon. At a few points, such as his explanation of `Pc 9 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9>`__, he provides arguments effectively demolishing the ancient commentaries’ interpretation but then backs off, saying that the ancient commentaries must be right because their authors knew the Buddha’s intentions. Perhaps pressure from the elder bhikkhus at the Mahāvihāra in Anurādhapura—the place where the ancient commentaries had been preserved and where Buddhaghosa was allowed to do his work—was what made him back off in this way. At any rate, only on points where the different ancient commentaries were silent or gave divergent opinions did he feel free to express his own.
 
-     - 儘管如此，這種在五世紀存在的相信還是對佛音的作品造成了一定的限制。當古代註釋與《聖典》發生衝突時，他必須將這些差異作為抄寫者的錯誤予以記錄，否則就站在反對《聖典》的註釋一邊。在一些要點上，例如他對\ `《波逸提》九 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9>`__\ 的解釋，他提供了有效地推翻古代註釋解釋的論據，但隨後又退縮了，說古代註釋一定是正確的，因為它們的作者知道佛陀的意圖。也許是來自 `阿㝹羅陀補羅 大寺`_ 的長老比丘們的壓力——那裡保存著古代註釋，佛音也被允許在那裡做他的工作——是讓他如此退縮的原因。無論如何，只有在不同的古代註釋沒有提及或有不同意見的地方，他才可以自由地表達自己的觀點。
-
-       .. TODO FIXME: replace link to 《波逸提》九
+     - 儘管如此，這種在五世紀存在的相信還是對佛音的作品造成了一定的限制。當古代註釋與《聖典》發生衝突時，他必須將這些差異作為抄寫者的錯誤予以記錄，否則就站在反對《聖典》的註釋一邊。在一些要點上，例如他對\ `《波逸提》九 <{filename}Section0016%zh-hant.rst#Pc9>`__\ 的解釋，他提供了有效地推翻古代註釋解釋的論據，但隨後又退縮了，說古代註釋一定是正確的，因為它們的作者知道佛陀的意圖。也許是來自 `阿㝹羅陀補羅 大寺`_ 的長老比丘們的壓力——那裡保存著古代註釋，佛音也被允許在那裡做他的工作——是讓他如此退縮的原因。無論如何，只有在不同的古代註釋沒有提及或有不同意見的地方，他才可以自由地表達自己的觀點。
 
        ..
           http://old.ddc.shengyen.org/mobile/text/02-01/155.php

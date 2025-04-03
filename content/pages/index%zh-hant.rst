@@ -302,7 +302,7 @@
      - `\　　　八 <{filename}Section0016%zh-hant.rst#Pc8>`__
 
    * - `\　　　9 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9>`__
-     - 　　　九
+     - `\　　　九 <{filename}Section0016%zh-hant.rst#Pc9>`__
 
    * - `\　　　10 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10>`__
      - 　　　十
