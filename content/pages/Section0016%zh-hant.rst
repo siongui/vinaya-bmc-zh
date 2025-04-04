@@ -1634,4 +1634,24 @@
    * - *2) Effort:* One reports it to an unordained person without having been authorized to do so by the Community.
      - *2）努力：*\ 未經僧團授權，就向非受具足戒人告知。
 
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga states that *serious offense* means any of the four pārājika or thirteen saṅghādisesa offenses, while Buddhaghosa reports the ancient commentaries as saying that it covers only the saṅghādisesas. His discussion of this point is interesting for the light it throws on the history of the texts: He presents two arguments for the commentaries’ position, effectively demolishes them, but then backs down and ends up siding with them. Why he does this is hard to say, although it may be that he himself disagreed with the ancient commentaries on this point but was forced to side with them by the elders of the Mahāvihāra who were responsible for putting the seal of approval on his work.
+
+     - 《經分別》說，\ *嚴重罪行*\ 是指四種《波羅夷》罪或十三種《僧殘》罪中任何一種，而\ `佛音`_\ 引述古代註釋書說，嚴重罪行僅涵蓋《僧殘》。他對這一點的討論很有趣，因為它揭示了文獻的歷史：他為註釋書的立場提出了兩個論點，有效地駁斥了它們，但後來又退縮並最終站在了他們一邊。他為什麼這樣做很難說，雖然很可能他自己不同意古代對這一點的註釋，但被負責批准他的作品的\ `大寺`_\ 長老們強迫站在他們這邊。
+
+   * - At any rate, the details of the argument lie outside the scope of this guide. The Vinaya-mukha has already adopted Buddhaghosa’s arguments against the ancient commentaries here, and we will simply follow our usual policy of siding with the Vibhaṅga wherever the other texts depart from it. *Serious offense* means both the four pārājikas and the thirteen saṅghādisesas.
+
+     - 無論如何，爭論的細節超出了本指南的範圍。《戒律入口》已經採納了\ `佛音`_\ 的論點來反對這裡的古代註釋書，而我們將僅遵循我們一貫的政策，即在其他文獻與《經分別》相悖的地方站在《經分別》這一方。\ *嚴重罪行*\ 是指四《波羅夷》和十三《僧殘》。
+
+   * - A bhikkhu’s non-serious offenses are grounds for a dukkaṭa.
+     - 比丘的非嚴重罪行則犯《突吉羅》。
+
+   * - Perception as to whether the bhikkhu’s offense is serious is not a mitigating factor. If it actually is serious, then whether one perceives it as serious, not serious, or doubtful, it is grounds for a pācittiya. If it actually is not serious, then regardless of how one perceives it, it is grounds for a dukkaṭa. In other words, the pattern set out under `Pc 4`_ does not hold here.
+
+     - 對比丘的罪行是否嚴重的感知並不是減輕懲罰的因素。如果確實嚴重，那麼無論認為它嚴重、不嚴重，還是有疑問，都犯《波逸提》。如果實際上並不嚴重，那麼無論如何感知它，都犯《突吉羅》。換句話說，\ `《波逸提》四`_\ 所列出的模式在這裡並不成立。
+
+.. _大寺: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA
+
 (未完待續)
