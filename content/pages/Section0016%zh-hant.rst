@@ -1617,4 +1617,21 @@
 
           *若任何比丘向非受具足戒者告知（另一位）比丘的嚴重罪行 —— 除非得到比丘的授權 —— 波逸提。*
 
+   * - .. container:: mx-2
+
+          “At that time Ven. Upananda the Sakyan had gotten into a quarrel with some group-of-six bhikkhus. Having committed an offense of intentional emission of semen, he asked the Community to grant him probation…. Now at that time a certain guild in Sāvatthī was presenting a meal to the Community. Ven. Upananda, being on probation, sat in the last seat in the meal hall. The group-of-six bhikkhus said to the lay people, ‘Friends, this Ven. Upananda the Sakyan, your esteemed dependent, emitted semen having attacked (himself) with the very same hand with which he is eating your gift of faith…. (This is why), being on probation, he is sitting in the last seat.’”
+
+     - .. container:: mx-2
+
+          「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0039a07>`__\ ，釋迦族烏跋難陀尊者與六群比丘發生爭執。他犯了故意出精的罪，因此請求僧團給予別住……當時，舍衛城的某個行會正在為僧團提供一頓飯。處於別住中的烏跋難陀尊者坐在食堂的最後一個座位上。那六群比丘對居士們說：『各位朋友，這位釋迦族烏跋難陀尊者，您的尊貴眷屬，用吃您的信施的同一隻手攻擊（他自己），然後射精了……（這就是為什麼）處於別住中，他坐在最後一個座位上。
+
+   * - There are two factors for the full offense here:
+     - 此處的完全違犯有兩個因素：
+
+   * - *1) Object:* a serious offense committed by another bhikkhu.
+     - *1）對象：*\ 另一位比丘所犯下的嚴重罪行。
+
+   * - *2) Effort:* One reports it to an unordained person without having been authorized to do so by the Community.
+     - *2）努力：*\ 未經僧團授權，就向非受具足戒人告知。
+
 (未完待續)
