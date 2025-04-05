@@ -1632,7 +1632,7 @@
      - *1）對象：*\ 另一位比丘所犯下的嚴重罪行。
 
    * - *2) Effort:* One reports it to an unordained person without having been authorized to do so by the Community.
-     - *2）努力：*\ 未經僧團授權，就向非受具足戒者告知。
+     - *2）努力：*\ 未經僧團授權，就向未受具足戒者告知。
 
    * - **Object**
      - **對象**
@@ -1665,5 +1665,27 @@
      - 這也有助於維護施主的信心：他們可以為比丘提供支持，而不必擔心接受支持的人會在背後議論他們修行上的失誤。如果施主得知比丘\ *在*\ 說他們的閒話，他們可能會感到非常厭惡，以至於撤回對整個宗教的支持。
 
 .. _大寺: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - *Unordained person* here means anyone who is not a bhikkhu or a bhikkhunī.
+     - 此處的\ *未受具足戒者*\ 指的是除比丘或比丘尼之外的任何人。
+
+   * - To report an offense to an unordained person means to tell him/her both the action and the class of the offense. Thus, to say, “Ven. Upananda committed a saṅghādisesa by masturbating,” would fulfill the factor of effort here; while to say simply, “Ven. Upananda committed a saṅghādisesa,” or “Ven. Upananda masturbated,” would not, and would not even be grounds for a lesser offense. None of the texts discuss the question of whether the same principle would apply to the offenses of an unordained person.
+
+     - 向未受具足戒者告知犯戒意味著告訴他/她犯戒的行為和種類。因此，說「烏跋難陀尊者透過自慰犯了《僧殘》」，就滿足了這裡的努力因素；而僅說「烏跋難陀尊者犯了《僧殘》」或「烏跋難陀尊者自慰」則不算，甚至不能構成較輕的罪行。沒有任何文獻討論過同一原則是否適用於未受具足戒者的罪行的問題。
+
+   * - This allowance, which looks strange on the surface, was made apparently for such cases as when a lay person, seeing a senior bhikkhu sitting at the end of the line, might ask one of the other bhikkhus why. A bhikkhu would be well-advised, though, to examine his motives before making use of this allowance, for to take advantage of it to discredit a fellow bhikkhu would be to incur a dukkaṭa under `Pc 13`_. Though the penalty is minor, little acts and minor offenses of this sort are often the ones most destructive to the harmony of the Community.
+
+     - 這種開緣表面上看起來很奇怪，顯然是為了應對這樣的情況：當一個俗人看到一位資深比丘坐在隊伍的末尾，可能會問另一個比丘為什麼。然而，比丘在利用這項開緣之前，最好先檢查一下自己的動機，因為利用它來使比丘同儕名譽受損，根據\ `《波逸提》十三`_\ 犯《突吉羅》。雖然懲罰很輕，但這種小行為和小過失往往對僧團的和諧最具破壞性。
+
+   * - None of the texts state that the person whose offense is being reported has to be mentioned explicitly to fulfill this factor. Thus, apparently, implicit references (“The bhikkhu who lives in that dwelling committed a saṅghādisesa by masturbating”) would fulfill the factor of effort here as well.
+
+     - 沒有任何文獻指出必須明確提及被報導的罪行的人才能滿足這一因素。因此，顯然，隱含的提及（「住在那住處的比丘透過自慰犯了《僧殘》」）在這裡也滿足了努力的因素。
 
 (未完待續)
