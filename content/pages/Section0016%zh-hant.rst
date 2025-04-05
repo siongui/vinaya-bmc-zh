@@ -1632,7 +1632,7 @@
      - *1）對象：*\ 另一位比丘所犯下的嚴重罪行。
 
    * - *2) Effort:* One reports it to an unordained person without having been authorized to do so by the Community.
-     - *2）努力：*\ 未經僧團授權，就向非受具足戒人告知。
+     - *2）努力：*\ 未經僧團授權，就向非受具足戒者告知。
 
    * - **Object**
      - **對象**
@@ -1651,6 +1651,18 @@
    * - Perception as to whether the bhikkhu’s offense is serious is not a mitigating factor. If it actually is serious, then whether one perceives it as serious, not serious, or doubtful, it is grounds for a pācittiya. If it actually is not serious, then regardless of how one perceives it, it is grounds for a dukkaṭa. In other words, the pattern set out under `Pc 4`_ does not hold here.
 
      - 對比丘的罪行是否嚴重的感知並不是減輕懲罰的因素。如果確實嚴重，那麼無論認為它嚴重、不嚴重，還是有疑問，都犯《波逸提》。如果實際上並不嚴重，那麼無論如何感知它，都犯《突吉羅》。換句話說，\ `《波逸提》四`_\ 所列出的模式在這裡並不成立。
+
+   * - An unordained person’s misbehavior—serious or not—is also grounds for a dukkaṭa. (§—BD translates the passage on which this last point is based as, “tells one who is not ordained of a transgression” when it should read, “tells of an unordained person’s transgression.”) According to the Commentary, *serious misbehavior* on the part of an unordained person means breaking any of the five precepts. Anything else would count as not serious.
+
+     - 未受具足戒者的不當行為──無論嚴重與否──也構成《突吉羅》。（§—《戒律書》將最後一點所依據的段落翻譯為「告訴未受具足戒者違犯」，而應讀為「告訴未受具足戒者的違犯」。）根據《義註》，未受具足戒者的\ *嚴重不當行為*\ 意味著違犯五戒中的任何一條。其他任何事情都不算嚴重。
+
+   * - This dukkaṭa penalty for informing an unordained person about another unordained person’s transgressions of the precepts, though frequently overlooked in discussions of this rule, is important. It seems aimed at keeping bhikkhus from being gossips, so that novices and lay people may seek advice from a bhikkhu concerning the difficulties they have in observing the precepts without fear that he will spread the news to other unordained people as well.
+
+     - 告知未受具足戒者關於另一名未受具足戒者違反戒律會受到《突吉羅》懲罰，雖然在討論本戒條時經常被忽視，是很重要的。其目的似乎是為了防止比丘們說閒話，以便沙彌和俗人可以就他們在遵守戒律方面遇到的困難向比丘尋求建議，而不必擔心他也會把這個消息傳播給其他非受具足戒者。
+
+   * - This also helps preserve the good faith of donors: They can give their support to the bhikkhus without fear that the recipients of their support might be gossiping about their lapses in the practice behind their backs. If donors were to learn that a bhikkhu *had* been gossiping about them, they might become so disgusted as to withdraw their support from the religion as a whole.
+
+     - 這也有助於維護施主的信心：他們可以為比丘提供支持，而不必擔心接受支持的人會在背後議論他們修行上的失誤。如果施主得知比丘\ *在*\ 說他們的閒話，他們可能會感到非常厭惡，以至於撤回對整個宗教的支持。
 
 .. _大寺: https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%AA%E6%8B%89%E5%BE%B7%E6%99%AE%E5%8B%92%E5%A4%A7%E5%AF%BA
 
