@@ -1615,7 +1615,7 @@
 
      - .. container:: notification
 
-          *若任何比丘向非受具足戒者告知（另一位）比丘的嚴重罪行 —— 除非得到比丘的授權 —— 波逸提。*
+          *若任何比丘向非受具足戒者告知（另一位）比丘的嚴重罪行 —— 除非得到比丘們的授權 —— 波逸提。*
 
    * - .. container:: mx-2
 
@@ -1658,7 +1658,7 @@
 
    * - This dukkaṭa penalty for informing an unordained person about another unordained person’s transgressions of the precepts, though frequently overlooked in discussions of this rule, is important. It seems aimed at keeping bhikkhus from being gossips, so that novices and lay people may seek advice from a bhikkhu concerning the difficulties they have in observing the precepts without fear that he will spread the news to other unordained people as well.
 
-     - 告知未受具足戒者關於另一名未受具足戒者違反戒律會受到《突吉羅》懲罰，雖然在討論本戒條時經常被忽視，是很重要的。其目的似乎是為了防止比丘們說閒話，以便沙彌和俗人可以就他們在遵守戒律方面遇到的困難向比丘尋求建議，而不必擔心他也會把這個消息傳播給其他非受具足戒者。
+     - 告知未受具足戒者關於另一名未受具足戒者違反戒律會受到《突吉羅》懲罰，雖然在討論本戒條時經常被忽視，但卻是重要的。其目的似乎是為了防止比丘們說閒話，以便沙彌和俗人可以就他們在遵守戒律方面遇到的困難向比丘尋求建議，而不必擔心他也會把這個消息傳播給其他非受具足戒者。
 
    * - This also helps preserve the good faith of donors: They can give their support to the bhikkhus without fear that the recipients of their support might be gossiping about their lapses in the practice behind their backs. If donors were to learn that a bhikkhu *had* been gossiping about them, they might become so disgusted as to withdraw their support from the religion as a whole.
 
@@ -1687,5 +1687,16 @@
    * - None of the texts state that the person whose offense is being reported has to be mentioned explicitly to fulfill this factor. Thus, apparently, implicit references (“The bhikkhu who lives in that dwelling committed a saṅghādisesa by masturbating”) would fulfill the factor of effort here as well.
 
      - 沒有任何文獻指出必須明確提及被報導的罪行的人才能滿足這一因素。因此，顯然，隱含的提及（「住在那住處的比丘透過自慰犯了《僧殘》」）在這裡也滿足了努力的因素。
+
+   * - **The authorization**
+     - **授權**
+
+   * - The Vibhaṅga does not give any indication of when the Community should authorize a bhikkhu to tell unordained people about another bhikkhu’s serious offense. As the Vinaya-mukha sees it, the purpose of the training rule is to prevent bhikkhus from advertising one another’s faults among people outside the Community. However, there are cases, it says, where a bhikkhu may commit a serious offense and refuse to acknowledge it, as when committing a pārājika and yet continuing to assume the status of a bhikkhu, or committing a saṅghādisesa and refusing to go through the procedures for rehabilitation. Thus the Community in such cases is allowed to authorize one of its members to inform lay people, such as the bhikkhu’s supporters, as a way of exerting pressure on him to submit to his penalty.
+
+     - 《經分別》並未指示僧團何時應該授權比丘向未受具足戒者透露另一位比丘的嚴重罪行。從《戒律入口》的觀點來看，學處的目的是為了防止比丘們在僧團外的人面前宣揚彼此的過失。然而，它說，有些情況下比丘可能會犯下嚴重罪行，但拒絕承認，例如，犯了《波羅夷》，卻繼續假裝比丘的身份，或犯了《僧殘》，卻拒絕接受出罪恢復清淨的程序。因此，在這種情況下，僧團被允許授權其一名成員向俗人（如該比丘的支持者）通報，以此作為向比丘施加壓力，讓他接受懲罰的方式。
+
+   * - According to the Commentary, though, the authorization is to be used in cases where the Community feels that the act of informing the laity would help to convince a well-intentioned but weak-willed bhikkhu who repeatedly commits saṅghādisesa offenses—even if he willingly undergoes the period of penance—to mend his ways.
+
+     - 然而，根據《義註》，這項授權適用於以下情況：僧團認為，告知俗人的行動有助於說服善意但意志薄弱，一再犯下《僧殘》罪的比丘改過自新—即使他願意接受摩那埵。
 
 (未完待續)
