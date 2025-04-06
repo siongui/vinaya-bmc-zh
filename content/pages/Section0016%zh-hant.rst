@@ -1716,4 +1716,39 @@
 .. _《佛教修道準則 第二冊》第十二章: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
 .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十二章
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - We have already covered the cases that the Vibhaṅga includes in the non-offense clauses. To recapitulate: There is no penalty—
+     - 我們已經討論過《經分別》中不犯條款所包括的情況。總結一下：沒有懲罰——
+
+   * - .. container:: mx-2
+
+          1\) in telling an unordained person about another bhikkhu’s serious offense if one states the action but not the class of offense, or the class but not the action; or
+
+     - .. container:: mx-2
+
+          1）向未受具足戒者講述另一位比丘的嚴重罪行時，如果只說了行為，沒有說罪行的種類，或者只說種類，沒有說行為；或者
+
+   * - .. container:: mx-2
+
+          2\) in reporting another bhikkhu’s serious offense—action and class of offense—to an unordained person when one has been properly authorized to do so, as long as one does not overstep the bounds of one’s authorization.
+
+     - .. container:: mx-2
+
+          2）在獲得適當授權的情況下，可以向非受具足戒者告知另一位比丘的嚴重罪行（包括罪行的行為和種類），只要不超越其授權範圍。
+
+   * - *Summary: Telling an unordained person of another bhikkhu’s serious offense—unless one is authorized by the Community to do so—is a pācittiya offense.*
+     - *摘要：除非得到僧團的授權，否則向未受具足戒者告知另一名比丘的嚴重罪行，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
