@@ -1751,4 +1751,28 @@
    \*    \*    \*
 
 
+.. _Pc10:
+
+.. raw:: html
+
+   <span id="Pc10"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **10**
+     - **十**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu dig soil or have it dug, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘挖土或令挖土，波逸提。*
+
+   * - This is an offense with four factors: object, effort, perception, and intention.
+     - 這是一條具有四個因素的犯戒：對象、努力、感知，和意圖。
+
 (未完待續)

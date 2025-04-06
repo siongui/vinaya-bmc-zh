@@ -305,7 +305,7 @@
      - `\　　　九 <{filename}Section0016%zh-hant.rst#Pc9>`__
 
    * - `\　　　10 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10>`__
-     - 　　　十
+     - `\　　　十 <{filename}Section0016%zh-hant.rst#Pc10>`__
 
    * - `\　　Two: The Living Plant Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0017.html>`__
      - 　　第二 生物村品
