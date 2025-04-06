@@ -1699,4 +1699,21 @@
 
      - 然而，根據《義註》，這項授權適用於以下情況：僧團認為，告知俗人的行動有助於說服善意但意志薄弱，一再犯下《僧殘》罪的比丘改過自新—即使他願意接受摩那埵。
 
+   * - Both interpretations fit with the Canon, although it should be borne in mind that using the authorization in line with the Vinaya-mukha’s rationale—to exert pressure on a bhikkhu who refuses to undergo a penalty—can often backfire, for the laity may simply think that the Community is jealous of the support they are giving to the bhikkhu they assume to be innocent of any wrong-doing.
+
+     - 這兩種解釋都符合《聖典》，但應該記住，根據《戒律入口》的理由使用授權——對拒絕接受懲罰的比丘施加壓力——往往會適得其反，因為俗人可能只是認為僧團嫉妒他們給予他們認為沒有做錯的無辜比丘的支持。
+
+   * - The Vibhaṅga also does not tell how to issue the authorization. The Commentary recommends using the form of an announcement *(apalokana)* stated three times and unanimously agreed to by the Community meeting within a single territory (see `BMC2, Chapter 12`_).
+
+     - 《經分別》也沒有說明如何頒發授權。《義註》建議使用\ `求聽`_\ *（apalokana）*\ 的形式，該聽許在單一界場內的僧團會議上聲明三次並得到一致同意（參見\ `《佛教修道準則 第二冊》第十二章`_\ ）。
+
+   * - The Vibhaṅga does state, though, that when giving the authorization, the Community may limit it to families, to offenses, to both, or to neither. *Limited to families* means that the bhikkhu receiving the authorization may inform only certain specified families. *Limited to offenses* means that he may report only certain of the guilty bhikkhu’s offenses. A bhikkhu who oversteps the limits of his authorization incurs a pācittiya.
+
+     - 然而，《經分別》確實規定，在給予授權時，僧團可以將其限制於家庭，於犯戒，兩者都限制或兩者都不限制。\ *限制於家庭*\ ，是指獲得授權的比丘只能通知某些特定的家庭。\ *限制於犯戒*\ 意味著他只可告知有罪比丘的某些犯戒。比丘若超越其授權限制，犯《波逸提》。
+
+.. _求聽: https://dictionary.sutta.org/browse/a/apalokana/
+.. _BMC2, Chapter 12: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
+.. _《佛教修道準則 第二冊》第十二章: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十二章
+
 (未完待續)
