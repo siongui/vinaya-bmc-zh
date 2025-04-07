@@ -1787,11 +1787,11 @@
 
    * - Whatever is pure rock, stones, potsherds, gravel, or sand, or any of these with a lesser portion of loam or clay mixed in, is earth classed as “ungenuine” (or “denatured”) soil *(ajātā paṭhavī)*. Also, burnt clay or loam—according to the Commentary, this means soil that has been burnt in the course of firing a bowl, a pot, etc.—is not classed as genuine soil. As for heaps of loam or clay that have been dug up: If they have been rained on for less than four months, they are not classed as genuine soil; but if rained on for four months or more, they are. At present, irrigated soil would count as “rained on” as well. Also, the layer of fine dust that forms on the surface of dry soil as the result of wind erosion is not classed as genuine soil.
 
-     - 無論是純粹的岩石、石頭、陶器碎片、礫石或沙子，或是其中任何一種混入少量壤土或黏土的物質，都被歸類為「非真」（或「非天然」）土\ *（ajātā paṭhavī）*\ 。此外，被燒過的黏土或壤土（根據《義註》，這是指在燒製碗、罐子等過程中燒過的土）不屬於真土。至於挖出的壤土或黏土堆：如果它們被雨水淋濕的時間少於四個月，則它們不屬於真正的土壤；但如果下雨持續四個月或更長時間，它們就是真土。目前，灌溉的土壤也算是「被雨水淋濕」。此外，由於風蝕而在乾燥土壤表面形成的一層細小的塵埃也不屬於真正的土壤。
+     - 無論是純粹的岩石、石頭、陶器碎片、礫石或沙子，或是其中任何一種混入少量壤土或黏土的物質，都被歸類為「非真」（或「非天然」）土\ *（ajātā paṭhavī）*\ 。此外，被燒過的黏土或壤土（根據《義註》，這是指在燒製碗、罐子等過程中燒過的土）不屬於真土。至於挖出的壤土或黏土堆：如果它們被雨淋的時間少於四個月，則它們不屬於真正的土壤；但如果被雨淋持續四個月或更長時間，它們就是真土。目前，灌溉的土壤也算是「被雨淋」。此外，由於風蝕而在乾燥土壤表面形成的一層細小的塵埃也不屬於真正的土壤。
 
    * - The words for “genuine” and “not genuine”—\ *jāta* and *ajāta*\ —also mean “born” and “not born.” These terms are apparently related to the ancient Indian belief that soil is a form of one-facultied life (see below). The distinction between them seems based on an intuited idea that rock, sand, etc., were not alive, whereas clay and loam were naturally alive, although they would lose life when dug up and regain life when rained on for four months or more.
 
-     - 「真」與「非真」這兩個字——\ *jata* 和 *ajāta*\ ——也表示「生」與「不生」。這些術語顯然與古印度信仰有關，即土壤是一種單能生命形式（見下文）。它們之間的差異似乎是基於一種直覺的想法，即岩石、沙子等沒有生命，而黏土和壤土是自然有生命的，儘管它們在被挖出時會失去生命，而在被雨水淋濕四個月或更長時間後會恢復生命。
+     - 「真」與「非真」這兩個字——\ *jata* 和 *ajāta*\ ——也表示「生」與「不生」。這些術語顯然與古印度信仰有關，即土壤是一種單能生命形式（見下文）。它們之間的差異似乎是基於一種直覺的想法，即岩石、沙子等沒有生命，而黏土和壤土是自然有生命的，儘管它們在被挖出時會失去生命，而在被雨淋四個月或更長時間後會恢復生命。
 
    * - As the Commentary makes clear in discussing the Vibhaṅga’s non-offense clauses, there is no penalty in digging earth not classed as genuine soil. Thus, for example, digging into a pile of newly dug-up loam or drawing diagrams in the dust on top of dry soil would not be an offense.
 
