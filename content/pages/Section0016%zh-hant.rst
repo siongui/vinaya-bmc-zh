@@ -1814,4 +1814,19 @@
 
      - 如果懷疑是否為真正的土壤，那麼挖掘它的懲罰就是《突吉羅》，無論是否為真正的土壤。如果以為那是真正的土壤，但實際上並非如此，那麼挖掘它的懲罰也是《突吉羅》。如果不認為它是真正的土壤，那麼無論它是不是真正的土壤，挖掘它都不犯戒。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - Because perception and intention are mitigating factors here, there is no offense for the bhikkhu who digs soil—
+     - 因為感知和意圖在這裡是減輕懲罰的因素，所以對於挖土的比丘來說，沒有犯戒—
+
+   * - *unknowingly*\—e.g., digging into a pile of soil perceiving it to be sand;
+     - *不知道地*\—例如，挖了一堆土，以為那是沙子；
+
+   * - *unthinkingly*\—e.g., absent-mindedly drawing in the dirt while talking with someone else; or
+     - *不假思索地*\—例如，與他人交談時心不在焉地在泥土上畫畫；或者
+
+   * - *unintentionally*\—e.g., raking leaves, pulling a wheelbarrow through the mud, or digging in a pile of sand and accidentally digging into the soil underneath.
+     - *無意地*\—例如，耙樹葉、拉手推車穿過泥地、或在沙堆裡挖東西並意外挖到下面的土壤。
+
 (未完待續)
