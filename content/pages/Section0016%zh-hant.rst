@@ -1797,4 +1797,21 @@
 
      - 正如《義註》在討論《經分別》的不犯條款時所明確指出的，挖掘不屬於真正土壤的土地不會受到懲罰。因此，例如，挖掘一堆新挖出的壤土或在乾土上的灰塵中繪製圖表並不構成犯戒。
 
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga says that the term *digging* also covers burning, e.g., firing pottery or lighting a fire on top of the soil; and breaking, e.g., making a furrow with a rake or a stick. Thus, using a stick to draw in the soil or driving in a stake or pulling one out in such a way as to disturb the surrounding soil would fulfill the factor of effort here.
+
+     - 《經分別》說，「\ *挖掘*\ 」一詞也包括燃燒，例如燒製陶器或在土壤上點火；以及破壞，例如用耙子或棍子開溝。因此，使用一根棍子在土壤裡畫東西，或將一根木樁打入，或將一根木樁拔出以至於擾動周圍的土壤，即可滿足此處的努力因素。
+
+   * - The Vibhaṅga adds that if one gives a single command to dig, then no matter how much the person digs, the offense is a single pācittiya.
+     - 《經分別》又說，如果給予一次挖掘的命令，那麼無論該人挖掘了多少，都只犯一次《波逸提》。
+
+   * - **Perception**
+     - **感知**
+
+   * - If one is in doubt as to whether soil is genuine, the penalty for digging it is a dukkaṭa regardless of whether it is or isn’t. If one perceives it as genuine soil when it actually isn’t, the penalty for digging it is also a dukkaṭa. If one does not perceive it as genuine soil, then whether it is or isn’t, digging it incurs no offense.
+
+     - 如果懷疑是否為真正的土壤，那麼挖掘它的懲罰就是《突吉羅》，無論是否為真正的土壤。如果以為那是真正的土壤，但實際上並非如此，那麼挖掘它的懲罰也是《突吉羅》。如果不認為它是真正的土壤，那麼無論它是不是真正的土壤，挖掘它都不犯戒。
+
 (未完待續)
