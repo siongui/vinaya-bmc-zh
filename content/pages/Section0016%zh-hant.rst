@@ -1829,4 +1829,20 @@
    * - *unintentionally*\—e.g., raking leaves, pulling a wheelbarrow through the mud, or digging in a pile of sand and accidentally digging into the soil underneath.
      - *無意地*\—例如，耙樹葉、拉手推車穿過泥地、或在沙堆裡挖東西並意外挖到下面的土壤。
 
+   * - Also, there is no offense in asking for clay or soil, or in indicating a need for a hole in the ground, without expressly giving the command to dig. Examples in the Vibhaṅga: “Know this. Give this. Bring this. This is wanted. Make this allowable.” Present examples would include such statements as, “Please get me some clay to make a pot.” “We’re going to need a hole right here.” According to the Commentary, an explicit request that a reservoir or pit, etc., be dug also entails no penalty as long as one does not say precisely where to dig it. (“We’re going to have to drain the water from A to B, so dig the trench wherever you think it would do the job best.”) This sort of request or hint is termed *kappiya-vohāra*\—“allowable expression,” or in plain English, “wording it right”—and often finds use in the context of rules where an express command would be an offense, but an indication of a desire or intent would not.
+
+     - 此外，在沒有明確命令挖掘的情況下，要求黏土或土壤，或表示需要一個洞在地面上，並不構成犯戒。\ `《經分別》中的例子 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0043a03>`__\ ：「了解這個。給這個。帶來這個。這是想要的。使這個可允許。」目前的例子包括這樣的陳述：「請給我一些黏土來做一個罐子。」「我們在這裡需要一個洞。」根據《義註》，明確要求挖水庫或坑等，只要沒有明確說明在哪裡挖，也不會受到處罰。（「我們要把水從 A 排到 B，所以在你認為最合適的地方挖溝。」）這種請求或暗示被稱為 *kappiya-vohāra*\—「允許的表達」，或用簡單的英語來說，「正確的措辭」—並且通常在戒條的脈絡下使用，在這種情況下，明確的命令是犯戒，而表示願望或意圖則不會。
+
+   * - The Commentary quotes the ancient commentaries as saying that if another person or animal has fallen into a pit, there is no penalty for digging the victim out. The same holds true if another person or animal is trapped by a fallen but still-living tree: The bhikkhu may cut the tree to free the victim without incurring a penalty under the following rule.
+
+     - 《義註》引述古代註釋書說：若他人或動物掉入坑中，將受害者挖出則不受懲罰。如果另一個人或動物被倒下但仍然活著的樹困住，情況也是如此：比丘可以砍伐樹木以釋放受害者，而不必根據下一條戒條受到懲罰。
+
+   * - Although the Commentary cannot find any justification in the Canon for these opinions, it states that they should be accepted because they are the unanimous judgment of the ancient commentaries. As we have noted before, Buddhaghosa does not always accept even the unanimous judgment of the ancient commentaries, but perhaps he felt that these were cases in which it would be better to err on the side of compassion rather than strictness.
+
+     - 儘管《義註》在《聖典》中找不到這些觀點的任何依據，但它表示應該接受這些觀點，因為它們是古代註釋書的一致判斷。正如我們之前所指出的，\ `佛音`_\ 並不總是接受古代註釋中的一致判斷，但也許他覺得，在這些情況下，寧可犯同情的錯誤，也不要過於嚴格。
+
+   * - However, the Commentary goes on to say that if a bhikkhu falls into a pit himself, he should not dig any earth that would be classed as genuine soil, even for the sake of his life. The same holds true if he is trapped by a fallen but still-living tree: He may not cut the tree even though his life is in danger.
+
+     - 然而，《義註》繼續說道，如果比丘自己掉進坑中，那麼即使是為了他自己的生命，他也不應該挖掘任何被視為真正土壤的地面。如果他被一棵倒下的但仍然活著的樹困住了，情況也是如此：即使他的生命處於危險之中，他也不可砍樹。
+
 (未完待續)
