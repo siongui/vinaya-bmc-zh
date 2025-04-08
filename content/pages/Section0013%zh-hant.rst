@@ -1532,8 +1532,7 @@
 .. _Mv.VIII.28.1: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Mv.VIII.28.1
 .. _《大品》.八.28.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0395a02
 .. _Pc 11: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
-.. _《波逸提》十一: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
-.. TODO FIXME: replace link to 《波逸提》十一
+.. _《波逸提》十一: {filename}Section0017%zh-hant.rst#Pc11
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
