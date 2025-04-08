@@ -1849,9 +1849,21 @@
 
      - 根據\ `《小品》.五.32.1`_\ ，允許比丘點燃逆火以抵禦接近的野火，\ `《波羅夷》三`_\ 的《義註》指出，也可以挖一條護城河來抵禦這種火災，而不會根據本戒條受到懲罰。
 
+   * - The reason for this rule, as indicated by the origin story, is that people in general at the time of the Buddha viewed soil as having a form of one-facultied life. The Jains, who were contemporaries of the Buddha, classed life into five categories according to the number of senses or faculties the living thing possessed. In the one-facultied category, where there is only the sense of touch, they included soil and vegetation. One scholar has suggested that the Jains here were simply systematizing an animist belief, predating their theories, that soil and plants had souls. At any rate, this sort of view was so widespread at the time that any potters who were meticulous in their precepts would take their clay only from termite nests and other piles of dug-up earth. The Ghaṭīkāra Sutta (MN 81) describes a potter—a non-returner in the dispensation of the Buddha Kassapa—who, even though he was a lay man, would take the earth for his pots only from collapsed embankments and the piles of dirt around rat holes so as to avoid injuring the soil.
+
+     - `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0041a14>`__\ 表明，本戒條的原因在於，佛陀時代的人們普遍認為土壤具有單能生命形式。與佛陀同時代，耆那教徒根據生物所擁有的感官或能力的數量，將生命分為五類。在單能類別中，只有觸覺，包括土壤和植被。一位學者認為，耆那教徒只是系統化了一種早於他們的理論的萬物有靈論信仰，即土壤和植物具有靈魂。無論如何，這種觀點在當時非常普遍，任何恪守戒律的陶工只會從白蟻巢穴和其他挖出的土堆中取土。《伽提迦羅經》（\ `《中部》81經`_\ ）描述了一位陶工——迦葉佛教化時的不還者——儘管他只是個俗人，但他只從坍塌的堤壩和老鼠洞周圍的土堆中取土來做陶罐，以免損壞土壤。
+
+   * - Another consideration, carrying more weight at present, is that the act of digging soil risks killing or injuring whatever animals might be living there.
+     - 另一個目前更重要的考慮因素是，挖土的行為可能會有殺死或傷害生活在那裡的動物風險。
+
+   * - This rule, together with the following one, also effectively prevents bhikkhus from engaging in agriculture.
+     - 本戒條和下一條戒條也有效地阻止了比丘從事農業。
+
+   * - *Summary: Digging soil or commanding that it be dug is a pācittiya offense.*
+     - *摘要：挖土或命令挖土，是《波逸提》（《單墮》）罪。*
+
 .. _Cv.V.32.1: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.32.1
 .. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
 .. _《小品》.五.32.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0185a06
 .. _《波羅夷》三: {filename}Section0010%zh-hant.rst#Pr3
-
-(未完待續)
+.. _《中部》81經: https://sutra.mobi/chilin/zhong/content/081.html
