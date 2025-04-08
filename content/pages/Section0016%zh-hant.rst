@@ -1845,4 +1845,13 @@
 
      - 然而，《義註》繼續說道，如果比丘自己掉進坑中，那麼即使是為了他自己的生命，他也不應該挖掘任何被視為真正土壤的地面。如果他被一棵倒下的但仍然活著的樹困住了，情況也是如此：即使他的生命處於危險之中，他也不可砍樹。
 
+   * - In line with `Cv.V.32.1`_, which allows a bhikkhu to light a counter-fire to ward off an approaching wildfire, the Commentary to `Pr 3`_ states that one may also dig a moat to ward off such a fire without incurring a penalty under this rule.
+
+     - 根據\ `《小品》.五.32.1`_\ ，允許比丘點燃逆火以抵禦接近的野火，\ `《波羅夷》三`_\ 的《義註》指出，也可以挖一條護城河來抵禦這種火災，而不會根據本戒條受到懲罰。
+
+.. _Cv.V.32.1: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.32.1
+.. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
+.. _《小品》.五.32.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0185a06
+.. _《波羅夷》三: {filename}Section0010%zh-hant.rst#Pr3
+
 (未完待續)
