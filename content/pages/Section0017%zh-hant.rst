@@ -83,4 +83,52 @@
    * - The Vibhaṅga defines *bhūtagāma* as vegetation arising from any of five sources:
      - 《經分別》將 *bhūtagāma* 定義為來自以下五個來源之一的植物：
 
+   * - .. container:: mx-2
+
+          1\) from bulbs, rhizomes, or tubers (e.g., potatoes, tulips),
+
+     - .. container:: mx-2
+
+          1）來自球莖、根莖或塊莖（例如馬鈴薯、鬱金香），
+
+   * - .. container:: mx-2
+
+          2\) from cuttings or stakes (e.g., willows, rose bushes),
+
+     - .. container:: mx-2
+
+          2）從插枝或木樁（例如柳樹、玫瑰叢）中獲取，
+
+   * - .. container:: mx-2
+
+          3\) from joints (e.g., sugar cane, bamboo),
+
+     - .. container:: mx-2
+
+          3）來自節段（例如甘蔗、竹子），
+
+   * - .. container:: mx-2
+
+          4\) from runners (e.g., strawberries, couch grass), or
+
+     - .. container:: mx-2
+
+          4）來自蔓生植物（例如草莓、狗牙根），或
+
+   * - .. container:: mx-2
+
+          5\) from seeds (e.g., corn, beans).
+
+     - .. container:: mx-2
+
+          5）來自種子（例如玉米、豆類）。
+
+   * - According to the Commentary, a whole plant or part of one that has been removed from its original place is no longer classed as bhūtagāma. If it is capable of growing again when placed in the ground, it is classed as *bījagāma*, which means “home of a seed.” When a seed is sown, it is regarded as bījagāma until the first shoot turns a fresh green color and the first leaf appears. After that it is regarded as bhūtagāma.
+
+     - 根據《義註》，從原處移走的整株植物或植物的一部分不再被歸類為 bhūtagāma。如果它被放入土中後能夠再次生長，它就被歸類為 *bījagāma*\，意思是「種子的家」。當一顆種子被播下時，它被視為 bījagāma，直到第一根嫩芽變成新鮮的綠色並且長出第一片葉子。此後，它被視為 bhūtagāma。
+
+   * - In line with this criterion, the Commentary classifies as bījagāma such lower forms of plant life as mushrooms that still have their spores, fungi, lichens without leaves, and molds, in that they do not pass through a fresh green stage, have no discernable leaves, and yet are capable of regeneration. Mushrooms that have lost their spores, and parts of any plants that have been removed from place and will not grow, or that have been cooked or otherwise damaged to the point where they are incapable of generation, are not grounds for an offense under this rule.
+
+     - 根據這個標準，《義註》將一些較低級的植物生命形式歸類為 bījagāma，如仍有孢子的蘑菇、真菌、無葉地衣和黴菌，因為它們不會經歷新鮮的綠色階段，沒有可辨別的葉子，但具有再生能力。已經失去孢子的蘑菇，以及任何被移走而無法生長的植物的部分，或者已經被煮熟或以其他方式損壞到無法繁殖的程度的植物的部分，都不屬於根據本戒條犯戒的理由。
+
 (未完待續)
