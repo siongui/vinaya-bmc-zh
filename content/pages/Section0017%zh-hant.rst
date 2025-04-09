@@ -73,4 +73,14 @@
    * - This is another offense with the four factors of object, effort, perception, and intention.
      - 此為另一個具有對象、努力、感知、意圖四個因素的犯戒。
 
+   * - **Object**
+     - **對象**
+
+   * - The Pali term for living plant—\ *bhūtagāma*\ —literally means the home of a being. This the Sub-commentary explains by saying that devatās may take up residence in plants standing in place by means of a longing on which their consciousness fastens (at the end of their previous lives) as in a dream. This rule is justified, it says, in that the etiquette of a contemplative precludes doing harm to the abodes of living beings. As the origin story shows, though, the reason this rule was laid down in the first place was to prevent bhikkhus from offending people who held to the animist belief that regarded plants as one-facultied life having the sense of touch.
+
+     - 巴利語中表示活體植物的字——bhūtagāma——字面意思是生物的家。《複註》對此作出了解釋，說天神可以透過渴望而居住在站立的植物中，他們的意識（在前世結束時）依附於此，就像在夢中一樣。它說，本戒條是合理的，因為沙門的威儀禁止傷害生物的居所。然而，正如起源故事所示，制定這條戒條的初衷是為了防止比丘冒犯那些持有萬物有靈論信仰的人，他們認為植物是具有觸覺的單能生命。
+
+   * - The Vibhaṅga defines *bhūtagāma* as vegetation arising from any of five sources:
+     - 《經分別》將 *bhūtagāma* 定義為來自以下五個來源之一的植物：
+
 (未完待續)
