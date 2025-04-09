@@ -131,4 +131,19 @@
 
      - 根據這個標準，《義註》將一些較低級的植物生命形式歸類為 bījagāma，如仍有孢子的蘑菇、真菌、無葉地衣和黴菌，因為它們不會經歷新鮮的綠色階段，沒有可辨別的葉子，但具有再生能力。已經失去孢子的蘑菇，以及任何被移走而無法生長的植物的部分，或者已經被煮熟或以其他方式損壞到無法繁殖的程度的植物的部分，都不屬於根據本戒條犯戒的理由。
 
+   * - The Commentary asserts further that to damage bījagāma entails a dukkaṭa. The Vibhaṅga does not mention this point, but the Commentary cites as its justification a passage occurring in a number of suttas (such as `DN 2`_) saying that a bhikkhu consummate in virtue refrains from harming both bhūtagāma and bījagāma. In doing so, the Commentary is utilizing the Cullavagga’s blanket rule assigning a dukkaṭa to all bad habits (`Cv.V.36`_). The Mahāvagga and Cullavagga give further but partial justification to the Commentary’s assertion in two passages, dealing with bhikkhus eating fruit, which we will discuss below. The Jain ascetics follow similar observances, which suggests that both the Buddhists and the Jains adopted this point from the ancient Indian ascetics who predated both religions.
+
+     - 《義註》進一步指出，損壞 bījagāma 會導致《突吉羅》。《經分別》並沒有提到這一點，但《義註》引用了多部經典（如\ `《長部》2經`_\ ）中的出現的一段話作為其依據，這段話指出，戒德圓滿的比丘不會傷害 bhūtagāma 和 bījagāma 。在這樣做時，《義註》利用了《小品》的總括戒條，所有不良習慣都違犯《突吉羅》（\ `《小品》.五.36`_\ ）。《大品》和《小品》在兩段關於比丘吃水果的段落中對《義註》的斷言提供了進一步但部分的證明，我們將在下面討論。耆那教苦行者也遵循類似的戒律，顯示佛教徒和耆那教徒都從早於這兩種宗教的古印度苦行者那裡採納了這一觀點。
+
+   * - Furthermore, according to the Commentary, there are certain kinds of plants that do not count either as bhūtagāma or bījagāma under this rule, and to damage them entails no offense. To justify this point it quotes a passage from `Cv.VIII.1.3`_: “If a wall treated with ochre… (or) a finished floor is moldy (§), one should moisten a rag, wring it out, and wipe it clean.” The Commentary extends the Canon’s instructions here to cover not only mold on walls but also other lower forms of plant life—such as algae on the inside of water jars, fungus on toothbrushes, and mold on food—that would count as filth if they were allowed to continue growing.
+
+     - 此外，根據《義註》，有些植物根據這條戒條既不算是 bhūtagāma，也不算是 bījagāma，損壞它們並不構成犯戒。為了證明這一點，它引用了\ `《小品》.八.1.3`_ 中的一段話：「如果用赭石處理過的牆壁……（或）所作地面發霉了（§），則應將抹布弄濕，擰乾，然後擦拭乾淨。」《義註》擴展了《聖典》的指示，不僅涵蓋了牆壁上的黴菌，還涵蓋了其他低等植物生命形式—例如水罐內部的藻類、牙刷上的真菌和食物上的黴菌—如果允許它們繼續生長，則將被視為污穢。
+
+.. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
+.. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
+.. _《長部》2經: https://tripitaka.cbeta.org/mobile/index.php?index=N06n0004_002
+.. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
+.. _Cv.VIII.1.3: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.1.2-5
+.. _《小品》.八.1.3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0286a10
+
 (未完待續)
