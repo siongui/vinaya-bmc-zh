@@ -165,4 +165,17 @@
 
      - 此外，《義註》還說，槲寄生、蘭花和鳥藤等生長在樹上的植物都以樹為基礎。把它們從樹上摘下來就會對它們造成損害，因此犯《波逸提》。
 
+   * - **Perception**
+     - **感知**
+
+   * - If one damages a living plant (§) perceiving it to be something else—say, a dead plant—there is no offense. If one damages a plant in doubt as to whether it is living or dead, then regardless of what it actually is, the offense is a dukkaṭa.
+
+     - 如果將一株活的植物（§）視為別的東西（例如，一株死的植物）而對其進行了損害，這並不構成犯戒。如果因懷疑植物是死是活而對其進行損害，那麼無論該植物實際上是什麼，罪行都是《突吉羅》。
+
+   * - **Intention**
+     - **意圖**
+
+   * - Intention is discussed in detail under the non-offenses, below.
+     - 下文的不犯條款將詳細討論意圖。
+
 (未完待續)
