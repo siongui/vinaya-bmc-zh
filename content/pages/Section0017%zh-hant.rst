@@ -178,4 +178,14 @@
    * - Intention is discussed in detail under the non-offenses, below.
      - 下文的不犯條款將詳細討論意圖。
 
+   * - **Making fruit allowable**
+     - **作淨水果**
+
+   * - Because fruit seeds are bījagāma, the question arises as to how bhikkhus should go about eating fruit. The Commentary to this rule discusses in detail two passages, one each in the Mahāvagga (VI. 21) and the Cullavagga (V.5.2), dealing with precisely this question. The Cullavagga passage reads, “I allow you, bhikkhus, to consume fruit that has been made allowable for monks in any of five ways: if it is damaged by fire, by a knife, by a fingernail, if it is seedless, and the fifth is if the seeds are discharged.” The Mahāvagga passage reads, “Now at that time there was a great quantity of fruit at Sāvatthī, but there was no one to make it allowable…. (The Buddha said,) ‘I allow that fruit that is seedless or whose seeds are discharged be consumed (even if) it has not been made allowable.”
+
+     - 因為水果種子是 bījagāma，所以就出現了比丘應該如何吃水果的問題。本戒條的《義註》詳細討論了兩個段落，一段在\ `《大品》（六.21）`_\ ，一段在\ `《小品》（五.5.2）`_\ ，專門處理這個問題。《小品》段落中寫道：「我允許你們，諸比丘，以五種方式中的任一種方式食用已經為沙門作淨的水果：如果它被火損壞、被刀子損壞、被指甲損壞、如果是無籽的、第五種是如果籽被排出。」《大品》段落寫道：「當時舍衛城有許多水果，但沒有人作淨……（佛陀說）『我允許吃沒有籽的水果，或者籽排出的水果，（即使）它沒有被作淨。』
+
+.. _《大品》（六.21）: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0286a04
+.. _《小品》（五.5.2）: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0148a04
+
 (未完待續)
