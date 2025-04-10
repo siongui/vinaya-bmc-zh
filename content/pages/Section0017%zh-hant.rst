@@ -146,4 +146,23 @@
 .. _Cv.VIII.1.3: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.1.2-5
 .. _《小品》.八.1.3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0286a10
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - According to the Vibhaṅga, the term *damaging* includes such actions as cutting, breaking, and cooking, as well as getting other people to perform these actions. The Commentary defines *damaging* as “dealing with a plant as one likes by cutting it, breaking it, and so on.” Although the word for *dealing with*\—\ *paribhuñjati*\—literally means “making use of,” the Commentary’s illustrations of what this covers include even such things as shaking a tree limb to get the dry leaves to fall off so that one can sweep them up. Thus, it says, *damaging* would include picking flowers or leaves, uprooting a plant, engraving one’s initials in a tree trunk, etc. Because no exception is made for doing such things with “benevolent” intentions toward the plant, pruning would be included as well. Given the catch-all nature of the Commentary’s definition, using herbicides to kill plants would also come under *damaging*.
+
+     - 根據《經分別》，\ *損害*\ 包括切割、破壞、烹飪等行為，以及讓其他人執行這些行為。《義註》將\ *損害*\ 定義為「以切割、破壞等方式隨意對待植物」。儘管表示\ *對待—paribhuñjati*\—的單字字面意思是「利用」，《義註》中對此內容的說明甚至包括諸如搖晃樹枝讓乾樹葉掉落以便可以將其掃起之類的事情。因此，它說，\ *損害*\ 包括採摘花朵或葉子、拔除植物、在樹幹上刻上自己的姓名首字母等。因為對植物懷著「仁慈的」意圖做這些事沒有豁免，所以修剪也包括在內。鑑於《義註》定義的包羅萬象性，使用除草劑殺死植物也算\ *損害*\ 。
+
+   * - The Commentary adds that plants growing in water, such as water hyacinths, whose roots do not extend to the earth beneath the water, have the water as their base. To remove them from the water is to damage them, although there is no offense in moving them around in the water. To move them from one body of water to another without incurring a penalty, one may take them together with some of the water in which they originally lived and place them together with that water into the new body of water.
+
+     - 《義註》還補充道，水葫蘆等生長在水中的植物，其根部不會延伸到水下的土地，而是以水為基部。將它們從水中取出是損害它們，儘管在水中移動它們並沒有犯戒。為了將它們從一個水域移到另一個水域而不受到懲罰，可以將它們連同它們原來生活的部分水一起帶入新的水域。
+
+   * - Also, says the Commentary, plants such as mistletoe, orchids, and bird vine that grow on trees have the tree as their base. To remove them from the tree is to damage them and so entails a pācittiya.
+
+     - 此外，《義註》還說，槲寄生、蘭花和鳥藤等生長在樹上的植物都以樹為基礎。把它們從樹上摘下來就會對它們造成損害，因此犯《波逸提》。
+
 (未完待續)
