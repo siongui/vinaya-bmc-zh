@@ -197,6 +197,30 @@
 
      - 然而，其他種類的水果，例如帶有大量種子的水果（例如蕃茄和黑莓）或難以去除而不損害種子的水果（例如葡萄），必須用火、刀或指甲損害後，比丘才能食用。《義註》中對如何做到這一點的描述表明，損害只需要是象徵性的：一個未受具足戒的人用一個熱物體或一把刀劃過水果皮，或者用指甲戳它，在損害的同時或之後立即說「允許的」\ *（kappiyaṁ）*\ 。《複註》指出，「允許的」一詞可以用任何語言表達。
 
+   * - If a heap of fruit, such as grapes, is brought to a bhikkhu, he should say, “Make it allowable,” *(Kappiyaṁ karohi,)* either to the donor or to any other unordained person who knows how. The unordained person need only make one of the grapes allowable in line with the above procedures for the entire heap to be considered allowable, although he/she should not remove the grape from the heap while doing so.
+
+     - 如果一堆水果（例如葡萄）被帶給比丘，他應該對布施者或任何其他知道如何做的未受具足戒者說「使其被允許」\ *（Kappiyaṁ karohi）*\ 。未受具足戒者只需按照上述程序作淨其中一顆葡萄，整堆葡萄即可被視為已作淨，但他/她在如此做時不應將該葡萄從葡萄堆中取出。
+
+   * - The Sub-commentary claims that the ceremony of making fruit allowable must always be performed in the presence of a bhikkhu, but the Commentary mentions this factor only in connection with this last case—making an entire heap of fruit allowable by “damaging” only one piece—and not in its basic description of how the procedure is done.
+
+     - 《複註》聲稱，作淨水果的儀式必須始終在比丘面前進行，但《義註》僅在與最後一種情況相關時提到了這一因素——通過「損壞」一塊水果來作淨整堆水果——而不是在對如何進行該程序的基本描述中提到了這一點。
+
+   * - In Communities that follow the Sub-commentary, the custom is as follows: When a donor brings grapes, tomatoes, or similar fruit to a bhikkhu, the bhikkhu says, “\ *Kappiyaṁ karohi* (Make it allowable).” The donor damages the fruit in any of the three specified ways and says, “\ *Kappiyaṁ bhante* (It is allowable, venerable sir),” while doing the damaging, and then presents the fruit to the bhikkhu.
+
+     - 在遵循《複註》的僧團中，習俗如下：當施主帶給比丘葡萄、蕃茄或類似的水果時，比丘會說「\ *Kappiyaṁ karohi*\ （使其被允許）」。施主以三種指定方式中的一種損害水果，並在損害時說：「\ *Kappiyaṁ bhante*\ （這是允許的，尊者）」，然後將水果呈給比丘。
+
+   * - In Communities that do not follow the Sub-commentary, the donor may perform the act of damaging the fruit beforehand. If the damage is obvious, a bhikkhu may accept and consume the fruit without asking. If it’s not, he should ask whether it has been damaged. If the reply is Yes, he may accept and consume it. If No, it should first be damaged in his presence.
+
+     - 在不遵循《複註》的僧團中，施主可以事先進行損害水果的行為。如果損害很明顯，比丘可以接受並食用水果而無需詢問。如果不明顯，他應該詢問它是否已被損害。如果答案是肯定的，他可以接受並食用它。如果不是，則應先在他面前將其損害。
+
+   * - Even in this second type of Community, however, the act of making a heap of fruit allowable by damaging only one piece *must* be done in a bhikkhu’s presence. And we should note again that seedless fruit or fruit whose seeds may be removed entirely from the flesh of the fruit are allowable in and of themselves, and do not have to go through any procedure before a bhikkhu may accept and eat them.
+
+     - 然而，即使在第二種類型的僧團中，透過損害一塊水果來作淨一堆水果的行為\ *必須*\ 在比丘面前進行。我們應該再次注意，無籽水果或可以將種子從果肉中完全去除的水果本身是允許的，並且不需要經過任何程序，比丘就可以接受和食用它們。
+
+   * - The two passages in the Mahāvagga and Cullavagga that we have been discussing deal specifically only with fruit, but the Commentary extrapolates from them to say that the same conditions apply to other forms of bījagāma, such as sugar cane and bean sprouts as well.
+
+     - 我們一直在討論的《大品》和《小品》中的兩個段落僅僅專門討論了水果，但《義註》從中推斷，同樣的情況也適用於其他形式的 bījagāma，例如甘蔗和豆芽。
+
 .. _《大品》（六.21）: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0286a04
 .. _《小品》（五.5.2）: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0148a04
 
