@@ -44,7 +44,7 @@
 
      - .. container:: notification
 
-          *損壞活體植物，波逸提。*
+          *損壞活的植物，波逸提。*
 
    * - .. container:: mx-2
 
@@ -257,5 +257,31 @@
      - .. container:: mx-2
 
           無意地——例如，在耙樹葉時不小心把草連根拔起，或者在爬山時抓住植物支撐而無意中把它連根拔起。
+
+   * - Also, there is no penalty in telling an unordained person to make an item allowable; in asking for leaves, flowers, etc., without specifically saying *which* leaves or flowers are to be picked; or in indicating indirectly that, e.g., the grass needs cutting (“Look at how long the grass is”) or that a tree needs pruning (“This branch is in the way”) without expressly giving the command to cut. In other words, this is another rule where one may avoid an offense by using *kappiya-vohāra:* “wording it right.”
+
+     - 此外，告訴未受具足戒的人作淨某件物品不會受到懲罰；索要樹葉、花朵等，但沒有具體說明要採摘\ *哪些*\ 樹葉或花朵；或者間接地表明，例如，草需要修剪（「看看這草有多長」）或樹需要修剪（「這個樹枝擋道了」），而沒有明確發出修剪的命令。換句話說，這是另一條可以透過使用 *kappiya-vohāra*\（「正確措辭」）來避免違犯的戒條。
+
+   * - `Cv.V.32.1`_ says that if a brush fire is approaching a dwelling, one may light a counter-fire to ward it off. In doing so, one is exempt from any penalty imposed by this rule.
+
+     - `《小品》.五.32.1`_ 規定，如果灌木叢火災正在逼近住所，可以點燃逆火來撲滅。這樣做，免於本戒條所施加的任何懲罰。
+
+   * - Also, according to the Sub-commentary to `NP 6`_, a bhikkhu whose robes have been snatched away and who cannot find any other cloth to cover himself may pick grass and leaves to cover himself without incurring a penalty here.
+
+     - 此外，根據\ `《捨墮》六`_\ 的《複註》，如果比丘的袈裟被奪走，而他又找不到其他衣服遮蓋自己，那麼他可以採摘草葉來遮蓋自己，而不會受到懲罰。
+
+   * - *Summary: Intentionally cutting, burning, or killing a living plant is a pācittiya offense.*
+     - *摘要：故意砍伐、焚燒或殺死活的植物，是《波逸提》（《單墮》）罪。*
+
+.. _Cv.V.32.1: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.32.1
+.. _《小品》.五.32.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0185a06
+.. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
+.. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
