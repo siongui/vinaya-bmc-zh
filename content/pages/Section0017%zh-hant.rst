@@ -224,4 +224,38 @@
 .. _《大品》（六.21）: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0286a04
 .. _《小品》（五.5.2）: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0148a04
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The Vibhaṅga says that there is no offense for a bhikkhu who cuts a living plant—
+     - 《經分別》說，比丘砍伐活的植物並無犯戒——
+
+   * - .. container:: mx-2
+
+          unknowingly—e.g., thinking it to be dead,
+
+     - .. container:: mx-2
+
+          不知道地──例如，以為它死了，
+
+   * - .. container:: mx-2
+
+          unthinkingly—e.g., absent-mindedly pulling grass while talking with someone, or
+
+     - .. container:: mx-2
+
+          不假思索地——例如，在與人交談時心不在焉地拔草，或者
+
+   * - .. container:: mx-2
+
+          unintentionally—e.g., inadvertently uprooting grass while raking leaves, or grabbing onto a plant for support while climbing a hill and inadvertently uprooting it.
+
+     - .. container:: mx-2
+
+          無意地——例如，在耙樹葉時不小心把草連根拔起，或者在爬山時抓住植物支撐而無意中把它連根拔起。
+
 (未完待續)
