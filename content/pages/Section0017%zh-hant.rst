@@ -333,4 +333,19 @@
 
           *3）對象：*\ 在僧團正式指控自己發表迴避性言論或造成挫敗後，在僧團中被問及有關戒條或犯戒時。
 
+   * - **Effort**
+     - **努力**
+
+   * - Evasive speech is illustrated in the origin story as follows:
+     - 迴避性言論在\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0045a14>`__\ 中有以下描述：
+
+   * - .. container:: mx-2
+
+          “Now at that time Ven. Channa, having misbehaved and being examined about the offense in the midst of the Community, wandered around (§) one thing by way of another: ‘Who has committed the offense? What was committed? With regard to what matter was it committed? How was it committed? What are you saying? Why do you say it?’”
+
+     - .. container:: mx-2
+
+          「爾時，闡陀尊者行為不當並在僧團中接受有關犯戒的審問，異語遁辭：『誰犯了戒？犯了什麼戒？關於什麼事犯的戒？怎樣犯的戒？你在說什麼？為什麼這麼說？』」
+
+
 (未完待續)
