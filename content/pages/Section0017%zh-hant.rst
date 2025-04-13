@@ -284,4 +284,53 @@
    \*    \*    \*
 
 
+.. _Pc12:
+
+.. raw:: html
+
+   <span id="Pc12"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **12**
+     - **十二**
+
+   * - .. container:: notification
+
+          *Evasive speech and causing frustration are to be confessed.*
+
+     - .. container:: notification
+
+          *迴避言論和造成挫折，波逸提。*
+
+   * - This rule deals with a bhikkhu’s behavior in a Community meeting when being formally questioned about a charge made against him. The factors for the full offense here are three.
+
+     - 這條戒條涉及比丘在僧團會議上被正式詢問對他的指控時的行為。此處構成完全違犯的因素有三。
+
+   * - .. container:: mx-2
+
+          *1) Intention:* One’s motive is to hide one’s offenses.
+
+     - .. container:: mx-2
+
+          *1）動機：*\ 是為了掩蓋自己的罪行。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One continues engaging in evasive speech or in causing frustration
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 繼續進行迴避性言論或造成挫折
+
+   * - .. container:: mx-2
+
+          *3) Object:* when being questioned in the Community about a rule or an offense after the Community has brought a formal charge of evasive speech or causing frustration against one.
+
+     - .. container:: mx-2
+
+          *3）對象：*\ 在僧團正式指控自己發表迴避性言論或造成挫敗後，在僧團中被問及有關戒條或犯戒時。
+
 (未完待續)

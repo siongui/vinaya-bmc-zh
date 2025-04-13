@@ -2011,8 +2011,7 @@
 .. _《附隨》.十五.4.7: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0295a12
 .. _《附隨》.十五.5.4: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0298a10
 .. _Pc 12: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc12
-.. _《波逸提》十二: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc12
-.. TODO FIXME: replace link to 《波逸提》十二
+.. _《波逸提》十二: {filename}Section0017%zh-hant.rst#Pc12
 .. _Pc 54: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
 .. _《波逸提》五四: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
 .. TODO FIXME: replace link to 《波逸提》五四

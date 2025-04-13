@@ -314,7 +314,7 @@
      - `\　　　十一 <{filename}Section0017%zh-hant.rst#Pc11>`__
 
    * - `\　　　12 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc12>`__
-     - 　　　十二
+     - `\　　　十二 <{filename}Section0017%zh-hant.rst#Pc12>`__
 
    * - `\　　　13 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc13>`__
      - 　　　十三
