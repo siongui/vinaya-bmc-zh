@@ -416,4 +416,47 @@
 .. _波吒釐城: https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%80%A3%E5%BC%97%E9%82%91
 .. _王舍城: https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%88%8D%E5%9F%8E
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - This factor is fulfilled only if one’s motive is to conceal one’s own offenses. If one has other motives for remaining silent, asking questions, or speaking not to the point while being questioned, there is no penalty. For example, there is no offense for a bhikkhu who, when being examined,
+
+     - 只有當動機是掩飾自己的罪行時，這因素才會得到滿足。如果保持沉默、提問或在被問及時說話不切題，是出於其他動機，則不會受到懲罰。例如，當一位比丘接受審查時，
+
+   * - .. container:: mx-2
+
+          asks questions or gives answers not to the point because he does not understand what is being said,
+
+     - .. container:: mx-2
+
+          問問題或回答不中要點，因為他不明白所說的內容，
+
+   * - .. container:: mx-2
+
+          is too ill to speak,
+
+     - .. container:: mx-2
+
+          病得無法說話，
+
+   * - .. container:: mx-2
+
+          feels that in speaking he will create conflict or dissension in the Community, or
+
+     - .. container:: mx-2
+
+          覺得自己的言論會在僧團中引發衝突或分歧，或
+
+   * - .. container:: mx-2
+
+          feels that the Community will carry out its transactions unfairly or not in accordance with the rule.
+
+     - .. container:: mx-2
+
+          認為僧團將不公平或不依照戒條進行羯磨。
+
 (未完待續)
