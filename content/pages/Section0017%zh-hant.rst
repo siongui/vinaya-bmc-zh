@@ -466,7 +466,23 @@
 
      - 如果比丘為了掩蓋自己的罪行而閃爍其詞或保持沉默，他犯《突吉羅》。如果僧團認為合適，可以對他提出迴避言論或造成挫折的正式指控，以阻止他堅持這種行為。（請參閱\ `附錄八`_\ 中的這些羯磨文。）如果他繼續閃爍其詞或保持沉默，他犯《波逸提》。
 
+   * - Perception is not a factor here. Once a formal charge of evasive speech or causing frustration has been rightfully brought against a bhikkhu, and he continues to speak evasively or remain silent, he incurs a pācittiya regardless of whether he sees the charge as rightful or not. If the charge has been wrongfully brought against him, then regardless of whether he perceives the charge as wrongful, rightful, or doubtful, the offenses or lack of offenses are allotted as if the Community transaction bringing the charge had not happened at all. This covers two situations. In the first, the bhikkhu actually deserves the charge, but the transaction was not carried out strictly in accordance with formal procedure. In this case, if the bhikkhu continues to be evasive or remain silent out of a desire to hide his offenses, he incurs another dukkaṭa. In the second situation, the bhikkhu does not deserve the charge—for instance, he has asked questions or remained silent for one of the allowable reasons, but the Community has abused its powers in bringing the charge against him. In this case, if he continues to ask questions or remain silent for the allowable reasons, he incurs no offense.
+
+     - 感知在這裡不是一個因素。一旦針對比丘的迴避言論或造成挫折的正式指控已被公正地提出，而他繼續迴避言論或保持沉默，無論他是否認為該指控是正當的，他都犯《波逸提》。如果對他的指控是錯誤的，那麼無論他認為指控是錯誤的、正確的還是有疑問的，犯戒或不犯戒的認定，就如同提出指控的僧團羯磨根本沒有發生一樣。這包括兩種情況。第一種情況，比丘確實應該受到指控，但羯磨並沒有嚴格按照正式程序進行。在這種情況下，如果比丘為了掩蓋自己的罪行而繼續逃避或保持沉默，他就犯另一次《突吉羅》。在第二種情況下，比丘不應該受到指控——例如，他已經根據允許的理由提出問題或保持沉默，但僧團濫用權力對他提出指控。在這種情況下，如果他繼續提問或因為允許的理由保持沉默，他不犯戒。
+
+   * - As for the case in which the Community rightly brings a formal charge of evasive speech or causing frustration against a bhikkhu, and he incurs a pācittiya for continuing to speak evasively or remain silent: If he continues being uncooperative, he may further be subject to a more severe penalty, a censure transaction *(tajjanīya-kamma)* for being a maker of trouble and strife for the Community (`Cv.I.1-8`_\—\ `BMC2, Chapter 20`_). If he finally admits to having committed the offense about which he is being questioned—or another previously unconfessed offense—he is subject to what is essentially the same thing: an act of further punishment *(tassa-pāpiyasikā-kamma)* for not admitting to a true charge right from the start (see the discussion under the Adhikaraṇa-samatha rules, `Chapter 11`_).
+
+     - 至於如果僧團正確地正式指控比丘迴避言論或造成挫折的情況，而他繼續說話不清或保持沉默，則犯《波逸提》：如果他繼續不合作，他可能會受到更嚴厲的懲罰，即呵責(苦切)羯磨\ *（tajjanīya-kamma）*\，因為他給僧團製造了麻煩和紛爭（\ `《小品》.一.1-8`_\ —\ `《佛教修道準則 第二冊》第二十章`_\ ）。如果他最終承認犯了被質問的罪行，或者另一個之前未承認的罪行，那麼他將遭受本質上相同的懲罰：因從一開始就不承認真實指控而受到罪處所(覓罪相)\ *（tassa-pāpiyasikā-kamma）*\的懲罰（參見\ `第十一章`_\ 滅諍戒條的討論）。
+
 .. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
 .. _附錄八: {filename}Section0028%zh-hant.rst#appendixVIII
+.. _Cv.I.1-8: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.1.4
+.. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. _Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
+.. _《小品》.一.1-8: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0001a09
+.. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
+.. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
+.. TODO FIXME: replace link to 第十一章
 
 (未完待續)
