@@ -2571,8 +2571,7 @@
 .. _《大品》.三.11.6-9: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0203a09
 .. _《大品》.三.11.5: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0203a06
 .. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
-.. _附錄八: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
-.. TODO FIXME: replace link to 附錄八
+.. _附錄八: {filename}Section0028%zh-hant.rst#appendixVIII
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

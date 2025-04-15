@@ -459,4 +459,14 @@
 
           認為僧團將不公平或不依照戒條進行羯磨。
 
+   * - **Object**
+     - **對象**
+
+   * - If a bhikkhu speaks evasively or remains silent out of a desire to conceal his offenses, he incurs a dukkaṭa. If the Community sees fit, it may then bring a formal charge of evasive speech or causing frustration against him in order to restrain him from persisting in such behavior. (See `Appendix VIII`_ for these transaction statements.) If he then continues speaking evasively or remaining silent, he incurs a pācittiya.
+
+     - 如果比丘為了掩蓋自己的罪行而閃爍其詞或保持沉默，他犯《突吉羅》。如果僧團認為合適，可以對他提出迴避言論或造成挫折的正式指控，以阻止他堅持這種行為。（請參閱\ `附錄八`_\ 中的這些羯磨文。）如果他繼續閃爍其詞或保持沉默，他犯《波逸提》。
+
+.. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
+.. _附錄八: {filename}Section0028%zh-hant.rst#appendixVIII
+
 (未完待續)

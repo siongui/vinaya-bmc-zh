@@ -876,7 +876,7 @@
      - `\　　七、巴利公式：懺悔罪過 <{filename}Section0028%zh-hant.rst#appendixVII>`__
 
    * - `\　　VIII. Pali formulae: Transaction Statements <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII>`__
-     - 　　八、巴利公式：羯磨文
+     - `\　　八、巴利公式：羯磨文 <{filename}Section0028%zh-hant.rst#appendixVIII>`__
 
        ..
           Google Search: 僧團羯磨

@@ -573,6 +573,11 @@
 .. _《捨墮》三十: {filename}Section0015%zh-hant.rst#NP30
 
 
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 .. _appendixVII:
 
 .. raw:: html
@@ -585,5 +590,28 @@
 
    * - **VII. Pali formulae: Confession**
      - **七、巴利公式：懺悔罪過**
+
+
+(未完待續)
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
+.. _appendixVIII:
+
+.. raw:: html
+
+   <span id="appendixVIII"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **VIII. Pali formulae: Transaction Statements**
+     - **八、巴利公式：羯磨文**
+
 
 (未完待續)
