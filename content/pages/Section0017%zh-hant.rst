@@ -485,4 +485,25 @@
 .. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
 .. TODO FIXME: replace link to 第十一章
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - If a bhikkhu answers not to the point or remains silent for any of the allowable reasons, he incurs no penalty even after a transaction of evasive speech or causing frustration has for some reason been enacted against him.
+
+     - 如果比丘回答不中要點或因為任何允許的理由而保持沉默，即使因某種原因對他實施了迴避性言論或造成挫敗的羯磨之後，他也不犯戒。
+
+   * - *Summary: Persistently replying evasively or keeping silent in order to conceal one’s own offenses when being questioned in a meeting of the Community—after a formal charge of evasive speech or causing frustration has been brought against one—is a pācittiya offense.*
+
+     - *摘要：在僧團會議上被詢問到時，為了掩蓋自己的罪行而不斷閃爍其詞或保持沉默—在對自己提出迴避言論或造成挫敗的正式指控後—是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
