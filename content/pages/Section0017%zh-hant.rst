@@ -506,4 +506,32 @@
    \*    \*    \*
 
 
+.. _Pc13:
+
+.. raw:: html
+
+   <span id="Pc13"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **13**
+     - **十三**
+
+   * - .. container:: notification
+
+          *Criticizing or complaining (about a Community official) is to be confessed.*
+
+     - .. container:: notification
+
+          *批評或抱怨（僧團執事），波逸提。*
+
+   * - Community officials. In the Cullavagga (VI.11.2-4; VI.21.1-3), the Buddha gives allowances for a Community of bhikkhus to designate various of its members as Community officials to handle such business as distributing food, deciding who will stay in which dwelling, keeping the rosters that decide who will receive the invitations to which meals, etc. Ven. Dabba Mallaputta was the first such official and was well-equipped for the job:
+
+     - 僧團執事。在《小品》（\ `六.11.2-4`_\ ；\ `六.21.1-3`_\ ）中，佛陀允許比丘僧團指派其成員擔任僧團執事，處理諸如分配食物、決定誰將住在哪個住所、保存名冊以決定誰將收到哪些餐食的邀請等事務。\ `摩羅子陀驃尊者是第一位這樣的執事 <https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0102a12>`_\ ，並且完全有能力勝任這份工作：
+
+.. _六.11.2-4: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0225a13
+.. _六.21.1-3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0237a09
+
 (未完待續)

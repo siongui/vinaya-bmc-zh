@@ -132,8 +132,7 @@
 .. _《波羅夷》四: {filename}Section0010%zh-hant.rst#Pr4
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
 .. _九: {filename}Section0011%zh-hant.rst#Sg9
-.. _《波逸提》十三: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc13
-.. TODO FIXME: replace link to 《波逸提》十三
+.. _《波逸提》十三: {filename}Section0017%zh-hant.rst#Pc13
 .. _二四: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc24
 .. TODO FIXME: replace link to 《波逸提》二四
 .. _七六: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
