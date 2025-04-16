@@ -531,7 +531,52 @@
 
      - 僧團執事。在《小品》（\ `六.11.2-4`_\ ；\ `六.21.1-3`_\ ）中，佛陀允許比丘僧團指派其成員擔任僧團執事，處理諸如分配食物、決定誰將住在哪個住所、保存名冊以決定誰將收到哪些餐食的邀請等事務。\ `摩羅子陀驃尊者是第一位這樣的執事 <https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0102a12>`_\ ，並且完全有能力勝任這份工作：
 
+   * - .. container:: mx-2
+
+          “As for those bhikkhus who came at night, he would enter the fire element for them and by that light would assign them dwellings—so much so that bhikkhus arrived at night on purpose, thinking, ‘We will see the marvel of Ven. Dabba Mallaputta’s psychic power.’ Approaching him, they said, ‘Friend Dabba, assign us dwellings.’
+
+     - .. container:: mx-2
+
+          「至於那些夜間前來的比丘，他會為他們進入火光三昧（火界），並藉著火光為他們安排住處——以至於比丘們特意夜間前來，心想：『我們將親眼目睹摩羅子陀驃尊者神通的神奇。』他們到他那裡，說道：『陀驃朋友，請為我們安排住處。』
+
+   * - .. container:: mx-2
+
+          “Ven. Dabba Mallaputta said, ‘Where would you like? Where shall I assign them?’
+
+     - .. container:: mx-2
+
+          「摩羅子陀驃尊者說：『您想去哪裡？我該把他們分配到哪裡？』
+
+   * - .. container:: mx-2
+
+          “Then they named a distant place on purpose: ‘Friend Dabba, assign us a dwelling on Vulture’s Peak Mountain. Friend Dabba, assign us a dwelling on Robber’s Cliff….’
+
+     - .. container:: mx-2
+
+          「於是他們故意說了一個遙遠的地方的名字：『陀驃朋友，請您在靈鷲山上為我們安排一處住所。陀驃朋友，請您在盜賊嶽上為我們安排一處住所……』
+
+   * - .. container:: mx-2
+
+          “So Ven. Dabba Mallaputta, entering the fire element for them, went before them with his finger glowing, while they followed right behind him with the help of his light.”—Cv.IV.4.4
+
+     - .. container:: mx-2
+
+          「於是摩羅子陀驃尊者為他們進入火光三昧（火界），用發光的手指走在他們前面，而他們則藉助他的光芒緊隨其後。」—\ `《小品》.四.4.4`_
+
+   * - Even with his special skills, there were bhikkhus who were dissatisfied with the dwellings and meals he assigned to them—as we saw under `Sg 8`_ & 9_—and in the origin story to this rule they criticize and complain about him.
+
+     - 即使他擁有特殊技能，還是有一些比丘對他分配給他們的住所和餐食不滿意—正如我們在\ `《僧殘》八`_\ 和\ `九`_\ 中看到的那樣—並且在本戒條的起源故事中，他們批評和抱怨他。
+
+   * - The factors for a full offense here are three: object, intention, and effort—although the Vibhaṅga makes intention an integral part of its definition of the factor of effort.
+
+     - 這裡構成完整犯戒的因素有三：對象、意圖和努力—儘管《經分別》將意圖視為努力因素定義中不可或缺的一部分。
+
 .. _六.11.2-4: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0225a13
 .. _六.21.1-3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0237a09
+.. _《小品》.四.4.4: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0104a03
+.. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. _9: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
+.. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
+.. _九: {filename}Section0011%zh-hant.rst#Sg9
 
 (未完待續)
