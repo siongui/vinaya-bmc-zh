@@ -134,7 +134,7 @@
 
    * - According to `Mv.VIII.3.1`_, six kinds of cloth are suitable for making into cloth requisites: linen, cotton, silk, wool, jute (§), or hemp (§). The Sub-commentary adds that cloth made of any mixture of hemp with any of the other types of thread would be allowed under “hemp.” Applying the Great Standards, nylon, rayon, and other synthetic fibers would count as suitable as well. Unsuitable materials—such as cloth made of hair, horse-hair, grass, bark, wood-shavings, or antelope hide (and by extension, leather)—do not come under this rule. (For a full list of unsuitable materials, see `Mv.VIII.28`_—`BMC2, Chapter 2`_.) `Mv.VIII.29`_ gives a list of colors—such as black, blue, and crimson—and patterns that are not suitable for robes but that, according to the Commentary, are suitable for things like bed sheets or for linings (inside layers?) in double-layer robes (see `BMC2, Chapter 2`_). Pieces of cloth dyed these colors or printed with these patterns *would* come under this rule.
 
-     - 根據\ `《大品》.八.3.1`_\ ，六種布料適合製作布料必需品：\ `麻布`_\ 、\ `棉花`_\ 、\ `絲綢`_\ 、\ `綿`_\ 、\ `黃麻`_\ （§）或\ `火麻`_\ （§）。《複註》補充說，由\ `火麻`_\ 與任何其他類型的線的任何混合物製成的布料都可以算在「\ `火麻`_\ 」的允許下。應用《四大教示》，\ `尼龍`_\ 、\ `人造絲`_\ 和其他合成纖維也算適合。不適合的材料——例如由頭髮、馬毛、草、樹皮、刨花或羚羊皮（以及延伸而來的皮革）製成的布料——不屬於本戒條的範圍。（有關不適合材料的完整列表，請參閱\ `《大品》.八.28`_ — `《佛教修道準則 第二冊》第二章`_\ 。）\ `《大品》.八.29`_\ 列出了不適合袈裟的顏色（例如黑色、藍色和深紅色）和圖案，但根據《義註》，它適合床單或雙層袈裟的襯裡（內層？）（參見\ `《佛教修道準則 第二冊》第二章`_\ ）。染有這些顏色或印有這些圖案的布料\ *會*\ 受本戒條管轄。
+     - 根據\ `《大品》.八.3.1`_\ ，六種布料適合製作布料必需品：\ `麻布`_\ 、\ `棉花`_\ 、\ `絲綢`_\ 、\ `綿`_\ 、\ `黃麻`_\ （§）或\ `火麻`_\ （§）。《複註》補充說，由\ `火麻`_\ 與任何其他類型的線的任何混合物製成的布料都可以算在「\ `火麻`_\ 」的允許下。應用《四大教示》，\ `尼龍`_\ 、\ `人造絲`_\ 和其他合成纖維也算適合。不適合的材料——例如由頭髮、馬毛、草、樹皮、刨花或羚羊皮（以及延伸而來的皮革）製成的布料——不屬於本戒條的範圍。（有關不適合材料的完整列表，請參閱\ `《大品》.八.28`_ — `《佛教比丘戒律 第二冊》第二章`_\ 。）\ `《大品》.八.29`_\ 列出了不適合袈裟的顏色（例如黑色、藍色和深紅色）和圖案，但根據《義註》，它適合床單或雙層袈裟的襯裡（內層？）（參見\ `《佛教比丘戒律 第二冊》第二章`_\ ）。染有這些顏色或印有這些圖案的布料\ *會*\ 受本戒條管轄。
 
    * - `Mv.VIII.21.1`_ states that if a bhikkhu receives a piece of suitable cloth measuring four by eight fingerbreadths or more but does not yet plan to use it, he may place it under shared ownership *(vikappana)* until he has need for it. Once he decides to make use of the cloth, he must rescind the shared ownership (see `Pc 59`_) before making it into a finished requisite (if it isn’t already). Once it is finished, he may then determine it for use *(adhiṭṭhāna)* or place it under shared ownership again, depending on the nature of the article:
 
@@ -239,8 +239,8 @@
 .. _尼龍: https://zh.wikipedia.org/wiki/%E5%B0%BC%E9%BE%99
 .. _人造絲: https://zh.wikipedia.org/wiki/%E5%AB%98%E7%B8%88
 .. _《大品》.八.28: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0395a02
-.. _《佛教修道準則 第二冊》第二章: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#BMC2chapter2
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二章
+.. _《佛教比丘戒律 第二冊》第二章: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#BMC2chapter2
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二章
 .. _《大品》.八.29: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0396a06
 .. _Mv.VIII.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.21.1
 .. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
@@ -322,7 +322,7 @@
 
    * - Under certain circumstances (see `BMC2, Chapter 17`_) bhikkhus who have spent the Rains-residence are also entitled to participate in a *kaṭhina* ceremony in which they receive a gift of cloth from lay people, bestow it on one of their members, and then as a group make it into a robe before dawnrise of the following day. (*Kaṭhina* means frame, and refers to the frame over which the robe-cloth is stretched while sewing it, much like the frame used in America to make a quilt.) After participating in this ceremony, the bhikkhus may extend their robe season for an additional four lunar months, up to the dawn after the full-moon day that ends the cold season in late February or early-to-mid March (called Phagguna in Pali). During this period they may also take advantage of the additional privilege of not having to observe `NP 2`_. However, a bhikkhu’s kaṭhina privileges may be rescinded—and his robe season ended—earlier than that for either of two reasons:
 
-     - 在某些情況下（參見\ `《佛教修道準則 第二冊》第十七章`_\ ），度過雨安居的比丘也有權參加\ `功德衣`_\ :small:`[kaṭhina]`\ 儀式，在儀式中，他們從在家人那裡接受布料的布施，將其贈予其中一位成員，然後在第二天黎明升起前，群體將其製成袈裟。（ *Kaṭhina* 的意思是框架，指的是縫製袈裟布時將其拉伸的框架，很像美國用來製作被子的框架。）參加此儀式後，比丘們可以將他們的袈裟季節延長額外四個陰曆月，直到二月底或三月初至中旬，寒冷季節結束的滿月日之後的黎明（巴利語稱為Phagguna）。在此期間，他們還可以利用不必遵守\ `《捨墮》二`_\ 的額外方便利益\ :small:`[特權]`\ 。然而，比丘的功德衣方便利益可能會在此之前被取消——並且他的袈裟季節結束，出於以下兩個原因之一：
+     - 在某些情況下（參見\ `《佛教比丘戒律 第二冊》第十七章`_\ ），度過雨安居的比丘也有權參加\ `功德衣`_\ :small:`[kaṭhina]`\ 儀式，在儀式中，他們從在家人那裡接受布料的布施，將其贈予其中一位成員，然後在第二天黎明升起前，群體將其製成袈裟。（ *Kaṭhina* 的意思是框架，指的是縫製袈裟布時將其拉伸的框架，很像美國用來製作被子的框架。）參加此儀式後，比丘們可以將他們的袈裟季節延長額外四個陰曆月，直到二月底或三月初至中旬，寒冷季節結束的滿月日之後的黎明（巴利語稱為Phagguna）。在此期間，他們還可以利用不必遵守\ `《捨墮》二`_\ 的額外方便利益\ :small:`[特權]`\ 。然而，比丘的功德衣方便利益可能會在此之前被取消——並且他的袈裟季節結束，出於以下兩個原因之一：
 
    * - .. container:: mx-2
 
@@ -330,7 +330,7 @@
 
      - .. container:: mx-2
 
-          1）他參加了一次僧團羯磨會議，寺院裡的所有比丘自願放棄他們的功德衣方便利益。（此行為在比丘尼的\ `《波逸提》三十 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0398a07>`__\ 中討論——參見\ `《佛教修道準則 第二冊》第十七章`_\ 和\ `附錄一`_\ 。）
+          1）他參加了一次僧團羯磨會議，寺院裡的所有比丘自願放棄他們的功德衣方便利益。（此行為在比丘尼的\ `《波逸提》三十 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0398a07>`__\ 中討論——參見\ `《佛教比丘戒律 第二冊》第十七章`_\ 和\ `附錄一`_\ 。）
 
    * - .. container:: mx-2
 
@@ -422,7 +422,7 @@
 .. _四六: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
 .. TODO FIXME: replace link to 四六
 .. _BMC2, Chapter 17: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
-.. _《佛教修道準則 第二冊》第十七章: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
+.. _《佛教比丘戒律 第二冊》第十七章: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
 .. _功德衣: https://www.google.com/search?q=%E8%BF%A6%E7%B5%BA%E9%82%A3
 .. _Mv.VII.1.7: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#Mv.VII.1.7
 .. _Mv.VII.2: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#Mv.VII.2
@@ -879,7 +879,7 @@
 
    * - 3\) In `Mv.II.12.1-3`_, the Buddha directs the bhikkhus to declare a *sīmā*\—or territory in which Community transactions are enacted—as a *ticīvara-avippavāsa*, which means that if a bhikkhu’s robes are anywhere within the territory, he may greet dawnrise at any other part of that territory without committing an offense under this rule. In the early days, when such a territory might cover many monasteries (the maximum allowable size is 3x3 *yojanas*, approximately 48x48 kilometers), this was a definite convenience for bhikkhus who had to leave their monastery to join in Community meetings at another monastery in the same territory. Because it was possible for such territories to include villages and homes as well, the Buddha added the extra stipulation that robes left in the houses of lay people lying in such a territory were not covered by this exemption. For further details, see `BMC2, Chapter 13`_.
 
-     - 3）在\ `《大品》.二.12.1-3`_\ 中，佛陀指示比丘們宣告 *sīmā* —進行僧團羯磨之界—為 *ticīvara-avippavāsa* ，這意味著如果比丘的袈裟位於該界內的任何地方，他可在該界的任何其他地方迎接黎明升起，而不犯本戒條所訂的罪行。在早期，當這樣的界可能涵蓋許多寺院時（允許的最大面積為 3x3 *由旬*\ ，大約 48x48 公里），這對於必須離開寺院前往同一界內另一寺院參加僧團會議的比丘來說絕對是一個方便。因為這些界也可能包括村莊和住家，所以佛陀添加了額外的規定，即留在此類界內的居士家中的袈裟不屬於這項豁免範圍。有關更多詳細信息，請參閱\ `《佛教修道準則 第二冊》第十三章`_\ 。
+     - 3）在\ `《大品》.二.12.1-3`_\ 中，佛陀指示比丘們宣告 *sīmā* —進行僧團羯磨之界—為 *ticīvara-avippavāsa* ，這意味著如果比丘的袈裟位於該界內的任何地方，他可在該界的任何其他地方迎接黎明升起，而不犯本戒條所訂的罪行。在早期，當這樣的界可能涵蓋許多寺院時（允許的最大面積為 3x3 *由旬*\ ，大約 48x48 公里），這對於必須離開寺院前往同一界內另一寺院參加僧團會議的比丘來說絕對是一個方便。因為這些界也可能包括村莊和住家，所以佛陀添加了額外的規定，即留在此類界內的居士家中的袈裟不屬於這項豁免範圍。有關更多詳細信息，請參閱\ `《佛教比丘戒律 第二冊》第十三章`_\ 。
 
    * - At present the custom is to designate much smaller areas as territories—usually only a fraction of the land in one monastery—and although these can also be designated as ticīvara-avippavāsa, this arrangement in such cases is not the great convenience it is in the larger territories.
 
@@ -890,7 +890,7 @@
 .. _Mv.II.12.1-3: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#Mv.II.12.1
 .. _《大品》.二.12.1-3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0144a05
 .. _BMC2, Chapter 13: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
-.. _《佛教修道準則 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
+.. _《佛教比丘戒律 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1177,7 +1177,7 @@
 
    * - A *bhikkhunī*, here, means one who has received the double ordination, first in the Bhikkhunī Saṅgha and secondly in the Bhikkhu Saṅgha (see `BMC2, Chapter 23`_). A bhikkhunī who has received only her first ordination is grounds for a dukkaṭa. Female trainees and female novices are not grounds for an offense.
 
-     - 此處，\ *比丘尼*\ 是指已二部受戒的人，首先在比丘尼僧團受戒，其次在比丘僧團受戒（見\ `《佛教修道準則 第二冊》第二十三章`_\ ）。只受第一部戒的比丘尼則犯《突吉羅》。\ `式叉摩那`_\ 和\ `沙彌尼`_\ 則不犯。
+     - 此處，\ *比丘尼*\ 是指已二部受戒的人，首先在比丘尼僧團受戒，其次在比丘僧團受戒（見\ `《佛教比丘戒律 第二冊》第二十三章`_\ ）。只受第一部戒的比丘尼則犯《突吉羅》。\ `式叉摩那`_\ 和\ `沙彌尼`_\ 則不犯。
 
    * - *Unrelated* is explained by the Vibhaṅga as meaning unrelated back through seven grandfathers, either on the father’s or the mother’s side. The Commentary explains further that this means seven generations counted back starting from one’s grandfather. Thus all descendants of one’s great-great-great-great-great-great-great-grandfathers are counted as one’s relatives. In-laws, however, are not. This definition of *unrelated* applies wherever the Vibhaṅga mentions the word. At the time of the Buddha, perceived ties of kinship extended more widely than they do today, and a bhikkhu at present would be well advised to regard as his relatives only those blood-relations with whom ties of kinship are actually felt.
 
@@ -1192,8 +1192,8 @@
      - *吩咐*\ ，根據《義註》，也包括示意動作。因此，如果一位比丘尼正在清洗她的袈裟，而一位比丘將他用過的袈裟扔到她旁邊，那就滿足了這裡的因素。
 
 .. _BMC2, Chapter 23: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
-.. _《佛教修道準則 第二冊》第二十三章: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十三章
+.. _《佛教比丘戒律 第二冊》第二十三章: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十三章
 .. _式叉摩那: https://zh.wikipedia.org/wiki/%E5%BC%8F%E5%8F%89%E6%91%A9%E9%82%A3
 .. _沙彌尼: https://zh.wikipedia.org/wiki/%E6%B2%99%E5%BD%8C%E5%B0%BC
 

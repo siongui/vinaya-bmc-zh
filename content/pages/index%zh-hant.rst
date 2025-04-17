@@ -1,4 +1,4 @@
-佛教修道準則(Buddhist Monastic Code)
+佛教比丘戒律(Buddhist Monastic Code)
 ====================================
 
 :tags: 首頁
@@ -20,7 +20,7 @@
    :widths: auto
 
    * - `BMC I: The Pāṭimokkha Rules <https://www.dhammatalks.org/vinaya/bmc/Section0001.html>`__
-     - 佛教修道準則 第一冊：波羅提木叉 戒條
+     - 佛教比丘戒律 第一冊：波羅提木叉 戒條
 
    * - `\　Contents <https://www.dhammatalks.org/vinaya/bmc/Section0000.html>`__
      - `\　內容 <{filename}index%zh-hant.rst>`_
@@ -994,7 +994,7 @@
      - 　補遺
 
    * - `BMC II: The Khandhaka Rules <https://www.dhammatalks.org/vinaya/bmc/Section0034.html>`__
-     - 佛教修道準則 第二冊：犍度 戒條
+     - 佛教比丘戒律 第二冊：犍度 戒條
 
    * - `\　Cover <https://www.dhammatalks.org/vinaya/bmc/Section0033.html>`__
      - `\　封面 <https://www.dhammatalks.org/vinaya/bmc/Section0033.html>`__

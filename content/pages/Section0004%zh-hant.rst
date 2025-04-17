@@ -40,16 +40,16 @@
        | `《戒律書》 <http://www.gaya.org.tw/journal/m20/20-book2.htm>`_
 
    * - | BMC1
-       | 《佛教修道準則 第一冊》
+       | 《佛教比丘戒律 第一冊》
 
      - | The Buddhist Monastic Code, vol. I
-       | 《佛教修道準則 第一冊》
+       | 《佛教比丘戒律 第一冊》
 
    * - | BMC2
-       | 《佛教修道準則 第二冊》
+       | 《佛教比丘戒律 第二冊》
 
      - | The Buddhist Monastic Code, vol. II
-       | 《佛教修道準則 第二冊》
+       | 《佛教比丘戒律 第二冊》
 
    * - | C
        | 《義註》

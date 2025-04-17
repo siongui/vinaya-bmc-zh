@@ -45,9 +45,9 @@
 
    * - There may, of course, be times when the assigned penalties are not enough to deter an unconscientious bhikkhu from committing an offense repeatedly. In such cases, the Community in which he is living may, if it sees fit, formally impose additional penalties on him as a means of bringing him into line. These transactions range from stripping him of some of the privileges of seniority, to banishment from that particular Community, and on to suspension from the Bhikkhu Saṅgha as a whole. In each case the punishment is temporary; if the bhikkhu realizes his errors and mends his ways, the Community is to revoke the act against him and return him to his former status. These punishments are treated in detail in `BMC2, Chapter 20`_.
 
-     - 當然，有時所規定的懲罰不足以阻止不負責任的比丘重複犯罪。在這種情況下，他所居住的僧團如果認為合適，可以正式對他施加額外的懲罰，作為讓他遵守戒條的手段。這些羯磨的範圍從剝奪他的一些戒臘特權，到將他逐出特定的僧團，再到在整個比丘僧伽中舉罪\ :small:`（漢譯註：此處suspension的懲罰古譯為舉罪，和英文字面意思不同）`\ 。在每種情況下，懲罰都是暫時的；如果比丘認識到自己的錯誤並改過自新，僧團將撤銷針對他的處分，並將他恢復到原來的狀態。\ `《佛教修道準則 第二冊》第二十章 <https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20>`_\ 詳細討論了這些懲罰。
+     - 當然，有時所規定的懲罰不足以阻止不負責任的比丘重複犯罪。在這種情況下，他所居住的僧團如果認為合適，可以正式對他施加額外的懲罰，作為讓他遵守戒條的手段。這些羯磨的範圍從剝奪他的一些戒臘特權，到將他逐出特定的僧團，再到在整個比丘僧伽中舉罪\ :small:`（漢譯註：此處suspension的懲罰古譯為舉罪，和英文字面意思不同）`\ 。在每種情況下，懲罰都是暫時的；如果比丘認識到自己的錯誤並改過自新，僧團將撤銷針對他的處分，並將他恢復到原來的狀態。\ `《佛教比丘戒律 第二冊》第二十章 <https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20>`_\ 詳細討論了這些懲罰。
 
-       .. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
+       .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
 
    * - Thus, taken as a whole, the Vinaya’s system of penalties makes use of three basic principles—confession, forfeiture, and various degrees of ostracism from the Community—as means of enforcing the rules. To understand the wisdom of this system, it is important to realize how each of these principles is related to the practice of the Dhamma and the training of the mind.
 

@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u''
-SITENAME = u'佛教修道準則(Buddhist Monastic Code)'
+SITENAME = u'佛教比丘戒律(Buddhist Monastic Code)'
 # leave SITEURL blank when developing
 SITEURL = ''
 
@@ -59,8 +59,8 @@ PLUGINS = ['i18n_subsites',
            'embed_picasaweb_image']
 
 # custom setting for HTML meta info
-META_KEYWORDS = '佛教修道準則, Buddhist Monastic Code'
-META_DESCRIPTION = '佛教修道準則(Buddhist Monastic Code)'
+META_KEYWORDS = '佛教比丘戒律, Buddhist Monastic Code'
+META_DESCRIPTION = '佛教比丘戒律(Buddhist Monastic Code)'
 
 # mapping: language_code -> settings_overrides_dict
 I18N_SUBSITES = {

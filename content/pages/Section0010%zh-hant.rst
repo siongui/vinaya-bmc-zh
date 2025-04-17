@@ -516,7 +516,7 @@
 
    * - *a. False dealing:* A bhikkhu makes counterfeit money or uses counterfeit weights. The taking is accomplished when the counterfeit is accepted. This case, however, would seem to fall under the category of Deceit (see below), in that the counterfeit is a form of a lie. If the owner of an object accepts the counterfeit and hands over an object in return, the object cannot be described as stolen. However, the object obtained in trade in this way would have to be forfeited under `NP 20`_, and the Community, if it felt so inclined, could impose a disciplinary transaction on the offender (see `BMC2, Chapter 20`_).
 
-     - *a. 虛假交易：*\ 比丘製造偽鈔或使用偽造砝碼。當偽造品被接受時，「拿取」就完成了。然而，本情況似乎屬於\ **欺詐**\ 類別（見下文），因為偽造品是謊言的一種形式。如果物品的所有者接受了偽造品並交出物品作為回報，則該物品不能被描述為被偷竊。然而，根據\ `《捨墮》二十`_\ ，以這種方式透過交易獲得的物品必須被捨出，並且如果僧團願意的話，可以對違犯者實施治罪羯磨（參見\ `《佛教修道準則 第二冊》第二十章`_\ ）。
+     - *a. 虛假交易：*\ 比丘製造偽鈔或使用偽造砝碼。當偽造品被接受時，「拿取」就完成了。然而，本情況似乎屬於\ **欺詐**\ 類別（見下文），因為偽造品是謊言的一種形式。如果物品的所有者接受了偽造品並交出物品作為回報，則該物品不能被描述為被偷竊。然而，根據\ `《捨墮》二十`_\ ，以這種方式透過交易獲得的物品必須被捨出，並且如果僧團願意的話，可以對違犯者實施治罪羯磨（參見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）。
 
    * - *b. Robbery:* Using threats, a bhikkhu compels the owner of an object to give it to him. The taking is accomplished when the owner complies. This would not count as giving because the owner is not giving the item willingly.
 
@@ -538,8 +538,8 @@
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. _《捨墮》二十: {filename}Section0014%zh-hant.rst#NP20
-.. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
+.. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
 
 
 .. list-table::
@@ -766,11 +766,11 @@
 
    * - The Canon divides Saṅgha property into two sorts: light/inexpensive *(lahu-bhaṇḍa)* and heavy/expensive *(garu-bhaṇḍa)*. Light property includes such things as robes, bowls, medicine, and food; heavy property, such things as monastery land, buildings, and furnishings (see `BMC2, Chapter 7`_). The Buddha gave permission for individual Communities to appoint officials to be responsible for the proper use of Saṅgha property. The officials responsible for light property are to distribute it among the members of the Community, following set procedures to ensure that the distribution is fair (see `BMC2, Chapter 18`_). Once an individual member has received such property, he may regard it as his own and use it as he sees fit.
 
-     - 《聖典》將僧伽財產分為兩類：輕的/便宜的\ *（lahu-bhaṇḍa）*\ 和重的/昂貴的\ *（garu-bhaṇḍa）*\ 。輕財產包括袈裟、缽、藥、食等；重財產，例如寺院土地、建築物和傢俱等（參見\ `《佛教修道準則 第二冊》第七章`_\ ）。佛陀允許各僧團任命執事負責僧伽財產的適當使用。負責輕財產的執事應按照既定程序將其分配給僧團成員，以確保分配公平（請參閱\ `《佛教修道準則 第二冊》第十八章`_\ ）。個別成員收到該財產後，可以將其視為自己的財產並按照自己的意願使用。
+     - 《聖典》將僧伽財產分為兩類：輕的/便宜的\ *（lahu-bhaṇḍa）*\ 和重的/昂貴的\ *（garu-bhaṇḍa）*\ 。輕財產包括袈裟、缽、藥、食等；重財產，例如寺院土地、建築物和傢俱等（參見\ `《佛教比丘戒律 第二冊》第七章`_\ ）。佛陀允許各僧團任命執事負責僧伽財產的適當使用。負責輕財產的執事應按照既定程序將其分配給僧團成員，以確保分配公平（請參閱\ `《佛教比丘戒律 第二冊》第十八章`_\ ）。個別成員收到該財產後，可以將其視為自己的財產並按照自己的意願使用。
 
    * - In the case of heavy property, though, the officials are responsible for seeing that it is allotted for proper use in the Community, *but the individual bhikkhus allowed to use it may not regard it as their own personal property.* This is an important point. At most, such items may be taken on loan or exchanged—with the approval of the Community—for other heavy property of equal value. A bhikkhu who gives such items away to anyone—ordained or not—perceiving it as his to give, incurs a thullaccaya no matter what the value of the object (`Cv.VI.15.2`_—see `BMC2, Chapter 7`_). Of course, if he knows that it is not his to give or take, then in appropriating it as his own he incurs the penalty for stealing.
 
-     - 然而，就重財產而言，執事有責任確保其在僧團內分配得當，\ *但被允許使用的比丘個人不可將其視為自己的個人財產。*\ 這是很重要的一點。最多，這些物品可以借出，或在僧團的批准下交換為其他同等價值的重財產。比丘將這些物品給予任何人—出家與否—認為這是他的而給予，無論該物品的價值如何，犯《偷蘭遮》（\ `《小品》.六.15.2`_\ —見\ `《佛教修道準則 第二冊》第七章`_\ ）。當然，如果他知道給予或拿取的東西不是他的，那麼在將其據為己有時，他就會受到偷竊的懲罰。
+     - 然而，就重財產而言，執事有責任確保其在僧團內分配得當，\ *但被允許使用的比丘個人不可將其視為自己的個人財產。*\ 這是很重要的一點。最多，這些物品可以借出，或在僧團的批准下交換為其他同等價值的重財產。比丘將這些物品給予任何人—出家與否—認為這是他的而給予，無論該物品的價值如何，犯《偷蘭遮》（\ `《小品》.六.15.2`_\ —見\ `《佛教比丘戒律 第二冊》第七章`_\ ）。當然，如果他知道給予或拿取的東西不是他的，那麼在將其據為己有時，他就會受到偷竊的懲罰。
 
    * - The Buddha was highly critical of any bhikkhu who gives away heavy property of the Saṅgha. In the origin story to `Pr 4`_, he cites the case of a bhikkhu who, hoping to find favor with a lay person, gives that person some of the Saṅgha’s heavy property. Such a bhikkhu, he says, is one of the five great thieves of the world.
 
@@ -810,7 +810,7 @@
 
    * - In making these judgments, the Commentary is probably following the civil law of its day, for the Canon contains no reference at all to the concept of bhaṇḍadeyya, and some of its judgments contradict the Commentary’s. As we noted above, the Vibhaṅga states that if a bhikkhu breaks, scatters, burns, or otherwise renders unusable the property of another person, he incurs a dukkaṭa. When the Vinīta-vatthu discusses cases where a bhikkhu takes an item on mistaken assumptions, or where he feels compassion for an animal caught in a trap and so sets it free, it says that there is no offense. Thus it seems strange for the Commentary to assign a pārājika to an action that, according to the Canon, carries a dukkaṭa or no penalty at all. Of course, it would be a generous policy to offer the owner reasonable compensation, but it is by no means certain that a bhikkhu would have the wherewithal or liberty to do so. Because the Canon does not allow a bhikkhu to ask his supporters for donations to pay to another lay person—except for his parents (`Mv.VIII.22`_; see `BMC2, Chapter 10`_)—there is no way a bhikkhu could raise the needed funds. The Canon places only one responsibility on a bhikkhu who causes material loss to a lay person: The Community, if it sees fit, can force him to apologize to the owner (`Cv.I.20`_; see `BMC2, Chapter 20`_). Beyond that, the Canon does not require that he make material compensation of any kind. Thus, as the Commentary’s concept of bhaṇḍadeyya is clearly foreign to the Canon, there seems no reason to adopt it.
 
-     - 在做出這些判斷時，《義註》可能遵循了當時的民法，因為《聖典》根本沒有提到 bhaṇḍadeyya 的概念，而且它的一些判斷與《義註》的判斷相矛盾。正如我們上面提到的，《經分別》指出，如果比丘破壞、散落、焚燒或以其他方式使他人的財產無法使用，他犯《突吉羅》。當《Vinīta_-vatthu_》討論比丘因錯誤的假設而拿走一件物品，或者他對被困在陷阱中的動物感到同情並因此將其釋放的情況時，它說沒有犯戒。因此，根據《聖典》，《義註》為一項犯《突吉羅》或根本沒有犯戒的行為指定了《波羅夷》的懲罰，這似乎很奇怪。當然，為所有者提供合理的補償是一項慷慨之舉，但無法確定比丘是否有足夠的資金或自由這樣做。因為《聖典》不允許比丘向他的支持者索要捐款來支付給另一個在家人——除了他的父母（\ `《大品》.八.22`_\ ；見\ `《佛教修道準則 第二冊》第十章`_\ ）——所以比丘不可能籌集到所需的資金。《聖典》只規定對在家人造成物質損失的比丘承擔一項責任：如果僧團認為合適，可以強迫他向所有者道歉（\ `《小品》.一.20`_\ ；參見\ `《佛教修道準則 第二冊》第二十章`_\ ）。除此之外，《聖典》並沒有要求他做出任何形式的物質補償。因此，由於《義註》中的 bhaṇḍadeyya 概念對於正典來說顯然是不相干的，似乎沒有理由採用它。
+     - 在做出這些判斷時，《義註》可能遵循了當時的民法，因為《聖典》根本沒有提到 bhaṇḍadeyya 的概念，而且它的一些判斷與《義註》的判斷相矛盾。正如我們上面提到的，《經分別》指出，如果比丘破壞、散落、焚燒或以其他方式使他人的財產無法使用，他犯《突吉羅》。當《Vinīta_-vatthu_》討論比丘因錯誤的假設而拿走一件物品，或者他對被困在陷阱中的動物感到同情並因此將其釋放的情況時，它說沒有犯戒。因此，根據《聖典》，《義註》為一項犯《突吉羅》或根本沒有犯戒的行為指定了《波羅夷》的懲罰，這似乎很奇怪。當然，為所有者提供合理的補償是一項慷慨之舉，但無法確定比丘是否有足夠的資金或自由這樣做。因為《聖典》不允許比丘向他的支持者索要捐款來支付給另一個在家人——除了他的父母（\ `《大品》.八.22`_\ ；見\ `《佛教比丘戒律 第二冊》第十章`_\ ）——所以比丘不可能籌集到所需的資金。《聖典》只規定對在家人造成物質損失的比丘承擔一項責任：如果僧團認為合適，可以強迫他向所有者道歉（\ `《小品》.一.20`_\ ；參見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）。除此之外，《聖典》並沒有要求他做出任何形式的物質補償。因此，由於《義註》中的 bhaṇḍadeyya 概念對於正典來說顯然是不相干的，似乎沒有理由採用它。
 
    * - *Enforcement of rules.* There is one important area in which even the Commentary does not require compensation, and that is when a bhikkhu sees another bhikkhu using an inappropriate object and arranges to have it destroyed. Here the Commentary draws its argument from the origin story to this rule, in which the Buddha orders the bhikkhus to destroy an inappropriately made hut—a “potter’s hut,” which was made from earth and then fired like a pot. From this example, the Commentary draws the following judgment: If a bhikkhu starts to build an inappropriate hut in a certain territory, the “owners” of the territory (i.e., the resident senior bhikkhus) should tell him to stop. If he does not heed their decision and actually builds the hut there, then when they are able to assemble a sufficient number of righteous bhikkhus, the resident senior bhikkhus can send him an order to remove it. If, after the order has been sent three times, the hut is still not removed, the bhikkhus are to dismantle it in such a way that the materials can be reused. The original builder is then to be told to remove the materials. If he doesn’t, then the resident bhikkhus are not responsible for any loss or damage they may undergo.
 
@@ -830,10 +830,10 @@
 
 .. _BMC2, Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
 .. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
-.. _《佛教修道準則 第二冊》第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第七章
-.. _《佛教修道準則 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十八章
+.. _《佛教比丘戒律 第二冊》第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第七章
+.. _《佛教比丘戒律 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十八章
 .. _Cv.VI.15.2: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Cv.VI.15.2
 .. _《小品》.六.15.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0231a01
 .. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
@@ -848,8 +848,8 @@
 .. _Mv.VIII.22: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.VIII.22.1
 .. _BMC2, Chapter 10: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
 .. _《大品》.八.22: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0386a05
-.. _《佛教修道準則 第二冊》第十章: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十章
+.. _《佛教比丘戒律 第二冊》第十章: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十章
 .. _Cv.I.20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.20
 .. _《小品》.一.20: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0024a12
 .. _Pc 9: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
@@ -869,7 +869,7 @@
 
    * - *Infringement of copyright.* The international standards for copyright advocated by UNESCO state that infringement of copyright is tantamount to theft. However, in practice, an accusation of copyright infringement is judged not as a case of theft but as one of “fair use,” the issue being the extent to which a person in possession of an item may fairly copy that item for his/her own use or to give or sell to another person without compensating the copyright owner. Thus even a case of “unfair use” would not fulfill the factors of effort and object under this rule, in that—in creating a copy—one is not taking possession of an item that does not belong to one, and one is not depriving the owners of something already theirs. At most, the copyright owners might claim that they are being deprived of compensation owed to them, but as we have argued above, the principle of compensation owed does not rightly belong under this rule. In the terminology of the Canon, a case of unfair use would fall under either of two categories—acting for the material loss of the copyright owners or wrong livelihood—categories that entail a dukkaṭa under the general rule against misbehavior (`Cv.V.36`_). They would also make one eligible for a disciplinary transaction, such as reconciliation or banishment (see `BMC2, Chapter 20`_), which the Community could impose if it saw the infringement as serious enough to merit such a punishment.
 
-     - *侵犯版權。*\ 聯合國教科文組織所倡導的版權國際標準規定，侵害著作權等同於偷竊。然而，在實踐中，侵犯版權的指控不是被視為偷竊案件，而是被視為「合理使用」案件，問題在於擁有某項物品的人可以在多大程度上合理地為自己使用複製該物品，或在不補償版權所有者的情況下贈送或出售給他人。因此，即使是「不合理使用」的情況也不能滿足此戒條下的努力和對象因素，因為在建立拷貝時，並沒有佔有不屬於自己的物品，並且也沒有剝奪所有者已經屬於他們的東西。至多，版權所有者可能聲稱自己被剝奪了應得的賠償，但正如我們上面所論證的，所欠賠償原則不屬於本戒條的範疇。在《聖典》的術語中，不合理使用的案件屬於兩種類別中的任何一種—為版權所有者的物質損失而採取行動或邪命—根據禁止不當行為的一般戒條，這兩種類別意味著《突吉羅》（\ `《小品》.五.36`_\ ）。它們還將使一個人符合接受治罪羯磨的條件，例如下意或驅出（參見\ `《佛教修道準則 第二冊》第二十章`_\ ），如果僧團認為侵犯嚴重到足以值得受到這樣的懲罰，則可以實施之。
+     - *侵犯版權。*\ 聯合國教科文組織所倡導的版權國際標準規定，侵害著作權等同於偷竊。然而，在實踐中，侵犯版權的指控不是被視為偷竊案件，而是被視為「合理使用」案件，問題在於擁有某項物品的人可以在多大程度上合理地為自己使用複製該物品，或在不補償版權所有者的情況下贈送或出售給他人。因此，即使是「不合理使用」的情況也不能滿足此戒條下的努力和對象因素，因為在建立拷貝時，並沒有佔有不屬於自己的物品，並且也沒有剝奪所有者已經屬於他們的東西。至多，版權所有者可能聲稱自己被剝奪了應得的賠償，但正如我們上面所論證的，所欠賠償原則不屬於本戒條的範疇。在《聖典》的術語中，不合理使用的案件屬於兩種類別中的任何一種—為版權所有者的物質損失而採取行動或邪命—根據禁止不當行為的一般戒條，這兩種類別意味著《突吉羅》（\ `《小品》.五.36`_\ ）。它們還將使一個人符合接受治罪羯磨的條件，例如下意或驅出（參見\ `《佛教比丘戒律 第二冊》第二十章`_\ ），如果僧團認為侵犯嚴重到足以值得受到這樣的懲罰，則可以實施之。
 
    * - *Copying computer software.* The agreement made when installing software on a computer, by which one agrees not to give the software to anyone else, comes under contract law. As such, a breach of that contract would be treated under the category of “deceit,” described above, which means that a bhikkhu who gives software to a friend in defiance of this contract would incur the penalty for a broken promise. As for the friend—assuming that he is a bhikkhu—the act of receiving the software and putting it on his computer would be treated under the precedent, mentioned above, of the bhikkhus receiving fruit from an orchard groundkeeper not authorized to give it away: He would incur no offense. However, as he must agree to the contract before installing the software on his computer, he would incur a penalty for a broken promise if he then gave the software to someone else in defiance of the contract.
 
@@ -1119,7 +1119,7 @@
 
    * - There is a series of cases in the Vinīta-vatthu in which bhikkhus provide medicines for women seeking an abortion, followed by two cases in which a bhikkhu provides medicines to a barren woman who wants to become fertile and to a fertile woman who wants to become barren. In neither of these two latter cases does anyone die or suffer pain, but in both cases the bhikkhu incurs a dukkaṭa. From this, the Commentary infers that bhikkhus are not to act as doctors to lay people, an inference supported by the Vibhaṅga to `Sg 13`_. (The Commentary, though, gives a number of exceptions to this principle. See the discussion in `BMC2, Chapter 5`_.)
 
-     - 《Vinīta_-vatthu_》中有\ `一系列比丘為尋求墮胎的婦女提供藥物的案例`_\ ，隨後還有兩個案例，其中有一位比丘，為一位想要生育的不孕婦女，和一位想要避孕的生育婦女，提供藥物。在後兩個案例下，沒有人死亡或遭受痛苦，但在這兩個案例下，比丘都犯《突吉羅》。由此，《義註》推論出比丘不應充當在家人的醫生，這一推論得到了\ `《僧殘》十三`_\ 的《經分別》的支持。（不過，《義註》給出了這一原則的一些例外情況。參見\ `《佛教修道準則 第二冊》第五章`_\ 的討論。)
+     - 《Vinīta_-vatthu_》中有\ `一系列比丘為尋求墮胎的婦女提供藥物的案例`_\ ，隨後還有兩個案例，其中有一位比丘，為一位想要生育的不孕婦女，和一位想要避孕的生育婦女，提供藥物。在後兩個案例下，沒有人死亡或遭受痛苦，但在這兩個案例下，比丘都犯《突吉羅》。由此，《義註》推論出比丘不應充當在家人的醫生，這一推論得到了\ `《僧殘》十三`_\ 的《經分別》的支持。（不過，《義註》給出了這一原則的一些例外情況。參見\ `《佛教比丘戒律 第二冊》第五章`_\ 的討論。)
 
    * - The question arises as to whether one’s own life would qualify as “object” under this rule—in other words, the extent to which attempted suicides are covered here. The Vibhaṅga to this rule mentions three types of suicide, treating each of them differently.
 
@@ -1151,8 +1151,8 @@
 .. _BMC2, Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
 .. _一系列比丘為尋求墮胎的婦女提供藥物的案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0113a01
 .. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
-.. _《佛教修道準則 第二冊》第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第五章
+.. _《佛教比丘戒律 第二冊》第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第五章
 .. _起源故事: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0092a07
 .. _一個比丘試圖跳崖自殺: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0111a09
 .. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
@@ -1394,7 +1394,7 @@
      - 然而，如果一位比丘照顧病人時以切斷病人命根的方式行事，那就滿足了這裡的努力因素。《Vinīta_-vatthu_》透過一組比丘為病人提供實際上對病人有害的治療的案例來闡述這一點。在有其他犯戒因素的情況下－比丘意圖殺死病人，而病人死亡－比丘則完全違犯此戒。在另一組案例中，一位比丘對一位遭受劇烈痛苦的朋友感到憐憫，並稱讚死後等待著他的快樂。再者，當比丘意圖導致病人死亡而病人死亡時，比丘犯《波羅夷》。
 
    * - For more on the topic of medical care, see `BMC2, Chapter 5`_.
-     - 有關醫療護理主題的更多信息，請參閱\ `《佛教修道準則 第二冊》第五章`_\ 。
+     - 有關醫療護理主題的更多信息，請參閱\ `《佛教比丘戒律 第二冊》第五章`_\ 。
 
    * - *Shared responsibility.* Unlike the Vibhaṅga to the preceding rule, the Vibhaṅga here does not explicitly discuss the issue of how to allot penalties when a group of bhikkhus acts together to commit a murder but only one of them delivers the fatal blow. However, the Vinīta-vatthu contains a series of cases in which bhikkhus act as a group to give a treatment to a sick bhikkhu with the aim of ending his life. When the bhikkhu dies, all of them incur a pārājika. In one of the cases the bhikkhu dies from a medical treatment to the nose, in another he dies from eating food. None of the texts discuss whether all the bhikkhus in question took turns giving the fatal dosage, or if only one of the bhikkhus did while the others helped to prepare it. Given that arranging an assassin would fulfill the factor of effort under this rule, it seems reasonable to infer that actively assisting in a murder would also fulfill the factor, even if one does not deliver the fatal blow. From this inference we can conclude that the discussion of shared responsibility under the preceding rule would also apply here.
 
@@ -1745,7 +1745,7 @@
 
    * - There are other occult abilities that are not based on jhāna and for this reason do not count as mahaggata dhamma: such things as divination, giving protective charms, casting malevolent spells, psychic healing, practicing as a medium, etc. The discourses list these and other similar activities as *tiracchāna-vijjā,* animal knowledge, which—as the name implies—is far removed from superior human states. (See `BMC2, Chapter 10`_.)
 
-     - 還有其他一些不以禪那為基礎的神秘能力，因此不算作廣大法：如占卜、給予護身符、施放惡意咒語、通靈治療、修行媒介等。經文列出了這些和其他類似的行為，稱為 *tiracchāna-vijjā* （\ `畜生明`_\ ），顧名思義，與上人法相去甚遠。 （參見\ `《佛教修道準則 第二冊》第十章`_\ 。）
+     - 還有其他一些不以禪那為基礎的神秘能力，因此不算作廣大法：如占卜、給予護身符、施放惡意咒語、通靈治療、修行媒介等。經文列出了這些和其他類似的行為，稱為 *tiracchāna-vijjā* （\ `畜生明`_\ ），顧名思義，與上人法相去甚遠。 （參見\ `《佛教比丘戒律 第二冊》第十章`_\ 。）
 
 .. _上人法: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0124a09
 .. _結使: https://zh.wikipedia.org/wiki/%E7%B5%90_(%E4%BD%9B%E6%95%99)
@@ -1991,7 +1991,7 @@
 
    * - A bhikkhu who violates any of these four pārājika rules is automatically no longer a bhikkhu. There is no need for him to go through a formal ceremony of disrobing, for the act of violating the rule is an act of disrobing in and of itself. As each of the rules states, he is no longer in affiliation, which the word-analysis defines as no longer having a single transaction (i.e., he can no longer participate in any Community meetings), no longer having a single recitation (i.e., he can no longer participate in the uposatha (see `BMC2, Chapter 15`_)), no longer having a training in common with the bhikkhus.
 
-     - 比丘違反這四種《波羅夷》戒條中的任何一個，就自動不再是比丘。他不需要經過正式的還俗儀式，因為違反戒條的行為本身就是還俗行為。正如每條戒條所述，他不再具有從屬關係，語句解說將其定義為不再進行一次僧伽羯磨（即，他不能再參加任何僧團集會），不再進行一次誦戒（即，他不能再參加布薩（見\ `《佛教修道準則 第二冊》第十五章`_\ ）），也不能再與比丘們共同受訓。
+     - 比丘違反這四種《波羅夷》戒條中的任何一個，就自動不再是比丘。他不需要經過正式的還俗儀式，因為違反戒條的行為本身就是還俗行為。正如每條戒條所述，他不再具有從屬關係，語句解說將其定義為不再進行一次僧伽羯磨（即，他不能再參加任何僧團集會），不再進行一次誦戒（即，他不能再參加布薩（見\ `《佛教比丘戒律 第二冊》第十五章`_\ ）），也不能再與比丘們共同受訓。
 
    * - Even if a bhikkhu who has violated any of these rules continues to pretend to be a bhikkhu, he does not really count as one; as soon as the facts are known he must be expelled from the Saṅgha. He can never again properly ordain as a bhikkhu in this life. If he tries to ordain in a Community that does not know of his offense, his ordination is invalid, and he must be expelled as soon as the truth is found out.
 
@@ -2036,7 +2036,7 @@
 
    * - *The twelve equivalent pārājikas* include the eleven disqualified types who should not be ordained as bhikkhus in the first place. If they happen to be ordained, their ordination is invalid; once they are found out they must be expelled for life (`Mv.I.61-68`_; see `BMC2, Chapter 14`_ for details). They are—
 
-     - 十二種等同的《波羅夷》包括十一種不合格的類型，他們從一開始就不應該受具足戒為比丘。若已受戒，其受戒無效；一旦被發現，必須終身擯出（\ `《大品》.一.61-68`_\ ；詳情請參閱\ `《佛教修道準則 第二冊》第十四章`_\ ）。他們是-
+     - 十二種等同的《波羅夷》包括十一種不合格的類型，他們從一開始就不應該受具足戒為比丘。若已受戒，其受戒無效；一旦被發現，必須終身擯出（\ `《大品》.一.61-68`_\ ；詳情請參閱\ `《佛教比丘戒律 第二冊》第十四章`_\ ）。他們是-
 
    * - a paṇḍaka (essentially, a eunuch or a person born neuter—see Saṅghādisesa 2),
      - `黃門`_\ （本質上是太監或生來中性的人－見《僧殘》二），
@@ -2083,8 +2083,8 @@
      - 除了二十種實際的和等同的《波羅夷》之外，《義註》還單獨列出了四種 *anulomika* （衍生的）《波羅夷》，這實際上是\ `《波羅夷》一`_\ 中包含的四種狀況：背部柔軟的比丘，將陰莖插入嘴裡的比丘，陰莖較長的比丘插入自己的肛門、與他人進行口交的比丘、以及接受肛交的比丘。其中三種也可以推論適用於比丘尼。為什麼《義註》將這些案例列為單獨的《波羅夷》很難說，除非只是為了確保\ `《波羅夷》一`_\ 的這些排列不會被忽視。儘管如此，24 種完整的清單仍然很重要，因為根據處理虛假指控另一比丘犯有《波羅夷》的戒條（\ `《僧殘》八`_\ 和\ `《僧殘》九`_\ ）或處理隱瞞另一比丘的《波羅夷》罪行的戒條（\ `《波逸提》六四`_\ ），《義註》定義了\ *《波羅夷》*\ 也包括等同的和衍生的《波羅夷》。
 
 .. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
-.. _《佛教修道準則 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十五章
+.. _《佛教比丘戒律 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十五章
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _《波羅夷》一: #Pr1
 .. _Mv.I.78.2-5: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.78.2-5
@@ -2097,8 +2097,8 @@
 .. _Mv.I.61-68: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.61.2
 .. _BMC2, Chapter 14: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
 .. _《大品》.一.61-68: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0106a14
-.. _《佛教修道準則 第二冊》第十四章: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十四章
+.. _《佛教比丘戒律 第二冊》第十四章: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十四章
 .. _《小品》.十.26.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0371a05
 .. _9: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
 .. _Pc 64: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64

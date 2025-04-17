@@ -73,7 +73,7 @@
 
    * - The Commentary adds that if, after a suitable length of time, no one comes to claim the item, the bhikkhu should have it exchanged for something of lasting use to the monastery. If, after that, the owner does come to claim the item, the bhikkhu should tell him/her of the use to which it was put. If the owner is satisfied, there is no problem. If not, the bhikkhu should arrange to have the owner compensated. However, as we noted in the discussion of compensation under `Pr 2`_, the Canon imposes only one potential penalty on a bhikkhu in a situation such as this: The Community, if it sees fit, can force him to apologize to the owner (`Cv.I.20`_; see `BMC2, Chapter 20`_).
 
-     - 《義註》補充說，如果在一段適當的時間後，沒有人來領取該物品，比丘應該將其換成對寺院持久使用的東西。如果之後，所有者真的來領取該物品，比丘應該告訴他/她該物品的用途。如果所有者滿意的話就沒有問題。如果不滿意，比丘應該安排對所有者進行補償。然而，正如我們在討論\ `《波羅夷》二`_\ 下的賠償時所指出的，在這種情況下，《聖典》只對比丘施加一種潛在的處罰：如果僧團認為合適，可以強迫他向所有者道歉（\ `《小品》.一.20`_\；見\ `《佛教修道準則 第二冊》第二十章`_\）。
+     - 《義註》補充說，如果在一段適當的時間後，沒有人來領取該物品，比丘應該將其換成對寺院持久使用的東西。如果之後，所有者真的來領取該物品，比丘應該告訴他/她該物品的用途。如果所有者滿意的話就沒有問題。如果不滿意，比丘應該安排對所有者進行補償。然而，正如我們在討論\ `《波羅夷》二`_\ 下的賠償時所指出的，在這種情況下，《聖典》只對比丘施加一種潛在的處罰：如果僧團認為合適，可以強迫他向所有者道歉（\ `《小品》.一.20`_\；見\ `《佛教比丘戒律 第二冊》第二十章`_\）。
 
    * - The factors for the offense here are four.
      - 這裡的犯戒因素有四個。
@@ -95,8 +95,8 @@
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
 .. _《小品》.一.20: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0024a12
-.. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
+.. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
 
 
 .. list-table::

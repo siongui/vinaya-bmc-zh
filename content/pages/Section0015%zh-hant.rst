@@ -294,11 +294,11 @@
 
    * - If the offender treats it improperly—putting it in a place where it might get damaged, using it in the wrong sort of way (on both of these points, see `BMC2, Chapter 3`_)—or tries to get rid of it (§), thinking, “How can this bowl be lost or destroyed or broken,” he incurs a dukkaṭa.
 
-     - 如果犯戒者對待它不當——將其放在可能損壞的地方，以錯誤的方式使用它（這兩點，請參閱\ `《佛教修道準則 第二冊》第三章`_\ ）——或試圖擺脫它（§），心想：「這個缽怎麼才會遺失、毀壞或破碎呢？」
+     - 如果犯戒者對待它不當——將其放在可能損壞的地方，以錯誤的方式使用它（這兩點，請參閱\ `《佛教比丘戒律 第二冊》第三章`_\ ）——或試圖擺脫它（§），心想：「這個缽怎麼才會遺失、毀壞或破碎呢？」
 
 .. _BMC2, Chapter 3: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#BMC2chapter3
-.. _《佛教修道準則 第二冊》第三章: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#BMC2chapter3
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第三章
+.. _《佛教比丘戒律 第二冊》第三章: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#BMC2chapter3
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第三章
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -408,7 +408,7 @@
 
    * - *Oil*, according to the Vibhaṅga, includes sesame oil, mustard seed oil, “honey tree” oil, castor oil, and oil from tallow. The Commentary adds that oil made from any plants not listed in the Vibhaṅga carries a dukkaṭa if kept more than seven days, although it would seem preferable to use the Great Standards and simply apply the full offense under this rule to all plant oils that can be used as food; and to class as medicines (see `BMC2, Chapter 5`_) any aromatic plant oils—such as tea-tree oil or peppermint oil—made from leaves or resins that qualify as medicines that can be kept for life.
 
-     - *油*\，根據《經分別》，包括芝麻油、芥菜籽油、「蜜樹」油、蓖麻油和動物脂油。《義註》補充說，由任何未列入《經分別》中的植物製成的油，如果保存超過七天，犯《突吉羅》，儘管使用《四大教示》似乎更合適，並且只需將本戒條下的完全違犯適用於所有可當食物使用的植物油；並將任何由可以作為可以終生保存藥物的葉子或樹脂製成的芳香植物油（例如茶樹油或薄荷油）歸類為藥物（參見\ `《佛教修道準則 第二冊》第五章`_\ ）。
+     - *油*\，根據《經分別》，包括芝麻油、芥菜籽油、「蜜樹」油、蓖麻油和動物脂油。《義註》補充說，由任何未列入《經分別》中的植物製成的油，如果保存超過七天，犯《突吉羅》，儘管使用《四大教示》似乎更合適，並且只需將本戒條下的完全違犯適用於所有可當食物使用的植物油；並將任何由可以作為可以終生保存藥物的葉子或樹脂製成的芳香植物油（例如茶樹油或薄荷油）歸類為藥物（參見\ `《佛教比丘戒律 第二冊》第五章`_\ ）。
 
    * - `Mv.VI.2.1`_ allows five kinds of tallow: bear, fish, alligator, pig, and donkey tallow. Because bear meat is one of the kinds normally unallowable for bhikkhus, the Sub-commentary interprets this list as meaning that oil from the tallow of any animal whose flesh is allowable—and from any animal whose flesh, if eaten, carries a dukkaṭa—is allowable here. Because human flesh, if eaten, carries a thullaccaya, oil from human fat is not allowed.
 
@@ -451,8 +451,8 @@
 .. _Mv.VI.34.21: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.34.21
 .. _《大品》.六.34.21: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0321a02
 .. _BMC2, Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
-.. _《佛教修道準則 第二冊》第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第五章
+.. _《佛教比丘戒律 第二冊》第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第五章
 .. _Mv.VI.2.1: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.2.1
 .. _《大品》.六.2.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0268a09
 .. _Mv.VI.2.2: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts2_2
@@ -1256,7 +1256,7 @@
 
    * -  *Robe-cloth offered in urgency* is any piece of the six allowable kinds of robe-cloth, measuring at least four by eight fingerbreadths, offered under the following conditions: The donor is someone who wants the greater merit that some people believe accrues to a gift of cloth given during the robe season, but who does not want to wait until the robe season to make an offering, either because his/her survival is in doubt—as when a soldier is going into war, a traveler is about to set out on a journey, or a woman has become pregnant—or because he/she has developed new-found faith in the religion. At any time from the fifth through the fifteenth day of the waxing moon at the end of the first Rains-residence (see `BMC2, Chapter 11`_) he/she sends a messenger to the bhikkhus, saying, “May the venerable ones come. I am giving a Rains-residence (cloth).” (The Commentary adds that the donor can also simply bring the cloth to the bhikkhus him- or herself.) Out of compassion for the donor, the bhikkhus should accept the cloth and then, before putting it aside, mark it as robe-cloth offered in urgency. The cloth can then be kept throughout the robe season—the first month after the Rains if the kaṭhina is not spread; and the period during which the kaṭhina privileges are in effect if it is.
 
-     - 緊急供養的袈裟布是六種允許類型的袈裟布中的任一種，尺寸至少為四指寬乘以八指寬，供養條件如下：供養者是想要獲得更大功德的人，有些人認為，在袈裟季節布施布料可以增加功德，但不想等到袈裟季節再去供養，要麼是因為他/她懷疑是否能活到那時—例如當士兵奔赴戰場，旅人即將啟程，或婦女懷孕時—或者因為他/她對宗教建立了新的信仰。在前雨季居結束時從上弦月的第五天到第十五天的任何時間（見\ `《佛教修道準則 第二冊》第十一章`_\ ），他/她派遣使者去見比丘們，說道：「願尊者們到來。我正在布施雨安居（布料）。（《義註》補充說，布施者也可以自己把布帶給比丘。）出於對布施者的慈悲，比丘應該接受布，然後在放在一邊之前，將其標記為緊急供養的袈裟布。然後，可以在整個袈裟季節（雨季後的第一個月，如果沒有敷展功德衣；如果有敷展的話，功德衣方便利益的有效期限）保留這塊布料。
+     - 緊急供養的袈裟布是六種允許類型的袈裟布中的任一種，尺寸至少為四指寬乘以八指寬，供養條件如下：供養者是想要獲得更大功德的人，有些人認為，在袈裟季節布施布料可以增加功德，但不想等到袈裟季節再去供養，要麼是因為他/她懷疑是否能活到那時—例如當士兵奔赴戰場，旅人即將啟程，或婦女懷孕時—或者因為他/她對宗教建立了新的信仰。在前雨季居結束時從上弦月的第五天到第十五天的任何時間（見\ `《佛教比丘戒律 第二冊》第十一章`_\ ），他/她派遣使者去見比丘們，說道：「願尊者們到來。我正在布施雨安居（布料）。（《義註》補充說，布施者也可以自己把布帶給比丘。）出於對布施者的慈悲，比丘應該接受布，然後在放在一邊之前，將其標記為緊急供養的袈裟布。然後，可以在整個袈裟季節（雨季後的第一個月，如果沒有敷展功德衣；如果有敷展的話，功德衣方便利益的有效期限）保留這塊布料。
 
    * - The question is, why mark it?
      - 問題是，為什麼要標記它？
@@ -1266,8 +1266,8 @@
      - 《義註》認為，因為這塊布料算是雨安居布料，所以只有在雨安居期間一直保留著住處的比丘們之間才能適當地分配它。如果任何其他比丘收到這樣的一塊布，他必須歸還，因為它屬於僧團。因此，該標記的目的在於使其被識別。然而，如果這是理由的話，就沒有理由將這塊布料與其他雨安居布料的布施區別對待了。《義註》後面的一段話提出了這個標記更可能存在的理由：雨安居最後十天收到的其他布料布施的壽命，根據\ `《捨墮》一`_\ 或\ `三`_\ ，可以延續到袈裟季節結束後。例如，如果在雨季結束前五天布料被供養了，那麼在袈裟季節結束後，它可以被再保留五天——無需決意它或將其置於共享所有權之下；如果不夠製作一件袈裟，還可以再保留二十五天。然而，正如《經分別》明確指出的，緊急供養的袈裟布的使用壽命不會超過袈裟季節的結束。因此，在收到這樣的布料布施時，應該在放在一邊之前做好標記，以免在袈裟季節結束到來時忘記它的狀態。
 
 .. _BMC2, Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#BMC2chapter11
-.. _《佛教修道準則 第二冊》第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#BMC2chapter11
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十一章
+.. _《佛教比丘戒律 第二冊》第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#BMC2chapter11
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十一章
 .. _3: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
 .. _三: {filename}Section0013%zh-hant.rst#NP3
 
@@ -1352,7 +1352,7 @@
 
      - .. container:: mx-2
 
-          1）比丘度過了前雨安居（見\ `《佛教修道準則 第二冊》第十一章`_\ ）而未破安居。
+          1）比丘度過了前雨安居（見\ `《佛教比丘戒律 第二冊》第十一章`_\ ）而未破安居。
 
    * - .. container:: mx-2
 
@@ -1418,13 +1418,13 @@
 
    * - None of the texts, by the way, define *village territory* in the context of this exemption. Apparently it has the same meaning as the village territory mentioned in `Mv.II.12.7`_ which, according to the Commentary to that rule, includes not only the built-up area of the village but also any surrounding areas—such as land under cultivation—from which it collects taxes (see `BMC2, Chapter 13`_).
 
-     - 順便說一句，沒有任何文獻在這一豁免的背景下對\ *村界*\ 進行定義。顯然，它與\ `《大品》.二.12.7`_\ 中提到的村界具有相同的含義，根據該戒條的《義註》，它不僅包括村莊的建成區，還包括村莊的任何從中徵稅的週邊區域（例如耕地）（參見\ `《佛教修道準則 第二冊》第十三章`_\ ）。
+     - 順便說一句，沒有任何文獻在這一豁免的背景下對\ *村界*\ 進行定義。顯然，它與\ `《大品》.二.12.7`_\ 中提到的村界具有相同的含義，根據該戒條的《義註》，它不僅包括村莊的建成區，還包括村莊的任何從中徵稅的週邊區域（例如耕地）（參見\ `《佛教比丘戒律 第二冊》第十三章`_\ ）。
 
 .. _Mv.II.12.7: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#Mv.II.12.7
 .. _BMC2, Chapter 13: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
 .. _《大品》.二.12.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0146a11
-.. _《佛教修道準則 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十三章
+.. _《佛教比丘戒律 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十三章
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

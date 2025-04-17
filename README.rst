@@ -1,5 +1,5 @@
 ====================================
-佛教修道準則(Buddhist Monastic Code)
+佛教比丘戒律(Buddhist Monastic Code)
 ====================================
 
 .. image:: https://github.com/siongui/vinaya-bmc-zh/workflows/Pelican%20site%20CI/badge.svg

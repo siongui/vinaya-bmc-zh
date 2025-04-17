@@ -622,7 +622,7 @@
 
    * - Otherwise, the Vibhaṅga does not discuss the issue of bhikkhus who intentionally make active contact with women for purposes other than lust or affection—e.g., helping a woman who has fallen into a raging river—but the Commentary does. It introduces the concept of *anāmāsa*, things carrying a dukkaṭa penalty when touched; women and women’s clothing top the list. (See `BMC2, Appendix V`_ for the entire list.) It then goes into great detail to tell how one should behave when one’s mother falls into a raging river. Under no circumstances, it says, should one grab hold of her, although one may extend a rope, a board, etc., in her direction. If she happens to grab hold of her son the bhikkhu, he should not shake her off but should simply let her hold on as he swims back to shore.
 
-     - 除此之外，《經分別》並沒有討論比丘出於欲望或感情以外的目的而故意與女人主動接觸的問題，例如幫助落入洶湧河流的女人，但《義註》卻討論了這一問題。它引入了 *anāmāsa* 的概念，即觸摸時會受到《突吉羅》懲罰的事物；女人和女人的服裝位居榜首。（完整清單請參見\ `《佛教修道準則 第二冊》附錄五`_\）然後，它詳細講述了當母親掉進洶湧的河流時應該如何行動。它說，在任何情況下，都不應抓住她，儘管可以向她的方向伸出一根繩子、一塊木板等。如果她碰巧抓住了她的兒子比丘，他不應該把她甩開，而應該讓她抓住，然後游回岸邊。
+     - 除此之外，《經分別》並沒有討論比丘出於欲望或感情以外的目的而故意與女人主動接觸的問題，例如幫助落入洶湧河流的女人，但《義註》卻討論了這一問題。它引入了 *anāmāsa* 的概念，即觸摸時會受到《突吉羅》懲罰的事物；女人和女人的服裝位居榜首。（完整清單請參見\ `《佛教比丘戒律 第二冊》附錄五`_\）然後，它詳細講述了當母親掉進洶湧的河流時應該如何行動。它說，在任何情況下，都不應抓住她，儘管可以向她的方向伸出一根繩子、一塊木板等。如果她碰巧抓住了她的兒子比丘，他不應該把她甩開，而應該讓她抓住，然後游回岸邊。
 
    * - Where the Commentary gets the concept of *anāmāsa* is hard to say. Perhaps it came from the practices of the brahman caste, who are very careful not to touch certain things and people of certain lower castes. At any rate, there is no direct basis for it in the Canon. Although the concept has received wide acceptance in Theravādin Communities, many highly respected Vinaya experts have made an exception right here, saying that there is nothing wrong in touching a woman when one’s action is based not on lust but on a desire to save her from danger. Even if there is an offense in doing so, there are other places where Buddhaghosa recommends that one be willing to incur a minor penalty for the sake of compassion (e.g., digging a person out of a hole into which he has fallen), and the same principle surely holds here.
 
@@ -637,8 +637,8 @@
 .. _《波逸提》七四: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
 .. TODO FIXME: replace link to 《波逸提》七四
 .. _BMC2, Appendix V: https://www.dhammatalks.org/vinaya/bmc/Section0072.html#BMC2appendixFIVE
-.. _《佛教修道準則 第二冊》附錄五: https://www.dhammatalks.org/vinaya/bmc/Section0072.html#BMC2appendixFIVE
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》附錄五
+.. _《佛教比丘戒律 第二冊》附錄五: https://www.dhammatalks.org/vinaya/bmc/Section0072.html#BMC2appendixFIVE
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》附錄五
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _Pc 52: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc52
 .. _《波逸提》五二: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc52
@@ -1455,19 +1455,19 @@
 
    * - The Canon repeatedly refers to two arrangements for the ownership of dwellings used by bhikkhus: They belong either to the Community or to an individual (or group of individuals). From the point of view of Community governance, the prior arrangement is preferable, for the Community can then allot the dwelling as it sees fit (see `BMC2, Chapter 18`_). Also, a number of the rules governing the care and use of huts—such as `Pc 15`_, 16_, & 17_\—apply only to dwellings belonging to the Community.
 
-     - 《聖典》一再提到比丘所使用的住處的所有權有兩種安排：它們要麼屬於僧團，要麼屬於個人（或個人團體）。從僧團治理的角度來看，事先安排是更可取的，因為僧團可以根據需要分配住處（參見\ `《佛教修道準則 第二冊》第十八章`_\）。此外，許多管理小屋維護和使用的戒條（例如\ `《波逸提》十五`_\、\ `十六`_\ 和\ `十七`_\）僅適用於屬於僧團的住處。
+     - 《聖典》一再提到比丘所使用的住處的所有權有兩種安排：它們要麼屬於僧團，要麼屬於個人（或個人團體）。從僧團治理的角度來看，事先安排是更可取的，因為僧團可以根據需要分配住處（參見\ `《佛教比丘戒律 第二冊》第十八章`_\）。此外，許多管理小屋維護和使用的戒條（例如\ `《波逸提》十五`_\、\ `十六`_\ 和\ `十七`_\）僅適用於屬於僧團的住處。
 
    * - The Vibhaṅga to this rule defines *destined for himself* as “for his own use.” On the surface this could mean that one plans to use the hut after handing ownership over to the Community, but the Commentary states that this is not so. To dedicate something for one’s own use, it says, is to claim ownership over it: In this case, one regards the dwelling as “mine.” The Commentary’s position is supported by the protocols followed by the lodging bestower and lodging assignor (see `BMC2, Chapter 18`_) in allotting dwellings belonging to the Community: Outside of the Rains-residence, a bhikkhu could be moved from a Community dwelling at any time; during the Rains-residence, the bhikkhu who built a particular dwelling might find himself unable to stay there because many bhikkhus with more seniority or more pressing needs had decided to spend the Rains in that location. Thus if a bhikkhu planned the dwelling for his own use, he would not want it to be subject to the protocols governing Community dwellings.
 
-     - 本戒條的《經分別》將\ *為自己建造*\ `定義為「供他自己使用」 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0208a10>`_\。從表面上看，這可能意味著計劃在將所有權移交給僧團後使用小屋，但《義註》指出事實並非如此。它說，將某物奉獻給自己使用，就是聲稱對其擁有所有權：在這種情況下，將住處視為「我的」。《義註》的立場得到了住宿贈予者和住宿分配者在分配屬於僧團的住處時所遵循的行儀（參見\ `《佛教修道準則 第二冊》第十八章`_\）的支持：在雨安居之外，比丘可以隨時從僧團住處搬走；在雨安居期間，建造特定住處的比丘可能會發現自己無法住在那裡，因為許多戒臘較高或有更迫切需要的比丘決定在該地點度過雨安居。因此，如果比丘計劃將住處供自己使用，他不希望它受到管理僧團住處的行儀的約束。
+     - 本戒條的《經分別》將\ *為自己建造*\ `定義為「供他自己使用」 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0208a10>`_\。從表面上看，這可能意味著計劃在將所有權移交給僧團後使用小屋，但《義註》指出事實並非如此。它說，將某物奉獻給自己使用，就是聲稱對其擁有所有權：在這種情況下，將住處視為「我的」。《義註》的立場得到了住宿贈予者和住宿分配者在分配屬於僧團的住處時所遵循的行儀（參見\ `《佛教比丘戒律 第二冊》第十八章`_\）的支持：在雨安居之外，比丘可以隨時從僧團住處搬走；在雨安居期間，建造特定住處的比丘可能會發現自己無法住在那裡，因為許多戒臘較高或有更迫切需要的比丘決定在該地點度過雨安居。因此，如果比丘計劃將住處供自己使用，他不希望它受到管理僧團住處的行儀的約束。
 
    * - The Commentary’s interpretation thus suggests that this rule and the following one were intended to discourage bhikkhus from maintaining ownership over the huts they build, for as the non-offense clauses state, the stipulations in this rule do not apply to huts built for the use of others. As the Commentary notes, this exemption applies both to huts built for other people—such as one’s preceptor or mentor—or for the Community. This would open a loophole for one to build a hut for another bhikkhu and for him to claim ownership over it independently of the Community, all without following the stipulations under the rules, but apparently the compilers of the Vibhaṅga did not regard the act of building a hut as a gift for another bhikkhu as something they had the right to forbid.
 
      - 因此，《義註》的解釋表明，本戒條和以下一條戒條的目的是阻礙比丘保留對其所建造的小屋的所有權，因為正如不犯條款所規定的那樣，本戒條中的規定不適用於為其他人使用而建造的小屋。正如《義註》所指出的，這項豁免適用於為其他人（例如戒師或導師）或為僧團建造的小屋。這將打開一個漏洞，讓某人為另一位比丘建造一間小屋，並讓他獨立於僧團而聲稱擁有它的所有權，所有這些都沒有遵守戒條的規定，但顯然，《經分別》的編纂者並沒有考慮建造一間小屋作為禮物送給另一位比丘的行為，因為他們有權禁止這樣做。
 
 .. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
-.. _《佛教修道準則 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十八章
+.. _《佛教比丘戒律 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十八章
 .. _Pc 15: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc15
 .. _16: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc16
 .. _17: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc17
@@ -1694,7 +1694,7 @@
      - **進一步的限制和開緣**
 
    * - Further restrictions and allowances concerning the construction of dwellings are discussed under `Pc 19`_ and in `BMC2, Chapters 6`_ and 18_.
-     - 有關住處建設的進一步限制和開緣在\ `《波逸提》十九`_\ 和\ `《佛教修道準則 第二冊》第六章`_\ 和\ `第十八章`_\ 中討論。
+     - 有關住處建設的進一步限制和開緣在\ `《波逸提》十九`_\ 和\ `《佛教比丘戒律 第二冊》第六章`_\ 和\ `第十八章`_\ 中討論。
 
    * - *Summary: Building a plastered hut—or having it built—without a sponsor, destined for one’s own use, without having obtained the Community’s approval, is a saṅghādisesa offense. Building a plastered hut—or having it built—without a sponsor, destined for one’s own use, exceeding the standard measurements, is also a saṅghādisesa offense.*
 
@@ -1705,10 +1705,10 @@
 .. _18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
 .. _《波逸提》十九: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc19
 .. TODO FIXME: replace link to 十九
-.. _《佛教修道準則 第二冊》第六章: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#BMC2chapter6
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第六章
+.. _《佛教比丘戒律 第二冊》第六章: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#BMC2chapter6
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第六章
 .. _第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十八章
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十八章
 
 
 .. container:: has-text-centered
@@ -1986,7 +1986,7 @@
 
    * - If both sides act in good faith and without prejudice, accusations of this sort are easy to settle on an informal basis. If an accusation can’t be settled informally, it should be taken to a meeting of the Community so that the group as a whole may pass judgment. The procedures for this sort of formal meeting will be discussed under the aniyata and adhikaraṇa-samatha rules. If the issue is to be brought up at a Community meeting for the uposatha, there are extra procedures to be followed, which are discussed in `BMC2, Chapter 15`_. If the issue is to be brought up at the Invitation at the end of the Rains, the procedures to be followed are discussed in `BMC2, Chapter 16`_.
 
-     - 如果雙方本著善意且不帶偏見行事，此類指控很容易在非正式基礎上解決。如果指控無法以非正式方式解決，則應提交僧團會議，以便整個團體做出判斷。此類正式會議的程序將根據《不定》和《滅諍》戒條進行討論。如果要在布薩的僧團會議上提出這個問題，則需要遵循額外的程序，這些程序在\ `《佛教修道準則 第二冊》第十五章`_\ 中討論。如果要在雨安居結束時在自恣時提出該問題，則應遵循的程序將在\ `《佛教修道準則 第二冊》第十六章`_\ 中討論。
+     - 如果雙方本著善意且不帶偏見行事，此類指控很容易在非正式基礎上解決。如果指控無法以非正式方式解決，則應提交僧團會議，以便整個團體做出判斷。此類正式會議的程序將根據《不定》和《滅諍》戒條進行討論。如果要在布薩的僧團會議上提出這個問題，則需要遵循額外的程序，這些程序在\ `《佛教比丘戒律 第二冊》第十五章`_\ 中討論。如果要在雨安居結束時在自恣時提出該問題，則應遵循的程序將在\ `《佛教比丘戒律 第二冊》第十六章`_\ 中討論。
 
 .. _Sg 12: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
 .. _《僧殘》十二: #Sg12
@@ -2019,11 +2019,11 @@
 .. _《波逸提》七一: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc71
 .. TODO FIXME: replace link to 《波逸提》七一
 .. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
-.. _《佛教修道準則 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十五章
+.. _《佛教比丘戒律 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十五章
 .. _BMC2, Chapter 16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
-.. _《佛教修道準則 第二冊》第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十六章
+.. _《佛教比丘戒律 第二冊》第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十六章
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -2358,7 +2358,7 @@
 
    * - Schism is the result of a dispute, but not all disputes—even when prolonged—will lead to schism. An example is the dispute that led to the Second Council (Cv.XII). Even though it was bitterly fought, there was never a point when either faction thought of splitting off and conducting communal business separately in the same territory. Still, even minor disputes can be potentially schismatic. At the same time, as we will see below, it is possible to act in a divisive way prior to a dispute without yet broaching the questions around which a dispute could develop. This rule and the following one are designed to nip both sorts of behavior in the bud before they can become schismatic. Once a dispute has become a major issue, these rules cannot be used, for at that point the procedures given in `Cv.IV.14.16-26`_\—explained in `Chapter 11`_\—should be followed. Questions of how to behave once a schism has occurred and how it can be ended are discussed in `BMC2, Chapter 21`_.
 
-     - 分裂是爭議的結果，但並非所有爭議——即使是曠日持久的——都會導致分裂。一個例子是導致\ `第二次結集`_\ （\ `《小品》.十二`_\ ）的爭議。儘管爭吵很激烈，但任何一個派系都沒有想過分裂，在同一界裡分別進行公共事務。儘管如此，即使是很小的爭議也可能導致分裂。同時，正如我們將在下面看到的，在爭議發生之前，有可能以分裂的方式行事，而尚未提出可能引發爭議的問題。本戒條和下一條戒條旨在將這兩種行為消滅在萌芽狀態，以免它們導致分裂。一旦爭議成為重大問題，就不能使用這些戒條，因為此時應遵循\ `《小品》.四.14.16-26`_\ 中給出的程序（\ `第十一章`_\ 中進行了解釋）。\ `《佛教修道準則 第二冊》第二十一章`_\ 討論了分裂發生後如何行事以及如何結束分裂的問題。
+     - 分裂是爭議的結果，但並非所有爭議——即使是曠日持久的——都會導致分裂。一個例子是導致\ `第二次結集`_\ （\ `《小品》.十二`_\ ）的爭議。儘管爭吵很激烈，但任何一個派系都沒有想過分裂，在同一界裡分別進行公共事務。儘管如此，即使是很小的爭議也可能導致分裂。同時，正如我們將在下面看到的，在爭議發生之前，有可能以分裂的方式行事，而尚未提出可能引發爭議的問題。本戒條和下一條戒條旨在將這兩種行為消滅在萌芽狀態，以免它們導致分裂。一旦爭議成為重大問題，就不能使用這些戒條，因為此時應遵循\ `《小品》.四.14.16-26`_\ 中給出的程序（\ `第十一章`_\ 中進行了解釋）。\ `《佛教比丘戒律 第二冊》第二十一章`_\ 討論了分裂發生後如何行事以及如何結束分裂的問題。
 
 .. _AN 5\:129: https://www.dhammatalks.org/suttas/AN/AN5_129.html
 .. _《增支部》5\:129經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%B8%80%E4%BA%8C%E4%B9%9D%E8%8B%A6%E8%BF%AB
@@ -2377,8 +2377,8 @@
 .. _《小品》.四.14.16-26: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0128a01
 .. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
 .. TODO FIXME: replace link to 第十一章
-.. _《佛教修道準則 第二冊》第二十一章: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十一章
+.. _《佛教比丘戒律 第二冊》第二十一章: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十一章
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -2429,7 +2429,7 @@
 
    * - The Cullavagga presents two patterns by which a schism may happen. The first pattern, derived from Devadatta’s schism and given in `Cv.VII.5.1`_, states that schism occurs when a disagreement over the Dhamma, the Vinaya, or the Teacher’s instruction is put to a vote in a Community of at least nine bhikkhus with at least four on either side of the split. It further adds that all the bhikkhus involved must be bhikkhus of regular standing in affiliation with the group as a whole (e.g., they are not already of a separate affiliation, they haven’t been suspended from the Community), and they are living in the same territory (see `BMC2, Chapter 13`_).
 
-     - 《小品》提出了兩種可能發生破和合僧的模式。第一種模式源自於提婆達多的分裂，並在\ `《小品》.七.5.1`_\ 中給出，指出當對法、律、或師教的分歧在至少九名比丘組成的僧團中進行投票時，其中分裂雙方至少有四名比丘，破和合僧就會發生。它還進一步補充說，所有涉及的比丘必須是與整個團體有共住的正規地位比丘（例如，他們沒有別住，他們沒有被從僧團中舉罪），並且他們居住在同一界內（參見\ `《佛教修道準則 第二冊》第十三章`_\ ）。
+     - 《小品》提出了兩種可能發生破和合僧的模式。第一種模式源自於提婆達多的分裂，並在\ `《小品》.七.5.1`_\ 中給出，指出當對法、律、或師教的分歧在至少九名比丘組成的僧團中進行投票時，其中分裂雙方至少有四名比丘，破和合僧就會發生。它還進一步補充說，所有涉及的比丘必須是與整個團體有共住的正規地位比丘（例如，他們沒有別住，他們沒有被從僧團中舉罪），並且他們居住在同一界內（參見\ `《佛教比丘戒律 第二冊》第十三章`_\ ）。
 
    * - If any of these qualifications is lacking—the issue goes to a vote in a Community of less than nine bhikkhus, one side or the other gains less than four adherents, or the bhikkhus involved are not of regular standing, are not of common affiliation, or are not in the same territory—the efforts at schism count as a crack *(rāji)* in the Community, but not as a full split *(bheda)*.
 
@@ -2477,8 +2477,8 @@
 .. _Cv.VII.5.1: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Cv.VII.5.1
 .. _BMC2, Chapter 13: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
 .. _《小品》.七.5.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0277a11
-.. _《佛教修道準則 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十三章
+.. _《佛教比丘戒律 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十三章
 .. _Cv.VII.5.2: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Cv.VII.5.2
 .. _《小品》.七.5.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0278a09
 .. _《增支部》10\:35經: https://sutra.mobi/zcj/zengzhi/content/1567.html
@@ -2611,7 +2611,7 @@
 
    * - If the bhikkhu is so stubborn that he refuses to abandon his schismatic efforts even through the third rebuke, he will probably not acknowledge that the Community has acted properly, in which case he will not admit that he has incurred a saṅghādisesa offense or that he has to make amends for it. This gives the Community clear grounds, if it sees fit, for suspending him then and there (see `BMC2, Chapter 20`_). In fact, this may have been the original intention behind the protocols outlined in this and the remaining three saṅghādisesa rules: to give the Community a clear opportunity to test how stubborn a divisive or recalcitrant bhikkhu is and to end his affiliation with them if he proves this stubborn. For this reason, a Community planning to impose any of these rules on one of its members should be prepared to recite the transaction statement for suspension against him as well.
 
-     - 如果比丘如此頑固，即使經過第三次訶責，他也拒絕放棄他的分裂努力，他可能不會承認僧團的行為是正確的，在這種情況下，他不會承認他犯了《僧殘》罪，或者他必須賠罪。這為僧團提供了明確的理由，如果它認為合適的話，可以當場舉罪之（見\ `《佛教修道準則 第二冊》第二十章`_\ ）。事實上，這可能是本戒條和剩餘三項《僧殘》戒條中所概述的協議背後的初衷：給僧團一個明確的機會來測試一個分裂或頑固的比丘有多麼頑固，如果他證明了這一點，就結束與他共住。因此，計劃對其一名成員實施任何這些戒條的僧團也應準備好背誦針對該成員的舉罪羯磨文。
+     - 如果比丘如此頑固，即使經過第三次訶責，他也拒絕放棄他的分裂努力，他可能不會承認僧團的行為是正確的，在這種情況下，他不會承認他犯了《僧殘》罪，或者他必須賠罪。這為僧團提供了明確的理由，如果它認為合適的話，可以當場舉罪之（見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）。事實上，這可能是本戒條和剩餘三項《僧殘》戒條中所概述的協議背後的初衷：給僧團一個明確的機會來測試一個分裂或頑固的比丘有多麼頑固，如果他證明了這一點，就結束與他共住。因此，計劃對其一名成員實施任何這些戒條的僧團也應準備好背誦針對該成員的舉罪羯磨文。
 
    * - Once the offender’s affiliation with the Community is ended, he may not accost—go up to talk to—any member of the Community at all. Technically speaking, the fact that he is no longer in affiliation means that he can cause no more than a crack, rather than a full split, in the Saṅgha. This, of course, may not end his schismatic efforts, but the fact that the Community met to deal with his case should be enough to alert well-meaning bhikkhus that he is following a wrong course of action, and this should help unite the Community against his efforts. If they deem it necessary—to keep the laity from being swayed by his arguments—they may authorize one or more of their members to inform the lay community that the schismatic has committed this offense (see `Pc 9`_) and explain why. If, unrepentant, he leaves to go elsewhere, they may send word to any Community he tries to join. Of course, if it turns out that the schismatic was actually in the right in his explanation of the Dhamma and Vinaya, the efforts of the original Community will call unflattering attention to its own behavior. This means that a Community is well advised to reflect on its own practice before bringing this rule to bear.
 
@@ -2625,8 +2625,8 @@
      - *摘要：在僧團中第三次正式訶責之後，繼續試圖形成分裂團體或採取可能導致分裂的立場是《僧殘》罪。*
 
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
-.. _《佛教修道準則 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第二十章
+.. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
 .. _Pc 9: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
 .. _《波逸提》九: {filename}Section0016%zh-hant.rst#Pc9
 .. _AN 5\:78: https://www.dhammatalks.org/suttas/AN/AN5_78.html
@@ -2682,7 +2682,7 @@
 
    * - As noted under the preceding rule, the procedures to follow once the schismatics have succeeded in creating a schism are discussed in `BMC2, Chapter 21`_.
 
-     - 如前一戒條所述，一旦破和合僧者成功製造破和合僧，應遵循的程序將在\ `《佛教修道準則 第二冊》第二十一章`_\ 中討論。
+     - 如前一戒條所述，一旦破和合僧者成功製造破和合僧，應遵循的程序將在\ `《佛教比丘戒律 第二冊》第二十一章`_\ 中討論。
 
    * - *Summary: To persist—after the third proclamation of a formal rebuke in the Community—in supporting a potential schismatic is a saṅghādisesa offense.*
      - *摘要：在僧團中第三次正式訶責羯磨文之後，繼續支持潛在的破和合僧者是《僧殘》罪。*
@@ -2748,7 +2748,7 @@
 
    * - If the bhikkhu difficult to admonish carries on as before, even after incurring the full penalty under this rule, the Community may perform a banishment transaction *(pabbājanīya-kamma)* against him for speaking in dispraise of the Community (`Cv.I.13`_—see `BMC2, Chapter 20`_). If he refuses to see that he has committed this saṅghādisesa offense or to undergo the penalty, the Community may exclude him from participating in the Pāṭimokkha and Invitation ceremonies (`Mv.IV.16.2`_; `Cv.IX.2`_—see `BMC2, Chapters 15`_ and `16 <https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16>`__) or suspend him from the entire Saṅgha (`Cv.I.26`_; Cv.I.31—see `BMC2, Chapter 20`_).
 
-     - 如果難以教誡的比丘繼續像以前一樣，即使在根據本戒條受到全額懲罰之後，僧團可以對他進行驅出羯磨\ *（pabbājanīya-kamma）*\ ，因為他發表了誹謗僧團的言論（\ `《小品》.一.13`_-見\ `《佛教修道準則 第二冊》第二十章`_\ ）。如果他拒絕承認自己犯了《僧殘》罪行或接受懲罰，僧團可以禁止他參加《波羅提木叉》和自恣儀式（\ `《大品》.四.16.2`_\ ；\ `《小品》.九.2`_ — 參見\ `《佛教修道準則 第二冊》第十五章`_\ 和\ `第十六章`_\ ）或暫停他在整個僧伽中的資格（\ `《小品》.一.26`_\ ；\ `《小品》.一.31`_\ ——見\ `《佛教修道準則 第二冊》第二十章`_\ ）。
+     - 如果難以教誡的比丘繼續像以前一樣，即使在根據本戒條受到全額懲罰之後，僧團可以對他進行驅出羯磨\ *（pabbājanīya-kamma）*\ ，因為他發表了誹謗僧團的言論（\ `《小品》.一.13`_-見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）。如果他拒絕承認自己犯了《僧殘》罪行或接受懲罰，僧團可以禁止他參加《波羅提木叉》和自恣儀式（\ `《大品》.四.16.2`_\ ；\ `《小品》.九.2`_ — 參見\ `《佛教比丘戒律 第二冊》第十五章`_\ 和\ `第十六章`_\ ）或暫停他在整個僧伽中的資格（\ `《小品》.一.26`_\ ；\ `《小品》.一.31`_\ ——見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）。
 
    * - *Summary: To persist—after the third proclamation of a formal rebuke in the Community—in being difficult to admonish is a saṅghādisesa offense.*
      - *摘要：在僧團中第三次正式訶責羯磨文之後，仍堅持難以教誡是《僧殘》罪。*
@@ -2826,7 +2826,7 @@
 
    * - *Depraved conduct* the Vibhaṅga defines merely as growing flowers and making them into garlands, but this, the Commentary says, is a shorthand reference to the long list of bad habits mentioned in the origin story, which includes such things as presenting garlands to women, eating from the same dish with them, sharing a blanket with them; eating at the wrong time, drinking intoxicants; wearing garlands, using perfumes and cosmetics; dancing, singing, playing musical instruments, directing musical performances (§); playing games, performing stunts; learning archery, swordsmanship, and horsemanship; boxing and wrestling. (For the full list, see `BMC2, Chapter 10`_.) Any one of these actions taken in isolation carries only a minor penalty—a dukkaṭa or a pācittiya (see `Cv.V.36`_)—but if indulged in habitually to the point where its bad influence becomes “seen and heard about,” i.e., common knowledge, it can become grounds for the offender’s fellow bhikkhus to banish him from their particular Community until he mends his ways.
 
-     - 《經分別》將\ *惡行*\ `僅僅定義為種植鮮花並將其製成花環 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0258a02>`__\ ，但《義註》說，這是對\ `起源故事中提到的一長串壞習慣 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0251a11>`__\ 的速記，其中包括像向女人贈送花環、和他們吃同一道菜、與他們共用一條毯子；在錯誤的時間進食、飲酒；戴花環、使用香水和化妝品；跳舞、唱歌、演奏樂器、指揮音樂表演 (§)；玩遊戲、表演特技；學習射箭、劍術、馬術；拳擊和摔角。（完整列表，請參見\ `《佛教修道準則 第二冊》第十章`_\ 。）單獨採取的任何一項行為都只會帶來輕微的懲罰——《突吉羅》或《波逸提》（參見\ `《小品》.五.36`_\ ）——但如果習慣性地沉迷到當它的不良影響變得「被看到和聽到」這樣的程度，即眾所周知時，它可以成為犯戒者的比丘同儕將他驅逐出他們的特定僧團的理由，直到他改過自新。
+     - 《經分別》將\ *惡行*\ `僅僅定義為種植鮮花並將其製成花環 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0258a02>`__\ ，但《義註》說，這是對\ `起源故事中提到的一長串壞習慣 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0251a11>`__\ 的速記，其中包括像向女人贈送花環、和他們吃同一道菜、與他們共用一條毯子；在錯誤的時間進食、飲酒；戴花環、使用香水和化妝品；跳舞、唱歌、演奏樂器、指揮音樂表演 (§)；玩遊戲、表演特技；學習射箭、劍術、馬術；拳擊和摔角。（完整列表，請參見\ `《佛教比丘戒律 第二冊》第十章`_\ 。）單獨採取的任何一項行為都只會帶來輕微的懲罰——《突吉羅》或《波逸提》（參見\ `《小品》.五.36`_\ ）——但如果習慣性地沉迷到當它的不良影響變得「被看到和聽到」這樣的程度，即眾所周知時，它可以成為犯戒者的比丘同儕將他驅逐出他們的特定僧團的理由，直到他改過自新。
 
    * - The Cullavagga, in a section that begins with the same origin story as the one for this rule (`Cv.I.13-16`_), treats the banishment transaction in full detail, saying that a Community of bhikkhus, if it sees fit, has the authority to perform a banishment transaction against a bhikkhu with any of the following qualities:
 
@@ -2871,11 +2871,11 @@
 
    * - c\) Practicing worldly arts, e.g., medicine, fortune telling, astrology, exorcism, reciting charms, casting spells, performing ceremonies to counteract the influence of the stars, determining propitious sites, setting auspicious dates (for weddings, etc.), interpreting oracles, auguries, or dreams, or—in the words of the Vibhaṅga to the the bhikkhunīs’ `Pc 49 <https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part5>`__ & `50 <https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part5>`__\—engaging in any art that is “external and unconnected with the goal.” The Cullavagga (V.33.2) imposes a dukkaṭa on studying and teaching worldly arts or hedonist doctrines *(lokāyata)*. (For extensive lists of worldly arts, see the passage from `DN 2`_ quoted in `BMC2, Chapter 10`_. For the connection between lokāyata and hedonism (e.g., the Kāma Sūtra), see Warder, *Outline of Indian Philosophy*, pp. 38-39.)
 
-     - c）從事世俗技藝，例如醫學、算命、占星、驅魔、念咒、施咒、舉行儀式以抵消星象的影響、確定吉利地點、設定吉日（婚禮等）、解釋神諭、占卜、夢境，或者——用《經分別》對比丘尼的\ `《波逸提》四九 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0424a06>`__\ 和\ `五十 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0425a06>`__\ 的話來說——從事任何「外在的、與目標無關的」技藝。\ `《小品》（五.33.2）`_\ 對學習和教授世俗技藝或享樂主義教義\ *（lokāyata）*\ 施加了《突吉羅》。（有關世俗技藝的詳細列表，請參閱\ `《佛教修道準則 第二冊》第十章`_\ 中引用的\ `《長部》2經`_\ 中的段落。有關 lokāyata 與享樂主義（例如\ `《欲經》`_\ ）之間的聯繫，請參閱渥德爾，\ *《印度哲學大綱》*\ ，第38-39頁。
+     - c）從事世俗技藝，例如醫學、算命、占星、驅魔、念咒、施咒、舉行儀式以抵消星象的影響、確定吉利地點、設定吉日（婚禮等）、解釋神諭、占卜、夢境，或者——用《經分別》對比丘尼的\ `《波逸提》四九 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0424a06>`__\ 和\ `五十 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0425a06>`__\ 的話來說——從事任何「外在的、與目標無關的」技藝。\ `《小品》（五.33.2）`_\ 對學習和教授世俗技藝或享樂主義教義\ *（lokāyata）*\ 施加了《突吉羅》。（有關世俗技藝的詳細列表，請參閱\ `《佛教比丘戒律 第二冊》第十章`_\ 中引用的\ `《長部》2經`_\ 中的段落。有關 lokāyata 與享樂主義（例如\ `《欲經》`_\ ）之間的聯繫，請參閱渥德爾，\ *《印度哲學大綱》*\ ，第38-39頁。
 
    * - A bhikkhu banished for indulging in any of these activities is duty-bound to undergo the observances listed in `Cv.I.15`_ (see `BMC2, Chapter 20`_) and to mend his ways so that the Community will revoke the banishment transaction.
 
-     - 因沉迷於任何這些活動而被驅出的比丘有義務遵守\ `《小品》.一.15`_\ 中列出的正行（見\ `《佛教修道準則 第二冊》第二十章`_\ ）並改正自己的行為，以便僧團撤銷驅出羯磨。
+     - 因沉迷於任何這些活動而被驅出的比丘有義務遵守\ `《小品》.一.15`_\ 中列出的正行（見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）並改正自己的行為，以便僧團撤銷驅出羯磨。
 
    * - Two of those duties are that he not criticize the act of banishment or those who performed it. If he does not observe either of those two, he is subject to this rule. The procedure to follow in dealing with him—reprimanding him in private, admonishing and rebuking him in a formal meeting of the Community—is the same as under `Sg 10`_, beginning with the fact that a bhikkhu who, hearing that Bhikkhu X is criticizing the act of banishment, incurs a dukkaṭa if he does not reprimand X. The question of perception and the non-offenses are also the same as under that rule. The formula for the rebuke is given in `Appendix VIII`_. As with the preceding three rules, if the offender does not respond to the rebuke or recognize that he has a saṅghādisesa offense for which he must make amends, the Community would then have grounds to suspend him as well.
 
@@ -2887,8 +2887,8 @@
 .. _BMC2, Chapter 10: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
 .. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
 .. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
-.. _《佛教修道準則 第二冊》第十章: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十章
+.. _《佛教比丘戒律 第二冊》第十章: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十章
 .. _Cv.I.13-16: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.13.7
 .. _《小品》.一.13-16: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0013a01
 .. _《清淨道論》一.61-82: https://tripitaka.cbeta.org/mobile/index.php?index=N67n0035_001#0037a06
@@ -2927,7 +2927,7 @@
 
    * - Penance does not begin immediately, but only at the convenience of the Community giving it. During his period of penance, the offender is partially stripped of seniority and must observe 94 restrictions (`Cv.II.5-6`_), discussed in detail in `BMC2, Chapter 19`_. The four most important are:
 
-     - 摩那埵不會立即開始，而是在僧團方便時才開始。在摩那埵期間，犯戒者將被部分剝奪戒臘，並且必須遵守 94 條限制（\ `《小品》.二.5-6`_\ ），詳細討論見\ `《佛教修道準則 第二冊》第十九章`_\ 。最重要的四個是：
+     - 摩那埵不會立即開始，而是在僧團方便時才開始。在摩那埵期間，犯戒者將被部分剝奪戒臘，並且必須遵守 94 條限制（\ `《小品》.二.5-6`_\ ），詳細討論見\ `《佛教比丘戒律 第二冊》第十九章`_\ 。最重要的四個是：
 
    * - 1\) He must not live under the same roof as a regular bhikkhu.
      - 1）他不得與正規比丘住在同一屋簷下。
@@ -2952,8 +2952,8 @@
 .. _Cv.II.5-6: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#Cv.II.5
 .. _BMC2, Chapter 19: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#BMC2chapter19
 .. _《小品》.二.5-6: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_012#0048a05
-.. _《佛教修道準則 第二冊》第十九章: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#BMC2chapter19
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十九章
+.. _《佛教比丘戒律 第二冊》第十九章: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#BMC2chapter19
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十九章
 
 
 .. list-table::
@@ -3014,7 +3014,7 @@
      - 比丘犯下較輕的罪行，但他認為是《僧殘》，然後隱瞞它，犯《突吉羅》（\ `《小品》.三.34.1`_\ ）。
 
    * - The restrictions for a bhikkhu undergoing probation—and the other possible steps in the rehabilitation process—are similar to those for one undergoing penance and are discussed in detail in `BMC2, Chapter 19`_.
-     - 對接受別住的比丘的限制——以及出罪清淨過程中其他可能的步驟——與對接受摩那埵的比丘的限制相似，並在\ `《佛教修道準則 第二冊》第十九章`_\ 中詳細討論。
+     - 對接受別住的比丘的限制——以及出罪清淨過程中其他可能的步驟——與對接受摩那埵的比丘的限制相似，並在\ `《佛教比丘戒律 第二冊》第十九章`_\ 中詳細討論。
 
    * - Saṅghādisesas are classified as heavy offenses *(garukāpatti)*, both because of the seriousness of the offenses themselves and because the procedures of penance, probation, and rehabilitation are burdensome by design, not only for the offender but also for the Community of bhikkhus in which he lives—a fact intended to act as added deterrent to anyone who feels tempted to transgress.
 

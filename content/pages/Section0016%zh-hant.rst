@@ -1704,7 +1704,7 @@
 
    * - The Vibhaṅga also does not tell how to issue the authorization. The Commentary recommends using the form of an announcement *(apalokana)* stated three times and unanimously agreed to by the Community meeting within a single territory (see `BMC2, Chapter 12`_).
 
-     - 《經分別》也沒有說明如何頒發授權。《義註》建議使用\ `求聽`_\ *（apalokana）*\ 的形式，該聽許在單一界場內的僧團會議上聲明三次並得到一致同意（參見\ `《佛教修道準則 第二冊》第十二章`_\ ）。
+     - 《經分別》也沒有說明如何頒發授權。《義註》建議使用\ `求聽`_\ *（apalokana）*\ 的形式，該聽許在單一界場內的僧團會議上聲明三次並得到一致同意（參見\ `《佛教比丘戒律 第二冊》第十二章`_\ ）。
 
    * - The Vibhaṅga does state, though, that when giving the authorization, the Community may limit it to families, to offenses, to both, or to neither. *Limited to families* means that the bhikkhu receiving the authorization may inform only certain specified families. *Limited to offenses* means that he may report only certain of the guilty bhikkhu’s offenses. A bhikkhu who oversteps the limits of his authorization incurs a pācittiya.
 
@@ -1712,8 +1712,8 @@
 
 .. _求聽: https://dictionary.sutta.org/browse/a/apalokana/
 .. _BMC2, Chapter 12: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
-.. _《佛教修道準則 第二冊》第十二章: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》第十二章
+.. _《佛教比丘戒律 第二冊》第十二章: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十二章
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

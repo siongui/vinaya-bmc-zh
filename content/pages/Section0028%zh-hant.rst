@@ -150,7 +150,7 @@
      -
 
    * - For the patterns to use when the bhikkhu’s name has a different stem-form (-i, -u, etc.), see the introduction to `Appendix II in BMC2`_.
-     - 當比丘的名字有不同的詞幹形式（-i、-u等）時所使用的模式，請參閱\ `《佛教修道準則 第二冊》附錄二`_\ 的介紹。
+     - 當比丘的名字有不同的詞幹形式（-i、-u等）時所使用的模式，請參閱\ `《佛教比丘戒律 第二冊》附錄二`_\ 的介紹。
 
    * - To authorize a bowl-exchanger under `NP 22`_, the same procedure is followed, except that—in addition to being free from the four forms of bias—the bhikkhu to be chosen must know what is (properly) exchanged and what is not. The same form for the transaction statement is used, replacing *rūpiya-chaḍḍakaṁ/ rūpiya-chaḍḍakassa/ rūpiya-chaḍḍako* with *patta-gāhāpakaṁ/ patta-gāhāpakassa/ patta-gāhāpako*.
 
@@ -165,8 +165,8 @@
 .. _Appendix VII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVII
 .. _附錄七: #appendixVII
 .. _Appendix II in BMC2: https://www.dhammatalks.org/vinaya/bmc/Section0069.html
-.. _《佛教修道準則 第二冊》附錄二: https://www.dhammatalks.org/vinaya/bmc/Section0069.html
-.. TODO FIXME: replace link to 《佛教修道準則 第二冊》附錄二
+.. _《佛教比丘戒律 第二冊》附錄二: https://www.dhammatalks.org/vinaya/bmc/Section0069.html
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》附錄二
 
 
 .. list-table::
