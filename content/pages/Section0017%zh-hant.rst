@@ -601,4 +601,14 @@
 .. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
 .. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - One’s motive is to make him lose face, lose status, or feel abashed.
+     - 其動機是想讓他丟臉、失去地位、或感到羞愧。
+
 (未完待續)
