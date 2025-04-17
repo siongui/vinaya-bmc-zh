@@ -579,4 +579,26 @@
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
 .. _九: {filename}Section0011%zh-hant.rst#Sg9
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - This factor is fulfilled only by (1) a bhikkhu who (2) has been properly authorized as a Community official and (3) does not habitually act out of the four causes for bias: desire, aversion, delusion, or fear. With regard to the first two of these sub-factors, other people—and the Vibhaṅga’s list of “others” here is interesting—are grounds for a dukkaṭa. The list is: an ordained person who has been improperly authorized to act as a Community official, an ordained person who hasn’t been authorized to act as a Community official, and an unordained person, regardless of whether he/she has been authorized to act as a Community official or not. With regard to the third sub-factor, anyone who would otherwise be grounds for a pācittiya or a dukkaṭa is not grounds for an offense if he/she behaves in a biased way.
+
+     - 只有符合以下條件才滿足本因素：（1）比丘（2）該比丘已經獲得適當地授權成為僧團執事，並且（3）不習慣出於四種偏見原因而採取行動：貪、嗔、癡或恐懼。就這些子因素中的前兩者而言，其他人 —— 《經分別》在這裡列出的「其他人」很有趣 —— 則為《突吉羅》的理由。列表包括：被不適當地授權擔任僧團執事的受具足戒者、未被授權擔任僧團執事的受具足戒者，以及未受具足戒者，無論他/她是否被授權擔任僧團執事。對於第三個子因素，任何可能成為《波逸提》或《突吉羅》理由的人，如果他/她行為有偏見，不構成犯戒的理由。
+
+   * - Perception is not a factor here. Thus, if the official is actually properly authorized, he fulfills this factor whether one perceives his authorization as proper, improper, or doubtful. If he is improperly authorized, he is grounds for a dukkaṭa whether one perceives his authorization as proper, improper, or doubtful. In other words, this is another case where the pattern set out under `Pc 4`_ does not hold.
+
+     - 感知在這裡不是一個因素。因此，如果該執事確實獲得了適當的授權，那麼無論認為他的授權是適當的、不適當的還是可疑的，他都滿足這一因素。如果他被不當地授權，那麼無論認為他的授權是正當的、不適當的還是可疑的，他都是《突吉羅》的理由。換句話說，這是\ `《波逸提》四`_\ 所列出的模式不成立的另一個情況。
+
+   * - (The PTS edition of the Canon says that if one perceives an improper authorization as improper, there is no offense, but the Thai, Sri Lankan, and Burmese editions of the Canon, together with the PTS edition of the K/Commentary, all agree with the above reading.)
+
+     - （PTS 版《聖典》說，如果認為不適當地授權是不適當的，那就沒有犯戒，但泰國、斯里蘭卡和緬甸版的《聖典》以及 PTS 版的 K/《義註》都同意上述解讀。）
+
+.. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
+.. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
+
 (未完待續)
