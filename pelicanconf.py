@@ -65,11 +65,11 @@ META_DESCRIPTION = '佛教比丘戒律(Buddhist Monastic Code)'
 # mapping: language_code -> settings_overrides_dict
 I18N_SUBSITES = {
   'zh-hans': {
-    'SITENAME': '佛教修道准则(Buddhist Monastic Code)',
+    'SITENAME': '佛教比丘戒律(Buddhist Monastic Code)',
     'AUTHOR': '',
     'LOCALE': 'zh_CN.UTF-8',
-    'META_KEYWORDS': '佛教修道准则, Buddhist Monastic Code',
-    'META_DESCRIPTION': '佛教修道准则(Buddhist Monastic Code)',
+    'META_KEYWORDS': '佛教比丘戒律, Buddhist Monastic Code',
+    'META_DESCRIPTION': '佛教比丘戒律(Buddhist Monastic Code)',
   },
 }
 
