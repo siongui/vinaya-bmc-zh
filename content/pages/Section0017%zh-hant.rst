@@ -626,4 +626,44 @@
 
      - 根據《經分別》，批評或抱怨僧團執事的懲罰是，如果聽眾是比丘同儕，則為《波逸提》；如果聽眾是未受具足戒者，則為《突吉羅》（§）。如果批評或抱怨的是未經授權的受具足戒僧團執事，還是未受具足戒的僧團執事，無論其是否獲得授權，其言論針對的對象是誰，都無關緊要：無論如何，懲罰都是《突吉羅》。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - As mentioned above, if a Community official acts habitually out of any of the four causes for bias—desire, aversion, delusion, or fear—there is no offense in criticizing or complaining about him. For example, if he assigns the best dwellings to certain bhikkhus simply because he likes them, gives the poorest food to certain bhikkhus simply because he dislikes them, habitually sends the wrong bhikkhus to the wrong meals because he is too stupid to handle the rotating rosters properly, or gives the best treatment to certain bhikkhus because he is afraid of them or their supporters, there is no offense in criticizing his behavior in the presence of others.
+
+     - 如上所述，如果僧團執事習慣性地出於四種偏見原因（貪、瞋、癡、恐懼）中的任何一種而採取行動，批評或抱怨他並沒有犯戒。例如，如果他僅僅因為喜歡某些比丘而為他們安排最好的住所，僅僅因為不喜歡某些比丘而為他們提供最差的食物，或者因為他太愚蠢而無法妥善處理輪值表而習慣性地將錯誤的比丘安排到錯誤的餐食中，或者因為他害怕某些比丘或他們的支持者而給予他們最好的待遇，那麼在他人面前批評他的行為並沒有犯戒。
+
+   * - The reason for this allowance is that one of the qualifying factors for a Community official is that he be unbiased (see `BMC2, Chapter 18`_). Thus any complaint of bias would be tantamount to an accusation that the Community transaction authorizing him as an official was invalid, and the Community would then be duty bound to look into the matter.
+
+     - 允許此開緣的原因是，擔任僧團執事的資格條件之一就是他必須公正無私（參見\ `《佛教比丘戒律 第二冊》第十八章`_\ ）。因此，任何有關偏見的投訴都等於指控授權他擔任執事的僧團羯磨無效，因此僧團有義務調查此事。
+
+   * - However, one should be very sure of the facts of the case before taking advantage of this allowance, for—as noted above—perception is not a mitigating factor under this rule. Disappointment and anger have a way of coloring one’s perceptions, making another person’s perfectly blameless behavior look biased and unjust. If one criticizes or complains about an official, thoroughly convinced that he has been acting out of bias, one is still guilty of an offense if it turns out that in fact the official’s behavior has been fair. The same considerations apply also to complaints or criticisms concerning anyone, ordained or not.
+
+     - 然而，在利用這項開緣之前，應該非常清楚真實情況，因為──如上所述──根據這條戒條，感知並不是減輕懲罰的因素。失望和憤怒會影響一個人的看法，使另一個人完全無可指責的行為看起來有偏見和不公正。如果批評或抱怨某個執事，並且完全相信該執事的行為帶有偏見，那麼如果事實證明該執事的行為是公正的，仍然犯了戒。同樣的考慮也適用於對任何人的抱怨或批評，無論是否受具足戒。
+
+   * - To criticize a Community official to his face, simply for the sake of hurting his feelings, would be an offense under `Pc 2`_, regardless of whether his behavior has in fact been biased or not.
+
+     - 根據\ `《波逸提》二`_\ ，僅僅為了傷害僧團執事的情感而當面批評他，都是犯戒，無論他的行為是否真的有偏見。
+
+   * - The job of a Community official is often a thankless one. The procedures he must follow in distributing invitations, etc., can be fairly complex and, in large Communities, quite time-consuming. Because there is no way he can guarantee equal treatment to all, there may be times when he seems to be acting out of bias when he is simply following standard procedure. If he cannot receive the benefit of the doubt from his fellow bhikkhus, there is no incentive for him to undertake these duties in the first place. The Buddha likened material gains to excrement (see `AN 5:196`_), and when excrement is shared out there is rarely any point in complaining about who gets the choicest portions.
+
+     - 僧團執事的工作往往是吃力不討好的工作。分配邀請等等他必須遵循的程序可能相當複雜，並且在大型僧團中相當耗時。因為他無法保證對所有人都相同待遇，所以有時他只是在遵循標準程序，但卻顯得帶有偏見。如果他不能得到同儕比丘們的假定信任，那麼他一開始就沒有動力去承擔這些職責。佛陀將物質利益比喻為排泄物（參考\ `《增支部》5:196經`_\ ），當排泄物被分享時，抱怨誰得到了最好的部分幾乎沒有任何意義。
+
+   * - *Summary: If a Community official is innocent of bias: Criticizing him within earshot of another bhikkhu is a pācittiya offense.*
+     - *摘要：如果僧團執事沒有偏見：在另一位比丘聽力可及範圍內批評他，是《波逸提》（《單墮》）罪。*
+
+.. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. _《佛教比丘戒律 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十八章
+.. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
+.. _《波逸提》二: {filename}Section0016%zh-hant.rst#Pc2
+.. _AN 5\:196: https://www.dhammatalks.org/suttas/AN/AN5_196.html
+.. _《增支部》5\:196經: https://sutra.mobi/zcj/zengzhi/content/1056.html
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
