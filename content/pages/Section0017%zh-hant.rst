@@ -666,4 +666,57 @@
    \*    \*    \*
 
 
+.. _Pc14:
+
+.. raw:: html
+
+   <span id="Pc14"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **14**
+     - **十四**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu set a bed, bench, mattress, or stool belonging to the Community out in the open—or have it set out—and then on departing neither put it away nor have it put away, or should he go without taking leave, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘將屬於僧團的床、長椅、床墊或凳子擺放在露天，或讓人擺放出來，然後在離開時既不收拾也不讓人收拾，或如果不告而別就離開，波逸提。*
+
+   * - During the four months of the rains, furniture belonging to the Community—when not in use—is to be kept in a place where it will not be rained on, such as a fully-roofed storeroom or dwelling. The Vibhaṅga to this rule contains an allowance whereby during the remainder of the year it may also be kept in an open pavilion roofed with slats or branches, or under a tree where birds do not leave droppings. (At present, tents would fit under “pavilions” here.) The Commentary implies, though, that this latter allowance holds only in those regions with a distinct dry season; and, according to the Sub-commentary, even where there is a dry season, if a bhikkhu sees an unseasonable rain storm approaching he should not leave furniture in such semi-open places. And as we can infer from the Vibhaṅga to the next rule, even during the dry season this allowance applies only as long as one continues to reside in the monastery.
+
+     - 在四個月的雨季期間，僧團的傢俱不使用時，應存放在不會被雨淋到的地方，例如完全覆蓋屋頂的儲藏室或住處。本戒條的《經分別》包含一項開緣，即在一年中的剩餘時間裡，它也可以保存在用板條或樹枝覆蓋屋頂的開放式亭子中，或保存在鳥類不會留下糞便的樹下。（目前，帳篷可以算在這裡的「亭子」下。）然而，《義註》暗示，後一項開緣只適用於有明顯乾季的地區；而且，根據《複註》，即使在乾季，如果比丘看到不合季節的暴雨即將來臨，他也不應該將傢俱留在這種半開放的地方。並且，我們可以從下一條戒條的《經分別》推斷，即使在乾季，只有繼續居住在寺院中，本開緣才適用。
+
+   * - This rule deals with a bhikkhu who sets furnishings of the Community out in the open and then leaves without taking leave or getting them put away in the proper place. The factors for the full offense are three.
+
+     - 這條戒條針對的是比丘將僧團的傢俱擺放在露天，然後離開時沒有告別或將它們放回適當的地方。構成完全犯戒的因素有三。
+
+   * - .. container:: mx-2
+
+          *1) Object:* any bed, bench, mattress, or stool belonging to the Community.
+
+     - .. container:: mx-2
+
+          *1）對象：*\任何屬於僧團的床、長椅、床墊或凳子。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One sets such furnishings out in the open and then departs without taking leave, putting the furnishings away, or getting them put away in the proper place.
+
+     - .. container:: mx-2
+
+          *2）努力：*\將傢俱擺放在露天，然後不辭而別，不將傢俱收好，或不讓人將其收回適當的地方。
+
+   * - .. container:: mx-2
+
+          *3) Intention:* One has set them out for some purpose other than sunning them (§).
+
+     - .. container:: mx-2
+
+          *3）意圖：*\把它們擺出來不是為了曬太陽（§）。
+
 (未完待續)

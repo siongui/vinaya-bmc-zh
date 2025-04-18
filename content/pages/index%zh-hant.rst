@@ -320,7 +320,7 @@
      - `\　　　十三 <{filename}Section0017%zh-hant.rst#Pc13>`__
 
    * - `\　　　14 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc14>`__
-     - 　　　十四
+     - `\　　　十四 <{filename}Section0017%zh-hant.rst#Pc14>`__
 
    * - `\　　　15 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc15>`__
      - 　　　十五
