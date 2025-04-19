@@ -719,4 +719,19 @@
 
           *3）意圖：*\把它們擺出來不是為了曬太陽（§）。
 
+   * - **Object**
+     - **對象**
+
+   * - Any bed, bench, mattress, or stool belonging to the Community is grounds for a pācittiya. Perception as to whether the item belongs to the Community is not a mitigating factor here (see `Pc 4`_). Carpets, bedspreads, mats, ground-covering under-pads, foot-wiping cloths, and wooden chairs belonging to the Community are grounds for a dukkaṭa, as are both classes of furnishings—beds, etc., and carpets, etc.—belonging to another individual. One’s own furnishings are not grounds for an offense.
+
+     - 任何屬於僧團的床、長椅、床墊或凳子都是《波逸提》的理由。對於該物品是否屬於僧團的感知並不是這裡的減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。屬於僧團的地毯、床罩、墊子、地面覆蓋墊、擦腳布和木椅都是《突吉羅》的理由，屬於另一個人的兩類傢俱（床等和地毯等）也是如此。自己的傢俱不構成犯戒的理由。
+
+   * - According to the Commentary, if one has made an arrangement with someone else to take his/her belongings on trust, there is no offense in leaving that person’s furnishings out in the open. The Sub-commentary adds that any furnishings a donor presents for the Community to use out in the open—e.g., stone or concrete benches—are likewise not grounds for an offense.
+
+     - 根據《義註》，如果與另一個人達成協議，信託他/她的所有物，那麼將該人的傢俱放在露天並不犯戒。《複註》也補充道，施主為僧團提供的任何戶外使用的傢俱（例如石凳或混凝土長凳）同樣不構成犯戒的理由。
+
+   * - Under this rule, the Commentary contains a long essay on the proper storage of brooms. Because its remarks are based on an improper application of the Great Standards—brooms were known in the time of the Buddha and yet he chose not to include them under this rule—there is no reason to regard them as binding.
+
+     - 根據這條戒條，《義註》中包含一篇關於如何正確存放掃帚的長文。因為其評論是基於對《四大教示》的不當應用——佛陀時代就已經知道掃帚，但他選擇不將其納入這一戒條——因此沒有理由將其視為具有約束力。
+
 (未完待續)
