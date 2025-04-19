@@ -743,4 +743,19 @@
 
 .. _leḍḍupāta: https://dictionary.sutta.org/browse/l/le%E1%B8%8D%E1%B8%8Dup%C4%81ta/
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Responsibility**
+     - **責任**
+
+   * - A bhikkhu is held responsible for putting away furnishings that he has ordered another person to place in the open, unless the other person is also a bhikkhu, in which case *he* is the one responsible. The Commentary states that if a senior bhikkhu requests a junior bhikkhu to place out in the open any furnishings that may be grounds for a penalty, then the junior bhikkhu is responsible for them until the senior bhikkhu sits down on them, places an article of his use (such as a robe or a shoulder bag) on them, or gives the junior bhikkhu permission to leave, after which point the senior bhikkhu is responsible.
+
+     - 比丘有責任收拾他命令別人擺放在露天的傢俱，除非另一個人也是比丘，在這種情況下，\ *他*\ 就是負責人。《義註》指出，如果一位資深比丘要求一位資淺比丘將任何可能成為懲罰理由的傢俱擺放在露天，那麼資淺比丘要對這些傢俱負責，直到資深比丘坐在上面，在上面放置他使用的物品（比如袈裟或肩包），或者允許資淺比丘離開，此後資深比丘要負責。
+
+   * - The Commentary also states that if there is to be an open-air meeting, the host bhikkhus are responsible for any seats set out in the open, until the visiting bhikkhus claim their places, from which point the visitors are responsible. If there is to be a series of Dhamma talks, each speaker is responsible for the sermon seat from the moment he sits in it until the moment the next speaker does.
+
+     - 《義註》也指出，如果要舉行露天會議，主辦比丘要負責露天擺放的任何座位，直到來訪的比丘佔據自己的座位，從那時開始，來訪的比丘就要負責。如果有一系列的佛法開示，每位開示者都要對講經座位負責，從他坐下的那一刻起直到下一位開示者坐下的那一刻。
+
 (未完待續)
