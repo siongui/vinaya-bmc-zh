@@ -758,4 +758,49 @@
 
      - 《義註》也指出，如果要舉行露天會議，主辦比丘要負責露天擺放的任何座位，直到來訪的比丘佔據自己的座位，從那時開始，來訪的比丘就要負責。如果有一系列的佛法開示，每位開示者都要對講經座位負責，從他坐下的那一刻起直到下一位開示者坐下的那一刻。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - As stated above, there is no offense if one departs having set furnishings belonging to the Community or another individual out in the sun with the purpose of drying them, and thinking, “I will put them away when I come back (§).” Also, there is no offense:
+
+     - 如上所述，如果離開時將屬於僧團或另一個人的傢俱放在陽光下，目的是將其曬乾，並想著「我回來時會把它們收起來（§）」，這並不構成犯戒。此外，以下也無犯戒：
+
+   * - .. container:: mx-2
+
+          if one departs after someone else takes possession of or responsibility for furnishings one has left out in the open;
+
+     - .. container:: mx-2
+
+          如果在他人接管或負責自己留在戶外的傢俱後才離開；
+
+   * - .. container:: mx-2
+
+          if there are constraints on the furnishings—the Commentary mentions a senior bhikkhu making one get up from them and taking possession of them, tigers or lions lying down on them, or ghosts or ogres taking possession of them; or
+
+     - .. container:: mx-2
+
+          如果傢俱有限制——《義註》中提到，一位資深比丘讓自己從傢俱上站起來並佔有它們，老虎或獅子躺在它們上面，或鬼魂或妖魔佔有它們；或者
+
+   * - .. container:: mx-2
+
+          if there are dangers—which according to the Commentary means dangers to one’s life or to one’s remaining in the celibate life—that leave one no time to put the furnishings away.
+
+     - .. container:: mx-2
+
+          如果有危險——根據《義註》，這意味著對自己的生命或保持梵行生活的危險——那麼就沒有時間把傢俱收起來。
+
+   * - The Vinaya-mukha, extracting a general principle from this rule, says, “This training rule was formulated to prevent negligence and to teach one to care for things. It should be taken as a general model.”
+
+     - 《戒律入口》從此戒條中提取出一條普遍原則，說道：「此學處被制定來防止疏忽，並教導愛護事物。它應該被視為普遍的典範。」
+
+   * - *Summary: When one has set a bed, bench, mattress, or stool belonging to the Community out in the open: Leaving its immediate vicinity without putting it away, arranging to have it put away, or taking leave is a pācittiya offense.*
+
+     - *摘要：當將屬於僧團的床、長椅、床墊或凳子放在露天時：離開其附近而不將其放好、安排將其放好，或告別，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
