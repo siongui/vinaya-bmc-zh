@@ -734,4 +734,13 @@
 
      - 根據這條戒條，《義註》中包含一篇關於如何正確存放掃帚的長文。因為其評論是基於對《四大教示》的不當應用——佛陀時代就已經知道掃帚，但他選擇不將其納入這一戒條——因此沒有理由將其視為具有約束力。
 
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga defines *departing the furnishings* as going further than one *leḍḍupāta*\—approximately 18 meters—from them. It does not define “taking leave,” aside from stating that one may take leave from a bhikkhu, a novice, or a monastery attendant. This much, however, establishes that even though the Pali verb for taking leave, *āpucchati*, is etymologically related to the verb for asking, *pucchati*, the act of taking leave does *not* mean asking permission, for nothing in the Canon suggests that a bhikkhu has to get a novice’s or a lay attendant’s permission for his actions. The Commentary expands on this point, saying that *taking leave* means informing a bhikkhu, a novice, or a temple attendant whom one assumes will take responsibility for the furnishings. Unlike the following rule, where the intent to return is a mitigating factor, here it is not: Once a bhikkhu has departed from the furnishings, he has completed the factor of effort here even if he intends to return immediately.
+
+     - 《經分別》將\ *離開傢俱*\ 定義為距離其超過一個 `leḍḍupāta`_ （約 18 公尺）。它沒有對「告別」做出定義，只是說可以向比丘、沙彌或寺院侍者告別。然而，這表明，儘管巴利語中表示告別的動詞 *āpucchati* 在詞源上與表示詢問的動詞 *pucchati* 相關，但告別的行為並\ *不*\ 意味著請求許可，因為《聖典》中沒有任何內容表明比丘必須獲得沙彌或在家侍者的許可才能採取行動。《義註》對這一點進行了擴展，指出\ *告別*\ 意味著通知比丘、沙彌或寺院侍者，並認為他們會對傢俱負責。與下一條戒條不同，在下一條戒條中，返回的意圖是一個減輕懲罰因素，但這裡不是：一旦比丘離開了傢俱，即使他打算立即返回，他也已完成了此處的努力因素。
+
+.. _leḍḍupāta: https://dictionary.sutta.org/browse/l/le%E1%B8%8D%E1%B8%8Dup%C4%81ta/
+
 (未完待續)
