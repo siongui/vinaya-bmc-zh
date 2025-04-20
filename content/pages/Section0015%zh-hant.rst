@@ -1387,8 +1387,7 @@
 .. _Pc 15: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc15
 .. _84: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
 .. _Pd 4: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd4
-.. _《波逸提》十五: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc15
-.. TODO FIXME: replace link to 《波逸提》十五
+.. _《波逸提》十五: {filename}Section0017%zh-hant.rst#Pc15
 .. _八四: {filename}Section0024%zh-hant.rst#Pc84
 .. _《應悔過》四: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd4
 .. TODO FIXME: replace link to 《應悔過》四

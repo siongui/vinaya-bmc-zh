@@ -323,7 +323,7 @@
      - `\　　　十四 <{filename}Section0017%zh-hant.rst#Pc14>`__
 
    * - `\　　　15 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc15>`__
-     - 　　　十五
+     - `\　　　十五 <{filename}Section0017%zh-hant.rst#Pc15>`__
 
    * - `\　　　16 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc16>`__
      - 　　　十六

@@ -803,4 +803,28 @@
    \*    \*    \*
 
 
+.. _Pc15:
+
+.. raw:: html
+
+   <span id="Pc15"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **15**
+     - **十五**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu set out bedding in a dwelling belonging to the Community—or have it set out—and then on departing neither put it away nor have it put away, or should he go without taking leave, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘在僧團的住所擺放寢具—或讓人擺放寢具—然後離開時既不收拾，也不讓人收拾，或不告而別就離開，波逸提。*
+
+   * - Here again the three factors for a full offense are object, effort, and intention.
+     - 此處再一次，構成完整犯戒的三個要素是對象、努力和意圖。
+
 (未完待續)
