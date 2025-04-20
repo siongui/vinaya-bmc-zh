@@ -724,7 +724,7 @@
 
    * - Any bed, bench, mattress, or stool belonging to the Community is grounds for a pācittiya. Perception as to whether the item belongs to the Community is not a mitigating factor here (see `Pc 4`_). Carpets, bedspreads, mats, ground-covering under-pads, foot-wiping cloths, and wooden chairs belonging to the Community are grounds for a dukkaṭa, as are both classes of furnishings—beds, etc., and carpets, etc.—belonging to another individual. One’s own furnishings are not grounds for an offense.
 
-     - 任何屬於僧團的床、長椅、床墊或凳子都是《波逸提》的理由。對於該物品是否屬於僧團的感知並不是這裡的減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。屬於僧團的地毯、床罩、墊子、地面覆蓋墊、擦腳布和木椅都是《突吉羅》的理由，屬於另一個人的兩類傢俱（床等和地毯等）也是如此。自己的傢俱不構成犯戒的理由。
+     - 任何屬於僧團的床、長椅、床墊或凳子都是構成《波逸提》的理由。對於該物品是否屬於僧團的感知並不是這裡的減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。屬於僧團的地毯、床罩、墊子、地面覆蓋墊、擦腳布和木椅都是構成《突吉羅》的理由，屬於另一個人的兩類傢俱（床等和地毯等）也是如此。自己的傢俱不構成犯戒的理由。
 
    * - According to the Commentary, if one has made an arrangement with someone else to take his/her belongings on trust, there is no offense in leaving that person’s furnishings out in the open. The Sub-commentary adds that any furnishings a donor presents for the Community to use out in the open—e.g., stone or concrete benches—are likewise not grounds for an offense.
 
@@ -826,5 +826,30 @@
 
    * - Here again the three factors for a full offense are object, effort, and intention.
      - 此處再一次，構成完整犯戒的三個要素是對象、努力和意圖。
+
+   * - **Object**
+     - **對象**
+
+   * - *Bedding* here includes mattresses, pillows, rugs, sheets, mats, sitting cloths, blankets, bedspreads, animal skins, throw rugs, etc., but not the beds or benches on which they may be placed. Unlike the preceding rule, the question of whom the bedding belongs to is not an issue in determining the offense under this rule.
+
+     - 這裡的\ *寢具*\ 包括床墊、枕頭、地毯、床單、墊子、坐布、毯子、床罩、動物皮、小地毯等，但不包括放置這些物品的床或長椅。與前一條戒條不同，本戒條寢具屬於誰的問題與判定犯戒不相關。
+
+   * - The place where it is left, though, *is* an issue. Bedding left in a dwelling belonging to the Community is grounds for a pācittiya. Bedding (§) left in a dwelling belonging to another individual is grounds for a dukkaṭa, as is bedding left in the area around a dwelling, in an assembly hall, an open pavilion, or at the foot of a tree—these last three places belonging to the Community or to another individual.
+
+     - 但它被放置在哪裡則\ *是*\ 一個問題。遺留在僧團住處內的寢具是構成《波逸提》的理由。將寢具（§）遺留在他人住處內，是構成《突吉羅》的理由，將寢具留在住所周圍、集會大廳、開放涼亭、或樹下也是構成《突吉羅》的理由 —— 最後這三個地方屬於僧團或他人所有。
+
+   * - A bed or a bench taken from its original place and left in any of the above places is grounds for a dukkaṭa. Given that this rule covers a different kind of ”departing” from the preceding rule, this penalty applies even during the periods when one is allowed to keep such things under trees, etc., through the allowance given in the Vibhaṅga to that rule.
+
+     - 將床或長椅從其原處搬走並遺留在上述任何地方均會構成《突吉羅》的理由。鑑於此戒條涵蓋了與前一條戒條不同的「離開」，因此，即使在根據本戒條的《經分別》的開緣允許將此類物品放在樹下等的期間，也適用此懲罰。
+
+   * - Bedding left in a dwelling, etc., belonging to oneself is not grounds for an offense.
+     - 將寢具留在屬於自己的住所等處不構成犯戒。
+
+   * - According to the Vibhaṅga, this rule applies specifically to bedding that one has oneself set out or arranged to be set out. Thus it would not apply to cases where a bhikkhu comes to a dwelling and finds bedding already set out there, even when set out as a courtesy for him. The Commentary qualifies this point by saying that if a visiting bhikkhu is staying temporarily in a Community dwelling to which another bhikkhu has laid claim (see `BMC2, Chapter 18`_), the bedding is the responsibility of the bhikkhu with the claim on the dwelling, and not of the visitor. Once the visitor does lay claim to the dwelling, however, responsibility for the bedding becomes his. In line with this qualification, if a monastery has a dwelling set aside for receiving visiting elders, it would be a wise policy for one of the resident bhikkhus to lay claim to it so that visiting elders would not have to be responsible for any bedding set out for them.
+
+     - 根據《經分別》，這條戒條專門適用於自己擺放或安排令人擺放的寢具。因此，這不適用於比丘來到住處並發現那裡已經擺放好寢具的情況，即使是出於對他的禮貌而擺放的寢具。《義註》中對此進行了限定，指出如果一位來訪的比丘暫時住在另一位比丘聲稱居住的僧團住處（見\ `《佛教比丘戒律 第二冊》第十八章`_\ ），則寢具是聲稱居住該住處的比丘的責任，而不是訪客的責任。然而，一旦訪客確實對該住處提出聲稱居住，寢具的責任就落到訪客身上了。依照這項條件，如果一座寺院專門為接待來訪的長老而設立了住處，那麼明智的做法是讓其中一位常住比丘聲稱居住該住處，這樣來訪的長老就不必負責為他們擺放的寢具。
+
+   * - Perception as to whether the dwelling belongs to the Community or to another individual is not a mitigating factor here (see `Pc 4`_).
+     - 關於該住處是否屬於僧團或其他個人的感知並不是這裡的減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
 
 (未完待續)
