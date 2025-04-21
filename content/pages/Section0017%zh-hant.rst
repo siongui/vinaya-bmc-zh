@@ -865,7 +865,7 @@
 
    * - To *depart* is defined as going outside the grounds of the monastery: beyond the wall of the monastery if it is walled, beyond its vicinity if it is not. (In all rules mentioning this point, the Commentary defines a monastery’s vicinity as a distance of two leḍḍupātas—approximately 36 meters—from the buildings.) However, the absence of any reference to this rule in the protocols to be done before one’s alms round (`Cv.VIII.5`_\—see `BMC2, Chapter 9`_) indicates that temporary excursions outside the monastery are not counted as “departing.” This conclusion is seconded by one of the non-offense clauses here, discussed below, which says that when a bhikkhu goes with the expectation of returning but then sends word back to the monastery that he is taking leave, he avoids any penalty under this rule. This implies that a bhikkhu who leaves his bedding spread out in a dwelling belonging to the Community, leaves the monastery temporarily with the intent of returning, and returns as planned, incurs no penalty as well.
 
-     - *離開*\ 的定義是走出寺院的範圍：如果寺院有圍牆，則走出寺院圍牆之外；如果沒有圍牆，則走出寺院周圍。（在所有提到這一點的戒條中，《義註》都將寺院的附近定義為距離建築物兩個 `leḍḍupāta`_\ （約 36 米）的距離。）然而，在托缽前需作持的行儀中沒有提到這條戒條（\ `《小品》.八.5`_ ——參見\ `《佛教比丘戒律 第二冊》第九章`_\ ），這表明寺院外的臨時出遊不算作「離開」。這一結論得到了下面討論的其中一條不犯條款的支持，該條款規定，當一位比丘帶著返回的期望出去，但隨後又向寺院傳回訊息說他要告別時，他可以避免根據這條戒條受到任何懲罰。這意味著，如果比丘將自己的寢具展開留在僧團的住所中，暫時離開寺院並打算返回，並且按照計劃返回，那麼他也不會受到懲罰。
+     - *離開*\ 的定義是走出寺院的範圍：如果寺院有圍牆，則走出寺院圍牆之外；如果沒有圍牆，則走出寺院周圍。（在所有提到這一點的戒條中，《義註》都將寺院的附近定義為距離建築物兩個 `leḍḍupāta`_\ （約 36 米）的距離。）然而，在托缽前需作持的行儀中沒有提到這條戒條（\ `《小品》.八.5`_ ——參見\ `《佛教比丘戒律 第二冊》第九章`_\ ），這表明寺院外的臨時出遊不算作「離開」。這一結論得到了下面討論的其中一條不犯條款的支持，該條款規定，當一位比丘帶著返回的期望出去，但隨後又向寺院傳回話說他要告別時，他可以避免根據這條戒條受到任何懲罰。這意味著，如果比丘將自己的寢具展開留在僧團的住所中，暫時離開寺院並打算返回，並且按照計劃返回，那麼他也不會受到懲罰。
 
    * - The question arises, though, as to how long a temporary period of absence is allowable. The Vibhaṅga itself sets no time limit. The Commentary illustrates the non-offense clause we have just mentioned with the case of a bhikkhu who leaves, thinking, “I will return today,” but makes no specific statement that longer periods are not allowed.
 
@@ -896,5 +896,16 @@
 .. _《小品》.八.5: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0293a14
 .. _《佛教比丘戒律 第二冊》第九章: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第九章
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - is a factor here, in that—as mentioned above—if one plans to return within the allowable space of time, there is no offense. This point is conveyed by a passage in the non-offense clauses that reads, “having gone with the desire (to return), staying there one takes leave; he is constrained by something or another.” The Commentary, reasonably, reads this passage as two exemptions governed by the first phrase. In other words, (1) if one leaves the monastery with the intent to return and then, after reaching the opposite bank of a river or going the interval of one village away, one changes one’s mind and decides not to return, one can avoid an offense by sending word back to the monastery with the message that one is taking leave. Or, (2) if one leaves the monastery with the intent to return but encounters physical constraints—such as flooded rivers, kings, or robbers—that prevent one’s return, that in and of itself exempts one from an offense, and there is no need to send word.
+
+     - 在此處是一個因素，因為——如上所述——如果計劃在允許的時間內返回，那就沒有犯戒。不犯條款中的一段話傳達了這一點，寫道「帶著（返回的）願望去，留在那裡告別，他受到某些事物的束縛。」《義註》合理地將這段話解讀為受第一句約束的兩項豁免。換句話說，（1）如果離開寺院，打算返回，但到達河對岸，或走過一個村莊的距離後，改變主意，決定不再返回，只需向寺院傳回話說要告別，即可避免犯戒。或者（2）如果離開寺院，打算返回，但遭遇身體限制——例如河水氾濫、國王或盜賊——阻止返回，這本身就免除了他的罪行，不需要傳話。
 
 (未完待續)
