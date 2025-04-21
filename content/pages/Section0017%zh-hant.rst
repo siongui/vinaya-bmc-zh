@@ -867,10 +867,34 @@
 
      - *離開*\ 的定義是走出寺院的範圍：如果寺院有圍牆，則走出寺院圍牆之外；如果沒有圍牆，則走出寺院周圍。（在所有提到這一點的戒條中，《義註》都將寺院的附近定義為距離建築物兩個 `leḍḍupāta`_\ （約 36 米）的距離。）然而，在托缽前需作持的行儀中沒有提到這條戒條（\ `《小品》.八.5`_ ——參見\ `《佛教比丘戒律 第二冊》第九章`_\ ），這表明寺院外的臨時出遊不算作「離開」。這一結論得到了下面討論的其中一條不犯條款的支持，該條款規定，當一位比丘帶著返回的期望出去，但隨後又向寺院傳回訊息說他要告別時，他可以避免根據這條戒條受到任何懲罰。這意味著，如果比丘將自己的寢具展開留在僧團的住所中，暫時離開寺院並打算返回，並且按照計劃返回，那麼他也不會受到懲罰。
 
+   * - The question arises, though, as to how long a temporary period of absence is allowable. The Vibhaṅga itself sets no time limit. The Commentary illustrates the non-offense clause we have just mentioned with the case of a bhikkhu who leaves, thinking, “I will return today,” but makes no specific statement that longer periods are not allowed.
+
+     - 但問題是，暫時不在多久是被允許的。《經分別》本身沒有設定時間限制。《義註》以比丘離開時想著「我今天會回來」的例子來說明我們剛才提到的不犯條款，但沒有具體說明不允許停留更長時間。
+
+   * - Because the texts give no specific guidelines here, this is a matter that each Community should decide for itself, taking the following considerations into account:
+
+     - 由於文獻中此處沒有給出具體的指導方針，因此每個僧團都應自行決定此事，並考慮以下因素：
+
+   * - .. container:: mx-2
+
+          1\) The origin story suggests that the purpose of the rule is to prevent the bedding’s being left so long in an unoccupied dwelling that it attracts ants, termites, or other pests.
+
+     - .. container:: mx-2
+
+          1）\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0053a10>`__\ 表明，本戒條的目的是防止寢具在無人居住的住所中放置太久，以致吸引螞蟻、白蟻或其他害蟲。
+
+   * - .. container:: mx-2
+
+          2\) Another consideration, raised by the Vinaya-mukha, is that if a bhikkhu goes for a long excursion, leaving his bedding and other belongings scattered about in a dwelling, this might inconvenience the resident bhikkhus in that they could not easily allot the dwelling to another bhikkhu in the interim.
+
+     - .. container:: mx-2
+
+          2）《戒律入口》提出的另一個考慮是，如果比丘外出長途旅行，將他的寢具和其他物品散落在住處內，這可能會給住在那裡的比丘帶來不便，因為他們無法在這段時間輕易地將住所分配給另一位比丘。
+
 .. _Cv.VIII.5: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.5.2-3
 .. _BMC2, Chapter 9: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
 .. _《小品》.八.5: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0293a14
 .. _《佛教比丘戒律 第二冊》第九章: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
-.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第九章
 
 (未完待續)
