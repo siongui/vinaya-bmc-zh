@@ -852,4 +852,25 @@
    * - Perception as to whether the dwelling belongs to the Community or to another individual is not a mitigating factor here (see `Pc 4`_).
      - 關於該住處是否屬於僧團或其他個人的感知並不是這裡的減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
 
+   * - **Effort**
+     - **努力**
+
+   * - The Commentary’s discussion of *putting the item away* shows that it essentially means putting it back in the safe place where it was kept before being spread out. Thus, if the bedding was hanging in a bundle from a clothesline before being spread out, it should be wrapped in a bundle and hung from the line as before. If it was taken from another room, it should be returned to the room from which it was taken.
+
+     - 《義註》中關於\ *收起物品*\ 的討論表明，它本質上意味著將其放回被展開之前保存的安全地方。因此，如果寢具在被展開之前是捆成一捆掛在晾衣繩上的，則應將其包捆起來並像之前一樣掛在晾衣繩上。如果是從另一個房間拿走的，則應將其放回被拿走的房間。
+
+   * - *Having the item put away* and *taking leave* are defined as under the preceding rule, with one exception: A bhikkhu who orders someone else to spread the item is responsible for it even if the other person is also ordained.
+
+     - *令人收起物品*\ 和\ *告別*\ 的定義與前一條戒條相同，但有一個例外：命令其他人展開物品的比丘要對其負責，即使另一個人也受過具足戒。
+
+   * - To *depart* is defined as going outside the grounds of the monastery: beyond the wall of the monastery if it is walled, beyond its vicinity if it is not. (In all rules mentioning this point, the Commentary defines a monastery’s vicinity as a distance of two leḍḍupātas—approximately 36 meters—from the buildings.) However, the absence of any reference to this rule in the protocols to be done before one’s alms round (`Cv.VIII.5`_\—see `BMC2, Chapter 9`_) indicates that temporary excursions outside the monastery are not counted as “departing.” This conclusion is seconded by one of the non-offense clauses here, discussed below, which says that when a bhikkhu goes with the expectation of returning but then sends word back to the monastery that he is taking leave, he avoids any penalty under this rule. This implies that a bhikkhu who leaves his bedding spread out in a dwelling belonging to the Community, leaves the monastery temporarily with the intent of returning, and returns as planned, incurs no penalty as well.
+
+     - *離開*\ 的定義是走出寺院的範圍：如果寺院有圍牆，則走出寺院圍牆之外；如果沒有圍牆，則走出寺院周圍。（在所有提到這一點的戒條中，《義註》都將寺院的附近定義為距離建築物兩個 `leḍḍupāta`_\ （約 36 米）的距離。）然而，在托缽前需作持的行儀中沒有提到這條戒條（\ `《小品》.八.5`_ ——參見\ `《佛教比丘戒律 第二冊》第九章`_\ ），這表明寺院外的臨時出遊不算作「離開」。這一結論得到了下面討論的其中一條不犯條款的支持，該條款規定，當一位比丘帶著返回的期望出去，但隨後又向寺院傳回訊息說他要告別時，他可以避免根據這條戒條受到任何懲罰。這意味著，如果比丘將自己的寢具展開留在僧團的住所中，暫時離開寺院並打算返回，並且按照計劃返回，那麼他也不會受到懲罰。
+
+.. _Cv.VIII.5: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.5.2-3
+.. _BMC2, Chapter 9: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
+.. _《小品》.八.5: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0293a14
+.. _《佛教比丘戒律 第二冊》第九章: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
+
 (未完待續)
