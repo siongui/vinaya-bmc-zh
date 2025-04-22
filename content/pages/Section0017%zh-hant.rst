@@ -994,4 +994,19 @@
 
      - 《經分別》將「\ *明知地*\ 」定義為知到住處的現任居住者是資深比丘、病人、或僧團（或其執事）已指定居於該住處的人。《義註》將這個定義解釋為一系列例子，並從中概括出來包含任何我們知道「這個比丘不應該被迫搬遷」的情況。
 
+   * - **Effort**
+     - **努力**
+
+   * - To *intrude* means to lie down or sit down in the area immediately adjacent to the bhikkhu’s sleeping or sitting place—which the Commentary defines as anywhere within 75 cm. of the sleeping or sitting place—or on a 75 cm. wide path from either of those places to the dwelling’s entrance. There is a dukkaṭa for placing one’s bedding or seat in such an area, and a pācittiya for each time one sits or lies down there. To place one’s bedding or seat in any other part of the dwelling entails a dukkaṭa; and to sit or lie down there, another dukkaṭa—assuming in all of these cases that the dwelling belongs to the Community.
+
+     - *侵入*\ 的意思是躺下或坐下在緊鄰比丘睡覺或坐著的地方的區域——《義註》將其定義為距離睡覺或坐著的地方 75 公分以內的任何地方——或從上述任兩個地點之一到住處入口的 75 公分寬的道路上。在這樣的區域放置寢具或座位是《突吉羅》，而每次在那裡坐著或躺下是《波逸提》。將寢具或座位放置在住處的任何其他部分犯《突吉羅》；而在那裡坐著或躺下，另一次《突吉羅》——在所有這些情況下，都假設該住處屬於僧團。
+
+   * - Perception with regard to the dwelling is not an issue here (see `Pc 4`_). If the dwelling actually belongs to the Community, this part of the factor is fulfilled regardless of whether one perceives it as belonging to the Community or not.
+
+     - 關於住處的感知在這裡不是問題（參見\ `《波逸提》四`_\ ）。如果該住處確實屬於僧團，那麼無論是否認為它屬於僧團，這一部分因素都已滿足。
+
+   * - There is a dukkaṭa for intruding on the space of a bhikkhu—intending to force him out—in the area immediately adjacent to such a dwelling, in a place belonging to the Community that is not the dwelling of a particular person (e.g., an open pavilion or a meal hall), the shade of a tree, in the open air, or in a dwelling belonging to another individual. To do so in a dwelling belonging to oneself entails no offense. According to the Commentary, this last allowance also applies to a dwelling belonging to anyone who has offered to let one take his/her belongings on trust.
+
+     - 侵入比丘的空間（意圖強迫他離開）、這樣的住處的緊鄰區域、屬於僧團但不是某個特定的人的住處的地方（例如，開放涼亭或食堂）、樹蔭下、露天場所、或屬於另一個人的住處，是《突吉羅》。在自己的住處這樣做並不犯戒。根據《義註》，最後這項開緣也適用於任何願意讓自己基於信任拿走其所有物的人的住處。
+
 (未完待續)
