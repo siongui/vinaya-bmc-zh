@@ -931,4 +931,60 @@
    \*    \*    \*
 
 
+.. _Pc16:
+
+.. raw:: html
+
+   <span id="Pc16"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **16**
+     - **十六**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu knowingly lie down in a dwelling belonging to the Community so as to intrude on a bhikkhu who arrived there first, (thinking), “Whoever finds it confining will go away”—doing it for just that reason and no other—it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘明知地躺在僧團的住處中，以致打擾到先到的比丘，（想著），「誰覺得侷限就會走開」 — 只因為這個原因而這樣做，沒有別的原因 — 波逸提。*
+
+   * - There are four factors for an offense here.
+     - 此處的犯戒有四個因素。
+
+   * - .. container:: mx-2
+
+          *1) Object:* a bhikkhu who should not be forced to move.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 不應被強迫搬遷的比丘。
+
+   * - .. container:: mx-2
+
+          *2) Perception:* One perceives him as such.
+
+     - .. container:: mx-2
+
+          *2）感知：*\ 知道他不應被強迫搬遷。
+
+   * - .. container:: mx-2
+
+          *3) Effort:* One intrudes on his space in a dwelling belonging to the Community
+
+     - .. container:: mx-2
+
+          *3）努力：*\ 侵入了屬於僧團住處的他的空間
+
+   * - .. container:: mx-2
+
+          *4) Intention:* with the sole purpose of forcing him out.
+
+     - .. container:: mx-2
+
+          *4）意圖：*\ 唯一目的就是迫使他離開。
+
 (未完待續)

@@ -1472,8 +1472,7 @@
 .. _16: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc16
 .. _17: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc17
 .. _《波逸提》十五: {filename}Section0017%zh-hant.rst#Pc15
-.. _十六: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc16
-.. TODO FIXME: replace link to 《波逸提》十六
+.. _十六: {filename}Section0017%zh-hant.rst#Pc16
 .. _十七: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc17
 .. TODO FIXME: replace link to 《波逸提》十七
 
