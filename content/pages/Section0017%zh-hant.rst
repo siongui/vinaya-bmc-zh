@@ -908,4 +908,27 @@
 
      - 在此處是一個因素，因為——如上所述——如果計劃在允許的時間內返回，那就沒有犯戒。不犯條款中的一段話傳達了這一點，寫道「帶著（返回的）願望去，留在那裡告別，他受到某些事物的束縛。」《義註》合理地將這段話解讀為受第一句約束的兩項豁免。換句話說，（1）如果離開寺院，打算返回，但到達河對岸，或走過一個村莊的距離後，改變主意，決定不再返回，只需向寺院傳回話說要告別，即可避免犯戒。或者（2）如果離開寺院，打算返回，但遭遇身體限制——例如河水氾濫、國王或盜賊——阻止返回，這本身就免除了他的罪行，不需要傳話。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - In addition to these two exemptions, the Vibhaṅga says that there is no offense in departing having left bedding spread out in a dwelling if someone else has taken responsibility for the bedding or if one has taken leave of a bhikkhu, a novice, or a monastery attendant. According to the protocols to be done before leaving a monastery to live elsewhere (`Cv.VIII.3.2`_), if there is no one from whom to take leave, “then having set the bed on four stones, having stacked bed on bed, bench on bench, having placed the lodgings (including the bedding) in a heap on top, having put away the wooden goods and clay goods, having closed the windows and doors, he may set out.”
+
+     - 除了這兩項豁免之外，《經分別》還規定，如果有其他人對寢具負責，或者如果已經向比丘、沙彌或寺院侍者告別，那麼離開時將展開的寢具留在住處並不算犯戒。根據離開寺院去其他地方居住前需作持的行儀（\ `《小品》.八.3.2`_\ ），如果沒有人可以告別，「那麼，要把床放在四塊石頭上，把床疊放在床上，把長椅疊放在長椅上，把臥坐具（包括寢具）堆放在上面，把木器和陶器收好，關上門窗，然後他就可以出發了。」
+
+   * - And as under the preceding rule, there is no offense if there is a constraint on the bedding or there are dangers—i.e., constraints or dangers that would prevent one from putting them away before leaving.
+
+     - 並且如同前面的戒條，如果寢具有限制條件或危險（即，限製條件或危險會阻止在離開之前將寢具收起來），則不構成犯戒。
+
+   * - *Summary: When one has spread bedding out in a dwelling belonging to the Community: Departing from the monastery without putting it away, arranging to have it put away, or taking leave is a pācittiya offense.*
+     - *摘要：當在僧團的住處內展開寢具時：離開寺院時沒有將其收拾好、沒有安排令其收拾好、或者沒有告別，是《波逸提》（《單墮》）罪。*
+
+.. _Cv.VIII.3.2: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.3.2-3
+.. _《小品》.八.3.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0289a10
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
