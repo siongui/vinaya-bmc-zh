@@ -987,4 +987,11 @@
 
           *4）意圖：*\ 唯一目的就是迫使他離開。
 
+   * - **Object & perception**
+     - **對象及感知**
+
+   * - *Knowingly* is defined in the Vibhaṅga as knowing that the dwelling’s current occupant is a senior bhikkhu, a sick one, or one to whom the Community (or its official) has assigned the dwelling. The Commentary interprets this definition as a list of examples and generalizes from it to include any case where one knows, “This bhikkhu shouldn’t be forced to move.”
+
+     - 《經分別》將「\ *明知地*\ 」定義為知到住處的現任居住者是資深比丘、病人、或僧團（或其執事）已指定居於該住處的人。《義註》將這個定義解釋為一系列例子，並從中概括出來包含任何我們知道「這個比丘不應該被迫搬遷」的情況。
+
 (未完待續)
