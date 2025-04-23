@@ -1093,6 +1093,57 @@
 
           「『是的…。』
 
+   * - .. container:: mx-2
+
+          “‘Then get out. The dwelling is ours.’
+
+     - .. container:: mx-2
+
+          「『那就出去吧。這住處是我們的。』
+
+   * - .. container:: mx-2
+
+          “‘The dwelling is large, friends. You can stay here, and we’ll stay here, too.’
+
+     - .. container:: mx-2
+
+          「『住處很大，朋友們。你們可以住在這裡，我們也會住在這裡。』
+
+   * - .. container:: mx-2
+
+          “‘Get out. The dwelling is ours.’ And, angered and displeased, seizing them by the throat, they threw them out. The group-of-seventeen bhikkhus, having been thrown out, began to cry.”
+
+     - .. container:: mx-2
+
+          「『出去！這住處是我們的。』憤怒且不滿，掐住他們的喉嚨，把他們扔了出去。被扔出去的十七群比丘們哭了起來。』
+
+   * - The three factors for the full offense here are:
+     - 此處構成完全違犯的三個因素是：
+
+   * - .. container:: mx-2
+
+          *1) Object:* a bhikkhu.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 比丘。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One evicts him from a dwelling belonging to the Community.
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 將他從屬於僧團的住處中趕出去。
+
+   * - .. container:: mx-2
+
+          *3) Intention:* One’s prime impulse is anger.
+
+     - .. container:: mx-2
+
+          *3）意圖：*\ 主要衝動是憤怒。
+
 .. _Pc 65: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc65
 .. _《波逸提》六五: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc65
 .. TODO FIXME: replace link to 《波逸提》六五
