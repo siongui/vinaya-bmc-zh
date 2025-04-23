@@ -1053,4 +1053,48 @@
 
           *如果任何比丘因憤怒和不滿而將比丘從僧團的住處中趕出，或命令他人將其趕出，波逸提。*
 
+   * - .. container:: mx-2
+
+          “At that time some group-of-seventeen bhikkhus (see `Pc 65`_) were fixing up a large dwelling on the fringes of the monastery, thinking, ‘We will spend the Rains here.’ Some group-of-six bhikkhus… seeing them, said, ‘These group-of-seventeen bhikkhus are fixing up a dwelling place. Let’s drive them out.’ But others of them said, ‘Wait, friends, while they fix it up. When it’s fixed up, then we’ll drive them out.’
+
+     - .. container:: mx-2
+
+          「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0057a12>`__\，十七群比丘（見\ `《波逸提》六五`_\ ）正在寺院邊緣修葺一處大住處，心想：『我們要在此度雨季。』六群比丘……看到他們，說：『這十七群比丘正在修葺大住處。我們趕他們出去吧。』但他們中的其他人說：『朋友們，等他們修好。修好後，我們再趕他們出去。』
+
+   * - .. container:: mx-2
+
+          “Then the group-of-six bhikkhus said to the group-of-seventeen bhikkhus, ‘Get out, friends. The dwelling is ours.’
+
+     - .. container:: mx-2
+
+          「然後六群比丘對十七群比丘說：『出去吧，朋友們。這住處是我們的。」
+
+   * - .. container:: mx-2
+
+          “‘Shouldn’t this have been mentioned beforehand so that we could have fixed up another one?’
+
+     - .. container:: mx-2
+
+          「『這難道不應該事先提嗎，這樣我們就可以修葺另一處？』
+
+   * - .. container:: mx-2
+
+          “‘Isn’t this a dwelling belonging to the Community?’
+
+     - .. container:: mx-2
+
+          「『這不是屬於僧團的住處嗎？』
+
+   * - .. container:: mx-2
+
+          “‘Yes….’
+
+     - .. container:: mx-2
+
+          「『是的…。』
+
+.. _Pc 65: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc65
+.. _《波逸提》六五: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc65
+.. TODO FIXME: replace link to 《波逸提》六五
+
 (未完待續)
