@@ -1032,4 +1032,25 @@
    \*    \*    \*
 
 
+.. _Pc17:
+
+.. raw:: html
+
+   <span id="Pc17"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **17**
+     - **十七**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, angered and displeased, evict a bhikkhu from a dwelling belonging to the Community—or have him evicted—it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘因憤怒和不滿而將比丘從僧團的住處中趕出，或命令他人將其趕出，波逸提。*
+
 (未完待續)

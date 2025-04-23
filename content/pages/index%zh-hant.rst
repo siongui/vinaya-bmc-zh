@@ -329,7 +329,7 @@
      - `\　　　十六 <{filename}Section0017%zh-hant.rst#Pc16>`__
 
    * - `\　　　17 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc17>`__
-     - 　　　十七
+     - `\　　　十七 <{filename}Section0017%zh-hant.rst#Pc17>`__
 
    * - `\　　　18 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc18>`__
      - 　　　十八

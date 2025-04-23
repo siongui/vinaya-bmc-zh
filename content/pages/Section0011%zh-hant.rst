@@ -1473,8 +1473,7 @@
 .. _17: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc17
 .. _《波逸提》十五: {filename}Section0017%zh-hant.rst#Pc15
 .. _十六: {filename}Section0017%zh-hant.rst#Pc16
-.. _十七: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc17
-.. TODO FIXME: replace link to 《波逸提》十七
+.. _十七: {filename}Section0017%zh-hant.rst#Pc17
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
