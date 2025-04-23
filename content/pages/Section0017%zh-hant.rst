@@ -1148,4 +1148,15 @@
 .. _《波逸提》六五: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc65
 .. TODO FIXME: replace link to 《波逸提》六五
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - A bhikkhu is grounds for a pācittiya here, while the following are grounds for a dukkaṭa: a bhikkhu’s belongings, an unordained person, and an unordained person’s belongings.
+
+     - 在此，比丘是構成《波逸提》的理由，而下列各項是構成《突吉羅》的理由：比丘的所有物、未受具足戒者、未受具足戒者的所有物。
+
 (未完待續)
