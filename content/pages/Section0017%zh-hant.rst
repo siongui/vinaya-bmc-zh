@@ -1170,6 +1170,17 @@
 
      - 告訴其他人驅逐比丘是《突吉羅》 —— 這裡不允許 *kappiya-vohāra* —— 並且，假設所有其他因素都滿足，一旦比丘被驅逐，就犯一次《波逸提》，無論花費多少努力。（泰國版《聖典》將命令/請求他人執行驅逐指定為犯一次《波逸提》，但即使是泰國版《義註》也只在此處指定了一次《突吉羅》，所有其他主要版本的《聖典》也都如此，因此這裡的泰國拼讀可能是錯誤的。）
 
+   * - To evict a bhikkhu from a dwelling belonging to the Community entails a pācittiya. As under the preceding rule, perception with regard to the ownership of the dwelling is not an issue here. To evict anyone—bhikkhu or not—from an area immediately adjacent to a dwelling belonging to the Community, from a place belonging to the Community that is not the dwelling of a particular person, from the shade of a tree, from a spot in the open air, or from a dwelling belonging to another individual entails a dukkaṭa. There is also a dukkaṭa for throwing a person’s belongings out from any of these places. (In all the cases mentioned in this paragraph, the assumption is that one is motivated by anger.)
+
+     - 將比丘從僧團的住處中驅逐出去，會招致《波逸提》的懲罰。如同前一條戒條，對住處所有權的感知在這裡不是問題。將任何人（無論是否比丘）從僧團住處的緊鄰區域、屬於僧團的非特定人住處的地方、樹蔭下、露天場所或屬於另一個人的住處驅逐，都將導致《突吉羅》。將某人的所有物從這些地方扔出去也是《突吉羅》。（本段中提到的所有情況都假設動機是憤怒。）
+
+   * - To evict anyone or anyone’s belongings from one’s own dwelling—or from one that belongs to an individual who has offered to let one take his/her belongings on trust—is not grounds for an offense.
+
+     - 將任何人或其財物從自己的住處中驅逐出去（或從屬於願意讓自己基於信任拿走他/她的財產的人的住處中驅逐出去），並不構成犯戒。
+
+   * - Perception as to whether the dwelling belongs to the Community is not a mitigating factor here (see `Pc 4`_).
+     - 對於該住處是否屬於僧團的感知並不是這裡的減輕懲罰因素（參見\ `《波逸提》四`_\ ）。
+
 .. _大眾部: https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%9C%BE%E9%83%A8
 .. _說一切有部: https://zh.wikipedia.org/wiki/%E8%AF%B4%E4%B8%80%E5%88%87%E6%9C%89%E9%83%A8
 
