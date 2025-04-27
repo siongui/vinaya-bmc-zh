@@ -1215,4 +1215,25 @@
    \*    \*    \*
 
 
+.. _Pc18:
+
+.. raw:: html
+
+   <span id="Pc18"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **18**
+     - **十八**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu sit or lie down on a bed or bench with detachable legs on an (unplanked) loft in a dwelling belonging to the Community, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘在僧團住處的（未鋪板的）閣樓上坐下或躺在帶有可拆卸腳的床或長椅上，波逸提。*
+
 (未完待續)
