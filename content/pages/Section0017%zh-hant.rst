@@ -1267,4 +1267,25 @@
    \*    \*    \*
 
 
+.. _Pc19:
+
+.. raw:: html
+
+   <span id="Pc19"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **19**
+     - **十九**
+
+   * - .. container:: notification
+
+          *When a bhikkhu is having a large dwelling built, he may supervise two or three layers of facing to plaster the area around the window frame and reinforce the area around the door frame the width of the door opening, while standing where there are no crops to speak of. Should he supervise more than that, even if standing where there are no crops to speak of, it is to be confessed.*
+
+     - .. container:: notification
+
+          *當比丘正在建造一所大住處時，他可以監督用兩三層飾面抹灰窗框周圍的區域，並加固門框周圍的區域，門口打開的寬度，同時站在沒有農作物的地方說。若他監督超過這個限度，即使站在沒有農作物的地方說，波逸提。*
+
 (未完待續)

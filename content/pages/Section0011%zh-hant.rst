@@ -1700,8 +1700,7 @@
 .. _Pc 19: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc19
 .. _BMC2, Chapters 6: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#BMC2chapter6
 .. _18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
-.. _《波逸提》十九: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc19
-.. TODO FIXME: replace link to 十九
+.. _《波逸提》十九: {filename}Section0017%zh-hant.rst#Pc19
 .. _《佛教比丘戒律 第二冊》第六章: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#BMC2chapter6
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第六章
 .. _第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
