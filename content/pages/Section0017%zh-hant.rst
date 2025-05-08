@@ -1288,4 +1288,12 @@
 
           *當比丘正在建造一所大住處時，他可以監督用兩三層飾面抹灰窗框周圍的區域，並加固門框周圍的區域，門口打開的寬度，同時站在沒有農作物的地方說。若他監督超過這個限度，即使站在沒有農作物的地方說，波逸提。*
 
+   * - .. container:: mx-2
+
+          “Now at that time a chief minister who was Ven. Channa’s supporter was having a dwelling built for Ven. Channa. Ven. Channa had the finished dwelling covered with roofing material again and again, plastered again and again, so that the dwelling, overloaded, caved in. Then Ven. Channa, collecting grass and sticks, despoiled the barley field of a certain brahman. The brahman criticized and complained and spread it about, ‘How can their reverences despoil our barley field?’… Bhikkhus… criticized and complained and spread it about, ‘How can Ven. Channa have a finished dwelling covered with roofing material again and again, plastered again and again, so that the dwelling gets overloaded and caves in?’”
+
+     - .. container:: mx-2
+
+          「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0062a03>`__\ ，一位是闡陀尊者支持者的首相正在為闡陀尊者建造一所住處。闡陀尊者讓人把已完工的住處一遍又一遍地蓋上屋頂，一遍又一遍地抹上灰泥，結果住處因負荷過重而坍塌。隨後，闡陀尊者收集草和樹枝，毀壞了一位婆羅門的麥田。這位婆羅門批評、抱怨並四處散佈：『諸大德怎麼能毀壞我們的麥田？』……比丘們……批評、抱怨並四處散佈：『闡陀尊者怎麼能讓人把已完工的住處一遍又一遍地蓋上屋頂，一遍又一遍地抹上灰泥，結果住處因負荷過重而坍塌？』」
+
 (未完待續)
