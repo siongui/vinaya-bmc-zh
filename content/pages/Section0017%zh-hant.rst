@@ -1296,4 +1296,11 @@
 
           「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0062a03>`__\ ，一位是闡陀尊者支持者的首相正在為闡陀尊者建造一所住處。闡陀尊者讓人把已完工的住處一遍又一遍地蓋上屋頂，一遍又一遍地抹上灰泥，結果住處因負荷過重而坍塌。隨後，闡陀尊者收集草和樹枝，毀壞了一位婆羅門的麥田。這位婆羅門批評、抱怨並四處散佈：『諸大德怎麼能毀壞我們的麥田？』……比丘們……批評、抱怨並四處散佈：『闡陀尊者怎麼能讓人把已完工的住處一遍又一遍地蓋上屋頂，一遍又一遍地抹上灰泥，結果住處因負荷過重而坍塌？』」
 
+   * - This rule is an extension of `Sg 7`_, giving further directions for how to go about building a dwelling for one’s own use when sponsored by another person. Because the rule deals with techniques used in building wattle and daub dwellings 2,500 years ago, the rule and its explanations in the Canon and commentaries contain terms whose meaning is uncertain at present. The syntax of the rule suggests one interpretation, the Commentary another, while the Vibhaṅga is non-committal on the points where the two interpretations differ. Because both interpretations make sense, we will present them both.
+
+     - 本戒條是\ `《僧殘》七`_\ 的延伸，進一步指導了在他人贊助下如何建造供自己使用的住處。由於本戒條涉及 2500 年前建造籬笆條和塗抹住處所使用的技術，因此本戒條及其在《聖典》和註釋書中的解釋包含一些目前含義尚不確定的術語。戒條的語法顯示了一種解釋，《義註》則顯示了另一種解釋，而《經分別》對於兩種解釋的差異是含糊的。因為兩種解釋都有道理，所以我們將同時介紹它們。
+
+.. _Sg 7: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg7
+.. _《僧殘》七: {filename}Section0011%zh-hant.rst#Sg7
+
 (未完待續)
