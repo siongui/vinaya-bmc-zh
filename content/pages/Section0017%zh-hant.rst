@@ -1303,4 +1303,22 @@
 .. _Sg 7: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg7
 .. _《僧殘》七: {filename}Section0011%zh-hant.rst#Sg7
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **What the rule seems to say**
+     - **戒條似乎在說**
+
+   * - The area 1.25 meters around the door frame is to be covered with up to three layers of plaster or roofing material to reinforce it so that when the door is blown open or shut it will not damage the wall or be loosened from its hinges. Five kinds of roofing material are mentioned in the Vibhaṅga: tiles, stones, lime (cement), grass, and leaves.
+
+     - 門框周圍 1.25 公尺的區域要覆蓋最多三層灰泥或屋頂材料來加固，這樣當門被風吹開或關閉時，它不會損壞牆壁或從鉸鏈上鬆動。《經分別》中提到了五種屋頂材料：瓦片、石頭、石灰（水泥）、草和樹葉。
+
+   * - Similarly, around the windows, an area the width of the window shutters is to be reinforced with up to three layers of plaster to protect it from being damaged when the shutters are blown open or shut. Three kinds of plaster were used in the Buddha’s time—white, black, and ochre—and bhikkhus were allowed to apply them in a number of geometrical patterns, but not to use them to make obscene pictures of men and women on the walls (!) (`Cv.VI.3.1-2`_). Although the bhikkhus were allowed to cover the entire walls and floor with this plaster, this rule gives directions only for the minimum area that should be covered to keep the walls strong.
+
+     - 同樣，在窗戶周圍，與百葉窗寬度相同的區域需要用最多三層灰泥加固，以保護百葉窗被吹開或關閉時受損。佛陀時代使用三種灰泥——白色、黑色和赭色——比丘們被允許用它們畫出各種幾何圖案，但不允許用它們在牆上畫出男人和女人的淫穢圖畫（！）（\ `《小品》.六.3.1-2`_\ ）。儘管比丘們被允許用這種灰泥覆蓋整個牆壁和地板，但這條戒條給出了只為保持牆壁堅固而應覆蓋的最小面積的指導。
+
+.. _Cv.VI.3.1-2: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#Cv.VI.3.1
+.. _《小品》.六.3.1-2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0206a01
+
 (未完待續)
