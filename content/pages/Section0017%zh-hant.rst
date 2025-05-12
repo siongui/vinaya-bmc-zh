@@ -1321,4 +1321,18 @@
 .. _Cv.VI.3.1-2: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#Cv.VI.3.1
 .. _《小品》.六.3.1-2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0206a01
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **What the Commentary says**
+     - **《義註》說了什麼**
+
+   * - Because the rule refers to roofing material, the Commentary assumes that it must refer to the roof of the dwelling, even though this assumption does violence to the syntax of the rule. Its interpretation: One may reinforce the door and window frames with as much plaster or roofing material as one likes, but may cover the roof with only three layers of roofing material. A relevant point from the Canon is the passage at `Cv.VIII.3.3`_ stating that if at a later date the roof begins to leak, the resident bhikkhu—if he can—should re-roof it himself or arrange for someone else to do it for him. If he can do neither, though, there is no offense.
+
+     - 因為本戒條涉及屋頂材料，所以《義註》假設它一定是指住處的屋頂，儘管這種假設違反了戒條的語法。它的解釋是：可以用任意數量的灰泥或屋頂材料來加強門窗框架，但只能用三層屋頂材料覆蓋屋頂。《聖典》中的一個相關點是 `《小品》.八.3.3`_ 中的一段話，其中指出，如果日後屋頂開始漏水，居住的比丘——如果可以的話——應該自己重新修繕屋頂，或者安排別人替他修繕。但如果這兩件事他都做不到，那並不犯戒。
+
+.. _Cv.VIII.3.3: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.3.2-3
+.. _《小品》.八.3.3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0289a14
+
 (未完待續)
