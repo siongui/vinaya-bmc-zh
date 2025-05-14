@@ -1356,4 +1356,24 @@
    * - Perception as to whether one has exceeded the allowable number of layers is not a factor here (see `Pc 4`_).
      - 對於是否超出允許層數的感知在這裡不是一個因素（參見\ `《波逸提》四`_\ ）。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - According to the Vibhaṅga, these regulations do not apply to “an abode in a cave, a grass hut, (a dwelling) for the use of another, (a dwelling built) by means of one’s own resources, or anything other than a dwelling.” The Sub-commentary argues from the wording of the rule—its reference to “a large dwelling”—that the regulations also do not apply to small dwellings built to the standard measurement specified under `Sg 6`_: i.e., no larger than 3 by 1.75 meters.
+
+     - 根據《經分別》，這些規定不適用於「洞穴住所、草屋、供他人使用（的住處）、用自己的資源（建造的住處），或住處以外的任何建築」。《複註》從戒條的措詞（它提及「大住處」）中指出，這些規定也不適用於按照\ `《僧殘》六`_\ 規定的標準尺寸建造的小住處：即不大於 3 x 1.75 公尺。
+
+   * - *Summary: When a bhikkhu is building or repairing a large dwelling for his own use, using resources donated by another, he may not reinforce the window or door frames with more than three layers of roofing material or plaster. To exceed this is a pācittiya offense.*
+
+     - *摘要：當比丘使用他人捐贈的資源為自己建造或修繕大住處時，他不得使用超過三層屋頂材料或灰泥加固窗戶或門框。超過這個限度，是《波逸提》（《單墮》）罪。*
+
+.. _Sg 6: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg6
+.. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
