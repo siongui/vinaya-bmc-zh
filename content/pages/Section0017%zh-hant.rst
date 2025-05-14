@@ -1335,4 +1335,25 @@
 .. _Cv.VIII.3.3: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.3.2-3
 .. _《小品》.八.3.3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0289a14
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The reasons for this rule**
+     - **制定此戒條的原因**
+
+   * - The origin story suggests that the Buddha imposed the three-layer limit in order to prevent the dwelling from collapsing under the weight of too much roofing material, but the non-offense clauses show clearly that the rule is aimed at preventing bhikkhus from abusing the generosity of the person sponsoring the building work. In either case, the Commentary’s interpretation has its logic, in that an overloaded roof would be more burdensome to the dwelling and to the sponsor than an overloaded window or door frame would be.
+
+     - 起源故事表明，佛陀規定三層限制是為了防止住處在過多的屋頂材料的重量下倒塌，但不犯條款清楚地表明，本戒條旨在防止比丘濫用贊助建築工程的人的慷慨。無論哪種情況，《義註》的解釋都有其邏輯，即超載的屋頂對於住處和贊助人來說比超載的窗戶或門框更累贅。
+
+   * - A supplementary regulation arising from the origin story is that one should not perform any building operations, including supervising, where crops are growing.
+     - 起源故事中出現的一個補充規定是，不應該在農作物生長的地方進行任何建築作業，包括監督。
+
+   * - The offenses here are as follows: a pācittiya for each piece of roofing beyond the allowable three layers, and a dukkaṭa for doing or directing the work while standing where crops are growing. These offenses apply regardless of whether one is doing the work oneself or having it done. They also apply whether one is building a new dwelling or having an old one repaired.
+
+     - 這裡的犯戒如下：屋頂超過允許的三層，每超過一層就要犯一次《波逸提》，站在農作物生長的地方進行或指揮工作，犯一次《突吉羅》。無論是自己做還是讓人做，這些犯戒都適用。無論是建造新住處還是修繕舊住處，這些都適用。
+
+   * - Perception as to whether one has exceeded the allowable number of layers is not a factor here (see `Pc 4`_).
+     - 對於是否超出允許層數的感知在這裡不是一個因素（參見\ `《波逸提》四`_\ ）。
+
 (未完待續)
