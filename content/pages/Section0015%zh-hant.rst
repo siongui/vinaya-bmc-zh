@@ -1011,8 +1011,7 @@
 .. _Pc 10: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10
 .. _《波逸提》十: {filename}Section0016%zh-hant.rst#Pc10
 .. _Pc 20: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc20
-.. _《波逸提》二十: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc20
-.. TODO FIXME: replace link to 《波逸提》二十
+.. _《波逸提》二十: {filename}Section0017%zh-hant.rst#Pc20
 .. _Pc 56: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc56
 .. _《波逸提》五六: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc56
 .. TODO FIXME: replace link to 《波逸提》五六

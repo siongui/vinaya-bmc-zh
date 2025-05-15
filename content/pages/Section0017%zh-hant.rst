@@ -1376,4 +1376,35 @@
    \*    \*    \*
 
 
+.. _Pc20:
+
+.. raw:: html
+
+   <span id="Pc20"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **20**
+     - **二十**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu knowingly pour water containing living beings—or have it poured—on grass or on clay, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘明知而將含有生物的水倒在草地或泥土上，或讓人將水倒在草地或泥土上，波逸提。*
+
+   * - This is an offense with four factors.
+     - 這是具有四個因素的犯戒。
+
+   * - **Object:**
+     - **對象：**
+
+   * - Water containing living creatures. The K/Commentary’s contribution to the next factor shows that this includes things like mosquito larvae, but not beings so small they cannot be seen.
+
+     - 含有生物的水。 K/《義註》對下一個因素的貢獻表明，這包括蚊子幼蟲之類的東西，但不包括小到看不見的生物。
+
 (未完待續)

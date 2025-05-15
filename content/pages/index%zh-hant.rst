@@ -338,7 +338,7 @@
      - `\　　　十九 <{filename}Section0017%zh-hant.rst#Pc19>`__
 
    * - `\　　　20 <https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc20>`__
-     - 　　　二十
+     - `\　　　二十 <{filename}Section0017%zh-hant.rst#Pc20>`__
 
    * - `\　　Three: The Exhortation Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0018.html>`__
      - 　　第三 教誡品
