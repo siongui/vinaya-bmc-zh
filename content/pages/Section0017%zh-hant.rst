@@ -1407,4 +1407,15 @@
 
      - 含有生物的水。 K/《義註》對下一個因素的貢獻表明，這包括蚊子幼蟲之類的東西，但不包括小到看不見的生物。
 
+   * - **Perception**
+     - **感知**
+
+   * - *Knowingly*, according to the Vibhaṅga, means that one either knows on one’s own or has been told that the living creatures are there. The K/Commentary adds two points: (1) *knowing on one’s own* means that one has either seen them or heard (that they are there); and (2) *knowing* also includes knowing that they will die from the factor of effort, defined below.
+
+     - 根據《經分別》的說法，\ *明知*\ 意味著一個人若非自己知道，就是被告知有生物存在。 K/《義註》增加了兩點：（1）\ *自己明知*\ 意味著自己看到它們或聽說過（它們在那裡）；（2）\ *明知*\ 也包括知道他們會因努力的因素而死亡，定義如下。
+
+   * - If one is in doubt as to whether water contains living beings (e.g., the water is murky or in a dark place; it contains seeds that bear a resemblance to insects), then to use it in a way that would cause their death if they *were* there is to commit a dukkaṭa. If one thinks that the water contains living beings when it actually doesn’t, the penalty for using it in such a way is also a dukkaṭa.
+
+     - 如果懷疑水中是否有生物（例如，水是渾濁的或處於黑暗的地方；含有與昆蟲相似的種子），如果生物\ *在*\ 那裡，那麼以會導致其死亡的方式使用它，犯《突吉羅》。如果認為水中有生物，但實際上沒有，那麼以這種方式使用水的懲罰也是《突吉羅》。
+
 (未完待續)
