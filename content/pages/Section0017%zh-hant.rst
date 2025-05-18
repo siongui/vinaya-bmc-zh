@@ -1432,4 +1432,22 @@
    * - As with all the rules covering threats to an animal’s life, there is no allowance for *kappiya-vohāra* (“wording it right”) under this rule.
      - 與所有涉及對動物生命威脅的戒條一樣，本戒條不允許 *kappiya-vohāra*\ （「正確措辭」）。
 
+   * - **Intention**
+     - **意圖**
+
+   * - This factor is fulfilled simply by the immediate aim of pouring the water or having it poured (or of pouring “grass and clay” into the water or having it poured). For example, if after perceiving that the water contains insects, one chooses to ignore their existence and pours the water on a burning log—not to kill the insects, but to put out the fire—one commits an offense all the same.
+
+     - 這個因素只需透過直接倒水或讓人倒水（或將「草和泥土」倒入水中或讓人倒入）即可實現。例如，如果知道水中有昆蟲之後，卻選擇忽視它們的存在，而將水倒在燃燒的木頭上——不是為了殺死昆蟲，而是為了滅火——那麼仍然犯了戒。
+
+   * - In fact, the K/Commentary claims that for one’s actions to fall under this rule, one must not be motivated by a murderous intention. This claim was apparently inspired by a desire to prevent any overlap between this rule and `Pc 61`_, for there is nothing in the Vibhaṅga to allow for motivation to count as a sub-factor here. The K/Commentary’s claim would also have an anomalous result in practice: If Bhikkhu A, with murderous intent, pours water on the ground but the animals in the water don’t die, he would incur only a dukkaṭa under `Pc 61`_; if Bhikkhu B, with no murderous intent, pours water on the ground and the animals don’t die, he would incur the stronger penalty of a pācittiya under this rule. Thus there seems no reason to follow the K/Commentary on this point. In other words, regardless of motivation, if one intends to pour water, or have it poured, and then acts on that intention, one’s actions would fall under this rule.
+
+     - 事實上，K/《義註》聲稱，行為要符合這條戒條，其動機就不能是殺生的意圖。這一說法顯然是出於一種願望，即防止本戒條與\ `《波逸提》六一`_\ 之間出現任何重疊，因為《經分別》中沒有任何內容允許將動機算作這裡的子因素。 K/《義註》的說法在實踐中也會產生異常結果：如果比丘 A 懷著殺意，將水倒在地上，但水中的動物沒有死，那麼根據\ `《波逸提》六一`_\ ，他只會犯《突吉羅》；如果比丘 B 沒有殺意，將水倒在地上並且動物沒有死，那麼根據此戒條，他將遭受更嚴厲的《波逸提》懲罰。因此，似乎沒有理由在這一點上遵循 K/《義註》。換句話說，無論動機如何，如果打算倒水，或讓人倒水，然後就按照這個意圖採取行動，那麼他的行為就屬於這條戒條範圍。
+
+   * - Result is not a factor here. Whether the living beings actually die is of no consequence in determining the offense.
+     - 結果在這裡不是一個因素。生物是否真的死亡對於判定犯戒而言並不相關。
+
+.. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
+.. _《波逸提》六一: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
+.. TODO FIXME: replace link to 《波逸提》六一
+
 (未完待續)
