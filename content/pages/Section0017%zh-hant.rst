@@ -1450,4 +1450,45 @@
 .. _《波逸提》六一: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
 .. TODO FIXME: replace link to 《波逸提》六一
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in using water containing living beings in any of the ways covered by this rule—
+     - 以本戒條涵蓋的任何方式使用含有生物的水均不構成犯戒—
+
+   * - .. container:: mx-2
+
+          *unknowingly*\—e.g., not knowing that it contains living beings; pouring a toxic chemical into the water thinking it to be harmless;
+
+     - .. container:: mx-2
+
+          *不知道地*\－例如，不知道它包含生物；將有毒化學物質倒入水中，以為它是無害的；
+
+   * - .. container:: mx-2
+
+          *unthinkingly*\—e.g., heating a kettle of water on the stove, seeing that it has tadpoles in it and in a knee-jerk reaction dumping the water out on the ground so that they won’t be boiled to death; or
+
+     - .. container:: mx-2
+
+          *不假思索地*\──例如，在爐子上燒一壺水，看到裡面有蝌蚪，就會下意識反應地把水倒在地上，以免蝌蚪被煮死；或者
+
+   * - .. container:: mx-2
+
+          *unintentionally*\—e.g., accidentally knocking over a goldfish bowl.
+
+     - .. container:: mx-2
+
+          *無意地*\——例如，不小心撞倒了金魚缸。
+
+   * - However, a bhikkhu should always check water before using it. Water strainers are discussed in `BMC2, Chapter 3`_.
+     - 然而，比丘在用水前應始終檢查水。\ `《佛教比丘戒律 第二冊》第三章`_\ 討論了水過濾器。
+
+.. _BMC2, Chapter 3: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#BMC2chapter3
+.. _《佛教比丘戒律 第二冊》第三章: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#BMC2chapter3
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第三章
+
 (未完待續)
