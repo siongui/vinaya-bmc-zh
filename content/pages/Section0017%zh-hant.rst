@@ -1491,4 +1491,30 @@
 .. _《佛教比丘戒律 第二冊》第三章: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#BMC2chapter3
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第三章
 
-(未完待續)
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Watering plants**
+     - **給植物澆水**
+
+   * - The topic of watering plants comes up in the Commentary’s discussion of the bad habits of the bhikkhus at Kīṭāgiri mentioned under `Sg 13`_. There it says that even if the water has no discernable life, to use it or have someone else use it to water plants with the purpose of corrupting families with gifts from the plant entails a dukkaṭa. In cases of this sort, one is not allowed to use kappiya-vohāra or any other way of indicating one’s desire that the plant be watered.
+
+     - 澆灌植物的話題出現在《義註》對\ `《僧殘》十三`_\ 中提到雞咤山邑的比丘們的壞習慣的討論中。那裡說，即使水沒有可辨識的生命，如果用水或讓別人用水澆灌植物，目的是用植物作為禮物來污家，犯《突吉羅》。在這種情況下，不被允許使用 *kappiya-vohāra* 或任何其他方式來表達希望給植物澆水的願望。
+
+   * - If one wants to use the fruits or flowers of the plant in other ways—to eat the fruit oneself, to make a gift of fruit to the Community, to use the flowers as an offering to a Buddha image, etc.—one may not water it oneself, but there is no offense in getting someone else to water it if one uses *kappiya- vohāra*. (“Look at how dry this plant is!” “If it doesn’t get any water, it’s going to die.”)
+
+     - 如果想以其他方式使用植物的果實或花朵 - 自己吃果實，向僧團贈送果實，用花朵供奉佛像等 - 則不可自己澆水，但如果使用 *kappiya-vohāra* ，讓別人澆水則沒有犯戒。（「看看這株植物有多乾！」「如果它得不到水，它就會死。」）
+
+   * - If one wants the plant to grow for other reasons—for the sake of its shade or as part of a decorative garden or forest—there is no offense in watering it oneself as long as one uses water with no discernable life in it. Two of the ancient commentaries add that if one simply desires shade, a garden, or a forest, one may plant the plant oneself as long as one places it in earth that would not count as “genuine soil” *(jātā paṭhavī)* under `Pc 10`_.
+
+     - 如果出於其他原因而希望植物生長——為了遮蔭或作為裝飾性花園或森林的一部分——那麼自己澆水並沒有犯戒，只要使用的水中沒有可辨別的生命即可。兩本古代註釋書補充道，如果只是想要樹蔭、花園或森林，可以自己種植植物，只要將其種植在不符合\ `《波逸提》十`_\ 規定的「真土」\ *（jātā paṭhavī）*\ 的土地中即可。
+
+   * - *Summary: Pouring water that one knows to contain living beings—or having it poured—on grass or clay is a pācittiya offense. Pouring into such water anything that would kill the beings—or having it poured—is also a pācittiya offense.*
+
+     - *摘要：將明知有生命存在的水倒在草地或泥土上，或讓人將水倒在草地或泥土上，是《波逸提》（《單墮》）罪。把任何可能殺生的東西倒入這樣的水中，或者讓人倒入這樣的水中，也是《波逸提》（《單墮》）罪。*
+
+.. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
+.. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
+.. _Pc 10: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10
+.. _《波逸提》十: {filename}Section0016%zh-hant.rst#Pc10
