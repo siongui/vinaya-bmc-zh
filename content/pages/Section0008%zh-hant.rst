@@ -513,7 +513,7 @@
 .. _Mv.I.53: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.53.5-9
 .. _Pc 21: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc21
 .. _《大品》.一.53: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0099a06
-.. _《波逸提》二一: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc21
+.. _《波逸提》二一: {filename}Section0018%zh-hant.rst#Pc21
 .. _MN 62: https://www.dhammatalks.org/suttas/MN/MN62.html
 .. _AN 5\:114: https://www.dhammatalks.org/suttas/AN/AN5_114.html
 .. _《中部》62經: https://sutra.mobi/chilin/zhong/content/062.html

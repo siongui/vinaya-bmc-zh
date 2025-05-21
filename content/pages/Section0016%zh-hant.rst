@@ -1369,8 +1369,7 @@
 .. _Mv.V.6.3-4: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#Mv.V.6.4
 .. _Pc 85: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc85
 .. _畜生論: https://agama.buddhason.org/SN/SN1707.htm
-.. _《波逸提》二一: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc21
-.. TODO FIXME: replace link to 《波逸提》二一
+.. _《波逸提》二一: {filename}Section0018%zh-hant.rst#Pc21
 .. _八五: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc85
 .. TODO FIXME: replace link to 《波逸提》八五
 .. _《大品》.五.6.3-4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_005#0252a08

@@ -341,10 +341,10 @@
      - `\　　　二十 <{filename}Section0017%zh-hant.rst#Pc20>`__
 
    * - `\　　Three: The Exhortation Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0018.html>`__
-     - 　　第三 教誡品
+     - `\　　第三 教誡品 <{filename}Section0018%zh-hant.rst>`__
 
    * - `\　　　21 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc21>`__
-     - 　　　二十一
+     - `\　　　二十一 <{filename}Section0018%zh-hant.rst#Pc21>`__
 
    * - `\　　　22 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc22>`__
      - 　　　二十二
