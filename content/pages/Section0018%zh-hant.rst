@@ -78,4 +78,44 @@
 
           「『大德，這教誡從何有效？那六群比丘只給我們講了些微不足道的佛法，在談了一整天的畜生論後，便遣散我們了。』」
 
+   * - When Mahāpajāpatī Gotamī, the Buddha’s aunt and stepmother, asked him to establish an order of bhikkhunīs, he did so on the condition that she and all future bhikkhunīs accept eight rules of respect *(garu-dhamma)*. (This term is sometimes translated as “heavy rules” or “important rules,” but the Commentary explains it as meaning vows that the bhikkhunīs are to accept with respect.) In short:
+
+     - 當佛陀的姨母兼繼母\ `大愛道·瞿曇彌`_\ 請求佛陀建立一個比丘尼教團時，佛陀答應了，條件是\ `大愛道·瞿曇彌`_\ 和所有未來的比丘尼都必須接受\ `八敬法`_\ *（garu-dhamma）*\ 。（該詞有時被翻譯為「重戒」或「重要戒」，但《義註》將其解釋為比丘尼必須恭敬接受的誓言。）簡而言之：
+
+   * - .. container:: mx-2
+
+          1\) Even a bhikkhunī who has been ordained over a century must pay homage to a bhikkhu ordained that very day.
+
+     - .. container:: mx-2
+
+          1）即使受具足戒超過百年的比丘尼，也必須頂禮當天受具足戒的比丘。
+
+   * - .. container:: mx-2
+
+          2\) A bhikkhunī must not spend the Rains in a residence where there is no bhikkhu (within half a yojana, says the Commentary).
+
+     - .. container:: mx-2
+
+          2）比丘尼不得在沒有比丘的住所度過雨安居（《義註》中說，半\ `由旬`_\ 之內）。
+
+   * - .. container:: mx-2
+
+          3\) Every half month a bhikkhunī should expect two things from the Community of bhikkhus: permission to ask the date of the Pāṭimokkha recitation and permission to approach for an exhortation.
+
+     - .. container:: mx-2
+
+          3）每半個月，比丘尼應預期比丘僧團給予兩件事：允許詢問《波羅提木叉》誦戒的日期，以及允許至比丘尼處教誡。
+
+   * - .. container:: mx-2
+
+          4\) At the end of the Rains-residence, every bhikkhunī should invite accusations both from the Community of bhikkhunīs and from the Community of bhikkhus.
+
+     - .. container:: mx-2
+
+          4）雨安居結束時，每個比丘尼都應該邀請比丘尼僧團和比丘僧團的指責。
+
+.. _大愛道·瞿曇彌: https://zh.wikipedia.org/wiki/%E6%91%A9%E8%A8%B6%E6%B3%A2%E9%97%8D%E6%B3%A2%E6%8F%90
+.. _八敬法: https://zh.wikipedia.org/wiki/%E5%85%AB%E6%95%AC%E6%B3%95
+.. _由旬: https://zh.wikipedia.org/wiki/%E7%94%B1%E6%97%AC
+
 (未完待續)
