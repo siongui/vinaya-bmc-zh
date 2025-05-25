@@ -146,6 +146,29 @@
 
           8）比丘尼不可以教導比丘，但比丘可以教導比丘尼。（根據《義註》，這意味著比丘尼不得命令比丘如何行為舉止。但是，它指出，她可以以更間接的方式教導他，例如說，「在過去，偉大的比丘們行為舉止像這樣。」）
 
+   * - This rule deals with the biweekly exhortation mentioned in the third vow. The pattern for the exhortation was that once a bhikkhu had been chosen by the bhikkhus to exhort the bhikkhunīs, he was to sweep the place for the exhortation within the monastery where he was dwelling, set out water for drinking and washing, arrange seats for the bhikkhunīs, find a male companion, and then sit waiting for the bhikkhunīs to arrive. When they had come, he was to ask if all the bhikkhunīs were present and if the eight rules of respect were being kept up (§). (According to the Commentary, this last question means, “Are they kept memorized so that they are fresh in the memory?”) If they weren’t, he was to recite the eight rules. If they were, he was to present an exhortation.
+
+     - 這條戒條涉及第三個誓言中提到的每兩週一次的教誡。教誡的模式是，當比丘們選定一位比丘來教誡比丘尼時，這位比丘要打掃自己所住寺院的教誡場所，擺上飲用水和洗用水，為比丘尼安排座位，找一位男伴，然後坐著等候比丘尼到來。當他們到來時，他要詢問所有比丘尼是否都在場，以及八敬法是否得到遵守（§）。（根據《義註》，最後一個問題的意思是「它們是否被記住了，以至於記憶猶新？」）如果沒有，他就必須背誦八敬法。如果是的話，他應該提出教誡。
+
+   * - Because the eight rules form the heart of the exhortation, the two factors for the full offense under this rule are defined as follows:
+     - 由於八敬法是教誡的核心，因此，根據本戒條構成完全違犯的兩個因素定義如下：
+
+   * - .. container:: mx-2
+
+          *1) Object:* a bhikkhunī or group of bhikkhunīs.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 一名比丘尼或一群比丘尼。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* A bhikkhu exhorts her/them concerning the eight rules of respect when he has neither been properly authorized to do so by the Community *nor* asked by the bhikkhunī(s) to give instruction.
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 當比丘沒有得到僧團的適當授權，\ *也沒有*\ 得到比丘尼的教導要求時，他便教誡她/她們關於八敬法。
+
 .. _大愛道·瞿曇彌: https://zh.wikipedia.org/wiki/%E6%91%A9%E8%A8%B6%E6%B3%A2%E9%97%8D%E6%B3%A2%E6%8F%90
 .. _八敬法: https://zh.wikipedia.org/wiki/%E5%85%AB%E6%95%AC%E6%B3%95
 .. _由旬: https://zh.wikipedia.org/wiki/%E7%94%B1%E6%97%AC
