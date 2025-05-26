@@ -177,4 +177,21 @@
 .. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
 .. _《波逸提》二: {filename}Section0016%zh-hant.rst#Pc2
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - A bhikkhunī had to undergo a double ordination, first in the Bhikkhunī Saṅgha and then in the Bhikkhu Saṅgha, before she was considered fully ordained. Thus only a bhikkhunī with the full double ordination is grounds for a pācittiya here. A bhikkhunī who has received only her first ordination, from the Bhikkhunī Saṅgha, is grounds for a dukkaṭa, while female trainees and female novices are not grounds for an offense.
+
+     - 比丘尼必須接受雙重受戒，先在比丘尼僧伽，然後在比丘僧伽，才算完整受戒。因此，只有完整雙重受戒的比丘尼才會在此構成《波逸提》。僅從比丘尼僧伽接受單部受戒的比丘尼，則構成《突吉羅》，而\ `學法女（式叉摩那）`_\ 和沙彌尼則不構成犯戒。
+
+   * - **Effort**
+     - **努力**
+
+   * - A bhikkhu, not properly authorized, who exhorts the bhikkhunīs on any topic other than the eight rules incurs a dukkaṭa.
+     - 未經適當授權的比丘，若就八敬法以外的任何話題教誡比丘尼，犯《突吉羅》。
+
 (未完待續)
