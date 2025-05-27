@@ -265,4 +265,25 @@
 
           他當比丘至少20年。
 
+   * - With regard to the first of these qualifications, `Cv.II.1.2`_ notes that a bhikkhu undergoing penance or probation for a saṅghādisesa offense should not accept an authorization to exhort the bhikkhunīs; even if authorized, he should not exhort them. The same restriction applies to bhikkhus undergoing the duties imposed by a transaction of censure, further punishment, demotion, banishment, suspension, or reconciliation. (See `BMC2, Chapter 20`_. For more details on the authorization procedures, see `BMC2, Chapter 23`_.)
+
+     - 關於第一個資格，\ `《小品》.二.1.2`_ 指出，因犯《僧殘》罪而接受摩那埵或別住的比丘不應接受教誡比丘尼的授權；即使獲得授權，他也不應該教誡她們。同樣的限制也適用於因受到呵責、罪處所、依止、驅出、舉罪或下意羯磨而履行義務的比丘。（請參閱\ `《佛教比丘戒律 第二冊》第二十章`_\ 。有關授權程序的更多詳細信息，請參閱\ `《佛教比丘戒律 第二冊》第二十三章`_\ 。）
+
+   * - As the Commentary notes, the group-of-six bhikkhus never possessed the above eight qualities even in their dreams.
+     - 正如《義註》所指出的，這六群比丘即使在夢中也從未具備上述八種特質。
+
+   * - One’s perception as to whether one was properly authorized is not a factor here (see `Pc 4`_).
+     - 對於自己是否獲得適當授權的感知在這裡並不是一個因素（參見\ `《波逸提》四`_\ ）。
+
+.. _Cv.II.1.2: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#Cv.II.1.2
+.. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. _BMC2, Chapter 23: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
+.. _《小品》.二.1.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_012#0043a13
+.. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
+.. _《佛教比丘戒律 第二冊》第二十三章: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十三章
+.. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
+.. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
+
 (未完待續)
