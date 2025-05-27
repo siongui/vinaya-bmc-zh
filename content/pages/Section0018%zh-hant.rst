@@ -194,4 +194,75 @@
    * - A bhikkhu, not properly authorized, who exhorts the bhikkhunīs on any topic other than the eight rules incurs a dukkaṭa.
      - 未經適當授權的比丘，若就八敬法以外的任何話題教誡比丘尼，犯《突吉羅》。
 
+   * - **The authorization**
+     - **授權**
+
+   * - When this rule was still newly formulated, some group-of-six bhikkhus simply authorized one another to continue exhorting the bhikkhunīs. This forced the Buddha to establish stringent standards for the type of bhikkhu who could properly be authorized. They were, in short:
+
+     - 當這條戒條剛剛制定時，六群比丘只是互相授權繼續教誡比丘尼。這迫使佛陀對能夠獲得適當授權的比丘類型制定了嚴格的標準。簡而言之，它們是：
+
+   * - .. container:: mx-2
+
+          He is scrupulously virtuous.
+
+     - .. container:: mx-2
+
+          他戒行一絲不苟。
+
+   * - .. container:: mx-2
+
+          He is very learned and thoroughly understands the teachings of the celibate life.
+
+     - .. container:: mx-2
+
+          他學識淵博，並透徹理解梵行生活的教義。
+
+   * - .. container:: mx-2
+
+          He has mastered both the bhikkhus’ Pāṭimokkha and the bhikkhunīs’ Pāṭimokkha.
+
+     - .. container:: mx-2
+
+          他已精通比丘《波羅提木叉》與比丘尼的《波羅提木叉》。
+
+   * - .. container:: mx-2
+
+          He has a pleasing voice and delivery.
+
+     - .. container:: mx-2
+
+          他的聲音和表達方式令人愉悅。
+
+   * - .. container:: mx-2
+
+          He is well-liked by most of the bhikkhunīs. (As the Commentary notes, this means that he is liked by the bhikkhunīs who are learned, virtuous, and wise.)
+
+     - .. container:: mx-2
+
+          他深受大多數比丘尼的喜愛。（如《義註》所言，這意味著他受到有學問、有戒行、有智慧的比丘尼們的喜愛。）
+
+   * - .. container:: mx-2
+
+          He is capable of exhorting the bhikkhunīs. (This, according to the Commentary, means that he is able to cite sutta passages and other reasons that will instill within the bhikkhunīs a sense of the dangers in the cycle of rebirth.)
+
+     - .. container:: mx-2
+
+          他有能力教誡比丘尼。（根據《義註》，這意味著他能夠引用經文和其他理由，讓比丘尼們意識到輪迴的危險。）
+
+   * - .. container:: mx-2
+
+          He never, before his ordination, violated an important rule against one wearing the ochre robe. (This, according to the Commentary, means that he never engaged in bodily contact with a bhikkhunī or in sexual intercourse with a female trainee or female novice).
+
+     - .. container:: mx-2
+
+          在他受具足戒之前，他從未違反過對穿赭色袈裟者的重要戒條。（根據《義註》，這意味著他從未與比丘尼發生過身體接觸，也從未與\ `學法女（式叉摩那）`_\ 或沙彌尼發生過性交）。
+
+   * - .. container:: mx-2
+
+          He has been a bhikkhu for at least 20 years.
+
+     - .. container:: mx-2
+
+          他當比丘至少20年。
+
 (未完待續)
