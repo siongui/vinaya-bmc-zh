@@ -286,4 +286,20 @@
 .. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
 .. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - Although this rule grew from a time when bhikkhus were eager to exhort the bhikkhunīs, times changed. The Cullavagga (`Cv.X.9.5`_) deals with a period when the bhikkhus tried to avoid exhorting the bhikkhunīs, and `Cv.X.9.4`_ tells what should be done when there is no bhikkhu qualified to exhort them. (The bhikkhus were to tell them, “Strive for completion (in the practice) in an amicable way.”)
+
+     - 雖然這條戒條源自於比丘們熱衷於教誡比丘尼的時代，但時代變了。《小品》（\ `《小品》.十.9.5`_\ ）講述了比丘們試圖避免教誡比丘尼的時期，而\ `《小品》.十.9.4`_ 則講述了當沒有比丘有資格教誡她們時應該怎麼做。（比丘們應該告訴她們：「以友善的方式努力完成（修行）。」）
+
+.. _Cv.X.9.5: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#Cv.X.9.5
+.. _Cv.X.9.4: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#Cv.X.9.4
+.. _《小品》.十.9.5: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0352a10
+.. _《小品》.十.9.4: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0351a06
+
 (未完待續)
