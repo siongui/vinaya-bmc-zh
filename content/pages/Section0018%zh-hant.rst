@@ -297,6 +297,14 @@
 
      - 雖然這條戒條源自於比丘們熱衷於教誡比丘尼的時代，但時代變了。《小品》（\ `《小品》.十.9.5`_\ ）講述了比丘們試圖避免教誡比丘尼的時期，而\ `《小品》.十.9.4`_ 則講述了當沒有比丘有資格教誡她們時應該怎麼做。（比丘們應該告訴她們：「以友善的方式努力完成（修行）。」）
 
+   * - Even in these cases, though, the bhikkhunīs were not left adrift. They could approach any bhikkhu they admired and ask him for instruction. Thus the Vibhaṅga’s non-offense clauses here say, “There is no offense when, having given the exposition, having given the interrogation, and then, after being requested by the bhikkhunīs to recite, he recites.” According to the Commentary, “exposition” here means a recitation of the eight rules in Pali, whereas “interrogation” means the ancient commentary on the eight rules. This last is hardly likely. What seems more likely is that “exposition” means establishing that the bhikkhunīs have all come; “interrogation,” questioning them as to whether they have memorized the eight rules. At any rate, the Commentary goes on to say that, when a bhikkhu has been invited like this, he is free to speak about the eight rules or any other Dhamma topic without offense. Again, this seems unlikely, for the Vibhaṅga is very precise in the terminology it uses for the various stages leading up to the exhortation, and *recites (osāreti)* is not the verb it uses for speaking about a topic. Instead, it usually means repeating a passage from memory.
+
+     - 但即使在這些情況下，比丘尼也並非無所適從。他們可以接近任何她們敬佩的比丘，並向他請教。因此，《經分別》中的不犯條款在此說：「在講解、詢問之後，然後在比丘尼要求誦讀之後，他誦讀，則無犯。」根據《義註》，「講解」在此指誦讀巴利語的八敬法，而「詢問」指古代對八敬法的註釋。最後這個不太可能。更有可能的是，「講解」是指確定比丘尼都已到場；「詢問」是指詢問她們是否已記住八敬法。無論如何，《義註》繼續說道，當一位比丘受到這樣的邀請時，他可以自由地談論八敬法或任何其他佛法話題，而不犯戒。再一次，這似乎不太可能，因為《經分別》在描述教誡的各個階段時使用的術語非常精確，而\ *「誦讀」（osāreti）*\ 並非它用來表示談論某個主題的動詞。它通常指的是憑記憶複述一段話。
+
+   * - However, there is a non-offense clause in the Vibhaṅga that allows for an unauthorized bhikkhu to exhort a bhikkhunī (or bhikkhunīs) on the eight rules or any other topic in the following situation: if, being asked a question by a bhikkhunī, one answers her question. There is also no offense if a bhikkhunī happens to overhear any instruction one is giving for the sake of another person.
+
+     - 然而，《經分別》中有一個不犯條款，允許未經授權的比丘在以下情況下就八敬法或其他任何話題教誡比丘尼：如果比丘尼提出問題，而比丘回答了她的問題。如果比丘尼偶然聽到比丘為他人所做的指導，也不構成犯戒。
+
 .. _Cv.X.9.5: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#Cv.X.9.5
 .. _Cv.X.9.4: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#Cv.X.9.4
 .. _《小品》.十.9.5: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0352a10
