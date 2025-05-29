@@ -310,4 +310,51 @@
 .. _《小品》.十.9.5: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0352a10
 .. _《小品》.十.9.4: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0351a06
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Subsidiary rules**
+     - **附屬戒條**
+
+   * - The Vibhaṅga to this rule includes a discussion of three subsidiary rules related to the exhortation of the bhikkhunīs:
+     - 此戒條的《經分別》包含了與教誡比丘尼有關的三條附屬戒條的討論：
+
+   * - .. container:: mx-2
+
+          1\) A bhikkhu, even if authorized, incurs a dukkaṭa if he exhorts an incomplete group of bhikkhunīs, regardless of whether he perceives them as complete or not. The Sub-commentary notes, however, that according to the Vibhaṅga to the bhikkhunīs’ `Pc 58`_ an ill bhikkhunī is not obliged to go to an exhortation. Thus if all the bhikkhunīs except the ill ones have come, the group counts as complete. If the group is complete and yet the bhikkhu perceives it as incomplete or is in doubt, then if he still goes ahead with the exhortation he incurs a dukkaṭa.
+
+     - .. container:: mx-2
+
+          1）即使獲得授權，比丘如果教誡一群不完整的比丘尼，無論他認為這些比丘尼是否完整，都犯《突吉羅》。然而，《複註》指出，根據\ `比丘尼《波逸提》五八的《經分別》`_\ ，患病的比丘尼沒有義務參加教誡。因此，如果除了患病的比丘尼之外的所有比丘尼都已到場，則該群體就算完整。如果群體完整，但比丘認為其不完整或心存疑慮，而如果他仍然繼續教誡，則犯《突吉羅》。
+
+   * - .. container:: mx-2
+
+          2\) If an authorized bhikkhu, after asking the bhikkhunīs if they have all come, speaks of another Dhamma (instead of asking them if the eight rules have been memorized), he incurs a dukkaṭa.
+
+     - .. container:: mx-2
+
+          2）如果一位已獲授權的比丘在詢問比丘尼們是否都已經到了之後，談論別種佛法（而不是詢問她們是否已經記住了八敬法），那麼他犯《突吉羅》。
+
+   * - .. container:: mx-2
+
+          3\) If, without having first introduced the exhortation, he speaks of another Dhamma, he incurs a dukkaṭa. According to the Commentary, “introducing” an exhortation means simply announcing, “This, sisters, is the exhortation.” (See the origin story to the following rule for an example of this practice.) In other words, the dukkaṭa here is for simply launching into a talk without observing the proper formalities.
+
+     - .. container:: mx-2
+
+          3）如果未先引言教誡，就談論其他佛法，則犯《突吉羅》。根據《義註》，「引言」教誡的意思是簡單地宣布：「姊妹們，這是教誡。」（有關此做法的例子，請參閱\ `下一條戒條的起源故事`_\ 。）換句話說，此處的《突吉羅》是指未遵循適當的禮節而直接開始談話。
+
+   * - *Summary: Exhorting a bhikkhunī about the eight rules of respect—except when one has been authorized to do so by the Community or asked a question by a bhikkhunī—is a pācittiya offense.*
+     - *摘要：教誡比丘尼關於八敬法 —— 除非獲得僧團的授權如此做或被比丘尼詢問 —— 是《波逸提》（《單墮》）罪。*
+
+.. _Pc 58: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part6
+.. _比丘尼《波逸提》五八的《經分別》: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0437a08
+.. _下一條戒條的起源故事: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0072a06
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
