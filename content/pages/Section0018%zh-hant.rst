@@ -357,4 +357,25 @@
    \*    \*    \*
 
 
+.. _Pc22:
+
+.. raw:: html
+
+   <span id="Pc22"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **22**
+     - **二十二**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, even if authorized, exhort the bhikkhunīs after sunset, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘，即使獲得授權，在日落之後教誡比丘尼，波逸提。*
+
 (未完待續)

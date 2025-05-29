@@ -1410,8 +1410,7 @@
      - *摘要：除了是為了回答問題，否則向女性教導超過六句佛法，是《波逸提》（《單墮》）罪，除非有知識淵博的男性在場。*
 
 .. _22: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc22
-.. _二二: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc22
-.. TODO FIXME: replace link to 《波逸提》二二
+.. _二二: {filename}Section0018%zh-hant.rst#Pc22
 
 
 .. container:: has-text-centered
