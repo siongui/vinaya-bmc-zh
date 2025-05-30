@@ -13,11 +13,27 @@
 中文書名原本翻譯成「佛教修道準則」，後經良稹居士建議，徵詢原作者
 `Ṭhānissaro Bhikkhu`_ 後改為「佛教比丘戒律」，特此記之。
 
-本書常用詞彙翻譯：
+若某一翻譯古已有之，而且廣為流傳，以遵照古譯為主，
+例如「Bhikkhu」翻譯為「比丘」。
+
+本書常用詞彙翻譯，在符合上下文脈絡的情形下，儘量以下列翻譯為準：
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
    :widths: auto
+   :header-rows: 1
+
+   * - 英文
+     - 漢譯
+
+   * - Canon
+     - 《聖典》
+
+   * - Great Standards
+     - 《四大教示》
+
+   * - allowance
+     - 開緣
 
    * - rule
      - 戒條
