@@ -378,4 +378,55 @@
 
           *如果任何比丘，即使獲得授權，在日落之後教誡比丘尼，波逸提。*
 
+   * - .. container:: mx-2
+
+          “Now at that time it was Ven. Cūḷapanthaka’s turn to exhort the bhikkhunīs. The bhikkhunīs said, ‘Today the exhortation won’t be effective, for Master Cūḷapanthaka will simply say the same old stanza over and over again.’
+
+     - .. container:: mx-2
+
+          「\ `爾時`_\ 輪到\ `周利槃特`_\ 尊者教誡比丘尼。比丘尼們說：『今天的教誡不會有效果，因為\ `周利槃特`_\ 尊者只會一遍又一遍地重複同樣的偈語。』
+
+   * - .. container:: mx-2
+
+          “Then the bhikkhunīs went to Ven. Cūḷapanthaka and, on arrival, having bowed down to him, sat to one side. As they were sitting there, Ven. Cūḷapanthaka said to them, ‘Are you all present, sisters?’
+
+     - .. container:: mx-2
+
+          「比丘尼們便前往\ `周利槃特`_\ 尊者處，到達後，向尊者頂禮，然後坐在一旁。她們坐下後，\ `周利槃特`_\ 尊者問她們：『姐妹們，妳們都到齊了嗎？』
+
+   * - .. container:: mx-2
+
+          “‘Yes, venerable sir, we are all present.’
+
+     - .. container:: mx-2
+
+          「『是的，大德，我們都在場。』
+
+   * - .. container:: mx-2
+
+          “‘Are the eight rules of respect being kept up?’
+
+     - .. container:: mx-2
+
+          「『八敬法是否得到持守？』
+
+   * - .. container:: mx-2
+
+          “‘Yes, venerable sir, they are being kept up.’
+
+     - .. container:: mx-2
+
+          「『是的，大德，它們被持守。』
+
+   * - .. container:: mx-2
+
+          “Having introduced (the exhortation, saying,) ‘This, sisters, is the exhortation,’ he said this stanza over and over again:
+
+     - .. container:: mx-2
+
+          「在引言（教誡，說）『姊妹們，這是教誡』之後，他一遍又一遍地說著這偈語：
+
+.. _爾時: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0072a06
+.. _周利槃特: https://zh.wikipedia.org/wiki/%E5%91%A8%E5%88%A9%E6%A7%83%E7%89%B9
+
 (未完待續)

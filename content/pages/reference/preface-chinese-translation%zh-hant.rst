@@ -41,6 +41,9 @@
    * - training rule
      - 學處
 
+   * - eight rules of respect
+     - 八敬法
+
    * - Community
      - 僧團
 
@@ -70,6 +73,13 @@
 
    * - banishment (transaction)
      - 驅出（羯磨）
+
+   * - venerable
+     - 尊者
+
+   * - venerable sir
+     - 大德
+
 
 .. container:: has-text-right
 
