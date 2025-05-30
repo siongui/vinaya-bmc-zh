@@ -426,6 +426,46 @@
 
           「在引言（教誡，說）『姊妹們，這是教誡』之後，他一遍又一遍地說著這偈語：
 
+   * - .. container:: mx-4
+
+          Of heightened awareness and heedful,
+
+     - .. container:: mx-4
+
+          提高覺知和不放逸，
+
+   * - .. container:: mx-6
+
+          the sage trained in sagacity’s ways:
+
+     - .. container:: mx-6
+
+          聖人以智慧的方式接受訓練：
+
+   * - .. container:: mx-6
+
+          He has no sorrows, one who is Such,
+
+     - .. container:: mx-6
+
+          這樣的人，他沒有悲傷，
+
+   * - .. container:: mx-6
+
+          calmed and ever mindful.
+
+     - .. container:: mx-6
+
+          平靜並時刻保持正念。
+
+   * - .. container:: mx-2
+
+          “The bhikkhunīs said (to one another), ‘Didn’t we say so? Today the exhortation won’t be effective, for now Master Cūḷapanthaka will simply say the same old stanza over and over again.’
+
+     - .. container:: mx-2
+
+          「比丘尼們（互相）說道：『我們不是說過嗎？今天的教誡不會有效果，因為現在\ `周利槃特`_\ 大師只會一遍又一遍地重複說同樣的舊偈語。』
+
 .. _爾時: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0072a06
 .. _周利槃特: https://zh.wikipedia.org/wiki/%E5%91%A8%E5%88%A9%E6%A7%83%E7%89%B9
 
