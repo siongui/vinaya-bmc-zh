@@ -506,4 +506,20 @@
 
      - 日落之後，教誡比丘尼八敬法或任何其他佛法。對於太陽是否真的落下的感知，在此不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - Although the origin story suggests that it is unwise in any case to teach bhikkhunīs after sunset—because of the suspicions that such an action may provoke—the non-offense clauses give more respect to the bhikkhunīs’ desire for instruction than to the fear of gossiping lay people. As under the preceding rule, a bhikkhu may recite for the bhikkhunīs after sunset if, after he has given them the exposition and interrogation, they request that he recite. He also incurs no offense if he teaches any topic of Dhamma after sunset in response to a bhikkhunī’s question, or if a bhikkhunī after sunset happens to overhear any instruction he is giving for the sake of another person. And, as mentioned above, female trainees and female novices are not grounds for an offense under this rule.
+
+     - 雖然起源故事暗示日落後教導比丘尼無論如何都是不明智的——因為這種行為可能會引起懷疑——但不犯條款更多地尊重比丘尼尋求教誨的願望，而非擔心受到俗人的八卦。與前一條戒條相同，如果比丘為比丘尼講解和提問後，比丘尼請求他誦讀，他可以在日落之後為其誦讀。如果他在日落之後為了回答比丘尼的問題而教導任何佛法，或者日落之後比丘尼恰好聽到他為他人所作的教導，他也不犯戒。此外，如上所述，根據此戒條，\ `學法女（式叉摩那）`_\ 和沙彌尼不構成犯戒。
+
+   * - *Summary: Exhorting bhikkhunīs on any topic at all after sunset—except when they request it—is a pācittiya offense.*
+     - *摘要：日落之後，對比丘尼教誡任何主題 —— 除非她們要求 —— 是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
