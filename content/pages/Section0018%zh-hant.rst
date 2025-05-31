@@ -488,4 +488,22 @@
 .. _爾時: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0072a06
 .. _周利槃特: https://zh.wikipedia.org/wiki/%E5%91%A8%E5%88%A9%E6%A7%83%E7%89%B9
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - As with the preceding rule, a bhikkhunī or group of bhikkhunīs who have received the double ordination are grounds for a pācittiya here. A bhikkhunī who has received only her first ordination, from the Bhikkhunī Saṅgha, is grounds for a dukkaṭa, while female trainees and female novices are not grounds for an offense.
+
+     - 與前一條戒條相同，已兩部受戒的比丘尼或比丘尼團體，在此構成《波逸提》。僅從比丘尼僧伽單部受戒的比丘尼，構成《突吉羅》；而\ `學法女（式叉摩那）`_\ 和沙彌尼則不構成犯戒。
+
+   * - **Effort**
+     - **努力**
+
+   * - One exhorts the bhikkhunī(s) about the eight rules or any other Dhamma after the sun has set. Perception as to whether the sun has actually set is not a mitigating factor here (see `Pc 4`_).
+
+     - 日落之後，教誡比丘尼八敬法或任何其他佛法。對於太陽是否真的落下的感知，在此不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
 (未完待續)
