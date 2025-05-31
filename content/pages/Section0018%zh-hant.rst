@@ -466,6 +466,25 @@
 
           「比丘尼們（互相）說道：『我們不是說過嗎？今天的教誡不會有效果，因為現在\ `周利槃特`_\ 大師只會一遍又一遍地重複說同樣的舊偈語。』
 
+   * - .. container:: mx-2
+
+          “Ven. Cūḷapanthaka heard the bhikkhunīs’ conversation. Rising up into the air, he walked back and forth in space, in the sky, stood, sat, lay down, emitted smoke, emitted flames, and disappeared, saying the same old stanza and many other sayings of the Buddha. The bhikkhunīs said, ‘Isn’t it amazing? Isn’t it astounding? Never before has there been an exhortation as effective as Master Cūḷapanthaka’s!’
+
+     - .. container:: mx-2
+
+          「\ `周利槃特`_\ 尊者聽聞比丘尼們的談話，便升上虛空，在虛空行走，站立、坐下、躺臥，噴煙、噴火、消失，說同樣的舊偈語和許多其他佛陀之語。比丘尼們說：『這難道不奇妙嗎？這難道不令人震驚嗎？從來沒有過像\ `周利槃特`_\ 尊者的教誡如此的有效！』
+
+   * - .. container:: mx-2
+
+          “Then Ven. Cūḷapanthaka, having exhorted the bhikkhunīs until nightfall, dismissed them: ‘You may go, sisters.’ So the bhikkhunīs—the gates of the city being closed—spent the night outside the city walls and entered the city only after daybreak. People criticized and complained and spread it about, ‘These bhikkhunīs are unchaste. Having spent the night with the bhikkhus in the monastery, only now are they entering the city.’”
+
+     - .. container:: mx-2
+
+          「於是，\ `周利槃特`_\ 尊者教誡比丘尼們直到夜幕降臨，才遣散她們：『姊妹們，你們可以走了。』於是，比丘尼們——城門關閉——在城外過夜，天亮後才進城。人們紛紛批評抱怨，四處散播：『這些比丘尼不貞潔。她們在寺院裡與比丘們一起過夜，現在才進城。』」
+
+   * - The factors for the full offense here are two: object and effort.
+     - 這裡構成完全違犯的因素有兩個：對象和努力。
+
 .. _爾時: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0072a06
 .. _周利槃特: https://zh.wikipedia.org/wiki/%E5%91%A8%E5%88%A9%E6%A7%83%E7%89%B9
 
