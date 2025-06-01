@@ -522,4 +522,28 @@
    \*    \*    \*
 
 
+.. _Pc23:
+
+.. raw:: html
+
+   <span id="Pc23"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **23**
+     - **二十三**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, having gone to the bhikkhunīs’ quarters, exhort the bhikkhunīs—except at the proper occasion—it is to be confessed. Here the proper occasion is this: A bhikkhunī is ill. This is the proper occasion here.*
+
+     - .. container:: notification
+
+          *如果任何比丘前往比丘尼宿舍，教誡比丘尼—除了適當的場合—波逸提。在這裡，適當的場合是：比丘尼生病。這是這裡的適當場合。*
+
+   * - Here again there are two factors for the full offense:
+     - 此處再次完全違犯有兩個因素：
+
 (未完待續)
