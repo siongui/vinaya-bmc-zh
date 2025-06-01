@@ -541,9 +541,43 @@
 
      - .. container:: notification
 
-          *如果任何比丘前往比丘尼宿舍，教誡比丘尼—除了適當的場合—波逸提。在這裡，適當的場合是：比丘尼生病。這是這裡的適當場合。*
+          *如果任何比丘前往比丘尼住處，教誡比丘尼—除了適當的場合—波逸提。在這裡，適當的場合是：比丘尼生病。這是這裡的適當場合。*
 
    * - Here again there are two factors for the full offense:
      - 此處再次完全違犯有兩個因素：
+
+   * - **Object:**
+     - **對象：**
+
+   * - A bhikkhunī who is not ill. *Ill* means that she is unable to go to an exhortation or to an “affiliation” *(saṁvāsa)*, which the New K/Sub-commentary defines as a Community meeting such as the uposatha.
+
+     - 無病的比丘尼。「病」的意思是她無法參加教誡或「聚會」\ *（saṁvāsa）*\ ，新K/《複註》將「聚會」定義為諸如布薩之類的僧團聚會。
+
+   * - As with the preceding rule, a bhikkhunī or group of bhikkhunīs who have received the double ordination are grounds for a pācittiya here. A bhikkhunī who has received only her first ordination, from the Bhikkhunī Saṅgha, is grounds for a dukkaṭa, while female trainees and female novices are not grounds for an offense.
+
+     - 與前一條戒條相同，已二部受戒的比丘尼或比丘尼群體，在此構成《波逸提》。僅從比丘尼僧伽單部受戒的比丘尼，構成《突吉羅》；而學法女（式叉摩那）和沙彌尼則不構成犯戒。
+
+   * - **Effort**
+     - **努力**
+
+   * - One goes to her residence—any place where a bhikkhunī has spent at least one night—and exhorts her concerning the eight rules of respect. Exhorting her about any other topic is grounds for a dukkaṭa. Perception with regard to her status as ordained is not a mitigating factor here (see `Pc 4`_).
+
+     - 前往比丘尼住處——任何比丘尼至少住過一晚的地方——教誡她關於八敬法。教誡她任何其他話題，構成《突吉羅》。對她的身份是否已受戒的感知不構成減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - As the rule states, there is no offense for the bhikkhu who goes to the bhikkhunīs’ quarters to exhort an ill bhikkhunī. Otherwise, the non-offense clauses are identical with those for the preceding rule. Here again, a bhikkhunī’s desire for instruction is considered more important than the suspicions of the laity.
+
+     - 如本戒條所述，比丘前往比丘尼住處教誡生病的比丘尼，並無犯戒。其他不犯戒條款與上一條相同。這裡再次強調，比丘尼求教的意願比居士的疑慮更為重要。
+
+   * - *Summary: Going to the bhikkhunīs’ quarters and exhorting a bhikkhunī about the eight rules of respect—except when she is ill or has requested the instruction—is a pācittiya offense.*
+     - *摘要：除非比丘尼生病或請求指導，否則前往比丘尼住處並向比丘尼教誡八敬法，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
