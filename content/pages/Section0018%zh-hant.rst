@@ -580,4 +580,28 @@
    \*    \*    \*
 
 
+.. _Pc24:
+
+.. raw:: html
+
+   <span id="Pc24"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **24**
+     - **二十四**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu say that the bhikkhus exhort the bhikkhunīs for the sake of worldly gain, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘說比丘為了世俗利益而教誡比丘尼，波逸提。*
+
+   * - Here the factors for the full offense are three.
+     - 這裡構成完全違犯的因素有三。
+
 (未完待續)

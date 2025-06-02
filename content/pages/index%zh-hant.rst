@@ -353,7 +353,7 @@
      - `\　　　二十三 <{filename}Section0018%zh-hant.rst#Pc23>`__
 
    * - `\　　　24 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc24>`__
-     - 　　　二十四
+     - `\　　　二十四 <{filename}Section0018%zh-hant.rst#Pc24>`__
 
    * - `\　　　25 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc25>`__
      - 　　　二十五
