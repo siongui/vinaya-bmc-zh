@@ -619,4 +619,35 @@
 
      - 在此，對比丘授權有效性的感知並非減輕懲罰的因素。如果授權有效，則無論認為其有效、無效或存疑，他都構成《波逸提》。如果授權無效，則無論認為其有效、無效或存疑，他都構成《突吉羅》。這是另一個不符合\ `《波逸提》四`_\ 中規定的模式的案例。
 
+   * - **Intention**
+     - **意圖**
+
+   * - One’s motive is make him lose face, lose status, or to feel abashed (the same intention as under `Pc 13`_).
+     - 動機是讓他丟臉、失去地位或感到羞恥（與\ `《波逸提》十三`_\ 下的意圖相同）。
+
+   * - **Effort**
+     - **努力**
+
+   * - One accuses him of teaching for the sake of worldly gain, as defined above.
+     - 指控他為了世俗利益而教導，如同上面所定義的。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - If the bhikkhu does actually teach for the sake of worldly gain, there is no offense in stating the facts of the case. However, as we noted in the similar case under `Pc 13`_, this exemption does not apply in cases where one’s perception that he teaches for the sake of worldly gain is mistaken, so one must be careful that one’s perception is accurate.
+
+     - 如果比丘確實為了世俗利益而教導，陳述狀況事實並無不妥。然而，正如我們在\ `《波逸提》十三`_\ 的類似案例中所述，如果錯誤地認為比丘是為了世俗利益而教導，則不適用此豁免，因此必須謹慎確保自己的看法準確無誤。
+
+   * - *Summary: Saying that a properly authorized bhikkhu exhorts the bhikkhunīs for the sake of worldly gain—when in fact that is not the case—is a pācittiya offense.*
+     - *摘要：說被適當地授權的比丘為了世俗利益而教誡比丘尼——而事實並非如此——是《波逸提》（《單墮》）罪。*
+
+.. _Pc 13: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc13
+.. _《波逸提》十三: {filename}Section0017%zh-hant.rst#Pc13
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
