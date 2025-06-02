@@ -569,7 +569,7 @@
 
    * - As the rule states, there is no offense for the bhikkhu who goes to the bhikkhunīs’ quarters to exhort an ill bhikkhunī. Otherwise, the non-offense clauses are identical with those for the preceding rule. Here again, a bhikkhunī’s desire for instruction is considered more important than the suspicions of the laity.
 
-     - 如本戒條所述，比丘前往比丘尼住處教誡生病的比丘尼，並無犯戒。其他不犯戒條款與上一條相同。這裡再次強調，比丘尼求教的意願比居士的疑慮更為重要。
+     - 如本戒條所述，比丘前往比丘尼住處教誡生病的比丘尼，並無犯戒。其他不犯戒條款與上一條相同。這裡再一次，比丘尼求教的意願被認為比居士的疑慮更為重要。
 
    * - *Summary: Going to the bhikkhunīs’ quarters and exhorting a bhikkhunī about the eight rules of respect—except when she is ill or has requested the instruction—is a pācittiya offense.*
      - *摘要：除非比丘尼生病或請求指導，否則前往比丘尼住處並向比丘尼教誡八敬法，是《波逸提》（《單墮》）罪。*
@@ -603,5 +603,20 @@
 
    * - Here the factors for the full offense are three.
      - 這裡構成完全違犯的因素有三。
+
+   * - **Object:**
+     - **對象：**
+
+   * - A bhikkhu who has been properly authorized to teach the bhikkhunīs and who is not teaching for the sake of worldly gain: either material (robes, almsfood, lodgings, or medicine) or immaterial (honor, respect, reverence, homage, or veneration).
+
+     - 被適當地授權教導比丘尼的比丘，其教導不是為了世俗利益：無論是物質的（袈裟、缽食、住處或藥物）還是非物質的（榮譽、尊敬、崇敬、敬重或敬奉）。
+
+   * - A bhikkhu who has not been properly authorized is grounds for a dukkaṭa, as is a non-ordained person, properly authorized or not. (The PTS edition of the Canon contains a wheel in which a person not properly authorized and perceived as not properly authorized is not grounds for an offense, but this contradicts the passages earlier in the Vibhaṅga which make the above points. The same wheel in the Thai, Burmese, and Sri Lankan editions is thus more correct in saying that a person not properly authorized and perceived as such is grounds for a dukkaṭa.)
+
+     - 未受適當地授權的比丘，如同未受具足戒者，無論是否受適當地授權，都構成《突吉羅》。（PTS 版本的《聖典》包含一個輪子，其中指出，未受適當地授權且被感知為未受適當地授權的人不構成犯戒，但這與《經分別》中先前闡明上述觀點的段落相矛盾。因此，泰國、緬甸和斯里蘭卡版本的同一輪子更正確地指出，未受適當地授權且被感知為未受適當地授權的人構成《突吉羅》。）
+
+   * - Perception as to the validity of the bhikkhu’s authorization is not a mitigating factor here. If it was valid, he is grounds for a pācittiya whether one perceives it as valid, invalid, or doubtful. If it was invalid, he is grounds for a dukkaṭa whether one perceives it as valid, invalid, or doubtful. This is another case where the pattern set out under `Pc 4`_ does not hold.
+
+     - 在此，對比丘授權有效性的感知並非減輕懲罰的因素。如果授權有效，則無論認為其有效、無效或存疑，他都構成《波逸提》。如果授權無效，則無論認為其有效、無效或存疑，他都構成《突吉羅》。這是另一個不符合\ `《波逸提》四`_\ 中規定的模式的案例。
 
 (未完待續)
