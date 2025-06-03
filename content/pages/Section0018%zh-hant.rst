@@ -650,4 +650,60 @@
    \*    \*    \*
 
 
+.. _Pc25:
+
+.. raw:: html
+
+   <span id="Pc25"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **25**
+     - **二十五**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu give robe-cloth to a bhikkhunī unrelated to him, except in exchange, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘將袈裟布給予與他無血緣關係的比丘尼，除非為了交換，波逸提。*
+
+   * - This rule is the counterpart to `NP 5`_. The full offense is composed of two factors: object and effort.
+     - 此戒條與\ `《捨墮》五`_\ 相對應。完整違犯由兩個因素組成：對象和努力。
+
+.. _NP 5: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
+.. _《捨墮》五: {filename}Section0013%zh-hant.rst#NP5
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object:**
+     - **對象：**
+
+   * - Any piece of robe-cloth of the six suitable kinds, measuring at least four by eight fingerbreadths. Other requisites are not grounds for an offense.
+     - 任何一件六種適合種類的袈裟布料，尺寸至少為四指寬乘以八指寬。其他必需品不構成犯戒。
+
+   * - **Effort**
+     - **努力**
+
+   * - The bhikkhu gives the cloth to an unrelated bhikkhunī and does not receive anything from her in exchange.
+     - 比丘將布料給予一位與他無血緣關係的比丘尼，並且沒有從她那裡收到任何東西作為交換。
+
+   * - *Unrelated bhikkhunī* here is defined in the same terms as under `NP 4`_: a bhikkhunī who has received the double ordination and is not related to the bhikkhu back through their great x 7 grandfathers. An unrelated bhikkhunī who has received only her first ordination, from the bhikkhunīs, is grounds for a dukkaṭa. Female trainees and female novices are not grounds for an offense.
+
+     - 此處\ *無血緣關係的比丘尼*\ 的定義與\ `《捨墮》四`_\ 相同：已二部受戒，且與比丘無七世祖輩血緣關係的比丘尼。無血緣關係的比丘尼，若僅從比丘尼單部受戒，則構成《突吉羅》。學法女（式叉摩那）和沙彌尼不構成犯戒。
+
+   * - Perception as to whether the bhikkhunī is actually one’s relative is not a mitigating factor here (see `Pc 4`_).
+     - 對於比丘尼是否真的有血緣關係的感知在這裡並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - The Commentary states that the giving need not be hand-to-hand. If a bhikkhu simply places the cloth near a bhikkhunī as his way of giving it to her, and she accepts it as given, this factor is fulfilled.
+     - 《義註》指出，給予不必手遞手。如果比丘只是將布放在比丘尼身邊，作為給予她的方式，而她也接受給予，則此因素就滿足。
+
+.. _NP 4: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP4
+.. _《捨墮》四: {filename}Section0013%zh-hant.rst#NP4
+
 (未完待續)
