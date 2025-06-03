@@ -703,7 +703,49 @@
    * - The Commentary states that the giving need not be hand-to-hand. If a bhikkhu simply places the cloth near a bhikkhunī as his way of giving it to her, and she accepts it as given, this factor is fulfilled.
      - 《義註》指出，給予不必手遞手。如果比丘只是將布放在比丘尼身邊，作為給予她的方式，而她也接受給予，則此因素就滿足。
 
+   * - As for the item given in exchange for the cloth, the Vibhaṅga states that it can be worth much more than the cloth or much less. Buddhaghosa quotes the Mahā Paccarī, one of the ancient commentaries, as saying that even if, in return for the cloth, the bhikkhunī gives the bhikkhu a piece of yellow myrobalan—a medicinal fruit, one of the cheapest things imaginable in India—he escapes the penalty under this rule.
+
+     - 至於用來交換布料的物品，《經分別》指出，其價值可以遠高於布料本身，或遠低於布料本身。\ `佛音`_\ 引用古代註釋書之一《Mahā Paccarī》的話說，即使比丘尼給予比丘一片黃訶子（一種藥用水果，是印度能想像到的最便宜的東西之一）作為布料的回報，比丘也能逃脫這條戒條的懲罰。
+
 .. _NP 4: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP4
 .. _《捨墮》四: {filename}Section0013%zh-hant.rst#NP4
+.. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if:
+     - 以下情況，不構成犯戒：
+
+   * - the bhikkhunī is a relation;
+     - 比丘尼是親戚；
+
+   * - she is not related, but she gives one something in exchange;
+     - 她沒有血緣關係，但她給予東西作為交換；
+
+   * - she takes the cloth on trust;
+     - 她基於信任地拿了布料；
+
+   * - she borrows the cloth;
+     - 她借布料；
+
+   * - one gives her a non-cloth requisite; or
+     - 給她一件非衣物的必需品；或者
+
+   * - one gives robe-cloth to a female trainee or female novice.
+     - 將袈裟布給予學法女（式叉摩那）或沙彌尼。
+
+   * - *Summary: Giving robe-cloth to an unrelated bhikkhunī without receiving anything in exchange is a pācittiya offense.*
+     - *摘要：給予無血緣關係的比丘尼袈裟布而沒有接受任何東西作為交換，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
