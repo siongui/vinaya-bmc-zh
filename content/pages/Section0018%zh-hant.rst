@@ -793,4 +793,40 @@
 
           於是，比丘尼拿走疊好的袈裟，放在一旁。當比丘尼僧團前來教誡時，她便穿上袈裟，跟在他們身後。人們紛紛批評、抱怨，並四處散播此事：『這些比丘尼真是明目張膽，多麼胡鬧、多麼無恥，竟然在袈裟上繡上淫穢的圖案！』
 
+   * - .. container:: mx-2
+
+          “The bhikkhunīs said, ‘Whose work is this?’
+
+     - .. container:: mx-2
+
+          「比丘尼們問：『這是誰的作品？』
+
+   * - .. container:: mx-2
+
+          “‘Master Udāyin’s,’ the bhikkhunī answered.
+
+     - .. container:: mx-2
+
+          「『是優陀夷大師的。』比丘尼回答。
+
+   * - .. container:: mx-2
+
+          “‘A thing like this wouldn’t be attractive even from those who are brazen, mischievous, and shameless, much less from Master Udāyin (§).’”
+
+     - .. container:: mx-2
+
+          「『這樣的事情即使是對那些明目張膽、胡鬧和無恥的人來說也是沒有吸引力，更不用說對優陀夷大師（§）來說了。』」
+
+   * - The full offense here has three factors.
+     - 這裡的完整違犯有三個因素。
+
+   * - *1) Effort:* One sews—or gets someone else to sew—
+     - *1）努力：*\ 自己縫紉－或讓別人縫紉－
+
+   * - *2) Object:* a robe
+     - *2）對象：*\ 袈裟
+
+   * - *3) Intention:* for the sake of a bhikkhunī unrelated to oneself.
+     - *3）意圖：*\ 為與自己無血緣關係的比丘尼。
+
 (未完待續)
