@@ -829,4 +829,18 @@
    * - *3) Intention:* for the sake of a bhikkhunī unrelated to oneself.
      - *3）意圖：*\ 為與自己無血緣關係的比丘尼。
 
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga says that there is a pācittiya for every stitch one makes in the robe-cloth. If one gets someone else to sew it, there is a pācittiya in giving the command or making the request, and another pācittiya when the other person does as commanded/requested, no matter how many robe-cloths he/she sews.
+
+     - 《經分別》說，在袈裟布上縫製的每一針，都是一次《波逸提》。如果讓別人來縫製，發出命令或請求時犯一次《波逸提》；而當別人按照命令或請求去做時，無論他/她縫製了多少袈裟布，是另一次《波逸提》。
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga defines *robe* here as meaning any of the six kinds of robe-cloth, even a piece measuring at least four by eight fingerbreadths. This would seem to suggest that cloth being sewn into any object would come under this rule, but the non-offense clauses give an exemption for sewing “any requisite aside from a robe,” so only cloth being sewn into a robe would fulfill the factor of effort here.
+
+     - 《經分別》在此將\ *袈裟*\ 定義為六種袈裟布料中的任何一種，即使是一塊至少四指寬乘以八指寬的布料。這似乎暗示著將布料縫製成任何物品都符合此戒條，但不犯條款給予縫製「袈裟以外的任何必需品」豁免，因此只有將布料縫製成袈裟才符合此處的「努力」因素。
+
 (未完待續)
