@@ -843,4 +843,34 @@
 
      - 《經分別》在此將\ *袈裟*\ 定義為六種袈裟布料中的任何一種，即使是一塊至少四指寬乘以八指寬的布料。這似乎暗示著將布料縫製成任何物品都符合此戒條，但不犯條款給予縫製「袈裟以外的任何必需品」豁免，因此只有將布料縫製成袈裟才符合此處的「努力」因素。
 
+   * - **Intention**
+     - **意圖**
+
+   * - This factor is fulfilled only if the robe-cloth being sewn is intended for an unrelated bhikkhunī, as under the preceding rule: a bhikkhunī who has received the double ordination and is not related to the bhikkhu back through their great x 7 grandfathers. An unrelated bhikkhunī who has received only her first ordination, from the bhikkhunīs, is grounds for a dukkaṭa. Related bhikkhunīs are not grounds for an offense, nor are female trainees or female novices.
+
+     - 只有當縫製的袈裟布是為無血緣關係的比丘尼縫製時，才滿足此條件，如前一條戒條所述：已二部受戒的比丘尼，且與比丘無七世祖輩血緣關係。無血緣關係的比丘尼，若僅從比丘尼處單部受戒，則構成《突吉羅》。有血緣關係的比丘尼、學法女（式叉摩那）或沙彌尼不構成犯戒。
+
+   * - Perception as to whether the bhikkhunī is actually one’s relative is not a mitigating factor here (see `Pc 4`_).
+     - 對於比丘尼是否真的是自己的親屬的感知在這裡並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - The Commentary states that if Bhikkhu X is sewing robe-cloth for a bhikkhunī related to him, and Bhikkhu Y—who is not related to her—helps him sew it, Bhikkhu Y incurs a pācittiya for every stitch he sews in the cloth. The Sub-commentary adds, though, that if Bhikkhu Y does not know that the cloth is for the bhikkhunī, he is exempt from the offense.
+
+     - 《義註》指出，如果比丘 X 正在為一位與其有血緣關係的比丘尼縫製袈裟布，而與她無血緣關係的比丘 Y 幫忙縫製，則比丘 Y 每縫一針，都犯一次《波逸提》。然而，《複註》補充道，如果比丘 Y 不知道這塊袈裟布是為比丘尼縫製的，則他可以免於此罪。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in sewing a cloth requisite other than a robe for an unrelated bhikkhunī, in sewing anything for a bhikkhunī who is a relation, or in sewing anything for a female trainee or female novice, related or not.
+
+     - 為無親屬關係的比丘尼縫製袈裟以外的布料必需品、為有親屬關係的比丘尼縫製任何東西、或為學法女（式叉摩那）或沙彌尼縫製任何東西（無論是否有親屬關係），均不犯戒。
+
+   * - *Summary: Sewing a robe—or having it sewn—for an unrelated bhikkhunī is a pācittiya offense.*
+     - *摘要：為無血緣關係的比丘尼縫製袈裟，或讓人縫製，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
