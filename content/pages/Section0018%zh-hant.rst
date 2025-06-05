@@ -873,4 +873,45 @@
    \*    \*    \*
 
 
+.. _Pc27:
+
+.. raw:: html
+
+   <span id="Pc27"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **27**
+     - **二十七**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, by arrangement, travel together with a bhikkhunī even for the interval between one village and the next, except at the proper occasion, it is to be confessed. Here the proper occasion is this: The road is to be traveled by caravan (§) and is considered dubious and risky. This is the proper occasion here.*
+
+     - .. container:: notification
+
+          *任何比丘，除非在適當的場合，否則與比丘尼相約一同旅行，即使是在一個村莊和下一個村莊之間的間距，波逸提。這裡適當的場合是：這條路是應與商隊通行的（§），並且被認為是可疑和危險的。這是此處的適當場合。*
+
+   * - Here the full offense has two factors.
+     - 這裡的完整違犯有兩個因素。
+
+   * - *1) Object:* a bhikkhunī.
+     - *1）對象：*\ 比丘尼。
+
+   * - *2) Effort:* (a) Having made an arrangement together with her to travel together, (b) one actually travels together with her as arranged (c) from one village to another (d) except on the allowable occasions.
+
+     - *2）努力：*\ (a) 與她約定一起旅行，(b) 按照約定實際與她一起旅行，(c) 從一個村莊到另一個村莊，(d) 除了允許的場合外。
+
+   * - **Object**
+     - **對象**
+
+   * - A bhikkhunī who has received the double ordination is grounds for a pācittiya here. Any other woman would come under `Pc 67`_.
+     - 已經二部受戒的比丘尼在此構成《波逸提》。其他女性則算在\ `《波逸提》六七`_\ 下。
+
+.. _Pc 67: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
+.. _《波逸提》六七: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
+.. TODO FIXME: replace link to 《波逸提》六七
+
 (未完待續)
