@@ -929,4 +929,18 @@
 
      - 《經分別》和《義註》列舉了各種表達口頭同意的方式，《義註》也補充了一些\ *不*\ 構成口頭同意的陳述。主要區別點在於，如果一個或一組陳述提到了與旅程相關的安排的雙方——「我們去吧」、「一起去吧」、「你跟我去」——可以算作口頭同意，而如果一個或一組陳述只提到了自己關於旅程的計劃——「我會去」——則不算。例如，如果一位比丘說他要去某個地方禮敬佛塔，而一位比丘尼說「我們一起去吧」，那麼如果比丘沒有再談論此事，他就不算作口頭同意。
 
+   * - The Commentary further stipulates that the defining feature of the arrangement is that it specifies the time at which the bhikkhu and bhikkhunī will leave together. However, the Vibhaṅga to this rule and to the other rules dealing with traveling by arrangement (`Pc 28`_, 66_, & 67_) contains many examples of arrangements in which the time is *not* explicitly mentioned, so the Commentary’s stipulation here cannot stand. Any expressed agreement to go together would fulfill this factor, regardless of whether the time frame is explicitly stated.
+
+     - 《義註》進一步規定，約定的明確特徵是它指定了比丘和比丘尼一起出發的時間。然而，關於此戒條以及其他關於相約旅行的戒條（\ `《波逸提》二八`_\ 、\ `六六`_\ 和\ `六七`_\ ）的《經分別》包含許多\ *未*\ 明確提及時間的約定示例，因此《義註》在此的規定不成立。任何明確表示同意一起出行的協議都會滿足這一因素，無論是否明確說明了時間框架。
+
+.. _Pc 28: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc28
+.. _66: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc66
+.. _67: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
+.. _《波逸提》二八: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc28
+.. TODO FIXME: replace link to 《波逸提》二八
+.. _六六: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc66
+.. TODO FIXME: replace link to 《波逸提》六六
+.. _六七: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
+.. TODO FIXME: replace link to 《波逸提》六七
+
 (未完待續)
