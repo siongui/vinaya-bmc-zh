@@ -933,6 +933,17 @@
 
      - 《義註》進一步規定，約定的明確特徵是它指定了比丘和比丘尼一起出發的時間。然而，關於此戒條以及其他關於相約旅行的戒條（\ `《波逸提》二八`_\ 、\ `六六`_\ 和\ `六七`_\ ）的《經分別》包含許多\ *未*\ 明確提及時間的約定示例，因此《義註》在此的規定不成立。任何明確表示同意一起出行的協議都會滿足這一因素，無論是否明確說明了時間框架。
 
+   * - For some reason, the Commentary also adds that there is no offense in making an arrangement while both the bhikkhu and bhikkhunī are standing in bhikkhunīs’ quarters, on the way between one monastery and another, in an assembly hall, or in the residence of people ordained in another religion. There is nothing in the Vibhaṅga, however, to support this exemption. (The Commentary does add, however, that even though it would impose no preliminary offense for the arrangement in this case, the bhikkhu would still incur the pācittiya for going as arranged.)
+
+     - 不知何故，《義註》還補充說，如果比丘和比丘尼雙方都站在比丘尼住處、從一個寺院到另一寺院途中、集會大廳、或外道出家者的住所，則訂立約定並無罪過。然而，《經分別》中並沒有任何內容支持這項豁免。（不過，《義註》確實補充說，即使在這種情況下，比丘和比丘尼的約定不會構成初步違犯，但比丘如果按照約定行事，仍犯《波逸提》。）
+
+   * - Perception as to whether the factors for making an arrangement are actually fulfilled is not a mitigating factor here (see `Pc 4`_).
+     - 對於訂立約定的因素是否真正得到滿足的感知並不是這裡的減輕懲罰因素（參見\ `《波逸提》四`_\ ）。
+
+   * - The texts do not address the case in which another person makes the arrangements for a bhikkhu and bhikkhunī to travel together, say, as part of a larger group. However, the wording of the Vibhaṅga’s definition of arrangement—in which the bhikkhu and bhikkhunī are addressing each other—and the non-offense clause allowing the two to travel together if they have not made an arrangement, suggest that as long as the bhikkhu and bhikkhunī do not address each other—directly or through an intermediary—about making the trip, there would be no offense in joining the group.
+
+     - 文獻並未提及由他人安排比丘和比丘尼一同出行（例如，作為更大團體的一部分）的情況。然而，《經分別》對「約定」的定義——比丘和比丘尼彼此討論——以及允許兩人在未作約定的情況下一同出行的不犯條款，表明只要比丘和比丘尼不直接或透過中間人彼此提及出行事宜，加入團體不會構成犯戒。
+
 .. _Pc 28: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc28
 .. _66: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc66
 .. _67: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
