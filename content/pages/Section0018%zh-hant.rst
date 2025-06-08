@@ -935,7 +935,7 @@
 
    * - For some reason, the Commentary also adds that there is no offense in making an arrangement while both the bhikkhu and bhikkhunī are standing in bhikkhunīs’ quarters, on the way between one monastery and another, in an assembly hall, or in the residence of people ordained in another religion. There is nothing in the Vibhaṅga, however, to support this exemption. (The Commentary does add, however, that even though it would impose no preliminary offense for the arrangement in this case, the bhikkhu would still incur the pācittiya for going as arranged.)
 
-     - 不知何故，《義註》還補充說，如果比丘和比丘尼雙方都站在比丘尼住處、從一個寺院到另一寺院途中、集會大廳、或外道出家者的住所，則訂立約定並無罪過。然而，《經分別》中並沒有任何內容支持這項豁免。（不過，《義註》確實補充說，即使在這種情況下，比丘和比丘尼的約定不會構成初步違犯，但比丘如果按照約定行事，仍犯《波逸提》。）
+     - 不知何故，《義註》還補充說，如果比丘和比丘尼雙方都站在比丘尼住處、從一個寺院到另一寺院途中、集會大廳、或外道出家者的住所，則訂立約定並無罪過。然而，《經分別》中並沒有任何內容支持這項豁免。（不過，《義註》確實補充說，即使在這種情況下，比丘和比丘尼的約定不會構成初步違犯，但比丘如果按照約定出行，仍犯《波逸提》。）
 
    * - Perception as to whether the factors for making an arrangement are actually fulfilled is not a mitigating factor here (see `Pc 4`_).
      - 對於訂立約定的因素是否真正得到滿足的感知並不是這裡的減輕懲罰因素（參見\ `《波逸提》四`_\ ）。
@@ -953,5 +953,16 @@
 .. TODO FIXME: replace link to 《波逸提》六六
 .. _六七: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
 .. TODO FIXME: replace link to 《波逸提》六七
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Going as arranged**
+     - **按照約定出行**
+
+   * - The two parties must travel together as specified in the arrangement for this sub-factor to be fulfilled. If the arrangement is minimal or spur-of-the-moment, with no time frame explicitly specified—“Let’s go.” “Yes, let’s go”—then simply leaving together at any time would fulfill this sub-factor.  If a time frame is explicitly specified, then this sub-factor is fulfilled only if they leave within the time frame. If they happen to start out earlier or later than arranged, the bhikkhu incurs no penalty. The examples in the Commentary suggest that “earlier“ or “later” here involve fairly substantial amounts of time, i.e., going one day later than arranged, or going before the meal when the arrangement was to go after the meal. This is supported by the Vibhaṅga, in which the examples that specify a time frame express it in large units, such as “today” or “tomorrow.” The Commentary also adds that if a specific place to meet or route to travel is part of the arrangement, any change in those factors would be irrelevant to the offense. For example, if they agree to go by train but end up going by car, the factor of “going as arranged” would still be fulfilled.
+
+     - 雙方必須依約定一同出行，此子因素才算成立。如果約定內容簡單或臨時起意，沒有明確約定時間——「我們走吧。」「好的，我們走吧」——那麼，只要雙方在任何時間一起出發，即可滿足此子因素。如果明確約定了時間，則只有在約定時間內出發，此子因素才算成立。如果他們出發的時間比約定時間早或晚，比丘不會受到懲罰。《義註》中的例子表明，此處的「早」或「晚」涉及相當長的時間，例如，比約定時間晚一天出發，或約定時間在飯後，而實際出發時間是在飯前。《經分別》也支持這一觀點，其中約定時間的例子都以大單位來表達，例如「今天」或「明天」。《義註》也補充說，如果特定的會面地點或出行路線是約定的一部分，則這些因素的任何變更均與犯戒無關。例如，如果他們約定搭火車，但最終改乘汽車，「按照約定出行」的條件仍然成立。
 
 (未完待續)
