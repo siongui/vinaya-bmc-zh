@@ -965,4 +965,20 @@
 
      - 雙方必須依約定一同出行，此子因素才算成立。如果約定內容簡單或臨時起意，沒有明確約定時間——「我們走吧。」「好的，我們走吧」——那麼，只要雙方在任何時間一起出發，即可滿足此子因素。如果明確約定了時間，則只有在約定時間內出發，此子因素才算成立。如果他們出發的時間比約定時間早或晚，比丘不會受到懲罰。《義註》中的例子表明，此處的「早」或「晚」涉及相當長的時間，例如，比約定時間晚一天出發，或約定時間在飯後，而實際出發時間是在飯前。《經分別》也支持這一觀點，其中約定時間的例子都以大單位來表達，例如「今天」或「明天」。《義註》也補充說，如果特定的會面地點或出行路線是約定的一部分，則這些因素的任何變更均與犯戒無關。例如，如果他們約定搭火車，但最終改乘汽車，「按照約定出行」的條件仍然成立。
 
+   * - **From one village to another**
+     - **從一個村莊到另一個村莊**
+
+   * - There is some controversy as to whether this phrase—\ *gāmantara*\ —means “from one village to another” or “from one house to another.” According to Buddhaghosa, the ancient commentaries opted for “village,” while he opts for “house.” The ancient commentaries have the support of the Canon here, in that the term in question also occurs in the bhikkhunīs’ `Sg 3`_ & `Pc 37`_, where it definitely means the area outside a village and not the interval from one house to another within a village.
+
+     - 關於「\ *gāmantara* \」這個詞的意思是「從一個村莊到另一個村莊」還是「從一個房子到另一個房子」，存在一些爭議。根據\ `佛音`_\ 的說法，古代註釋書選擇了「村莊」，而他選擇了「房子」。古代註釋書在此得到了《聖典》的支持，因為該術語也出現在\ `比丘尼《僧殘》三`_\ 和\ `比丘尼《波逸提》三七`_\ 中，在那裡它明確地指的是村莊外的區域，而不是村莊內從一個房子到另一個房子的間距。
+
+   * - There is a pācittiya for every village-to-village interval one passes. In a wilderness area with no villages—i.e., says the Sub-commentary, where villages are further than a half-yojana (eight kilometers or five miles) apart—there is a pācittiya for every half-yojana one travels together as arranged.
+
+     - 每經過一個村莊至村莊的間距，犯一次《波逸提》。在沒有村莊的林野地區——也就是《複註》中所說的，村莊之間的距離超過半由旬（八公里或五英里）——按照約定同行，每半由旬犯一次《波逸提》。
+
+.. _Sg 3: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#sg
+.. _Pc 37: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part4
+.. _比丘尼《僧殘》三: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_010#0311a02
+.. _比丘尼《波逸提》三七: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0409a10
+
 (未完待續)
