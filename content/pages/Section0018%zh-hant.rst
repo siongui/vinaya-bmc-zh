@@ -892,7 +892,7 @@
 
      - .. container:: notification
 
-          *任何比丘，除非在適當的場合，否則與比丘尼相約一同旅行，即使是在一個村莊和下一個村莊之間的間距，波逸提。這裡適當的場合是：這條路是應與商隊通行的（§），並且被認為是可疑和危險的。這是此處的適當場合。*
+          *任何比丘，除非在適當的場合，否則與比丘尼相約一同旅行，即使是在一個村莊和下一個村莊之間的間距，波逸提。這裡適當的場合是：這條路是應與商隊旅行的（§），並且被認為是可疑和危險的。這是此處的適當場合。*
 
    * - Here the full offense has two factors.
      - 這裡的完整違犯有兩個因素。
@@ -980,5 +980,24 @@
 .. _Pc 37: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part4
 .. _比丘尼《僧殘》三: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_010#0311a02
 .. _比丘尼《波逸提》三七: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0409a10
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The allowable occasions**
+     - **允許的場合**
+
+   * - A road to be traveled by caravan (§) is one too dubious or risky to travel alone. (BD translates this as a “road to be traveled with a weapon,” but because bhikkhus and bhikkhunīs are not allowed even to touch weapons, it’s a doubtful translation at best.)
+
+     - 應與商隊旅行的道路（§）是指獨自旅行太過可疑或危險的道路。（《戒律書》將其翻譯為「攜帶武器旅行的道路」，但由於比丘和比丘尼甚至不被允許接觸武器，因此這個翻譯充其量也值得懷疑。）
+
+   * - *Dubious* means that the eating, sleeping, sitting, or standing places of thieves have been seen along the road; *risky*, that people are known to have been beaten, plundered, or robbed by thieves there.
+
+     - *可疑*\ 是指在路邊看到小偷吃飯、睡覺、坐著或站立的地方；\ *危險*\ 是指知道有人在那裡被小偷毆打、掠奪或搶劫。
+
+   * - The Vibhaṅga adds that if the road was believed to be dubious or risky but is later found to be safe, the exemption no longer holds, and the bhikkhus are to dismiss the bhikkhunīs from their company.
+
+     - 《經分別》也補充道，如果這條路被認為是可疑的或有風險的，但後來發現是安全的，則豁免不再有效，比丘們應將比丘尼從他們的同伴中遣散出去。
 
 (未完待續)
