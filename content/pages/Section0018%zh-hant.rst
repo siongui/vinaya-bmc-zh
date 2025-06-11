@@ -1000,4 +1000,63 @@
 
      - 《經分別》也補充道，如果這條路被認為是可疑的或有風險的，但後來發現是安全的，則豁免不再有效，比丘們應將比丘尼從他們的同伴中遣散出去。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense:
+     - 無犯戒：
+
+   * - .. container:: mx-2
+
+          if the bhikkhu and bhikkhunī happen to travel together without having made an arrangement;
+
+     - .. container:: mx-2
+
+          如果比丘與比丘尼未經約定而碰巧同行；
+
+   * - .. container:: mx-2
+
+          if the bhikkhunī proposes an arrangement, while the bhikkhu does not give his verbal assent;
+
+     - .. container:: mx-2
+
+          如果比丘尼提出約定，而比丘沒有口頭同意；
+
+   * - .. container:: mx-2
+
+          if they leave not as specified in the arrangement (§), (e.g., on another day);
+
+     - .. container:: mx-2
+
+          如果他們沒有如指定按照約定（§）離開（例如，在另一天）；
+
+   * - .. container:: mx-2
+
+          if they travel on a dubious and risky road; or
+
+     - .. container:: mx-2
+
+          如果他們在可疑和危險的道路上旅行；或者
+
+   * - .. container:: mx-2
+
+          if there are other dangers.
+
+     - .. container:: mx-2
+
+          如果存在其他危險。
+
+   * - The Commentary illustrates this last contingency with a stock phrase whose meaning admits two interpretations. It starts, “Savage tribes are attacking the countryside,” and then comes the ambiguous part, either, “People mount their wheels (their carriages, says the Sub-commentary),” or, alternatively, “The tribes seize power (another meaning for ‘wheel’).”
+
+     - 《義註》用一個口頭禪來說明這最後一種可能性，其意義可以有兩種解讀。開頭是「野蠻部落正在襲擊鄉村」，接下來是模棱兩可的部分，要不是「人們騎上他們的輪子（《複註》中說是他們的馬車）」，就是「部落奪取了權力（『輪子』的另一個含義）」。
+
+   * - *Summary: Traveling by arrangement with a bhikkhunī from one village to another—except when the road is risky or there are other dangers—is a pācittiya offense.*
+     - *摘要：除非危險的道路或有其他危險，否則與比丘尼約定從一個村莊到另一個村莊，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
