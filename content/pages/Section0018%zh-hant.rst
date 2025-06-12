@@ -947,8 +947,7 @@
 .. _Pc 28: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc28
 .. _66: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc66
 .. _67: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
-.. _《波逸提》二八: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc28
-.. TODO FIXME: replace link to 《波逸提》二八
+.. _《波逸提》二八: #Pc28
 .. _六六: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc66
 .. TODO FIXME: replace link to 《波逸提》六六
 .. _六七: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
@@ -1058,5 +1057,26 @@
 
    \*    \*    \*
 
+
+.. _Pc28:
+
+.. raw:: html
+
+   <span id="Pc28"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **28**
+     - **二十八**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, by arrangement, get in the same boat with a bhikkhunī going upstream or downstream—except to cross over to the other bank—it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘與比丘尼相約乘同一艘船逆流而上或順流而下 —— 除了橫渡到對岸 —— 波逸提。*
 
 (未完待續)
