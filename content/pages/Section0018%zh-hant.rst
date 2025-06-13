@@ -1079,4 +1079,20 @@
 
           *如果任何比丘與比丘尼相約乘同一艘船逆流而上或順流而下 —— 除了橫渡到對岸 —— 波逸提。*
 
+   * - .. container:: mx-2
+
+          “Now at that time, some group-of-six bhikkhus, having made an arrangement with some bhikkhunīs, got in the same boat with them. People criticized and complained and spread it about: ‘Just as we sport with our wives in a boat, so too these Sakyan-son monks, having made an arrangement with bhikkhunīs, sport with them in a boat….’”
+
+     - .. container:: mx-2
+
+          「\ `爾時，有六群比丘與比丘尼們相約，共乘同一艘船。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0086a08>`_\ 人們批評、抱怨，並四處散播此事：『就像我們與妻子在船上嬉戲一樣，這些沙門釋迦子也與比丘尼們相約，在船上嬉戲…』」
+
+   * - .. container:: mx-2
+
+          (The Buddha then formulated the first version of this rule, without the exception for crossing over to the other bank.)
+
+     - .. container:: mx-2
+
+          （佛陀隨後制定了此戒條的第一個版本，但沒有橫渡到彼岸的除外。）
+
 (未完待續)
