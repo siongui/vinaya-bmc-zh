@@ -1095,4 +1095,36 @@
 
           （佛陀隨後制定了此戒條的第一個版本，但沒有橫渡到彼岸的除外。）
 
+   * - .. container:: mx-2
+
+          “Then at that time a number of bhikkhus and bhikkhunīs were traveling on the road from Sāketa to Sāvatthī. Along the way, they had to cross over a river. The bhikkhunīs said to the bhikkhus, ‘We’ll cross over with the masters.’
+
+     - .. container:: mx-2
+
+          「爾時，一些比丘和比丘尼正從沙祇前往舍衛城路上。途中，他們必須渡過一條河。比丘尼們對比丘們說：『我們和大師們一起渡河吧。』
+
+   * - .. container:: mx-2
+
+          “‘Sisters, it isn’t proper for bhikkhus, having made an arrangement, to get in the same boat with bhikkhunīs. Either you cross over first or we will.’
+
+     - .. container:: mx-2
+
+          「『姐妹們，比丘在與比丘尼約定後共乘同一艘船是不適當的。若非你們先過去，就是我們先過去。』
+
+   * - .. container:: mx-2
+
+          “‘The masters are the foremost men. Let the masters cross over first.’
+
+     - .. container:: mx-2
+
+          「『大師們是最上人。讓大師們先過去。』
+
+   * - .. container:: mx-2
+
+          “Then as the bhikkhunīs were crossing over afterward, thieves robbed them and raped them.”
+
+     - .. container:: mx-2
+
+          「後來，當比丘尼們渡河時，盜賊搶劫和強姦了她們。」
+
 (未完待續)
