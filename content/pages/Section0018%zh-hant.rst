@@ -1127,4 +1127,23 @@
 
           「後來，當比丘尼們渡河時，盜賊搶劫和強姦了她們。」
 
+   * - The factors for the full offense here are similar to those for the preceding rule.
+     - 此處的完全違犯的因素與前面的戒條類似。
+
+   * - .. container:: mx-2
+
+          *1) Object:* a bhikkhunī.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 比丘尼。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* (a) Having made an arrangement together with her to get in a boat together, (b) one actually travels together with her as arranged, going upstream or downstream along a river (c) from one village to another.
+
+     - .. container:: mx-2
+
+          *2）努力：*\ (a) 與她約定好共乘同一艘船，(b) 按照約定好的那樣，真正和她一起旅行，沿著河流逆流而上或順流而下，(c) 從一個村莊到另一個村莊。
+
 (未完待續)
