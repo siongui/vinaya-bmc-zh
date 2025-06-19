@@ -1146,4 +1146,11 @@
 
           *2）努力：*\ (a) 與她約定好共乘同一艘船，(b) 按照約定好的那樣，真正和她一起旅行，沿著河流逆流而上或順流而下，(c) 從一個村莊到另一個村莊。
 
+   * - **Object**
+     - **對象**
+
+   * - A bhikkhunī who has received the double ordination is grounds for a pācittiya here. Unlike its treatment of many other rules in this section, the Vibhaṅga here does not state that a bhikkhunī who has received only her first ordination is grounds for a dukkaṭa, nor that a female trainee or a female novice would be grounds for no offense. This may have been an oversight. The Vibhaṅga here closely follows the Vibhaṅga to the preceding rule, which omits mentioning these three classes of women because they are covered by a parallel rule, `Pc 67`_. This rule, however, has no such parallel rule to cover these three classes, and so the omission here leaves them neither allowed nor forbidden by any rule.
+
+     - 二部受戒的比丘尼在此構成《波逸提》。與本品中許多其他戒條的處理不同，此處的《經分別》並未規定僅單部受戒的比丘尼構成《突吉羅》，也未規定學法女（式叉摩那）或沙彌尼不構成犯戒。這可能是個疏忽。此處的《經分別》與前一戒條的《經分別》緊密相連，前一戒條省略了這三類女性，因為她們受相似戒條\ `《波逸提》六七`_\ 的約束。然而，這條戒條並沒有類似的戒條來涵蓋這三類，因此這裡的遺漏使得它們不受任何戒條允許或禁止。
+
 (未完待續)
