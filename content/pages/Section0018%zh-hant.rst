@@ -1153,4 +1153,23 @@
 
      - 二部受戒的比丘尼在此構成《波逸提》。與本品中許多其他戒條的處理不同，此處的《經分別》並未規定僅單部受戒的比丘尼構成《突吉羅》，也未規定學法女（式叉摩那）或沙彌尼不構成犯戒。這可能是個疏忽。此處的《經分別》與前一戒條的《經分別》緊密相連，前一戒條省略了這三類女性，因為她們受相似戒條\ `《波逸提》六七`_\ 的約束。然而，這條戒條並沒有類似的戒條來涵蓋這三類，因此這裡的遺漏使得它們不受任何戒條允許或禁止。
 
+   * - **Effort**
+     - **努力**
+
+   * - The conditions for making an arrangement here, as well as those concerning the issue of perception about the arrangement, are identical with those under the preceding rule.
+
+     - 此處作出約定的條件，以及有關該約定的感知問題與前一條戒條相同。
+
+   * - The issues around the next sub-factor—going as arranged—are also the same as under the previous rule, with the one difference that “going” is here replaced with “getting in the boat.”
+
+     - 下一個子因素——按約定出行——的問題也與上一條戒條相同，不同之處在於，這裡的「出行」被替換為「乘船」。
+
+   * - Once they get in the boat as arranged, the bhikkhu incurs a pācittiya for every village-to-village interval they pass along the riverbank while going upstream or downstream. In a wilderness area with no villages—i.e., says the Sub-commentary, where the villages are further than a half-yojana (8 km.) apart—he incurs a pācittiya for every half-yojana they travel together.
+
+     - 依照約定乘船後，比丘在沿河岸逆流或順流而上時，每經過一個村莊至村莊的間距，都犯一次《波逸提》。在沒有村莊的林野地區－也就是《複註》中所提及的村莊之間相距超過半由旬（8公里）的地方－比丘每同行半由旬，就犯一次《波逸提》。
+
+   * - The commentaries add “intention” as an additional factor here—the bhikkhu’s purpose in traveling with the bhikkhunī(s) is for amusement—but there is no basis for this in the Vibhaṅga.
+
+     - 《義註》在這裡添加了「意圖」作為額外的因素——比丘與比丘尼同行的目的是為了娛樂——但在《經分別》中沒有這方面的依據。
+
 (未完待續)
