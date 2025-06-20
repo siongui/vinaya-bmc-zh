@@ -1172,4 +1172,59 @@
 
      - 《義註》在這裡添加了「意圖」作為額外的因素——比丘與比丘尼同行的目的是為了娛樂——但在《經分別》中沒有這方面的依據。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - As the rule says, there is no offense in making an arrangement and crossing over a river with a bhikkhunī. The Commentary adds that this applies not only to rivers but also to oceans: If one travels from one seaport to another by arrangement with a bhikkhunī, no penalty is entailed.
+
+     - 如戒條所說，與比丘尼約定橫渡河並不犯戒。《義註》補充道，這不僅適用於河流，也適用於海洋：如果與比丘尼約定從一個海港前往另一個海港，則不受任何懲罰。
+
+   * - The K/Commentary goes even further and says that this rule applies only to rivers, and that a bhikkhu seeking some amusement with a bhikkhunī may make a date with her and travel around the ocean as much as he likes with no offense. The Sub-commentary disagrees with both the Commentary and K/Commentary here, saying that a bhikkhu traveling by arrangement with a bhikkhunī in a boat on the ocean incurs a dukkaṭa for every half-yojana they travel. The Sub-commentary’s position here is more in keeping with the Great Standards and so carries more weight.
+
+     - K/《義註》甚至更進一步指出，這條戒條僅適用於河流，比丘若想與比丘尼尋歡作樂，可以與她約會，隨心所欲地在海上旅行，而不犯戒。此處的《複註》不同意《義註》及 K/《義註》，認為比丘與比丘尼約定乘船在海上旅行，每旅行半由旬，就要犯一次《突吉羅》。此處《複註》的立場較符合《四大教示》，因此更有分量。
+
+   * - Finally, there is no offense if:
+     - 最後，以下情況不構成犯戒：
+
+   * - .. container:: mx-2
+
+          the bhikkhu and bhikkhunī happen to travel together in the same boat without having made an arrangement;
+
+     - .. container:: mx-2
+
+          比丘與比丘尼未經約定，恰巧同乘一艘船；
+
+   * - .. container:: mx-2
+
+          the bhikkhunī proposes an arrangement, while the bhikkhu does not give his verbal assent;
+
+     - .. container:: mx-2
+
+          比丘尼提出約定，而比丘沒有口頭同意；
+
+   * - .. container:: mx-2
+
+          they get in the boat not as specified in the arrangement (§), (e.g., on another day); or
+
+     - .. container:: mx-2
+
+          他們上船的時間與約定（§）中規定的時間不符（例如，在另一天）；或者
+
+   * - .. container:: mx-2
+
+          there are dangers.
+
+     - .. container:: mx-2
+
+          存在危險。
+
+   * - *Summary: Traveling by arrangement with a bhikkhunī upriver or downriver in the same boat—except when crossing a river—is a pācittiya offense.*
+     - *摘要：除橫渡過河外，與比丘尼約定同乘一艘船沿河而上或而下，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
