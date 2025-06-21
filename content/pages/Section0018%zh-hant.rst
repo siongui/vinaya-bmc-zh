@@ -1256,4 +1256,60 @@
 
           「\ `爾時，偷蘭難陀比丘尼定期從一戶人家得受常施食 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0088a13>`_\ 。有一天，戶主邀請幾位長老比丘來吃飯。偷蘭難陀比丘尼清晨穿戴整齊，帶著缽和（外）衣來到那戶人家，到達後就對戶主說：『怎麼準備了這麼多主食和副食？』
 
+   * - .. container:: mx-2
+
+          “‘I’ve invited some senior bhikkhus for a meal.’
+
+     - .. container:: mx-2
+
+          「『我邀請了幾位長老比丘來吃飯。』
+
+   * - .. container:: mx-2
+
+          “‘But who, to you, are senior bhikkhus?’
+
+     - .. container:: mx-2
+
+          「『但是，對你來說，誰是長老比丘？』
+
+   * - .. container:: mx-2
+
+          “‘Master Sāriputta, Master Mahā Moggallāna, Master Mahā Kaccāna, Master Mahā Koṭṭhita, Master Mahā Kappina, Master Mahā Cunda, Master Anuruddha, Master Revata, Master Upāli, Master Ānanda, Master Rāhula.’
+
+     - .. container:: mx-2
+
+          「『尊者舍利弗、尊者大目犍連、尊者大迦旃延、尊者摩訶俱稀羅、尊者摩訶劫賓那、尊者摩訶周那、尊者阿那律、尊者離婆多、尊者優波離、尊者阿難、尊者羅睺羅也。』
+
+   * - .. container:: mx-2
+
+          “‘But why have you invited these scoundrels when great heroes are available? (§)’
+
+     - .. container:: mx-2
+
+          「『但是既然有偉大的英雄可供選擇，為什麼你們卻邀請這些惡棍呢？（§）』
+
+   * - .. container:: mx-2
+
+          “‘And who, to *you*, are great heroes?’
+
+     - .. container:: mx-2
+
+          「『那麼，對\ *你*\ 來說，誰是偉大的英雄？』
+
+   * - .. container:: mx-2
+
+          “‘Master Devadatta, Master Kokālika, Master Kaṭamoraka Tissaka, Master Khaṇḍadeviyāputta, Master Samuddadatta….’ At that point, Bhikkhunī Thullanandā was interrupted in mid-sentence when the senior bhikkhus entered. ‘It’s true! You’ve invited great heroes!’
+
+     - .. container:: mx-2
+
+          「『者提婆達多、尊者拘迦利迦、尊者迦留羅提舍、尊者騫駄達多、尊者娑勿陀達…』這時，偷蘭難陀比丘尼的話被幾位長老比丘的到來打斷了。『是啊！您邀請了偉大的英雄們！』
+
+   * - .. container:: mx-2
+
+          “‘Just now you made them out to be scoundrels, and now great heroes.’ So he threw her out of the house and put an end to her regular meals.”
+
+     - .. container:: mx-2
+
+          「』剛才你把他們說成是惡棍，現在卻說成是偉大的英雄。』於是他把她趕出了家門，並斷她的常施食。』
+
 (未完待續)
