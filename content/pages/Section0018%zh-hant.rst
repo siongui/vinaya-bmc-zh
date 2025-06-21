@@ -1227,4 +1227,33 @@
    \*    \*    \*
 
 
+.. _Pc29:
+
+.. raw:: html
+
+   <span id="Pc29"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **29**
+     - **二十九**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu knowingly eat almsfood donated through the prompting of a bhikkhunī, except for food that householders had already intended for him prior (to her prompting), it is to be confessed.*
+
+     - .. container:: notification
+
+          *若任何比丘明知故犯地食用比丘尼勸說而供養的食物，除非是戶主在之前（在比丘尼勸說下）已經為他準備的食物，波逸提。*
+
+   * - .. container:: mx-2
+
+          “Now at that time Bhikkhunī Thullanandā regularly took her meals with a certain family. Then one day the head of the household invited some senior bhikkhus to a meal. Bhikkhunī Thullanandā, dressing early in the morning, taking her bowl and (outer) robe, went to the family’s place and on arrival said to the head of the household, ‘Why has so much of this staple and non-staple food been prepared?’
+
+     - .. container:: mx-2
+
+          「\ `爾時，偷蘭難陀比丘尼定期從一戶人家得受常施食 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0088a13>`_\ 。有一天，戶主邀請幾位長老比丘來吃飯。偷蘭難陀比丘尼清晨穿戴整齊，帶著缽和（外）衣來到那戶人家，到達後就對戶主說：『怎麼準備了這麼多主食和副食？』
+
 (未完待續)
