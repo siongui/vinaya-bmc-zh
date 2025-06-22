@@ -1302,7 +1302,7 @@
 
      - .. container:: mx-2
 
-          「『者提婆達多、尊者拘迦利迦、尊者迦留羅提舍、尊者騫駄達多、尊者娑勿陀達…』這時，偷蘭難陀比丘尼的話被幾位長老比丘的到來打斷了。『是啊！您邀請了偉大的英雄們！』
+          「『尊者提婆達多、尊者拘迦利迦、尊者迦留羅提舍、尊者騫駄達多、尊者娑勿陀達…』這時，偷蘭難陀比丘尼的話被幾位長老比丘的到來打斷了。『是啊！您邀請了偉大的英雄們！』
 
    * - .. container:: mx-2
 
@@ -1310,6 +1310,37 @@
 
      - .. container:: mx-2
 
-          「』剛才你把他們說成是惡棍，現在卻說成是偉大的英雄。』於是他把她趕出了家門，並斷她的常施食。』
+          「『剛才你把他們說成是惡棍，現在卻說成是偉大的英雄。』於是他把她趕出了家門，並斷她的常施食。』
+
+   * - The factors for the full offense here are three.
+     - 此處構成完全違犯的因素有三。
+
+   * - .. container:: mx-2
+
+          *1) Object:* any of the five staple foods (see the preface to the `Food Chapter`_, below) offered by a lay person at the instigation of a bhikkhunī.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 在比丘尼的勸說下，由在家眾供養的五種主食中的任何一種（參見下文\ `食物品`_\ 的序言）。
+
+   * - .. container:: mx-2
+
+          *2) Perception:* One knows that it was offered at her instigation.
+
+     - .. container:: mx-2
+
+          *2）感知：*\ 知道這是在她的勸說下供養的。
+
+   * - .. container:: mx-2
+
+          *3) Effort:* One eats the food.
+
+     - .. container:: mx-2
+
+          *3）努力：*\ 吃了該食物。
+
+.. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
+.. _食物品: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
+.. TODO FIXME: replace link to 食物品
 
 (未完待續)
