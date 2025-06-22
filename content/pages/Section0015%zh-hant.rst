@@ -442,8 +442,7 @@
      - 沒有食用價值的\ `糖替代品`_\ 顯然不會被歸類為食品或補品，因此將屬於終身藥物的範疇。
 
 .. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
-.. _食物品: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
-.. TODO FIXME: replace link to 附錄四
+.. _食物品: {filename}Section0019%zh-hant.rst#Pc_ChFour
 .. _Mv.VI.1.2-5: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts1_2
 .. _《大品》.六.1.2-5: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0267a08
 .. _MN 126: https://www.dhammatalks.org/suttas/MN/MN126.html

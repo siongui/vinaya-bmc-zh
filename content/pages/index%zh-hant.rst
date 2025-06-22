@@ -374,7 +374,7 @@
      - `\　　　三十 <{filename}Section0018%zh-hant.rst#Pc30>`__
 
    * - `\　　Four: The Food Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0019.html>`__
-     - 　　第四 食物品
+     - `\　　第四 食物品 <{filename}Section0019%zh-hant.rst>`__
 
    * - `\　　　Staple foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_18>`__
      - 　　　主食
