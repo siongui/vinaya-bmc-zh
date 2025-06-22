@@ -1424,4 +1424,34 @@
    \*    \*    \*
 
 
-(未完待續)
+.. _Pc30:
+
+.. raw:: html
+
+   <span id="Pc30"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **30**
+     - **三十**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu sit in private, alone with a bhikkhunī, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘單獨與比丘尼私下坐著，波逸提。*
+
+   * - Except for one rare case—a bhikkhunī who does not know what is lewd and not lewd—this rule is completely subsumed under `Pc 45`_. For explanations, see the discussion under that rule.
+
+     - 除了一種罕見的情況——比丘尼不知道什麼是淫穢、什麼是不淫穢——這條戒條完全被納入了\ `《波逸提》四五`_\ 。有關解釋，請參閱該戒條下的討論。
+
+   * - *Summary: When aiming at privacy, sitting or lying down alone with a bhikkhunī in an unsecluded but private place is a pācittiya offense.*
+     - *摘要：當以隱私為意圖時，與比丘尼單獨在不僻靜但私密的地方坐下或躺下，是《波逸提》（《單墮》）罪。*
+
+.. _Pc 45: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
+.. _《波逸提》四五: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
+.. TODO FIXME: replace link to 《波逸提》四五

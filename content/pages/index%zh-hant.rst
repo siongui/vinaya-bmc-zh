@@ -371,7 +371,7 @@
      - `\　　　二十九 <{filename}Section0018%zh-hant.rst#Pc29>`__
 
    * - `\　　　30 <https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc30>`__
-     - 　　　三十
+     - `\　　　三十 <{filename}Section0018%zh-hant.rst#Pc30>`__
 
    * - `\　　Four: The Food Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0019.html>`__
      - 　　第四 食物品
