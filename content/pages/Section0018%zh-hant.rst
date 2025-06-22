@@ -1343,4 +1343,35 @@
 .. _食物品: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
 .. TODO FIXME: replace link to 食物品
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - Any of the five staple foods is grounds for a pācittiya. Any edible aside from them is not grounds for an offense.
+     - 五種主食中的任何一種，都構成《波逸提》。除此之外的任何食物，都不構成犯戒。
+
+   * - *Bhikkhunī* here refers to one who has received the double ordination. The Vibhaṅga notes that one who has received only her first ordination—from the Bhikkhunī Saṅgha—is grounds for a dukkaṭa, while female trainees and female novices are not grounds for an offense.
+
+     - *比丘尼*\ 在此指已二部受戒者。《經分別》指出，只單部受戒（即從比丘尼僧伽）者，構成《突吉羅》，而學法女（式叉摩那）和沙彌尼則不構成犯戒。
+
+   * - *Instigating* means that the bhikkhunī speaking to a lay person who is not already planning to give food to Bhikkhu X, praises X or suggests that food should be presented to him. If the lay person was already planning to give food to X, this factor is not fulfilled. The Vibhaṅga defines *already planning to give food* in the following terms: Either X and the lay person are related, the lay person has previously invited X to ask for food, or the lay person has already prepared the food in question for X of his/her own accord prior to the bhikkhunī’s instigation.
+
+     - *勸說*\ 是指比丘尼與尚未計劃向比丘 X 供養食物的居士交談，稱讚 X 或建議向他供養食物。如果居士已經計劃向 X 供養食物，則此條件不成立。《經分別》對\ *已經計畫供養食物*\ 的定義如下： X 與居士有親屬關係，居士先前已邀請 X 來求食，或居士在比丘尼勸說之前已主動為 X 準備好食物。
+
+   * - **Perception**
+     - **感知**
+
+   * - If one is in doubt as to whether the food was offered at a bhikkhunī’s instigation, the penalty for eating it is a dukkaṭa regardless of whether it was. If one thinks that it was offered at her instigation when it actually wasn’t, the penalty for eating it is again a dukkaṭa. If one does not perceive it as offered at her instigation, then whether it was or wasn’t, there is no offense.
+
+     - 如果懷疑食物是否由比丘尼的勸說而供養，無論是否真是如此，食用該食物的懲罰都是《突吉羅》。如果認為食物是由比丘尼的勸說而供養的，而實際上並非如此，食用該食物的懲罰同樣是《突吉羅》。如果認為食物並非由比丘尼的勸說而供養的，無論是否真的如此，都不犯戒。
+
+   * - **Effort**
+     - **努力**
+
+   * - There is a dukkaṭa for accepting food with the purpose of eating it, and a pācittiya for every mouthful one eats.
+     - 為了吃而接受食物犯一次《突吉羅》，吃的每一口食物都犯一次《波逸提》。
+
 (未完待續)
