@@ -1374,4 +1374,54 @@
    * - There is a dukkaṭa for accepting food with the purpose of eating it, and a pācittiya for every mouthful one eats.
      - 為了吃而接受食物犯一次《突吉羅》，吃的每一口食物都犯一次《波逸提》。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if:
+     - 以下情況不犯戒：
+
+   * - .. container:: mx-2
+
+          one does not know,
+
+     - .. container:: mx-2
+
+          不知道，
+
+   * - .. container:: mx-2
+
+          the food offered is not one of the five staples,
+
+     - .. container:: mx-2
+
+          供養的食物不屬於五種主食之一，
+
+   * - .. container:: mx-2
+
+          the lay person was instigated by a female trainee or female novice, or
+
+     - .. container:: mx-2
+
+          在家人受到學法女（式叉摩那）或沙彌尼的勸說，或
+
+   * - .. container:: mx-2
+
+          the lay person was already planning to present one with the food before the bhikkhunī’s instigation.
+
+     - .. container:: mx-2
+
+          在比丘尼的勸說前，該在家人已經計畫好要提供食物。
+
+   * - As we noted above, one’s relatives and people who have invited one to ask for food also fit under this allowance.
+     - 正如我們上面提到的，親戚和邀請他來求食者也符合這項開緣。
+
+   * - *Summary: Eating any of the five staple foods that a lay person has offered as the result of a bhikkhunī’s prompting—unless the lay person was already planning to offer the food before her prompting—is a pācittiya offense.*
+     - *摘要：食用在家人因比丘尼的勸說而供養的任何五種主食 —— 除非在家人在比丘尼的勸說之前已經計劃供養這些食物 —— 是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
