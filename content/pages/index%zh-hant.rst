@@ -377,7 +377,7 @@
      - `\　　第四 食物品 <{filename}Section0019%zh-hant.rst>`__
 
    * - `\　　　Staple foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_18>`__
-     - 　　　主食
+     - `\　　　主食（噉食） <{filename}Section0019%zh-hant.rst#sigil_toc_id_18>`__
        :hidden:`(噉食 *bhojaniya* - 時限藥 *yāvakālika*)`
 
    * - `\　　　Non-staple foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_19>`__

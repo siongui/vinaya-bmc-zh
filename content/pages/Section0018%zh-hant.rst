@@ -1340,7 +1340,7 @@
           *3）努力：*\ 吃了該食物。
 
 .. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
-.. _食物品: {filename}Section0019%zh-hant.rst#Pc_ChFour#Pc_ChFour
+.. _食物品: {filename}Section0019%zh-hant.rst#Pc_ChFour
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
