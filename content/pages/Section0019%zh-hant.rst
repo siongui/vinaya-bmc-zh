@@ -87,6 +87,14 @@
 
      - 《義註》在此補充了三點評論： (a) 這些禁令不僅涵蓋這些動物的肉，還涵蓋它們的血、骨、皮和獸皮（皮下組織層－參見\ `《增支部》4:113經`_\ ）。 (b) 禁止食用狗肉的規定並不包括狼和狐狸等野狗（但許多導師——包括《義註》的泰文譯者——對此表示質疑）。然而，半狗半狼混血的肉是被禁止的。 (c) 禁止食用蛇肉的規定涵蓋所有長而無足的生物的肉。因此，鰻魚是不允許的。（許多僧團也對最後一點表示質疑。）
 
+   * - `Mv.VI.23.9`_ also states that if a bhikkhu is uncertain as to the identity of any meat presented to him, he incurs a dukkaṭa if he doesn’t ask the donor what it is before eating it. The Commentary interprets this as meaning that if, on reflection, one recognizes what kind of meat it is, one needn’t ask the donor about the identity of the meat. If one doesn’t recognize it, one *must* ask. If one mistakenly identifies an unallowable sort of meat as allowable and then goes ahead and consumes it under that mistaken assumption, there is no offense.
+
+     - `《大品》.六.23.9`_ 也規定，如果比丘不確定提供給自己的肉是什麼，並且在食用前沒有詢問施主，犯《突吉羅》。《義註》對此的解釋是，如果經過深思熟慮後，認出了是什麼肉，就無需詢問施主是什麼肉。如果認不出，就\ *必須*\ 詢問。如果比丘錯誤地將不允許的肉認定為可允許的肉，並基於這種錯誤的認知繼續食用，則不構成犯戒。
+
+   * - Raw flesh and blood are allowed at `Mv.VI.10.2`_ only when one is possessed by non-human beings. Thus, in more ordinary circumstances, one may not eat raw fish or meat even if of an allowable kind. This would include such things as steak tartare, sashimi, oysters on the half-shell, raw eggs, and caviar. Furthermore, even cooked fish or meat of an allowable kind is unallowable if the bhikkhu sees, hears, or suspects that the animal was killed specifically for the purpose of feeding bhikkhus (`Mv.VI.31.14`_).
+
+     - 根據\ `《大品》.六.10.2`_\ ，只有當非人附身時，才允許食用生肉和血。因此，在更普遍的情況下，即使是允許的生魚或生肉，也不得食用。這包括韃靼牛排、生魚片、帶殼牡蠣、生蛋和魚子醬。此外，如果比丘看到、聽到或懷疑動物是專門為了供養比丘而宰殺的，即使是允許的熟魚或熟肉，也是不允許食用的（\ `《大品》.六.31.14`_\ ）。
+
 .. _Pc 35: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. _《波逸提》三五: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. TODO FIXME: replace link to 《波逸提》三五
@@ -94,5 +102,11 @@
 .. _《大品》.六.23.9-15: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0289a14
 .. _AN 4\:113: https://www.dhammatalks.org/suttas/AN/AN4_113.html
 .. _《增支部》4\:113經: https://sutra.mobi/chilin/zengzhi/content/04.html#%E4%B8%80%E4%B8%80%E4%B8%89%E9%A6%AC%E5%88%BA
+.. _Mv.VI.23.9: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.23.9
+.. _《大品》.六.23.9: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0289a14
+.. _Mv.VI.10.2: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.10.2
+.. _Mv.VI.31.14: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.31.14
+.. _《大品》.六.10.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0271a04
+.. _《大品》.六.31.14: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0313a02
 
 (未完待續)
