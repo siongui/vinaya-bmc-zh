@@ -109,4 +109,31 @@
 .. _《大品》.六.10.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0271a04
 .. _《大品》.六.31.14: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0313a02
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_19"></span>
+
+       **Non-staple foods**
+
+     - **副食（嚼食）**
+
+   * - Non-staple foods are defined according to context:
+     - 副食根據上下文定義：
+
+   * - .. container:: mx-2
+
+          a\) in `Pc 35-38`_: every edible aside from staple foods, juice drinks, the five tonics, and medicines (see below);
+
+     - .. container:: mx-2
+
+          a）\ `《波逸提》三五至三八`_\ ：除主食、果汁飲料、五種補品和藥物以外的所有可食用物品（見下文）；
+
+.. _Pc 35-38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
+.. _《波逸提》三五至三八: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
+.. TODO FIXME: replace link to 《波逸提》三五至三八
+
 (未完待續)

@@ -381,7 +381,7 @@
        :hidden:`(噉食 *bhojaniya* - 時限藥 *yāvakālika*)`
 
    * - `\　　　Non-staple foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_19>`__
-     - 　　　副食
+     - `\　　　副食（嚼食） <{filename}Section0019%zh-hant.rst#sigil_toc_id_19>`__
        :hidden:`(嚼食 *khādaniya* - 時限藥 *yāvakālika*)`
 
    * - `\　　　Juice drinks <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_20>`__
