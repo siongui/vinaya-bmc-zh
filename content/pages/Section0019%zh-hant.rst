@@ -63,8 +63,36 @@
 
           *3）Sattu：*\ 七種穀物中的任何一種，經過乾燥或烘烤後搗成粉。
 
+   * - .. container:: mx-2
+
+          *4) Fish:* the flesh of any animal living in the water.
+
+     - .. container:: mx-2
+
+          *4）魚：*\ 任何生活在水裡的動物的肉。
+
+   * - .. container:: mx-2
+
+          *5) Meat:* the flesh of any animal living on land, except for that which is unallowable. Because the Commentary, in discussing unallowable meat, uses the word *meat* to cover all parts of an animal’s body, the same convention would apply to allowable meat (and to fish) as well. Thus it covers the liver, kidneys, eggs, etc., of any animal whose flesh is allowable.
+
+     - .. container:: mx-2
+
+          *5）肉類：*\ 指任何陸地動物的肉，但禁止食用的除外。由於《義註》在討論禁止食用的肉類時，使用「\ *肉*\ 」一詞來指稱動物身體的所有部位，因此同樣的慣例也適用於允許食用的肉類（以及魚類）。因此，它涵蓋了任何允許食用的動物的肝臟、腎臟、蛋類等。
+
+   * - The Mahāvagga (`Mv.VI.23.9-15`_) forbids ten kinds of flesh: that of human beings, elephants, horses, dogs, snakes, lions, tigers, leopards, bears, and hyenas. To eat human flesh entails a thullaccaya; to eat any of the other unallowable types, a dukkaṭa. Human beings, horses, and elephants were regarded as too noble to be used as food. The other types of meat were forbidden either on grounds that they were repulsive (“People criticized and complained and spread it about, ‘How can these Sakyan-son monks eat dog meat? Dogs are loathsome, disgusting’”) or dangerous (bhikkhus, smelling of lion’s flesh, went into the jungle; the lions there, instead of criticizing or complaining, attacked them).
+
+     - 《大品》（\ `《大品》.六.23.9-15`_\ ）禁食十種肉：人肉、象肉、馬肉、狗肉、蛇肉、獅肉、虎肉、豹肉、熊肉和鬣狗肉。食用人肉犯《偷蘭遮》；食用任何其他不被允許食用的肉則犯《突吉羅》。人肉、馬肉和象肉被認為過於尊貴，不宜食用。其他肉類被禁止食用，要麼是因為它們令人討厭（「人們批評、抱怨並四處傳播：『這些沙門釋迦子怎麼能吃狗肉？狗令人厭惡，令人作嘔』」），要麼是因為它們危險（比丘們，聞起來有獅子肉的味道，進入叢林；那裡的獅子沒有批評或抱怨，而攻擊了他們）。
+
+   * - The Commentary adds three comments here: (a) These prohibitions cover not only the meat of these animals but also their blood, bones, skin, and hide (the layer of tissue just under the skin—see `AN 4:113`_). (b) The prohibition against dog flesh does not include wild dogs, such as wolves and foxes, (but many teachers—including the Thai translator of the Commentary—question this point). The flesh of a half-dog half-wolf mixture, however, would be forbidden. (c) The prohibition against snake flesh covers the flesh of all long, footless beings. Thus eels would not be allowed. (Many Communities question this last point as well.)
+
+     - 《義註》在此補充了三點評論： (a) 這些禁令不僅涵蓋這些動物的肉，還涵蓋它們的血、骨、皮和獸皮（皮下組織層－參見\ `《增支部》4:113經`_\ ）。 (b) 禁止食用狗肉的規定並不包括狼和狐狸等野狗（但許多導師——包括《義註》的泰文譯者——對此表示質疑）。然而，半狗半狼混血的肉是被禁止的。 (c) 禁止食用蛇肉的規定涵蓋所有長而無足的生物的肉。因此，鰻魚是不允許的。（許多僧團也對最後一點表示質疑。）
+
 .. _Pc 35: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. _《波逸提》三五: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. TODO FIXME: replace link to 《波逸提》三五
+.. _Mv.VI.23.9-15: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.23.9
+.. _《大品》.六.23.9-15: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0289a14
+.. _AN 4\:113: https://www.dhammatalks.org/suttas/AN/AN4_113.html
+.. _《增支部》4\:113經: https://sutra.mobi/chilin/zengzhi/content/04.html#%E4%B8%80%E4%B8%80%E4%B8%89%E9%A6%AC%E5%88%BA
 
 (未完待續)
