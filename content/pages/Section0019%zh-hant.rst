@@ -130,10 +130,38 @@
 
      - .. container:: mx-2
 
-          a）\ `《波逸提》三五至三八`_\ ：除主食、果汁飲料、五種補品和藥物以外的所有可食用物品（見下文）；
+          a）在\ `《波逸提》三五至三八`_\ 中：除主食、果汁飲料、五種補品和藥物以外的所有可食用物（見下文）；
+
+   * - .. container:: mx-2
+
+          b\) in `Pc 40`_: every edible aside from staple foods, water, and toothwood;
+
+     - .. container:: mx-2
+
+          b）在\ `《波逸提》四十`_\ 中：除主食、水和齒木以外的所有可食用物；
+
+   * - .. container:: mx-2
+
+          c\) in `Pc 41`_ (also the bhikkhunīs’ `Pc 44`_ & 54_): every edible aside from staple foods, the five tonics, juice drinks, medicine, and conjey.
+
+     - .. container:: mx-2
+
+          c）在\ `《波逸提》四一`_\ 中（也在\ `比丘尼《波逸提》四四`_\ 和\ `五四`_\ ）：除主食、五種補品、果汁飲料、藥物和粥之外的所有可食用物。
+
+          .. conjey: Alternative spelling of congee (“rice gruel”) [Leave, formal permission for some action, (originally and particularly):]
 
 .. _Pc 35-38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. _《波逸提》三五至三八: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. TODO FIXME: replace link to 《波逸提》三五至三八
+.. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
+.. _《波逸提》四十: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
+.. TODO FIXME: replace link to 《波逸提》四十
+.. _Pc 41: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc41
+.. _Pc 44: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part5
+.. _54: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part6
+.. _《波逸提》四一: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc41
+.. TODO FIXME: replace link to 《波逸提》四一
+.. _比丘尼《波逸提》四四: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0417a11
+.. _五四: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0432a05
 
 (未完待續)
