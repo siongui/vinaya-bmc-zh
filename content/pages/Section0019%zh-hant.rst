@@ -162,6 +162,10 @@
 
      - 這意味著，布施者可以為比丘提供一頓完整的、純素食的餐食，其中完全不含任何主食。然而，在這種情況下，明智的做法是，參照\ `《波逸提》三三`_\ 和\ `三五`_\ 的戒條，將這頓餐食視為如同包含主食，以維護布施者的面子。
 
+   * - Conjey, the watery rice porridge or gruel commonly drunk before alms round in the time of the Buddha, is classed differently according to context. If it is so thick that it cannot be drunk and must be eaten with a spoon, it is regarded as a staple food at `Mv.VI.25.7`_ and under `Pc 33`_. “Drinking conjey” is classed as a non-staple food under `Pc 35-38`_ & 40_, whereas it is considered neither a staple nor a non-staple food under `Pc 41`_. The Commentary notes, though, that if drinking conjey has bits of meat or fish “larger than lettuce seeds” floating in it, it is a staple food.
+
+     - 粥（conjey）是佛陀時代托缽前常喝的一種含水米粥，根據上下文有不同的分類。如果它太濃稠，無法直接飲用，必須用湯匙食用，則在\ `《大品》.六.25.7`_\ 和\ `《波逸提》三三`_\ 中被視為主食。「飲用粥」在\ `《波逸提》三五至三八`_\ 和\ `四十`_\ 中被歸類為副食，而在\ `《波逸提》四一`_\ 中，它既不被視為主食，也不被視為副食。然而，《義註》指出，如果飲用粥中漂浮著「比生菜種子還大」的肉碎或魚碎，它就是主食。
+
 .. _Pc 35-38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. _《波逸提》三五至三八: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. TODO FIXME: replace link to 《波逸提》三五至三八
@@ -184,5 +188,10 @@
 .. TODO FIXME: replace link to 《波逸提》三三
 .. _三五: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. TODO FIXME: replace link to 《波逸提》三五
+.. _Mv.VI.25.7: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.25.7
+.. _40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
+.. _四十: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
+.. TODO FIXME: replace link to 《波逸提》四十
+.. _《大品》.六.25.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0295a14
 
 (未完待續)
