@@ -166,6 +166,18 @@
 
      - 粥（conjey）是佛陀時代托缽前常喝的一種含水米粥，根據上下文有不同的分類。如果它太濃稠，無法直接飲用，必須用湯匙食用，則在\ `《大品》.六.25.7`_\ 和\ `《波逸提》三三`_\ 中被視為主食。「飲用粥」在\ `《波逸提》三五至三八`_\ 和\ `四十`_\ 中被歸類為副食，而在\ `《波逸提》四一`_\ 中，它既不被視為主食，也不被視為副食。然而，《義註》指出，如果飲用粥中漂浮著「比生菜種子還大」的肉碎或魚碎，它就是主食。
 
+   * - `Mv.VI.34.21`_ contains an allowance for the five products of the cow: milk, curds, buttermilk, butter, and ghee. The Commentary mentions that each of these five may be taken separately—i.e., the allowance does not mean that all five must be taken together. Milk and curds are classed as “finer staple foods” under `Pc 39`_, but in other contexts they fit under the definition of non-staple food. All other dairy products—except for fresh butter and ghee when used as tonics (see `NP 23`_)—are non-staple foods.
+
+     - `《大品》.六.34.21`_ 規定了五種牛製品的開緣：牛奶、凝乳、酪乳、奶油和酥油。《義註》中提到，這五種產品的任一種可以單獨食用——也就是說，開緣並不意味著必須同時食用所有五種。在\ `《波逸提》三九`_\ 下，牛奶和凝乳被歸類為「精細主食」，但在其他上下文脈絡之下，它們符合副食的定義。所有其他乳製品——除了用作補品的新鮮奶油和酥油（參見\ `《捨墮》二三`_\ ）——都屬於副食。
+
+   * - One of the ten disputed points that led to the convening of the Second Council was the issue of whether thin sour milk—milk that has passed the state of being milk but not yet arrived at the state of being buttermilk—would count inside or outside the general category of staple/non-staple food under `Pc 35`_. The decision of the Council was that it was inside the category, and thus a bhikkhu who has turned down an offer of further food would commit the offense under that rule if he later in the morning consumed thin sour milk that was not left over.
+
+     - 導致\ `第二次結集`_\ 的\ `十個爭議點`_\ 之一是稀酸奶（已經過了牛奶狀態但還未達到酪乳狀態的牛奶）是否應在\ `《波逸提》三五`_\ 之下算在主食/副食的一般類別之內或之外的問題。結集的決議是，它屬於這一類別，因此，如果一位比丘拒絕了進一步的食物供養，並且之後的早上喝了非剩餘的稀酸奶，他將根據該戒條而犯戒。
+
+   * - In addition to staple and non-staple foods, the Vibhaṅga to the rules in this chapter mentions three other classes of edibles: juice drinks, the five tonics, and medicines.
+
+     - 除了主食和副食之外，本品的戒條的《經分別》還提到了其他三類食用物：果汁飲料、五種補品和藥物。
+
 .. _Pc 35-38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. _《波逸提》三五至三八: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. TODO FIXME: replace link to 《波逸提》三五至三八
@@ -193,5 +205,14 @@
 .. _四十: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. TODO FIXME: replace link to 《波逸提》四十
 .. _《大品》.六.25.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0295a14
+.. _Mv.VI.34.21: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.34.21
+.. _Pc 39: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc39
+.. _NP 23: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
+.. _《大品》.六.34.21: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0321a02
+.. _《波逸提》三九: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc39
+.. TODO FIXME: replace link to 《波逸提》三九
+.. _《捨墮》二三: {filename}Section0015%zh-hant.rst#NP23
+.. _第二次結集: https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BB%93%E9%9B%86
+.. _十個爭議點: https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8B
 
 (未完待續)
