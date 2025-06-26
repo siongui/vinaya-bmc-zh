@@ -231,6 +231,14 @@
 
      - 果汁飲料包括鮮榨甘蔗汁、睡蓮根汁、除穀物外的所有水果、除煮熟的綠葉蔬菜外的所有葉子以及除甘草外的所有花卉（\ `《大品》.六.35.6`_\ ）。果汁飲料的開緣的表述方式——水果、葉子和花卉以類別方式被提及，而藤蔓和根莖則不是——表明不應用《四大教示》將甘蔗汁和睡蓮根汁的開緣擴大到其他藤蔓或根莖的汁液。
 
+   * - According to the Commentary, the juice must be strained and may be warmed by sunlight but not heated over a fire. What category boiled juice would fit under, the Commentary does not say. As we noted under `NP 23`_, the Vinaya-mukha—arguing from the parallel between sugar cane juice, which is a juice drink, and sugar, which is made by boiling sugar cane juice—maintains that boiled juice would fit under sugar in the five tonics. This opinion, however, is not accepted in all Communities. In those that do accept it, pasteurized juice, juice concentrates, and juice made from concentrate would come under sugar.
+
+     - 根據《義註》，果汁必須過濾，可以用陽光加熱，但不能用火加熱。《義註》沒有說明煮過的果汁應歸入哪一類。正如我們在\ `《捨墮》二三`_\ 中指出的，《戒律入口》——以甘蔗汁（一種果汁飲料）和糖（由煮沸甘蔗汁製成）之間的相似性為論辯——認為煮過的果汁應歸入五種補品中的糖。然而，並非所有僧團都接受這種觀點。在接受這種觀點的僧團中，巴氏殺菌果汁、果汁濃縮液和從濃縮液製成的果汁都被歸類在糖。
+
+   * - In discussing the Great Standards, the Commentary says that grain is a “great fruit,” and thus the juice of any one of nine large fruits—palmyra fruit, coconut, jackfruit, breadfruit, bottle gourd, white gourd, muskmelon, watermelon, and squash—would fall under the same class as the juice of grain: i.e., as a non-staple food and not a juice drink. From this judgment, many Communities infer that the juice of *any* large fruit, such as pineapple or grapefruit, would also be classed as a non-staple food. However, not all Communities follow the Commentary on this point, as the allowance for juice-drinks states specifically that the juice of all fruits is allowed except for that of grain.
+
+     - 在討論《四大教示》時，《義註》指出穀物是一種「大水果」，因此九種大型水果——棕櫚果、椰子、菠蘿蜜、麵包果、葫蘆、冬瓜、甜瓜、西瓜和南瓜——的任何一種果汁都與穀物汁液屬於同一類別：即歸類為副食而非果汁飲料。基於這個判斷，許多僧團推論，\ *任何*\ 大型水果的果汁，例如鳳梨或柚子，也應歸類為副食。然而，並非所有僧團都認同《義註》的這一觀點，因為果汁飲料的開緣明確規定，除穀物汁液外，所有水果的果汁均允許。
+
 .. _Mv.VI.35.6: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.35.6
 .. _《大品》.六.35.6: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0323a01
 
