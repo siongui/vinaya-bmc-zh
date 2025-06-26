@@ -385,7 +385,7 @@
        :hidden:`(嚼食 *khādaniya* - 時限藥 *yāvakālika*)`
 
    * - `\　　　Juice drinks <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_20>`__
-     - 　　　果汁飲料
+     - `\　　　果汁飲料 <{filename}Section0019%zh-hant.rst#sigil_toc_id_20>`__
        :hidden:`(夜分藥 *yāmakālika*)`
 
    * - `\　　　The five tonics <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_21>`__

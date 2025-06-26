@@ -215,4 +215,23 @@
 .. _第二次結集: https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BB%93%E9%9B%86
 .. _十個爭議點: https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8B
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_20"></span>
+
+       **Juice drinks**
+
+     - **果汁飲料**
+
+   * - Juice drinks include the freshly squeezed juice of sugar cane, water lily root, all fruits except grain, all leaves except cooked greens, and all flowers except licorice (`Mv.VI.35.6`_). The way the allowance for juice drinks is phrased—fruits, leaves, and flowers are mentioned as a class, whereas canes and roots are not—suggests that the Great Standards should not be used to extend the allowance for sugar cane juice and water lily root juice to include the juice from other canes or roots.
+
+     - 果汁飲料包括鮮榨甘蔗汁、睡蓮根汁、除穀物外的所有水果、除煮熟的綠葉蔬菜外的所有葉子以及除甘草外的所有花卉（\ `《大品》.六.35.6`_\ ）。果汁飲料的開緣的表述方式——水果、葉子和花卉以類別方式被提及，而藤蔓和根莖則不是——表明不應用《四大教示》將甘蔗汁和睡蓮根汁的開緣擴大到其他藤蔓或根莖的汁液。
+
+.. _Mv.VI.35.6: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.35.6
+.. _《大品》.六.35.6: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0323a01
+
 (未完待續)
