@@ -254,4 +254,19 @@
 .. _Mv.VI.35.6: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.35.6
 .. _《大品》.六.35.6: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0323a01
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_21"></span>
+
+       **The five tonics**
+
+     - **五種補品**
+
+   * - The five tonics are discussed in detail under `NP 23`_.
+     - `《捨墮》二三`_\ 詳細討論了這五種補品。
+
 (未完待續)

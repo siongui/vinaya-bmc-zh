@@ -389,7 +389,7 @@
        :hidden:`(夜分藥 *yāmakālika*)`
 
    * - `\　　　The five tonics <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_21>`__
-     - 　　　五種補品
+     - `\　　　五種補品 <{filename}Section0019%zh-hant.rst#sigil_toc_id_21>`__
        :hidden:`(七日藥 *sattāhakālika*)`
 
    * - `\　　　Medicines <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_22>`__
