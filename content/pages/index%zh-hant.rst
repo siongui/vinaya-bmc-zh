@@ -393,7 +393,7 @@
        :hidden:`(七日藥 *sattāhakālika*)`
 
    * - `\　　　Medicines <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_22>`__
-     - 　　　藥物
+     - `\　　　藥物 <{filename}Section0019%zh-hant.rst#sigil_toc_id_22>`__
        :hidden:`(終生藥/盡壽藥 *yāvajivika*)`
 
    * - `\　　　Keeping and consuming <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_23>`__

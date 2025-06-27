@@ -269,4 +269,21 @@
    * - The five tonics are discussed in detail under `NP 23`_.
      - `《捨墮》二三`_\ 詳細討論了這五種補品。
 
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_22"></span>
+
+       **Medicines**
+
+     - **藥物**
+
+   * - According to the Mahāvagga (VI.3.1-8), any items in the six following categories that, by themselves, are not used as staple or non-staple food are medicines: roots, astringent decoctions, leaves, fruits, resins, and salts. For example, under fruits: Oranges and apples are not medicines, but pepper, nutmeg, and cardamom are. Most modern medicines would fit under the category of salts. Using the Great Standards, we can say that any edible that is used as a medicine but does not fit under the categories of staple or non-staple food, juice drinks, or the five tonics, would fit here. (For a full discussion of medicines, see `BMC2, Chapter 5`_.)
+
+     - 根據\ `《大品》（六.3.1-8）`_\ ，以下六類中任何本身不作為主食或副食的物品都是藥物：根、澀湯劑、葉、果實、樹脂和鹽。例如，在水果中：柳橙和蘋果不是藥物，但胡椒、肉荳蔻和小荳蔻是。大多數現代藥物都屬於鹽類。使用《四大教示》，我們可以說，任何用作藥物，但不屬於主食或副食、果汁飲料或五種補品類別的可食用物都屬於此。（有關藥物的完整討論，請參閱\ `《佛教比丘戒律 第二冊》第五章`_\ 。）
+
+.. _BMC2, Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
+.. _《大品》（六.3.1-8）: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0269a02
+.. _《佛教比丘戒律 第二冊》第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第五章
+
 (未完待續)
