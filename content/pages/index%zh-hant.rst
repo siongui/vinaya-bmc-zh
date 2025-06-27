@@ -397,7 +397,7 @@
        :hidden:`(終生藥/盡壽藥 *yāvajivika*)`
 
    * - `\　　　Keeping and consuming <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_23>`__
-     - 　　　存放及食用
+     - `\　　　存放及食用 <{filename}Section0019%zh-hant.rst#sigil_toc_id_23>`__
 
    * - `\　　　Mixed foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_24>`__
      - 　　　混合食物

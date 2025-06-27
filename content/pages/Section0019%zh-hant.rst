@@ -286,4 +286,20 @@
 .. _《佛教比丘戒律 第二冊》第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第五章
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_23"></span>
+
+       **Keeping and consuming**
+
+     - **存放及食用**
+
+   * - Each of the four basic classes of edibles—food, juice drinks, the five tonics, and medicines—has its “life span,” the period during which it may be kept and consumed. Food may be kept and consumed until noon of the day it is received; juice drinks, until dawnrise of the following day; the five tonics, until dawnrise of the seventh day after they are received; and medicines, for the remainder of one’s life.
+
+     - 食物、果汁飲料、五種補品和藥物這四大類基本可食用物，每一種都有其「有效期」，即可以保存和食用的期限。食物可以保存和食用直到接受後當天的中午；果汁飲料，直到第二天黎明；五種補品，直到接受後第七天黎明；藥物可以終生保存和食用。
+
 (未完待續)
