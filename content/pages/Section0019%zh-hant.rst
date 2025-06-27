@@ -239,6 +239,18 @@
 
      - 在討論《四大教示》時，《義註》指出穀物是一種「大水果」，因此九種大型水果——棕櫚果、椰子、菠蘿蜜、麵包果、葫蘆、冬瓜、甜瓜、西瓜和南瓜——的任何一種果汁都與穀物汁液屬於同一類別：即歸類為副食而非果汁飲料。基於這個判斷，許多僧團推論，\ *任何*\ 大型水果的果汁，例如鳳梨或柚子，也應歸類為副食。然而，並非所有僧團都認同《義註》的這一觀點，因為果汁飲料的開緣明確規定，除穀物汁液外，所有水果的果汁均允許。
 
+   * - According to the Commentary, allowable leaf-juice drinks include juice squeezed from leaves that are considered food—such as lettuce, spinach, or beet greens—as well as from leaves that are classed as medicines. Health drinks such as wheat grass juice would thus be allowable. Leaf-juice may be mixed with cold water and/or warmed in the sunlight. The prohibition against consuming the juice from cooked vegetables in the afternoon covers all cooked leaves that are considered food, as well as any medicinal leaves cooked in liquids that are classed as food, such as milk. Medicinal leaves cooked in pure water retain their classification as lifetime medicines.
+
+     - 根據《義註》，允許的葉汁飲料包括從被視為食物的葉子（例如生菜、菠菜或甜菜葉）以及被歸類為藥物的葉子榨出的汁。因此，例如小麥草汁等健康飲品是允許的。葉汁可以用冷水混合和/或在陽光下加熱。禁止在下午飲用煮熟的蔬菜汁的規定涵蓋所有被視為食物的煮熟葉子，以及任何在被歸類為食物的液體（例如牛奶）中煮熟的藥用葉子。用純水煮熟的藥用葉子仍保留其終身藥物的分類。
+
+   * - The Commentary’s discussion of flower juice drinks allowable and unallowable for the afternoon shows that licorice flower juice was used to make alcohol, which is why the Canon doesn’t include it as allowable in this class. The Commentary extends this prohibition to cover any kind of flower juice prepared in such a way that it will become alcoholic. The Commentary goes on to say, though, that licorice flower juice and other flower juices *not* prepared so that they will become toddy are allowable in the morning.
+
+     - 《義註》討論了下午允許和不允許的花汁飲料，顯示甘草花汁曾被用來釀酒，因此《聖典》並未將其列入允許的此類飲品。《義註》將這項禁令擴展至涵蓋任何經過調製後會變成酒精的花汁。不過，《義註》繼續指出，甘草花汁和其他\ *未*\ 經調製成棕櫚酒的花汁在早上是允許的。
+
+   * - The Commentary notes further that if a bhikkhu himself makes any of the juice drinks, he may consume it only before noon. If the juice is made by a non-bhikkhu and formally offered before noon, one may “also” drink it with food before noon—the “also” here implying that the original allowance, that one may drink it without food after noon and before dawnrise, still holds. If the juice is made by a non-bhikkhu and formally offered after noon, one may drink it without food until the following dawnrise. The allowance for mango juice drink covers juice made either from ripe or from unripe mangoes. To make unripe mango juice, it recommends that the mango be cut or broken into small pieces, placed in water, heated in sunlight, and then strained, adding honey, sugar, and/or camphor as desired. Juice made from *Bassia pierrei* must be diluted with water, as the undiluted juice of this fruit is too thick.
+
+     - 《義註》進一步指出，如果比丘自己做任何果汁飲料，他只能在中午前飲用。如果果汁是由非比丘製作並在中午之前正式地供養，則比丘「也」可以在中午之前與食物一起飲用——這裡的「也」意味著原來的開緣仍然有效，即可以在中午之後和黎明之前不帶食物地飲用。如果果汁是由非比丘製作並在中午之後正式地供養，則比丘可以在第二天黎明之前不帶食物地飲用。芒果汁飲料的允許範圍涵蓋成熟或未成熟芒果製成的果汁。要製作未成熟芒果汁，建議將芒果切成或掰成小塊，放入水中，在陽光下加熱，然後過濾，並根據需要添加蜂蜜、糖和/或樟腦。用\ *芒果椴樹（Bassia pierrei）*\ 製成的果汁必須用水稀釋，因為這種水果的未稀釋果汁太濃稠。
+
 .. _Mv.VI.35.6: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.35.6
 .. _《大品》.六.35.6: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0323a01
 
