@@ -302,4 +302,19 @@
 
      - 食物、果汁飲料、五種補品和藥物這四大類基本可食用物，每一種都有其「有效期」，即可以保存和食用的期限。食物可以保存和食用直到接受後當天的中午；果汁飲料，直到第二天黎明；五種補品，直到接受後第七天黎明；藥物可以終生保存和食用。
 
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_24"></span>
+
+       **Mixed foods**
+
+     - **混合食物**
+
+   * - Edibles made from mixed ingredients that have different life spans—e.g., salted beef, honeyed cough syrup, sugared orange juice—have the same life span as the ingredient with the shortest life span. Thus salted beef is treated as beef, honeyed cough syrup as honey, and sugared orange juice as orange juice (`Mv.VI.40.3`_). According to the Commentary, *mixing* here means thorough intermingling. Thus, it says, if fruit juice has a whole, unhusked coconut floating in it, the coconut may be removed, and the juice is all right to drink until the following dawnrise. If butter is placed on top of rice porridge, the part of the butter that hasn’t melted into the rice may be kept and eaten for seven days. If items with different life spans are all presented at the same time, they maintain their separate life spans as long as they don’t interpenetrate one another. Not all Communities, however, follow the Commentary on this point.
+
+     - 由混合不同有效期限的食物成份製成的可食用物 —— 例如鹹牛肉、蜂蜜止咳糖漿、加糖柳橙汁 —— 具有與有效期最短的食物成份相同的有效期。因此，鹹牛肉被視為牛肉，蜂蜜止咳糖漿被視為蜂蜜，加糖柳橙汁被視為柳橙汁（\ `《大品》.六.40.3`_\ ）。根據《義註》，這裡的\ *混合*\ 意味著徹底混合。因此，它說，如果果汁中漂浮著一個完整的未去殼的椰子，則可以將椰子取出，果汁可以喝到第二天黎明。如果將奶油放在米粥上，那麼沒有融入米飯的部分的奶油可以保存和食用七天。如果同時存在具有不同有效期的物品，只要它們不相互滲透，它們就會保持各自的有效期。然而，並非所有僧團都在這一點上遵循《義註》。
+
+.. _Mv.VI.40.3: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.40.3
+.. _《大品》.六.40.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0329a02
+
 (未完待續)

@@ -400,7 +400,7 @@
      - `\　　　存放及食用 <{filename}Section0019%zh-hant.rst#sigil_toc_id_23>`__
 
    * - `\　　　Mixed foods <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#sigil_toc_id_24>`__
-     - 　　　混合食物
+     - `\　　　混合食物 <{filename}Section0019%zh-hant.rst#sigil_toc_id_24>`__
 
    * - `\　　　31 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc31>`__
      - 　　　三十一
