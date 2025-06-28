@@ -314,7 +314,29 @@
 
      - 由混合不同有效期限的食物成份製成的可食用物 —— 例如鹹牛肉、蜂蜜止咳糖漿、加糖柳橙汁 —— 具有與有效期最短的食物成份相同的有效期。因此，鹹牛肉被視為牛肉，蜂蜜止咳糖漿被視為蜂蜜，加糖柳橙汁被視為柳橙汁（\ `《大品》.六.40.3`_\ ）。根據《義註》，這裡的\ *混合*\ 意味著徹底混合。因此，它說，如果果汁中漂浮著一個完整的未去殼的椰子，則可以將椰子取出，果汁可以喝到第二天黎明。如果將奶油放在米粥上，那麼沒有融入米飯的部分的奶油可以保存和食用七天。如果同時存在具有不同有效期的物品，只要它們不相互滲透，它們就會保持各自的有效期。然而，並非所有僧團都在這一點上遵循《義註》。
 
+   * - `Mv.VI.40.3`_, the passage underlying these rulings, can be translated as follows (replacing the formal terms for categories of food with the primary examples of each category):
+
+     - `《大品》.六.40.3`_\ ，這些裁決所依據的段落，可以翻譯如下（用每個類別的主要例子替換食品類別的正式術語）：
+
+   * - .. container:: mx-2
+
+          “Juice-mixed-with-food, when received that day, is allowable during the right time and not allowable at the wrong time. A tonic-mixed-with-food, when received that day, is allowable during the right time and not allowable at the wrong time. Medicine-mixed-with-food, when received that day, is allowable during the right time and not allowable at the wrong time. A tonic-mixed-with-juice, when received that day, is allowable through the watches of the night and not allowable when the watches of the night have past. Medicine-mixed-with-juice, when received that day, is allowable through the watches of the night and not allowable when the watches of the night have past. Medicine-mixed-with-a-tonic, when received, is allowable for seven days and not allowable when seven days have past.”
+
+     - .. container:: mx-2
+
+          當天接受的果汁混合食物在正時允許，非時則不允許。當天接受的補品混合食物在正時允許，非時則不允許。當天接受的藥物混合食物在正時允許，非時則不允許。當天接受的補品混合果汁在夜間是允許的，過了夜間則不允許。當天接受的藥物混合果汁在夜間是允許的，過了夜間則不允許。接受的藥物混合補品在七天內是允許的，過了七天則不允許。
+
+   * - Translated in this way, the passage covers foods that are already mixed when presented to a bhikkhu. One of the general issues that led to the convening of the Second Council, however, concerned how to treat cases where foods received separately are then mixed by a bhikkhu. The specific issue presented to the Council was that of bhikkhus who kept a horn filled with salt so that they could add salt to bland foods. The Council’s verdict was that in doing so, the bhikkhus incurred a pācittiya under `Pc 38`_. The Vibhaṅga to that rule, however, gives a dukkaṭa for using, as food, life-long medicine that has been stored overnight, and salt is a life-long medicine. Thus the elders at the Council seem to have reasoned that if the salt has been mixed in with food, the mixture as a whole counts as food accepted when the first ingredient (the salt) was accepted: thus the pācittiya, rather than the dukkaṭa, under `Pc 38`_. This principle is nowhere expressly stated in the texts, but is in some places taught as an oral tradition.
+
+     - 如此翻譯，這段文字涵蓋了呈獻給比丘時已被混合的食物。然而，促成\ `第二次結集`_\ 的整體議題之一，是關於如何處理食物被分別地接受後再由比丘進行混合的情況。提交給結集的具體議題是，比丘持有裝滿鹽的角，以便將鹽添加到清淡的食物中。結集的裁決是，根據\ `《波逸提》三八`_\ ，比丘這樣做犯《波逸提》。然而，該戒條的《經分別》規定，使用儲存過夜且作為食物的終身藥物犯《突吉羅》，而鹽正是終身藥物。因此，結集的長老們似乎推斷，如果鹽已被混入食物中，則當第一種成份（鹽）被接受時，整個混合物算作已被接受的食物：因此，根據\ `《波逸提》三八`_\ ，這是《波逸提》，而不是《突吉羅》。這項原則在經文中沒有明確說明，但在某些地方作為口頭傳統進行教授。
+
+   * - The Commentary, in treating the issue of foods mixed by a bhikkhu, translates `Mv.VI.40.3`_ as follows:
+     - 在處理比丘混合食物的問題時，《義註》將\ `《大品》.六.40.3`_ 翻譯如下：
+
 .. _Mv.VI.40.3: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.40.3
 .. _《大品》.六.40.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0329a02
+.. _Pc 38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
+.. _《波逸提》三八: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
+.. TODO FIXME: replace link to 《波逸提》三八
 
 (未完待續)
