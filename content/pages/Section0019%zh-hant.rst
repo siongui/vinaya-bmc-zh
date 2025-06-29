@@ -357,4 +357,25 @@
    \*    \*    \*
 
 
+.. _Pc31:
+
+.. raw:: html
+
+   <span id="Pc31"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **31**
+     - **三十一**
+
+   * - .. container:: notification
+
+          *A bhikkhu who is not ill may eat one meal at a public alms center. Should he eat more than that, it is to be confessed.*
+
+     - .. container:: notification
+
+          *無病的比丘可以在公共施捨中心吃一餐。若食用超過此者，波逸提。*
+
 (未完待續)

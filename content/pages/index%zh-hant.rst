@@ -403,7 +403,7 @@
      - `\　　　混合食物 <{filename}Section0019%zh-hant.rst#sigil_toc_id_24>`__
 
    * - `\　　　31 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc31>`__
-     - 　　　三十一
+     - `\　　　三十一 <{filename}Section0019%zh-hant.rst#Pc31>`__
 
    * - `\　　　32 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32>`__
      - 　　　三十二
