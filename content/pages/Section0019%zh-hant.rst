@@ -394,4 +394,22 @@
 
           「於是他們就一直待在那裡，吃著公共施捨處的食物。外道紛紛逃離該地。人們批評抱怨，四處散播：『這些沙門釋子怎麼能一直待在那裡，吃著公共施捨處的食物？公共施捨處的食物不是只為他們準備的，而是為所有人準備的。』」
 
+   * - A *public alms center* is a place—in a building, under the shade of a tree, or in the open air—where all comers are offered as much food as they want, free of charge. Soup kitchens and shelters for the homeless, if run in this way, would fit under this rule. A *meal* is defined as one that includes any of the five staple foods. *Not ill* in this rule is defined as being able to leave the alms center.
+
+     - *公共施捨處*\ 是一個地方——在建築物內、樹蔭下或露天——所有來者都可以免費獲得任意數量的食物。施粥所和無家可歸者收容所如果以這種方式運營，也符合此戒條。一\ *餐*\ 的定義是包含五種主食中的任何一種。本戒條中「\ *無病*\ 」的定義是能離開施捨處。
+
+   * - The origin story seems to indicate that this rule is directed against staying on and eating day after day in the alms center. The Commentary, though, maintains that it forbids eating in the center two days running, without making any mention of whether the bhikkhu stays on at the center or not. To eat one day in a center belonging to one family (or group) and the next day in a center belonging to another group, it says, entails no penalty. However, if—after one’s first meal there—a center has to close down for a period of time for lack of food and then later reopens, one should not eat there the first day of its reopening.
+
+     - 起源故事似乎表明，這條戒條是針對天天待在施捨處並進食的行為。然而，《義註》卻堅持禁止比丘連續兩天在施捨處進食，但並未提及比丘是否連續待在托缽中心。《義註》說，一天在一個家族（或團體）的施捨處進食，第二天又在另一個團體的施捨處進食，則不會受到懲罰。然而，如果在施捨處進食後，由於食物短缺而不得不關閉一段時間，之後又重新開放，則不應在重新開放的第一天在那裡進食。
+
+   * - According to the Vibhaṅga, a bhikkhu incurs a dukkaṭa for accepting, with the intention of eating it, any food that falls under the conditions specified by this rule, and a pācittiya for every mouthful he eats.
+
+     - 根據《經分別》，比丘若接受並意圖食用符合此戒條所指定條件的任何食物，犯《突吉羅》，而每吃一口犯一次《波逸提》。
+
+   * - Perception as to whether one is actually ill is not a mitigating factor here (see `Pc 4`_.)
+     - 對於是否真的生病的感知並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+.. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
+.. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
+
 (未完待續)
