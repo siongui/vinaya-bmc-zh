@@ -376,6 +376,22 @@
 
      - .. container:: notification
 
-          *無病的比丘可以在公共施捨中心吃一餐。若食用超過此者，波逸提。*
+          *無病的比丘可以在公共施捨處吃一餐。若食用超過此者，波逸提。*
+
+   * - .. container:: mx-2
+
+          “Now at that time a certain guild had prepared food at a public alms center not far from Sāvatthī. Some group-of-six bhikkhus, dressing early in the morning, taking their bowls and (outer) robes, entered Sāvatthī for alms but, after not getting any almsfood, went to the public alms center. The people there said, ‘At long last your reverences have come,’ and respectfully waited on them. Then on the second day… the third day, the group-of-six bhikkhus… entered Sāvatthī for alms but, after not getting any almsfood went to the public alms center and ate. The thought occurred to them, ‘What’s the use of our going back to the monastery? (§) Tomorrow we’ll have to come right back here.’
+
+     - .. container:: mx-2
+
+          「\ `爾時，某行會在離舍衛城不遠的公共施捨處準備食物。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0093a12>`__\ 六群比丘在清晨穿戴整齊，帶著缽和（外）衣，進入舍衛城托缽，但沒有得到任何食物，於是就去了公共施捨處。那裡的人說：『尊者們終於來了！』並恭敬地侍奉他們。然後第二天……第三天，六群比丘……進入舍衛城托缽，但沒有得到任何食物，於是就去了公共施捨處吃飯。他們心裡想：『我們回寺院還有什麼用呢？（§）明天我們還是必須回來這裡。』
+
+   * - .. container:: mx-2
+
+          “So staying on and on right there, they ate the food of the public alms center. The members of other religions fled the place. People criticized and complained and spread it about: ‘How can these Sakyan-son monks stay on and on, eating the food of the public alms center? The food at the public alms center isn’t prepared just for them; it’s prepared for absolutely everybody.’”
+
+     - .. container:: mx-2
+
+          「於是他們就一直待在那裡，吃著公共施捨處的食物。外道紛紛逃離該地。人們批評抱怨，四處散播：『這些沙門釋子怎麼能一直待在那裡，吃著公共施捨處的食物？公共施捨處的食物不是只為他們準備的，而是為所有人準備的。』」
 
 (未完待續)
