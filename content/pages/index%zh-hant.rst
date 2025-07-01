@@ -406,7 +406,7 @@
      - `\　　　三十一 <{filename}Section0019%zh-hant.rst#Pc31>`__
 
    * - `\　　　32 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32>`__
-     - 　　　三十二
+     - `\　　　三十二 <{filename}Section0019%zh-hant.rst#Pc32>`__
 
    * - `\　　　33 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33>`__
      - 　　　三十三

@@ -471,4 +471,36 @@
    \*    \*    \*
 
 
+.. _Pc32:
+
+.. raw:: html
+
+   <span id="Pc32"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **32**
+     - **三十二**
+
+   * - .. container:: notification
+
+          *A group meal, except at the proper occasions, is to be confessed. Here the proper occasions are these: a time of illness, a time of giving cloth, a time of making robes, a time of going on a journey, a time of embarking on a boat, a great occasion, a time when the meal is supplied by monks. These are the proper occasions here.*
+
+     - .. container:: notification
+
+          *除非在適當的場合，結眾食者，波逸提。此處適當的場合包括：生病時、施衣時、做袈裟時、旅行時、乘船時、盛大場合、沙門提供的餐食時。以上是此處的適當場合。*
+
+   * - This is a rule dating from Devadatta’s efforts to create a schism in the Saṅgha.
+     - 這是提婆達多試圖分裂僧團時所製定的一條戒條。
+
+   * - .. container:: mx-2
+
+          “Now at that time Devadatta, his gain and offerings diminished, ate his meals with his following having asked and asked for them among households. (Here the Commentary elaborates: ‘Thinking, “Don’t let my group fall apart,” he provided for his following by eating his meals among households together with his following, having asked for them thus: “You give food to one bhikkhu. You give food to two.”’) People criticized and complained and spread it about: ‘How can these Sakyan-son monks eat their meals having asked and asked for them among households? Who isn’t fond of well-prepared things? Who doesn’t like sweet things?’”
+
+     - .. container:: mx-2
+
+          「\ `爾時，提婆達多的利養減少 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0096a03>`_\ ，他與他的追隨者一起吃飯，在各家各戶間反覆詢問。。（此處《義註》詳細說明：『心想：「不要讓我的團體解散。」他透過與追隨者一起在各家各戶間用餐來滿足追隨者的需求，並如此要求他們：「你給一位比丘食物。你給兩位比丘食物。」』）人們紛紛批評、抱怨，並四處散播：「這些沙門釋子怎麼能在各家各戶間反覆詢問並用餐呢？誰不喜歡精心烹製物？誰不喜歡甜物？』」
+
 (未完待續)

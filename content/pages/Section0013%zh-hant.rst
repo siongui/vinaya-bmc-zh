@@ -415,8 +415,7 @@
 .. _Pc 32: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
 .. _33: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
 .. _46: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
-.. _《波逸提》三二: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
-.. TODO FIXME: replace link to 《波逸提》三二
+.. _《波逸提》三二: {filename}Section0019%zh-hant.rst#Pc32
 .. _三三: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
 .. TODO FIXME: replace link to 三三
 .. _四六: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
