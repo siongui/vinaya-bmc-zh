@@ -458,4 +458,17 @@
 
      - 《經分別》也說：「除五種主食之外，任何食物皆不犯。」沒有任何文獻討論這一點，但這顯然指第一餐和下一餐。換句話說，如果比丘在第一餐中不食用任何主食，那麼在下一餐中接受並食用任何五種主食都不會受到懲罰。但如果他在第一餐中食用了任何主食，那麼在下一餐中，如果他想避免犯戒，他必須不要吃主食。
 
+   * - Also, there is no offense in taking a second meal when “coming or going,” which in the context of the origin story seems to mean that one may take a second meal if one simply leaves the center and then comes back. The Commentary, though, interprets this phrase as meaning “coming or going on a journey,” and even here it says a meal should not be taken from the center two days running unless there are dangers, such as floods or robbers, that prevent one from continuing on one’s way.
+
+     - 此外，「來或去」時吃第二餐也不犯戒。在起源故事的脈絡中，這似乎意味著只要離開施處再回來，就可以吃第二餐。然而，《義註》將這句話解釋為「來或去旅行」，甚至在這裡它說，除非遇到洪水或盜賊等危險，無法繼續前行，否則不應連續兩天在施處用餐。
+
+   * - *Summary: Eating food obtained from the same public alms center two days running—without leaving in the interim—unless one is too ill to leave the center, is a pācittiya offense.*
+     - *摘要：連續兩天吃從同一公共施捨處獲得的食物（中途不離開），是《波逸提》（《單墮》）罪，除非病得太重而無法離開施處。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
