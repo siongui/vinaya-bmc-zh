@@ -412,4 +412,50 @@
 .. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
 .. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - According to the Vibhaṅga, there is no offense in taking a meal on the second day—
+     - 根據《經分別》，第二天用餐並無犯戒——
+
+   * - .. container:: mx-2
+
+          if one is invited by the proprietors;
+
+     - .. container:: mx-2
+
+          如果受到所有人的邀請；
+
+   * - .. container:: mx-2
+
+          if one is ill;
+
+     - .. container:: mx-2
+
+          如果生病；
+
+   * - .. container:: mx-2
+
+          if the food is specifically intended for bhikkhus (§); or
+
+     - .. container:: mx-2
+
+          若食物是專供比丘食用的（§）；或
+
+   * - .. container:: mx-2
+
+          if the center determines the amount of food the recipients may take, rather than allowing them to take as much as they want (§). The reason for this allowance is that if the owners of the center were unhappy with having a bhikkhu eat there, they could give him very little or nothing at all.
+
+     - .. container:: mx-2
+
+          如果施處決定受助者可以取食的量，而不是讓他們想取多少就取多少（§）。此項開緣的原因是，如果施處的主人不樂意讓比丘在那裡吃飯，他們可以給他很少的食物，或者什麼都不給。
+
+   * - The Vibhaṅga also states that, “everything aside from the five staple foods is a non-offense.” None of the texts discuss this point, but this apparently refers both to the first and to the subsequent meal. In other words, if a bhikkhu consumed no staple foods at his first meal, then there would be no penalty in accepting and eating any of the five staple foods in the subsequent meal. But if he did consume any staple foods at his first meal, then at the subsequent meal he would have to refrain from eating staple foods if he wanted to avoid an offense.
+
+     - 《經分別》也說：「除五種主食之外，任何食物皆不犯。」沒有任何文獻討論這一點，但這顯然指第一餐和下一餐。換句話說，如果比丘在第一餐中不食用任何主食，那麼在下一餐中接受並食用任何五種主食都不會受到懲罰。但如果他在第一餐中食用了任何主食，那麼在下一餐中，如果他想避免犯戒，他必須不要吃主食。
+
 (未完待續)
