@@ -490,7 +490,7 @@
 
      - .. container:: notification
 
-          *除非在適當的場合，結眾食者，波逸提。此處適當的場合包括：生病時、施衣時、做袈裟時、旅行時、乘船時、盛大場合、沙門提供的餐食時。以上是此處的適當場合。*
+          *除非在適當的場合，結眾食\ :small:`古漢譯為「別眾食」`\ 者，波逸提。此處適當的場合包括：生病時、施衣時、做袈裟時、旅行時、乘船時、盛大場合、沙門提供的餐食時。以上是此處的適當場合。*
 
    * - This is a rule dating from Devadatta’s efforts to create a schism in the Saṅgha.
      - 這是提婆達多試圖分裂僧團時所製定的一條戒條。
@@ -502,5 +502,44 @@
      - .. container:: mx-2
 
           「\ `爾時，提婆達多的利養減少 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0096a03>`_\ ，他與他的追隨者一起吃飯，在各家各戶間反覆詢問。。（此處《義註》詳細說明：『心想：「不要讓我的團體解散。」他透過與追隨者一起在各家各戶間用餐來滿足追隨者的需求，並如此要求他們：「你給一位比丘食物。你給兩位比丘食物。」』）人們紛紛批評、抱怨，並四處散播：「這些沙門釋子怎麼能在各家各戶間反覆詢問並用餐呢？誰不喜歡精心烹製物？誰不喜歡甜物？』」
+
+   * - **Group meals**
+     - **結眾食**
+
+   * - The Vibhaṅga defines a *group meal* as one consisting of any of the five types of staple foods to which four or more bhikkhus are invited. Pv.VI.2 adds that this rule covers any group meal that the donor offers at his/her own initiative, as well as any that results from a bhikkhu’s requesting it.
+
+     - 《經分別》將\ *結眾食*\ 定義為四位或以上比丘被邀請享用任何五種主食。\ `《附隨》.六.2`_ 補充道，此戒條適用於布施者主動提供，以及應比丘請求而提供的結眾食。
+
+   * - In the early days of the Buddha’s career, donors who wished to invite bhikkhus to their homes for a meal would invite an entire Community. Later, as Communities grew in size and there were times of scarcity in which donors were unable to invite entire Communities (`Cv.VI.21.1`_), the Buddha allowed:
+
+     - 在佛陀早期的生涯中，布施者若想邀請比丘到家中用餐，通常會邀請整個僧團。後來，隨著僧團規模擴大，物資匱乏的時期，布施者有時無法邀請整個僧團（\ `《小品》.六.21.1`_\ ），佛陀允許：
+
+   * - .. container:: mx-2
+
+          *1) designated meals*, at which a certain number of bhikkhus were to be served. The donors would ask the Community official in charge of meal distribution—the meal designator *(bhattuddesaka)*\—to designate so-and-so many bhikkhus “from the Community” to receive their meals. Bhikkhus would be sent on a rotating basis to these meals as they occurred.
+
+     - .. container:: mx-2
+
+          *1）僧次請食*\，供養一定數量的比丘。布施者會要求僧團負責餐食分配的執事－餐食指定者\ *（bhattuddesaka）*\－「從僧團中」指定多少比丘來接受餐食。比丘們會輪流被派去接受這些餐食。
+
+   * - .. container:: mx-2
+
+          *2) invitational meals*, to which specific bhikkhus were invited;
+
+     - .. container:: mx-2
+
+          *2）別請食*\，邀請特定的比丘參加；
+
+   * - .. container:: mx-2
+
+          *3) lottery meals*, for which the bhikkhus receiving the meals were to be chosen by lot; and
+
+     - .. container:: mx-2
+
+          *3）行籌（抽籤）食*\，以行籌（抽籤）決定接受餐食的比丘；和
+
+.. _《附隨》.六.2: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0186a14
+.. _Cv.VI.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#Cv.VI.21.1
+.. _《小品》.六.21.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0237a09
 
 (未完待續)
