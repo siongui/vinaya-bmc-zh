@@ -490,7 +490,8 @@
 
      - .. container:: notification
 
-          *除非在適當的場合，結眾食\ :small:`古漢譯為「別眾食」`\ 者，波逸提。此處適當的場合包括：生病時、施衣時、做袈裟時、旅行時、乘船時、盛大場合、沙門提供的餐食時。以上是此處的適當場合。*
+          *除非在適當的場合，結眾食者，波逸提。此處適當的場合包括：生病時、施衣時、做袈裟時、旅行時、乘船時、盛大場合、沙門提供的餐食時。以上是此處的適當場合。*
+          :small:`[譯註：「結眾食」古漢譯為「別眾食」]`
 
    * - This is a rule dating from Devadatta’s efforts to create a schism in the Saṅgha.
      - 這是提婆達多試圖分裂僧團時所製定的一條戒條。
@@ -520,7 +521,7 @@
 
      - .. container:: mx-2
 
-          *1）僧次請食*\，供養一定數量的比丘。布施者會要求僧團負責餐食分配的執事－餐食指定者\ *（bhattuddesaka）*\－「從僧團中」指定多少比丘來接受餐食。比丘們會輪流被派去接受這些餐食。
+          *1）指定食*\ :small:`[譯註：古漢譯為「僧次請食」]`\ ，供養一定數量的比丘。布施者會要求僧團負責餐食分配的執事－餐食指定者\ *（bhattuddesaka）*\－「從僧團中」指定某某多少的比丘來接受餐食。當有這些餐食時，比丘們會輪流被派去接受這些餐食。
 
    * - .. container:: mx-2
 
@@ -528,7 +529,7 @@
 
      - .. container:: mx-2
 
-          *2）別請食*\，邀請特定的比丘參加；
+          *2）邀請食*\ :small:`[譯註：古漢譯為「別請食」]`\ ，邀請特定的比丘參加；
 
    * - .. container:: mx-2
 
@@ -536,10 +537,26 @@
 
      - .. container:: mx-2
 
-          *3）行籌（抽籤）食*\，以行籌（抽籤）決定接受餐食的比丘；和
+          *3）抽籤食*\ :small:`[譯註：古漢譯為「行籌食」]`\ ，以抽籤決定接受餐食的比丘；和
+
+   * - .. container:: mx-2
+
+          *4) periodic meals*, i.e., meals offered at regular intervals, such as every day or every uposatha day, to which bhikkhus were to be sent on a rotating basis, as with designated meals. The meal designator was to supervise the drawing of lots and keep track of the various rotating schedules. (The explanations of these various types of meal come partly from the Commentary. For a fuller explanation, see `Appendix III`_.)
+
+     - .. container:: mx-2
+
+          *4）週期食*\ :small:`[譯註：此部份古漢譯有「十五日食」、「布薩食」、「月初日食」]`\ ，即定期供養的餐食，例如每天或每個布薩日供養的餐食，比丘們會輪流受供，就像指定食一樣。餐食指定者負責監督抽籤，並追蹤各種輪流時間表。（關於這些不同類型餐食的解釋部分來自《義註》。更詳細的解釋，請參閱\ `附錄三`_\ 。）
+
+   * - The non-offense clauses to this rule state that in addition to the exceptions mentioned in the rule, which we will discuss below, this rule does not apply to lottery meals or periodic meals. The Commentary concludes from this—and on the surface it seems reasonable enough—that the rule thus applies to meals to which the entire Community is invited and to invitational meals. (Buddhaghosa reports that there was disagreement among Vinaya authorities as to whether it applies to designated meals—more on this point below.)
+
+     - 本戒條的不犯條款規定，除了戒條中提到的例外情況（我們將在下文討論）外，這條戒條不適用於抽籤食或週期食。《義註》由此得出結論——表面上看來似乎很有道理——這條戒條因此適用於邀請整個僧團參加的餐食以及邀請食。（\ `佛音`_\ 報告說，律藏的權威人士對於這條戒條是否適用於指定食存在分歧——下文將對此進行更詳細的闡述。）
 
 .. _《附隨》.六.2: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0186a14
 .. _Cv.VI.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#Cv.VI.21.1
 .. _《小品》.六.21.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0237a09
+.. _Appendix III: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII
+.. _附錄三: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII
+.. TODO FIXME: replace link to 附錄三
+.. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 
 (未完待續)
