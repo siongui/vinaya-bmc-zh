@@ -559,6 +559,29 @@
 
      - 然而，佛陀在\ `《小品》.七.3.13`_ 中列出了制定這條戒條的目的：「為了約束心懷惡意的人，為了品行端正比丘的樂住，為使心懷惡欲的人不至於透過（組成）派系而分裂僧團，也為了哀愍俗家。」
 
+   * - The Commentary’s definition of *group meal* accomplishes none of these purposes: The custom of phrasing invitations to avoid the word *meal* or *food* does nothing to restrain evil-minded individuals, etc., and it actually creates trouble for lay people who do not know the custom, a point well-illustrated by the Commentary itself in an entertaining section on how to deal with a person whose invitation contains the word *meal*. After getting the run-around from the meal designator—who apparently was not allowed to tell him in any straightforward way how to phrase his invitation and so gave him a long series of hints—the poor man returns to his friends and makes a cryptic statement that the A/Sub-commentary translates as: “There are a lot of words that have to be spoken in this business of making an invitation. What’s the use of them all?”
+
+     - 《義註》對\ *結眾食*\ 的定義完全沒有達到上述目的：邀請中避免使用「\ *餐*\ 」或「\ *食物*\ 」等字眼的習慣，無助於約束心懷不軌之人等等，反而給不懂此習俗的俗人帶來了麻煩。《義註》中有一節關於如何應對邀請中包含「\ *餐*\ 」一詞的妙趣橫生的論述，很好地說明了這一點。在被餐食指定者兜圈子之後——餐食指定者顯然不允許直接告訴他該如何措辭邀請，於是給了他一長串的提示——這位可憐的人回到朋友身邊，說了費解的陳述， A/《複註》中將之翻譯為：「在發出邀請這件事上，有很多話要說。說了這麼多有什麼用呢？」
+
+   * - Two other arguments against the Commentary’s interpretation are:
+     - 反對《義註》解釋的另外兩個論點是：
+
+   * - .. container:: mx-2
+
+          1\) The Vibhaṅga’s definition of *invited* in this rule is repeated word-for-word under `Pc 33`_ & 46_. If the factor of mentioning “food” or “meal,” etc., is necessary for there to be an offense under this rule, it would have to be necessary under those rules as well, a proposal that makes no sense in their context and that no one has ever suggested.
+
+     - .. container:: mx-2
+
+          1）本戒條中《經分別》對「\ *被邀請*\ 」的定義與\ `《波逸提》三三`_\ 和\ `四六`_\ 的定義完全一致。如果提及「食物」或「餐」等等的因素對於本戒條下的犯戒是必要的，那麼在那些戒條下，提及「食物」或「餐」等等的因素也是必要的，這種提議在那些戒條的上下文中是沒有意義的，而且從來沒有人提出過這種建議。
+
+   * - .. container:: mx-2
+
+          2\) In the origin stories of two of the reformulations of the rule, bhikkhus refuse invitations on the grounds that they would break the rule against a group meal, and yet the invitations make no mention of “food” or “meal.”
+
+     - .. container:: mx-2
+
+          2）在兩次重新制定戒條的起源故事中，比丘們以違反結眾食的戒條為由拒絕邀請，但邀請中並未提及「食物」或「餐」。
+
 .. _《附隨》.六.2: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0186a14
 .. _Cv.VI.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#Cv.VI.21.1
 .. _《小品》.六.21.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0237a09
@@ -567,5 +590,8 @@
 .. TODO FIXME: replace link to 附錄三
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _《小品》.七.3.13: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0268a04
+.. _46: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
+.. _四六: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
+.. TODO FIXME: replace link to 《波逸提》四六
 
 (未完待續)
