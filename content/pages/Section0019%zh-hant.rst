@@ -551,6 +551,14 @@
 
      - 本戒條的不犯條款規定，除了戒條中提到的例外情況（我們將在下文討論）外，這條戒條不適用於抽籤食或週期食。《義註》由此得出結論——表面上看來似乎很有道理——這條戒條因此適用於邀請整個僧團參加的餐食以及邀請食。（\ `佛音`_\ 報告說，律藏的權威人士對於這條戒條是否適用於指定食存在分歧——下文將對此進行更詳細的闡述。）
 
+   * - The Commentary’s conclusion, though, creates a problem when lay people want to invite Communities of more than three bhikkhus to their homes for a meal. Perhaps this problem is what induced the Commentary to interpret the Vibhaṅga’s definition of a *group meal* as meaning one in which the invitations specifically mention the word *meal* or *food*, or the type of meal or food to be served. (“Come to my house for breakfast tomorrow.” “I know you don’t often get a chance to eat Indian food, so I’m inviting you all over for chappatties and curry.”) This interpretation has led to the custom of phrasing invitations to eat “in the morning” or to eat “before noon,” so that groups of four or more bhikkhus may be invited without breaking this rule.
+
+     - 然而，《義註》的結論卻帶來了一個問題：當在家眾想邀請超過三位比丘的僧團到家中用餐時，就會出現問題。或許正是這個問題促使《義註》將《經分別》對「\ *結眾食*\ 」的定義解讀為，邀請中明確提到「\ *餐*\ 」或「\ *食物*\ 」一詞，或具體提供餐食或食物種類。（「明天來我家吃早餐。」「我知道你們不常有機會吃印度菜，所以我邀請你們全部來吃印度薄餅和咖哩。」）這種解讀導致了邀請措辭中出現「早上」吃或「中午之前」吃的習慣，這樣，邀請四位或四位以上的比丘團體也不會違反這條戒條。
+
+   * - The Buddha’s purposes for establishing this rule, though, are listed at Cv.VII.3.13 as follows: “For the restraint of evil-minded individuals, for the comfort of well-behaved bhikkhus, so that those with evil desires will not split the Community by (forming) a faction, and out of compassion for families.”
+
+     - 然而，佛陀在\ `《小品》.七.3.13`_ 中列出了制定這條戒條的目的：「為了約束心懷惡意的人，為了品行端正比丘的樂住，為使心懷惡欲的人不至於透過（組成）派系而分裂僧團，也為了哀愍俗家。」
+
 .. _《附隨》.六.2: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0186a14
 .. _Cv.VI.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#Cv.VI.21.1
 .. _《小品》.六.21.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0237a09
@@ -558,5 +566,6 @@
 .. _附錄三: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII
 .. TODO FIXME: replace link to 附錄三
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
+.. _《小品》.七.3.13: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0268a04
 
 (未完待續)
