@@ -621,4 +621,23 @@
 
      - *我們剩下的戒條只適用於對四名或四名以上比丘的特定群體（而非僧團）的邀請，無論邀請中是否提到「食物」或「餐」一詞。*
 
+   * - The rule in this form has the virtue of fulfilling the express purposes mentioned for it in Cv.VII.3.13: It would prevent evil-minded bhikkhus and lay people from trying to exert influence over specific groups in the Community by arranging meals especially for them; and in the same way, it would prevent people with evil desires from creating a split in the Community. (Because the smallest faction that can create a split in the Community is four bhikkhus, the maximum number allowed at a group meal is three.)
+
+     - 這種形式的戒條，其優點在於能夠實現\ `《小品》.七.3.13`_ 中明確提及的目的：它可以防止心懷惡欲的比丘和在家眾，試圖透過專門為僧團中的特定群體安排餐食來對他們施加影響；同樣，它也可以防止心懷惡欲的人在僧團中製造分裂。（由於能夠造成僧團分裂的最小派系是四位比丘，因此結眾食允許的最大人數是三人。）
+
+   * - The rule in this form would also contribute to the comfort of well-behaved bhikkhus in that invitations to meals would not be preempted by factions; and it would protect lay families from being prey to the maneuverings of bhikkhus who would pressure them repeatedly into providing meals as part of their strategy to create and maintain such factions. (Anyone who has lived in a traditional Buddhist country knows only too well the influence of sweet-talking bhikkhus over unsuspecting or low-minded lay people. This sort of thing neither started nor ended with Devadatta.)
+
+     - 這種形式的戒條也能讓品行端正的比丘們感到樂住，因為用餐邀請不會被派系搶先；它還能保護在家人免受比丘們的計謀的侵害。比丘們會反覆施壓，要求他們提供餐食，以此作為製造和維持派系的策略之一。（任何在傳統佛教國家生活過的人都深知甜言蜜語的比丘們對毫無戒心或心境低下的在家人的影響。提婆達多既不是這種事的開端，也不是終結。）
+
+   * - Because Community meals and designated meals would not form an opening for such machinations, there would be no reason to limit them to groups of three if lay people want to invite groups larger than that. One objection to exempting Community meals from this rule is that a meal for the entire Community would be more burdensome than a meal for a smaller group, but that is what designated meals are for. A donor willing and able to provide a meal for an entire Community is welcome but not required to do so. A donor willing but not able may simply ask to provide a meal for x-number of bhikkhus from the Community, leaving it up to the meal designator to designate which bhikkhus will go for the meal, with no danger of creating a faction.
+
+     - 因為僧團食和指定食不會為此類陰謀提供機會，所以如果在家眾想邀請比三人更多的團體，沒有理由將其限制在三人以內。有人反對將僧團食排除在這條戒條之外，因為為整個僧團提供一餐比為一小群人提供一餐更有負擔，但指定食就是為了滿足這一需求。願意且有能力為整個僧團供餐的布施者歡迎但不強制要求這樣做。願意但無力提供的布施者可以直接要求為僧團中的x位比丘供餐，由餐食指定者指定哪些比丘來享用這餐，這樣就不會有分裂的危險。
+
+   * - *Thus the point at issue is not whether the invitation makes mention of food or meals, but whether it specifies the individual bhikkhus to be invited.* If it specifies more than three individual bhikkhus—either naming them outright or saying such things as “Ven. X and four of his friends,” or “The five of you,” etc.—the meal would count as a group meal.
+
+     - *因此，問題的關鍵不在於邀請中是否提及食物或餐，而在於是否指定受邀的比丘。*\ 如果邀請指定三位以上的比丘——無論是直接點名，還是諸如「X尊者和他的四位朋友」或「你們五位」之類的說法——那麼這餐就算是結眾食。
+
+   * - Perception as to whether food actually constitutes a group meal is not a mitigating factor (see `Pc 4`_).
+     - 對於食物是否真正構成結眾食的感知並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
 (未完待續)
