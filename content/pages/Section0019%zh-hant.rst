@@ -640,4 +640,25 @@
    * - Perception as to whether food actually constitutes a group meal is not a mitigating factor (see `Pc 4`_).
      - 對於食物是否真正構成結眾食的感知並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
 
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga states that, aside from the allowable times, there is a dukkaṭa for accepting—with the thought of eating it—food that would qualify as a group meal, and a pācittiya for every mouthful eaten. Whether the bhikkhus accepting the food actually eat together is not an issue. If they receive their food at the same invitation to a group meal but then split up and eat it separately, they still incur the full penalty.
+
+     - 《經分別》指出，除了允許的時間外，接受符合結眾食條件的食物（並想著要吃它）犯《突吉羅》，而每吃一口都犯一次《波逸提》。接受食物的比丘們是否真的一起用餐並不重要。如果他們在同一個結眾食的邀請中接受食物，但隨後分開用餐，仍然會受到全額懲罰。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The Vibhaṅga defines the *proper occasions* mentioned in the rule—during which bhikkhus may eat a group meal without committing an offense—as follows:
+     - 《經分別》對戒條中提到的\ *適當場合*\ （比丘們可以在這些場合吃結眾食而不會犯戒）定義如下：
+
+   * - .. container:: mx-2
+
+          *A time of giving cloth* is the “robe season.”
+
+     - .. container:: mx-2
+
+          *施衣的時候*\ 是「袈裟季節」。
+
 (未完待續)
