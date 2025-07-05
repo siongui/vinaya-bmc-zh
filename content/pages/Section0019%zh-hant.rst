@@ -545,7 +545,11 @@
 
      - .. container:: mx-2
 
-          *4）週期食*\ :small:`[譯註：此部份古漢譯有「十五日食」、「布薩食」、「月初日食」]`\ ，即定期供養的餐食，例如每天或每個布薩日供養的餐食，比丘們會輪流受供，就像指定食一樣。餐食指定者負責監督抽籤，並追蹤各種輪流時間表。（關於這些不同類型餐食的解釋部分來自《義註》。更詳細的解釋，請參閱\ `附錄三`_\ 。）
+          *4）週期食*\ :small:`[譯註：古漢譯為「常請食」]`\ ，即定期供養的餐食，例如每天或每個布薩日供養的餐食，比丘們會輪流受供，就像指定食一樣。餐食指定者負責監督抽籤，並追蹤各種輪流時間表。（關於這些不同類型餐食的解釋部分來自《義註》。更詳細的解釋，請參閱\ `附錄三`_\ 。）
+
+          .. 常請 https://www.gaya.org.tw/magazine/v1/2005/48/vinaya3.htm
+          .. https://dict.revised.moe.edu.tw/dictView.jsp?ID=8475&word=%3D%E5%B8%B8
+          .. 「十五日食」、「布薩食」、「月初日食」
 
    * - The non-offense clauses to this rule state that in addition to the exceptions mentioned in the rule, which we will discuss below, this rule does not apply to lottery meals or periodic meals. The Commentary concludes from this—and on the surface it seems reasonable enough—that the rule thus applies to meals to which the entire Community is invited and to invitational meals. (Buddhaghosa reports that there was disagreement among Vinaya authorities as to whether it applies to designated meals—more on this point below.)
 
@@ -659,6 +663,46 @@
 
      - .. container:: mx-2
 
-          *施衣的時候*\ 是「袈裟季節」。
+          *施衣時*\ 是「袈裟季節」。
+
+   * - .. container:: mx-2
+
+          *A time of making robes* is any time the bhikkhus are making robes.
+
+     - .. container:: mx-2
+
+          *製作袈裟時*\ 是指比丘們製作袈裟的任何時候。
+
+   * - .. container:: mx-2
+
+          *A time of journeying* is any time the bhikkhus are about to go, are going, or have just returned from a journey of at least half a yojana (about five miles, or eight kilometers).
+
+     - .. container:: mx-2
+
+          *旅行時*\ 是指比丘們即將出發、正在出發或剛結束至少半由旬（約五英里或八公里）的旅程歸來的任何時候。
+
+   * - .. container:: mx-2
+
+          *A time of embarking on a boat* is any time the bhikkhus are about to embark, are embarking, or are disembarking from a boat. No minimum distance for the boat journey is specified.
+
+     - .. container:: mx-2
+
+          *乘船時*\ 是指比丘們即將登船、正在登船或下船的任何時候。船程的最短距離沒有規定。
+
+   * - .. container:: mx-2
+
+          *A time of illness* is, in its minimal terms, a time when the bhikkhus’ feet are split (and they cannot go for alms).
+
+     - .. container:: mx-2
+
+          *生病時*\ ，簡單來說，就是比丘的腳裂開（無法去托缽）的時候。
+
+   * - .. container:: mx-2
+
+          *A great occasion* is one in which there are so many bhikkhus in proportion to the donors giving alms that three bhikkhus going for alms can obtain enough food to support themselves, but not enough to support a fourth.
+
+     - .. container:: mx-2
+
+          *盛大場合*\ 是指，與施捨布施者數量相當的比丘數量，以致三名去托缽的比丘可以獲得足夠的食物來養活自己，但不足以養活第四名比丘。
 
 (未完待續)
