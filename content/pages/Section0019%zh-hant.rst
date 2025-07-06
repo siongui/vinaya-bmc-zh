@@ -705,4 +705,60 @@
 
           *盛大場合*\ 是指，與施捨布施者數量相當的比丘數量，以致三名去托缽的比丘可以獲得足夠的食物來養活自己，但不足以養活第四名比丘。
 
+   * - .. container:: mx-2
+
+          *A meal supplied by monks* is one provided by a person who has taken on the state of religious wanderer. This the Commentary explains as meaning not only those ordained in other religions, but also one’s own co-religionists (bhikkhus, bhikkhunīs, and novices) as well; the Vibhaṅga’s definition of “one who has taken on the state of religious wanderer” under `Pc 41`_ suggests that the Commentary is correct. This exemption, as its origin story makes clear, was formulated to promote good relations between bhikkhus and members of other religions, but it also means that a bhikkhu, from his own resources, can provide food for a group of his friends without incurring an offense. Although this exemption could thus open the door for wealthy bhikkhus to attract factions, as long as they are not getting their funds from lay donors, they would be placing no burden on the laity, which seems to be the most important of the purposes for this rule.
+
+     - .. container:: mx-2
+
+          *沙門提供的餐食*\ 是指處於宗教流浪者狀態的人所提供餐食。《義註》解釋說，這不僅指在其他宗教中出家的人，也指自己的同教信徒（比丘、比丘尼和沙彌）；\ `《波逸提》四一`_\ 中《經分別》對「處於宗教流浪者狀態的人」的定義表明，《義註》是正確的。這項豁免，正如其起源故事所清楚表明的那樣，是為了促進比丘與其他宗教信徒之間的良好關係而制定的，但它也意味著比丘可以用自己的資源為一群朋友提供食物而不會犯戒。雖然這項豁免可能會為富有的比丘吸引派系打開方便之門，但只要他們的資金不來自在家施主，他們就不會給在家眾帶來負擔，這似乎是這條戒條最重要的目的。
+
+   * - Aside from the proper occasions, there is no offense—
+     - 除適當場合外，以下也不犯戒——
+
+   * - .. container:: mx-2
+
+          if groups of three or less eat a meal to which they have been specifically invited;
+
+     - .. container:: mx-2
+
+          如果三人或三人以下的團體吃了一頓具體指名邀請的餐食；
+
+   * - .. container:: mx-2
+
+          if the meal to which a group of four or more is invited does not include any of the five staple foods; or
+
+     - .. container:: mx-2
+
+          如果邀請四人或四人以上的團體的餐食不包括五種主食中的任何一種；或者
+
+   * - .. container:: mx-2
+
+          if bhikkhus, having walked separately for alms, eat assembled as a group.
+
+     - .. container:: mx-2
+
+          如果比丘們分別托缽後，聚集在一起吃飯。
+
+   * - No mention is made of whether bhikkhus can go for alms in groups of four or more, as is the custom at present in the rural areas of many Buddhist countries. From the various stories of bhikkhus and bhikkhunīs on alms round that appear in the Canon, it seems that the custom was for them to go individually. `Pc 42`_ mentions bhikkhus going for alms as a pair, but the Vibhaṅga notes that they might receive less food that way than when going individually. Apparently, going as a group would not have made much sense in their cultural context.
+
+     - 書中沒有提及比丘是否可以像許多佛教國家的鄉村地區一樣，以四人或四人以上的團體形式托缽。從《聖典》中出現的比丘和比丘尼托缽的各種故事來看，當時的習俗似乎是他們單獨前往。\ `《波逸提》四二`_\ 提到比丘們成對地托缽，但《經分別》指出，這樣他們得到的食物可能比單獨前往要少。顯然，在他們的文化背景下，集體托缽不太合理。
+
+   * - As mentioned above, the Vibhaṅga also states that there is no offense for groups of any number eating periodic meals or lottery meals; and as we have already stated, our interpretation would explicitly extend this exemption to cover Community and designated meals as well.
+
+     - 如上所述，《經分別》還規定，任何人數的團體吃週期食或抽籤食均不構成犯戒；並且正如我們已經指出的，我們的解釋將明確擴展此豁免，以涵蓋僧團食和指定食。
+
+   * - *Summary: Eating a meal to which four or more individual bhikkhus have been specifically invited—except on special occasions—is a pācittiya offense.*
+     - *摘要：除特殊場合外，享用有四位或四位以上比丘具體指名邀請的餐食，是《波逸提》（《單墮》）罪。*
+
+.. _Pc 42: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc42
+.. _《波逸提》四二: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc42
+.. TODO FIXME: replace link to 《波逸提》四二
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
