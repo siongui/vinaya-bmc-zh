@@ -1322,13 +1322,13 @@
      - 　　　戒條
 
    * - `\　　Rains-residence <https://www.dhammatalks.org/vinaya/bmc/Section0050.html>`__
-     - 　　雨安居
+     - `\　　雨安居 <{filename}Section0050%zh-hant.rst>`__
 
    * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_136>`__
-     - 　　　討論
+     - `\　　　討論 <{filename}Section0050%zh-hant.rst#sigil_toc_id_136>`__
 
    * - `\　　　　Periods of residence <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_137>`__
-     - 　　　　安居時段
+     - `\　　　　安居時段 <{filename}Section0050%zh-hant.rst#sigil_toc_id_137>`__
 
    * - `\　　　　Entering for the Rains <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_138>`__
      - 　　　　入雨安居
