@@ -1331,7 +1331,7 @@
      - `\　　　　安居時段 <{filename}Section0050%zh-hant.rst#sigil_toc_id_137>`__
 
    * - `\　　　　Entering for the Rains <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_138>`__
-     - 　　　　入雨安居
+     - `\　　　　入雨安居 <{filename}Section0050%zh-hant.rst#sigil_toc_id_138>`__
 
    * - `\　　　　Breaking one’s promise <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_139>`__
      - 　　　　違背諾言(破安居)

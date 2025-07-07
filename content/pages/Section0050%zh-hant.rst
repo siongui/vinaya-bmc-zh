@@ -57,4 +57,20 @@
 .. _第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
 .. TODO FIXME: replace link to 第七章
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_138"></span>
+
+       **Entering for the Rains**
+
+     - **入雨安居**
+
+   * - The first day of the Rains-residence is when lodgings in a monastery are assigned for the duration of the Rains, so the Commentary recommends that a bhikkhu planning to spend the Rains in another monastery should start heading there a month before the start of the Rains so as not to inconvenience the assigner of lodgings and other bhikkhus there. As for bhikkhus planning to stay on in the monastery where they are already residing, they should spend the month before the beginning of the Rains preparing any worn-down buildings so that those who come for the Rains will study and/or practice meditation in comfort. The assigner of lodgings should assign lodgings for the Rains at dawn of the day the Rains begins. If other bhikkhus come later in the day and there are no extra spaces for them, they should be told that the lodgings have been assigned and that they should go to other lodgings, such as the foot of a tree. (What this means, apparently, is that they should enter the second Rains somewhere else, as the Canon contains a rule against entering the Rains in anything less than a proper dwelling. See below.)
+
+     - 雨安居的第一天是寺院分配雨安居住所的日子，因此《義註》建議，計劃在其他寺院度過雨安居的比丘應在雨安居開始前一個月前往該寺院，以免給分配住所的人和寺院的其他比丘帶來不便。至於計劃繼續留在現居寺院的比丘，他們應在雨安居開始前一個月整修任何破舊的建築，以便前來雨安居的人能夠舒適地學習和/或修行。分配住所的人應在雨安居開始當天黎明分配雨安居住所。如果其他比丘當天晚些時候到來，並且沒有多餘的空間，應告知他們住所已分配完畢，他們應前往其他住所，例如樹下。（顯然，這意味著他們應該在其他地方入後雨安居，因為《聖典》裡戒條規定，不得在非合適住所入雨安居。見下文。）
+
 (未完待續)
