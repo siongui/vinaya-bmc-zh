@@ -1904,7 +1904,7 @@
      - 4）通達佛法。
 
    * - 5\) One knows both Pāṭimokkhas (the one for the bhikkhus and the one for the bhikkhunīs) in detail.
-     - 5）詳細了解兩部波羅提木叉（比丘和比丘尼）。
+     - 5）詳細了解兩部《波羅提木叉》（比丘和比丘尼）。
 
    * - Furthermore, one determines that:
      - 此外，還確定：
