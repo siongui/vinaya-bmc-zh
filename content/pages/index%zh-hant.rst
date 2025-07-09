@@ -1334,7 +1334,7 @@
      - `\　　　　入雨安居 <{filename}Section0050%zh-hant.rst#sigil_toc_id_138>`__
 
    * - `\　　　　Breaking one’s promise <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_139>`__
-     - 　　　　違背諾言(破安居)
+     - `\　　　　違背諾言(破安居) <{filename}Section0050%zh-hant.rst#sigil_toc_id_139>`__
 
    * - `\　　　　Determination <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_140>`__
      - 　　　　決意
