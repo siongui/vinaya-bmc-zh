@@ -1337,7 +1337,7 @@
      - `\　　　　違背諾言(破安居) <{filename}Section0050%zh-hant.rst#sigil_toc_id_139>`__
 
    * - `\　　　　Determination <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_140>`__
-     - 　　　　決意
+     - `\　　　　決意 <{filename}Section0050%zh-hant.rst#sigil_toc_id_140>`__
 
    * - `\　　　　Duration <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_141>`__
      - 　　　　持續時間

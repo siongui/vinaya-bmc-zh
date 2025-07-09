@@ -121,4 +121,24 @@
 .. _Mv.VIII.25.4: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.VIII.25.4
 .. _《大品》.八.25.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0390a10
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_140"></span>
+
+       **Determination**
+
+     - **決意**
+
+   * - The only formality mentioned in the Canon for starting a Rains-residence is that one prepares one’s lodging, sets out drinking-water and washing-water, and sweeps the area. The Commentary, however, recommends making a formal determination: After paying respects to the cetiya, etc., one should say one or two times:
+
+     - 《聖典》中提到的雨安居的唯一禮儀是準備住處，準備好飲用水和洗用水，並清掃周圍環境。然而，《義註》建議做出正式的決意：在禮敬佛塔等之後，應該念誦一兩遍：
+
+   * - “\ *Imasmiṁ vihāre imaṁ te-māsaṁ vassaṁ upemi.* (I am entering this three-month Rains in this dwelling.)”
+
+     - 「\ *Imasmiṁ vihāre imaṁ te-māsaṁ vassaṁ upemi.*\ （我將在此住所度過這三個月的雨安居。）」
+
 (未完待續)
