@@ -139,6 +139,28 @@
 
    * - “\ *Imasmiṁ vihāre imaṁ te-māsaṁ vassaṁ upemi.* (I am entering this three-month Rains in this dwelling.)”
 
-     - 「\ *Imasmiṁ vihāre imaṁ te-māsaṁ vassaṁ upemi.*\ （我將在此住所度過這三個月的雨安居。）」
+     - 「\ *Imasmiṁ vihāre imaṁ te-māsaṁ vassaṁ upemi.*\ （我將在此住所入這三個月的雨安居。）」
+
+   * - If staying in a place that does not qualify as a vihāra—as in a hut on a cart in a caravan—one should say three times:
+     - 若住在不符合 vihāra 條件的地方—例如大篷車上的小屋—則應念三遍：
+
+   * - “\ *Idha vassaṁ upemi.* (I am entering the Rains here.)”
+     - 「\ *Idha vassaṁ upemi.* （我在這裡入雨安居。）」
+
+   * - If staying under a cart, one need only think, “I am going to stay here for the Rains.”
+     - 如果待在車下，只需想：「我要待在這裡過雨安居。」
+
+   * - Different Communities have developed the Commentary’s recommendations in different ways. In some, the phrase “paying respects to the cetiya, etc.,” has been expanded to a tradition where the bhikkhus formally ask forgiveness of the Triple Gem and of one another in line with seniority. Because the word vihāra can be translated either as “dwelling” or as “monastery,” some Communities have avoided ambiguity first by formally announcing the boundaries of the area of one’s residence for the three months—usually covering the entire territory of the monastery—and by changing the determination to:
+
+     - 不同的僧團以不同的方式發展了《義註》的建議。在一些僧團中，「禮敬佛塔等」這個措辭被擴展為一種傳統，即比丘們正式向三寶以及按戒臘彼此請求寬恕。由於 vihāra 一詞既可以翻譯為「住所」，也可以翻譯為「寺院」，因此，一些僧團為了避免歧義，首先正式宣布三個月居住地的邊界——通常涵蓋整個寺院領域——然後將決意改為：
+
+   * - “\ *Imasmiṁ āvāse imaṁ te-māsaṁ vassaṁ upemi.* (I am entering this three-month Rains in this monastery.)”
+     - 「\ *Imasmiṁ āvāse imaṁ te-māsaṁ vassaṁ upemi.*\ （我將在這座寺院入這三個月的雨安居。）」
+
+   * - A common practice is to say this three times, instead of the one or two times recommended in the Commentary.
+     - 通常的做法是說三遍，而不是《義註》中建議的一兩遍。
+
+   * - If, however, a bhikkhu prefers to limit his boundaries to the area around his hut, he is free to make that determination on his own.
+     - 然而，如果比丘希望將他的界限限制在他的小屋周圍的區域，他可以自由地自行決意。
 
 (未完待續)
