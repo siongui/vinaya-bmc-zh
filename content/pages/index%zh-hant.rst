@@ -1340,7 +1340,7 @@
      - `\　　　　決意 <{filename}Section0050%zh-hant.rst#sigil_toc_id_140>`__
 
    * - `\　　　　Duration <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_141>`__
-     - 　　　　持續時間
+     - `\　　　　持續時間 <{filename}Section0050%zh-hant.rst#sigil_toc_id_141>`__
 
    * - `\　　　　Seven-day business <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_142>`__
      - 　　　　七日事務

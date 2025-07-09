@@ -163,4 +163,19 @@
    * - If, however, a bhikkhu prefers to limit his boundaries to the area around his hut, he is free to make that determination on his own.
      - 然而，如果比丘希望將他的界限限制在他的小屋周圍的區域，他可以自由地自行決意。
 
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_141"></span>
+
+       **Duration**
+
+     - **持續時間**
+
+   * - Once a bhikkhu has entered the Rains, he must not go wandering off for the next three months. According to the Commentary, this means that he must greet the rising of dawn each day during those three months within the area he has determined for his residence. If he greets even one dawn outside of his determined area, his residence is broken. In breaking his residence, he both incurs a dukkaṭa and becomes ineligible for the privileges contingent on having completed the Rains.
+
+     - 比丘一旦進入雨安居，在接下來的三個月內不得外出遊方。根據《義註》，這意味著在這三個月內，他必須在其決意居住的區域內迎接每日的黎明升起。如果他在決意的區域之外迎接那怕一次黎明，他的安居就被破壞了。破安居，他不僅犯《突吉羅》，而且將失去完成雨安居後享有方便利益的資格。
+
+   * - There are, however, two exceptions to this rule: going on legitimate seven-day business and breaking the residence because of valid obstacles.
+     - 但本戒條有兩個例外：進行合法的七日事務和由於合理障礙而破安居。
+
 (未完待續)
