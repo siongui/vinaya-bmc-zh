@@ -178,4 +178,63 @@
    * - There are, however, two exceptions to this rule: going on legitimate seven-day business and breaking the residence because of valid obstacles.
      - 但本戒條有兩個例外：進行合法的七日事務和由於合理障礙而破安居。
 
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_142"></span>
+
+       **Seven-day business**
+
+     - **七日事務**
+
+   * - The first exception to the rule concerning duration is that if one has legitimate business, one is allowed to go away for up to seven days. In the Commentary’s terms, this means that one may be away from one’s residence for up to six dawns and must return to greet the rising of the seventh dawn within the area that one has determined for one’s residence.
+
+     - 戒條關於期限的第一個例外是，如果有正當事務，允許離開最多七天。用《義註》的話來說，這意味著可以離開住所最多六個黎明，並且必須返回到他所決意安居的區域迎接第七個黎明的升起。
+
+   * - The legitimacy of the business is determined by the nature of the business, the person who needs one’s help, and whether that person sends for one to come.
+     - 事務的合法性取決於事務的性質、需要幫助的人以及該人是否來請。
+
+   * - If any one of seven classes of people asks for one’s help—a fellow bhikkhu, a bhikkhunī, a female trainee, a male novice, a female novice, a male lay follower, a female lay follower—one may go if sent for, but not if not sent for, if the business concerns that person’s desire to make merit, to hear the Dhamma, or to see the bhikkhus. The Canon gives a long list of situations in which a person—lay or ordained—might want a bhikkhu to come for these purposes. The list is not meant to be exhaustive, but it provides an interesting glimpse of the merit-making occasions of the time: The donor has arranged the construction of a building, either for the Community, for a group of bhikkhus, or a single bhikkhu; he/she has arranged the construction of a building for his/her own use. Other occasions, given only in the case of a lay follower, include the following: His/her son or daughter is getting married; he/she has fallen ill; or he/she has memorized an important discourse and wants to pass it on so that it does not disappear with his/her death (which, in the days before written transmission, could easily have happened). In all these cases, the Sub-commentary says that if one goes without being sent for, one has broken one’s Rains-residence and incurred an offense.
+
+     - 如果有七種人中的任何一種請求幫助——比丘同儕、比丘尼、學法女（式叉摩那）、沙彌、沙彌尼、男在家弟子、女在家弟子——如果該事務是關於此人想要做功德、聞法、或見比丘，如果來請，則可以前往；如果沒有來請，則不得前往。《聖典》列舉了一長串人們——無論是在家還是出家——可能希望比丘為此目的而前往的情況。這份清單並非詳盡無遺，但它提供了一個有趣的視角來了解當時的做功德場合：布施者安排建造建築物，供僧團、比丘團體或單一比丘使用；他/她安排建造建築物供自己使用。其他僅在在家弟子情況下出現的情形包括：其子女結婚；其本人患病；或其背誦了一篇重要的開示，並希望將其傳承下去，以免隨著其死亡而消失（在書面傳承出現之前，這種情況很容易發生）。在所有這些情況下，《複註》都指出，如果未經邀請就離開，則破了雨安居，構成了犯戒。
+
+   * - There are other cases in which one may go, even if not sent for—all the more if sent for—if any of the following situations arises concerning a fellow bhikkhu, a bhikkhunī, a female trainee, a novice, or a female novice, and one plans to be of help:
+
+     - 還有其他情況，即使沒有來請，也可以前往——更不用說如果來請的話——如果發生以下任何一種情況，涉及比丘同儕、比丘尼、學法女（式叉摩那）、沙彌、或沙彌尼，而且自己打算提供幫助：
+
+   * - .. container:: mx-2
+
+          he/she has fallen ill,
+
+     - .. container:: mx-2
+
+          他/她病了，
+
+   * - .. container:: mx-2
+
+          he/she is suffering from dissatisfaction with the holy life,
+
+     - .. container:: mx-2
+
+          他/她對梵行生活感到不滿，
+
+   * - .. container:: mx-2
+
+          he/she is suffering from anxiety over the possibility of having broken a training rule, or
+
+     - .. container:: mx-2
+
+          他/她擔心自己可能違反了學處，或者
+
+   * - .. container:: mx-2
+
+          he/she has fallen into a viewpoint (*diṭṭhigata*\—see the discussion in `Chapter 9`_).
+
+     - .. container:: mx-2
+
+          他/她陷入了某種觀點（\ *diṭṭhigata*\ —參見\ `第九章`_\ 的討論）。
+
+.. _Chapter 9: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
+.. _第九章: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
+.. TODO FIXME: replace link to 第九章
+
 (未完待續)

@@ -1343,7 +1343,7 @@
      - `\　　　　持續時間 <{filename}Section0050%zh-hant.rst#sigil_toc_id_141>`__
 
    * - `\　　　　Seven-day business <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_142>`__
-     - 　　　　七日事務
+     - `\　　　　七日事務 <{filename}Section0050%zh-hant.rst#sigil_toc_id_142>`__
 
    * - `\　　　　Obstacles <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_143>`__
      - 　　　　障難
