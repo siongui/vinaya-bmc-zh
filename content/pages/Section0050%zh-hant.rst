@@ -336,6 +336,46 @@
 
           —受到惡靈的騷擾，附身於他們身上並消耗他們的活力。
 
+   * - With regard to the beasts, the Commentary notes that “seize and attack” also includes cases where the beasts, having surrounded one, chase one away, frighten one, or kill someone else in the vicinity.
+
+     - 關於野獸，《義註》指出，「抓住並攻擊」還包括野獸包圍人、驅逐人、驚嚇人或殺死附近的其他人的情況。
+
+   * - Also, if the village where the bhikkhus have entered for the Rains is burned or carried away by a flood, and the bhikkhus suffer in terms of alms; or if their own lodgings are burned or carried away by a flood and they suffer in terms of lodgings, they may leave without offense.
+
+     - 另外，如果比丘們入雨安居的村莊被燒毀或被洪水沖走，而比丘們在缽食方面受苦；或者如果他們自己的住所被燒毀或被洪水沖走，他們在住所方面受苦，他們可以離開而不犯戒。
+
+   * - If the village on which they depend moves to a new location, the bhikkhus may follow along. If the village splits, they are to go to the location where the majority of villagers have gone or to the location where the faithful supporters have gone. However, the Commentary recommends that if the village moves only a short distance away and is still within range for alms-going, one should stay in place. If it goes farther than that, one may follow the village to its new location but should try to return to one’s original place every seven dawns to keep the Rains. If that isn’t possible, one should stay with congenial bhikkhus in the village’s new location.
+
+     - 如果依附的村莊搬遷，比丘們可以跟隨。如果村莊分裂，他們應該前往大多數村民或虔誠支持者去的地方。然而，《義註》建議，如果村莊遷移的距離不遠，且仍在托缽範圍之內，則應留在原地。如果遷移的距離超出托缽範圍，可以跟隨村莊遷移到新地點，但應試著每七個黎明返回原地以保持雨安居。如果無法做到，則應在村莊的新地點與志同道合的比丘們同住。
+
+   * - If the bhikkhus do not get enough food for their needs; or if the food is plentiful but uncongenial to them; or if the food is plentiful and congenial, but they don’t receive congenial medicine; of it they don’t get a suitable attendant, they may leave without offense. The Vinaya-mukha interprets the allowance in these instances as valid only if one’s health is in serious jeopardy.
+
+     - 如果比丘們沒有得到足夠的食物；或者食物充足但不適合他們；或者食物充足且適合他們，但沒有得到合適的藥物；或者沒有合適的侍者，他們可以離開，而不犯戒。《戒律入口》認為，只有在健康受到嚴重威脅的情況下，這些情況下的開緣才有效。
+
+   * - .. container:: mx-6
+
+          *Dangers to the holy life*
+
+     - .. container:: mx-6
+
+          *梵行生活危險*
+
+   * - If anyone tries to tempt a bhikkhu, offering him wealth or a wife (or to be his wife), or if he sees abandoned treasure, and in any of these cases he reflects, “The Blessed One says that the mind is easily changed. This could be an obstacle to my holy life,” he may break the Rains without offense.
+
+     - 如果有人試圖引誘比丘，給他財富或妻子（或成為他的妻子），或看到被遺棄的財寶，並在這些情況下的任何一種，他反思到：「世尊說，心很容易改變。這可能會成為我梵行生活的障礙。」他可以破雨安居，而不犯戒。
+
+   * - .. container:: mx-6
+
+          *A threatened split in the Community*
+
+     - .. container:: mx-6
+
+          *僧團分裂威脅*
+
+   * - If many bhikkhus are striving for a schism in the Community where one is living and one doesn’t want the Community to be split in one’s presence, one may leave. However, if bhikkhus in another residence are striving for a schism in their Community and one feels that one might be able to talk them out of it, one may go to their residence. The same holds true if bhikkhunīs are striving for a split in the Community. The Commentary—assuming that *Community* here means the Bhikkhu Saṅgha—objects to this allowance on the grounds that bhikkhunīs cannot split the Bhikkhu Saṅgha. However, the original meaning of the Pali may have been that the bhikkhunīs were striving for a schism in their own Community. In this case, one may break the Rains without offense in order to try to prevent the split.
+
+     - 如果許多比丘在自己居住的僧團中試圖分裂，而自己不想僧團在自己面前分裂，可以離開。但是，如果其他住處的比丘試圖分裂僧團，而自己覺得可以勸阻他們，可以前往他們的住處。如果比丘尼試圖分裂僧團，也同樣適用。《義註》—假設這裡的\ *僧團*\ 是指比丘僧團—反對此開緣，理由是比丘尼不能分裂比丘僧團。然而，巴利文的原意可能是比丘尼試圖在她們自己的僧團中分裂。在這種情況下，為了阻止分裂，可以破雨安居而不犯戒。
+
 .. _Mv.III.9.1: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.9.1
 .. _Mv.III.11.13: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.11.10-13
 .. _《大品》.三.9.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0201a01
