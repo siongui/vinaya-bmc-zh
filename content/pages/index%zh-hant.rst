@@ -1346,7 +1346,7 @@
      - `\　　　　七日事務 <{filename}Section0050%zh-hant.rst#sigil_toc_id_142>`__
 
    * - `\　　　　Obstacles <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_143>`__
-     - 　　　　障難
+     - `\　　　　障難 <{filename}Section0050%zh-hant.rst#sigil_toc_id_143>`__
 
    * - `\　　　　Non-dhamma agreements <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_144>`__
      - 　　　　非如法約定

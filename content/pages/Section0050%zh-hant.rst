@@ -273,4 +273,73 @@
 .. _《大品》.三.14.6: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0208a12
 .. _《大品》.三.14.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0209a04
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_143"></span>
+
+       **Obstacles**
+
+     - **障難**
+
+   * - The second exception to the rule concerning duration is that a bhikkhu may break his Rains-residence at any time if there are valid obstacles for doing so. He does not incur an offense, but does relinquish his right to the privileges that come with having completed the Rains.
+
+     - 關於持續時間戒條的第二個例外是，如果有合理障礙這樣做的話，比丘可以隨時破雨安居。他不犯戒，但確實放棄了完成雨安居後所帶來的方便利益的權利。
+
+   * - `Mv.III.9.1`_\–\ `Mv.III.11.13`_ gives a long list of valid obstacles, which Pv.VI.4 divides into four sorts: dangers to life, dangers to the holy life, a threatened split in the Community, and an actual split in the Community.
+
+     - `《大品》.三.9.1`_\ –\ `《大品》.三.11.13`_ 列出了一長串合理障礙，\ `《附隨》.六.4`_ 將其分為四類：生命危險、梵行生活危險、僧團分裂威脅以及僧團實際分裂。
+
+   * - .. container:: mx-6
+
+          *Dangers to life*
+
+     - .. container:: mx-6
+
+          *生命危險*
+
+   * - Bhikkhus may break the Rains without offense if they are
+     - 比丘可以破雨安居而不犯戒，如果他們
+
+   * - .. container:: mx-2
+
+          —harassed by beasts who seize and attack them;
+
+     - .. container:: mx-2
+
+          —受到野獸的騷擾，抓住並攻擊他們；
+
+   * - .. container:: mx-2
+
+          —harassed by creeping things who bite and attack them;
+
+     - .. container:: mx-2
+
+          —受到爬蟲類的騷擾，咬傷並攻擊他們；
+
+   * - .. container:: mx-2
+
+          —harassed by criminals who rob them and beat them;
+
+     - .. container:: mx-2
+
+          —遭受犯罪者的騷擾，搶劫並毆打他們；
+
+   * - .. container:: mx-2
+
+          —harassed by demons who possess them and sap their vitality.
+
+     - .. container:: mx-2
+
+          —受到惡靈的騷擾，附身於他們身上並消耗他們的活力。
+
+.. _Mv.III.9.1: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.9.1
+.. _Mv.III.11.13: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.11.10-13
+.. _《大品》.三.9.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0201a01
+.. _《大品》.三.11.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0205a03
+.. _《附隨》.六.4: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0199a13
+
 (未完待續)
