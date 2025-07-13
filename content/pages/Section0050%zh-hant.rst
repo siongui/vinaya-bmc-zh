@@ -376,10 +376,37 @@
 
      - 如果許多比丘在自己居住的僧團中試圖分裂，而自己不想僧團在自己面前分裂，可以離開。但是，如果其他住處的比丘試圖分裂僧團，而自己覺得可以勸阻他們，可以前往他們的住處。如果比丘尼試圖分裂僧團，也同樣適用。《義註》—假設這裡的\ *僧團*\ 是指比丘僧團—反對此開緣，理由是比丘尼不能分裂比丘僧團。然而，巴利文的原意可能是比丘尼試圖在她們自己的僧團中分裂。在這種情況下，為了阻止分裂，可以破雨安居而不犯戒。
 
+   * - .. container:: mx-6
+
+          *A split in the Community*
+
+     - .. container:: mx-6
+
+          *僧團分裂*
+
+   * - If bhikkhus or bhikkhunīs in another residence have split their Community, one may break the Rains to go there. The Commentary raises another objection here, on the grounds that once the Community has split nothing can be done; and that the Pali should thus read, “the bhikkhus are about to split the Community.” This, however, ignores the very real possibility that both sides of the split have been acting in good faith, and that one may bring them to a reconciliation. (See `Chapter 21`_, especially `Mv.X.5.14`_ & `Mv.X.6.1`_.)
+
+     - 如果其他住處的比丘或比丘尼分裂了他們的僧團，可以破雨安居前往那裡。《義註》在此提出了另一個反對意見，理由是僧團一旦分裂就無能為力；巴利語應該這樣理解：「比丘們即將分裂僧團」。然而，這忽略了一個非常現實的可能性：分裂雙方都本著善意行事，可以促成他們和解。（參見\ `第二十一章`_\ ，尤其是\ `《大品》.十.5.14`_ 和\ `《大品》.十.6.1`_ 。）
+
+   * - If any of these four kinds of obstacles arises and one can handle the situation by going away for no more than seven days, the Commentary recommends returning within seven days so as not to break the Rains. In other words, the situation is to be treated as legitimate seven-day business. If this cannot be managed, one commits no offense, but one becomes ineligible for the privileges that come with having completed the Rains.
+
+     - 如果出現這四種障難中的任何一種，而可以透過外出不超過七天來處理該情況，《義註》建議在七天內返回，以免破雨安居。換句話說，這種情況應被視為合法的七日事務。如果無法處理，則不犯戒，但將失去完成雨安居所帶來的方便利益。
+
+   * - In addition to these four categories, there is also the rule mentioned above that if many bhikkhus have begun the Rains in a residence where none of them knows the Pāṭimokkha and they cannot arrange for one of their number to memorize the Pāṭimokkha in a nearby residence within seven days, they are to leave their original to residence to spend the Rains in the neighboring residence.
+
+     - 除了上述四種情況外，還有一條上面提到的戒條，即如果許多比丘在一處開始雨安居，而其中沒有人通曉《波羅提木叉》，並且他們無法在七天內安排其中一人在附近的住處記誦《波羅提木叉》，那麼他們必須離開原來的住處，到鄰近的住處過雨安居。
+
 .. _Mv.III.9.1: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.9.1
 .. _Mv.III.11.13: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.11.10-13
 .. _《大品》.三.9.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0201a01
 .. _《大品》.三.11.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0205a03
 .. _《附隨》.六.4: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0199a13
+.. _Chapter 21: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
+.. _Mv.X.5.14: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Mv.X.5.14
+.. _Mv.X.6.1: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Mv.X.6.1
+.. _第二十一章: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
+.. TODO FIXME: replace link to 第二十一章
+.. _《大品》.十.5.14: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_010#0462a09
+.. _《大品》.十.6.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_010#0463a04
 
 (未完待續)
