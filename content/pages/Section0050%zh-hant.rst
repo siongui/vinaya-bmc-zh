@@ -409,4 +409,20 @@
 .. _《大品》.十.5.14: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_010#0462a09
 .. _《大品》.十.6.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_010#0463a04
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_144"></span>
+
+       **Non-dhamma agreements**
+
+     - **非如法約定**
+
+   * - Traditionally, the Rains-residence is a time for becoming more stringent in one’s practice. Often, bhikkhus staying together will make group vows as a way of offering encouragement to one another. However, there is a rule against making agreements that are not in accord with the Dhamma. In the origin story for this rule, a group of bhikkhus agreed not to ordain any new bhikkhus during the Rains. A relative of Lady Visākhā wanted to ordain during that period but the bhikkhus refused, telling him to wait to the end of the Rains. Yet when the Rains had ended, he had abandoned his desire to ordain. So the Buddha made a ruling that “This sort of agreement should not be made: ‘During the Rains, the Going-forth is not to be given.’”
+
+     - 傳統上，雨安居是在修行上會更加嚴格的時間。通常，住在一起的比丘們會立下集體誓言，以此互相鼓勵。然而，有一條戒條禁止做出非如法約定。這條戒條的起源故事是這樣的：一群比丘約定在雨安居不為任何新比丘受具足戒。毘舎佉女士的一位親戚想在雨季受具足戒，但比丘們拒絕了，並告訴他要等到雨安居結束。然而，雨安居結束後，他放棄了受具足戒的願望。於是佛陀做出裁決：「不應做出這樣的約定：『雨安居期間，不得出家。』」
+
 (未完待續)

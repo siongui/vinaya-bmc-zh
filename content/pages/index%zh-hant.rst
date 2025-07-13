@@ -1349,7 +1349,7 @@
      - `\　　　　障難 <{filename}Section0050%zh-hant.rst#sigil_toc_id_143>`__
 
    * - `\　　　　Non-dhamma agreements <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_144>`__
-     - 　　　　非如法約定
+     - `\　　　　非如法約定 <{filename}Section0050%zh-hant.rst#sigil_toc_id_144>`__
 
    * - `\　　　　Gifts of cloth <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_145>`__
      - 　　　　贈布
