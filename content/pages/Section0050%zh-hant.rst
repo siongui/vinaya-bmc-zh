@@ -433,11 +433,19 @@
 
      - 更概括地說，《義註》說「這類」約定指的是佛陀在《經分別》中所批評的非如法約定。這顯然是指\ `《捨墮》一五`_\ 的起源故事。佛陀在其中批評一群比丘創造他們自己的《波逸提》戒條時說：「未制定（戒條）者，不應制；已制定（戒條）者，不應廢；應依已制定之戒條而住。」
 
+   * - The Commentary to Pārājika 4 expands on this point with a long list of agreements that should not be made for the Rains: refusing to give the Going-forth, prohibiting the study or teaching of the Dhamma, deciding to share in-season gifts to the Community with bhikkhus staying outside the monastery precincts, or compelling the observance of the dhutaṅga (ascetic) practices. The Commentary to `Cv.VI.11.3`_ adds other agreements to this list: refusing to give Acceptance, refusing to give dependence, refusing to give the opportunity to listen to the Dhamma, and not sharing Community gains with those who go away on seven-day business. It then adds a list of agreements that *would* accord with the Dhamma, such as encouraging one another to know moderation in speech, to converse on the ten proper subjects of conversation (`AN 10:69`_), to show consideration to meditators when one is reciting the Dhamma, to willingly undertake any of the dhutaṅga practices in line with one’s abilities, and to be heedful at all times.
+
+     - 《波羅夷》四的《義註》擴充此點，列舉了一長串雨安居不應達成的約定：拒絕給予出家，禁止研習或教授佛法，決定與待在寺院區域外的比丘分享當季的布施，或強迫遵循頭陀行（苦行）。\ `《小品》.六.11.3`_ 的《義註》增加了其他約定到此列表上：拒絕授予具足戒，拒絕給予依止，拒絕給予聽聞佛法的機會，以及不與外出處理七日事務的人分享僧團的收益。然後，它又增加了一系列\ *會*\ 符合佛法的約定，例如鼓勵彼此懂得言語適度、談論十種適當的話題（\ `《增支部》10:69經`_\ ）、在誦讀佛法時體諒禪修者、願意根據自己的能力進行任何頭陀行、以及時刻保持不放逸。
+
 .. _Mv.III.13.2: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.13.2
 .. _Mv.IV.1.13: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.IV.1.13
 .. _《大品》.三.13.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0207a04
 .. _《大品》.四.1.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_004#0215a10
 .. _NP 15: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
 .. _《捨墮》一五: {filename}Section0014%zh-hant.rst#NP15
+.. _Cv.VI.11.3: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#Cv.VI.11.3
+.. _AN 10\:69: https://www.dhammatalks.org/suttas/AN/AN10_69.html
+.. _《小品》.六.11.3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0226a07
+.. _《增支部》10\:69經: https://sutra.mobi/zcj/zengzhi/content/1601.html
 
 (未完待續)
