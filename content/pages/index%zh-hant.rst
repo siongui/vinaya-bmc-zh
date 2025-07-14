@@ -1352,7 +1352,7 @@
      - `\　　　　非如法約定 <{filename}Section0050%zh-hant.rst#sigil_toc_id_144>`__
 
    * - `\　　　　Gifts of cloth <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_145>`__
-     - 　　　　贈布
+     - `\　　　　贈布 <{filename}Section0050%zh-hant.rst#sigil_toc_id_145>`__
 
    * - `\　　　　Privileges <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_146>`__
      - 　　　　方便利益

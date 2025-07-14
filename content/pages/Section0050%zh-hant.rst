@@ -448,4 +448,26 @@
 .. _《小品》.六.11.3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0226a07
 .. _《增支部》10\:69經: https://sutra.mobi/zcj/zengzhi/content/1601.html
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_145"></span>
+
+       **Gifts of cloth**
+
+     - **贈布**
+
+   * - `Mv.VIII.32`_ lists eight ways in which a donor may designate gifts of cloth, and one of them is that a gift of cloth may be for the bhikkhus who are residing or have resided in a particular residence for the Rains. We will discuss this arrangement in more detail in `Chapter 18`_, but here we will simply note the Commentary’s observation that, during the Rains-residence, this arrangement applies only to bhikkhus who have kept the residence up to that point without break; for one month after the Rains, it applies only to the bhikkhus who have successfully kept the entire Rains-residence. According to the Canon, if the kaṭhina has been spread, this arrangement extends until the end of the kaṭhina privileges.
+
+     - `《大品》.八.32`_ 列出了布施者指定贈布的八種方式，其中之一就是布匹可以贈予正在或曾經在特定住處居住過雨安居的比丘。我們將在\ `第十八章`_\ 詳細討論這項安排，但這裡我們僅提及《義註》中的觀察：在雨安居期間，此安排僅適用於保持安居不破的比丘；雨安居過後一個月，此安排僅適用於成功保持整個雨安居的比丘。根據《聖典》，如果功德衣已經敷展，此安排將持續到功德衣方便利益結束為止。
+
+.. _Mv.VIII.32: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#Mv.VIII.32
+.. _Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. _《大品》.八.32: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0400a03
+.. _第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. TODO FIXME: replace link to 第十八章
+
 (未完待續)
