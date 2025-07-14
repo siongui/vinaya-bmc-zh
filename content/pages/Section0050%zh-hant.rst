@@ -425,4 +425,19 @@
 
      - 傳統上，雨安居是在修行上會更加嚴格的時間。通常，住在一起的比丘們會立下集體誓言，以此互相鼓勵。然而，有一條戒條禁止做出非如法約定。這條戒條的起源故事是這樣的：一群比丘約定在雨安居不為任何新比丘受具足戒。毘舎佉女士的一位親戚想在雨季受具足戒，但比丘們拒絕了，並告訴他要等到雨安居結束。然而，雨安居結束後，他放棄了受具足戒的願望。於是佛陀做出裁決：「不應做出這樣的約定：『雨安居期間，不得出家。』」
 
+   * - The Commentary to `Mv.III.13.2`_ cites two other agreements that are of this sort: taking a vow of silence and agreeing that those who go away for seven-day business should not get a share of the Community’s gains distributed while they are away. The rule against taking a vow of silence comes in `Mv.IV.1.13`_. In the origin story to that rule, the Buddha learns that a group of bhikkhus have observed a vow of silence for the duration of the Rains and his response is this: “These worthless men, having spent the Rains uncomfortably, claim to have spent the Rains comfortably. Having spent the Rains in cattle (-like) affiliation, they claim to have spent the Rains comfortably. Having spent the Rains in sheep (-like) affiliation, they claim to have spent the Rains comfortably. Having spent the Rains in heedless-affiliation, they claim to have spent the Rains comfortably. How can these worthless men undertake a vow of dumb silence, the undertaking of sectarians?”
+
+     - `《大品》.三.13.2`_ 的《義註》引用了另外兩項類似的約定：宣誓沉默，並同意那些外出七日事務的人在外出期間不應獲得僧團收益的分配。禁止宣誓沉默的戒條載於\ `《大品》.四.1.13`_ 。在這個戒條的起源故事中，佛陀得知一群比丘在雨安居期間遵守了沉默的誓言，他的回應是：「這些無用之人，過著不舒服的雨安居，卻聲稱自己過得很舒服。他們像牛一樣共住過雨安居，卻聲稱自己過得很舒服。他們像羊一樣共住過雨安居，卻聲稱自己過得很舒服。他們住放逸共住過雨安居，卻聲稱自己過得很舒服。這些無用之人，怎麼能立下沉默的誓言，立下外道的誓言呢？」
+
+   * - More generally, the Commentary says that agreements “of this sort” are the non-dhamma agreements that the Buddha criticized in the Sutta Vibhaṅga. Apparently, this is a reference to the origin story to `NP 15`_, in which the Buddha, criticizing a group of bhikkhus for inventing their own pācittiya rule, says, “What has not been formulated (as a rule) should not be formulated, and what has been formulated should not be rescinded, but one should dwell in conformity and in accordance with the rules that have been formulated.”
+
+     - 更概括地說，《義註》說「這類」約定指的是佛陀在《經分別》中所批評的非如法約定。這顯然是指\ `《捨墮》一五`_\ 的起源故事。佛陀在其中批評一群比丘創造他們自己的《波逸提》戒條時說：「未制定（戒條）者，不應制；已制定（戒條）者，不應廢；應依已制定之戒條而住。」
+
+.. _Mv.III.13.2: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.13.2
+.. _Mv.IV.1.13: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.IV.1.13
+.. _《大品》.三.13.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0207a04
+.. _《大品》.四.1.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_004#0215a10
+.. _NP 15: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
+.. _《捨墮》一五: {filename}Section0014%zh-hant.rst#NP15
+
 (未完待續)
