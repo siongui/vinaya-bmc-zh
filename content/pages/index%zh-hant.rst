@@ -1355,7 +1355,7 @@
      - `\　　　　贈布 <{filename}Section0050%zh-hant.rst#sigil_toc_id_145>`__
 
    * - `\　　　　Privileges <https://www.dhammatalks.org/vinaya/bmc/Section0050.html#sigil_toc_id_146>`__
-     - 　　　　方便利益
+     - `\　　　　方便利益 <{filename}Section0050%zh-hant.rst#sigil_toc_id_146>`__
 
        ..
           http://www.book853.com/show.aspx?id=45&cid=54&page=24

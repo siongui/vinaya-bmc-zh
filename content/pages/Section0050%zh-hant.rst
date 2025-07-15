@@ -480,4 +480,65 @@
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
 .. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_146"></span>
+
+       **Privileges**
+
+     - **方便利益**
+
+   * - The Commentary, in scattered places, explicitly mentions five privileges to which a bhikkhu who completes the first period of Rains-residence without break is entitled. The first four are:
+
+     - 《義註》在零散的地方明確地提到了完成前雨安居不破的比丘所享有的五項方便利益。前四項是：
+
+   * - .. container:: mx-2
+
+          he may participate in the Invitation *(pavāraṇā)* transaction marking the end of the Rains-residence (see `Chapter 16`_);
+
+     - .. container:: mx-2
+
+          他可以參加標誌著雨安居結束的自恣\ *（pavāraṇā）*\ 羯磨（見\ `第十六章`_\ ）；
+
+   * - .. container:: mx-2
+
+          he may continue receiving gifts of Rains-residence cloth at that residence for a month after the end of the Rains-residence;
+
+     - .. container:: mx-2
+
+          雨安居結束後的一個月內，他可以在該住處繼續接受雨安居布料的布施；
+
+   * - .. container:: mx-2
+
+          he may keep one of his robes in his alms-village if he is staying in a wilderness area (see `NP 29`_); and
+
+     - .. container:: mx-2
+
+          如果他住在林野地區，他可以將一件袈裟留在他的托缽村莊（見\ `《捨墮》二九`_\ ）；並且
+
+   * - .. container:: mx-2
+
+          he may participate in the spreading of a kaṭhina (see `Chapter 17`_).
+
+     - .. container:: mx-2
+
+          他可以參與功德衣(迦絺那衣)的敷展（請參閱\ `第十七章`_\ ）。
+
+   * - In each of these cases, the Commentary is basing its judgment on the fact that the Canon’s permission for these activities is given for “bhikkhus who have lived for (i.e., completed) the Rains-residence.”
+
+     - 在每一種情況中，《義註》的判斷都是基於這樣的事實：《聖典》允許「已住滿（即，完成）雨安居的比丘」進行這些活動。
+
+.. _Chapter 16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
+.. _第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
+.. TODO FIXME: replace link to 第十六章
+.. _NP 29: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
+.. _《捨墮》二九: {filename}Section0015%zh-hant.rst#NP29
+.. _Chapter 17: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
+.. _第十七章: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
+.. TODO FIXME: replace link to 第十七章
+
 (未完待續)
