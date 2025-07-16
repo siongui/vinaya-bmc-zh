@@ -532,6 +532,10 @@
 
      - 在每一種情況中，《義註》的判斷都是基於這樣的事實：《聖典》允許「已住滿（即，完成）雨安居的比丘」進行這些活動。
 
+   * - The fifth privilege is based on three passages in `Mv.VIII.24`_ (sections 2_, 5_, & 6_). In each of the three, donors present gifts of cloth “to the Community” and in each case the bhikkhus who have spent the Rains in that residence have sole rights to these gifts until their kaṭhina privileges are ended (see `Chapter 17`_). If the bhikkhus do not spread a kaṭhina, the Commentary states that they hold this right for the month after the end of the Rains-residence.
+
+     - 第五項方便利益是基於\ `《大品》.八.24`_ 中的三個段落（第\ `二`_\ 、\ `五`_\ 、和\ `六`_\ 節）。在這三個段落，施主均「向僧團」布施布料，且在每一個情況裡，在該住度雨安居的比丘們擁有這些布施的獨享權利，直至他們的功德衣方便利益結束（參見\ `第十七章`_\ ）。如果比丘們沒有敷展功德衣，則《義註》指出，他們在雨安居結束後的一個月內擁有此權利。
+
 .. _Chapter 16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
 .. _第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
 .. TODO FIXME: replace link to 第十六章
@@ -540,5 +544,13 @@
 .. _Chapter 17: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
 .. _第十七章: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
 .. TODO FIXME: replace link to 第十七章
+.. _Mv.VIII.24: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts24
+.. _2: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.VIII.24.2
+.. _5: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.VIII.24.5
+.. _6: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.VIII.24.6
+.. _《大品》.八.24: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0387a08
+.. _二: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0387a12
+.. _五: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0388a10
+.. _六: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0388a14
 
 (未完待續)
