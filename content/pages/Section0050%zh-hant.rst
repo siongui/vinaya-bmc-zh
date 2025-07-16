@@ -536,6 +536,14 @@
 
      - 第五項方便利益是基於\ `《大品》.八.24`_ 中的三個段落（第\ `二`_\ 、\ `五`_\ 、和\ `六`_\ 節）。在這三個段落，施主均「向僧團」布施布料，且在每一個情況裡，在該住度雨安居的比丘們擁有這些布施的獨享權利，直至他們的功德衣方便利益結束（參見\ `第十七章`_\ ）。如果比丘們沒有敷展功德衣，則《義註》指出，他們在雨安居結束後的一個月內擁有此權利。
 
+   * - A bhikkhu who completes the second period of Rains-residence without break is entitled to one privilege: He may participate in the Invitation transaction marking the end of his period of Rains-residence. If the bhikkhus in his residence have delayed their Invitation to that date, he may join in their Invitation. If not, he may participate in an Invitation with any fellow bhikkhus who have completed the second period of Rains-residence along with him. Because `Pv.XIV.4`_ limits the period for receiving a kaṭhina to last month of the rainy season, and because a bhikkhu can participate in the spreading of a kaṭhina only after having completed his Rains-residence, this means that a bhikkhu who has completed the second period of Rains-residence is not entitled to this privilege.
+
+     - 完成後雨安居不破的比丘享有一項方便利益：他可以參加標誌著其雨安居週期結束的自恣羯磨。如果他所在住處的比丘們已將自恣推遲到該日期，他可以參加他們的自恣。如果沒有，他可以與任何和他一起已完成後雨安居的比丘同儕參加自恣。由於\ `《附隨》.十四.4`_ 將接受功德衣的時間限制在雨季的最後一個月，並且由於比丘只有在完成其雨安居後才能參加功德衣的敷展，這意味著已完成後雨安居週期的比丘不能享有這項方便利益。
+
+   * - The Vinaya-mukha follows an old tradition that `NP 1`_, `2 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2>`__, & `3 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3>`__; and `Pc 32`_, 33_, & 46_ are also rescinded for one month for a bhikkhu who has completed the first period of Rains-residence. I have tried to trace the source of this tradition in the Canon and commentaries, but without success. The Vibhaṅgas to `NP 3`_, `Pc 32`_, 33_, & 46_ make clear that the fourth month of the rainy season—the month after the first period of Rains-residence, and the last month of the second period of Rains-residence—is the *cīvara-kāla*, the robe season (also called the *cīvara-dāna-samaya*, the occasion for giving robe-cloth), during which those rules, along with `NP 1`_, are rescinded. However, neither the Canon nor the commentaries to these rules make these privileges contingent on having completed the Rains.
+
+     - 《戒律入口》遵循一個古老的傳統，對於已經完成前雨安居的比丘，\ `《捨墮》一`_\ 、\ `二 <{filename}Section0013%zh-hant.rst#NP2>`__\ 和\ `三 <{filename}Section0013%zh-hant.rst#NP3>`__\ ；以及\ `《波逸提》三二`_\ 、\ `三三`_\ 和\ `四六`_\ 也被取消一個月。我曾試圖在《聖典》和註釋書中追溯這項傳統的來源，但沒有成功。\ `《捨墮》三`_\ 、\ `《波逸提》三二`_\ 、\ `三三`_\ 和\ `四六`_\ 的《經分別》明確指出，雨季第四個月—前雨安居後的該月份，以及後雨安居的最後一個月—是 *cīvara-kāla* ，袈裟季節（也稱為 *cīvara-dāna-samaya* ，布施袈裟布的場合），在此期間，這些戒條以及\ `《捨墮》一`_\ 都會被取消。然而，無論是《聖典》還是這些戒條的註釋書，都沒有將這些方便利益規定為必須完成雨安居才能獲得。
+
 .. _Chapter 16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
 .. _第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
 .. TODO FIXME: replace link to 第十六章
@@ -552,5 +560,19 @@
 .. _二: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0387a12
 .. _五: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0388a10
 .. _六: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0388a14
+.. _Pv.XIV.4: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#Pv.XIV.4
+.. _《附隨》.十四.4: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_014#0277a07
+.. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
+.. _Pc 32: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
+.. _33: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
+.. _46: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
+.. _《波逸提》三二: {filename}Section0019%zh-hant.rst#Pc32
+.. _三三: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
+.. TODO FIXME: replace link to 《波逸提》三三
+.. _四六: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
+.. TODO FIXME: replace link to 《波逸提》四六
+.. _NP 3: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
+.. _《捨墮》三: {filename}Section0013%zh-hant.rst#NP3
 
 (未完待續)
