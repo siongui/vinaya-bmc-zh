@@ -781,4 +781,36 @@
 
           *除適當場合外，輾轉食者，波逸提。此處適當場合為：生病時、施衣時、做衣時。此為適當場合。*
 
+   * - .. container:: mx-2
+
+          “Now at that time a meal-series of exquisite meals had been arranged in Vesālī. The thought occurred to a certain poor laborer: ‘The way these people respectfully present meals suggests that it’s not a minor thing at all. What if I were to present a meal?’ So he went to his supervisor (§) and said, ‘Young master, I want to present a meal for the Community of bhikkhus with the Buddha at its head. Please give me my wage.’ Now that supervisor also had faith and confidence in the Buddha, so he gave the laborer more than his wage.
+
+     - .. container:: mx-2
+
+          「\ `爾時，毘舍離安排了一系列供養精美的食物。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0101a12>`_\ 一位貧窮的勞工心想：『這些人恭敬地供養食物的方式，表明這絕非小事。如果我供養一餐呢？』於是他去找他的主管（§），說：『少爺，我想為以佛陀為首的比丘僧團供養一頓飯。請把我的工錢給我。』這位主管也對佛陀有信心，所以他給了勞工比工錢更多的錢。
+
+   * - .. container:: mx-2
+
+          “Then the laborer went to the Blessed One, bowed down to him, sat down to one side, and said, ‘Venerable sir, may the Blessed One together with the Community of bhikkhus acquiesce to a meal with me tomorrow.’
+
+     - .. container:: mx-2
+
+          「於是，勞工來到世尊面前，向他頂禮，坐在一邊，說道：『大德，願世尊及比丘僧團同意明天受我請食。』
+
+   * - .. container:: mx-2
+
+          “‘You should know, friend, that the Community of bhikkhus is large.’
+
+     - .. container:: mx-2
+
+          「『朋友，你應該知道，比丘僧團很大。』
+
+   * - .. container:: mx-2
+
+          “‘Let it be large, venerable sir. I have prepared plenty of jujube fruits. The masters (§) will fill themselves even with the jujube hash.’
+
+     - .. container:: mx-2
+
+          「『讓它大吧，大德。我準備了很多棗子。就連棗泥，大師們（§）也會吃得飽飽的。』
+
 (未完待續)
