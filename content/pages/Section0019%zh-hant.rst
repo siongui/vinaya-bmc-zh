@@ -196,8 +196,7 @@
 .. TODO FIXME: replace link to 《波逸提》三七
 .. _Pc 33: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
 .. _35: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
-.. _《波逸提》三三: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
-.. TODO FIXME: replace link to 《波逸提》三三
+.. _《波逸提》三三: #Pc33
 .. _三五: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. TODO FIXME: replace link to 《波逸提》三五
 .. _Mv.VI.25.7: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.25.7
@@ -760,5 +759,26 @@
 
    \*    \*    \*
 
+
+.. _Pc33:
+
+.. raw:: html
+
+   <span id="Pc33"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **33**
+     - **三十三**
+
+   * - .. container:: notification
+
+          *An out-of-turn meal, except at the proper occasions, is to be confessed. Here the proper occasions are these: a time of illness, a time of giving cloth, a time of making robes. These are the proper occasions here.*
+
+     - .. container:: notification
+
+          *除適當場合外，輾轉食者，波逸提。此處適當場合為：生病時、施衣時、做衣時。此為適當場合。*
 
 (未完待續)

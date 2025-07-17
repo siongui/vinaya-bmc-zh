@@ -182,8 +182,7 @@
 .. _Mv.III.14.1-14: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.14.4
 .. _Pc 33: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
 .. _《大品》.三.14.1-14: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0207a07
-.. _《波逸提》三三: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
-.. TODO FIXME: replace link to 《波逸提》三三
+.. _《波逸提》三三: {filename}Section0019%zh-hant.rst#Pc33
 
 
 .. container:: has-text-centered
