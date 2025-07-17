@@ -544,6 +544,29 @@
 
      - 《戒律入口》遵循一個古老的傳統，對於已經完成前雨安居的比丘，\ `《捨墮》一`_\ 、\ `二 <{filename}Section0013%zh-hant.rst#NP2>`__\ 和\ `三 <{filename}Section0013%zh-hant.rst#NP3>`__\ ；以及\ `《波逸提》三二`_\ 、\ `三三`_\ 和\ `四六`_\ 也被取消一個月。我曾試圖在《聖典》和註釋書中追溯這項傳統的來源，但沒有成功。\ `《捨墮》三`_\ 、\ `《波逸提》三二`_\ 、\ `三三`_\ 和\ `四六`_\ 的《經分別》明確指出，雨季第四個月—前雨安居後的該月份，以及後雨安居的最後一個月—是 *cīvara-kāla* ，袈裟季節（也稱為 *cīvara-dāna-samaya* ，布施袈裟布的場合），在此期間，這些戒條以及\ `《捨墮》一`_\ 都會被取消。然而，無論是《聖典》還是這些戒條的註釋書，都沒有將這些方便利益規定為必須完成雨安居才能獲得。
 
+   * - As for rescinding `NP 2`_, the texts mention this only as one of the privileges for participating in the spreading of a kaṭhina. It might seem reasonable to regard `NP 2`_ as rescinded during the cīvara-kāla, as all of the other privileges for participating in the kaṭhina are simply extensions of other cīvara-kāla privileges, but neither the Canon nor the commentaries support this idea. For instance, `Mv.VIII.23.3`_ allows a bhikkhu to enter a village without his full set of robes if he has spread a kaṭhina, but does not extend the same privilege to a bhikkhu who has simply completed the Rains. Furthermore, the Commentary to `Mv.VII`_ indicates that the Buddha’s purpose in instituting the kaṭhina was to give the bhikkhus the privilege of traveling without their full set of robes during the last month of the rains, when roads were still wet. If this privilege came automatically with the completion of the Rains-residence, there would be no need to institute the kaṭhina for this purpose.
+
+     - 至於取消\ `《捨墮》二`_\ ，文獻僅將其作為參與敷展功德衣所得的方便利益之一提及。在 cīvara-kāla 期間，將\ `《捨墮》二`_\ 視為被取消似乎是合理的，因為參與功德衣所得的其他所有方便利益都只是其他 cīvara-kāla 方便利益的延伸，但《聖典》和註釋書均不支持這種觀點。例如，\ `《大品》.八.23.3`_ 允許比丘不著全套三衣進入村莊，如果他已經敷展功德衣，但並未將同樣的方便利益延伸給僅完成雨安居的比丘。此外，\ `《大品》.七`_\ 的《義註》指出，佛陀設立功德衣的目的是賦予比丘們在雨季最後一個月道路仍然濕潤時，不著全套三衣出行遊方的方便利益。如果這項方便利益隨著雨安居的完成而自動到來，那麼就沒有必要為此目的設立功德衣。
+
+   * - Thus the only privileges contingent on completing the Rains-residence without break are:
+     - 因此，完成雨安居不破的方便利益只有：
+
+   * - .. container:: mx-2
+
+          the five for completing the first period of Rains-residence (participating in the Invitation transaction; receiving gifts of Rains-residence robe-cloth for an extra month; having sole rights to cloth presented “to the Community” in that residence for an extra month; keeping one of one’s robes in a village while living in a wilderness; and participating in the spreading of a kaṭhina); and
+
+     - .. container:: mx-2
+
+          完成前雨安居的五項（參與自恣羯磨；額外一個月接受雨安居袈裟布的布施；在該住處擁有額外一個月供「給僧團」的布料的獨有權利；在居住林野時，將自己的其中一件袈裟保留在村莊；參與功德衣的敷展）；而且
+
+   * - .. container:: mx-2
+
+          the one—participating in the Invitation—for completing the second.
+
+     - .. container:: mx-2
+
+          完成後雨安居的一項—參與自恣。
+
 .. _Chapter 16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
 .. _第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
 .. TODO FIXME: replace link to 第十六章
@@ -574,5 +597,11 @@
 .. TODO FIXME: replace link to 《波逸提》四六
 .. _NP 3: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
 .. _《捨墮》三: {filename}Section0013%zh-hant.rst#NP3
+.. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
+.. _《捨墮》二: {filename}Section0013%zh-hant.rst#NP2
+.. _Mv.VIII.23.3: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.23.3
+.. _Mv.VII: https://www.dhammatalks.org/vinaya/Mv/MvVII.html
+.. _《大品》.八.23.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0387a03
+.. _《大品》.七: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_007
 
 (未完待續)
