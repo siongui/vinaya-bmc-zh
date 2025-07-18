@@ -841,4 +841,21 @@
 
           於是，這個貧窮的勞工便批評、抱怨，並四處傳播：『既然我邀請了諸大德，諸大德又怎麼能到別處去吃飯呢？難道我不能滿足他們的需要嗎？』」
 
+   * - **Object**
+     - **對象**
+
+   * - The term *out-of-turn meal* covers two sorts of situations: A bhikkhu has been invited to a meal consisting of any of the five staple foods but then either (1) goes elsewhere and eats another meal consisting of any of the five staple foods at the same time as the meal to which he was originally invited; or (2) eats a staple food prior to going to the meal, as in the origin story.
+
+     - *輾轉食*\ 這個術語涵蓋兩種情況：比丘被邀請參加一頓包含任何五種主食的餐食，但隨後（1）去了其他地方，在原先被邀請進餐食的同時吃了另一頓包含任何五種主食的餐食；或（2）在去用餐之前吃了主食，就像起源故事中提到的那樣。
+
+   * - Perception as to whether food actually constitutes an out-of-turn meal is not a mitigating factor (see `Pc 4`_).
+     - 對於食物是否真正構成輾轉食的感知並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga states that there is a dukkaṭa for accepting—with the thought of eating it—food that will constitute an out-of-turn meal, and a pācittiya for every mouthful eaten.
+
+     - 《經分別》指出，接受構成輾轉食的食物—帶著想吃它的念頭—犯《突吉羅》，而吃的每一口都犯一次《波逸提》。
+
 (未完待續)
