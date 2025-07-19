@@ -858,4 +858,30 @@
 
      - 《經分別》指出，接受構成輾轉食的食物—帶著想吃它的念頭—犯《突吉羅》，而吃的每一口都犯一次《波逸提》。
 
+   * - **Proper times**
+     - **適時**
+
+   * - The special occasions when one may accept and eat an out-of-turn meal are defined as follows:
+     - 可以接受和食用輾轉食的特殊場合定義如下：
+
+   * - .. container:: mx-2
+
+          *A time of illness* is when one is unable to eat enough at one sitting and so has to eat two or more times in a morning.
+
+     - .. container:: mx-2
+
+          *生病的時候*\ ，一坐不能吃足夠，所以早上必須吃兩次或兩次以上。
+
+   * - .. container:: mx-2
+
+          *The times of giving cloth and making robes* are defined as in the preceding rule. The reason for exempting them is that in the days of the Buddha, cloth and thread were hard to come by, and donors who wanted to offer them usually did so in conjunction with a meal. If these exemptions were not made, a bhikkhu making a robe, having already been invited to one meal, could not go to another meal beforehand to receive the cloth or thread offered there.
+
+     - .. container:: mx-2
+
+          *布施布料和製作袈裟的時候*\ 定義如上一條戒條。之所以免除這些時候，是因為在佛陀時代，布料和線材不易取得，而想要供養的施主通常會搭配餐食進行供養。如果沒有這些豁免，製作袈裟的比丘在受邀參加一頓餐食後，就不能提前前往另一餐食在那裡接受供養的布料和線材。
+
+   * - There is reason to believe that these three exemptions apply to out-of-turn meals of the type mentioned in the origin story: i.e., a bhikkhu is allowed in these cases to go to another meal before attending the meal to which he was originally invited.
+
+     - 有理由相信，這三項豁免適用於起源故事中提到的輾轉食的類型：即，在這些情況下，比丘被允許在出席最先邀請他參加的餐食之前去參加另一頓餐食。
+
 (未完待續)
