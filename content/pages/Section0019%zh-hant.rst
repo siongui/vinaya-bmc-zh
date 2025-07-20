@@ -884,4 +884,22 @@
 
      - 有理由相信，這三項豁免適用於起源故事中提到的輾轉食的類型：即，在這些情況下，比丘被允許在出席最先邀請他參加的餐食之前去參加另一頓餐食。
 
+   * - **Sharing invitations**
+     - **分享邀請**
+
+   * - As for the sort of out-of-turn meal where a bhikkhu invited to one meal goes to another meal instead, the Buddha in a story ancillary to this rule gives permission to share invitations: If a bhikkhu has received an invitation, he may give it to another bhikkhu or novice by saying, “I give my expectation of a meal to so-and-so.” He is then allowed to eat elsewhere.
+
+     - 至於被邀請去用一頓餐的比丘卻去了另一頓餐的該類輾轉食，佛陀在與此戒條附屬的一個故事中允許分享邀請：如果一位比丘收到了邀請，他可以將其給予另一個比丘或沙彌，說：「我把我的用餐期望給予某某。」然後，他就被允許在其他地方吃了。
+
+   * - The Commentary regards the act of sharing as a mere formality: One may even make the statement outside of the other bhikkhu’s presence without his knowing anything about it. This, though, is very unlikely to satisfy the original donor. The wise policy in this case would be to make the statement in the presence of the other bhikkhu—“I give my expectation of a meal to you”—making reasonably sure that he is willing and able to go.
+
+     - 《義註》認為分享邀請的行為只是例行公事：甚至可以在另一位比丘不在場的情況下，在對方不知情的情況下做出這樣的聲明。然而，這不太可能讓原來的布施者感到滿意。在這種情況下，明智之舉是當著另一位比丘的面做出聲明—「我把我的餐食期望給你」—並合理地確保他願意並且能夠前往。
+
+   * - The Vinaya-mukha adds, though, that if the donors of the meal have specifically invited one to a meal—i.e., one is going to an invitational meal rather than a designated meal (see `Pc 32`_)—it would be bad manners to share the invitation without making an agreement with the donors first.
+
+     - 然而，《戒律入口》也補充道，如果施主們特別邀請某人去用餐—即某人要去邀請食\ :small:`[譯註：古漢譯為「別請食」]`\ 而不是指定食\ :small:`[譯註：古漢譯為「僧次請食」]`\ （參閱\ `《波逸提》三二`_\ ）—在沒有先與施主們達成協議的情況下分享邀請是不禮貌的。
+
+.. _Pc 32: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
+.. _《波逸提》三二: #Pc32
+
 (未完待續)
