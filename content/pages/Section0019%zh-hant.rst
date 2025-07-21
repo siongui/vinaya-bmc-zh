@@ -929,4 +929,23 @@
 
      - 《義註》在討論這一點時提到了一種常見的情況，即比丘的數量相對於施主的數量來說非常少：一位比丘受邀赴餐食，但在他離開寺院去赴餐之前，另一群施主帶著食物來到並放入他的缽中；或者在他到達最先的施主家後，又有一群施主帶著更多的食物到來。根據《義註》，他可以接受這些施主的食物，只要當他在最終進食時小心地在第一口食物時吃掉最先的施主供養的食物即可。
 
+   * - The non-offense clauses also state that periodic meals and lottery meals do not count as out-of-turn meals under this rule, but the Vibhaṅga offers no explanation as to why. The Commentary to Cullavagga VI.21 shows that the custom was for many families to prepare such meals on the same day. This exemption would thus seem to provide for the situation where there are fewer bhikkhus than there are families preparing these meals. One bhikkhu would be allowed to accept more than one meal so that no family’s meal would go without a recipient.
+
+     - 不犯條款也規定，週期食\ :small:`[譯註：古漢譯為「常請食」]`\ 和抽籤食\ :small:`[譯註：古漢譯為「行籌食」]`\ 不算在本戒條下的輾轉食，但《經分別》並未解釋原因。\ `《小品》.六.21`_ 的《義註》顯示，許多家庭習慣於同一天準備此類餐食。因此，這項豁免似乎是為了應對比丘人數少於準備此類餐食的家庭數的情況。一位比丘被允許接受多餐食，這樣每個家庭的餐食都會有接受者。
+
+   * - `Mv.VI.25.7`_ implies that if the donor of the meal provides a pre-meal snack of thick conjey—or by extension any other staple food—there would be no offense in eating it. And the Commentary notes that if the donor gives explicit permission to eat another meal before the one he/she is providing, there would be no offense in doing so.
+
+     - `《大品》.六.25.7`_ 暗示，如果該餐的施主在餐前提供一頓濃稠的小吃粥——或者推而廣之的任何其他主食——食用它並不犯戒。《義註》指出，如果施主明確允許在他/她提供餐食之前吃另一餐，那麼這樣做不犯戒。
+
+   * - *Summary: Eating a meal before going to another meal to which one was invited, or accepting an invitation to one meal and eating elsewhere instead, is a pācittiya offense except when one is ill or during the time of giving cloth or making robes.*
+     - *摘要：在去參加被邀請的另一餐之前就用過一餐，或者接受一頓餐食的邀請卻在其他地方用餐，是《波逸提》（《單墮》）罪，除非是在生病時，或者是在施衣或做衣期間。*
+
+.. _《小品》.六.21: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0237a09
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
