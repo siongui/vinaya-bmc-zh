@@ -989,4 +989,22 @@
    * - *2) Object:* of cakes or cooked grain-meal *(sattu)*.
      - *2）對象：*\ 糕點或煮熟的穀物粉\ *（sattu）*\ 。
 
+   * - **Effort**
+     - **努力**
+
+   * - Receiving, here, is defined in the context of an invitation to take as much as one likes. Perception as to whether one has taken more than three bowlfuls is not a mitigating factor here (see `Pc 4`_).
+
+     - 此處的「接受」是指邀請隨意取用。是否取了超過三缽的感知，在此並不構成減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - **Object**
+     - **對象**
+
+   * - In the context of this rule, the Vibhaṅga defines *cakes* to cover anything prepared as a present, and *cooked grain-meal (sattu)* to cover anything prepared as provisions for a journey. Thus we will use the terms *presents* and *provisions* for the remainder of this explanation. The word *journey* here refers to journeys that the donors are planning to take themselves. This rule thus does not cover gifts of food that donors have prepared to give to a bhikkhu for a journey *he* is planning to take.
+
+     - 在本戒條的脈絡中，《經分別》將\ *糕點*\ 定義為任何作為禮物而準備的東西，將\ *煮熟的穀物粉（sattu）*\ 定義為任何作為旅程食物供應而準備的東西。因此，我們將在此解釋的其餘部分使用「\ *禮物*\ 」和「\ *食物供應*\ 」這兩個術語。這裡的「\ *旅程*\ 」一詞指的是施主計劃自行前往的旅程。因此，本戒條不涵蓋施主為比丘\ *他*\ 自己計畫前往的旅程所準備的食物布施。
+
+   * - The Vinaya-mukha, using the Great Standards, infers from the Vibhaṅga’s definitions for presents and provisions that any food prepared in large quantities for sale or for a party, banquet, or reception, etc., should be covered by this rule as well.
+
+     - 《戒律入口》運用《四大教示》，從《經分別》對禮物和食物供應的定義中推斷，為銷售或聚會、宴會或招待會等而大量準備的任何食物也應涵蓋在此戒條之下。
+
 (未完待續)
