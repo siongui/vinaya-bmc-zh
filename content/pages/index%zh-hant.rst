@@ -415,7 +415,7 @@
      - `\　　　三十四 <{filename}Section0019%zh-hant.rst#Pc34>`__
 
    * - `\　　　35 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35>`__
-     - 　　　三十五
+     - `\　　　三十五 <{filename}Section0019%zh-hant.rst#Pc35>`__
 
    * - `\　　　36 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc36>`__
      - 　　　三十六

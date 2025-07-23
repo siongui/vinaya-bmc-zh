@@ -96,8 +96,7 @@
      - 根據\ `《大品》.六.10.2`_\ ，只有當非人附身時，才允許食用生肉和血。因此，在更普遍的情況下，即使是允許的生魚或生肉，也不得食用。這包括韃靼牛排、生魚片、帶殼牡蠣、生蛋和魚子醬。此外，如果比丘看到、聽到或懷疑動物是專門為了供養比丘而宰殺的，即使是允許的熟魚或熟肉，也是不允許食用的（\ `《大品》.六.31.14`_\ ）。
 
 .. _Pc 35: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
-.. _《波逸提》三五: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
-.. TODO FIXME: replace link to 《波逸提》三五
+.. _《波逸提》三五: #Pc35
 .. _Mv.VI.23.9-15: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.23.9
 .. _《大品》.六.23.9-15: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0289a14
 .. _AN 4\:113: https://www.dhammatalks.org/suttas/AN/AN4_113.html
@@ -179,8 +178,7 @@
      - 除了主食和副食之外，本品的戒條的《經分別》還提到了其他三類食用物：果汁飲料、五種補品和藥物。
 
 .. _Pc 35-38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
-.. _《波逸提》三五至三八: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
-.. TODO FIXME: replace link to 《波逸提》三五至三八
+.. _《波逸提》三五至三八: #Pc35
 .. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. _《波逸提》四十: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. TODO FIXME: replace link to 《波逸提》四十
@@ -197,8 +195,7 @@
 .. _Pc 33: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
 .. _35: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. _《波逸提》三三: #Pc33
-.. _三五: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
-.. TODO FIXME: replace link to 《波逸提》三五
+.. _三五: #Pc35
 .. _Mv.VI.25.7: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.25.7
 .. _40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. _四十: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
@@ -1041,5 +1038,26 @@
 
    \*    \*    \*
 
+
+.. _Pc35:
+
+.. raw:: html
+
+   <span id="Pc35"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **35**
+     - **三十五**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, having eaten and turned down an offer (of further food), chew or consume staple or non-staple food that is not leftover, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘已經吃了，並拒絕了（進一步的食物）供養，而咀嚼或食用了非剩餘的主食或副食，波逸提。*
 
 (未完待續)
