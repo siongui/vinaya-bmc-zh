@@ -1018,4 +1018,28 @@
 
      - 《義註》進一步指出，接受兩、三缽的比丘，可以保留一缽，隨意支配，但必須將剩餘的分給整個僧團，即，不僅限於他的朋友。只接受一缽的比丘，可以隨意支配。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The Vibhaṅga states that there is no offense in taking more than three bowlfuls of items not intended as presents or provisions, of items left over from preparing presents or provisions, or of provisions remaining when plans for a journey have been abandoned. As explained above, the Vinaya-mukha would include items prepared for sale or for parties, etc., under the word *provisions* here.
+
+     - 《經分別》規定，取超過三缽，非做為禮物或食物供應的東西、準備禮物或食物供應後剩餘的東西，以及放棄旅行計劃後剩餘的食物供應，均不構成犯戒。如上所述，《戒律入口》中的「\ *食物供應*\ 」一詞涵蓋了為出售或宴會等準備的東西。
+
+   * - The Vibhaṅga also says that there is no penalty in accepting more than three bowlfuls from relatives or from those who have offered an invitation. Here the Commentary states that if such people give more than three bowlfuls outright, one may accept them without penalty, but if they tell one to take as much as one likes from items prepared as presents or provisions, the proper course is to take only two or three bowlfuls.
+
+     - 《分別論》也說，接受親屬或已提出邀請者超過三缽，不受任何懲罰。《義註》在此指出，如果這些人直接給予超過三缽，可以接受，不受任何懲罰；但如果他們告知隨意取用被準備作為禮物或食物供應的東西，則正確的做法是只取兩、三缽。
+
+   * - The Vibhaṅga further says that there is no offense in having more than three bowlfuls of presents or provisions purchased with one’s own resources, and that there is no offense in taking extra for the sake of another. Neither the Commentary nor Sub-commentary discusses this last point, but the only way it can make sense in the context of this rule is if it refers to cases where the bhikkhu takes extra for the sake of another not on his own initiative, but because the donor asks him to.
+
+     - 《經分別》進一步指出，用自己的資源令人購買超過三缽的禮物或食物供應並不犯戒，為他人多取也不犯戒。《義註》和《複註》均未討論這最後一點，但只有在比丘並非主動為他人多取，而應施主要求的情況下，它才在本條戒條的語境下說得通。
+
+   * - *Summary: Accepting more than three bowlfuls of food that the donors prepared for their own use as presents or as provisions for a journey is a pācittiya offense.*
+     - *摘要：布施者為他們自己準備作為禮物或作為旅行供應的食物，接受超過三缽，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
