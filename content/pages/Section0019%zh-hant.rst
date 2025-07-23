@@ -1007,4 +1007,15 @@
 
      - 《戒律入口》運用《四大教示》，從《經分別》對禮物和食物供應的定義中推斷，為銷售或聚會、宴會或招待會等而大量準備的任何食物也應涵蓋在此戒條之下。
 
+   * - **Protocol**
+     - **行儀**
+
+   * - If a bhikkhu has accepted two or three bowlfuls of such items, then on his return from there he should tell every bhikkhu he sees, “I accepted two or three bowlfuls over there. Don’t you accept anything there.” He incurs a dukkaṭa if, seeing a bhikkhu, he does not tell him, while there is a dukkaṭa for the other bhikkhu if, having been told, he accepts anything at the place in question. According to the Commentary, if the first bhikkhu accepts two bowlfuls, he should tell the second bhikkhu to accept no more than one, and all other bhikkhus he meets that they should not accept anything. If he accepts only one bowlful, he should follow a similar process so that, all-in-all, the bhikkhus accept a total of no more than three.
+
+     - 如果一個比丘已經接受了兩、三缽這樣的食物，那麼他從那裡回來時應該告訴他所見到的每一位比丘：「我在那裡接受了兩、三缽。你們在那裡不要接受任何東西。」如果他見到一位比丘而不告訴他，他犯《突吉羅》；而另一位比丘在被告知之後，在該地方接受任何東西，也犯《突吉羅》。根據《義註》，如果第一位比丘接受了兩缽，他應該告訴第二位比丘不要接受超過一缽，並告訴所有其他遇到的比丘不應接受任何東西。如果他只接受一缽，他也應該遵循類似的過程，以便總的來說，比丘們接受的總數不超過三缽。
+
+   * - The Commentary states further that a bhikkhu receiving two or three bowlfuls may keep one bowlful and do as he likes with it, but must share the remainder among an entire Community, i.e., not just among his friends. A bhikkhu receiving only one bowlful may do with it as he likes .
+
+     - 《義註》進一步指出，接受兩、三缽的比丘，可以保留一缽，隨意支配，但必須將剩餘的分給整個僧團，即，不僅限於他的朋友。只接受一缽的比丘，可以隨意支配。
+
 (未完待續)
