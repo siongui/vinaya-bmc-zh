@@ -1092,4 +1092,27 @@
 
           「於是婆羅門便批評、抱怨，並四處散播此事：『諸大德既然在我家吃過飯，怎麼還能到別處去吃呢？難道我不能滿足他們的需要嗎？』」
 
+   * - When a donor invited bhikkhus for a meal, the custom in the time of the Buddha was for him/her to offer food to the bhikkhus repeatedly while they ate, and to stop only when the supplies of food were exhausted or the bhikkhus refused any further offers. (This custom is still widespread in Sri Lanka and Burma.) Thus it was often a matter of pride among donors that their supplies were not easily exhausted and that they could continue offering food until the bhikkhus were completely satisfied and could eat no more. Now, where there is pride there is bound to be wounded pride: A donor could easily feel insulted if bhikkhus refused further offers of food, finished their meal, and then went to eat someplace else.
+
+     - 佛陀時代的習俗是，當布施者邀請比丘們用餐時，布施者會在比丘們用餐時反覆供養食物給比丘們，直到食物耗盡或比丘們拒絕更進一步供養時才停止。（這項習俗在斯里蘭卡和緬甸至今仍盛行。）因此，這往往是布施者的驕傲，因為他們的供養不容易耗盡，而且他們可以繼續供養食物，直到比丘們完全吃飽，再也吃不下為止。然而，哪裡有自尊心，哪裡的自尊心就必然受到傷害：如果比丘們拒絕更進一步供養食物，用完餐後又去其他地方吃東西，布施者很容易感到被冒犯。
+
+   * - As the origin story shows, this rule is designed to protect generous donors from being insulted by the bhikkhus in this way. It is also designed to protect bhikkhus from being forced to go hungry by stingy or impoverished donors. If the donor stops offering food before the bhikkhus have refused further offers—or if what he/she offers is not substantial food at all (see the discussion under `Pc 8`_ for an historic case of this sort)—the bhikkhus, after finishing their meal, are free to accept food elsewhere that morning if they are still hungry.
+
+     - 正如起源故事所示，這條戒條旨在保護慷慨的布施者免受比丘的這種侮辱。它同時也保護比丘不被吝嗇或貧困的布施者逼得挨餓。如果布施者在比丘拒絕進一步供養之前停止供養食物，或者他/她供養的食物根本不是大量的（參見\ `《波逸提》八`_\ 中關於此類歷史案例的討論），比丘們在用餐結束後，如果仍然感到飢餓，當天早上可以自由地在其他地方接受食物。
+
+   * - There are two factors for an offense here.
+     - 此處的犯戒有兩個因素。
+
+   * - *1) Object:* staple or non-staple food that is not leftover.
+     - *1）對象：*\ 非剩餘的主食或副食。
+
+   * - *2) Effort:* One eats the food after having eaten and turned down an offer of further food.
+     - *2）努力：*\ 吃過並拒絕更進一步的食物供養後，吃了食物。
+
+   * - Before explaining these factors, we must first explain the situation of having eaten and turned down an offer of further food.
+     - 在解釋這些因素之前，我們必須先解釋一下吃過並拒絕更進一步食物供養的情況。
+
+.. _Pc 8: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc8
+.. _《波逸提》八: {filename}Section0016%zh-hant.rst#Pc8
+
 (未完待續)
