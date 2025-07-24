@@ -1060,4 +1060,36 @@
 
           *如果任何比丘已經吃了，並拒絕了（進一步的食物）供養，而咀嚼或食用了非剩餘的主食或副食，波逸提。*
 
+   * - .. container:: mx-2
+
+          “Now at that time a certain brahman, having invited bhikkhus, fed them. The bhikkhus, having eaten and turned down an offer of further food, went to their relatives’ families. Some ate there; some left having received alms.
+
+     - .. container:: mx-2
+
+          「\ `爾時，一位婆羅門邀請比丘們，並為他們提供食物。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0108a14>`_\ 比丘們吃飽後，拒絕了更進一步的食物供養，前往親戚家。有的在那裡用餐，有的接受缽食後離開。
+
+   * - .. container:: mx-2
+
+          “Then the brahman said to his neighbors, ‘Masters, the bhikkhus have been satisfied by me. Come and I will satisfy you as well.’
+
+     - .. container:: mx-2
+
+          「隨後，婆羅門對鄰居們說：『諸賢，我已經讓各位比丘們吃飽了。來吧，我也讓你們吃飽。』
+
+   * - .. container:: mx-2
+
+          “They said, ‘Master, how will you satisfy us? Even those you invited came to our homes. Some ate there; some left having received alms.’
+
+     - .. container:: mx-2
+
+          「他們說：『賢者，您要怎麼讓我們飽餐一頓呢？連您邀請的人也來到我們家。有的在那裡吃了飯，有的接受缽食後離開。』
+
+   * - .. container:: mx-2
+
+          “So the brahman criticized and complained and spread it about, ‘How can their reverences, having eaten in my home, eat elsewhere? Am I not capable of giving as much as they want?’”
+
+     - .. container:: mx-2
+
+          「於是婆羅門便批評、抱怨，並四處散播此事：『諸大德既然在我家吃過飯，怎麼還能到別處去吃呢？難道我不能滿足他們的需要嗎？』」
+
 (未完待續)
