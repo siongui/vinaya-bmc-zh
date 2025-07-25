@@ -1134,4 +1134,31 @@
 
      - 2）《義註》的解讀引發了一個更實際的問題是，如果缽裡已經有足夠多的食物但還沒吃完，而拒絕了額外的食物供養，那就不能繼續吃。《義註》試圖透過引入一個額外的因素來解決這個困境：只要不離開所坐的位置，就可以繼續吃飯。然而，這又帶來了進一步的問題：假設一位比丘拒絕了更進一步的食物供養但還沒用完餐。如果有某種令人信服的理由迫使他離開所坐的位置——例如，布施者打翻了一鍋熱湯，或者螞蟻爬進了他的袈裟——那麼即使布施者懇求他繼續吃飯，他也不能用完餐。
 
+   * - The Sub-commentary gets around the first problem by interpreting *having eaten* as “having finished a meal,” which fits better with the origin story and with the linguistic usage of the Canon itself. (The word *bhuttāvin* also appears in MN 91, `Cv.VIII.4.6`_, and `Cv.VIII.11.5`_, where it clearly and consistently means “having finished a meal.” The Canon uses a separate term, *asana*, for one who is in the process of eating a meal without yet having finished it.) The author of the Sub-commentary doesn’t realize, though, that in adopting this interpretation he is also eliminating the need for the Commentary’s extra factor concerning moving from one’s spot. If the factor is unnecessary and has no basis in the Canon, there seems no reason to adopt it. Thus the Commentary’s factor, and not the wording of the rule, is what is superfluous. So we can say that *having eaten* means having finished one’s meal, and that the question of having moved from one’s spot doesn’t enter into the rule.
+
+     - 《複註》透過將「\ *吃過*\ 」解釋為「用餐完畢」來規避第一個問題，這更符合起源故事和《聖典》本身的語言用法。（ *bhuttāvin* 一詞也出現在\ `《中部》91經`_\ 、\ `《小品》.八.4.6`_ 和\ `《小品》.八.11.5`_ 中，在這些經文中，它明確且一致地表示「用餐完畢」。《聖典》使用了一個單獨的術語 *asana* 來指正在用餐但尚未完畢的人。）然而，《複註》的作者沒有意識到，透過採用這種解釋，他也消除了《義註》中關於從位置移動的額外因素的需要。如果這個因素是不必要的，而且在《聖典》中沒有依據，那麼似乎也沒有理由採用它。因此，多餘的是《義註》中的因素，而不是戒條的措辭。所以我們可以說，「\ *吃過*\ 」意味著已經用餐完畢，而是否離開位置的問題並不在戒條之內。
+
+   * - As the Commentary itself notes when discussing the term *asana*, the point where one finishes eating is determined in one of two ways:
+     - 正如《義註》本身在討論 *asana* 該術語時所指出的，用餐完畢的時間點是透過以下兩種方式之一來決定的：
+
+   * - a\) There is no food left in one’s bowl, hand, or mouth; or
+     - a）缽裡、手裡或嘴裡沒有食物；或者
+
+   * - b\) one decides that one has had enough for that particular meal.
+     - b）決定自己已經吃飽了那餐。
+
+   * - Thus, as long as the bhikkhu has not yet finished the donor’s meal, he is free to turn down, accept, and eat food as he likes. In other words, if he turns down an offer of further food, he may continue eating what is left in his bowl. If he initially turns down an offer of further food but then gives in and accepts it after being pressured by the donor, he may eat what he accepts without penalty. Or if he feels, for example, that he has enough vegetables but would like more rice, he may turn down an offer of vegetables yet accept and eat an offer of rice that follows it.
+
+     - 因此，只要比丘尚未吃完施主的供養，他就可以自由地隨意拒絕、接受和食用食物。換句話說，如果他拒絕了施主提供的更多食物，他可以繼續吃缽裡剩下的食物。如果他最初拒絕了施主提供的更多食物，但在施主的催促下屈服並接受了，他可以繼續吃他接受的食物而不受懲罰。或者，例如，如果他覺得蔬菜已經足夠，但想要更多的米飯，他可以拒絕蔬菜的供養，但接受並食用隨後供養的米飯。
+
+   * - But once he no longer has any food in his bowl, hand, or mouth, or has decided that he has had enough for that particular meal, he fulfills the factor of “having eaten” under this rule. If he turned down an offer of further food before finishing the meal, he may not for the remainder of the day eat any staple or non-staple foods that are not leftovers.
+
+     - 但一旦他的缽裡、手裡或嘴裡沒有食物，或者他決定該餐已經吃飽了，他就滿足了這條戒條下「吃過」的因素。如果他在用完餐之前拒絕了更進一步食物的供養，那麼在當天剩餘的時間裡，他不得吃任何非剩餘的主食或副食。
+
+.. _Cv.VIII.4.6: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.4.3-6
+.. _Cv.VIII.11.5: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.11.2-18
+.. _《中部》91經: https://sutra.mobi/chilin/zhong/content/091.html
+.. _《小品》.八.4.6: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0293a07
+.. _《小品》.八.11.5: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0302a12
+
 (未完待續)
