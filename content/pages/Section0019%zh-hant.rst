@@ -1115,4 +1115,23 @@
 .. _Pc 8: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc8
 .. _《波逸提》八: {filename}Section0016%zh-hant.rst#Pc8
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Having eaten**
+     - **吃過**
+
+   * - *Having eaten (bhuttāvin)*, according to the Vibhaṅga, means having eaten any of the five staple foods, “even as much as a blade of grass.” On the surface, this could mean one of two things: having taken one’s first bite of a meal or having finished a meal—even the smallest possible one. The Commentary adopts the first interpretation, but in doing so creates two problems:
+
+     - 根據《經分別》，\ *「吃過」（bhuttāvin）*\ 的意思是吃過五種主食中的任何一種，「哪怕只是一小片草」。表面上，這可能意味著兩種情況之一：用餐吃過第一口或用餐完畢——哪怕是一小口。《義註》採用了第一種解讀，但這樣做卻帶來了兩個問題：
+
+   * - 1\) If *having eaten* means having taken one’s first bite of a meal, then the word serves no purpose in the rule, because the first factor of “having turned down an offer of further food” is “the bhikkhu is eating,” and as the Commentary itself notes, if one is eating then one has already taken one’s first bite of the meal. It concludes that the word *having eaten*, both in the rule and in the Vibhaṅga, is completely superfluous.
+
+     - 1）如果「\ *吃過*\ 」的意思是用餐吃過第一口，那麼這個詞在戒條中就毫無意義，因為「\ *已拒絕了更進一步的食物供養*\ 」的第一個因素是「比丘正在吃」，而正如《義註》本身所指出的，如果一個人正在吃，那麼該人已經用餐吃過第一口。它得出結論，「吃過」這個詞，無論在戒條中或在《經分別》中，都是完全多餘的。
+
+   * - 2\) A more practical problem coming from the Commentary’s interpretation is that if one turns down an offer of extra food when one already has more than enough food in one’s bowl but has yet to finish one’s meal, one cannot continue eating. The Commentary tries to get around this predicament by introducing an additional factor: As long as one does not move from the spot on which one is sitting, one may continue eating. This, though, creates further problems: Suppose a bhikkhu has turned down an offer of further food but has yet to finish his meal. If there is then some compelling reason for him to move from the spot on which he is sitting—for example, the donor spills a pot of hot soup, or ants come crawling into his robes—then he cannot finish his meal even if the donor begs him to continue eating.
+
+     - 2）《義註》的解讀引發了一個更實際的問題是，如果缽裡已經有足夠多的食物但還沒吃完，而拒絕了額外的食物供養，那就不能繼續吃。《義註》試圖透過引入一個額外的因素來解決這個困境：只要不離開所坐的位置，就可以繼續吃飯。然而，這又帶來了進一步的問題：假設一位比丘拒絕了更進一步的食物供養但還沒用完餐。如果有某種令人信服的理由迫使他離開所坐的位置——例如，布施者打翻了一鍋熱湯，或者螞蟻爬進了他的袈裟——那麼即使布施者懇求他繼續吃飯，他也不能用完餐。
+
 (未完待續)
