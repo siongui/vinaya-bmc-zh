@@ -1161,4 +1161,45 @@
 .. _《小品》.八.4.6: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0293a07
 .. _《小品》.八.11.5: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0302a12
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Turning down an offer of further food**
+     - **拒絕更進一步的食物供養**
+
+   * - The Vibhaṅga defines this as an act with five factors:
+     - 《經分別》將此定義為具有五個因素的行為：
+
+   * - 1\) The bhikkhu is eating.
+     - 1）比丘正在吃。
+
+   * - 2\) There is further staple food.
+     - 2）還有更多的主食。
+
+   * - 3\) The donor is standing within *hatthapāsa* (1.25 meters) of the bhikkhu.
+     - 3）布施者站在比丘伸手可及（ *hatthapāsa* 1.25 公尺）以內。
+
+   * - 4\) He/she offers the food.
+     - 4）他/她供養食物。
+
+   * - 5\) The bhikkhu turns it down.
+     - 5）比丘拒絕了。
+
+   * - The Commentary adds that if the bhikkhu has finished eating before the further food is offered, factor (1) is not fulfilled, so if he turns down the food he does not fall under the terms of this rule. Similarly, if the food in factor (2) is not a staple food—e.g., if it is fruit, chocolates, or cheese—or if it is staple food of a sort unallowable for a bhikkhu to eat—e.g., it has been offered as a result of a bhikkhu’s claiming a superior human state or corrupting a family (see `Sg 13`_), or it is made of human flesh or snake meat, etc.—the factor is not fulfilled. Because none of the texts specify that the donor under factor (3) must be unordained, a bhikkhu offering food to a fellow bhikkhu would apparently fulfill this factor as well. Thus this rule would apply not only to meals offered by lay donors, but also to food handed out by bhikkhus and novices in a monastery.
+
+     - 《義註》補充道，如果比丘在更進一步供養食物之前已經吃完，則不滿足因素（1），因此如果他拒絕食物，則不屬於本戒條的範疇。同樣，如果因素（2）中的食物不是主食（例如，水果、巧克力或奶酪），或者屬於比丘禁食的主食—例如，由於比丘自稱上人法或污家而被供養的（參見\ `《僧殘》十三`_\ ），或者食物由人肉或蛇肉製成等—則不滿足該因素。由於沒有任何文獻明確規定因素（3）中的布施者必須是未出家者，因此，比丘向比丘同儕供養食物顯然也滿足本因素。因此，這條戒條不僅適用於在家布施者所供養的食物，也適用於寺院中比丘和沙彌所分發的食物。
+
+   * - Factor (5) is fulfilled by any refusal made by word or gesture.
+     - 因素（5）透過任何言語或示意動作表示拒絕來滿足。
+
+   * - `Cv.VI.10.1`_ states that when a senior bhikkhu makes a junior bhikkhu get up from his seat before the latter has finished his meal, the senior bhikkhu counts as having turned down an offer of further food (§). In other words, when the senior bhikkhu then finishes his own meal, he comes under the purview of this rule as well.
+
+     - `《小品》.六.10.1`_ 規定，當一位資深比丘讓一位資淺比丘在用餐完畢前從座位起身，則該資深比丘視為拒絕了更進一步的食物供養（§）。換句話說，當該資深比丘隨後也用餐完畢，他也受此戒條約束。
+
+.. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
+.. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
+.. _Cv.VI.10.1: https://www.dhammatalks.org/vinaya/bmc/Section0047.html#Cv.VI.10.1
+.. _《小品》.六.10.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0223a09
+
 (未完待續)
