@@ -1202,4 +1202,40 @@
 .. _Cv.VI.10.1: https://www.dhammatalks.org/vinaya/bmc/Section0047.html#Cv.VI.10.1
 .. _《小品》.六.10.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0223a09
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Staple & non-staple food**
+     - **主食和副食**
+
+   * - *Staple food*, here, follows the standard definition. *Non-staple food*, in the context of this rule, covers all edibles except for the five staple foods, juice drinks, the five tonics, medicines, and water.
+
+     - 這裡的\ *主食*\ 是依照標準定義，\ *副食*\ 則是指除五種主食、果汁飲料、五種補藥、藥物、水以外的所有可食用物。
+
+   * - Leftover food is of two sorts: (1) leftover from a sick bhikkhu’s meal and (2) formally “made” leftover by a bhikkhu who is not sick. In the latter case, the formal act has seven factors:
+
+     - 剩餘食物有兩種：（1）生病比丘用餐後剩下的；（2）由非生病比丘正式地「被製成」的剩餘食物。在後一種情況下，正式行為包含七個因素：
+
+   * - 1\) The food is allowable.
+     - 1）食物是被允許的。
+
+   * - 2\) It has been formally received by any bhikkhu except Bhikkhu Y.
+     - 2）除 Y 比丘外，它已經被任何比丘正式地接受。
+
+   * - 3\) Bhikkhu X lifts it up in the presence of Bhikkhu Y.
+     - 3）比丘 X 在比丘 Y 面前舉起了它。
+
+   * - 4\) Bhikkhu Y is within hatthapāsa of X.
+     - 4）比丘 Y 在 X 的伸手可及（hatthapāsa）之處。
+
+   * - 5\) Bhikkhu Y has finished his meal.
+     - 5）比丘 Y 已用完餐。
+
+   * - 6\) Bhikkhu Y has not yet gotten up from the seat where he has finished his meal and turned down an offer of further food; and
+     - 6）比丘 Y 用完餐後還沒有從座位上起身，並且拒絕了更進一步的食物供養；並且
+
+   * - 7\) he says, “All that is enough (in Pali: *Alam’etaṁ sabbaṁ*).”
+     - 7）他說：「所有那些就足夠了（巴利語： *Alam’etaṁ sabbaṁ* ）。」
+
 (未完待續)
