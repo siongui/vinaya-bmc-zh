@@ -1246,4 +1246,14 @@
 
      - 這兩種允許剩餘食物的開緣都是為了防止食物浪費。第一種無需解釋，第二種則適用於防止下列情況下的浪費：（a）X 拒絕了更進一步的食物供養，但吃不完缽裡的食物；在讓 Y 把食物剩下後，X 可以將食物帶回寺院，稍後在那裡吃完。（b）除了 X 之外，所有比丘在拒絕了更進一步的食物供養後都用餐完畢了。布施者的朋友遲到了，帶著大量食物想要供養比丘；在 X 從他們那裡接受食物並讓 Y 把食物剩下後，除了 Y 之外的所有比丘都可以享用。
 
+   * - **Effort**
+     - **努力**
+
+   * - If a bhikkhu who, having eaten and turned down an offer of further food, is presented with staple or non-staple food that is not leftover—e.g., a snack of milk or ice cream—he incurs a dukkaṭa if he accepts it with the thought of eating it, and a pācittiya for every mouthful he eats.
+
+     - 如果一個比丘吃過後，拒絕了更進一步的食物供養，然後被供養非剩餘的主食或副食—例如，牛奶或冰淇淋零食—如果他帶著吃它的想法接受它，他犯《突吉羅》，而他吃的每一口都犯一次《波逸提》。
+
+   * - According to the Vibhaṅga, perception as to whether the food is actually leftover is not a mitigating factor here (see `Pc 4`_).
+     - 根據《經分別》，對於食物是否真的剩餘的感知並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
 (未完待續)
