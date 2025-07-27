@@ -1238,4 +1238,12 @@
    * - 7\) he says, “All that is enough (in Pali: *Alam’etaṁ sabbaṁ*).”
      - 7）他說：「所有那些就足夠了（巴利語： *Alam’etaṁ sabbaṁ* ）。」
 
+   * - The Commentary notes under step (3) that X may either offer the food to Y or simply lift it up, even slightly. It goes on to say that any bhikkhu except Bhikkhu Y may eat the food formally made leftover in this way.
+
+     - 《義註》在第（3）步指出， X 可以將食物供養給 Y ，或僅僅舉起來，即使只有一點點。《義註》接著指出，除比丘 Y 外，任何比丘都可以吃以這種方式製成的剩餘食物。
+
+   * - Both of these allowances for leftover food are designed to prevent food’s going to waste. The first needs no explanation; the second would be useful for preventing waste in cases such as these: (a) X has turned down an offer of further food but cannot finish the food in his bowl; after getting Y to make it leftover, X can take the food back to the monastery and finish it there later. (b) All the bhikkhus except X have finished eating after turning down an offer of further food. Friends of the donors arrive late with large quantities of food they want to present to the bhikkhus; after X receives the food from them and gets Y to make it leftover, all the bhikkhus except Y may partake of it.
+
+     - 這兩種允許剩餘食物的開緣都是為了防止食物浪費。第一種無需解釋，第二種則適用於防止下列情況下的浪費：（a）X 拒絕了更進一步的食物供養，但吃不完缽裡的食物；在讓 Y 把食物剩下後，X 可以將食物帶回寺院，稍後在那裡吃完。（b）除了 X 之外，所有比丘在拒絕了更進一步的食物供養後都用餐完畢了。布施者的朋友遲到了，帶著大量食物想要供養比丘；在 X 從他們那裡接受食物並讓 Y 把食物剩下後，除了 Y 之外的所有比丘都可以享用。
+
 (未完待續)
