@@ -1256,4 +1256,80 @@
    * - According to the Vibhaṅga, perception as to whether the food is actually leftover is not a mitigating factor here (see `Pc 4`_).
      - 根據《經分別》，對於食物是否真的剩餘的感知並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense—
+     - 並不犯戒——
+
+   * - .. container:: mx-2
+
+          if a bhikkhu accepts the food and takes it for the sake of another,
+
+     - .. container:: mx-2
+
+          如果比丘為了他人而接受且拿取食物，
+
+   * - .. container:: mx-2
+
+          if he accepts and eats leftover food, or
+
+     - .. container:: mx-2
+
+          如果他接受並吃剩餘的食物，或者
+
+   * - .. container:: mx-2
+
+          if, having a reason, he later in the day accepts and consumes juice drinks, any of the five tonics, or medicine. According to the Commentary, *having a reason* means, in the case of juice drinks, being thirsty; and in the case of the tonics and medicine, suffering from an illness that they are meant to assuage. (As we have noted under `NP 23`_, these illnesses include hunger and fatigue as well as medical disorders.) In other words, a bhikkhu under the circumstances covered by this rule may not take these items as food. The Vibhaṅga penalizes him with a dukkaṭa if he accepts them with the idea of taking them as food, and a further dukkaṭa for every mouthful he eats.
+
+     - .. container:: mx-2
+
+          如果比丘在當天晚些時候，出於某種原因，接受並食用果汁飲料、五種補品中的任何一種，或藥物。根據《義註》，\ *出於某種原因*\ ，就果汁飲料而言，是指口渴；就補品和藥物而言，是指患有它們用來緩解的疾病。（正如我們已在\ `《捨墮》二三`_\ 中指出的，這些疾病包括飢餓、疲勞以及醫學上的疾病。）換句話說，在這條戒條所涵蓋的情況下，比丘不得將這些物品當作食物。如果他以將其當作食物的想法接受它們，《經分別》以《突吉羅》懲罰他，並且他吃的每一口都將受到一次額外的《突吉羅》。
+
+   * - According to the Mahāvagga (VI.18.4, VI.19.2, VI.20.4), this rule was relaxed during times of famine so that a bhikkhu who had eaten and turned down an offer of further food could later in the day consume food that was not leftover:
+
+     - 根據《大品》（\ `六.18.4`_ 、\ `六.19.2`_ 、\ `六.20.4`_ ）記載，飢荒時期這條戒條被放寬，這樣，已經吃過並拒絕了更進一步食物供養的比丘可以在當天晚些時候食用非剩餘的食物：
+
+   * - .. container:: mx-2
+
+          if it was accepted before he went to his meal,
+
+     - .. container:: mx-2
+
+          如果在他去用餐之前就被接受了，
+
+   * - .. container:: mx-2
+
+          if it is brought back from a place where a meal has been offered, or
+
+     - .. container:: mx-2
+
+          如果是從餐食被供養的地方帶回來的，或者
+
+   * - .. container:: mx-2
+
+          if it has been taken from a wilderness area or a pond. The texts offer no explanation for this last stipulation. Perhaps, during famines, these were places where people would commonly forage for food.
+
+     - .. container:: mx-2
+
+          如果是從林野或池塘取來的。文獻中並沒有對最後這一項做出解釋。或許，在飢荒時期，這些地方是人們通常尋找食物的地方。
+
+   * - These famine allowances were later rescinded (`Mv.VI.32.2`_) without any provision for invoking them again if a similar crisis—such as the collapse of modern civilization—were to arise. Thus, they were part of the Buddha’s repertoire but not of the Community’s after his parinibbāna.
+
+     - 這些飢荒開緣後來被廢除（\ `《大品》.六.32.2`_ ），並且沒有規定在類似危機（例如現代文明崩潰）發生時可以再次援引。因此，它們是佛陀的保留曲目，但在他般涅槃後，不再是僧團的。
+
+   * - *Summary: Eating staple or non-staple food that is not leftover, after having earlier in the day finished a meal during which one turned down an offer to eat further staple food, is a pācittiya offense.*
+     - *摘要：在當天早些時候用完一餐並在用餐時拒絕吃更多主食的供養之後，吃非剩餘的主食或副食，是《波逸提》（《單墮》）罪。*
+
+.. _六.18.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0284a01
+.. _六.19.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0284a11
+.. _六.20.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0286a01
+.. _Mv.VI.32.2: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.32.2
+.. _《大品》.六.32.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0313a12
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
