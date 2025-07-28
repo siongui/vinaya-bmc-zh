@@ -1409,4 +1409,26 @@
 
           「『你不該問嗎？』」
 
+   * - This rule covers cases in which one bhikkhu, knowingly and wishing to find fault, offers food to another bhikkhu in order to trick him into committing an offense under the preceding rule. The full offense here requires a full set of five factors.
+
+     - 本戒條涵蓋的情況是，一位比丘明知地，想要找過錯，向另一位比丘供養食物，以誘使他犯前一條戒條的罪。本戒條的完全違犯需要滿足全部五個條件。
+
+   * - *1) Object:* staple or non-staple food that one perceives not to be leftover.
+     - *1）對象：*\ 認為是非剩餘的主食或副食。
+
+   * - *2) Effort:* One gives the food to a bhikkhu who has eaten and turned down an offer of further food, as under the preceding rule.
+     - *2）努力：*\ 如前一條戒條所述，將食物給已吃過並拒絕更進一步食物供養的比丘。
+
+   * - *3) Perception:* One knows that he has eaten and turned down an offer of further food.
+     - *3）感知：*\ 知道他已經吃過，並拒絕了更進一步的食物供養。
+
+   * - *4) Intention:* One wishes to find fault with him.
+     - *4）意圖：*\ 想要找他的過錯。
+
+   * - *5) Result:* He finishes a meal that includes that food.
+     - *5）結果：*\ 他完成了包含該食物的用餐。
+
+   * - Only four of these factors—object, perception, intention, and result—require further explanation.
+     - 其中只有四個因素—對象、感知、意圖和結果—需要進一步解釋。
+
 (未完待續)
