@@ -1332,4 +1332,33 @@
    \*    \*    \*
 
 
+.. _Pc36:
+
+.. raw:: html
+
+   <span id="Pc36"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **36**
+     - **三十六**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, knowingly and wishing to find fault, present staple or non-staple food he has brought to a bhikkhu who has eaten and turned down an offer (of further food), saying, “Here, bhikkhu, chew or consume this”—when it has been eaten, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘明知地，想要找過錯，將自己帶來的主食或副食給已經吃過而且拒絕了（更進一步的食物）供養的比丘，說，「比丘，咀嚼或食用這個」——當它被吃掉後，波逸提。*
+
+   * - .. container:: mx-2
+
+          “Now at that time two bhikkhus were traveling through the Kosalan districts on their way to Sāvatthī. One of them indulged in bad habits; the second one said, ‘Don’t do that sort of thing, my friend. It isn’t proper.’ The first one developed a grudge. Eventually, they arrived at Sāvatthī.
+
+     - .. container:: mx-2
+
+          「\ `爾時，有兩位比丘，途經拘薩羅地區，前往舍衛城。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0111a12>`_\ 其中一位比丘沉溺於惡習；另一位比丘說：『我的朋友，別做這種事。這不合適。』第一位比丘起了怨恨。最終，他們到達了舍衛城。
+
 (未完待續)
