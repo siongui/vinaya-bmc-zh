@@ -1361,4 +1361,52 @@
 
           「\ `爾時，有兩位比丘，途經拘薩羅地區，前往舍衛城。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0111a12>`_\ 其中一位比丘沉溺於惡習；另一位比丘說：『我的朋友，別做這種事。這不合適。』第一位比丘起了怨恨。最終，他們到達了舍衛城。
 
+   * - .. container:: mx-2
+
+          “Now at that time one of the guilds in Sāvatthī presented a Community meal. The second bhikkhu finished his meal, having turned down an offer of further food. The bhikkhu with the grudge, having gone to his relatives and bringing back almsfood, went to the second bhikkhu and on arrival said to him, ‘Here, friend, have some of this.’
+
+     - .. container:: mx-2
+
+          「爾時，舍衛城的一個行會供養了僧團餐食。第二位比丘用餐完畢，拒絕了更進一步的食物供養。心懷怨恨的比丘去親戚家帶回了缽食，然後去見第二個比丘，到達後對他說：『這裡，朋友，吃些這個。』
+
+   * - .. container:: mx-2
+
+          “‘No thanks, my friend. I’m full.’
+
+     - .. container:: mx-2
+
+          「『不用了謝謝，朋友，我已經吃飽了。』
+
+   * - .. container:: mx-2
+
+          “‘Really, this is delicious almsfood. Have some.’
+
+     - .. container:: mx-2
+
+          「『真的，這是美味的缽食。吃一些吧。』
+
+   * - .. container:: mx-2
+
+          “So the second bhikkhu, being pressured by the first, ate the almsfood. Then the bhikkhu with the grudge said to him, ‘You think I’m the one to be reprimanded when you eat food that isn’t leftover, after finishing your meal and turning down an offer of further food?’
+
+     - .. container:: mx-2
+
+          「於是，第二位比丘在第一位比丘的壓力下，吃了缽食。這時，心懷怨恨的比丘對他說：『你用餐完畢後，拒絕了更進一步的食物供養，卻吃了非剩餘食物，你以為我應該受到責備嗎？』
+
+   * - .. container:: mx-2
+
+          “‘Shouldn’t you have told me?’
+
+     - .. container:: mx-2
+
+          「『你不該告訴我嗎？』
+
+   * - .. container:: mx-2
+
+          “‘Shouldn’t you have asked?’”
+
+     - .. container:: mx-2
+
+          「『你不該問嗎？』」
+
 (未完待續)
