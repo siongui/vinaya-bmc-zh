@@ -1496,4 +1496,21 @@
 
           如果給他果汁飲料、五種補品的任何一種、或藥物，當他有理由時食用之。
 
+   * - In the case of the second exemption—one gives him food for the sake of another—none of the texts mention the point, but it would seem to hold only in cases where the other bhikkhu is ill or has not eaten and turned down an offer of further food.
+
+     - 對於第二種豁免，即為了另一個人而給他食物，沒有任何文獻提到這一點，但它似乎只在另一位比丘生病或還未吃過並拒絕更進一步食物供養的情況下才成立。
+
+   * - None of the texts make any mention of a bhikkhu trying to trick another bhikkhu into committing an offense under any rule other than `Pc 35`_; and apparently, a bhikkhu who tricks a fellow bhikkhu into committing an offense under `Pc 35`_ with no desire to blame or shame him, but simply for the perverse satisfaction of seeing him commit the offense, would incur no penalty under this or any other rule. There is no escaping the fact, though, that such actions carry their own inherent penalty in terms of one’s spiritual maturity. This is one of those cases where a wise policy is to look past the particulars of the rule to the general principle underlying it: that one should not deliberately trick another person into breaking a rule or vow that he or she has pledged to uphold.
+
+     - 除\ `《波逸提》三五`_\ 外，所有文獻均未提及比丘試圖誘使另一位比丘犯其他戒條；顯然，如果比丘誘使比丘同儕犯\ `《波逸提》三五`_\ 規定的罪行，並且無意責備或羞辱他，而僅僅是為了從觀看他犯戒中獲得變態的滿足感，那麼根據本戒條或任何其他戒條，他都不會受到懲罰。然而，無可否認的是，此類行為會因個人的精神成熟度而承擔其固有的懲罰。在這種情況下，明智之舉是忽略戒條的細節，而關注其背後的一般原則：不應故意誘使他人違反他或她承諾遵守的戒條或誓言。
+
+   * - *Summary: Deliberately tricking another bhikkhu into breaking the preceding rule, in hopes of finding fault with him, is a pācittiya offense.*
+     - *摘要：故意誘使另一位比丘違反前一條戒條，希望找他的過錯，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
