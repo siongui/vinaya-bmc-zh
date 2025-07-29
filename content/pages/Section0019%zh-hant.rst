@@ -1452,4 +1452,48 @@
 
      - 根據《經分別》，\ *想要找過錯*\ 意味著計劃指控、審問、反指控或反審問比丘（這些是正式指控的步驟），或者僅僅是在成功誘使他違反前一條戒條後讓他感到羞愧。
 
+   * - **Effort & result**
+     - **努力與結果**
+
+   * - Bhikkhu X, in giving food to Bhikkhu Y “knowingly and wishing to find fault,” incurs a dukkaṭa when he brings the food to Y, another dukkaṭa when Y accepts the food with the thought of eating it, a further dukkaṭa for every mouthful Y eats of the food, and a pācittiya when Y has stopped eating from it. If X then tries to make Y feel abashed, he is to be treated under `Pc 2`_ as well. As for Y, the Commentary states that he should be treated under the preceding rule. Because perception is not a factor there, this means that Y is not exempt from an offense even though X has deliberately misled him as to the status of the food he is eating. (Some have misread one of the “wheels” of offenses listed in the Vibhaṅga to this rule as applying to Y, but because they conflict with the offenses the Vibhaṅga to the preceding rule allots to Y for eating under a misperception, that reading cannot stand. Thus the Commentary seems right in stating that all the offenses mentioned in the Vibhaṅga to this rule apply to X.) This means further that both bhikkhus in the origin story were right: The bhikkhu with a grudge should have told the second bhikkhu, while the second bhikkhu should have asked.
+
+     - 比丘 X 「明知地且想要找過錯」給比丘 Y 食物，當他把食物帶給 Y 時，他犯《突吉羅》；當 Y 帶著吃它的念頭接受食物時，犯另一次《突吉羅》；當 Y 每吃一口食物，另一次《突吉羅》；當 Y 停止進食時，他犯《波逸提》。如果 X 試圖讓 Y 感到羞愧，他也應依照\ `《波逸提》二`_\ 處理。至於 Y ，《義註》指出他應依照前一條戒條處理。因為感知不是其中的因素，這意味著即使 X 故意誤導他所吃食物的性質，Y 也不能免於犯戒。（有些人誤讀了本戒條的《經分別》中列出的犯戒「輪子」之一，認為它適用於 Y，但是因為它們與前一條戒條的《經分別》中對因誤解食用而犯戒相衝突，所以這種解讀站不住腳。因此，《義註》似乎正確地指出，本戒條的《經分別》中提到的所有罪行適用於 X。）這進一步意味著起源故事中的兩個比丘都是正確的：心懷怨恨的比丘應該告訴第二個比丘，而第二個比丘應該詢問。
+
+.. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
+.. _《波逸提》二: {filename}Section0016%zh-hant.rst#Pc2
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense—
+     - 不犯—
+
+   * - .. container:: mx-2
+
+          if one gives leftover food for the other bhikkhu to eat;
+
+     - .. container:: mx-2
+
+          如果把剩餘的食物給另一個比丘吃；
+
+   * - .. container:: mx-2
+
+          if one gives him food for the sake of another; or
+
+     - .. container:: mx-2
+
+          如果為了另一個人而給他食物；或者
+
+   * - .. container:: mx-2
+
+          if one gives him juice drinks, any of the five tonics, or medicines when he has a reason to take them.
+
+     - .. container:: mx-2
+
+          如果給他果汁飲料、五種補品的任何一種、或藥物，當他有理由時食用之。
+
 (未完待續)
