@@ -1554,4 +1554,21 @@
 .. _附錄一: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
 .. TODO FIXME: replace link to 附錄一
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - The verbs *chew* and *consume* in the Pali of this rule are the verbs normally paired, respectively, with non-staple and staple foods. They both mean “to eat,” but the question arises as to whether eating means going down the throat or entering the mouth. This becomes an issue, for instance, when a bhikkhu has a piece of food stuck in his teeth from his morning meal and swallows it after noon.
+
+     - 本戒條的巴利語動詞「\ *咀嚼*\ 」和「\ *食用*\ 」通常分別與副食和主食搭配使用。它們都表示「吃」，但問題是，「吃」是指吞下喉嚨還是進入嘴裡。這會變成問題，例如，當一位比丘早上用餐時，牙齒上卡著一塊食物，正午之後才把它吞下去時。
+
+   * - The Commentary generally defines eating as going down the throat, but a passage from the Cullavagga (V.25) suggests otherwise. In it, the Buddha allows a ruminator who brings up food to his mouth at the “wrong time” to swallow it, and ends with the statement: “But food that has been brought out from the mouth should not be taken back in. Whoever should take it in is to be dealt with according to the rule (i.e., this rule and the following one).” This suggests, then, that eating is technically defined as “taking into the mouth.”
+
+     - 《義註》通常將「吃」定義為吞下喉嚨，但\ `《小品》（五.25）`_\ 中的一個段落卻提出了相反的觀點。佛陀允許在「非時」將食物送入口中的反芻者將其吞嚥，並在結尾說道：「但從口中吐出的食物不應再吞回。但凡吞回者，應按戒條（即本戒條和下一條戒條）處置。」由此可見，從嚴格意義上來說，「吃」的定義是「送入口中」。
+
+.. _《小品》（五.25）: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0178a03
+
 (未完待續)
