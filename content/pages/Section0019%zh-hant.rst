@@ -190,8 +190,7 @@
 .. _比丘尼《波逸提》四四: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0417a11
 .. _五四: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0432a05
 .. _Pc 37: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc37
-.. _《波逸提》三七: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc37
-.. TODO FIXME: replace link to 《波逸提》三七
+.. _《波逸提》三七: #Pc37
 .. _Pc 33: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
 .. _35: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. _《波逸提》三三: #Pc33
@@ -1512,5 +1511,33 @@
 
    \*    \*    \*
 
+
+.. _Pc37:
+
+.. raw:: html
+
+   <span id="Pc37"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **37**
+     - **三十七**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu chew or consume staple or non-staple food at the wrong time, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘在非時咀嚼或食用主食或副食，波逸提。*
+
+   * - **Object**
+     - **對象**
+
+   * - *Staple food* here follows the standard definition given in the preface to this chapter. *Non-staple food* refers to all edibles except for the five staple foods, juice drinks, the five tonics, medicines, and water.
+
+     - 這裡的\ *主食*\ ，遵循本章前言的標準定義。\ *副食*\ ，指除了五種主食、果汁飲料、五種補品、藥物、及水以外的一切可食用物。
 
 (未完待續)

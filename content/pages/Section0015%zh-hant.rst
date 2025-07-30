@@ -486,8 +486,7 @@
 .. _《大品》.六.40.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0329a02
 .. _Pc 37: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc37
 .. _38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
-.. _《波逸提》三七: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc37
-.. TODO FIXME: replace link to 《波逸提》三七
+.. _《波逸提》三七: {filename}Section0019%zh-hant.rst#Pc37
 .. _三八: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
 .. TODO FIXME: replace link to 三八
 .. _Mv.VI.27: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.27
