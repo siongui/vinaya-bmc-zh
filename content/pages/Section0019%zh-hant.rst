@@ -1540,4 +1540,18 @@
 
      - 這裡的\ *主食*\ ，遵循本章前言的標準定義。\ *副食*\ ，指除了五種主食、果汁飲料、五種補品、藥物、及水以外的一切可食用物。
 
+   * - **The wrong time**
+     - **非時**
+
+   * - The Vibhaṅga defines the *wrong time* as from noon until dawnrise of the following day. (See `Appendix I`_ for a discussion of how dawnrise is defined.) Noon is reckoned as the moment the sun reaches its zenith, rather than by the clock—in other words, by local rather than standard or daylight-savings time. Thus, for example, a bhikkhu who is offered food while traveling in an airplane should check the position of the sun in order to determine whether he may accept and eat it. Some have argued that one may eat after noon if one has begun one’s meal before noon, but the Commentary says explicitly that this is not the case.
+
+     - 《經分別》將\ *非時*\ `定義為從正午到隔天黎明升起 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0114a14>`_\ 。（有關黎明升起的定義討論，請參閱\ `附錄一`_\ 。）正午是以太陽到達天頂的時刻來計算的，而不是以時鐘來計算——換句話說，是以當地時間而不是標準時間或夏令時間來計算的。因此，例如，在飛機上旅行時，被供養食物的比丘，應該檢查太陽的位置，以確定是否可以接受並食用。有人認為，如果在正午之前開始用餐，那麼他可以在正午之後吃，但《義註》明確指出並非如此。
+
+   * - Perception as to whether one is eating at the wrong time or the right time is not a mitigating factor here (see `Pc 4`_).
+     - 對於是否在非時或正確的時間進食的感知在這裡並不是一個減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+.. _Appendix I: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
+.. _附錄一: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
+.. TODO FIXME: replace link to 附錄一
+
 (未完待續)
