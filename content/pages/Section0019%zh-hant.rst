@@ -1571,4 +1571,30 @@
 
 .. _《小品》（五.25）: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0178a03
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Offenses**
+     - **犯戒**
+
+   * - The Vibhaṅga says that a bhikkhu incurs a dukkaṭa when, intending to eat it, he accepts staple or non-staple food. The question is, is the dukkaṭa only for accepting the food in the wrong time, or is it also for accepting food in the right time, intending to eat it in the wrong time? The Vibhaṅga doesn’t answer the question, but the Commentary does, saying that the dukkaṭa is for accepting the food in the wrong time. The Vibhaṅga goes on to say that if the bhikkhu eats staple or non-staple food at the wrong time he incurs a pācittiya for every mouthful he eats. As for juice drinks, the five tonics, and medicine, there is a dukkaṭa for accepting them at the wrong time to be used as food, and another dukkaṭa for eating them at the wrong time as food.
+
+     - 《經分別》說，比丘在想吃時，接受主食或副食，犯《突吉羅》。問題是，《突吉羅》只是因為在非時接受食物，或者是在正確的時間接受食物，卻想在非時吃？《經分別》沒有回答這個問題，但《義註》回答了，說《突吉羅》是因為在非時接受食物。《經分別》繼續說，如果比丘在非時吃主食或副食，他每吃一口都犯一次《波逸提》。至於果汁飲料、五種補品和藥物，在非時接受它們作為食物犯《突吉羅》，在非時將它們作為食物食用犯另一次《突吉羅》。
+
+   * - No exception is granted to an ill bhikkhu, because there are a number of edibles an ill bhikkhu may consume at the wrong time without involving an offense: juice drinks, the five tonics, and medicines. Also, there is an allowance in `Mv.VI.14.7`_ for a bhikkhu who has taken a purgative to take strained meat broth, strained rice broth, or strained green gram (mung bean) broth at any time of the day. Using the Great Standards, we may say that a bhikkhu who has a similar illness or worse may take these broths at any time; and some have argued that other bean broths—such as strained broth made from boiled soybeans—would fit under the category of green gram broth as well. However, unlike the case with the five tonics, mere hunger or fatigue would not seem to count as sufficient reasons for taking any of these substances in the wrong time.
+
+     - 生病的比丘也不例外，因為生病的比丘可以在非時食用許多可食用物而不會構成犯戒：果汁飲料、五種補品和藥物。此外，\ `《大品》.六.14.7`_ 允許服用瀉藥的比丘在一天中的任何時間服用過濾後的肉湯、過濾後的米湯或過濾後的綠豆湯。使用《四大教示》，我們可以說患有類似疾病或更嚴重疾病的比丘可以在任何時間服用這些湯；有些人認為其他豆湯——例如煮熟黃豆過濾後製成的湯——也可以歸入綠豆湯的範疇。但是，與五種補品的情況不同，僅僅是飢餓或疲勞似乎不足以成為在非時服用這些物質的理由。
+
+   * - A substance termed *loṇasovīraka* (or *loṇasocīraka*) is allowed (`Mv.VI.16.3`_) to be taken in the wrong time as a medicine for ill bhikkhus and, when mixed with water, as a beverage for bhikkhus who are not ill. No one makes it anymore, but the recipe for it in the Commentary to `Pr 3`_ bears some resemblance to the recipe for *miso* (fermented soybean paste). Some have argued, using the Great Standards, that the special allowance for this substance should extend to miso as well, but this is a controversial point. As far as I have been able to ascertain, miso is not used to cure diseases in adults even in China, which would be the place to look for its use as a medicine. However, even if the allowance does apply to miso, taking miso broth as food in the wrong time would entail a dukkaṭa.
+
+     - 一種名為 *loṇasovīraka* （或 *loṇasocīraka* ）的物質被允許（\ `《大品》.六.16.3`_ ）在非時作為生病比丘的藥物服用，或者與水混合後作為無病比丘的飲料。現在沒有人做這種東西了，但是\ `《波羅夷》三`_\ 的《義註》中它的配方與\ *味噌*\ （發酵豆醬）的配方有些相似。有些人，使用《四大教示》，主張這種物質的特殊開緣也應該擴及味噌，但這是一個有爭議的觀點。據我所知，即使在中國，味噌也不用於治療成人的疾病，而中國是尋找其作為藥物使用的地方。但是，即使此開緣也適用於味噌，在非時服用味噌湯作為食物也會犯《突吉羅》。
+
+.. _Mv.VI.14.7: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.14.7
+.. _《大品》.六.14.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0275a07
+.. _Mv.VI.16.3: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.16.3
+.. _《大品》.六.16.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0280a05
+.. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
+.. _《波羅夷》三: {filename}Section0010%zh-hant.rst#Pr3
+
 (未完待續)
