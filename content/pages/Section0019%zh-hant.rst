@@ -343,8 +343,7 @@
 .. _Mv.VI.40.3: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.40.3
 .. _《大品》.六.40.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0329a02
 .. _Pc 38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
-.. _《波逸提》三八: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
-.. TODO FIXME: replace link to 《波逸提》三八
+.. _《波逸提》三八: #Pc38
 
 
 .. container:: has-text-centered
@@ -1615,5 +1614,26 @@
 
    \*    \*    \*
 
+
+.. _Pc38:
+
+.. raw:: html
+
+   <span id="Pc38"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **38**
+     - **三十八**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu chew or consume stored-up staple or non-staple food, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘咀嚼或食用儲存的主食或副食，波逸提。*
 
 (未完待續)
