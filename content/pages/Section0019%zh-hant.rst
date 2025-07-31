@@ -1597,4 +1597,23 @@
 .. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
 .. _《波羅夷》三: {filename}Section0010%zh-hant.rst#Pr3
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if, having a reason, one consumes juice drinks, any of the five tonics, or medicine after noon or before dawnrise.
+     - 如有理由，在午後或黎明升起前飲用果汁飲料、五種補品中的任何一種或藥物，則並無犯戒。
+
+   * - *Summary: Eating staple or non-staple food in the period from noon till the next dawnrise is a pācittiya offense.*
+     - *，摘要：從中午到第二天黎明升起之前，吃主食或副食都是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
