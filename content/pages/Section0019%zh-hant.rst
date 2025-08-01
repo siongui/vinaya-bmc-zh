@@ -1649,4 +1649,31 @@
 .. _AN 5\:80: https://www.dhammatalks.org/suttas/AN/AN5_80.html
 .. _《增支部》5\:80經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E5%85%AB%E5%8D%81%E6%9C%AA%E4%BE%86%E4%B9%8B%E5%9B%9B
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - *Staple food* here, as usual, follows the standard definition given in the preface to this chapter. *Non-staple food* here includes all edibles except for the five staples, juice drinks, the five tonics, medicine, and water.
+
+     - 這裡的\ *主食*\ ，一如既往地遵循本章前言的標準定義。這裡的\ *副食*\ ，則包括除了五種主食、果汁飲料、五種補品、藥物、水之外的所有可食用物。
+
+   * - *Stored-up* means formally accepted by a bhikkhu (see `Pc 40`_, below) on one day and eaten on the next or a later day. The boundary between one day and the next is dawnrise.
+
+     - *儲藏*\ 的意思是比丘在某一天正式接受（參見下文\ `《波逸提》四十`_\ ），並在第二天或之後的日子食用。一天與另一天的分界線是黎明升起。
+
+   * - Perception as to whether food has been stored up is not a mitigating factor here (see `Pc 4`_).
+     - 對於食物是否被儲存起來的感知並不是這裡的減輕懲罰因素（參見\ `《波逸提》四`_\ ）。
+
+   * - The story of the Second Council (`Cv.XII.2.8`_) shows that this rule also forbids storing such medicines as salt (or pepper, vinegar, etc.) to add to any bland food one might receive on a later day. (See the discussion preceding `Pc 31`_ for more details on this subject.)
+
+     - `第二次結集`_\ （\ `《小品》.十二.2.8`_ ）的故事表明，這條戒條還禁止儲存諸如鹽（或胡椒、醋等）之類的藥物，以便日後添加到任何清淡的食物中。（有關此主題的更多細節，請參閱之前\ `《波逸提》三一`_\ 的討論。）
+
+.. _Cv.XII.2.8: https://www.dhammatalks.org/vinaya/bmc/Section0006.html#Cv.XII.2.8
+.. _《小品》.十二.2.8: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_022#0408a14
+.. _Pc 31: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc31
+.. _《波逸提》三一: #Pc31
+
 (未完待續)
