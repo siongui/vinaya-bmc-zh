@@ -21,6 +21,25 @@
 - `CBETA 漢文大藏經 (mobile) <https://tripitaka.cbeta.org/mobile/index.php>`_
 
   * `漢譯南傳大藏經 <https://tripitaka.cbeta.org/mobile/index.php?index=N>`_
+
+    + `Google Search 漢譯南傳大藏經 <https://www.google.com/search?q=%E6%BC%A2%E8%AD%AF%E5%8D%97%E5%82%B3%E5%A4%A7%E8%97%8F%E7%B6%93>`_
+    + [PDF] `Google Search 漢譯南傳大藏經 site: static.sariputta.com <https://www.google.com/search?q=%E6%BC%A2%E8%AD%AF%E5%8D%97%E5%82%B3%E5%A4%A7%E8%97%8F%E7%B6%93+site%3A+static.sariputta.com>`_
+
+      - `律藏一 經分別一 <https://static.sariputta.com/pdf/tipitaka/909/01.pdf>`_
+        (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/909/01.pdf>`__)
+      - `律藏二 經分別二 <https://static.sariputta.com/pdf/tipitaka/910/02.pdf>`_
+        (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/910/02.pdf>`__)
+      - `律藏三 大品 <https://static.sariputta.com/pdf/tipitaka/911/03.pdf>`_
+        (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/911/03.pdf>`__)
+      - `律藏四 小品 <https://static.sariputta.com/pdf/tipitaka/912/04.pdf>`_
+        (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/912/04.pdf>`__)
+      - `律藏五 附隨 <https://static.sariputta.com/pdf/tipitaka/913/05.pdf>`_
+        (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/913/05.pdf>`__)
+      - `長部經典 一 <https://static.sariputta.com/pdf/tipitaka/914/06.pdf>`_
+        (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/914/06.pdf>`__)
+      - `長部經典 二 <https://static.sariputta.com/pdf/tipitaka/915/07.pdf>`_
+        (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/915/07.pdf>`__)
+
   * `大藏經補編　第19冊 - No.103 禪林象器箋 (30卷) - 【無著道忠著】 - 第 15 卷 <https://tripitaka.cbeta.org/mobile/index.php?index=B19n0103_015>`_
 
 - `NTI Reader - Nan Tien 南天 Institute (NTI) Buddhist Text Reader <https://ntireader.org/>`_
