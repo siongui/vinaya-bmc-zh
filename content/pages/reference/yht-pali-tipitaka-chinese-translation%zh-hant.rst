@@ -25,3 +25,9 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/915/07.pdf>`__)
   - `長部經典 三 <https://static.sariputta.com/pdf/tipitaka/916/08.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/916/08.pdf>`__)
+  - `中部經典 一 <https://static.sariputta.com/pdf/tipitaka/917/09.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/917/09.pdf>`__)
+  - `中部經典 二 <https://static.sariputta.com/pdf/tipitaka/918/10.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/918/10.pdf>`__)
+  - `中部經典 三 <https://static.sariputta.com/pdf/tipitaka/919/11.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/919/11.pdf>`__)
