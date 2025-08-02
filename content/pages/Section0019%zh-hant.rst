@@ -1686,4 +1686,45 @@
 .. _Stored-up Food\: A Discussion of Pācittaya 38: https://www.dhammatalks.org/vinaya/StoredUpFood.html
 .. _儲存食物：《波逸提》三八的討論（英文）: https://www.dhammatalks.org/vinaya/StoredUpFood.html
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga says that there is a dukkaṭa “if one accepts/takes it, thinking, ‘I will eat it.’” The question has arisen as to whether “it” here means food that has already been stored up or food that one is planning to store up. The Commentary, noting that the intention “I will store it up” is not mentioned, adopts the first interpretation: “It” here means food already stored up. The Vibhaṅga adds that there is a pācittiya for every mouthful one eats.
+
+     - 《經分別》說，「如果接受/拿起它，並想著『我要吃它』」，犯《突吉羅》。此處疑問就產生，這裡的「它」是指已經儲存的食物，還是計畫儲存的食物。《義註》注意到「我要儲存它」的意圖沒有被提到，因此採用了第一種解釋：這裡的「它」是指已經儲存的食物。《經分別》補充說，每吃一口犯一次《波逸提》。
+
+   * - Perception is not a factor here. Thus, a bhikkhu who eats stored-up food commits an offense regardless of whether he perceives it as stored-up. This means—
+     - 感知並非此處的因素。因此，比丘食用儲存的食物，無論他是否感知到它是儲存的，都會犯戒。這意味著：
+
+   * - .. container:: mx-2
+
+          1\) If Bhikkhu X receives the food on one day and lets someone else put it away, and Bhikkhu Y eats it on a later day, Y commits an offense all the same, regardless of whether he knows that the food was stored-up.
+
+     - .. container:: mx-2
+
+          1）如果比丘 X 在某一天接受食物並讓其他人將其收起來，而比丘 Y 在之後的某一天吃了它，那麼無論 Y 是否知道食物被儲存起來，都同樣犯了戒。
+
+   * - .. container:: mx-2
+
+          2\) One should be careful that there are no traces of any edible received yesterday on a utensil from which one will eat food today. The protocols a student should follow with regard to his preceptor *(upajjhāya-vatta)* (`Mv.I.25.9`_) show that the custom in the Buddha’s time was to rinse out one’s bowl before going for alms. The Commentary suggests a method for making sure that one’s bowl is clean: Run a finger along the inside of the bowl while it is dry. If there is enough food residue or dust in the bowl for the finger to make a mark in it, clean the bowl again before use.
+
+     - .. container:: mx-2
+
+          2）應注意，今天用來吃飯的器皿上不應殘留昨天接受的任何可食用物的殘渣。弟子對戒師應遵循的行儀\ *（upajjhāya-vatta）*\ （\ `《大品》.一.25.9`_ ）表明，佛陀時代的習俗是在托缽前沖洗乾淨缽。《義註》提出了一種確保缽乾淨的方法：用手指在缽內壁乾燥時劃一劃。如果缽內食物殘渣或灰塵足夠多，足以用手指留下痕跡，則應在使用前再次清洗。
+
+   * - .. container:: mx-2
+
+          3\) In a monastery where there are lay and novice attendants, it is important that they be fully informed of the need to make sure that leftovers from the bhikkhus’ meals not be served to the bhikkhus again on a later day. If donors come with a large pot of food, intending for it to be eaten over a period of several days, the amount of food that the bhikkhus would eat in one day can be placed in a separate vessel and offered to them, while the remainder can be stored in a proper place for later use.
+
+     - .. container:: mx-2
+
+          3）在有在家和沙彌侍者的寺院裡，務必讓他們充分了解，確保比丘們用餐後剩餘物不會在日後再次提供給比丘們。如果施主帶著一大鍋食物前來，打算分幾天吃完，可以將比丘們一天的食量放在一個單獨的容器裡供養給他們，剩餘的食物則存放在合適的地方以備日後使用。
+
+.. _Mv.I.25.9: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.25.8-24
+.. _《大品》.一.25.9: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0063a02
+
 (未完待續)
