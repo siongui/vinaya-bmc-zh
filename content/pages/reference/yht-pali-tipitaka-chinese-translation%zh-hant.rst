@@ -31,3 +31,9 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/918/10.pdf>`__)
   - `中部經典 三 <https://static.sariputta.com/pdf/tipitaka/919/11.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/919/11.pdf>`__)
+  - `中部經典 四 <https://static.sariputta.com/pdf/tipitaka/920/12.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/920/12.pdf>`__)
+  - `相應部經典 一 <https://static.sariputta.com/pdf/tipitaka/921/13.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/921/13.pdf>`__)
+  - `相應部經典 二 <https://static.sariputta.com/pdf/tipitaka/922/14.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/922/14.pdf>`__)
