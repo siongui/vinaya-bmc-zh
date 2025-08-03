@@ -37,3 +37,9 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/921/13.pdf>`__)
   - `相應部經典 二 <https://static.sariputta.com/pdf/tipitaka/922/14.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/922/14.pdf>`__)
+  - `相應部經典 三 <https://static.sariputta.com/pdf/tipitaka/923/15.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/923/15.pdf>`__)
+  - `相應部經典 四 <https://static.sariputta.com/pdf/tipitaka/924/16.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/924/16.pdf>`__)
+  - `相應部經典 五 <https://static.sariputta.com/pdf/tipitaka/925/17.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/925/17.pdf>`__)
