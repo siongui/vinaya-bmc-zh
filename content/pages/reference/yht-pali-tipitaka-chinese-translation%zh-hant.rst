@@ -49,3 +49,9 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/927/19.pdf>`__)
   - `增支部經典 二 <https://static.sariputta.com/pdf/tipitaka/928/20.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/928/20.pdf>`__)
+  - `增支部經典 三 <https://static.sariputta.com/pdf/tipitaka/929/21.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/929/21.pdf>`__)
+  - `增支部經典 四 <https://static.sariputta.com/pdf/tipitaka/930/22.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/930/22.pdf>`__)
+  - `增支部經典 五 <https://static.sariputta.com/pdf/tipitaka/931/23.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/931/23.pdf>`__)
