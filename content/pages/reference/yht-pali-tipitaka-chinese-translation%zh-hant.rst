@@ -70,7 +70,13 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/937/kn_4.pdf>`__)
   - `小部經典 五 <https://static.sariputta.com/pdf/tipitaka/938/kn5.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/938/kn_5.pdf>`__)
-  - `小部經典 六 <https://static.sariputta.com/pdf/tipitaka/939/kn6.pdf>`_
+  - `小部經典 六 本生經一 <https://static.sariputta.com/pdf/tipitaka/939/kn6.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/939/kn_6.pdf>`__)
+  - `小部經典 七 本生經二 <https://static.sariputta.com/pdf/tipitaka/940/kn7.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/940/kn_7.pdf>`__)
+  - `小部經典 八 本生經三 <https://static.sariputta.com/pdf/tipitaka/941/kn8.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/941/kn_8.pdf>`__)
+  - `小部經典 九 本生經四 <https://static.sariputta.com/pdf/tipitaka/942/kn9.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/942/kn_9.pdf>`__)
   - `法集論 <https://static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`__)
