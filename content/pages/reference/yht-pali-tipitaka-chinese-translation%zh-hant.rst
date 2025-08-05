@@ -8,6 +8,7 @@
 
 
 + [PDF] `Google Search 漢譯南傳大藏經 site: static.sariputta.com <https://www.google.com/search?q=%E6%BC%A2%E8%AD%AF%E5%8D%97%E5%82%B3%E5%A4%A7%E8%97%8F%E7%B6%93+site%3A+static.sariputta.com>`_
+  (`搜尋技巧 <https://www.google.com/search?q=%E6%BC%A2%E8%AD%AF%E5%8D%97%E5%82%B3%E5%A4%A7%E8%97%8F%E7%B6%93+938+pdf+sariputta.com>`_)
 
   - `律藏一 經分別一 <https://static.sariputta.com/pdf/tipitaka/909/01.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/909/01.pdf>`__)
@@ -65,5 +66,11 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/935/kn_2.pdf>`__)
   - `小部經典 三 <https://static.sariputta.com/pdf/tipitaka/936/kn3_pdf.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/936/kn_3.pdf>`__)
+  - `小部經典 四 <https://static.sariputta.com/pdf/tipitaka/937/kn4.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/937/kn_4.pdf>`__)
+  - `小部經典 五 <https://static.sariputta.com/pdf/tipitaka/938/kn5.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/938/kn_5.pdf>`__)
+  - `小部經典 六 <https://static.sariputta.com/pdf/tipitaka/939/kn6.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/939/kn_6.pdf>`__)
   - `法集論 <https://static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`__)
