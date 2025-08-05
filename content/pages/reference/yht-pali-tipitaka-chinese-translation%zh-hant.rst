@@ -61,3 +61,9 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/933/25.pdf>`__)
   - `小部經典 一 <https://static.sariputta.com/pdf/tipitaka/934/kn_1.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/934/kn_1.pdf>`__)
+  - `小部經典 二 <https://static.sariputta.com/pdf/tipitaka/935/kn_2.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/935/kn_2.pdf>`__)
+  - `小部經典 三 <https://static.sariputta.com/pdf/tipitaka/936/kn3_pdf.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/936/kn_3.pdf>`__)
+  - `法集論 <https://static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`__)
