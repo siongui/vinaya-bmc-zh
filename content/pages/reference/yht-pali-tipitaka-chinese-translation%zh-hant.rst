@@ -102,5 +102,12 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/953/kn_20.pdf>`__)
   - `小部經典 二十一 <https://static.sariputta.com/pdf/tipitaka/954/kn21.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/954/kn_21.pdf>`__)
+  - `小部經典 二十二 <https://static.sariputta.com/pdf/tipitaka/955/kn22.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/955/kn_22.pdf>`__)
   - `法集論 <https://static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`__)
+  - 分別論一 957 (缺)
+  - `分別論二 界論 人施設論 <https://static.sariputta.com/pdf/tipitaka/958/dhatu_katha.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/958/dhatu_katha.pdf>`__)
+  - `論事一 <https://static.sariputta.com/pdf/tipitaka/959/kathavatthu1.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/959/kathavatthu1.pdf>`__)
