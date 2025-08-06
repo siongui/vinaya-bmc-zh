@@ -84,5 +84,11 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/944/kn_11.pdf>`__)
   - `小部經典 十二 本生經七 <https://static.sariputta.com/pdf/tipitaka/945/kn12.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/945/kn_12.pdf>`__)
+  - `小部經典 十三 本生經八 <https://static.sariputta.com/pdf/tipitaka/946/kn13.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/946/kn_13.pdf>`__)
+  - `小部經典 十四 本生經九 <https://static.sariputta.com/pdf/tipitaka/947/kn14.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/947/kn_14.pdf>`__)
+  - `小部經典 十五 本生經十 <https://static.sariputta.com/pdf/tipitaka/948/kn15.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/948/kn_15.pdf>`__)
   - `法集論 <https://static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`__)
