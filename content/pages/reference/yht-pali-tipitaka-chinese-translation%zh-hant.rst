@@ -96,5 +96,11 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/950/kn_17.pdf>`__)
   - `小部經典 十八 <https://static.sariputta.com/pdf/tipitaka/951/kn18.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/951/kn_18.pdf>`__)
+  - `小部經典 十九 <https://static.sariputta.com/pdf/tipitaka/952/kn19.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/952/kn_19.pdf>`__)
+  - `小部經典 二十 <https://static.sariputta.com/pdf/tipitaka/953/kn20.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/953/kn_20.pdf>`__)
+  - `小部經典 二十一 <https://static.sariputta.com/pdf/tipitaka/954/kn21.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/954/kn_21.pdf>`__)
   - `法集論 <https://static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`__)
