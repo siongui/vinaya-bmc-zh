@@ -112,6 +112,9 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/958/dhatu_katha.pdf>`__)
   - `雙論一 <https://static.sariputta.com/pdf/tipitaka/969/yamaka1.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/969/yamaka1.pdf>`__)
+  - 雙論二 (缺)
+  - `雙論三 (非同一來源) <https://static.sariputta.com/pdf/tipitaka/971/yamaka3_pdf.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/971/yamaka3.pdf>`__)
   - `發趣論一 (非同一來源) <https://static.sariputta.com/pdf/tipitaka/962/patthana1.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/962/patthana1.pdf>`__)
   - 發趣論二至七 (缺)
