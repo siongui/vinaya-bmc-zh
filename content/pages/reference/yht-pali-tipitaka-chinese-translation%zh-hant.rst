@@ -8,8 +8,10 @@
 
 
 + [PDF] `Google Search 漢譯南傳大藏經 site: static.sariputta.com <https://www.google.com/search?q=%E6%BC%A2%E8%AD%AF%E5%8D%97%E5%82%B3%E5%A4%A7%E8%97%8F%E7%B6%93+site%3A+static.sariputta.com>`_
-  (`搜尋技巧 <https://www.google.com/search?q=%E6%BC%A2%E8%AD%AF%E5%8D%97%E5%82%B3%E5%A4%A7%E8%97%8F%E7%B6%93+938+pdf+sariputta.com>`_)
-  (`目次 <https://buddhist.laogongshuo.com/>`_)
+  (`搜尋技巧 <https://www.google.com/search?q=%E6%BC%A2%E8%AD%AF%E5%8D%97%E5%82%B3%E5%A4%A7%E8%97%8F%E7%B6%93+938+pdf+sariputta.com>`__)
+  (`搜尋技巧 <https://www.google.com/search?q=957+pdf+static.sariputta.com>`__)
+  (`目次 <https://buddhist.laogongshuo.com/>`__)
+  (`目次 <https://www.lama.com.tw/content/edu/data.aspx?id=542/>`__)
 
   - `律藏一 經分別一 <https://static.sariputta.com/pdf/tipitaka/909/01.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/909/01.pdf>`__)
@@ -107,12 +109,14 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/955/kn_22.pdf>`__)
   - `法集論 <https://static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`__)
-  - 分別論一 (缺)
+  - `分別論一 <https://static.sariputta.com/pdf/tipitaka/957/vibhavga.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/957/vibhavga.pdf>`__)
   - `分別論二 界論 人施設論 <https://static.sariputta.com/pdf/tipitaka/958/dhatu_katha.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/958/dhatu_katha.pdf>`__)
   - `雙論一 <https://static.sariputta.com/pdf/tipitaka/969/yamaka1.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/969/yamaka1.pdf>`__)
-  - 雙論二 (缺)
+  - `雙論二 <https://static.sariputta.com/pdf/tipitaka/970/yamaka2.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/970/yamaka2.pdf>`__)
   - `雙論三 (非同一來源) <https://static.sariputta.com/pdf/tipitaka/971/yamaka3_pdf.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/971/yamaka3.pdf>`__)
   - `發趣論一 (非同一來源) <https://static.sariputta.com/pdf/tipitaka/962/patthana1.pdf>`_
@@ -122,3 +126,6 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/959/kathavatthu1.pdf>`__)
   - `論事二 (非同一來源) <https://static.sariputta.com/pdf/tipitaka/961/kathavatthu2.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/961/kathavatthu2.pdf>`__)
+
+  - `65藏外 島王統史 大王統史 <http://www.sadhu3.com/app/pdf/web/app_pdf.asp?table=balami_media&bookid=wrn100000046>`_
+    (`mirror <{static}/extra/pdf-mirror/www.sadhu3.com/yht/yht65.pdf>`__)
