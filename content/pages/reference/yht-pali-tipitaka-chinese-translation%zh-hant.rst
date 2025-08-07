@@ -11,7 +11,7 @@
   (`搜尋技巧 <https://www.google.com/search?q=%E6%BC%A2%E8%AD%AF%E5%8D%97%E5%82%B3%E5%A4%A7%E8%97%8F%E7%B6%93+938+pdf+sariputta.com>`__)
   (`搜尋技巧 <https://www.google.com/search?q=957+pdf+static.sariputta.com>`__)
   (`目次 <https://buddhist.laogongshuo.com/>`__)
-  (`目次 <https://www.lama.com.tw/content/edu/data.aspx?id=542/>`__)
+  (`目次 <https://www.lama.com.tw/content/edu/data.aspx?id=542>`__)
 
   - `律藏一 經分別一 <https://static.sariputta.com/pdf/tipitaka/909/01.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/909/01.pdf>`__)
@@ -107,25 +107,33 @@
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/954/kn_21.pdf>`__)
   - `小部經典 二十二 <https://static.sariputta.com/pdf/tipitaka/955/kn22.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/955/kn_22.pdf>`__)
-  - `法集論 <https://static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`_
+  - `48論藏 法集論 <https://static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/956/dhamma_savgani.pdf>`__)
-  - `分別論一 <https://static.sariputta.com/pdf/tipitaka/957/vibhavga.pdf>`_
+    (`Scribd <https://www.scribd.com/doc/81667793/%E6%B3%95%E9%9B%86%E8%AB%96>`__)
+  - `49論藏 分別論一 <https://static.sariputta.com/pdf/tipitaka/957/vibhavga.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/957/vibhavga.pdf>`__)
-  - `分別論二 界論 人施設論 <https://static.sariputta.com/pdf/tipitaka/958/dhatu_katha.pdf>`_
+    (`Scribd <https://www.scribd.com/document/807741230/49-%E5%88%86%E5%88%A5%E8%AB%96%E4%B8%80>`__)
+  - `50論藏 分別論二 界論 人施設論 <https://static.sariputta.com/pdf/tipitaka/958/dhatu_katha.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/958/dhatu_katha.pdf>`__)
-  - `雙論一 <https://static.sariputta.com/pdf/tipitaka/969/yamaka1.pdf>`_
+  - `51論藏 雙論一 <https://static.sariputta.com/pdf/tipitaka/969/yamaka1.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/969/yamaka1.pdf>`__)
-  - `雙論二 <https://static.sariputta.com/pdf/tipitaka/970/yamaka2.pdf>`_
+  - `52論藏 雙論二 <https://static.sariputta.com/pdf/tipitaka/970/yamaka2.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/970/yamaka2.pdf>`__)
-  - `雙論三 (非同一來源) <https://static.sariputta.com/pdf/tipitaka/971/yamaka3_pdf.pdf>`_
+    (`Scribd <https://www.scribd.com/document/807741232/52-%E9%9B%99%E8%AB%96%E4%BA%8C>`__)
+  - \* `53論藏 雙論三 <https://static.sariputta.com/pdf/tipitaka/971/yamaka3_pdf.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/971/yamaka3.pdf>`__)
-  - `發趣論一 (非同一來源) <https://static.sariputta.com/pdf/tipitaka/962/patthana1.pdf>`_
+  - \* `54論藏 發趣論一 <https://static.sariputta.com/pdf/tipitaka/962/patthana1.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/962/patthana1.pdf>`__)
-  - 發趣論二至七 (缺)
-  - `論事一 (非同一來源) <https://static.sariputta.com/pdf/tipitaka/959/kathavatthu1.pdf>`_
+  - \* `55論藏 發趣論二 <https://static.sariputta.com/pdf/tipitaka/963/patthana2.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/963/patthana2.pdf>`__)
+  - \* `56論藏 發趣論三 <https://static.sariputta.com/pdf/tipitaka/964/patthana3.pdf>`_
+    (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/964/patthana3.pdf>`__)
+  - \* `61論藏 論事一 <https://static.sariputta.com/pdf/tipitaka/959/kathavatthu1.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/959/kathavatthu1.pdf>`__)
-  - `論事二 (非同一來源) <https://static.sariputta.com/pdf/tipitaka/961/kathavatthu2.pdf>`_
+  - \* `62論藏 論事二 <https://static.sariputta.com/pdf/tipitaka/961/kathavatthu2.pdf>`_
     (`mirror <{static}/extra/pdf-mirror/static.sariputta.com/pdf/tipitaka/961/kathavatthu2.pdf>`__)
 
-  - `65藏外 島王統史 大王統史 <http://www.sadhu3.com/app/pdf/web/app_pdf.asp?table=balami_media&bookid=wrn100000046>`_
+  - \* `65藏外 島王統史 大王統史 <http://www.sadhu3.com/app/pdf/web/app_pdf.asp?table=balami_media&bookid=wrn100000046>`_
     (`mirror <{static}/extra/pdf-mirror/www.sadhu3.com/yht/yht65.pdf>`__)
+
+編按：\* 表示非同一掃描來源
