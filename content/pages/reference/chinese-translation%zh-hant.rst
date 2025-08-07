@@ -23,7 +23,7 @@
   * `漢譯南傳大藏經 <https://tripitaka.cbeta.org/mobile/index.php?index=N>`_
 
     + `Google Search 漢譯南傳大藏經 <https://www.google.com/search?q=%E6%BC%A2%E8%AD%AF%E5%8D%97%E5%82%B3%E5%A4%A7%E8%97%8F%E7%B6%93>`_
-    + `[PDF] 元亨寺 漢譯南傳大藏經 <{filename}yht-pali-tipitaka-chinese-translation%zh-hant.rst>`_
+    + `[PDF] 元亨寺 漢譯南傳大藏經 <https://siongui.github.io/yht-tipitaka/>`_
 
   * `大藏經補編　第19冊 - No.103 禪林象器箋 (30卷) - 【無著道忠著】 - 第 15 卷 <https://tripitaka.cbeta.org/mobile/index.php?index=B19n0103_015>`_
 
