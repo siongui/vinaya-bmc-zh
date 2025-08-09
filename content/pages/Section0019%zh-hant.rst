@@ -1727,4 +1727,19 @@
 .. _Mv.I.25.9: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.25.8-24
 .. _《大品》.一.25.9: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0063a02
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Derived offenses**
+     - **衍生違犯**
+
+   * - If a bhikkhu accepts or takes, for the sake of food, a juice drink, a tonic, or medicine that has been stored overnight, there is a dukkaṭa in the taking, and another dukkaṭa for every mouthful he eats. The Commentary, though, asserts that when a bhikkhu takes, not for food but simply to assuage his thirst, a juice drink stored overnight, he incurs a pācittiya with every swallow.
+
+     - 如果比丘為了食物而接受或服用隔夜儲存的果汁飲料、補品或藥物，則服用時犯一次《突吉羅》，而每吃一口犯另一次《突吉羅》。然而，《義註》卻聲稱，如果比丘不是為了食物而僅僅為了解渴而服用隔夜儲存的果汁飲料，則他每吞嚥一口犯一次《波逸提》。
+
+   * - It seems strange that drinking the juice simply as juice would entail a stronger penalty than taking it as food. As there is no basis anywhere in the Canon for the Commentary’s assertion, there seems no reason to adopt it. `Mv.VI.40.3`_ states clearly that juice drinks, taken for any reason, are allowable at any time on the day they are accepted, but not after dawnrise of the following day. No specific penalty is given for taking them on the following day, but inferring from the Vibhaṅga to this rule we can use the Great Standards to say that the penalty would be a dukkaṭa.
+
+     - 奇怪的是，光是把果汁當果汁喝，比把它當食物喝，懲罰更重。由於《聖典》中沒有任何證據支持《義註》的斷言，因此似乎沒有理由採納它。\ `《大品》.六.40.3`_ 明確規定，無論出於何種原因，果汁飲料都可以在被接受當天的任何時間飲用，但第二天黎明之後則不行。第二天飲用果汁並沒有具體的懲罰，但根據這條戒條的《經分別》推斷，我們可以用《四大教示》來說該懲罰是《突吉羅》。
+
 (未完待續)
