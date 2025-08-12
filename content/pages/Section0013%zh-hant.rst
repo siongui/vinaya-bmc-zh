@@ -64,7 +64,7 @@
 
    * - The origin story for this rule is retold as part of a longer narrative in the Mahāvagga (VIII.13.4-8). Because the context provided by the longer narrative is what makes it interesting, that is the version translated here.
 
-     - 本戒條的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0275a06>`__ 作為《大品》中較長敘述的一部分被重述（\ `八.13.4-8 <https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0375a11>`__\ ）。因為較長的敘述提供的上下文使它變得有趣，所以這就是這裡翻譯的版本。
+     - 本戒條的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0275a06>`__ 作為《大品》中較長敘述的一部分被重述（\ `八.13.4-8 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0375a11>`__\ ）。因為較長的敘述提供的上下文使它變得有趣，所以這就是這裡翻譯的版本。
 
    * - .. container:: mx-2
 
@@ -229,7 +229,7 @@
 .. _Mv.VIII.28: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Mv.VIII.28.1
 .. _BMC2, Chapter 2: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#BMC2chapter2
 .. _Mv.VIII.29: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.29
-.. _《大品》.八.3.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0368a01
+.. _《大品》.八.3.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0368a01
 .. _麻布: https://zh.wikipedia.org/wiki/%E9%BA%BB%E5%B8%83
 .. _棉花: https://zh.wikipedia.org/wiki/%E6%A3%89%E8%8A%B1
 .. _絲綢: https://zh.wikipedia.org/wiki/%E4%B8%9D%E7%BB%B8
@@ -238,13 +238,13 @@
 .. _火麻: https://zh.wikipedia.org/wiki/%E7%81%AB%E9%BA%BB
 .. _尼龍: https://zh.wikipedia.org/wiki/%E5%B0%BC%E9%BE%99
 .. _人造絲: https://zh.wikipedia.org/wiki/%E5%AB%98%E7%B8%88
-.. _《大品》.八.28: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0395a02
+.. _《大品》.八.28: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0395a02
 .. _《佛教比丘戒律 第二冊》第二章: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#BMC2chapter2
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二章
-.. _《大品》.八.29: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0396a06
+.. _《大品》.八.29: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0396a06
 .. _Mv.VIII.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.21.1
 .. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
-.. _《大品》.八.21.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0385a09
+.. _《大品》.八.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0385a09
 .. _《波逸提》五九: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
 .. TODO FIXME: replace link to 《波逸提》五九
 .. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
@@ -297,7 +297,7 @@
 .. _附錄一: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
 .. TODO FIXME: replace link to 附錄一
 .. _Mv.V.13.13: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.V.13.13
-.. _《大品》.五.13.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_005#0263a11
+.. _《大品》.五.13.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0263a11
 .. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
 .. _《捨墮》二: #NP2
 .. _三: #NP3
@@ -330,7 +330,7 @@
 
      - .. container:: mx-2
 
-          1）他參加了一次僧團羯磨會議，寺院裡的所有比丘自願放棄他們的功德衣方便利益。（此行為在比丘尼的\ `《波逸提》三十 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0398a07>`__\ 中討論——參見\ `《佛教比丘戒律 第二冊》第十七章`_\ 和\ `附錄一`_\ 。）
+          1）他參加了一次僧團羯磨會議，寺院裡的所有比丘自願放棄他們的功德衣方便利益。（此行為在比丘尼的\ `《波逸提》三十 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_012/#0398a07>`__\ 中討論——參見\ `《佛教比丘戒律 第二冊》第十七章`_\ 和\ `附錄一`_\ 。）
 
    * - .. container:: mx-2
 
@@ -424,9 +424,9 @@
 .. _功德衣: https://www.google.com/search?q=%E8%BF%A6%E7%B5%BA%E9%82%A3
 .. _Mv.VII.1.7: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#Mv.VII.1.7
 .. _Mv.VII.2: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#Mv.VII.2
-.. _《大品》.七.1.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_007#0336a05
-.. _《大品》.七.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_007#0336a08
-.. _《附隨》.十四.6: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_014#0280a02
+.. _《大品》.七.1.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_007/#0336a05
+.. _《大品》.七.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_007/#0336a08
+.. _《附隨》.十四.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_014/#0280a02
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -505,10 +505,10 @@
 .. _Mv.VII.1: https://www.dhammatalks.org/vinaya/Mv/MvVII.html#pts1
 .. _Thag&16\:7: https://www.dhammatalks.org/suttas/KN/Thag/thag16_7.html
 .. _三衣: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
-.. _《大品》.一.25.9: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0063a02
+.. _《大品》.一.25.9: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0063a02
 .. _附錄十: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
 .. TODO FIXME: replace link to 附錄十
-.. _《大品》.七.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_007#0333a03
+.. _《大品》.七.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_007/#0333a03
 .. _《相應部》16\:8經: https://sutra.mobi/chilin/xiangying/content/16.html#%E5%85%AB%E6%95%99%E5%8C%96%E4%B9%8B%E4%B8%89
 .. _頭陀: https://zh.wikipedia.org/wiki/%E5%A4%B4%E9%99%80
 .. _Pc 92: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc92
@@ -546,7 +546,7 @@
 
    * - In the origin story here, a number of bhikkhus went off on tour, leaving their outer robes with their friends at the monastery. Eventually the robes became moldy, and the bhikkhus at the monastery were burdened with having to sun them to get rid of the mold. The Buddha thus formulated this rule so that bhikkhus would be responsible for looking after their own robes.
 
-     - 在\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0279a07>`__\ 的中，一些比丘外出旅行，把外衣留給了在寺院的朋友。最終，袈裟發霉了，在寺院的比丘們不得不將它們曬乾以除去黴菌。佛陀因此制定了本戒條，好讓比丘們負責照顧自己的袈裟。
+     - 在\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0279a07>`__\ 的中，一些比丘外出旅行，把外衣留給了在寺院的朋友。最終，袈裟發霉了，在寺院的比丘們不得不將它們曬乾以除去黴菌。佛陀因此制定了本戒條，好讓比丘們負責照顧自己的袈裟。
 
    * - The offense here consists of two factors: object and effort.
      - 這裡的違犯由兩個因素組成：對象和努力。
@@ -852,7 +852,7 @@
 .. _毗舍離: https://zh.wikipedia.org/wiki/%E6%AF%97%E8%88%8D%E9%9B%A2
 .. _拘尸那羅: https://zh.wikipedia.org/wiki/%E6%8B%98%E5%B0%B8%E9%82%A3%E6%8F%AD%E7%BE%85
 .. _Mv.II.12.3: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#Mv.II.12.3
-.. _《大品》.二.12.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0145a01
+.. _《大品》.二.12.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0145a01
 .. _abbhantara: https://dictionary.sutta.org/browse/a/abbhantara/
 
 
@@ -886,7 +886,7 @@
 .. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
 .. _附錄八: {filename}Section0028%zh-hant.rst#appendixVIII
 .. _Mv.II.12.1-3: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#Mv.II.12.1
-.. _《大品》.二.12.1-3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0144a05
+.. _《大品》.二.12.1-3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0144a05
 .. _BMC2, Chapter 13: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
 .. _《佛教比丘戒律 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
 
@@ -1013,8 +1013,8 @@
      - 如果第二塊布的品質與第一塊布的品質不同，如果不願意，則沒有強迫將兩塊布放在一起來製作成必需品，並且可以繼續等待更多的布（如果有期望更多的布），只要第一塊布料的壽命允許。《義註》建議，如果第二塊布的品質比第一塊布的品質差，則可以將其決意為必需布；如果第二塊布的品質更好，則可以將第一塊布決意為必需布，並從收到第二塊布之日起開始新的三十天倒數計時。
 
 .. _Mv.VIII.24-25: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.VIII.25.3
-.. _《大品》.八.24-25: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0387a08
-.. _比丘尼的《捨墮》二: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_011#0336a09
+.. _《大品》.八.24-25: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0387a08
+.. _比丘尼的《捨墮》二: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_011/#0336a09
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1044,7 +1044,7 @@
      - 然而，與上述許多問題一樣，這種情況在實踐中很少出現，因為決意原始布料為必需布或將其置於共享所有權之下是一件足夠簡單的事情，直到有足夠的布料來製作自己的必需品，從這些安排中移除它來製作必需品為止，因此根本不必擔心本戒條。
 
 .. _Mv.V.13.13: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.V.13.13
-.. _《大品》.五.13.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_005#0263a11
+.. _《大品》.五.13.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0263a11
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1096,7 +1096,7 @@
 
    * - The origin story here is one of the classics of Vinaya literature, although it is hard to say which is more memorable—the dry, matter-of-fact style with which the narrative relates the improbable events, or the reaction of the bhikkhunīs when they hear what has happened.
 
-     - 這裡的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0290a03>`__\ 是戒律文獻的經典之一，雖然很難說哪一個更令人難忘—是用枯燥乏味的、實事求是的敘述方式講述不可能發生的事件，還是比丘尼當聽到發生什麼事時的反應。
+     - 這裡的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0290a03>`__\ 是戒律文獻的經典之一，雖然很難說哪一個更令人難忘—是用枯燥乏味的、實事求是的敘述方式講述不可能發生的事件，還是比丘尼當聽到發生什麼事時的反應。
 
    * - .. container:: mx-2
 
@@ -1179,7 +1179,7 @@
 
    * - *Unrelated* is explained by the Vibhaṅga as meaning unrelated back through seven grandfathers, either on the father’s or the mother’s side. The Commentary explains further that this means seven generations counted back starting from one’s grandfather. Thus all descendants of one’s great-great-great-great-great-great-great-grandfathers are counted as one’s relatives. In-laws, however, are not. This definition of *unrelated* applies wherever the Vibhaṅga mentions the word. At the time of the Buddha, perceived ties of kinship extended more widely than they do today, and a bhikkhu at present would be well advised to regard as his relatives only those blood-relations with whom ties of kinship are actually felt.
 
-     - 《經分別》將\ *非親戚*\ 解釋為\ `非繫屬追溯到七代，無論是父親那邊還是母親那邊 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0291a06>`_\ 。《義註》進一步解釋說，這意味著從祖父開始計算七代。因此，曾曾曾曾曾曾曾祖父的所有後裔都被算作親戚。然而，姻親卻不是。此\ *非親戚*\ 的定義適用於《經分別》中提到該字的任何地方。在佛陀時代，人們所感知到的親屬關係比今天更廣泛，現在的比丘最好只將那些真正感受到親屬關係的血親視為他的親戚。
+     - 《經分別》將\ *非親戚*\ 解釋為\ `非繫屬追溯到七代，無論是父親那邊還是母親那邊 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0291a06>`_\ 。《義註》進一步解釋說，這意味著從祖父開始計算七代。因此，曾曾曾曾曾曾曾祖父的所有後裔都被算作親戚。然而，姻親卻不是。此\ *非親戚*\ 的定義適用於《經分別》中提到該字的任何地方。在佛陀時代，人們所感知到的親屬關係比今天更廣泛，現在的比丘最好只將那些真正感受到親屬關係的血親視為他的親戚。
 
    * - Perception is not an issue here. If a bhikkhu perceives a bhikkhunī as related when in fact she isn’t, he is subject to the full penalty all the same. If he perceives a related bhikkhunī as unrelated, or if he is in doubt as to whether she is related, he incurs a dukkaṭa in getting her to wash, etc., a robe.
 
@@ -1268,7 +1268,7 @@
 
    * - The reason behind this rule is expressed by a single sentence in the origin story: ‘It’s hard for us women to come by things.’ In the original version of the rule, the Buddha made no allowance for accepting robe-cloth in exchange, but this point was later added at the request of the bhikkhunīs. They had tried to exchange robe-cloth with the bhikkhus, who refused because of the rule as it stood at that time, and this upset the bhikkhunīs. As the Commentary explains, their poverty was what made them complain, ‘If the Masters are not on familiar terms with us even to this extent, how are we supposed to keep going?’
 
-     - 本戒條背後的原因可以用\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0293a07>`__\ 中的一句話來表達：「我們女人很難得到東西。」在最初版本的戒條中，佛陀不允許接受袈裟作為交換，但這一點是後來應比丘尼的要求而加上去的。她們試圖與比丘們交換袈裟，但比丘們因為當時的規定而拒絕了，這讓比丘尼們很不高興。正如《義註》所解釋的那樣，她們的貧困使她們抱怨，「如果大德與我們的關係不熟悉到這種程度，我們該如何繼續前進？」
+     - 本戒條背後的原因可以用\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0293a07>`__\ 中的一句話來表達：「我們女人很難得到東西。」在最初版本的戒條中，佛陀不允許接受袈裟作為交換，但這一點是後來應比丘尼的要求而加上去的。她們試圖與比丘們交換袈裟，但比丘們因為當時的規定而拒絕了，這讓比丘尼們很不高興。正如《義註》所解釋的那樣，她們的貧困使她們抱怨，「如果大德與我們的關係不熟悉到這種程度，我們該如何繼續前進？」
 
    * - The offense under this rule is composed of two factors: object and effort.
      - 本戒條下的犯戒由兩個因素組成：對象和努力。
@@ -1363,7 +1363,7 @@
 
    * - The origin story to this rule is where the Buddha explicitly gives permission for bhikkhus, bhikkhunīs, female trainees, male novices, and female novices to trade items with one another. `NP 20`_ forbids bhikkhus from trading items with lay people and people ordained in other religions.
 
-     - 本戒條的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0293a07>`__\ ，佛陀明確地允許比丘、比丘尼、\ `式叉摩那`_\ 、沙彌和\ `沙彌尼`_\ 互相交易物品。\ `《捨墮》二十`_\ 禁止比丘與俗人和其他宗教出家的人進行物品交易。
+     - 本戒條的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0293a07>`__\ ，佛陀明確地允許比丘、比丘尼、\ `式叉摩那`_\ 、沙彌和\ `沙彌尼`_\ 互相交易物品。\ `《捨墮》二十`_\ 禁止比丘與俗人和其他宗教出家的人進行物品交易。
 
    * - *Summary: Accepting robe-cloth from an unrelated bhikkhunī without giving her anything in exchange is a nissaggiya pācittiya offense.*
 
@@ -1402,7 +1402,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時，優波難陀尊者釋迦子在說法方面頗有成就。 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0296a14>`_\ 一位金融家的兒子走到他面前，一到就向他敬禮，坐在一邊。當他坐在那裡時，優波難陀尊者釋迦子以佛法開示教導、督促、喚醒和鼓勵他。然後金融家的兒子……對他說：『大德，請告訴我，我能為您提供您需要的東西：袈裟布？缽食？住處？病資具藥物？』
+          「\ `爾時，優波難陀尊者釋迦子在說法方面頗有成就。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0296a14>`_\ 一位金融家的兒子走到他面前，一到就向他敬禮，坐在一邊。當他坐在那裡時，優波難陀尊者釋迦子以佛法開示教導、督促、喚醒和鼓勵他。然後金融家的兒子……對他說：『大德，請告訴我，我能為您提供您需要的東西：袈裟布？缽食？住處？病資具藥物？』
 
    * - .. container:: mx-2
 
@@ -1527,7 +1527,7 @@
      - 以下戒條在這種情況下可以要求多少布料添加了額外的規定。
 
 .. _Mv.VIII.28.1: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Mv.VIII.28.1
-.. _《大品》.八.28.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0395a02
+.. _《大品》.八.28.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0395a02
 .. _Pc 11: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
 .. _《波逸提》十一: {filename}Section0017%zh-hant.rst#Pc11
 
@@ -1641,7 +1641,7 @@
 
    * - This rule is a continuation of the preceding one, dealing with the protocol in asking for robe-cloth when one’s robes have been snatched away or destroyed. The origin story is as follows:
 
-     - 本戒條是前一條戒條的延續，處理當袈裟被搶走或毀壞時索要袈裟的行儀（禮節）。\ `故事的起源 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0301a03>`__\ 是這樣的：
+     - 本戒條是前一條戒條的延續，處理當袈裟被搶走或毀壞時索要袈裟的行儀（禮節）。\ `故事的起源 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0301a03>`__\ 是這樣的：
 
    * - .. container:: mx-2
 
@@ -1827,7 +1827,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時，有一位居士對他的妻子說 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0303a07>`__\ ：『我要給優波難陀大德穿上袈裟。』有一位正在托缽的比丘無意中聽到那人這樣說。於是他就去找釋迦子優波難陀尊者，抵達後對他說：『朋友優波難陀，你有很多功德。在那裡，有一個人對他的妻子說：『我要給優波難陀大德穿上袈裟。』
+          「\ `爾時，有一位居士對他的妻子說 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0303a07>`__\ ：『我要給優波難陀大德穿上袈裟。』有一位正在托缽的比丘無意中聽到那人這樣說。於是他就去找釋迦子優波難陀尊者，抵達後對他說：『朋友優波難陀，你有很多功德。在那裡，有一個人對他的妻子說：『我要給優波難陀大德穿上袈裟。』
 
    * - .. container:: mx-2
 
@@ -2128,7 +2128,7 @@
 
    * - Even given this allowance, though, it is important that the bhikkhu, in his dealings with the steward, does not say or do anything that would transgress `NP 18-20`_. At the same time, it is important that he not abuse the steward’s services. Otherwise the steward will never want to perform this service for bhikkhus again. This is the main point of the origin story to this rule:
 
-     - 然而，即使給予了這種開緣，比丘在與淨人打交道時，不要說或做任何違反\ `《捨墮》一八至二十`_\的事情，這一點很重要。同時，重要的是他不能濫用淨人的服務。否則，淨人將永遠不想再為比丘做這服務。這是本戒條\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0311a07>`_\的要點：
+     - 然而，即使給予了這種開緣，比丘在與淨人打交道時，不要說或做任何違反\ `《捨墮》一八至二十`_\的事情，這一點很重要。同時，重要的是他不能濫用淨人的服務。否則，淨人將永遠不想再為比丘做這服務。這是本戒條\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0311a07>`_\的要點：
 
    * - .. container:: notification
 
@@ -2157,7 +2157,7 @@
 .. _NP 19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. _Mv.VI.34.21: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.34.21
 .. _《捨墮》一九: {filename}Section0014%zh-hant.rst#NP19
-.. _《大品》.六.34.21: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0321a02
+.. _《大品》.六.34.21: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0321a02
 .. _NP 18-20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. _《捨墮》一八至二十: {filename}Section0014%zh-hant.rst#NP18
 
@@ -2211,7 +2211,7 @@
      - **接受的行儀**
 
    * - The Vibhaṅga gives the following guidelines:
-     - 《經分別》給出了以下\ `指導方針 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0313a14>`__\：
+     - 《經分別》給出了以下\ `指導方針 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0313a14>`__\：
 
    * - If donors offer money, they are to be told that bhikkhus do not accept money.
      - 如果布施者提供金錢，他們應該被告知比丘不接受金錢。
@@ -2234,7 +2234,7 @@
 
    * - The rule states that a bhikkhu may give his steward up to three verbal and six silent promptings in order to get a requisite from the fund. The Vibhaṅga works out an arrangement whereby he may exchange two silent promptings for one verbal prompting, which leads the Commentary to lay out the following scheme: A bhikkhu may make up to—
 
-     - 戒條規定，比丘可以向他的淨人發出最多三次口頭提示和六次無聲提示，以便從資金中獲得必需品。《經分別》制定了一種安排，使他可以將\ `兩次無聲提示改為一次口頭提示 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0314a10>`__\，這導致《義註》提出以下方案：比丘可以做到——
+     - 戒條規定，比丘可以向他的淨人發出最多三次口頭提示和六次無聲提示，以便從資金中獲得必需品。《經分別》制定了一種安排，使他可以將\ `兩次無聲提示改為一次口頭提示 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0314a10>`__\，這導致《義註》提出以下方案：比丘可以做到——
 
    * - 6 verbal & 0 silent promptings
      - 6次 口頭 及 0次 無聲提示
@@ -2259,7 +2259,7 @@
 
    * - The Vibhaṅga adds that when giving a verbal prompting, one may say only, “I need a robe (or whatever the requisite may be),” or statements to that effect. One may not say, “Give me a robe,” “Get me a robe,” “Buy me a robe,” or “Get a robe in exchange for me,” for these last two statements in particular would incur a penalty under `NP 20`_.
 
-     - 《經分別》\ `補充說，當給予口頭提示時 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0314a03>`__\，只能說：「我需要一件衣（或任何必要的東西）」，或類似的陳述。不能說，「給我一件衣」，「拿給我一件衣」，「買給我一件衣」，或者「交換一件衣給我」，因為最後兩種說法尤其會招致\ `《捨墮》二十`_\ 的懲罰。
+     - 《經分別》\ `補充說，當給予口頭提示時 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0314a03>`__\，只能說：「我需要一件衣（或任何必要的東西）」，或類似的陳述。不能說，「給我一件衣」，「拿給我一件衣」，「買給我一件衣」，或者「交換一件衣給我」，因為最後兩種說法尤其會招致\ `《捨墮》二十`_\ 的懲罰。
 
    * - According to the Commentary, promptings are counted not by the number of visits to the steward but by the number of times the bhikkhu states his need/desire for the requisite. Thus if, in one visit, he states his need for a robe three times, that counts as three verbal promptings.
 
@@ -2283,7 +2283,7 @@
 
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _《捨墮》二十: {filename}Section0014%zh-hant.rst#NP20
-.. _在比丘尚未領受必需品期間，他不應接受坐在淨人處的邀請、接受施捨，或在那裡教導佛法。: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0314a07
+.. _在比丘尚未領受必需品期間，他不應接受坐在淨人處的邀請、接受施捨，或在那裡教導佛法。: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0314a07
 .. _Pc 7: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
 .. _《波逸提》七: {filename}Section0016%zh-hant.rst#Pc7
 
@@ -2409,9 +2409,9 @@
 .. _《波逸提》四七: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47
 .. TODO FIXME: replace link to 《波逸提》四七
 .. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
-.. _《長部》2經: https://tripitaka.cbeta.org/mobile/index.php?index=N06n0004_002
+.. _《長部》2經: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N06n0004_002/
 .. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
-.. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
+.. _《小品》.五.36: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0190a11
 
 
 .. list-table::

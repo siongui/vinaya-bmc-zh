@@ -37,7 +37,7 @@
 
    * - The general purpose of this rule is to prevent a bhikkhu from picking up misplaced valuables belonging to other people, for as the origin story shows, there are dangers inherent in such an act even when done with the best intentions.
 
-     - 本戒條的總體目的是防止比丘撿起屬於其他人的遺失的貴重物品，因為正如\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0218a03>`_\ 所示，即使是出於最好的意圖，這種行為也存在固有的危險。
+     - 本戒條的總體目的是防止比丘撿起屬於其他人的遺失的貴重物品，因為正如\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0218a03>`_\ 所示，即使是出於最好的意圖，這種行為也存在固有的危險。
 
    * - .. container:: px-4
 
@@ -94,7 +94,7 @@
 .. _Cv.I.20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.20
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
-.. _《小品》.一.20: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0024a12
+.. _《小品》.一.20: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0024a12
 .. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
 

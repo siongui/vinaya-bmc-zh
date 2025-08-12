@@ -58,10 +58,10 @@
 
      - 如果因為某些原因，新比丘與戒師住在不同的寺院，他就必須依止一位教授師，而教授師的資格與戒師的資格完全相同。因為\ `《大品》（一.72.1）`_\ 提到，依止一個不負責任的比丘，犯《突吉羅》，所以新比丘在依止之前可以有四到五天的時間來觀察他潛在的教授師的行為（\ `《大品》.一.72.2`_\ ）。
 
-.. _《大品》（一.36-37）: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0082a01
+.. _《大品》（一.36-37）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0082a01
 .. _Mv.I.72.2: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.72
-.. _《大品》（一.72.1）: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0114a10
-.. _《大品》.一.72.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0114a14
+.. _《大品》（一.72.1）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0114a10
+.. _《大品》.一.72.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0114a14
 
 
 .. _sigil_toc_id_5:
@@ -107,9 +107,9 @@
      - 意思是：「尊者，請做我的教授師；我將依止尊者而住。”（\ `《大品》.一.32.2`_\ ）
 
 .. _Mv.I.25.7: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.25.7
-.. _《大品》.一.25.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0062a08
+.. _《大品》.一.25.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0062a08
 .. _Mv.I.32.2: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.32.2-3
-.. _《大品》.一.32.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0080a01
+.. _《大品》.一.32.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0080a01
 
 
 .. _sigil_toc_id_6:
@@ -126,8 +126,8 @@
 
      - 《大品》（\ `一.25.6`_\ ；\ `32.1`_\ ）指出，弟子應視依止師為父親；依止師應視弟子如兒子。然後，它繼續將這種關係描述為一組互惠的職責。
 
-.. _一.25.6: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0062a03
-.. _32.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0079a09
+.. _一.25.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0062a03
+.. _32.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0079a09
 
 
 .. _sigil_toc_id_7:
@@ -238,7 +238,7 @@
 .. _Appendix X: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
 .. _附錄十: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
 .. _Mv.I.25: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.25.6
-.. _《大品》.一.25: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0062a03
+.. _《大品》.一.25: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0062a03
 
 
 .. _sigil_toc_id_8:
@@ -274,7 +274,7 @@
      - 根據《義註》，只要戒師、出家教授師、羯磨教授師在世且仍然是比丘身分，就必須履行對弟子的這些職責。至於佛法教授師和依止教授師，只有在與弟子共住時才必須履行這些職責。
 
 .. _Mv.I.26: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.26
-.. _《大品》.一.26: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0067a11
+.. _《大品》.一.26: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0067a11
 
 
 .. _sigil_toc_id_9:
@@ -324,17 +324,17 @@
      - `《大品》.一.32`_\ 的《義註》建議，如果依止師拒絕寬恕弟子，弟子應該嘗試讓寺院中的其他比丘為他求情。如果不行的話，他應該去另一座寺院，在那裡依止一位與依止師關係融洽的長老比丘，希望依止師以此為弟子善意的表徵，最終會給予他寬恕。如果由於某種原因，弟子不能留在其他寺院，他可以返回原來的寺院，並依止於另一位教授師。
 
 .. _Mv.I.27.5-8: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.27.5
-.. _《大品》.一.27.5-8: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0072a01
+.. _《大品》.一.27.5-8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0072a01
 .. _Mv.I.27.2: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.27.2
 .. _Mv.I.32: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.32.1
-.. _《大品》.一.27.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0071a05
-.. _《大品》.一.32: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0079a09
+.. _《大品》.一.27.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0071a05
+.. _《大品》.一.32: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0079a09
 .. _Mv.I.27.3: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.27.3-4
 .. _Mv.I.27.4: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.27.3-4
 .. _Mv.I.72.1: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.72
-.. _《大品》.一.27.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0071a09
-.. _《大品》.一.27.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0071a12
-.. _《大品》.一.72.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0114a10
+.. _《大品》.一.27.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0071a09
+.. _《大品》.一.27.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0071a12
+.. _《大品》.一.72.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0114a10
 
 
 .. _sigil_toc_id_10:
@@ -396,9 +396,9 @@
      - 《戒律入口》反對此判斷，認為「會遇戒師」應指弟子實際上與戒師共住，無論是在另一寺院，或是與教授師居住的同一寺院。然而，不同的僧團對此有不同的解釋，明智之舉是遵循個人所居住的僧團的解釋。
 
 .. _Mv.I.36.1: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.36.1
-.. _《大品》.一.36.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0082a01
+.. _《大品》.一.36.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0082a01
 .. _Mv.I.34: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.34
-.. _《大品》.一.34: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0081a05
+.. _《大品》.一.34: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0081a05
 
 
 .. _sigil_toc_id_11:
@@ -443,7 +443,7 @@
      - 無論如何，一旦到了雨安居（\ *vassa*\ ）前的那一個月，沒有合適的依止師出現，低戒臘比丘就必須離開他的森林住所，尋找一個有合適依止師的地方，他可以在雨安居時依止之。
 
 .. _Mv.I.73: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.73
-.. _《大品》.一.73: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0115a03
+.. _《大品》.一.73: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0115a03
 
 
 .. _sigil_toc_id_12:
@@ -507,12 +507,12 @@
      - 一旦弟子解除依止，《義註》指出，他不再需要履行第 4 節和第 5 節中提到的弟子對其依止師的職責。
 
 .. _Mv.I.53.4: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.53.4
-.. _《大品》.一.53.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0100a02
+.. _《大品》.一.53.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0100a02
 .. _Mv.I.53.5-13: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.53.5-9
-.. _《大品》.一.53.5-13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0100a06
+.. _《大品》.一.53.5-13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0100a06
 .. _Mv.I.53: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.53.5-9
 .. _Pc 21: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc21
-.. _《大品》.一.53: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0099a06
+.. _《大品》.一.53: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0099a06
 .. _《波逸提》二一: {filename}Section0018%zh-hant.rst#Pc21
 .. _MN 62: https://www.dhammatalks.org/suttas/MN/MN62.html
 .. _AN 5\:114: https://www.dhammatalks.org/suttas/AN/AN5_114.html
@@ -562,7 +562,7 @@
 
      - 如上所述，《義註》指出，無論弟子是依止中還是解除依止，他仍然應該履行對他的戒師的某些職責－而他的戒師也對他履行某些職責－只要他們都在世且是比丘身分。這符合他們始終將彼此視為父子的事實：戒師應持續關注弟子的福利，而弟子則應對他的戒師給予他進入比丘生活的啟蒙表示持續的感激之情。
 
-.. _《小品》（一.9-12）: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0009a11
+.. _《小品》（一.9-12）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0009a11
 .. _Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#BMC1chapter5
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. _Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11

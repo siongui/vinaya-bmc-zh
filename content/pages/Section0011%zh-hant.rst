@@ -87,7 +87,7 @@
 
      - 首先列出結果因素似乎很奇怪，但我想先解釋一下，部分原因是，在理解本戒條所涵蓋的意圖和努力類型時，有必要知道它們的目的是什麼，也因為結果是《經分別》和《義註》基本上一致的因素之一。
 
-.. _爾時，施越尊者過著不滿的梵行生活: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0153a05
+.. _爾時，施越尊者過著不滿的梵行生活: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0153a05
 
 
 .. list-table::
@@ -249,14 +249,14 @@
 
 .. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
 .. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
-.. _在水流中逆流沐浴: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0164a08
+.. _在水流中逆流沐浴: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0164a08
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
-.. _命令一位沙彌抓住他的（比丘的）陰莖: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0163a07
+.. _命令一位沙彌抓住他的（比丘的）陰莖: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0163a07
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
-.. _睡眠沙彌案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0163a07
+.. _睡眠沙彌案例: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0163a07
 .. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
 .. _《僧殘》二: #Sg2
-.. _充滿欲望地凝視女性私處，處以《突吉羅》: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0164a02
+.. _充滿欲望地凝視女性私處，處以《突吉羅》: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0164a02
 
 
 .. list-table::
@@ -382,7 +382,7 @@
 
    * - This rule has sometimes been viewed as a sign of prejudice against women. But, as the origin story makes clear, the Buddha formulated the rule not because women are bad, but because bhikkhus sometimes can be.
 
-     - 本戒條有時被視為對女性的偏見。但是，正如\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0166a03>`__\所表明的那樣，佛陀制定這條戒條並不是因為女人不好，而是因為比丘有時是不好的。
+     - 本戒條有時被視為對女性的偏見。但是，正如\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0166a03>`__\所表明的那樣，佛陀制定這條戒條並不是因為女人不好，而是因為比丘有時是不好的。
 
    * - .. container:: notification
 
@@ -498,7 +498,7 @@
 
 .. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
 .. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
-.. _比丘用肩膀碰女人: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a05
+.. _比丘用肩膀碰女人: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0176a05
 
 
 .. list-table::
@@ -576,7 +576,7 @@
 .. _黃門: https://zh.wikipedia.org/wiki/%E9%BB%83%E9%96%80_(%E4%BD%9B%E6%95%99)
 .. _paṇḍaka: https://dictionary.sutta.org/browse/p/pa%E1%B9%87%E1%B8%8Daka/
 .. _Mv.I.61: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.61.2
-.. _《大品》.一.61: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0106a14
+.. _《大品》.一.61: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0106a14
 .. _下弦月: https://zh.wikipedia.org/wiki/%E4%BA%8F%E6%9C%88
 .. _Pc 6: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc6
 .. _44: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
@@ -590,7 +590,7 @@
 .. _六七: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
 .. TODO FIXME: replace link to 《波逸提》六七
 .. _Mv.V.9.3: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.V.9.3
-.. _《大品》.五.9.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_005#0255a11
+.. _《大品》.五.9.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0255a11
 
 
 .. list-table::
@@ -632,7 +632,7 @@
 
      - 《經分別》規定，如果一個人的意圖不是淫欲，則觸摸除女性以外的其他眾生不會構成犯戒，但根據\ `《波逸提》五二`_\，撓癢癢是犯戒行為。
 
-.. _一位比丘出於孝愛撫摸母親的例子，一位比丘出於父愛撫摸女兒的例子，還有一位比丘出於兄弟感情撫摸妹妹: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0175a08
+.. _一位比丘出於孝愛撫摸母親的例子，一位比丘出於父愛撫摸女兒的例子，還有一位比丘出於兄弟感情撫摸妹妹: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0175a08
 .. _Pc 74: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
 .. _《波逸提》七四: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
 .. TODO FIXME: replace link to 《波逸提》七四
@@ -707,10 +707,10 @@
 
      - 根據《經分別》，如果\ `一個比丘感到想要與一位女性接觸，並且做出了努力，但沒有實現甚至間接的接觸`_\——例如，在靠近她的乳房的空氣中做出擠壓動作——懲罰是《突吉羅》。
 
-.. _充滿激情地用肩膀碰了她: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a05
-.. _比丘拉一根繩子，而女人握住另一端，拉動一根棍子，而女人握住另一端: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a07
-.. _頑皮地用缽推了她一下: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a09
-.. _一個比丘感到想要與一位女性接觸，並且做出了努力，但沒有實現甚至間接的接觸: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a11
+.. _充滿激情地用肩膀碰了她: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0176a05
+.. _比丘拉一根繩子，而女人握住另一端，拉動一根棍子，而女人握住另一端: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0176a07
+.. _頑皮地用缽推了她一下: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0176a09
+.. _一個比丘感到想要與一位女性接觸，並且做出了努力，但沒有實現甚至間接的接觸: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0176a11
 
 
 .. list-table::
@@ -782,7 +782,7 @@
 
      - 媒介是比丘認為是女性的黃門，比丘做出努力並察覺到接觸：《突吉羅》。他沒有察覺到接觸：《突吉羅》（這一點包含在 PTS 版本中，但斯里蘭卡或泰國版本中沒有）。其他可能性——察覺到接觸但沒有努力，沒有努力且沒有察覺到接觸：沒有犯戒。
 
-.. _給了一個例子: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a02
+.. _給了一個例子: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0176a02
 
 
 .. list-table::
@@ -862,7 +862,7 @@
    * - *Summary: Lustful bodily contact with a woman whom one perceives to be a woman is a saṅghādisesa offense.*
      - *摘要：與被認為是女性的女人進行淫欲的身體接觸，是《僧殘》罪。*
 
-.. _比丘被一群女人挽著手臂: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0176a02
+.. _比丘被一群女人挽著手臂: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0176a02
 
 
 .. container:: has-text-centered
@@ -893,7 +893,7 @@
 
    * - “Now at that time Ven. Udāyin was living in the wilderness. And on that occasion many women came to the monastery to look at his dwelling. They went to him and on arrival said to him, ‘Venerable sir, we would like to look at your dwelling.’ Then Ven. Udāyin, showing the dwelling to the women and referring to their genital and anal orifices, praised and criticized and begged and implored and asked and quizzed and advised and instructed and insulted them. Those of the women who were brazen, mischievous, and shameless giggled along with Ven. Udāyin, coaxed him on, laughed aloud, and teased him; while those of the women who had a sense of shame complained to the bhikkhus as they left: ‘It’s improper, venerable sirs, and unbecoming! Even by our husbands we wouldn’t want (to hear) this sort of thing said, much less by Master Udāyin.’”
 
-     - 「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0177a10>`__\，優陀夷尊者住在林野裡。其時，許多女人來到寺院參觀他的住所。他們去找他，抵達後對他說：『尊者，我們想看看您的住所。』於是優陀夷尊者向女人們展示住處，並提及她們的生殖器和肛門孔，讚美、批評、乞求、懇求、要求、詢問、建議、指導、侮辱她們。那些厚顏無恥的女人，也隨著優陀夷尊者一起咯咯地笑起來，哄他，大笑，戲弄他。而那些有羞恥感的女人則在離開時向比丘們抱怨道：『尊者，這是不恰當的，不合時宜的！即使是我們的丈夫，我們也不想（聽到）這種話，更不用說大德優陀夷了。』」
+     - 「\ `爾時 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0177a10>`__\，優陀夷尊者住在林野裡。其時，許多女人來到寺院參觀他的住所。他們去找他，抵達後對他說：『尊者，我們想看看您的住所。』於是優陀夷尊者向女人們展示住處，並提及她們的生殖器和肛門孔，讚美、批評、乞求、懇求、要求、詢問、建議、指導、侮辱她們。那些厚顏無恥的女人，也隨著優陀夷尊者一起咯咯地笑起來，哄他，大笑，戲弄他。而那些有羞恥感的女人則在離開時向比丘們抱怨道：『尊者，這是不恰當的，不合時宜的！即使是我們的丈夫，我們也不想（聽到）這種話，更不用說大德優陀夷了。』」
 
    * - The K/Commentary, summarizing the Vibhaṅga’s discussion, lists five factors for a full breach of this rule.
      - K/《義註》總結了《經分別》的討論，列出了完全違反本戒條的五個因素。
@@ -966,7 +966,7 @@
 
    * - However, these assertions from the commentaries contradict the Vibhaṅga. After listing the ways of referring to the woman’s anus, genitals, and sexual intercourse that would entail the full penalty under this rule, it illustrates them with examples. Many of the examples, although referring to the woman’s private parts or to her performing sexual intercourse, do not actually mention those words: “How do you give to your husband?” “How do you give to your lover?” “When will your mother be reconciled (to our having sex)?” “When will you have a good opportunity?” Although all of these statements refer to sexual intercourse, and people in those days would have understood them in that light, none of them actually mentions it.
 
-     - 然而，註釋書中的這些主張與《經分別》相矛盾。在列出了根據本戒條將導致全額懲罰的提及女性肛門、生殖器和性交的方式後，\ `它舉例說明了它們 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0179a09>`_\。許多例子雖然提到了女性的私處或和她性交，但實際上並沒有提到這些字詞：「你如何給你的丈夫？」「你如何給你的愛人？」「你媽媽什麼時候才能接受（我們做愛）？」「什麼時候有個好機會？」儘管所有這些說法都涉及性交，當時的人們也會從這個角度來理解它們，但實際上沒有一個提到它。
+     - 然而，註釋書中的這些主張與《經分別》相矛盾。在列出了根據本戒條將導致全額懲罰的提及女性肛門、生殖器和性交的方式後，\ `它舉例說明了它們 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0179a09>`_\。許多例子雖然提到了女性的私處或和她性交，但實際上並沒有提到這些字詞：「你如何給你的丈夫？」「你如何給你的愛人？」「你媽媽什麼時候才能接受（我們做愛）？」「什麼時候有個好機會？」儘管所有這些說法都涉及性交，當時的人們也會從這個角度來理解它們，但實際上沒有一個提到它。
 
    * - Thus the Vibhaṅga’s examples indicate that if a bhikkhu is using slang expressions, euphemisms, or indirect statements to refer lustfully to the woman’s private parts or to her performing sexual intercourse, he fulfills this factor. There is no need for the euphemisms to be well known. If the speaker intends it as a reference to the forbidden topics, that fulfills the factor of effort. If his listener understands it as such, that fulfills the factor of result. Whether anyone else understands it as such is irrelevant to the offense.
 
@@ -1123,7 +1123,7 @@
 
    * - “Now at that time a certain woman, a widow, was beautiful, attractive, and appealing. So Ven. Udāyin, dressing (§) early in the morning, taking his robe and bowl, went to her residence. On arrival, he sat on an appointed seat. Then the woman went to him and, having bowed down to him, sat to one side. As she was sitting there, Ven. Udāyin instructed, urged, roused, and encouraged her with a talk on Dhamma. Then the woman—instructed, urged, roused, and encouraged with Ven. Udāyin’s talk on Dhamma—said to him, ‘Tell me, venerable sir, what I would be capable of giving you that you need: Robe-cloth? Almsfood? Lodgings? Medicines for the sick?’
 
-     - 「\ `當時有一個寡婦，美麗、有吸引力、迷人 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0183a14>`__\。所以優陀夷尊者一大早就穿好衣服（§），帶著袈裟和缽，去了她的住處。到達後，他坐在指定的座位。婦人走到他面前，向他頂禮，坐到一旁。當她坐在那裡時，優陀夷尊者以佛法開示來指導、敦促、喚醒和鼓勵她。然後，這位婦人—被優陀夷尊者的佛法開示指導、敦促、喚醒和鼓勵—對他說：『請告訴我，大德，我能夠給你什麼你需要的東西：袈裟布？飲食？住處？病人的醫藥？』
+     - 「\ `當時有一個寡婦，美麗、有吸引力、迷人 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0183a14>`__\。所以優陀夷尊者一大早就穿好衣服（§），帶著袈裟和缽，去了她的住處。到達後，他坐在指定的座位。婦人走到他面前，向他頂禮，坐到一旁。當她坐在那裡時，優陀夷尊者以佛法開示來指導、敦促、喚醒和鼓勵她。然後，這位婦人—被優陀夷尊者的佛法開示指導、敦促、喚醒和鼓勵—對他說：『請告訴我，大德，我能夠給你什麼你需要的東西：袈裟布？飲食？住處？病人的醫藥？』
 
    * - “‘Those things aren’t hard for us to come by, sister…. Give just what is hard for us to come by.’
      - 「『這些東西對我們來說並不難得到，姐妹…給我們難以獲得的東西。』
@@ -1216,11 +1216,11 @@
 
    * - The bhikkhu speaks to the woman in praise of her ministering to his sensual needs, referring to sexual intercourse as a meritorious gift. The Commentary maintains that his remarks must directly mention sexual intercourse for this factor to be fulfilled, but the examples in the rule itself and in the Vibhaṅga contradict its assertion. Some of the examples in the Vibhaṅga state simply, “This is foremost. This is best. This is the utmost. This is highest. This is excellent.” These statements are followed by the explanation that they have to allude to or be connected with sexual intercourse. It does not say that the allusion has to be explicit.
 
-     - 比丘對女人說話，稱讚她滿足他的感官需要，並稱性交為最有功德的布施。《義註》認為，他的言論必須直接提及性交才能滿足這一因素，但戒條本身和\ `《經分別》中的例子 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0187a05>`_\ 與其主張相矛盾。\ `《經分別》中的一些例子僅僅說 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0186a09>`_\ ：「這是最重要的。這是最好的。這是最大的。這是最高的。這太棒了。」這些陳述之後是它們必須暗示性交或與性交有關的解釋。它並沒有說暗示必須是明確的。
+     - 比丘對女人說話，稱讚她滿足他的感官需要，並稱性交為最有功德的布施。《義註》認為，他的言論必須直接提及性交才能滿足這一因素，但戒條本身和\ `《經分別》中的例子 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0187a05>`_\ 與其主張相矛盾。\ `《經分別》中的一些例子僅僅說 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0186a09>`_\ ：「這是最重要的。這是最好的。這是最大的。這是最高的。這太棒了。」這些陳述之後是它們必須暗示性交或與性交有關的解釋。它並沒有說暗示必須是明確的。
 
    * - Also, the Vinīta-vatthu contains a number of cases in which bhikkhus simply tell women to give the highest gift, sexual intercourse—and one in which a bhikkhu simply tells a woman that sexual intercourse is the highest gift—without explicitly saying to whom it should be given. The bhikkhus all earn saṅghādisesas for their efforts, which shows that the reference to oneself need not be explicit, either.
 
-     - 此外，《Vinīta_-vatthu_》包含\ `許多比丘僅僅告訴女性給予最高布施——性交的案例 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0187a05>`_\ ，還有一個比丘僅僅告訴女性性交是最高布施的案例，但沒有明確說明給予誰。比丘們都因自己的努力犯《僧殘》，這表明提及自己也不必是明確的。
+     - 此外，《Vinīta_-vatthu_》包含\ `許多比丘僅僅告訴女性給予最高布施——性交的案例 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0187a05>`_\ ，還有一個比丘僅僅告訴女性性交是最高布施的案例，但沒有明確說明給予誰。比丘們都因自己的努力犯《僧殘》，這表明提及自己也不必是明確的。
 
    * - Both the Commentary and the K/Commentary state that a physical gesture—this would include writing a letter—can fulfill the factor of effort here as well.
      - 《義註》和 K/《義註》都指出，身體示意動作（包括寫一封信）也可以滿足這裡的努力因素。
@@ -1321,7 +1321,7 @@
      - 《義註》說，\ *從事傳達*\ ，就是起牽線搭橋的作用。這不僅包括幫助安排婚姻和婚外情，還包括「暫時的聯繫」，從其描述的方式來看，這可包括從與妓女的約會到安排 X 與 Y 約會等任何事情。
 
    * - The Vibhaṅga sets the component factors of a go-between’s role at three:
-     - `《經分別》將中間人角色的構成要素規定為三： <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0200a03>`_
+     - `《經分別》將中間人角色的構成要素規定為三： <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0200a03>`_
 
    * - 1\) *accepting* the request of one party to convey a proposal;
      - 1）\ *接受*\一方傳達提議的請求；
@@ -1429,7 +1429,7 @@
 
    * - “At that time the bhikkhus of Āḷavī were having huts built from their own begging—having no sponsors, destined for themselves, not to any standard measurement—that did not come to completion. They were continually begging, continually hinting: ‘Give a man, give labor, give an ox, give a wagon, give a knife, give an ax, give an adze, give a hoe, give a chisel, give rushes, give bamboo, give reeds, give grass, give clay.’ People, harassed with the begging, harassed with the hinting, on seeing bhikkhus would feel apprehensive, alarmed, would run away; would take another route, face another direction, close the door. Even on seeing cows, they would run away, imagining them to be bhikkhus.”
 
-     - 「當時，\ `阿羅毘的比丘們靠自己的乞討建造了小屋 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0203a03>`_\ ——沒有資助者，為自己而建造，沒有任何標準的尺寸——無所終止。他們不斷地乞求、不斷地暗示：『給人，給勞力，給牛，給車，給刀，給斧頭，給錛子，給鋤頭，給鑿子，給燈芯草，給竹子，給蘆葦、給草、給泥土。』人們因乞討而煩惱，因暗示而煩惱，一見到比丘就會感到害怕、驚慌、逃跑；會走另一條路，面向另一個方向，關上門。即使看到牛，他們也會逃跑，以為它們是比丘。」
+     - 「當時，\ `阿羅毘的比丘們靠自己的乞討建造了小屋 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0203a03>`_\ ——沒有資助者，為自己而建造，沒有任何標準的尺寸——無所終止。他們不斷地乞求、不斷地暗示：『給人，給勞力，給牛，給車，給刀，給斧頭，給錛子，給鋤頭，給鑿子，給燈芯草，給竹子，給蘆葦、給草、給泥土。』人們因乞討而煩惱，因暗示而煩惱，一見到比丘就會感到害怕、驚慌、逃跑；會走另一條路，面向另一個方向，關上門。即使看到牛，他們也會逃跑，以為它們是比丘。」
 
    * - There are three factors for a full offense under this rule.
      - 根據本戒條，構成完全違犯需要三個因素。
@@ -1459,7 +1459,7 @@
 
    * - The Vibhaṅga to this rule defines *destined for himself* as “for his own use.” On the surface this could mean that one plans to use the hut after handing ownership over to the Community, but the Commentary states that this is not so. To dedicate something for one’s own use, it says, is to claim ownership over it: In this case, one regards the dwelling as “mine.” The Commentary’s position is supported by the protocols followed by the lodging bestower and lodging assignor (see `BMC2, Chapter 18`_) in allotting dwellings belonging to the Community: Outside of the Rains-residence, a bhikkhu could be moved from a Community dwelling at any time; during the Rains-residence, the bhikkhu who built a particular dwelling might find himself unable to stay there because many bhikkhus with more seniority or more pressing needs had decided to spend the Rains in that location. Thus if a bhikkhu planned the dwelling for his own use, he would not want it to be subject to the protocols governing Community dwellings.
 
-     - 本戒條的《經分別》將\ *為自己建造*\ `定義為「供他自己使用」 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0208a10>`_\。從表面上看，這可能意味著計劃在將所有權移交給僧團後使用小屋，但《義註》指出事實並非如此。它說，將某物奉獻給自己使用，就是聲稱對其擁有所有權：在這種情況下，將住處視為「我的」。《義註》的立場得到了住宿贈予者和住宿分配者在分配屬於僧團的住處時所遵循的行儀（參見\ `《佛教比丘戒律 第二冊》第十八章`_\）的支持：在雨安居之外，比丘可以隨時從僧團住處搬走；在雨安居期間，建造特定住處的比丘可能會發現自己無法住在那裡，因為許多戒臘較高或有更迫切需要的比丘決定在該地點度過雨安居。因此，如果比丘計劃將住處供自己使用，他不希望它受到管理僧團住處的行儀的約束。
+     - 本戒條的《經分別》將\ *為自己建造*\ `定義為「供他自己使用」 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0208a10>`_\。從表面上看，這可能意味著計劃在將所有權移交給僧團後使用小屋，但《義註》指出事實並非如此。它說，將某物奉獻給自己使用，就是聲稱對其擁有所有權：在這種情況下，將住處視為「我的」。《義註》的立場得到了住宿贈予者和住宿分配者在分配屬於僧團的住處時所遵循的行儀（參見\ `《佛教比丘戒律 第二冊》第十八章`_\）的支持：在雨安居之外，比丘可以隨時從僧團住處搬走；在雨安居期間，建造特定住處的比丘可能會發現自己無法住在那裡，因為許多戒臘較高或有更迫切需要的比丘決定在該地點度過雨安居。因此，如果比丘計劃將住處供自己使用，他不希望它受到管理僧團住處的行儀的約束。
 
    * - The Commentary’s interpretation thus suggests that this rule and the following one were intended to discourage bhikkhus from maintaining ownership over the huts they build, for as the non-offense clauses state, the stipulations in this rule do not apply to huts built for the use of others. As the Commentary notes, this exemption applies both to huts built for other people—such as one’s preceptor or mentor—or for the Community. This would open a loophole for one to build a hut for another bhikkhu and for him to claim ownership over it independently of the Community, all without following the stipulations under the rules, but apparently the compilers of the Vibhaṅga did not regard the act of building a hut as a gift for another bhikkhu as something they had the right to forbid.
 
@@ -1487,7 +1487,7 @@
 
    * - *The hut.* The Vibhaṅga defines a hut as “plastered inside, outside, or both.” It also states that this rule does not apply to a *leṇa*, a *guhā*, or to a grass hut. A leṇa, according to the Commentary, is a cave. A guhā it doesn’t define, except to say that guhās may be built out of wood, stone, or earth. And as for a grass hut, the Commentary says that this refers to any building with a grass *roof*, which means that even a dwelling with plastered walls but a grass roof would not count as a hut under this rule (although a hut whose roof has been plastered and then covered with grass *would* count as a hut here).
 
-     - *小屋。*\ 《經分別》\ `將小屋定義為「內部、外部或兩者都塗有灰泥」 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0208a08>`_\。它還指出，本戒條不適用於 *leṇa* 、 *guhā* 或草屋。根據《義註》， *leṇa* 是一個洞穴。它沒有定義 guhā ，只是說 guhā 可以用木材、石頭或泥土來建造。至於草屋，《義註》中說，這是指任何有草\ *屋頂*\ 的建築物，這意味著即使是抹灰牆但有草屋頂的住處，在本戒條下也不能算作小屋（雖然屋頂被抹灰然後覆蓋草的小屋在這裡\ *也*\ 算是小屋）。
+     - *小屋。*\ 《經分別》\ `將小屋定義為「內部、外部或兩者都塗有灰泥」 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0208a08>`_\。它還指出，本戒條不適用於 *leṇa* 、 *guhā* 或草屋。根據《義註》， *leṇa* 是一個洞穴。它沒有定義 guhā ，只是說 guhā 可以用木材、石頭或泥土來建造。至於草屋，《義註》中說，這是指任何有草\ *屋頂*\ 的建築物，這意味著即使是抹灰牆但有草屋頂的住處，在本戒條下也不能算作小屋（雖然屋頂被抹灰然後覆蓋草的小屋在這裡\ *也*\ 算是小屋）。
 
    * - The Commentary goes on to stipulate that the plastering mentioned in the Vibhaṅga refers to a plastered *roof*, that the plaster must be either clay or white lime (plastering with cow dung or mud doesn’t count, although cement would probably come under “white lime” here), and that the plastering on the inside or outside of the roof must be contiguous with the plastering on the inside or outside of the walls. Thus if the builder leaves a gap in the plastering around the top of the wall so that the plastering of the roof and the plastering of the walls don’t touch at any point, the building doesn’t qualify as a hut and so doesn’t come under the rule.
 
@@ -1518,7 +1518,7 @@
 
    * - The Vibhaṅga gives a long list of “disturbances,” which for ease of understanding we can divide into three categories: A site free of disturbances is (1) not the abode of such creatures as termites, ants, or rats who might do harm to the building. (2) It is not the abode of those—such as snakes, scorpions, tigers, lions, elephants, or bears—who might do harm to its inhabitant. The Commentary states that the Vibhaṅga’s purpose in forbidding a bhikkhu from building on a site where termites and other small animals have their home is to show compassion to these and other small creatures like them by not destroying their nests. As for the stipulation against building where snakes and other dangerous animals live, this also extends, it says, to the areas where they regularly forage for food.
 
-     - `《經分別》列出了一長串「干擾」清單 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0210a09>`_\，為了便於理解，我們可以將其分為三類：沒有干擾的場所是（1）不是白蟻、螞蟻或老鼠等可能對建築物造成損害的生物的住所。（2）它不是蛇、蝎子、老虎、獅子、大象或熊等可能傷害其居住者的動物的住所。《義註》指出，《經分別》禁止比丘在白蟻和其他小動物棲息的地方建造房屋的目的是為了表達對白蟻和其他小動物的慈悲，不破壞它們的巢穴。至於禁止在蛇等危險動物居住的地方建造建築的規定，也適用於蛇等危險動物經常覓食的區域。
+     - `《經分別》列出了一長串「干擾」清單 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0210a09>`_\，為了便於理解，我們可以將其分為三類：沒有干擾的場所是（1）不是白蟻、螞蟻或老鼠等可能對建築物造成損害的生物的住所。（2）它不是蛇、蝎子、老虎、獅子、大象或熊等可能傷害其居住者的動物的住所。《義註》指出，《經分別》禁止比丘在白蟻和其他小動物棲息的地方建造房屋的目的是為了表達對白蟻和其他小動物的慈悲，不破壞它們的巢穴。至於禁止在蛇等危險動物居住的地方建造建築的規定，也適用於蛇等危險動物經常覓食的區域。
 
    * - \(3\) The site is not near any places that will disturb the bhikkhu’s peace and quiet. Examples given in the Vibhaṅga are: fields, orchards, places of execution, cemeteries, pleasure groves, royal property, elephant stables, horse stables, prisons, taverns, slaughterhouses, highways, crossroads, public rest-houses, and meeting places.
 
@@ -1534,11 +1534,11 @@
 
    * - —\ *Clearing the site*. Before notifying the local Community, the bhikkhu must get the site cleared—so says the Vibhaṅga, and the Commentary adds that he should get it leveled as well. In both cases, he should arrange to have this done in such a way that does not violate `Pc 10`_ & 11_. If one is planning to build the hut on monastery grounds, the wise policy would be to obtain permission from the abbot before clearing the site. Again, the question arises as to whether *clearing the site* means cutting down the trees on the spot where one proposes building the hut. In the origin story to the following rule, Ven. Channa caused an uproar by cutting down a venerated tree on a site where he planned to build, which led the Buddha to formulate the rule that the Community must inspect and approve the site to prevent uproars of this sort. This suggests that *clearing the site* here means clearing the underbrush so that the presence or absence of termites, etc., can be clearly determined. Only after the Community has approved the site should the necessary trees be cut down.
 
-     - ——\ *清理場地*\。在通知當地僧團之前，比丘必須清理該場地——《經分別》如是說，《義註》補充說他也應該把它夷為平地。在這兩種情況下，他都應該以不違反\ `《波逸提》十`_\和\ `十一`_\的方式進行安排。如果計劃在寺院場地上建造小屋，明智的做法是在清理場地之前獲得住持的許可。再次出現的問題是，\ *清理場地*\是否意味著砍伐提議建造小屋的地點的樹木。在\ `下一條戒條的起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0217a11>`_ 中，闡陀尊者在他計劃建造的地方砍倒了一棵受人尊敬的樹木，引起了軒然大波，這導致佛陀制定了戒條，要求僧團必須檢查並批准該地點，以防止此類騷亂。這表明這裡的\ *清理場地*\意味著清理灌木叢，以便可以清楚地確定白蟻等的存在與否。只有在僧團批准該地點後，才能砍伐必要的樹木。
+     - ——\ *清理場地*\。在通知當地僧團之前，比丘必須清理該場地——《經分別》如是說，《義註》補充說他也應該把它夷為平地。在這兩種情況下，他都應該以不違反\ `《波逸提》十`_\和\ `十一`_\的方式進行安排。如果計劃在寺院場地上建造小屋，明智的做法是在清理場地之前獲得住持的許可。再次出現的問題是，\ *清理場地*\是否意味著砍伐提議建造小屋的地點的樹木。在\ `下一條戒條的起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0217a11>`_ 中，闡陀尊者在他計劃建造的地方砍倒了一棵受人尊敬的樹木，引起了軒然大波，這導致佛陀制定了戒條，要求僧團必須檢查並批准該地點，以防止此類騷亂。這表明這裡的\ *清理場地*\意味著清理灌木叢，以便可以清楚地確定白蟻等的存在與否。只有在僧團批准該地點後，才能砍伐必要的樹木。
 
    * - —\ *Getting the site inspected*. The bhikkhu then goes to the Community and formally asks them to inspect the site. (The Pali passages for this and the remaining formal requests and proclamations are in the Vibhaṅga.) If all the members of the Community are able to go and inspect the site, they should all go. If not, the Community should select some of its members to go and inspect the site in its stead. The Vibhaṅga says that these inspectors should know what does and does not constitute a disturbance and adequate space, and requires that they be chosen by a formal motion with one proclamation. The Commentary says that they may also be chosen by a simple announcement *(apalokana)*, but this opinion violates the principle set forth in `Mv.IX.3.3`_ that if a shorter form is used for a transaction requiring a longer form, the transaction is invalid. Thus the Commentary’s opinion here cannot stand.
 
-     - ——\ *檢查場地*\。然後，比丘前往僧團並正式要求他們檢查場地。（關於這一點的巴利段落以及其餘的正式請求和羯磨文\ `都在《經分別》中 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0208a13>`_\ 。）如果僧團的所有成員都能夠去檢查該地點，他們都應該去。如果不能，僧團應選擇一些成員代替其前往現場檢查。《經分別》說，這些檢查員應該知道什麼構成干擾、什麼不構成干擾以及合適的空間，並要求通過正式的一白和一羯磨（白二羯磨）來挑選他們。《義註》說，也可以透過簡單的\ `求聽 <https://dictionary.sutta.org/browse/a/apalokana/>`_ \ *（apalokana）*\來挑選他們，但這種意見違反了\ `《大品》.九.3.3`_\ 中規定的原則，即如果需要較長形式的羯磨使用較短的形式，則該羯磨無效。因此，《義註》的觀點不能成立。
+     - ——\ *檢查場地*\。然後，比丘前往僧團並正式要求他們檢查場地。（關於這一點的巴利段落以及其餘的正式請求和羯磨文\ `都在《經分別》中 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0208a13>`_\ 。）如果僧團的所有成員都能夠去檢查該地點，他們都應該去。如果不能，僧團應選擇一些成員代替其前往現場檢查。《經分別》說，這些檢查員應該知道什麼構成干擾、什麼不構成干擾以及合適的空間，並要求通過正式的一白和一羯磨（白二羯磨）來挑選他們。《義註》說，也可以透過簡單的\ `求聽 <https://dictionary.sutta.org/browse/a/apalokana/>`_ \ *（apalokana）*\來挑選他們，但這種意見違反了\ `《大品》.九.3.3`_\ 中規定的原則，即如果需要較長形式的羯磨使用較短的形式，則該羯磨無效。因此，《義註》的觀點不能成立。
 
    * - The inspectors then visit the site. If they find any disturbances or see that the site has inadequate space, they should tell the bhikkhu not to build there. If the site passes inspection, though, they should return and inform the Community that the site is free of disturbances and has adequate space.
 
@@ -1580,9 +1580,9 @@
 .. _《波逸提》十: {filename}Section0016%zh-hant.rst#Pc10
 .. _十一: {filename}Section0017%zh-hant.rst#Pc11
 .. _Mv.IX.3.3: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.IX.3.3
-.. _《大品》.九.3.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_009#0411a01
+.. _《大品》.九.3.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0411a01
 .. _Mv.II.16.4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.II.16.4
-.. _《大品》.二.16.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0151a11
+.. _《大品》.二.16.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0151a11
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1593,7 +1593,7 @@
 
    * - The Vibhaṅga allots the derived penalties related to the factor of effort under this rule as follows: If the hut is such that when finished it will entail a saṅghādisesa or two, each act in its construction entails a dukkaṭa, until the next to the last act, which entails a thullaccaya.
 
-     - 《經分別》分配了與本戒條下的努力因素相關的\ `衍生懲罰，如下 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0211a06>`_\：如果小屋在完成後將犯一次或兩次《僧殘》，則其建造中的每個行為都犯《突吉羅》，直到最後一個行為的前一個行為，犯《偷蘭遮》。
+     - 《經分別》分配了與本戒條下的努力因素相關的\ `衍生懲罰，如下 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0211a06>`_\：如果小屋在完成後將犯一次或兩次《僧殘》，則其建造中的每個行為都犯《突吉羅》，直到最後一個行為的前一個行為，犯《偷蘭遮》。
 
    * - If a bhikkhu, intending it for his own use, completes a hut that others have started, he is still bound by the stipulations given in this rule. In other words, the offenses here do not apply only to the original initiator of the hut’s construction.
 
@@ -1681,7 +1681,7 @@
 
    * - The Vibhaṅga’s non-offense clauses mention, in addition to the usual exemptions, that there is no offense “in a leṇa, in a guhā, in a grass hut, in (a dwelling) for another’s use, or in anything other than a dwelling.” The Commentary explains that *no offense* here means that these cases are not subject to any of the four stipulations given in this rule. With regard to “another’s use,” it says that this could mean a dwelling that will belong to another individual—such as one’s preceptor or mentor—or to the Community. As for the last case, it explains that if a bhikkhu is building, e.g., a meeting hall, he is not bound by this rule, but if he plans to lay claim to it and use it as his dwelling as well, he is.
 
-     - 除一般的豁免外，\ `《經分別》的不犯條款 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0216a07>`__\ 還提到，「在leṇa（山窟）、guhā（洞穴）、草屋、供他人使用的（住處）或住處除外的任何東西」均不構成犯戒。《義註》解釋說，此處\ *不犯*\ 意思是這些情況不受本戒條中四項規定中任何一項的約束。關於「他人使用」，它說這意味著屬於另一個人（例如戒師或教授師）或僧團的住處。至於最後一個例子，它解釋說，如果一個比丘正在建造，例如一個會議廳，他就不受本戒條的約束，但如果他打算聲稱擁有它並把它用作他的住所，他就受本戒條的約束。
+     - 除一般的豁免外，\ `《經分別》的不犯條款 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0216a07>`__\ 還提到，「在leṇa（山窟）、guhā（洞穴）、草屋、供他人使用的（住處）或住處除外的任何東西」均不構成犯戒。《義註》解釋說，此處\ *不犯*\ 意思是這些情況不受本戒條中四項規定中任何一項的約束。關於「他人使用」，它說這意味著屬於另一個人（例如戒師或教授師）或僧團的住處。至於最後一個例子，它解釋說，如果一個比丘正在建造，例如一個會議廳，他就不受本戒條的約束，但如果他打算聲稱擁有它並把它用作他的住所，他就受本戒條的約束。
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1782,7 +1782,7 @@
 
    * - “Now at that time a householder who served fine food gave food to the Community on a regular basis, four bhikkhus every day…. (One day) he happened to go on some business to the monastery. He went to Ven. Dabba Mallaputta and on arrival bowed down to him and sat to one side…. Ven. Dabba Mallaputta roused… him with a Dhamma talk. Then the householder with fine food… said to Dabba Mallaputta, ‘To whom, venerable sir, is tomorrow’s meal in our house assigned?’
 
-     - 「\ `爾時，一位提供精美食物的居士定期向僧團提供食物 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0224a10>`__\ ，每天有四位比丘… （有一天）他碰巧去寺院辦事。他去找沓婆摩羅子尊者，抵達後向他頂禮並坐在一邊…沓婆摩羅子尊者用佛法開示激勵了……他。然後，有美味食物的居士……對沓婆摩羅子說：『大德，我們家裡明天的飯菜是分配給誰的？』
+     - 「\ `爾時，一位提供精美食物的居士定期向僧團提供食物 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0224a10>`__\ ，每天有四位比丘… （有一天）他碰巧去寺院辦事。他去找沓婆摩羅子尊者，抵達後向他頂禮並坐在一邊…沓婆摩羅子尊者用佛法開示激勵了……他。然後，有美味食物的居士……對沓婆摩羅子說：『大德，我們家裡明天的飯菜是分配給誰的？』
 
    * - “‘…To (the) followers of Mettiya and Bhummaja (§), householder.’ [Mettiya and Bhummaja were among the leaders of the group-of-six bhikkhus—so called because the group had six ringleaders—a faction notorious for its shameless behavior, and instigators of many of the situations that compelled the Buddha to formulate training rules.]
 
@@ -1987,25 +1987,25 @@
 .. _Sg 12: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
 .. _《僧殘》十二: #Sg12
 .. _Cv.IX.5.1-2: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.5.1
-.. _《小品》.九.5.1-2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_019#0331a14
+.. _《小品》.九.5.1-2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_019/#0331a14
 .. _attha: https://dictionary.sutta.org/browse/a/attha/
 .. _Cv.IX.5.7: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.5.7
-.. _《小品》.九.5.7: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_019#0334a13
-.. _《附隨》.十五.5.3: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0298a06
+.. _《小品》.九.5.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_019/#0334a13
+.. _《附隨》.十五.5.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_015/#0298a06
 .. _Pc 64: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
 .. _《波逸提》六四: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
 .. TODO FIXME: replace link to 《波逸提》六四
 .. _Mv.II.16.1: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.16.1-3
-.. _《大品》.二.16.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0151a01
+.. _《大品》.二.16.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0151a01
 .. _Mv.II.16.3: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.16.1-3
-.. _《大品》.二.16.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0151a07
+.. _《大品》.二.16.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0151a07
 .. _Pc 76: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
 .. _《波逸提》七六: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
 .. TODO FIXME: replace link to 《波逸提》七六
 .. _Mv.II.16.2: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.16.1-3
-.. _《大品》.二.16.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0151a04
-.. _《附隨》.十五.4.7: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0295a12
-.. _《附隨》.十五.5.4: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0298a10
+.. _《大品》.二.16.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0151a04
+.. _《附隨》.十五.4.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_015/#0295a12
+.. _《附隨》.十五.5.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_015/#0298a10
 .. _Pc 12: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc12
 .. _《波逸提》十二: {filename}Section0017%zh-hant.rst#Pc12
 .. _Pc 54: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
@@ -2192,7 +2192,7 @@
 
    * - “At that time the followers of Mettiya and Bhummaja, descending from Vulture Peak Mountain, saw a billy-goat copulating with a nanny-goat. Seeing them, they said, ‘Look here, friends, let’s name this billy goat Dabba Mallaputta, and this nanny goat Mettiyā Bhikkhunī. Then we’ll phrase it like this: “Before, my friends, we accused Dabba Mallaputta on the basis of what we had heard, but now we have seen him with our very own eyes fornicating with Mettiyā Bhikkhunī!”’”
 
-     - 「\ `爾時，慈和地的弟子從耆闍崛山下來 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0233a03>`_\，看到一隻公山羊與一隻母山羊交配。看到他們，他們說：『看這裡，朋友們，我們把這隻公山羊命名為沓婆摩羅子，把這隻母山羊命名為慈比丘尼。然後我們會這樣表述：「朋友們，以前我們根據所聽到的情況指控沓婆摩羅子，但現在我們親眼看到他與慈比丘尼私通！」』」
+     - 「\ `爾時，慈和地的弟子從耆闍崛山下來 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0233a03>`_\，看到一隻公山羊與一隻母山羊交配。看到他們，他們說：『看這裡，朋友們，我們把這隻公山羊命名為沓婆摩羅子，把這隻母山羊命名為慈比丘尼。然後我們會這樣表述：「朋友們，以前我們根據所聽到的情況指控沓婆摩羅子，但現在我們親眼看到他與慈比丘尼私通！」』」
 
    * - Some grudges die hard. This rule is almost identical with the preceding one and involves the same factors except for one of the sub-factors under “Effort”: “Unfounded charge” here becomes “a charge based on an issue *(adhikaraṇa)* that pertains otherwise.” The phrase sounds strange, but the origin story gives a perfect example of what it means.
 
@@ -2204,7 +2204,7 @@
 
    * - The Vibhaṅga lists ten factors that can be used as a ploy in distorting the facts this way. They are: birth (caste), name, clan (family name), physical characteristics, offenses, bowl, robe, preceptor, mentor, lodging. Given the way in which the Vibhaṅga illustrates these factors in action, they fall into two classes: (1) offenses and (2) the remaining nine factors.
 
-     - `《經分別》列出了十個因素 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0235a10>`_\ ，可以用作以這種方式扭曲事實的手段。它們是：出身（種姓）、名字、宗族（姓）、身體特徵、犯戒、鉢、袈裟、戒師、導師、住處。鑑於《經分別》在行動中闡述這些因素的方式，它們分為兩類：（1）犯戒和（2）其餘九個因素。
+     - `《經分別》列出了十個因素 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0235a10>`_\ ，可以用作以這種方式扭曲事實的手段。它們是：出身（種姓）、名字、宗族（姓）、身體特徵、犯戒、鉢、袈裟、戒師、導師、住處。鑑於《經分別》在行動中闡述這些因素的方式，它們分為兩類：（1）犯戒和（2）其餘九個因素。
 
    * - 1\) An example of using an offense as a ploy: One sees Bhikkhu Y actually committing an offense. Although one perceives it as a lesser offense, one magnifies the charge to a pārājika. For instance, one sees him get into an argument with Bhikkhu Z and in a fit of anger give Z a blow to the head. Z goes unconscious, falls to the floor, and suffers a severe concussion resulting in death. Because Y’s intention was simply to hurt him, not to kill him, he incurs only a pācittiya. If one realizes the nature of Y’s intention and the fact that the penalty is a pācittiya, and yet accuses him of having committed a pārājika, one would incur a saṅghādisesa under this rule. For ease of remembrance, this use of a ploy can be called “same person, different offense.”
 
@@ -2359,18 +2359,18 @@
 .. _AN 5\:129: https://www.dhammatalks.org/suttas/AN/AN5_129.html
 .. _《增支部》5\:129經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%B8%80%E4%BA%8C%E4%B9%9D%E8%8B%A6%E8%BF%AB
 .. 十誦律（卷30） 佛語舍利弗：「若比丘非法說法、法說非法、非律說律、律說非律、犯說非犯、非犯說犯、輕說重、重說輕、無殘說有殘、有殘說無殘、常所行法說非常所行法、非常所行法說是常所行法、說言非說、非說言說，是名說非法者，不應尊重供養讚歎，不應教讀誦經法答所問疑，不應從受讀誦經[20]法、從問所疑，不應與衣鉢、戶鉤、時藥、時分藥、七日藥、盡形藥，亦不應從受[1]衣鉢、戶鉤、時藥、時分藥、七日藥、盡形藥。舍利弗！若比丘非法說非法、法說法、非律說非律、律說律、犯說犯、非犯說非犯、輕說輕、重說重、無殘說無殘、有殘說有殘、常所行法說是常所行法、非常所行法說非常所行法、說言是說、非說言非說，是名說法者 https://deerpark.app/reader/T1435/30
-.. https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0278a09 「破僧，名為破僧者，以何為破僧耶？」「優波離！此處有諸比丘，說非法為法，說法為非法，說非律為律，說律為非律，說非如來所說所言為如來所說所言，說如來所說所言為非如來所說所言，說非如來常所行法為如來常所行法，說如來常所行法為非如來常所行法，說非如來所制為如來所制，說如來所制為非如來所制，說無罪為罪，說罪為無罪，說輕罪為重罪，說重罪為輕罪，說有餘罪為無餘罪，說無餘罪為有餘罪，說粗罪為非粗罪，說非粗罪為粗罪。彼等以此十八事，誘惑而行不共布薩，行不共自恣，行不共僧伽羯磨。優波離！此為破僧也。」
+.. https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_017/#0278a09 「破僧，名為破僧者，以何為破僧耶？」「優波離！此處有諸比丘，說非法為法，說法為非法，說非律為律，說律為非律，說非如來所說所言為如來所說所言，說如來所說所言為非如來所說所言，說非如來常所行法為如來常所行法，說如來常所行法為非如來常所行法，說非如來所制為如來所制，說如來所制為非如來所制，說無罪為罪，說罪為無罪，說輕罪為重罪，說重罪為輕罪，說有餘罪為無餘罪，說無餘罪為有餘罪，說粗罪為非粗罪，說非粗罪為粗罪。彼等以此十八事，誘惑而行不共布薩，行不共自恣，行不共僧伽羯磨。優波離！此為破僧也。」
 .. _Mv.X: https://www.dhammatalks.org/vinaya/Mv/MvX.html
 .. _憍賞彌: https://zh.wikipedia.org/wiki/%E6%86%8D%E8%B3%9E%E5%BD%8C
-.. _《大品》.十: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_010
+.. _《大品》.十: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_010/
 .. _提婆達多: https://zh.wikipedia.org/wiki/%E6%8F%90%E5%A9%86%E9%81%94%E5%A4%9A
-.. _《小品》.七: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017
+.. _《小品》.七: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_017/
 .. _Cv.IV.14.16-26: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.16
 .. _Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
 .. _BMC2, Chapter 21: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
 .. _第二次結集: https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BB%93%E9%9B%86
-.. _《小品》.十二: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_022
-.. _《小品》.四.14.16-26: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0128a01
+.. _《小品》.十二: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_022/
+.. _《小品》.四.14.16-26: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0128a01
 .. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
 .. TODO FIXME: replace link to 第十一章
 .. _《佛教比丘戒律 第二冊》第二十一章: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
@@ -2408,13 +2408,13 @@
      - 然而，如果一位比丘主張造成破和合僧的十八個理由中的任何一個，認為他是在提倡正法，並且認為破和合僧將符合正法，那麼即使他完成了破和合僧，他仍然是比丘，他不會自動墮入地獄，他有可能與僧團和解並解決破和合僧。
 
 .. _Cv.IV.14.4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.4
-.. _《小品》.四.14.4: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0121a10
+.. _《小品》.四.14.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0121a10
 .. _Cv.VII.5.3: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Cv.VII.5.3
 .. _Cv.VII.5.5-6: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Cv.VII.5.5-6
-.. _《小品》.七.5.3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0279a02
-.. _《小品》.七.5.5-6: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0280a01
+.. _《小品》.七.5.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_017/#0279a02
+.. _《小品》.七.5.5-6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_017/#0280a01
 .. _Mv.I.67: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.67
-.. _《大品》.一.67: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0111a01
+.. _《大品》.一.67: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0111a01
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -2472,16 +2472,16 @@
 
 .. _Cv.VII.5.1: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Cv.VII.5.1
 .. _BMC2, Chapter 13: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
-.. _《小品》.七.5.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0277a11
+.. _《小品》.七.5.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_017/#0277a11
 .. _《佛教比丘戒律 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十三章
 .. _Cv.VII.5.2: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Cv.VII.5.2
-.. _《小品》.七.5.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0278a09
+.. _《小品》.七.5.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_017/#0278a09
 .. _《增支部》10\:35經: https://sutra.mobi/zcj/zengzhi/content/1567.html
 .. _《增支部》10\:37經: https://sutra.mobi/zcj/zengzhi/content/1569.html
-.. _《附隨》（十五.10.9）: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0314a01
-.. _《附隨》.六.2: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0186a14
-.. _十五.10.10: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_015#0314a04
+.. _《附隨》（十五.10.9）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_015/#0314a01
+.. _《附隨》.六.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_006/#0186a14
+.. _十五.10.10: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_015/#0314a04
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -2563,8 +2563,8 @@
 
 .. _Mv.III.11.6-9: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.11.6
 .. _Mv.III.11.5: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.11.5
-.. _《大品》.三.11.6-9: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0203a09
-.. _《大品》.三.11.5: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0203a06
+.. _《大品》.三.11.6-9: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_003/#0203a09
+.. _《大品》.三.11.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_003/#0203a06
 .. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
 .. _附錄八: {filename}Section0028%zh-hant.rst#appendixVIII
 
@@ -2584,7 +2584,7 @@
      - 在後一種情況下，比丘並非免於犯戒，這一事實很重要：戒律中還有其他幾個類似的要點——例如佛陀在憍賞彌爭論中對佛法專家的建議（\ `《大品》.十.1.8`_\ ）——為了在可能造成分裂的情況下維持僧團和諧，佛陀建議比丘們放棄有爭議的行為，並服從僧團的命令，即使這看起來不公正。
 
 .. _Mv.X.1.8: https://www.dhammatalks.org/vinaya/Mv/MvX.html#pts1_8
-.. _《大品》.十.1.8: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_010#0441a12
+.. _《大品》.十.1.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_010/#0441a12
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -2683,7 +2683,7 @@
      - *摘要：在僧團中第三次正式訶責羯磨文之後，繼續支持潛在的破和合僧者是《僧殘》罪。*
 
 .. _Mv.IX.2: https://www.dhammatalks.org/vinaya/Mv/MvIX.html#pts2
-.. _《大品》.九.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_009#0408a07
+.. _《大品》.九.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0408a07
 .. _摩那埵: https://www.google.com/search?q=%E6%91%A9%E9%82%A3%E5%9F%B5
 
 
@@ -2764,13 +2764,13 @@
 .. _Cv.IX.2: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.2
 .. _BMC2, Chapters 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
 .. _Cv.I.26: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.26
-.. _《小品》.一.13: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0013a01
-.. _《大品》.四.16.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_004#0227a02
-.. _《小品》.九.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_019#0322a08
+.. _《小品》.一.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0013a01
+.. _《大品》.四.16.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_004/#0227a02
+.. _《小品》.九.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_019/#0322a08
 .. _第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
 .. TODO FIXME: replace link to 第十六章
-.. _《小品》.一.26: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0029a10
-.. _《小品》.一.31: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0033a02
+.. _《小品》.一.26: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0029a10
+.. _《小品》.一.31: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0033a02
 
 
 .. container:: has-text-centered
@@ -2809,7 +2809,7 @@
 
    * - A *corrupter of families* is a bhikkhu who—behaving in a demeaning, frivolous, or subservient way—succeeds in ingratiating himself to lay people to the point where they withdraw their support from bhikkhus who are earnest in the practice and give it to those who are more ingratiating instead. This is illustrated in the origin story of this rule, in which the followers of Assaji and Punabbasu (leaders of one faction of the group of six) had thoroughly corrupted the lay people at Kīṭāgiri.
 
-     - *污家者*\是指比丘以貶低、輕浮或恭順的方式行事，成功地討好在家人，以致他們撤回對熱心修行的比丘的支持，轉而給予那些更討好的比丘。本戒條的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0251a11>`__\ 說明了這一點，其中馬師和滿宿（六群中的一個派系的領導人）的追隨者徹底腐蝕了雞咤山邑的俗人。
+     - *污家者*\是指比丘以貶低、輕浮或恭順的方式行事，成功地討好在家人，以致他們撤回對熱心修行的比丘的支持，轉而給予那些更討好的比丘。本戒條的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0251a11>`__\ 說明了這一點，其中馬師和滿宿（六群中的一個派系的領導人）的追隨者徹底腐蝕了雞咤山邑的俗人。
 
    * - “Now at that time a certain bhikkhu, having finished his Rains-residence among the people of Kāsi and on his way to Sāvatthī to see the Blessed One, arrived at Kīṭāgiri. Dressing (§) early in the morning, taking his bowl and (outer) robe, he entered Kīṭāgiri for alms: gracious in the way he approached and departed, looked forward and behind, drew in and stretched out (his arm); his eyes downcast, his every movement consummate. People seeing him said, ‘Who is this weakest of weaklings, this dullest of dullards, this most snobbish of snobs? Who, if this one approached (§), would even give him alms? Our masters, the followers of Assaji and Punabbasu, are compliant, genial, pleasing in conversation. They are the first to smile, saying, “Come, you are welcome.” *They* are not snobbish. They are approachable. They are the first to speak. *They* are the ones to whom alms should be given.’”
 
@@ -2817,11 +2817,11 @@
 
    * - The Vibhaṅga lists the ways of corrupting a family as giving gifts of flowers, fruit, etc., practicing medicine, and delivering messages—although the Commentary qualifies this by saying there is no harm in delivering messages related to religious activities, such as inviting bhikkhus to a meal or to deliver a sermon, or in conveying a lay person’s respects to a senior bhikkhu.
 
-     - 《經分別》列出了\ `污家的方式 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0257a13>`__\ ，包括送花、水果等禮物、行醫以及傳遞信息——儘管《義註》對此進行了限定，稱傳遞與宗教活動有關的訊息，例如邀請比丘吃飯或講經，或向年長比丘表達在家人的敬意，並沒有什麼害處。
+     - 《經分別》列出了\ `污家的方式 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0257a13>`__\ ，包括送花、水果等禮物、行醫以及傳遞信息——儘管《義註》對此進行了限定，稱傳遞與宗教活動有關的訊息，例如邀請比丘吃飯或講經，或向年長比丘表達在家人的敬意，並沒有什麼害處。
 
    * - *Depraved conduct* the Vibhaṅga defines merely as growing flowers and making them into garlands, but this, the Commentary says, is a shorthand reference to the long list of bad habits mentioned in the origin story, which includes such things as presenting garlands to women, eating from the same dish with them, sharing a blanket with them; eating at the wrong time, drinking intoxicants; wearing garlands, using perfumes and cosmetics; dancing, singing, playing musical instruments, directing musical performances (§); playing games, performing stunts; learning archery, swordsmanship, and horsemanship; boxing and wrestling. (For the full list, see `BMC2, Chapter 10`_.) Any one of these actions taken in isolation carries only a minor penalty—a dukkaṭa or a pācittiya (see `Cv.V.36`_)—but if indulged in habitually to the point where its bad influence becomes “seen and heard about,” i.e., common knowledge, it can become grounds for the offender’s fellow bhikkhus to banish him from their particular Community until he mends his ways.
 
-     - 《經分別》將\ *惡行*\ `僅僅定義為種植鮮花並將其製成花環 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0258a02>`__\ ，但《義註》說，這是對\ `起源故事中提到的一長串壞習慣 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_002#0251a11>`__\ 的速記，其中包括像向女人贈送花環、和他們吃同一道菜、與他們共用一條毯子；在錯誤的時間進食、飲酒；戴花環、使用香水和化妝品；跳舞、唱歌、演奏樂器、指揮音樂表演 (§)；玩遊戲、表演特技；學習射箭、劍術、馬術；拳擊和摔角。（完整列表，請參見\ `《佛教比丘戒律 第二冊》第十章`_\ 。）單獨採取的任何一項行為都只會帶來輕微的懲罰——《突吉羅》或《波逸提》（參見\ `《小品》.五.36`_\ ）——但如果習慣性地沉迷到當它的不良影響變得「被看到和聽到」這樣的程度，即眾所周知時，它可以成為犯戒者的比丘同儕將他驅逐出他們的特定僧團的理由，直到他改過自新。
+     - 《經分別》將\ *惡行*\ `僅僅定義為種植鮮花並將其製成花環 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0258a02>`__\ ，但《義註》說，這是對\ `起源故事中提到的一長串壞習慣 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0251a11>`__\ 的速記，其中包括像向女人贈送花環、和他們吃同一道菜、與他們共用一條毯子；在錯誤的時間進食、飲酒；戴花環、使用香水和化妝品；跳舞、唱歌、演奏樂器、指揮音樂表演 (§)；玩遊戲、表演特技；學習射箭、劍術、馬術；拳擊和摔角。（完整列表，請參見\ `《佛教比丘戒律 第二冊》第十章`_\ 。）單獨採取的任何一項行為都只會帶來輕微的懲罰——《突吉羅》或《波逸提》（參見\ `《小品》.五.36`_\ ）——但如果習慣性地沉迷到當它的不良影響變得「被看到和聽到」這樣的程度，即眾所周知時，它可以成為犯戒者的比丘同儕將他驅逐出他們的特定僧團的理由，直到他改過自新。
 
    * - The Cullavagga, in a section that begins with the same origin story as the one for this rule (`Cv.I.13-16`_), treats the banishment transaction in full detail, saying that a Community of bhikkhus, if it sees fit, has the authority to perform a banishment transaction against a bhikkhu with any of the following qualities:
 
@@ -2866,7 +2866,7 @@
 
    * - c\) Practicing worldly arts, e.g., medicine, fortune telling, astrology, exorcism, reciting charms, casting spells, performing ceremonies to counteract the influence of the stars, determining propitious sites, setting auspicious dates (for weddings, etc.), interpreting oracles, auguries, or dreams, or—in the words of the Vibhaṅga to the the bhikkhunīs’ `Pc 49 <https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part5>`__ & `50 <https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part5>`__\—engaging in any art that is “external and unconnected with the goal.” The Cullavagga (V.33.2) imposes a dukkaṭa on studying and teaching worldly arts or hedonist doctrines *(lokāyata)*. (For extensive lists of worldly arts, see the passage from `DN 2`_ quoted in `BMC2, Chapter 10`_. For the connection between lokāyata and hedonism (e.g., the Kāma Sūtra), see Warder, *Outline of Indian Philosophy*, pp. 38-39.)
 
-     - c）從事世俗技藝，例如醫學、算命、占星、驅魔、念咒、施咒、舉行儀式以抵消星象的影響、確定吉利地點、設定吉日（婚禮等）、解釋神諭、占卜、夢境，或者——用《經分別》對比丘尼的\ `《波逸提》四九 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0424a06>`__\ 和\ `五十 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0425a06>`__\ 的話來說——從事任何「外在的、與目標無關的」技藝。\ `《小品》（五.33.2）`_\ 對學習和教授世俗技藝或享樂主義教義\ *（lokāyata）*\ 施加了《突吉羅》。（有關世俗技藝的詳細列表，請參閱\ `《佛教比丘戒律 第二冊》第十章`_\ 中引用的\ `《長部》2經`_\ 中的段落。有關 lokāyata 與享樂主義（例如\ `《欲經》`_\ ）之間的聯繫，請參閱渥德爾，\ *《印度哲學大綱》*\ ，第38-39頁。
+     - c）從事世俗技藝，例如醫學、算命、占星、驅魔、念咒、施咒、舉行儀式以抵消星象的影響、確定吉利地點、設定吉日（婚禮等）、解釋神諭、占卜、夢境，或者——用《經分別》對比丘尼的\ `《波逸提》四九 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_012/#0424a06>`__\ 和\ `五十 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_012/#0425a06>`__\ 的話來說——從事任何「外在的、與目標無關的」技藝。\ `《小品》（五.33.2）`_\ 對學習和教授世俗技藝或享樂主義教義\ *（lokāyata）*\ 施加了《突吉羅》。（有關世俗技藝的詳細列表，請參閱\ `《佛教比丘戒律 第二冊》第十章`_\ 中引用的\ `《長部》2經`_\ 中的段落。有關 lokāyata 與享樂主義（例如\ `《欲經》`_\ ）之間的聯繫，請參閱渥德爾，\ *《印度哲學大綱》*\ ，第38-39頁。
 
    * - A bhikkhu banished for indulging in any of these activities is duty-bound to undergo the observances listed in `Cv.I.15`_ (see `BMC2, Chapter 20`_) and to mend his ways so that the Community will revoke the banishment transaction.
 
@@ -2881,18 +2881,18 @@
 
 .. _BMC2, Chapter 10: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
 .. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
-.. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
+.. _《小品》.五.36: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0190a11
 .. _《佛教比丘戒律 第二冊》第十章: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十章
 .. _Cv.I.13-16: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.13.7
-.. _《小品》.一.13-16: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0013a01
-.. _《清淨道論》一.61-82: https://tripitaka.cbeta.org/mobile/index.php?index=N67n0035_001#0037a06
+.. _《小品》.一.13-16: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0013a01
+.. _《清淨道論》一.61-82: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N67n0035_001/#0037a06
 .. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
 .. _《長部》2經: https://sutra.mobi/chilin/chang/content/02.html
-.. _《小品》（五.33.2）: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0186a08
+.. _《小品》（五.33.2）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0186a08
 .. _《欲經》: https://zh.wikipedia.org/wiki/%E6%AC%B2%E7%BB%8F
 .. _Cv.I.15: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.15
-.. _《小品》.一.15: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0018a10
+.. _《小品》.一.15: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0018a10
 
 
 .. container:: has-text-centered
@@ -2946,7 +2946,7 @@
 
 .. _Cv.II.5-6: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#Cv.II.5
 .. _BMC2, Chapter 19: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#BMC2chapter19
-.. _《小品》.二.5-6: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_012#0048a05
+.. _《小品》.二.5-6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_012/#0048a05
 .. _《佛教比丘戒律 第二冊》第十九章: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#BMC2chapter19
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十九章
 
@@ -3016,8 +3016,8 @@
      - 《僧殘》被列為重罪\ *（garukāpatti）*\ ，既因為罪行本身的嚴重性，也因為摩那埵、別住和出罪清淨的程序在設計上是繁重的，不僅對犯戒者來說，而且對他所在的比丘僧團來說也是如此——這一事實意圖對任何想要犯戒的人起到額外的威懾作用。。
 
 .. _別住(波利婆沙): https://www.google.com/search?q=%E5%88%A5%E4%BD%8F(%E6%B3%A2%E5%88%A9%E5%A9%86%E6%B2%99)
-.. _《小品》.三: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_013
+.. _《小品》.三: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_013/
 .. _Cv.III.34.2: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#Cv.III.34.2
-.. _《小品》.三.34.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_013#0093a12
+.. _《小品》.三.34.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_013/#0093a12
 .. _Cv.III.34.1: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#Cv.III.34.1
-.. _《小品》.三.34.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_013#0093a01
+.. _《小品》.三.34.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_013/#0093a01

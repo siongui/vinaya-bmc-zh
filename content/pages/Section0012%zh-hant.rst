@@ -63,7 +63,7 @@
 
    * - The Vibhaṅga, however, states that they may deal with him only in line with what he admits to having done. The Commentary offers no explanation for this point aside from saying that in uncertain cases things are not always as they seem, citing as example the story of an arahant who was wrongly charged by another bhikkhu of having broken `Pc 44`_.
 
-     - 然而，\ `《經分別》規定，他們只能根據他承認的行為來處理他 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_003#0265a14>`_\ 。《義註》對此沒有提供任何解釋，只是說，在不確定的情況下，事情並不總是像看上去的那樣，並引用了一位阿羅漢的故事作為例子，他被另一位比丘錯誤地指控違反了\ `《波逸提》四四`_\ 。
+     - 然而，\ `《經分別》規定，他們只能根據他承認的行為來處理他 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_003/#0265a14>`_\ 。《義註》對此沒有提供任何解釋，只是說，在不確定的情況下，事情並不總是像看上去的那樣，並引用了一位阿羅漢的故事作為例子，他被另一位比丘錯誤地指控違反了\ `《波逸提》四四`_\ 。
 
    * - Actually, the Vibhaṅga in departing from the wording of the rule is simply following the general guidelines given in `As 4`_ and the Khandhakas for handling accusations. Apparently what happened was that this rule and the following one were formulated early on. Then `As 4`_—the principle of imposing an offense on a bhikkhu only in line with what he admits to having done—was formulated. This left a conflict. Which was to take precedence: these Ay rules, or `As 4`_? Later still, when the general guidelines were formulated for dealing with accusations, some group-of-six bhikkhus abused the system to impose penalties on innocent bhikkhus they didn’t like (`Mv.IX.3.1`_), so the Buddha formulated a number of checks to prevent the system from working against the innocent. One of those checks, in effect, was to give precedence to `As 4`_, a decision that the Vibhaṅga is following here.
 
@@ -109,7 +109,7 @@
 
    * - 2\) As we will see under `Pc 44`_, it is possible under some circumstances—depending on the bhikkhu’s state of mind—to sit alone with a woman in a secluded place without incurring a penalty. Still, a bhikkhu should not blithely take advantage of the exemptions under that rule, for even if his motives are pure, his actions may not appear pure to anyone who comes along and sees him there. These rules serve to remind such a bhikkhu that he could easily be subject to a charge that would lead to a formal meeting of the Community. Even if he were to be declared innocent, the meeting would waste a great deal of time both for himself and for the Community. And in some people’s minds—given the Vibhaṅga’s general rule that he is innocent until proven guilty—there would remain the belief that he was actually guilty and got off with no penalty simply from lack of hard evidence. A bhikkhu would thus be wise to avoid such situations altogether, remembering what Lady Visākhā told Ven. Udāyin in the origin story to this rule:
 
-     - 2）正如我們將在\ `《波逸提》四四`_\ 中看到的，在某些情況下——取決於比丘的心態——與女人單獨坐在僻靜的地方而不受懲罰是可能的。然而，比丘不應該輕率地利用該戒條下的豁免，因為即使他的動機是純潔的，他的行為對於任何走過並在那裡看到他的人來說可能顯得不純潔。這些戒條旨在提醒這樣的比丘，他很容易受到指控，導致僧團召開正式會議。即使他被宣布無罪，這次會議也會對他本人和僧團浪費大量時間。在某些人的心目中，考慮到《經分別》的一般戒條，即在被證明有罪之前他是無辜的，人們仍然相信他實際上有罪，並且僅僅因為缺乏確鑿的證據而沒有受到任何懲罰。因此，比丘應該明智地完全避免這種情況，記住\ `毘舍佉鹿子母在本戒條的起源故事中告訴優陀夷尊者的話 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_003#0263a11>`__\ ：
+     - 2）正如我們將在\ `《波逸提》四四`_\ 中看到的，在某些情況下——取決於比丘的心態——與女人單獨坐在僻靜的地方而不受懲罰是可能的。然而，比丘不應該輕率地利用該戒條下的豁免，因為即使他的動機是純潔的，他的行為對於任何走過並在那裡看到他的人來說可能顯得不純潔。這些戒條旨在提醒這樣的比丘，他很容易受到指控，導致僧團召開正式會議。即使他被宣布無罪，這次會議也會對他本人和僧團浪費大量時間。在某些人的心目中，考慮到《經分別》的一般戒條，即在被證明有罪之前他是無辜的，人們仍然相信他實際上有罪，並且僅僅因為缺乏確鑿的證據而沒有受到任何懲罰。因此，比丘應該明智地完全避免這種情況，記住\ `毘舍佉鹿子母在本戒條的起源故事中告訴優陀夷尊者的話 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_003/#0263a11>`__\ ：
 
    * - .. container:: mx-2
 
@@ -134,28 +134,28 @@
 .. _Mv.IX.3.1: https://www.dhammatalks.org/vinaya/Mv/MvIX.html#pts3_1
 .. _《滅諍》四: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As4
 .. TODO FIXME: replace link to 《滅諍》四
-.. _《大品》.九.3.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_009#0410a01
+.. _《大品》.九.3.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0410a01
 .. _Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
 .. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
 .. TODO FIXME: replace link to 第十一章
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _Cv.IV.14.27-29: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.27
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
-.. _《小品》.四.14.27-29: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0134a10
-.. _《小品》.四.11-12: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0115a09
+.. _《小品》.四.14.27-29: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0134a10
+.. _《小品》.四.11-12: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0115a09
 .. _Mv.IX.6.1-4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.IX.6.3
 .. _Cv.IV.14.29: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.29
-.. _《大品》.九.6.1-4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_009#0420a13
-.. _《小品》.四.14.29: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0136a09
+.. _《大品》.九.6.1-4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0420a13
+.. _《小品》.四.14.29: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0136a09
 .. _Mv.IX.1.3: https://www.dhammatalks.org/vinaya/Mv/MvIX.html#pts1_3
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
-.. _《大品》.九.1.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_009#0406a01
-.. _《小品》.十一.1.10: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_021#0386a07
+.. _《大品》.九.1.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0406a01
+.. _《小品》.十一.1.10: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_021/#0386a07
 .. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
 .. _Cv.IV.8: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.8.1
 .. _Pc 64: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
-.. _《小品》.四.8: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0113a06
+.. _《小品》.四.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0113a06
 .. _《波逸提》六四: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
 .. TODO FIXME: replace link to 《波逸提》六四
 .. _BMC2, Chapter 16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16

@@ -24,7 +24,7 @@
      - 「\ *波羅提木叉*\ 」一詞的意思是一個猜想。根據《大品》，它的意思是「諸善法的開始、頭（或入口－\ *mukha*\ ）、首要的（\ *pamukha*\ ）」（\ `《大品》.二.3.4`_\ ）。這個術語不僅是學處的基本準則的名稱，也是佛陀在一次說法中列舉了所有佛陀教義所共有的基本原則的名稱：「諸惡莫作，眾善奉行，自淨其意：是諸佛教」（\ `《法句》一八三`_\ ）。 因此，無論「\ *波羅提木叉*\ 」一詞的字源是什麼，它都表示宗教實踐的一套基本原則。
 
        ..
-          https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0137a05
+          https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0137a05
           「波羅提木叉」者，是諸善法元，是面，是首，故名「波羅提木叉」。
 
    * - The basic code of training rules for bhikkhus, in its Pali recension, contains 227 rules divided into eight sections in accordance with the penalty assigned by each rule: *pārājika*, defeat; *saṅghādisesa*, formal meeting; *aniyata*, indefinite; *nissaggiya pācittiya*, forfeiture and confession; *pācittiya*, confession; *pāṭidesanīya*, acknowledgement; *sekhiya*, training; and *adhikaraṇa-samatha*, settling of issues. The following chapters will discuss the precise meanings of these terms.
@@ -71,9 +71,9 @@
 
 
 .. _Mv.II.3.4: https://www.dhammatalks.org/vinaya/Mv/MvII.html#pts3_4
-.. _《大品》.二.3.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0137a05
+.. _《大品》.二.3.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0137a05
 .. _Dhp 183: https://www.dhammatalks.org/suttas/KN/Dhp/Ch14.html#dhp183
-.. _《法句》一八三: https://tripitaka.cbeta.org/mobile/index.php?index=N26n0009_001#0031a12
+.. _《法句》一八三: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N26n0009_001/#0031a12
 .. _《偷蘭遮》: https://www.google.com/search?q=%E5%81%B7%E8%98%AD%E9%81%AE
 .. _《突吉羅》: https://www.google.com/search?q=%E7%AA%81%E5%90%89%E7%BE%85
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
@@ -237,7 +237,7 @@
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
 .. _《僧殘》九: {filename}Section0011%zh-hant.rst#Sg9
 .. _七覺支: https://zh.wikipedia.org/zh-hant/%E4%B8%83%E8%A6%BA%E6%94%AF
-.. _《附隨》.六.4: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0199a13
+.. _《附隨》.六.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_006/#0199a13
 .. _Pc 57: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57
 .. _貪、嗔、痴: https://zh.wikipedia.org/zh-hant/%E4%B8%89%E6%AF%92
 .. _《波逸提》五七: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57

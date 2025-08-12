@@ -98,15 +98,15 @@
 .. _Pc 35: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. _《波逸提》三五: #Pc35
 .. _Mv.VI.23.9-15: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.23.9
-.. _《大品》.六.23.9-15: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0289a14
+.. _《大品》.六.23.9-15: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0289a14
 .. _AN 4\:113: https://www.dhammatalks.org/suttas/AN/AN4_113.html
 .. _《增支部》4\:113經: https://sutra.mobi/chilin/zengzhi/content/04.html#%E4%B8%80%E4%B8%80%E4%B8%89%E9%A6%AC%E5%88%BA
 .. _Mv.VI.23.9: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.23.9
-.. _《大品》.六.23.9: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0289a14
+.. _《大品》.六.23.9: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0289a14
 .. _Mv.VI.10.2: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.10.2
 .. _Mv.VI.31.14: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.31.14
-.. _《大品》.六.10.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0271a04
-.. _《大品》.六.31.14: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0313a02
+.. _《大品》.六.10.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0271a04
+.. _《大品》.六.31.14: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0313a02
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -187,8 +187,8 @@
 .. _54: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part6
 .. _《波逸提》四一: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc41
 .. TODO FIXME: replace link to 《波逸提》四一
-.. _比丘尼《波逸提》四四: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0417a11
-.. _五四: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0432a05
+.. _比丘尼《波逸提》四四: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_012/#0417a11
+.. _五四: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_012/#0432a05
 .. _Pc 37: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc37
 .. _《波逸提》三七: #Pc37
 .. _Pc 33: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
@@ -199,11 +199,11 @@
 .. _40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. _四十: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. TODO FIXME: replace link to 《波逸提》四十
-.. _《大品》.六.25.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0295a14
+.. _《大品》.六.25.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0295a14
 .. _Mv.VI.34.21: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.34.21
 .. _Pc 39: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc39
 .. _NP 23: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
-.. _《大品》.六.34.21: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0321a02
+.. _《大品》.六.34.21: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0321a02
 .. _《波逸提》三九: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc39
 .. TODO FIXME: replace link to 《波逸提》三九
 .. _《捨墮》二三: {filename}Section0015%zh-hant.rst#NP23
@@ -247,7 +247,7 @@
      - 《義註》進一步指出，如果比丘自己做任何果汁飲料，他只能在中午前飲用。如果果汁是由非比丘製作並在中午之前正式地供養，則比丘「也」可以在中午之前與食物一起飲用——這裡的「也」意味著原來的開緣仍然有效，即可以在中午之後和黎明之前不帶食物地飲用。如果果汁是由非比丘製作並在中午之後正式地供養，則比丘可以在第二天黎明之前不帶食物地飲用。芒果汁飲料的允許範圍涵蓋成熟或未成熟芒果製成的果汁。要製作未成熟芒果汁，建議將芒果切成或掰成小塊，放入水中，在陽光下加熱，然後過濾，並根據需要添加蜂蜜、糖和/或樟腦。用\ *芒果椴樹（Bassia pierrei）*\ 製成的果汁必須用水稀釋，因為這種水果的未稀釋果汁太濃稠。
 
 .. _Mv.VI.35.6: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.35.6
-.. _《大品》.六.35.6: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0323a01
+.. _《大品》.六.35.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0323a01
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -277,7 +277,7 @@
      - 根據\ `《大品》（六.3.1-8）`_\ ，以下六類中任何本身不作為主食或副食的物品都是藥物：根、澀湯劑、葉、果實、樹脂和鹽。例如，在水果中：柳橙和蘋果不是藥物，但胡椒、肉荳蔻和小荳蔻是。大多數現代藥物都屬於鹽類。使用《四大教示》，我們可以說，任何用作藥物，但不屬於主食或副食、果汁飲料或五種補品類別的可食用物都屬於此。（有關藥物的完整討論，請參閱\ `《佛教比丘戒律 第二冊》第五章`_\ 。）
 
 .. _BMC2, Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
-.. _《大品》（六.3.1-8）: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0269a02
+.. _《大品》（六.3.1-8）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0269a02
 .. _《佛教比丘戒律 第二冊》第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第五章
 
@@ -378,7 +378,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時，某行會在離舍衛城不遠的公共施捨處準備食物。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0093a12>`__\ 六群比丘在清晨穿戴整齊，帶著缽和（外）衣，進入舍衛城托缽，但沒有得到任何食物，於是就去了公共施捨處。那裡的人說：『尊者們終於來了！』並恭敬地侍奉他們。然後第二天……第三天，六群比丘……進入舍衛城托缽，但沒有得到任何食物，於是就去了公共施捨處吃飯。他們心裡想：『我們回寺院還有什麼用呢？（§）明天我們還是必須回來這裡。』
+          「\ `爾時，某行會在離舍衛城不遠的公共施捨處準備食物。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0093a12>`__\ 六群比丘在清晨穿戴整齊，帶著缽和（外）衣，進入舍衛城托缽，但沒有得到任何食物，於是就去了公共施捨處。那裡的人說：『尊者們終於來了！』並恭敬地侍奉他們。然後第二天……第三天，六群比丘……進入舍衛城托缽，但沒有得到任何食物，於是就去了公共施捨處吃飯。他們心裡想：『我們回寺院還有什麼用呢？（§）明天我們還是必須回來這裡。』
 
    * - .. container:: mx-2
 
@@ -496,7 +496,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時，提婆達多的利養減少 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0096a03>`_\ ，他與他的追隨者一起吃飯，在各家各戶間反覆詢問。。（此處《義註》詳細說明：『心想：「不要讓我的團體解散。」他透過與追隨者一起在各家各戶間用餐來滿足追隨者的需求，並如此要求他們：「你給一位比丘食物。你給兩位比丘食物。」』）人們紛紛批評、抱怨，並四處散播：「這些沙門釋子怎麼能在各家各戶間反覆詢問並用餐呢？誰不喜歡精心烹製物？誰不喜歡甜物？』」
+          「\ `爾時，提婆達多的利養減少 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0096a03>`_\ ，他與他的追隨者一起吃飯，在各家各戶間反覆詢問。。（此處《義註》詳細說明：『心想：「不要讓我的團體解散。」他透過與追隨者一起在各家各戶間用餐來滿足追隨者的需求，並如此要求他們：「你給一位比丘食物。你給兩位比丘食物。」』）人們紛紛批評、抱怨，並四處散播：「這些沙門釋子怎麼能在各家各戶間反覆詢問並用餐呢？誰不喜歡精心烹製物？誰不喜歡甜物？』」
 
    * - **Group meals**
      - **結眾食**
@@ -580,14 +580,14 @@
 
           2）在兩次重新制定戒條的起源故事中，比丘們以違反結眾食的戒條為由拒絕邀請，但邀請中並未提及「食物」或「餐」。
 
-.. _《附隨》.六.2: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0186a14
+.. _《附隨》.六.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_006/#0186a14
 .. _Cv.VI.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#Cv.VI.21.1
-.. _《小品》.六.21.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0237a09
+.. _《小品》.六.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0237a09
 .. _Appendix III: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII
 .. _附錄三: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII
 .. TODO FIXME: replace link to 附錄三
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
-.. _《小品》.七.3.13: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_017#0268a04
+.. _《小品》.七.3.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_017/#0268a04
 .. _46: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
 .. _四六: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
 .. TODO FIXME: replace link to 《波逸提》四六
@@ -782,7 +782,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時，毘舍離安排了一系列供養精美的食物。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0101a12>`_\ 一位貧窮的勞工心想：『這些人恭敬地供養食物的方式，表明這絕非小事。如果我供養一餐呢？』於是他去找他的主管（§），說：『少爺，我想為以佛陀為首的比丘僧團供養一頓飯。請把我的工錢給我。』這位主管也對佛陀有信心，所以他給了勞工比工錢更多的錢。
+          「\ `爾時，毘舍離安排了一系列供養精美的食物。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0101a12>`_\ 一位貧窮的勞工心想：『這些人恭敬地供養食物的方式，表明這絕非小事。如果我供養一餐呢？』於是他去找他的主管（§），說：『少爺，我想為以佛陀為首的比丘僧團供養一頓飯。請把我的工錢給我。』這位主管也對佛陀有信心，所以他給了勞工比工錢更多的錢。
 
    * - .. container:: mx-2
 
@@ -935,7 +935,7 @@
    * - *Summary: Eating a meal before going to another meal to which one was invited, or accepting an invitation to one meal and eating elsewhere instead, is a pācittiya offense except when one is ill or during the time of giving cloth or making robes.*
      - *摘要：在去參加被邀請的另一餐之前就用過一餐，或者接受一頓餐食的邀請卻在其他地方用餐，是《波逸提》（《單墮》）罪，除非是在生病時，或者是在施衣或做衣期間。*
 
-.. _《小品》.六.21: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0237a09
+.. _《小品》.六.21: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0237a09
 
 
 .. container:: has-text-centered
@@ -969,7 +969,7 @@
 
    * - The origin story deals with two separate cases. In the first, a woman named Kāṇā is about to return to her husband’s house after visiting her parents. Her mother, thinking, “How can one go empty-handed?” bakes some cakes. A bhikkhu comes, and the mother—being a faithful lay follower—presents him with the cakes and then bakes some more to replace them. The bhikkhu, meanwhile, has informed another bhikkhu that cakes are baking at Kāṇā’s house, so the second bhikkhu goes and receives the second batch of cakes. This process keeps up until Kāṇā’s husband tires of waiting for her and takes another woman for his wife. The Commentary notes, reasonably enough, that Kāṇā developed a long-term grudge against Buddhism as a result of this incident.
 
-     - `起源故事涉及兩個獨立的案例。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0105a09>`_\ 第一個案例中，一位名叫伽若的女子探望父母後，正準備返回夫家。她的母親心想：「怎麼空手而歸？」於是烤了一些糕點。一位比丘來了，這位母親——一位虔誠的在家弟子——將糕點呈給了比丘，然後又烤了一些來代替。同時，這位比丘告訴另一位比丘伽若家正在烤糕點，於是第二位比丘去取了第二批糕點。這個過程一直持續到伽若的丈夫厭倦了等待，另娶他人為妻。《義註》指出，夠合理地，伽若因此事而對佛教產生了長期的怨恨。
+     - `起源故事涉及兩個獨立的案例。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0105a09>`_\ 第一個案例中，一位名叫伽若的女子探望父母後，正準備返回夫家。她的母親心想：「怎麼空手而歸？」於是烤了一些糕點。一位比丘來了，這位母親——一位虔誠的在家弟子——將糕點呈給了比丘，然後又烤了一些來代替。同時，這位比丘告訴另一位比丘伽若家正在烤糕點，於是第二位比丘去取了第二批糕點。這個過程一直持續到伽若的丈夫厭倦了等待，另娶他人為妻。《義註》指出，夠合理地，伽若因此事而對佛教產生了長期的怨恨。
 
    * - In the second case, a man is preparing provisions for a journey by caravan. A similar series of events takes place, and he eventually ends up tagging along behind the caravan and getting robbed. People criticize and complain as usual, and spread it about, “How can these Sakyan-son monks accept food without knowing moderation?”
 
@@ -1064,7 +1064,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時，一位婆羅門邀請比丘們，並為他們提供食物。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0108a14>`_\ 比丘們吃飽後，拒絕了更進一步的食物供養，前往親戚家。有的在那裡用餐，有的接受缽食後離開。
+          「\ `爾時，一位婆羅門邀請比丘們，並為他們提供食物。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0108a14>`_\ 比丘們吃飽後，拒絕了更進一步的食物供養，前往親戚家。有的在那裡用餐，有的接受缽食後離開。
 
    * - .. container:: mx-2
 
@@ -1156,8 +1156,8 @@
 .. _Cv.VIII.4.6: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.4.3-6
 .. _Cv.VIII.11.5: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.11.2-18
 .. _《中部》91經: https://sutra.mobi/chilin/zhong/content/091.html
-.. _《小品》.八.4.6: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0293a07
-.. _《小品》.八.11.5: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0302a12
+.. _《小品》.八.4.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0293a07
+.. _《小品》.八.11.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0302a12
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1198,7 +1198,7 @@
 .. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
 .. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
 .. _Cv.VI.10.1: https://www.dhammatalks.org/vinaya/bmc/Section0047.html#Cv.VI.10.1
-.. _《小品》.六.10.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0223a09
+.. _《小品》.六.10.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0223a09
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1319,11 +1319,11 @@
    * - *Summary: Eating staple or non-staple food that is not leftover, after having earlier in the day finished a meal during which one turned down an offer to eat further staple food, is a pācittiya offense.*
      - *摘要：在當天早些時候用完一餐並在用餐時拒絕吃更多主食的供養之後，吃非剩餘的主食或副食，是《波逸提》（《單墮》）罪。*
 
-.. _六.18.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0284a01
-.. _六.19.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0284a11
-.. _六.20.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0286a01
+.. _六.18.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0284a01
+.. _六.19.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0284a11
+.. _六.20.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0286a01
 .. _Mv.VI.32.2: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.32.2
-.. _《大品》.六.32.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0313a12
+.. _《大品》.六.32.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0313a12
 
 .. container:: has-text-centered
 
@@ -1357,7 +1357,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時，有兩位比丘，途經拘薩羅地區，前往舍衛城。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0111a12>`_\ 其中一位比丘沉溺於惡習；另一位比丘說：『我的朋友，別做這種事。這不合適。』第一位比丘起了怨恨。最終，他們到達了舍衛城。
+          「\ `爾時，有兩位比丘，途經拘薩羅地區，前往舍衛城。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0111a12>`_\ 其中一位比丘沉溺於惡習；另一位比丘說：『我的朋友，別做這種事。這不合適。』第一位比丘起了怨恨。最終，他們到達了舍衛城。
 
    * - .. container:: mx-2
 
@@ -1544,7 +1544,7 @@
 
    * - The Vibhaṅga defines the *wrong time* as from noon until dawnrise of the following day. (See `Appendix I`_ for a discussion of how dawnrise is defined.) Noon is reckoned as the moment the sun reaches its zenith, rather than by the clock—in other words, by local rather than standard or daylight-savings time. Thus, for example, a bhikkhu who is offered food while traveling in an airplane should check the position of the sun in order to determine whether he may accept and eat it. Some have argued that one may eat after noon if one has begun one’s meal before noon, but the Commentary says explicitly that this is not the case.
 
-     - 《經分別》將\ *非時*\ `定義為從正午到隔天黎明升起 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0114a14>`_\ 。（有關黎明升起的定義討論，請參閱\ `附錄一`_\ 。）正午是以太陽到達天頂的時刻來計算的，而不是以時鐘來計算——換句話說，是以當地時間而不是標準時間或夏令時間來計算的。因此，例如，在飛機上旅行時，被供養食物的比丘，應該檢查太陽的位置，以確定是否可以接受並食用。有人認為，如果在正午之前開始用餐，那麼他可以在正午之後吃，但《義註》明確指出並非如此。
+     - 《經分別》將\ *非時*\ `定義為從正午到隔天黎明升起 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0114a14>`_\ 。（有關黎明升起的定義討論，請參閱\ `附錄一`_\ 。）正午是以太陽到達天頂的時刻來計算的，而不是以時鐘來計算——換句話說，是以當地時間而不是標準時間或夏令時間來計算的。因此，例如，在飛機上旅行時，被供養食物的比丘，應該檢查太陽的位置，以確定是否可以接受並食用。有人認為，如果在正午之前開始用餐，那麼他可以在正午之後吃，但《義註》明確指出並非如此。
 
    * - Perception as to whether one is eating at the wrong time or the right time is not a mitigating factor here (see `Pc 4`_).
      - 對於是否在非時或正確的時間進食的感知在這裡並不是一個減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
@@ -1568,7 +1568,7 @@
 
      - 《義註》通常將「吃」定義為吞下喉嚨，但\ `《小品》（五.25）`_\ 中的一個段落卻提出了相反的觀點。佛陀允許在「非時」將食物送入口中的反芻者將其吞嚥，並在結尾說道：「但從口中吐出的食物不應再吞回。但凡吞回者，應按戒條（即本戒條和下一條戒條）處置。」由此可見，從嚴格意義上來說，「吃」的定義是「送入口中」。
 
-.. _《小品》（五.25）: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0178a03
+.. _《小品》（五.25）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0178a03
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1590,9 +1590,9 @@
      - 一種名為 *loṇasovīraka* （或 *loṇasocīraka* ）的物質被允許（\ `《大品》.六.16.3`_ ）在非時作為生病比丘的藥物服用，或者與水混合後作為無病比丘的飲料。現在沒有人做這種東西了，但是\ `《波羅夷》三`_\ 的《義註》中它的配方與\ *味噌*\ （發酵豆醬）的配方有些相似。有些人，使用《四大教示》，主張這種物質的特殊開緣也應該擴及味噌，但這是一個有爭議的觀點。據我所知，即使在中國，味噌也不用於治療成人的疾病，而中國是尋找其作為藥物使用的地方。但是，即使此開緣也適用於味噌，在非時服用味噌湯作為食物也會犯《突吉羅》。
 
 .. _Mv.VI.14.7: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.14.7
-.. _《大品》.六.14.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0275a07
+.. _《大品》.六.14.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0275a07
 .. _Mv.VI.16.3: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.16.3
-.. _《大品》.六.16.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0280a05
+.. _《大品》.六.16.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0280a05
 .. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
 .. _《波羅夷》三: {filename}Section0010%zh-hant.rst#Pr3
 
@@ -1638,7 +1638,7 @@
 
    * - This is one of the few rules where the original instigator was an arahant: Ven. Beḷaṭṭhasīsa, Ven. Ānanda’s preceptor and formerly the head of the 1,000 ascetics who attained Awakening on hearing the Fire Sermon (`SN 35:28`_). The origin story here reports that he made a practice of keeping leftover rice from his alms round, drying it, and then moistening it to eat on a later day. As a result, he only rarely had to go out for alms. Even though he was doing this out of frugality rather than greed, the Buddha still rebuked him. The story doesn’t give the precise reasons for the rebuke. Perhaps it was because the Buddha saw that such behavior would open the way for bhikkhus to avoid going on alms round, thus depriving themselves of the excellent opportunity that alms-going provides for reflecting on their dependency on others and on the human condition in general; and depriving the laity of the benefits that come from daily contact with the bhikkhus and the opportunity to practice generosity of the most basic sort every day. Although frugality may be a virtue, there are times when other considerations supercede it.
 
-     - 這是少數最初犯戒者是阿羅漢的戒條之一：毘拉陀施沙尊者，阿難尊者的戒師，曾是聽聞《燃燒經》而覺醒的一千名苦行者的領袖（\ `《相應部》35:28經`_\ ）。\ `這裡的起源故事報導說，他習慣將托缽剩下的米飯留著，曬乾，然後弄濕以便之後的日子吃。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0115a12>`_\ 結果，他很少出去托缽。儘管他這樣做是出於節儉而不是貪欲，但佛陀仍然訶責了他。故事沒有給出訶責的具體原因。也許是因為佛陀認為這種行為會讓比丘們逃避托缽，從而剝奪了托缽提供的反思對他人的依賴和人類普遍狀況的絕佳機會；剝奪了在家人與比丘們日常接觸所帶來的利益，以及每天實踐最基本布施的機會。雖然節儉可能是一種美德，但有時其他考慮會取代它。
+     - 這是少數最初犯戒者是阿羅漢的戒條之一：毘拉陀施沙尊者，阿難尊者的戒師，曾是聽聞《燃燒經》而覺醒的一千名苦行者的領袖（\ `《相應部》35:28經`_\ ）。\ `這裡的起源故事報導說，他習慣將托缽剩下的米飯留著，曬乾，然後弄濕以便之後的日子吃。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0115a12>`_\ 結果，他很少出去托缽。儘管他這樣做是出於節儉而不是貪欲，但佛陀仍然訶責了他。故事沒有給出訶責的具體原因。也許是因為佛陀認為這種行為會讓比丘們逃避托缽，從而剝奪了托缽提供的反思對他人的依賴和人類普遍狀況的絕佳機會；剝奪了在家人與比丘們日常接觸所帶來的利益，以及每天實踐最基本布施的機會。雖然節儉可能是一種美德，但有時其他考慮會取代它。
 
    * - Another possible reason for this rule is expressed in `AN 5:80`_: “In the course of the future there will be bhikkhus who will live entangled with monastery attendants and novices. As they are entangled with monastery attendants and novices, they can be expected to live intent on many kinds of stored-up consumables and on making blatant signs (identifying their) land and crops.” The Buddha showed great foresight in seeing this as a danger. Over the centuries, whenever bhikkhus have lived in Communities where vast stores of food were kept—such as the great Buddhist universities in India—they have tended to grow lax in their practice, and a gulf of misunderstanding and suspicion has come to separate them from the laity.
 
@@ -1680,7 +1680,7 @@
      - 但這又引出了第二個問題，就是《義註》有何依據允許這種做法。《經分別》對「儲存」的定義中沒有這種依據，《經分別》中也沒有任何其他內容可以用《四大教示》來支持這項開緣。《義註》顯然是將\ `《捨墮》二三`_\ 中的一條不犯條款引入這條戒條中，但這是對《四大教示》的誤用。某一條戒條的《經分別》不能用來重寫另一條戒條的《經分別》，否則戒條的重寫將永無止境。如果編纂者有意將\ `《捨墮》二三`_\ 中的原則應用於此，他們自己就可以這樣做。因此，似乎沒有理由認為接受這項開緣是有效的。因此，如果捨棄今天接受的食物，那麼無論是否已經捨棄了對該食物的欲望，如果在之後的某一天再次接受並食用，仍然會完全違犯此戒條。關於這一點的進一步分析，請參閱文章\ `儲存食物：《波逸提》三八的討論（英文）`_\ 。
 
 .. _Cv.XII.2.8: https://www.dhammatalks.org/vinaya/bmc/Section0006.html#Cv.XII.2.8
-.. _《小品》.十二.2.8: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_022#0408a14
+.. _《小品》.十二.2.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_022/#0408a14
 .. _Pc 31: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc31
 .. _《波逸提》三一: #Pc31
 .. _Stored-up Food\: A Discussion of Pācittaya 38: https://www.dhammatalks.org/vinaya/StoredUpFood.html

@@ -25,7 +25,7 @@
           “瞿曇彌！若汝所知之法，‘此法導致冷靜而非熱情、導致離繫而非繫縛、導致損減而非積集、導致謙遜而非自誇、導致滿足而非不滿足、資長閑寂而非糾纏、導致精勤而非懈怠、導致易養而非難養者’：汝可以肯定：‘此是法、此是律、此是導師之言教。’”—`《小品》.十.5 <{filename}reference/external-link%zh-hant.rst#cv-x-5>`_
 
        ..
-          https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020
+          https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_020/
           瞿曇彌！若汝所知之法，此法資長離貪而不資長貪欲、資長離繫而不資長繫縛、資長損減而不資長積集、資長少欲而不資長多欲、資長滿足而不資長不滿足、資長閑寂而不資長聚會、資長精勤而不資長懈怠、資長易養而不資長難養者，瞿曇彌！應知此是法、是律、是師教。」
 
    * - Ultimately, the Buddha said, just as the sea has a single taste, that of salt, so too the Dhamma and Vinaya have a single taste: that of release. The connection between discipline and release is spelled out in a passage that recurs at several points in the Canon:
@@ -54,7 +54,7 @@
           此可追溯《中阿含經》卷10〈習相應品〉第五，有16部經都有如下類似的說明：「阿難！因持戒便得不悔。因不悔便得歡悅。 因歡悅便得喜。因喜便得止。因止便得樂。因樂便得定。阿難！多聞聖弟子因定，便得見如實、知如真。因見如實、知如真，便得厭。因厭便得無欲。因無欲便得解脫。因解脫便知解脫︰生已盡，梵行已立，所作已辦，不更受有，知如真。阿難﹗是為法法相益，法法相因。如是此戒趣至第一，謂度此岸，得至彼岸」。
           此次第可以簡化如下︰持戒→無悔→歡悅→心喜→身安（輕安）→樂→心定→如實知見→厭→離欲→解脫→知解脫（自謂︰我證解脫。復起如是智見︰我生已盡、梵行已立、所作已辦，不受後有）。
           http://www.charity.idv.tw/n/b6.htm
-          https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_012
+          https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_012/
           律是為律儀，律儀是為無悔恨，無悔恨是為愉悅，愉悅是為喜，喜是為輕安，輕安是為樂，樂是為等持，等持是為如實知見，如實知見是為厭離，厭離是為離欲，離欲是為解脫，解脫是為解脫知見，解脫知見是為無取著般涅槃。為此有〔律之〕論，為此有〔律之〕考量，為此有近習，為此有傾聽，即：此無執取，心解脫。
 
    * - In establishing his religion of release, though, the Buddha did not simply set out a body of recommendations and rules. He also founded a company (*parisā*) of followers. This company falls into four main groups: bhikkhus (monks), bhikkhunīs (nuns), lay men, and lay women. Although the Buddha saw no need to organize the laity in any manner, he arranged for the bhikkhus and bhikkhunīs—who had given up the entanglements of the household life to devote themselves more fully to the goal of release—to develop into communities. And he saw that they needed, as all communities do, ideals and standards, rules and customs to ensure their stability. This need is what gave rise to the Vinaya.
@@ -118,7 +118,7 @@
           愚人！此非令未信者生信，已信者增長也。此實是使未信者不生信，已信者部分轉向他去也。」
 
        ..
-          https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0023a10
+          https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0023a10
           https://deerpark.app/reader/T1428/1#0570a29
           https://tripitaka.cbeta.org/mobile/index.php?index=T22n1428_001#0570a29
           https://tripitaka.cbeta.org/mobile/index.php?index=T22n1421_001#0003a29
@@ -372,7 +372,7 @@
 
    * - The second level of difficulty in dealing with differences among the texts is that there are points on which the Vibhaṅga is at variance with the wording of the Pāṭimokkha rules, and the commentaries are at variance with the Canon. This forces us to decide which strata of the texts to take as definitive. As far as discrepancies between the Vibhaṅga and the rules are concerned, the following passage in the Cullavagga (X.4) suggests that the Buddha himself gave preference to the way the bhikkhus worked out the rules in the Vibhaṅga:
 
-     - 處理文本之間差異的第二層困難是，《經分別》與《波羅提木叉》戒條的措詞有些不一致，而且註釋與《聖典》也有不一致。這迫使我們決定將文本的哪一部分視為最完整可靠的。至於《經分別》與戒條之間的差異，\ `《小品》（十.4） <https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0344a12>`_\ 中的以下段落表明佛陀本人更傾向於比丘們理解《經分別》中戒條的方式：
+     - 處理文本之間差異的第二層困難是，《經分別》與《波羅提木叉》戒條的措詞有些不一致，而且註釋與《聖典》也有不一致。這迫使我們決定將文本的哪一部分視為最完整可靠的。至於《經分別》與戒條之間的差異，\ `《小品》（十.4） <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_020/#0344a12>`_\ 中的以下段落表明佛陀本人更傾向於比丘們理解《經分別》中戒條的方式：
 
        ..
           别再理解错了！work out 不是“出去工作”，最常用的是这4个意思
@@ -416,7 +416,7 @@
 
    * - In support of the first extreme, it is possible to cite the origin story to `NP 15 <https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15>`_, which quotes the Buddha as saying, “What has not been formulated (as a rule) should not be formulated, and what has been formulated should not be rescinded, but one should dwell in conformity and in accordance with the rules that have been formulated.”
 
-     - 為了支持第一種極端，可以引用\ `《捨墮》一五 <{filename}Section0014%zh-hant.rst#NP15>`_\ 的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0326a11>`__\ ，其中引用了佛陀的話說：「未制不得制，已制不得壞，隨所制之戒而持住。」
+     - 為了支持第一種極端，可以引用\ `《捨墮》一五 <{filename}Section0014%zh-hant.rst#NP15>`_\ 的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0326a11>`__\ ，其中引用了佛陀的話說：「未制不得制，已制不得壞，隨所制之戒而持住。」
 
    * - From this statement, it is possible to argue that the Commentary has no legislative authority at all. One of its most controversial aspects—and this applies to the Sub-commentary as well—is a tendency not only to explain passages in the Canon but also to extrapolate from them, assigning prohibitions and allowances in areas that the Canon did not cover. This would appear to be in violation of the above statement. However, we must remember that the rules formulated by the Buddha include not only prohibitions but also allowances. As the Dhamma-Vinaya has spread to many nations, encountering new cultures, and has endured over time, encountering new technologies, the question has often arisen: Is everything not allowed prohibited? Is everything not prohibited allowed? Either position carried to its extreme would create huge problems in the practice. To say that everything not allowed is prohibited would prevent bhikkhus from utilizing many harmless conveniences; to say that everything not prohibited is allowed would give countless defilements free rein.
 
@@ -476,7 +476,7 @@
 
           「大德！言：此我和尚之常法，此我阿闍梨之常法而行之，淨耶？」
 
-          「友！常法一分淨、一分不淨也。」——`《小品》.一二.2.8 <https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_022#0410a10>`__
+          「友！常法一分淨、一分不淨也。」——`《小品》.一二.2.8 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_022/#0410a10>`__
 
           (上面取自元亨寺漢譯南傳大藏經，以下從英文直譯)
 
@@ -606,6 +606,6 @@
 .. _DN 16: https://www.dhammatalks.org/suttas/DN/DN16.html
 .. _《長部》16經: {filename}reference/external-link%zh-hant.rst#dn16
 .. _Mv.VI.40.1: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.40.1
-.. _《大品》.六.40.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0328a05
+.. _《大品》.六.40.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0328a05
 .. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
 .. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/

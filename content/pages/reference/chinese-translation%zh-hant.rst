@@ -20,7 +20,7 @@
 
 - `CBETA 漢文大藏經 (mobile) <https://tripitaka.cbeta.org/mobile/index.php>`_
 
-  * `漢譯南傳大藏經 <https://tripitaka.cbeta.org/mobile/index.php?index=N>`_
+  * `漢譯南傳大藏經 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N/>`_
 
     + `Google Search 漢譯南傳大藏經 <https://www.google.com/search?q=%E6%BC%A2%E8%AD%AF%E5%8D%97%E5%82%B3%E5%A4%A7%E8%97%8F%E7%B6%93>`_
     + `[PDF] 元亨寺 漢譯南傳大藏經 <https://siongui.github.io/yht-tipitaka/>`_

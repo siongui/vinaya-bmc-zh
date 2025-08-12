@@ -41,7 +41,7 @@
      - * 五　〔摩訶波闍波提瞿曇彌所問〕比丘尼犍度 (元亨寺 漢譯南傳大藏經 通妙 譯)
 
          + `tripitaka.cbeta.org <https://tripitaka.cbeta.org/N04n0002_020#0345a03>`__
-         + `tripitaka.cbeta.org/mobile <https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0345a03>`__
+         + `tripitaka.cbeta.org/mobile <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_020/#0345a03>`__
          + `deerpark.app <https://deerpark.app/reader/N0002/20#0345a03>`__
 
 ----
@@ -68,7 +68,7 @@
      - * 二 - 第十二　小諍 - 附隨 (元亨寺 漢譯南傳大藏經 通妙 譯)
 
          + `tripitaka.cbeta.org <https://tripitaka.cbeta.org/N05n0003_012#0260a12>`__
-         + `tripitaka.cbeta.org/mobile <https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_012#0260a12>`__
+         + `tripitaka.cbeta.org/mobile <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_012/#0260a12>`__
          + `deerpark.app <https://deerpark.app/reader/N0003/12#0260a12>`__
 
 ----
@@ -106,7 +106,7 @@
        * 大般涅槃經 (元亨寺 漢譯南傳大藏經 通妙 譯)
 
          + `tripitaka.cbeta.org <https://tripitaka.cbeta.org/N07n0004_016>`__
-         + `tripitaka.cbeta.org/mobile <https://tripitaka.cbeta.org/mobile/index.php?index=N07n0004_016>`__
+         + `tripitaka.cbeta.org/mobile <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N07n0004_016/>`__
          + `deerpark.app <https://deerpark.app/reader/N0004/16>`__
 
        * 大槃涅槃經第十六 (南傳長部經典 江鍊百 譯)
@@ -156,7 +156,7 @@
        * 跋陀利經 (元亨寺 漢譯南傳大藏經 通妙 譯)
 
          + `tripitaka.cbeta.org <https://tripitaka.cbeta.org/N10n0005_007#0202a02>`__
-         + `tripitaka.cbeta.org/mobile <https://tripitaka.cbeta.org/mobile/index.php?index=N10n0005_007#0202a02>`__
+         + `tripitaka.cbeta.org/mobile <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N10n0005_007/#0202a02>`__
          + `deerpark.app <https://deerpark.app/reader/N0005/7#0202a02>`__
 
        ..

@@ -52,7 +52,7 @@
 
      - .. container:: mx-2
 
-          「\ `有一位阿羅毘比丘正在砍樹 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0043a13>`_\ 。住在樹上的天女對比丘說：『大德，不要砍倒我的房子來為自己建造房子。』比丘不理會她，繼續砍樹，弄傷了天女孩子的手臂。天女想：『如果我就在這裡殺死這位比丘會怎麼樣？』然後她又想到：「但不，那樣不合適......如果我把所發生的事告訴世尊呢？』於是她去找世尊並......告訴他所發生的事。
+          「\ `有一位阿羅毘比丘正在砍樹 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0043a13>`_\ 。住在樹上的天女對比丘說：『大德，不要砍倒我的房子來為自己建造房子。』比丘不理會她，繼續砍樹，弄傷了天女孩子的手臂。天女想：『如果我就在這裡殺死這位比丘會怎麼樣？』然後她又想到：「但不，那樣不合適......如果我把所發生的事告訴世尊呢？』於是她去找世尊並......告訴他所發生的事。
 
    * - .. container:: mx-2
 
@@ -141,10 +141,10 @@
 
 .. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
 .. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
-.. _《長部》2經: https://tripitaka.cbeta.org/mobile/index.php?index=N06n0004_002
-.. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
+.. _《長部》2經: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N06n0004_002/
+.. _《小品》.五.36: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0190a11
 .. _Cv.VIII.1.3: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.1.2-5
-.. _《小品》.八.1.3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0286a10
+.. _《小品》.八.1.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0286a10
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -221,8 +221,8 @@
 
      - 我們一直在討論的《大品》和《小品》中的兩個段落僅僅專門討論了水果，但《義註》從中推斷，同樣的情況也適用於其他形式的 bījagāma，例如甘蔗和豆芽。
 
-.. _《大品》（六.21）: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0286a04
-.. _《小品》（五.5.2）: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0148a04
+.. _《大品》（六.21）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0286a04
+.. _《小品》（五.5.2）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0148a04
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -274,7 +274,7 @@
      - *摘要：故意砍伐、焚燒或殺死活的植物，是《波逸提》（《單墮》）罪。*
 
 .. _Cv.V.32.1: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.32.1
-.. _《小品》.五.32.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0185a06
+.. _《小品》.五.32.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0185a06
 .. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
 .. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
 
@@ -337,7 +337,7 @@
      - **努力**
 
    * - Evasive speech is illustrated in the origin story as follows:
-     - 迴避性言論在\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0045a14>`__\ 中有以下描述：
+     - 迴避性言論在\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0045a14>`__\ 中有以下描述：
 
    * - .. container:: mx-2
 
@@ -479,7 +479,7 @@
 .. _Cv.I.1-8: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.1.4
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. _Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
-.. _《小品》.一.1-8: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0001a09
+.. _《小品》.一.1-8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0001a09
 .. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
 .. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
@@ -529,7 +529,7 @@
 
    * - Community officials. In the Cullavagga (VI.11.2-4; VI.21.1-3), the Buddha gives allowances for a Community of bhikkhus to designate various of its members as Community officials to handle such business as distributing food, deciding who will stay in which dwelling, keeping the rosters that decide who will receive the invitations to which meals, etc. Ven. Dabba Mallaputta was the first such official and was well-equipped for the job:
 
-     - 僧團執事。在《小品》（\ `六.11.2-4`_\ ；\ `六.21.1-3`_\ ）中，佛陀允許比丘僧團指派其成員擔任僧團執事，處理諸如分配食物、決定誰將住在哪個住所、保存名冊以決定誰將收到哪些餐食的邀請等事務。\ `摩羅子陀驃尊者是第一位這樣的執事 <https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0102a12>`_\ ，並且完全有能力勝任這份工作：
+     - 僧團執事。在《小品》（\ `六.11.2-4`_\ ；\ `六.21.1-3`_\ ）中，佛陀允許比丘僧團指派其成員擔任僧團執事，處理諸如分配食物、決定誰將住在哪個住所、保存名冊以決定誰將收到哪些餐食的邀請等事務。\ `摩羅子陀驃尊者是第一位這樣的執事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0102a12>`_\ ，並且完全有能力勝任這份工作：
 
    * - .. container:: mx-2
 
@@ -571,9 +571,9 @@
 
      - 這裡構成完整犯戒的因素有三：對象、意圖和努力—儘管《經分別》將意圖視為努力因素定義中不可或缺的一部分。
 
-.. _六.11.2-4: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0225a13
-.. _六.21.1-3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0237a09
-.. _《小品》.四.4.4: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_014#0104a03
+.. _六.11.2-4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0225a13
+.. _六.21.1-3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0237a09
+.. _《小品》.四.4.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0104a03
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _9: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
@@ -881,7 +881,7 @@
 
      - .. container:: mx-2
 
-          1）\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0053a10>`__\ 表明，本戒條的目的是防止寢具在無人居住的住所中放置太久，以致吸引螞蟻、白蟻或其他害蟲。
+          1）\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0053a10>`__\ 表明，本戒條的目的是防止寢具在無人居住的住所中放置太久，以致吸引螞蟻、白蟻或其他害蟲。
 
    * - .. container:: mx-2
 
@@ -893,7 +893,7 @@
 
 .. _Cv.VIII.5: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.5.2-3
 .. _BMC2, Chapter 9: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
-.. _《小品》.八.5: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0293a14
+.. _《小品》.八.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0293a14
 .. _《佛教比丘戒律 第二冊》第九章: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第九章
 
@@ -923,7 +923,7 @@
      - *摘要：當在僧團的住處內展開寢具時：離開寺院時沒有將其收拾好、沒有安排令其收拾好、或者沒有告別，是《波逸提》（《單墮》）罪。*
 
 .. _Cv.VIII.3.2: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.3.2-3
-.. _《小品》.八.3.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0289a10
+.. _《小品》.八.3.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0289a10
 
 
 .. container:: has-text-centered
@@ -1059,7 +1059,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0057a12>`__\，十七群比丘（見\ `《波逸提》六五`_\ ）正在寺院邊緣修葺一處大住處，心想：『我們要在此度雨季。』六群比丘……看到他們，說：『這十七群比丘正在修葺大住處。我們趕他們出去吧。』但他們中的其他人說：『朋友們，等他們修好。修好後，我們再趕他們出去。』
+          「\ `爾時 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0057a12>`__\，十七群比丘（見\ `《波逸提》六五`_\ ）正在寺院邊緣修葺一處大住處，心想：『我們要在此度雨季。』六群比丘……看到他們，說：『這十七群比丘正在修葺大住處。我們趕他們出去吧。』但他們中的其他人說：『朋友們，等他們修好。修好後，我們再趕他們出去。』
 
    * - .. container:: mx-2
 
@@ -1245,7 +1245,7 @@
 
    * - The purpose of this rule, as indicated by the origin story, is to guard against injury to a bhikkhu living under the loft: He might get hit on the head if any of the detachable legs fall down through the joists of the loft. Thus there is no offense if the loft is not high enough off the ground for a man of medium height to stand under it without hitting his head; if the floor of the loft is completely planked; if there is no one under the loft; if the area under the loft cannot be used as a dwelling (e.g., it is used solely for storage space, says the Commentary); if the bed or bench with detachable legs is on the ground; or if the legs of the bed or bench are securely fixed to their frame.
 
-     - 正如\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0060a07>`__\ 所表明的那樣，本戒條的目的是防止對生活在閣樓下面的比丘造成傷害：如果任何可拆卸的腳穿過閣樓的托樑掉落，他可能會被擊中頭。因此，如果閣樓離地面不夠高，無法讓一個中等身高的人站在閣樓下而不撞到頭，並沒有犯戒；如果閣樓的地板完全鋪了地板；如果閣樓下沒有人；如果閣樓下的區域不能用作住處（例如，它僅用於存儲空間，《義註》說）；如果帶有可拆卸腳的床或長椅在地面上；或者，如果床或長椅的腳安全地固定在其框架上。
+     - 正如\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0060a07>`__\ 所表明的那樣，本戒條的目的是防止對生活在閣樓下面的比丘造成傷害：如果任何可拆卸的腳穿過閣樓的托樑掉落，他可能會被擊中頭。因此，如果閣樓離地面不夠高，無法讓一個中等身高的人站在閣樓下而不撞到頭，並沒有犯戒；如果閣樓的地板完全鋪了地板；如果閣樓下沒有人；如果閣樓下的區域不能用作住處（例如，它僅用於存儲空間，《義註》說）；如果帶有可拆卸腳的床或長椅在地面上；或者，如果床或長椅的腳安全地固定在其框架上。
 
    * - **Effort**
      - **努力**
@@ -1294,7 +1294,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0062a03>`__\ ，一位是闡陀尊者支持者的首相正在為闡陀尊者建造一所住處。闡陀尊者讓人把已完工的住處一遍又一遍地蓋上屋頂，一遍又一遍地抹上灰泥，結果住處因負荷過重而坍塌。隨後，闡陀尊者收集草和樹枝，毀壞了一位婆羅門的麥田。這位婆羅門批評、抱怨並四處散佈：『諸大德怎麼能毀壞我們的麥田？』……比丘們……批評、抱怨並四處散佈：『闡陀尊者怎麼能讓人把已完工的住處一遍又一遍地蓋上屋頂，一遍又一遍地抹上灰泥，結果住處因負荷過重而坍塌？』」
+          「\ `爾時 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0062a03>`__\ ，一位是闡陀尊者支持者的首相正在為闡陀尊者建造一所住處。闡陀尊者讓人把已完工的住處一遍又一遍地蓋上屋頂，一遍又一遍地抹上灰泥，結果住處因負荷過重而坍塌。隨後，闡陀尊者收集草和樹枝，毀壞了一位婆羅門的麥田。這位婆羅門批評、抱怨並四處散佈：『諸大德怎麼能毀壞我們的麥田？』……比丘們……批評、抱怨並四處散佈：『闡陀尊者怎麼能讓人把已完工的住處一遍又一遍地蓋上屋頂，一遍又一遍地抹上灰泥，結果住處因負荷過重而坍塌？』」
 
    * - This rule is an extension of `Sg 7`_, giving further directions for how to go about building a dwelling for one’s own use when sponsored by another person. Because the rule deals with techniques used in building wattle and daub dwellings 2,500 years ago, the rule and its explanations in the Canon and commentaries contain terms whose meaning is uncertain at present. The syntax of the rule suggests one interpretation, the Commentary another, while the Vibhaṅga is non-committal on the points where the two interpretations differ. Because both interpretations make sense, we will present them both.
 
@@ -1319,7 +1319,7 @@
      - 同樣，在窗戶周圍，與百葉窗寬度相同的區域需要用最多三層灰泥加固，以保護百葉窗被吹開或關閉時受損。佛陀時代使用三種灰泥——白色、黑色和赭色——比丘們被允許用它們畫出各種幾何圖案，但不允許用它們在牆上畫出男人和女人的淫穢圖畫（！）（\ `《小品》.六.3.1-2`_\ ）。儘管比丘們被允許用這種灰泥覆蓋整個牆壁和地板，但這條戒條給出了只為保持牆壁堅固而應覆蓋的最小面積的指導。
 
 .. _Cv.VI.3.1-2: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#Cv.VI.3.1
-.. _《小品》.六.3.1-2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0206a01
+.. _《小品》.六.3.1-2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0206a01
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1333,7 +1333,7 @@
      - 因為本戒條涉及屋頂材料，所以《義註》假設它一定是指住處的屋頂，儘管這種假設違反了戒條的語法。它的解釋是：可以用任意數量的灰泥或屋頂材料來加強門窗框架，但只能用三層屋頂材料覆蓋屋頂。《聖典》中的一個相關點是 `《小品》.八.3.3`_ 中的一段話，其中指出，如果日後屋頂開始漏水，居住的比丘——如果可以的話——應該自己重新修繕屋頂，或者安排別人替他修繕。但如果這兩件事他都做不到，那並不犯戒。
 
 .. _Cv.VIII.3.3: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.3.2-3
-.. _《小品》.八.3.3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_018#0289a14
+.. _《小品》.八.3.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0289a14
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

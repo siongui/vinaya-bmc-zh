@@ -52,7 +52,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0066a06>`__\ ，教誡比丘尼的長老比丘們，得到了袈裟、缽食、住處和病藥。（根據《義註》，如果比丘善於教誡比丘尼，他們會告訴他們的支持者們，支持者們又會為教誡者提供生活必需品。）六群比丘想到：『目前，教誡比丘尼的長老比丘們，得到了袈裟、缽食、住處和病藥。我們也教誡比丘尼吧。』於是，他們來到比丘尼跟前，說：『來，姊妹們，也到我們這裡來，我們也教誡你們。』
+          「\ `爾時 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0066a06>`__\ ，教誡比丘尼的長老比丘們，得到了袈裟、缽食、住處和病藥。（根據《義註》，如果比丘善於教誡比丘尼，他們會告訴他們的支持者們，支持者們又會為教誡者提供生活必需品。）六群比丘想到：『目前，教誡比丘尼的長老比丘們，得到了袈裟、缽食、住處和病藥。我們也教誡比丘尼吧。』於是，他們來到比丘尼跟前，說：『來，姊妹們，也到我們這裡來，我們也教誡你們。』
 
    * - .. container:: mx-2
 
@@ -278,7 +278,7 @@
 .. _Cv.II.1.2: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#Cv.II.1.2
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. _BMC2, Chapter 23: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
-.. _《小品》.二.1.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_012#0043a13
+.. _《小品》.二.1.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_012/#0043a13
 .. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
 .. _《佛教比丘戒律 第二冊》第二十三章: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
@@ -307,8 +307,8 @@
 
 .. _Cv.X.9.5: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#Cv.X.9.5
 .. _Cv.X.9.4: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#Cv.X.9.4
-.. _《小品》.十.9.5: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0352a10
-.. _《小品》.十.9.4: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0351a06
+.. _《小品》.十.9.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_020/#0352a10
+.. _《小品》.十.9.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_020/#0351a06
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -348,8 +348,8 @@
      - *摘要：教誡比丘尼關於八敬法 —— 除非獲得僧團的授權如此做或被比丘尼詢問 —— 是《波逸提》（《單墮》）罪。*
 
 .. _Pc 58: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part6
-.. _比丘尼《波逸提》五八的《經分別》: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0437a08
-.. _下一條戒條的起源故事: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0072a06
+.. _比丘尼《波逸提》五八的《經分別》: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_012/#0437a08
+.. _下一條戒條的起源故事: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0072a06
 
 
 .. container:: has-text-centered
@@ -485,7 +485,7 @@
    * - The factors for the full offense here are two: object and effort.
      - 這裡構成完全違犯的因素有兩個：對象和努力。
 
-.. _爾時: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0072a06
+.. _爾時: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0072a06
 .. _周利槃特: https://zh.wikipedia.org/wiki/%E5%91%A8%E5%88%A9%E6%A7%83%E7%89%B9
 
 .. list-table::
@@ -775,7 +775,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時，優陀夷尊者已精通製作袈裟。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0081a10>`__\ 一位比丘尼前來拜訪，一到便說道：『大德，如果您能給我縫製一件袈裟就好了。』優陀夷尊者便為那位比丘尼縫製了一件袈裟，染色染得很好，縫製得十分精緻，並在袈裟中央繡上了一個淫穢的圖案（《義註》中說，圖案是一男一女在交合，全彩色製成），然後將其折疊起來，放在一旁。然後比丘尼前來拜訪，一到便問道：『大德，袈裟在哪裡？』
+          「\ `爾時，優陀夷尊者已精通製作袈裟。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0081a10>`__\ 一位比丘尼前來拜訪，一到便說道：『大德，如果您能給我縫製一件袈裟就好了。』優陀夷尊者便為那位比丘尼縫製了一件袈裟，染色染得很好，縫製得十分精緻，並在袈裟中央繡上了一個淫穢的圖案（《義註》中說，圖案是一男一女在交合，全彩色製成），然後將其折疊起來，放在一旁。然後比丘尼前來拜訪，一到便問道：『大德，袈裟在哪裡？』
 
    * - .. container:: mx-2
 
@@ -977,8 +977,8 @@
 
 .. _Sg 3: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#sg
 .. _Pc 37: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part4
-.. _比丘尼《僧殘》三: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_010#0311a02
-.. _比丘尼《波逸提》三七: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_012#0409a10
+.. _比丘尼《僧殘》三: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_010/#0311a02
+.. _比丘尼《波逸提》三七: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_012/#0409a10
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1085,7 +1085,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時，有六群比丘與比丘尼們相約，共乘同一艘船。 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0086a08>`_\ 人們批評、抱怨，並四處散播此事：『就像我們與妻子在船上嬉戲一樣，這些沙門釋迦子也與比丘尼們相約，在船上嬉戲…』」
+          「\ `爾時，有六群比丘與比丘尼們相約，共乘同一艘船。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0086a08>`_\ 人們批評、抱怨，並四處散播此事：『就像我們與妻子在船上嬉戲一樣，這些沙門釋迦子也與比丘尼們相約，在船上嬉戲…』」
 
    * - .. container:: mx-2
 
@@ -1254,7 +1254,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時，偷蘭難陀比丘尼定期從一戶人家得受常施食 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_005#0088a13>`_\ 。有一天，戶主邀請幾位長老比丘來吃飯。偷蘭難陀比丘尼清晨穿戴整齊，帶著缽和（外）衣來到那戶人家，到達後就對戶主說：『怎麼準備了這麼多主食和副食？』
+          「\ `爾時，偷蘭難陀比丘尼定期從一戶人家得受常施食 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0088a13>`_\ 。有一天，戶主邀請幾位長老比丘來吃飯。偷蘭難陀比丘尼清晨穿戴整齊，帶著缽和（外）衣來到那戶人家，到達後就對戶主說：『怎麼準備了這麼多主食和副食？』
 
    * - .. container:: mx-2
 

@@ -52,7 +52,7 @@
      - 在佛陀時代，制定陰曆是每個王國或共和國政府的職責之一。因此，為了避免爭議，佛陀允許在此事上尊重國王的意願：如果國王想將 Asāḷhi 滿月的指定推遲一個月，比丘們被允許遵從。（源自此起源故事的戒條以更普遍的措辭表達——「我允許國王被遵從」——體現了我們在\ `第七章`_\ 中提到的普遍原則，即佛陀不會愚蠢到試圖為國王立法。然而，《義註》指出，這一原則僅適用於國王意願符合佛法的事上。它說，如果有人的意願與佛法不符，就不應該在該事上遵從他。）目前，只有少數國家的政府會為了民眾而計算陰曆。在其他國家，這一點並不成問題，比丘們可以自由地計算陰曆，而不必考慮政府的計算方式。
 
 .. _Mv.II.21.4: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.II.21.4
-.. _《大品》.二.21.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0158a11
+.. _《大品》.二.21.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0158a11
 .. _Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
 .. _第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
 .. TODO FIXME: replace link to 第七章
@@ -93,7 +93,7 @@
      - 目前，這些開緣可擴展到大篷車/拖車、移動房屋和其他類似交通工具。
 
 .. _Mv.III.4.2: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.4.2
-.. _《大品》.三.4.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0186a13
+.. _《大品》.三.4.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_003/#0186a13
 .. _Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
 .. _第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
 .. TODO FIXME: replace link to 第十五章
@@ -119,7 +119,7 @@
      - 《聖典》也指出，如果去約定地點後「破壞」了雨安居（見下文），在這種情況下，也會因違背諾言而犯《突吉羅》。《義註》指出，無論哪種情況，如果最初許諾時有意違背，他都會因違背諾言而犯《突吉羅》，並因說謊而犯《波逸提》。從《聖典》對這些戒條的表述方式——「無法辨識前（雨安居）」——來看，如果承諾在前雨安居留下，但後來違背了諾言，他仍然有資格在後雨安居留在承諾的地方或其他地方，並有資格在完成後雨安居後享受較少的方便利益，但所有註釋書均未提及這一點。
 
 .. _Mv.VIII.25.4: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.VIII.25.4
-.. _《大品》.八.25.4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0390a10
+.. _《大品》.八.25.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0390a10
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -270,8 +270,8 @@
 .. TODO FIXME: replace link to 第九章
 .. _Mv.III.14.6: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.14.6
 .. _Mv.III.14.7: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.14.7
-.. _《大品》.三.14.6: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0208a12
-.. _《大品》.三.14.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0209a04
+.. _《大品》.三.14.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_003/#0208a12
+.. _《大品》.三.14.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_003/#0209a04
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -398,16 +398,16 @@
 
 .. _Mv.III.9.1: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.9.1
 .. _Mv.III.11.13: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.11.10-13
-.. _《大品》.三.9.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0201a01
-.. _《大品》.三.11.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0205a03
-.. _《附隨》.六.4: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_006#0199a13
+.. _《大品》.三.9.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_003/#0201a01
+.. _《大品》.三.11.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_003/#0205a03
+.. _《附隨》.六.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_006/#0199a13
 .. _Chapter 21: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
 .. _Mv.X.5.14: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Mv.X.5.14
 .. _Mv.X.6.1: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Mv.X.6.1
 .. _第二十一章: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
 .. TODO FIXME: replace link to 第二十一章
-.. _《大品》.十.5.14: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_010#0462a09
-.. _《大品》.十.6.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_010#0463a04
+.. _《大品》.十.5.14: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_010/#0462a09
+.. _《大品》.十.6.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_010/#0463a04
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -439,13 +439,13 @@
 
 .. _Mv.III.13.2: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.13.2
 .. _Mv.IV.1.13: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.IV.1.13
-.. _《大品》.三.13.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0207a04
-.. _《大品》.四.1.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_004#0215a10
+.. _《大品》.三.13.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_003/#0207a04
+.. _《大品》.四.1.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_004/#0215a10
 .. _NP 15: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
 .. _《捨墮》一五: {filename}Section0014%zh-hant.rst#NP15
 .. _Cv.VI.11.3: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#Cv.VI.11.3
 .. _AN 10\:69: https://www.dhammatalks.org/suttas/AN/AN10_69.html
-.. _《小品》.六.11.3: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0226a07
+.. _《小品》.六.11.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0226a07
 .. _《增支部》10\:69經: https://sutra.mobi/zcj/zengzhi/content/1601.html
 
 .. list-table::
@@ -474,7 +474,7 @@
 
 .. _Mv.VIII.32: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#Mv.VIII.32
 .. _Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
-.. _《大品》.八.32: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0400a03
+.. _《大品》.八.32: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0400a03
 .. _第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
 .. TODO FIXME: replace link to 第十八章
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
@@ -579,12 +579,12 @@
 .. _2: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.VIII.24.2
 .. _5: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.VIII.24.5
 .. _6: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.VIII.24.6
-.. _《大品》.八.24: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0387a08
-.. _二: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0387a12
-.. _五: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0388a10
-.. _六: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0388a14
+.. _《大品》.八.24: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0387a08
+.. _二: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0387a12
+.. _五: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0388a10
+.. _六: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0388a14
 .. _Pv.XIV.4: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#Pv.XIV.4
-.. _《附隨》.十四.4: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003_014#0277a07
+.. _《附隨》.十四.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_014/#0277a07
 .. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
 .. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
 .. _Pc 32: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
@@ -600,7 +600,7 @@
 .. _《捨墮》二: {filename}Section0013%zh-hant.rst#NP2
 .. _Mv.VIII.23.3: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.23.3
 .. _Mv.VII: https://www.dhammatalks.org/vinaya/Mv/MvVII.html
-.. _《大品》.八.23.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0387a03
-.. _《大品》.七: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_007
+.. _《大品》.八.23.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0387a03
+.. _《大品》.七: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_007/
 
 (未完待續)

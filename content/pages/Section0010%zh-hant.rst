@@ -73,7 +73,7 @@
      - 這裡完整的違犯由四個因素組成：努力、對象、知悉和同意。
 
 .. _引言: {filename}Section0006%zh-hant.rst
-.. _律藏-經分別-波羅夷-獼猴品: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0025a06
+.. _律藏-經分別-波羅夷-獼猴品: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0025a06
 
 
 .. list-table::
@@ -222,7 +222,7 @@
    * - *Summary: Voluntary sexual intercourse—genital, anal, or oral—with a human being, non-human being, or common animal is a pārājika offense.*
      - *摘要：與人類、非人或普通動物自願發生性交（生殖器、肛門或口腔）是《波羅夷》罪。*
 
-.. _有趣的案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0049a05
+.. _有趣的案例: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0049a05
 
 
 .. container:: has-text-centered
@@ -308,7 +308,7 @@
 
      - 《經分別》說，屬於一般動物或亡者及鬼的物品不屬於此戒條的範圍。關於這一點，請參閱下面「不犯」部分的討論。
 
-.. _果園的園丁允許比丘們從果園拿水果: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0086a14
+.. _果園的園丁允許比丘們從果園拿水果: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0086a14
 .. _NP 30: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
 .. _Pc 82: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
 .. _《捨墮》三十: {filename}Section0015%zh-hant.rst#NP30
@@ -318,7 +318,7 @@
 .. _康提: https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%8F%90
 .. _佛牙: https://zh.wikipedia.org/wiki/%E4%BD%9B%E7%89%99%E5%AF%BA
 .. _玉佛: https://zh.wikipedia.org/wiki/%E5%B8%95%E4%BD%9B%E9%99%80%E5%A4%A7%E6%91%A9%E5%B0%BC%E5%AF%B6%E7%8E%89%E4%BD%9B
-.. _《附隨》: https://tripitaka.cbeta.org/mobile/index.php?index=N05n0003
+.. _《附隨》: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003/
 
 
 .. list-table::
@@ -530,11 +530,11 @@
 .. _《捨墮》一八: {filename}Section0014%zh-hant.rst#NP18
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _Mv.I.62: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.62.3
-.. _《大品》.一.62: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0107a09
-.. _海關: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0067a14
+.. _《大品》.一.62: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0107a09
+.. _海關: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0067a14
 .. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
 .. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
-.. _不尋常的案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0088a12
+.. _不尋常的案例: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0088a12
 .. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. _《捨墮》二十: {filename}Section0014%zh-hant.rst#NP20
@@ -822,7 +822,7 @@
 
    * - *Court actions.* As stated above, if a bhikkhu knowingly starts an unfair court case against someone else and then wins it in the final court to which the accused makes appeal, he incurs a pārājika. The Commentary to the Bhikkhunīs’ `Sg 1 <https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#sg>`__, however, states that even if a bhikkhu is actually mistreated by someone—defamed, physically injured, robbed, etc.—and then tries to take a just court action against the guilty party, he incurs a pārājika if he wins. Again, this is an instance where the Commentary has no support from the Canon and, as the Vinaya-mukha points out, its assertion cannot stand. However, the training of a bhikkhu requires that he view all losses in the light of kamma and focus on looking after the state of his mind rather than on seeking compensation in social or material terms.
 
-     - *法庭訴訟。*\ 如上所述，如果一個比丘故意向他人提起不公平的法庭訴訟，然後在被告提出上訴的最終法庭中勝訴，他犯《波羅夷》。然而，比丘尼\ `《僧殘》一 <https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_010#0304a05>`__\ 的《義註》指出，即使比丘實際上受到某人的虐待——誹謗、身體傷害、搶劫等——然後試圖對有罪方採取公正的法庭行動，如果他贏了，他犯《波羅夷》。再一次，這是《義註》沒有得到《聖典》支持的例子，並且正如《戒律入口》所指出的那樣，它的主張是站不住腳的。然而，比丘的訓練要求他從業的角度看待所有損失，並專注於照顧自己的心態，而不是尋求社會或物質方面的補償。
+     - *法庭訴訟。*\ 如上所述，如果一個比丘故意向他人提起不公平的法庭訴訟，然後在被告提出上訴的最終法庭中勝訴，他犯《波羅夷》。然而，比丘尼\ `《僧殘》一 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_010/#0304a05>`__\ 的《義註》指出，即使比丘實際上受到某人的虐待——誹謗、身體傷害、搶劫等——然後試圖對有罪方採取公正的法庭行動，如果他贏了，他犯《波羅夷》。再一次，這是《義註》沒有得到《聖典》支持的例子，並且正如《戒律入口》所指出的那樣，它的主張是站不住腳的。然而，比丘的訓練要求他從業的角度看待所有損失，並專注於照顧自己的心態，而不是尋求社會或物質方面的補償。
 
    * - There is no question in any of the texts that if a bhikkhu is asked to give evidence in a courtroom and does so, speaking in accordance with the facts, he commits no offense no matter what the outcome for the others involved. However, `Pc 9`_ would require that he first be authorized to do so by the Community if his testimony involves reporting the wrongdoing of others. See that rule for further details.
 
@@ -835,23 +835,23 @@
 .. _《佛教比丘戒律 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十八章
 .. _Cv.VI.15.2: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Cv.VI.15.2
-.. _《小品》.六.15.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0231a01
+.. _《小品》.六.15.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0231a01
 .. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
 .. _《波羅夷》四: #Pr4
-.. _用於其他地方: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_016#0235a08
+.. _用於其他地方: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0235a08
 .. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
 .. _《波逸提》一: {filename}Section0016%zh-hant.rst#Pc1
-.. _一位比丘尼接近她老師的在家供養者並索取藥物，並說這些藥物是給她老師的: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0088a04
+.. _一位比丘尼接近她老師的在家供養者並索取藥物，並說這些藥物是給她老師的: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0088a04
 .. _Mv.III.14.1-14: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#Mv.III.14.4
-.. _《大品》.三.14.1-14: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_003#0207a07
-.. _園丁從他照管的果園裡給予比丘們水果: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0086a14
+.. _《大品》.三.14.1-14: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_003/#0207a07
+.. _園丁從他照管的果園裡給予比丘們水果: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0086a14
 .. _Mv.VIII.22: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.VIII.22.1
 .. _BMC2, Chapter 10: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
-.. _《大品》.八.22: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0386a05
+.. _《大品》.八.22: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0386a05
 .. _《佛教比丘戒律 第二冊》第十章: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十章
 .. _Cv.I.20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.20
-.. _《小品》.一.20: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_011#0024a12
+.. _《小品》.一.20: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0024a12
 .. _Pc 9: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
 .. _《波逸提》九: {filename}Section0016%zh-hant.rst#Pc9
 
@@ -899,7 +899,7 @@
      - 被扣押的物品——例如存放在機械店裡的修理過的汽車——顯然會以與走私貨物類似的方式處理。
 
 .. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
-.. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
+.. _《小品》.五.36: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0190a11
 .. _簽帳金融卡: https://zh.wikipedia.org/wiki/%E5%80%9F%E8%AE%B0%E5%8D%A1
 
 
@@ -1036,24 +1036,24 @@
    * - *Summary: The theft of anything worth 1/24 ounce troy of gold or more is a pārājika offense.*
      - *摘要：竊取任何價值 1/24 盎司或以上金衡黃金的物品是《波羅夷》罪。*
 
-.. _拿走獅子獵物的殘骸並沒有犯戒: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0077a07
+.. _拿走獅子獵物的殘骸並沒有犯戒: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0077a07
 .. _peta: https://dictionary.sutta.org/browse/p/peta/
-.. _不能從未腐爛的屍體上取布，原因如下: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0076a11
+.. _不能從未腐爛的屍體上取布，原因如下: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0076a11
 .. _Mv.VIII.19.1: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.VIII.19.1
-.. _《大品》.八.19.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0384a12
+.. _《大品》.八.19.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0384a12
 .. _Mv.VIII.31.2-3: https://www.dhammatalks.org/vinaya/bmc/Section0063.html#Mv.VIII.31.2-3
-.. _《大品》.八.31.2-3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0398a13
-.. _他錯誤地認為他有權以基於信任的方式拿走一件物品: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0079a06
-.. _看到一件昂貴的衣服，生起偷竊的欲望: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0073a14
-.. _一件衣服被旋風吹起: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0076a05
-.. _基於信任拿取了一件物品: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0079a06
-.. _不知道他的所有物中有一件應納稅的物品: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0082a08
-.. _取屬於僧伽的樹上的果子: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0086a08
-.. _儘管守護者無權將水果送出: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0086a14
-.. _因為他的回答只是一種說話方式: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0075a05
-.. _出於慈悲，釋放了被獵人網羅捕獲的動物: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0083a03
-.. _按照原主人的意願，指出對繼承人的遺贈: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0088a12
-.. _畢陵伽婆蹉尊者利用他的神通力找回了一對被綁架的孩子: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0089a10
+.. _《大品》.八.31.2-3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0398a13
+.. _他錯誤地認為他有權以基於信任的方式拿走一件物品: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0079a06
+.. _看到一件昂貴的衣服，生起偷竊的欲望: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0073a14
+.. _一件衣服被旋風吹起: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0076a05
+.. _基於信任拿取了一件物品: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0079a06
+.. _不知道他的所有物中有一件應納稅的物品: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0082a08
+.. _取屬於僧伽的樹上的果子: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0086a08
+.. _儘管守護者無權將水果送出: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0086a14
+.. _因為他的回答只是一種說話方式: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0075a05
+.. _出於慈悲，釋放了被獵人網羅捕獲的動物: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0083a03
+.. _按照原主人的意願，指出對繼承人的遺贈: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0088a12
+.. _畢陵伽婆蹉尊者利用他的神通力找回了一對被綁架的孩子: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0089a10
 
 
 .. container:: has-text-centered
@@ -1144,17 +1144,17 @@
    * - A bhikkhu who intentionally kills a common animal is treated under `Pc 61`_.
      - 故意殺死普通動物的比丘將根據\ `《波逸提》六一`_\ 受到處置。
 
-.. _人類，根據《經分別》: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0099a04
+.. _人類，根據《經分別》: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0099a04
 .. _DN 15: https://www.dhammatalks.org/suttas/DN/DN15.html
-.. _《長部》15經: https://tripitaka.cbeta.org/mobile/index.php?index=N07n0004_015
+.. _《長部》15經: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N07n0004_015/
 .. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
 .. _BMC2, Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
-.. _一系列比丘為尋求墮胎的婦女提供藥物的案例: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0113a01
+.. _一系列比丘為尋求墮胎的婦女提供藥物的案例: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0113a01
 .. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
 .. _《佛教比丘戒律 第二冊》第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第五章
-.. _起源故事: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0092a07
-.. _一個比丘試圖跳崖自殺: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0111a09
+.. _起源故事: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0092a07
+.. _一個比丘試圖跳崖自殺: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0111a09
 .. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
 .. _《波逸提》六一: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
 .. TODO FIXME: replace link to 《波逸提》六一
@@ -1214,12 +1214,12 @@
 
      - 《Vinīta_-vatthu_》還記載了一個例子，比丘們\ `出於對生病朋友的同情，加速了他的死亡`_\ ，從而完全違犯了本戒條。這表明衝動和動機與定義此處的意圖因素無關。
 
-.. _在懸崖上扔石頭: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0111a12
-.. _坐在椅子上的一堆布上: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0107a11
-.. _放火燒了一座小樹林: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0116a04
-.. _他挖了一個陷阱: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0103a10
-.. _一位比丘用朋友作為試驗毒藥的小白鼠: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0109a06
-.. _出於對生病朋友的同情，加速了他的死亡: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0116a10
+.. _在懸崖上扔石頭: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0111a12
+.. _坐在椅子上的一堆布上: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0107a11
+.. _放火燒了一座小樹林: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0116a04
+.. _他挖了一個陷阱: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0103a10
+.. _一位比丘用朋友作為試驗毒藥的小白鼠: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0109a06
+.. _出於對生病朋友的同情，加速了他的死亡: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0116a10
 
 
 .. list-table::
@@ -1296,10 +1296,10 @@
 
      - 《聖典》包含許多段落（\ `《中部》56經`_\ 就是一個例子），描述那些「心智發達」的人，利用自己的力量殺人。《義註》指出了這些段落的存在以及「一些老師」的存在，這些老師引用它們作為冥想力量可以以這種方式使用的證據，但它駁回了這個想法，因為冥想力量是善巧的並且基於愉快的精神狀態，而殺戮行為是不善巧的並且基於痛苦的精神狀態。《複註》補充說，《聖典》中描述的力量實際上是基於魔咒的。不過，因為這些咒語的成功取決於某種程度的定，所以用定力殺人似乎就滿足了這裡的努力因素。
 
-.. _奪取生命: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0099a03
-.. _一名罪犯剛接受了被砍掉手腳的懲罰: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0116a10
-.. _告訴劊子手，要仁慈地一擊殺死受害者: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0116a05
-.. 《中部》56經: https://tripitaka.cbeta.org/mobile/index.php?index=N10n0005_006#0117a02
+.. _奪取生命: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0099a03
+.. _一名罪犯剛接受了被砍掉手腳的懲罰: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0116a10
+.. _告訴劊子手，要仁慈地一擊殺死受害者: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0116a05
+.. 《中部》56經: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N10n0005_006/#0117a02
 .. _《中部》56經: https://sutra.mobi/chilin/zhong/content/056.html
 
 
@@ -1348,7 +1348,7 @@
 .. _SN 36\:7: https://www.dhammatalks.org/suttas/SN/SN36_7.html
 .. _SN 55\:54: https://www.dhammatalks.org/suttas/SN/SN55_54.html
 .. _AN 6\:16: https://www.dhammatalks.org/suttas/AN/AN6_16.html
-.. _出於同情心可能做出的任何陳述: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0107a08
+.. _出於同情心可能做出的任何陳述: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0107a08
 .. _《中部》143經: https://sutra.mobi/chilin/zhong/content/143.html
 .. _《相應部》36\:7經: https://sutra.mobi/chilin/xiangying/content/36.html#%E4%B8%83%E7%97%85%E4%B9%8B%E4%B8%80
 .. _《相應部》55\:54經: https://sutra.mobi/chilin/xiangying/content/55.html#%E4%BA%94%E5%8D%81%E5%9B%9B%E7%97%85
@@ -1402,8 +1402,8 @@
 
 .. _Mv.VIII.26.3-4: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VIII.26.1-8
 .. _Mv.VIII.26.8: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VIII.26.1-8
-.. _《大品》.八.26.3-4: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0391a09
-.. _《大品》.八.26.8: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0393a02
+.. _《大品》.八.26.3-4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0391a09
+.. _《大品》.八.26.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0393a02
 
 
 .. list-table::
@@ -1460,8 +1460,8 @@
 .. _Pc 74: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
 .. _《波逸提》七四: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
 .. TODO FIXME: replace link to 《波逸提》七四
-.. _想要殺死 X ，但卻殺死了 Y: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0115a04
-.. _婦女死亡，胎兒倖存: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0113a07
+.. _想要殺死 X ，但卻殺死了 Y: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0115a04
+.. _婦女死亡，胎兒倖存: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0113a07
 
 
 .. list-table::
@@ -1506,9 +1506,9 @@
 
      - 至於試圖自殺而不危及他人的方式，似乎最好遵循佛陀的智慧，根本不對此議題制定律法，並將其視為「法」而不是「律」的問題。換句話說，人們應該記住他在\ `《相應部》35:87經`_\ 中的評論，即唯一無可指責的死亡是阿羅漢的死亡。如果缺乏這種成就，在生病時選擇拒絕食物以加速死亡，則應該警惕死亡和重生可能涉及的風險。
 
-.. _沒有仔細檢查的情況下重重地坐在椅子上: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0107a11
-.. _為了好玩，從山頂扔石頭: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0111a12
-.. _感到壓抑和不滿，跳崖自殺: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0111a09
+.. _沒有仔細檢查的情況下重重地坐在椅子上: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0107a11
+.. _為了好玩，從山頂扔石頭: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0111a12
+.. _感到壓抑和不滿，跳崖自殺: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0111a09
 .. _《相應部》4\:23經: https://sutra.mobi/chilin/xiangying/content/04.html#%E4%BA%8C%E5%8D%81%E4%B8%89%E7%9E%BF%E6%8F%90%E8%BF%A6
 .. _《相應部》35\:87經: https://sutra.mobi/chilin/xiangying/content/35.html#%E5%85%AB%E5%8D%81%E4%B8%83%E8%BB%8A%E5%8C%BF
 
@@ -1588,7 +1588,7 @@
 
      - 註釋加入了第五個因素－結果－說聽者必須理解在說什麼，才能構成完整的犯戒，但正如我們將在下面看到的，這個因素看起來是基於對《經分別》的誤讀。
 
-.. _他對最初犯戒者的陳述: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0120a09
+.. _他對最初犯戒者的陳述: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0120a09
 
 
 .. list-table::
@@ -1747,16 +1747,16 @@
 
      - 還有其他一些不以禪那為基礎的神秘能力，因此不算作廣大法：如占卜、給予護身符、施放惡意咒語、通靈治療、修行媒介等。經文列出了這些和其他類似的行為，稱為 *tiracchāna-vijjā* （\ `畜生明`_\ ），顧名思義，與上人法相去甚遠。 （參見\ `《佛教比丘戒律 第二冊》第十章`_\ 。）
 
-.. _上人法: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0124a09
+.. _上人法: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0124a09
 .. _結使: https://zh.wikipedia.org/wiki/%E7%B5%90_(%E4%BD%9B%E6%95%99)
 .. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
 .. _MN 119: https://www.dhammatalks.org/suttas/MN/MN119.html
 .. _AN 5\:28: https://www.dhammatalks.org/suttas/AN/AN5_28.html
-.. _《長部》2經: https://tripitaka.cbeta.org/mobile/index.php?index=N06n0004_002
+.. _《長部》2經: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N06n0004_002/
 .. _《中部》119經: https://sutra.mobi/chilin/zhong/content/119.html
 .. _《增支部》5\:28經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%BA%8C%E5%8D%81%E5%85%AB%E8%A6%81%E7%B4%A0
 .. _三明: https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%8E%E5%85%AD%E9%80%9A
-.. _彼如次知: https://tripitaka.cbeta.org/mobile/index.php?index=N06n0004_002#0084a10
+.. _彼如次知: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N06n0004_002/#0084a10
 .. _毘婆舍那: https://zh.wikipedia.org/wiki/%E8%A7%80_(%E4%BD%9B%E6%95%99)
 .. _畜生明: https://dictionary.sutta.org/browse/t/tiracch%C4%81na/
 
@@ -1847,8 +1847,8 @@
 
      - 《義註》提出了《經分別》中未提及的問題：\ *提及與自己有關的境界*\ 是否包括宣稱自己前世的成就？它沒有解釋其推理，只是簡單地說「不」：\ *與自己相關*\ 僅適用於現在的五蘊，而不適用於過去的五蘊。就廣大法而言，可以宣稱前世的成就不適用於現在的狀態，因為一個人可能在前世證得禪那的這一簡單事實並不代表會持續到今生。這種成就不一定會從一世延續到下一世。然而，就出世法而言，一個人在前世可能已證得入流這一事實，\ *會*\ 對今生產生持續影響：一個人注定至少會在死前的某個時刻再次證得入流，這使得他在信仰追隨者或佛法追隨者的層面上，「進入正確的道路，進入善人之地，超越凡夫之地」（\ `《相應部》25:1經`_\ ）。這相當於入流道。因此，如果說前世證得的廣大法不能滿足這裡努力的因素，而說前世證得的出世間法則可以，這似乎是合理的。當然，如果比丘虛假地聲稱擁有前世的現時知識，那就明確地滿足了本因素。
 
-.. _針對男性或女性、在家人或出家人陳述: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0124a13
-.. _私下坐著，做出虛假陳述: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0140a01
+.. _針對男性或女性、在家人或出家人陳述: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0124a13
+.. _私下坐著，做出虛假陳述: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0140a01
 .. _SN 25\:1: https://www.dhammatalks.org/suttas/SN/SN25_1.html
 .. _《相應部》25\:1經: https://sutra.mobi/chilin/xiangying/content/25.html#%E4%B8%80%E7%9C%BC
 
@@ -1887,9 +1887,9 @@
 
      - 至於邪惡的欲望：《義註》引用\ `阿毘達摩`_\ 文獻《經分別》中的一段話，而該文又以\ `《中部》5經`_\ 為基礎——在這裡將\ *邪惡的欲望*\ 定義為希望讓別人相信自己不存在的善法實際上存在。換句話說，一個人必須希望自己的言論能被認真對待。這意味著動機是這個因素的必要組成部分。開一個自嘲、諷刺的玩笑，指的是一個人不存在的上人法，就好像它們確實存在一樣，但不打算被認真對待，無論聽眾如何看待這句話，都不能滿足這裡的意圖。然而，由於這樣的言論是謊言，因此即使是開玩笑，它也屬於\ `《波逸提》一`_\ 。因此，此類案例在本戒條的不犯條款中並未提及，因為它們確實犯《波逸提》。不過，儘管懲罰相對較小，但此類玩笑也不應掉以輕心。它們不僅會導致聽者產生嚴重的誤解，而且還會表現出對佛法的不尊重，尤其是對比丘應該視為修行最高手段和目的的成就的不尊重。
 
-.. _生病的比丘被問到: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0141a05
-.. _生病的比丘被告知不要害怕死亡: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0142a04
-.. _比丘受到親戚的壓力，要求還俗: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0143a04
+.. _生病的比丘被問到: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0141a05
+.. _生病的比丘被告知不要害怕死亡: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0142a04
+.. _比丘受到親戚的壓力，要求還俗: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0143a04
 .. _MN 5: https://www.dhammatalks.org/suttas/MN/MN5.html
 .. _阿毘達摩: https://zh.wikipedia.org/wiki/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8
 .. _《中部》5經: https://sutra.mobi/chilin/zhong/content/005.html
@@ -1961,8 +1961,8 @@
 
      - 2）\ `比丘們希望人們尊重他們，進行特殊的修行`_\ －《Vinīta_-vatthu_》中給出的例子包括住在叢林中、托缽、坐、站、行、臥（顯然是在長時間的禪修中），但從中我們可以推斷出其他修行，例如任何苦行（頭陀行）修行或素食主義等等，以便給他人留下深刻的印象，也算在內。懲罰：《突吉羅》。因為這個規定可能會給人一種不應該修頭陀行或長時間打坐等等的錯誤印象，所以《義註》列舉了一系列生活在林野中無可指責的理由：看到村居使人心掉舉，渴望隱居，渴望證得阿羅漢果，反思佛陀對林野生活的讚嘆，期盼自己能成為梵行生活同儕的榜樣。因這些或類似原因而進行任何頭陀行修行的比丘不會招致任何犯戒。
 
-.. _婆羅門以誇張的信心或禮貌說話: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0142a08
-.. _比丘們希望人們尊重他們，進行特殊的修行: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_001#0139a09
+.. _婆羅門以誇張的信心或禮貌說話: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0142a08
+.. _比丘們希望人們尊重他們，進行特殊的修行: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0139a09
 
 
 .. list-table::
@@ -2088,7 +2088,7 @@
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _《波羅夷》一: #Pr1
 .. _Mv.I.78.2-5: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.78.2-5
-.. _《大品》.一.78.2-5: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0120a12
+.. _《大品》.一.78.2-5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0120a12
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
@@ -2096,10 +2096,10 @@
 .. TODO FIXME: replace link to 第十一章
 .. _Mv.I.61-68: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.61.2
 .. _BMC2, Chapter 14: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
-.. _《大品》.一.61-68: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0106a14
+.. _《大品》.一.61-68: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0106a14
 .. _《佛教比丘戒律 第二冊》第十四章: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十四章
-.. _《小品》.十.26.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_020#0371a05
+.. _《小品》.十.26.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_020/#0371a05
 .. _9: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
 .. _Pc 64: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
 .. _《僧殘》九: {filename}Section0011%zh-hant.rst#Sg9

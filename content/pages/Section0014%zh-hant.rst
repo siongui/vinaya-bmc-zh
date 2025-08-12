@@ -111,7 +111,7 @@
 
    * - The origin story to this rule indicates that a pure black felt blanket/rug was considered stylish at that time, and thus inappropriate for a bhikkhu’s use. This is a recurrent theme throughout the Vinaya: that stylish, luxurious, or elegant articles are not in keeping with the bhikkhus’ way of life.
 
-     - 本戒條的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0320a03>`__\ 表明，純黑色敷具在當時被認為是時尚的，因此不適合比丘使用。這是整個戒律中反覆出現的主題：時尚、奢華或優雅的物品不符合比丘的生活方式。
+     - 本戒條的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0320a03>`__\ 表明，純黑色敷具在當時被認為是時尚的，因此不適合比丘使用。這是整個戒律中反覆出現的主題：時尚、奢華或優雅的物品不符合比丘的生活方式。
 
    * - The Vibhaṅga notes that *black wool* here covers both wool that is naturally black and wool that has been dyed that color.
      - 《經分別》指出，這裡的\ *黑色羊毛*\ 既包括天然黑色的羊毛，也包括染成黑色的羊毛。
@@ -200,7 +200,7 @@
 
    * - “Now at that time bhikkhus were (each) having a new felt blanket/rug made every year. They were constantly begging, constantly hinting, ‘Give wool. We need wool.’ People criticized and complained and spread it about, ‘How can these Sakyan-son monks have a new felt blanket/rug made every year?… The felt blanket/rugs we make for ourselves last five or six years, even though our children wet them and soil them, and they get chewed on by rats. But these Sakyan-son monks have a new felt blanket/rug made every year and are constantly begging, constantly hinting, ‘Give wool. We need wool.’”
 
-     - 「\ `那時，比丘們（每人）每年都會製作一條新敷具 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0323a07>`_\ 。他們不斷地乞求、不斷地暗示，『給羊毛吧。我們需要羊毛。』人們批評、抱怨、傳播：『這些沙門釋子怎麼能每年都有新敷具呢？我們為自己製作的敷具可以使用五到六年，儘管我們的孩子弄濕了它們並弄髒了它們，並且它們被老鼠啃咬了。但這些沙門釋子每年都會製作一條新敷具，並且不斷地乞求、不斷地暗示：『給羊毛吧。我們需要羊毛。』」
+     - 「\ `那時，比丘們（每人）每年都會製作一條新敷具 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0323a07>`_\ 。他們不斷地乞求、不斷地暗示，『給羊毛吧。我們需要羊毛。』人們批評、抱怨、傳播：『這些沙門釋子怎麼能每年都有新敷具呢？我們為自己製作的敷具可以使用五到六年，儘管我們的孩子弄濕了它們並弄髒了它們，並且它們被老鼠啃咬了。但這些沙門釋子每年都會製作一條新敷具，並且不斷地乞求、不斷地暗示：『給羊毛吧。我們需要羊毛。』」
 
    * - There are three factors for the full offense here.
      - 這裡的完整違犯有三個因素。
@@ -311,8 +311,8 @@
 .. _Mv.VIII.16.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.16.1
 .. _Cv.V.18: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Cv.V.18
 .. _Pc 89: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
-.. _《大品》.八.16.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0382a14
-.. _《小品》.五.18: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0166a12
+.. _《大品》.八.16.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0382a14
+.. _《小品》.五.18: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0166a12
 .. _《波逸提》八九: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
 .. TODO FIXME: replace link to 《波逸提》八九
 
@@ -374,7 +374,7 @@
 
      - .. container:: mx-2
 
-          「\ `當時，一位比丘在拘薩羅地區前往舍衛城的路上，獲得了羊毛。 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0330a13>`_\ 於是，他用上衣將羊毛捆成一捆，就上路了。眾人見了，都戲笑他：『大德，你花了多少錢買的？利潤是多少？』」
+          「\ `當時，一位比丘在拘薩羅地區前往舍衛城的路上，獲得了羊毛。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0330a13>`_\ 於是，他用上衣將羊毛捆成一捆，就上路了。眾人見了，都戲笑他：『大德，你花了多少錢買的？利潤是多少？』」
 
    * - There are three factors for an offense here: object, effort, and intention.
      - 這裡的犯戒有三個因素：對象、努力和意圖。
@@ -470,7 +470,7 @@
           *如果任何比丘讓非親戚比丘尼洗滌、染色或梳理羊毛，尼薩耆波逸提。*
 
    * - The reason behind this rule is expressed succinctly in the following conversation from the origin story:
-     - 本戒條背後的原因在\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0333a03>`__\ 中的以下對話中得到了簡潔的表達：
+     - 本戒條背後的原因在\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0333a03>`__\ 中的以下對話中得到了簡潔的表達：
 
    * - .. container:: mx-2
 
@@ -612,8 +612,8 @@
 
      - 正如\ `《捨墮》十`_\中所提到的，《義註》源自《聖典》的一份物品列表，它說當比丘接受時會犯《突吉羅》。其中包括珍珠和寶石；未煮熟的穀物和生肉；女人和女孩、男性和女性奴隸；山羊和綿羊、家禽和豬、大象、牛、馬和母馬；土地和財產。為了方便起見，我們從這裡開始將這些物品稱為《突吉羅》物件\ *(dukkaṭa-vatthu)*\，或縮寫成 D.O. 。
 
-.. _包括所有黃金製成的東西: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0337a06
-.. _包括由銀、銅、木頭、樹膠或任何用作貨幣的物質製成的硬幣: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0337a07
+.. _包括所有黃金製成的東西: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0337a06
+.. _包括由銀、銅、木頭、樹膠或任何用作貨幣的物質製成的硬幣: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0337a07
 .. _期票（本票）: https://zh.wikipedia.org/wiki/%E6%9C%AC%E7%A5%A8
 
 
@@ -720,7 +720,7 @@
 
      - 這裡的《義註》還說，一位比丘同意將金錢捐贈放在他「附近」來建造寺院建築，也會犯《突吉羅》。這是指布施者說：「這是供僧團用於建造某物的」，並將錢放在比丘旁邊。正如《義註》本身在\ `《捨墮》十`_\下所說，如果布施者沒有提及作為資金保管人或接受者的比丘或僧團的名稱，則布施不得被拒絕。相反，他們應該被留在那兒，告訴淨人布施者所說的話。
 
-.. _《經分別》對此行為的定義如下: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0337a09
+.. _《經分別》對此行為的定義如下: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0337a09
 .. _NP 19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. _20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
 .. _《捨墮》一九: #NP19
@@ -1136,7 +1136,7 @@
    * - The factors for an offense here are two: object and effort.
      - 這裡的犯戒因素有兩個：對象和努力。
 
-.. _「爾時，: https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0341a12
+.. _「爾時，: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0341a12
 .. _僧伽梨: https://www.google.com/search?q=%E5%83%A7%E4%BC%BD%E6%A2%A8
 
 
@@ -1302,7 +1302,7 @@
 .. _沙彌尼: https://zh.wikipedia.org/wiki/%E6%B2%99%E5%BD%8C%E5%B0%BC
 .. _Mv.VIII.22.1: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.VIII.22.1
 .. _BMC2, Chapter 10: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
-.. _《大品》.八.22.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0386a05
+.. _《大品》.八.22.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0386a05
 .. _《佛教比丘戒律 第二冊》第十章: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十章
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
@@ -1343,7 +1343,7 @@
      - 但是，如果沒有將實物移交給賣方，則在資金進入賣方帳戶之前交易不會完成。簽帳金融卡（debit card）就是這樣的例子：只有當比丘輸入個人識別碼（PIN）（這是他命令銀行付款給賣方）後，比丘從賣方收到商品和服務，以及資金從他的帳戶轉入賣家的帳戶時，才構成完整犯戒。
 
 .. _NP rules 4-10: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#np-part1
-.. _《捨墮》戒條四-十: https://tripitaka.cbeta.org/mobile/index.php?index=N02n0001_011#0341a02
+.. _《捨墮》戒條四-十: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_011/#0341a02
 
 
 .. list-table::

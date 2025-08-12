@@ -88,8 +88,8 @@
 
 .. _Cv.V.8.2: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.8.2
 .. _Cv.V.9.1: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#Cv.V.9.1
-.. _《小品》.五.8.2: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0151a13
-.. _《小品》.五.9.1: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0152a10
+.. _《小品》.五.8.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0151a13
+.. _《小品》.五.9.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0152a10
 .. _黏土: https://zh.wikipedia.org/wiki/%E9%BB%8F%E5%9C%9F
 
 .. list-table::
@@ -184,7 +184,7 @@
 
 .. _Mv.V.13.13: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.V.13.13
 .. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
-.. _《大品》.五.13.13: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_005#0263a11
+.. _《大品》.五.13.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0263a11
 .. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
 
 .. list-table::
@@ -248,7 +248,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時，有一個陶匠邀請了比丘們 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0348a03>`_\ ，說：『如果哪位大德需要一個缽，我就供給他一個缽。』於是，比丘們毫無節制地要了很多缽。那些有小缽的人要求大缽。那些有大缽的要求小缽。（§）陶匠為比丘們製作了許多缽，無法製作其他物品來出售。（結果）他無法養活自己，他的妻子和孩子也受苦了。」
+          「\ `爾時，有一個陶匠邀請了比丘們 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0348a03>`_\ ，說：『如果哪位大德需要一個缽，我就供給他一個缽。』於是，比丘們毫無節制地要了很多缽。那些有小缽的人要求大缽。那些有大缽的要求小缽。（§）陶匠為比丘們製作了許多缽，無法製作其他物品來出售。（結果）他無法養活自己，他的妻子和孩子也受苦了。」
 
    * - Here the full offense involves three factors:
      - 這裡，完整的違犯涉及三個因素：
@@ -444,23 +444,23 @@
 .. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
 .. _食物品: {filename}Section0019%zh-hant.rst#Pc_ChFour
 .. _Mv.VI.1.2-5: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts1_2
-.. _《大品》.六.1.2-5: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0267a08
+.. _《大品》.六.1.2-5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0267a08
 .. _MN 126: https://www.dhammatalks.org/suttas/MN/MN126.html
 .. _《中部》126經: https://sutra.mobi/chilin/zhong/content/126.html
 .. _Mv.VI.34.21: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.34.21
-.. _《大品》.六.34.21: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0321a02
+.. _《大品》.六.34.21: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0321a02
 .. _BMC2, Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
 .. _《佛教比丘戒律 第二冊》第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第五章
 .. _Mv.VI.2.1: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.2.1
-.. _《大品》.六.2.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0268a09
+.. _《大品》.六.2.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0268a09
 .. _Mv.VI.2.2: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts2_2
-.. _《大品》.六.2.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0268a12
+.. _《大品》.六.2.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0268a12
 .. _明膠: https://zh.wikipedia.org/wiki/%E6%98%8E%E8%86%A0
 .. _Mv.VI.35.6: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.35.6
-.. _《大品》.六.35.6: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0323a01
+.. _《大品》.六.35.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0323a01
 .. _Mv.VI.16.1: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.16.1
-.. _《大品》.六.16.1: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0279a10
+.. _《大品》.六.16.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0279a10
 .. _糖替代品: https://zh.wikipedia.org/wiki/%E7%B3%96%E6%9B%BF%E4%BB%A3%E5%93%81
 
 .. list-table::
@@ -483,13 +483,13 @@
      - 然而，\ `《大品》.六.27`_\ 對糖的使用有特殊規定。如果生病了，可以在七天內的任何時間「照原樣」服用；如果沒有，那麼第一天中午之後，只有與水混合後才可以服用。
 
 .. _Mv.VI.40.3: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.40.3
-.. _《大品》.六.40.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0329a02
+.. _《大品》.六.40.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0329a02
 .. _Pc 37: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc37
 .. _38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
 .. _《波逸提》三七: {filename}Section0019%zh-hant.rst#Pc37
 .. _三八: {filename}Section0019%zh-hant.rst#Pc38
 .. _Mv.VI.27: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.27
-.. _《大品》.六.27: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0298a14
+.. _《大品》.六.27: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0298a14
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -567,7 +567,7 @@
 
    * - On the practical side, if the exemption *abandons it* covers cases where a bhikkhu may give up the tonic to anyone at all and then receive it in return to use for another seven days, bhikkhus could spend their time trading hoards of tonics among themselves indefinitely, and the rule would become meaningless. But as the origin story shows, it was precisely to prevent them from amassing such hoards that the rule was formulated in the first place.
 
-     - 從實際角度來看，如果\ *放棄它*\ 的豁免涵蓋了比丘可以將補品給予任何人，然後再收到補藥以供使用七天的情況，比丘們可以無限期地花時間在他們之間交易補品，那麼本戒條就變得毫無意義了。但正如\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0354a14>`__\ 所示，最初制定本戒條正是為了防止他們累積如此多的東西。
+     - 從實際角度來看，如果\ *放棄它*\ 的豁免涵蓋了比丘可以將補品給予任何人，然後再收到補藥以供使用七天的情況，比丘們可以無限期地花時間在他們之間交易補品，那麼本戒條就變得毫無意義了。但正如\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0354a14>`__\ 所示，最初制定本戒條正是為了防止他們累積如此多的東西。
 
    * - .. container:: mx-2
 
@@ -694,8 +694,8 @@
 
 .. _Mv.VIII.15.1-7: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts15_1
 .. _Mv.VIII.20.2: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.20.2
-.. _《大品》.八.15.1-7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0377a13
-.. _《大品》.八.20.2: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_008#0385a04
+.. _《大品》.八.15.1-7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0377a13
+.. _《大品》.八.20.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0385a04
 .. _NP 10: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP10
 .. _《捨墮》十: {filename}Section0013%zh-hant.rst#NP10
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
@@ -810,7 +810,7 @@
 
      - .. container:: mx-2
 
-          「\ `爾時 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0360a11>`__\ ，釋迦族的優波難陀尊者對其兄弟的學生說：『朋友，走吧，我們去遊行諸方吧。』
+          「\ `爾時 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0360a11>`__\ ，釋迦族的優波難陀尊者對其兄弟的學生說：『朋友，走吧，我們去遊行諸方吧。』
 
    * - .. container:: mx-2
 
@@ -977,7 +977,7 @@
      - 比丘向他人乞求的、可用於製作袈裟布料的六種允許類型的線或紗。因為《分別經》的不犯條款豁免了「縫製袈裟」，所以《義註》顯然正確地指出，要滿足這一因素，線或紗必須是為了製作袈裟布而乞求的。而且，由於不犯條款還規定「來自親戚或已經邀請詢問者」，因此《義註》似乎正確地指出，向這兩類人乞求線不會滿足這一因素。但是，沒有任何文獻明確規定對請求不屬於豁免範圍的線進行懲罰。也許，根據針對不當行為包含所有的戒條（\ `《小品》.五.36`_\ ），這將犯《突吉羅》。
 
 .. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
-.. _《小品》.五.36: https://tripitaka.cbeta.org/mobile/index.php?index=N04n0002_015#0190a11
+.. _《小品》.五.36: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0190a11
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -1135,7 +1135,7 @@
 
    * - The origin story here starts like the origin story for `NP 8`_—a donor plans to clothe Ven. Upananda with a robe—but it contains two differences: Ven. Upananda interferes in the process of making the robe while it is still cloth being woven; and he addresses his stipulations, not to the donors, but to the weavers. The Buddha could have used this occasion as a chance to expand that rule, but he didn’t—perhaps because the change in details required new definitions for the factors of effort and object. Under `NP 8`_, “object” is fulfilled only by a finished robe; here, it is fulfilled simply by the cloth made by the weavers, whether sewn into a finished robe or not.
 
-     - 這裡的\ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0364a14>`_ 與\ `《捨墮》八`_\ 的起源故事一樣——一位施主計劃為優波難陀尊者提供袈裟——但它有兩個不同之處：當袈裟還是一塊正在編織的布時，優波難陀尊者就介入了袈裟的製作過程；他不是針對施主，而是針對織匠說出的自己明確的要求。佛陀本可以利用這次機會來擴展本戒條，但他沒有這樣做——也許是因為細節的改變需要對努力和對象因素有新的定義。根據\ `《捨墮》八`_\ ，「對象」僅由一件完成的袈裟來滿足；在這裡，它僅透過織匠製作的布料來實現，無論是否縫製成成品袈裟。
+     - 這裡的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0364a14>`_ 與\ `《捨墮》八`_\ 的起源故事一樣——一位施主計劃為優波難陀尊者提供袈裟——但它有兩個不同之處：當袈裟還是一塊正在編織的布時，優波難陀尊者就介入了袈裟的製作過程；他不是針對施主，而是針對織匠說出的自己明確的要求。佛陀本可以利用這次機會來擴展本戒條，但他沒有這樣做——也許是因為細節的改變需要對努力和對象因素有新的定義。根據\ `《捨墮》八`_\ ，「對象」僅由一件完成的袈裟來滿足；在這裡，它僅透過織匠製作的布料來實現，無論是否縫製成成品袈裟。
 
    * - The factors for an offense here are three.
      - 此處構成犯戒的因素有三。
@@ -1335,7 +1335,7 @@
 
    * - The Vibhaṅga explains the phrase, “after having observed the Kattika full moon,” as meaning that, having completed the first Rains-residence, one is now in the fourth month of the rainy season. As we noted under `NP 2`_, that rule—unlike `NP 1`_ & 3_\—is not automatically rescinded during this month. However, the origin story to this rule indicates that this period was a dangerous time for bhikkhus living in wilderness areas, as thieves were active—perhaps because they knew that bhikkhus had just received new requisites, or simply because now that roads had become passable it was time to get back to their work. This rule was thus formulated to provide a bhikkhu living in a dangerous wilderness area with a safe place to keep a robe away from his lodging as long as certain conditions are met. The Commentary notes that this rule would be of special use to bhikkhus who have completed their robes, ended their kaṭhina privileges, and so want to settle down in the wilderness to meditate. If it so happens that a bhikkhu’s kaṭhina privileges are still in effect, he has no need for the allowance under this rule because `NP 2`_ is automatically rescinded as part of those privileges, which means that he can keep his robes in a safe place away from his lodging as long as he wants.
 
-     - 《經分別》解釋道，「在奉行咖底咖月滿月之後」這句話的意思是，已經完成前雨安居，現在正處於雨季的第四個月。正如我們在\ `《捨墮》二`_\ 中提到的，與\ `《捨墮》一`_\ 和\ `三`_\ 不同，該戒條不會在此月自動失效。然而，\ `本戒條的起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0372a08>`_\ 表明，對於生活在荒野地區的比丘來說，這個時期是一段危險的時期，因為小偷很活躍——也許是因為他們知道比丘剛剛收到新的必需品，或者只是因為現在道路已經可以通行，是時候回去工作了。制定本戒條的目的是，只要滿足某些條件，為生活在危險荒野地區的比丘提供一個遠離他的住處的安全地方存放袈裟。《義註》指出這條戒條對那些已完成袈裟、結束功德衣方便利益，並因此想要在荒野定居禪修的比丘特別有用。如果比丘的功德衣方便利益仍然有效，那麼他就不需要根據本戒條獲得開緣，因為\ `《捨墮》二`_\ 作為這些方便利益的一部分已自動失效，這意味著只要他願意，他可以將他的袈裟放在遠離他的住所的安全地方。
+     - 《經分別》解釋道，「在奉行咖底咖月滿月之後」這句話的意思是，已經完成前雨安居，現在正處於雨季的第四個月。正如我們在\ `《捨墮》二`_\ 中提到的，與\ `《捨墮》一`_\ 和\ `三`_\ 不同，該戒條不會在此月自動失效。然而，\ `本戒條的起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0372a08>`_\ 表明，對於生活在荒野地區的比丘來說，這個時期是一段危險的時期，因為小偷很活躍——也許是因為他們知道比丘剛剛收到新的必需品，或者只是因為現在道路已經可以通行，是時候回去工作了。制定本戒條的目的是，只要滿足某些條件，為生活在危險荒野地區的比丘提供一個遠離他的住處的安全地方存放袈裟。《義註》指出這條戒條對那些已完成袈裟、結束功德衣方便利益，並因此想要在荒野定居禪修的比丘特別有用。如果比丘的功德衣方便利益仍然有效，那麼他就不需要根據本戒條獲得開緣，因為\ `《捨墮》二`_\ 作為這些方便利益的一部分已自動失效，這意味著只要他願意，他可以將他的袈裟放在遠離他的住所的安全地方。
 
    * - The Commentary defines the situation covered by this rule in terms of four factors:
      - 《義註》從四個因素定義了本戒條所涵蓋的情況：
@@ -1415,7 +1415,7 @@
 
 .. _Mv.II.12.7: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#Mv.II.12.7
 .. _BMC2, Chapter 13: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
-.. _《大品》.二.12.7: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_002#0146a11
+.. _《大品》.二.12.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0146a11
 .. _《佛教比丘戒律 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十三章
 
@@ -1508,7 +1508,7 @@
      - 在\ `《增支部》3:58經`_\ 中，佛陀指出，如果阻止布施者將禮物贈予指定的人，那麼將製造三種障礙：一種是布施者的功德障礙，一種是受施者的利益障礙，一種是他自己的障礙。設置這些障礙的方法有很多種，其中之一就是說服布施者將布施對象改為其他人，而不是布施給原本打算接受者的人。這是兩條戒條之一（另一條是\ `《波逸提》八二`_\ ），旨在防止比丘製造此類障礙。
 
    * - The origin story here is this:
-     - \ `起源故事 <https://tripitaka.cbeta.org/mobile/index.php?index=N01n0001_004#0375a13>`__\ 如下：
+     - \ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0375a13>`__\ 如下：
 
    * - .. container:: mx-2
 
