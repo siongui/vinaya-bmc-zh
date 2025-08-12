@@ -341,7 +341,7 @@
      - 《義註》接下來提出的問題是：「為什麼在最後一種情況下省略了『當天』\ *（tadahu）*\ 這個詞？」答案是，沒有限制何時接受藥物以便將其與今天接受的補品適當地混合。換句話說，它可以是在接受補品之前的任何天接受的。如果它在補品的有效期的第一天與補品混合，則混合物作為一個整體擁有七天的有效期。如果在補品有效期的第二天與補品混合，則混合物擁有六天的有效期，依此類推。《義註》對這段話的翻譯可能不符合標準巴利句法，但在語法上是正確的，並且是從\ `《大品》.六.40.3`_ 中得出涵蓋比丘分開接受然後混合食物問題的一般原則的唯一方法。因此，普遍接受的原則是：今天接受的補品和藥物（例如糖和鹽）可以與今天收到的食物或果汁飲料混合食用，但不能與之後的日期裡接受的食物或果汁飲料混合食用。任何時間接受的藥物（例如鹽、茶或可可）都可以與五種補品中的任何一種在補品有效期內的任何一天混合食用。
 
 .. _Mv.VI.40.3: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.40.3
-.. _《大品》.六.40.3: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_006#0329a02
+.. _《大品》.六.40.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0329a02
 .. _Pc 38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
 .. _《波逸提》三八: #Pc38
 
@@ -1725,7 +1725,7 @@
           3）在有在家和沙彌侍者的寺院裡，務必讓他們充分了解，確保比丘們用餐後剩餘物不會在日後再次提供給比丘們。如果施主帶著一大鍋食物前來，打算分幾天吃完，可以將比丘們一天的食量放在一個單獨的容器裡供養給他們，剩餘的食物則存放在合適的地方以備日後使用。
 
 .. _Mv.I.25.9: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.25.8-24
-.. _《大品》.一.25.9: https://tripitaka.cbeta.org/mobile/index.php?index=N03n0002_001#0063a02
+.. _《大品》.一.25.9: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0063a02
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
