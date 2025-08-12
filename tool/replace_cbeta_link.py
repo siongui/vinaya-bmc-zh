@@ -1,23 +1,30 @@
 import os
 import re
 
-# Regex pattern for CBETA mobile URLs
-CBETA_PATTERN = re.compile(
-    r'https://tripitaka\.cbeta\.org/mobile/index\.php\?index=(N.*[A-Za-z0-9])'
-)
+
+def transform_url(text) -> str:
+    # Regex pattern for CBETA mobile URLs
+    CBETA_PATTERN = re.compile(
+        r'https://tripitaka\.cbeta\.org/mobile/index\.php\?index=(N[A-Za-z0-9_]*)'
+    )
+
+    replacement = r'https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/\1/'
+
+    return re.sub(CBETA_PATTERN, replacement, text)
 
 
 def process_file(file_path: str):
-    try:
-        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
-            for i, line in enumerate(f, 1):
-                matches = CBETA_PATTERN.findall(line)
-                if matches:
-                    full_matches = CBETA_PATTERN.finditer(line)
-                    for match in full_matches:
-                        print(f"{file_path} (line {i}): {match.group()}")
-    except Exception as e:
-        print(f"Error reading {file_path}: {e}")
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    new_content = transform_url(content)
+
+    if content != new_content:
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(new_content)
+        print(f"Updated: {file_path}")
+    else:
+        print(f"No change: {file_path}")
 
 
 def find_cbeta_links(directory, file_extension=None):
