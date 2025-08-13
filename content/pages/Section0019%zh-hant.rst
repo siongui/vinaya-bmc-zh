@@ -1757,10 +1757,29 @@
 
      - 然而，\ `《大品》.六.33.2`_ 規定，食物只能在寺院內指定為該目的室內儲存（這包括任何非比丘的住所－參見\ `《佛教比丘戒律 第二冊》第七章`_\ ）。食用在寺院其他地方室內儲存的食物，即使之前的日子未經正式接受，根據\ `《大品》.六.33.2`_ 會犯《突吉羅》。然而，比丘可以在寺院的任何地方儲存藥物或五種補品，而不會受到懲罰。
 
+   * - If a bhikkhu accepts, sets aside, and then eats any of the four kinds of edibles all within their permitted time periods—e.g., he receives bread in the morning, sets it aside, and then eats it before that noon; or receives honey today, sets it aside, and takes it as a tonic tomorrow—there is no offense.
+
+     - 如果比丘在允許的時間內接受、放在一旁，然後吃四種可食用物中的任何一種—例如，他在早上接受麵包，將其放在一旁，然後在中午之前吃掉它；或者今天收到蜂蜜，將其放在一旁，並在明天將其作為補品服用—則沒有犯戒。
+
+   * - This rule makes no exceptions for a bhikkhu who is ill. The Buddha once suspended it during famine but then later reinstated it in such a way that there is no provision for suspending it ever again (`Mv.VI.17-20`_.
+
+     - 本戒條即使比丘生病也不例外。佛陀曾在饑荒時期暫停了本戒條，但後來又恢復了本戒條，並且規定以後不再暫停（\ `《大品》.六.17-20`_ ）。
+
+   * - *Summary: Eating food that a bhikkhu—oneself or another—formally received on a previous day is a pācittiya offense.*
+     - *摘要：吃比丘（自己或他人）日前正式接受的食物，是《波逸提》（《單墮》）罪。*
+
 .. _Mv.VI.33.2: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#Mv.VI.33.2
 .. _BMC2, Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
 .. _《大品》.六.33.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0314a08
 .. _《佛教比丘戒律 第二冊》第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第七章
+.. _Mv.VI.17-20: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.17.3-5
+.. _《大品》.六.17-20: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0280a07
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
