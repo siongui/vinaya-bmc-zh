@@ -204,8 +204,7 @@
 .. _Pc 39: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc39
 .. _NP 23: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
 .. _《大品》.六.34.21: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0321a02
-.. _《波逸提》三九: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc39
-.. TODO FIXME: replace link to 《波逸提》三九
+.. _《波逸提》三九: #Pc39
 .. _《捨墮》二三: {filename}Section0015%zh-hant.rst#NP23
 .. _第二次結集: https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BB%93%E9%9B%86
 .. _十個爭議點: https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8B
@@ -1781,5 +1780,29 @@
 
    \*    \*    \*
 
+
+.. _Pc39:
+
+.. raw:: html
+
+   <span id="Pc39"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **39**
+     - **三十九**
+
+   * - .. container:: notification
+
+          *There are these finer staple foods: ghee, fresh butter, oil, honey, sugar/molasses, fish, meat, milk, and curds. Should any bhikkhu who is not ill, having requested finer staple foods such as these for his own sake, then consume them, it is to be confessed.*
+
+     - .. container:: notification
+
+          *有以下較精緻的主食：酥油、鮮奶油、油、蜂蜜、糖/糖蜜、魚、肉、牛奶和凝乳。任何無病的比丘，為自己乞求這些較精緻的主食並食用，波逸提。*
+
+   * - There are three factors for an offense here: object, effort, and result.
+     - 這裡的犯戒構成因素有三個：對象、努力、結果。
 
 (未完待續)
