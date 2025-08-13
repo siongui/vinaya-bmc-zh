@@ -1742,4 +1742,25 @@
 
      - 奇怪的是，光是把果汁當果汁喝，比把它當食物喝，懲罰更重。由於《聖典》中沒有任何證據支持《義註》的斷言，因此似乎沒有理由採納它。\ `《大品》.六.40.3`_ 明確規定，無論出於何種原因，果汁飲料都可以在被接受當天的任何時間飲用，但第二天黎明之後則不行。第二天飲用果汁並沒有具體的懲罰，但根據這條戒條的《經分別》推斷，我們可以用《四大教示》來說該懲罰是《突吉羅》。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in the mere act of storing food. A bhikkhu going on a journey with an unordained person may thus carry the latter’s food—while the latter carries the bhikkhu’s food—without committing an offense.
+
+     - 僅僅儲存食物本身並不犯戒。一位比丘與一位未受具足戒者同行，因此可以攜帶後者的食物，而後者也攜帶比丘的食物，這並不構成犯戒。
+
+   * - There is also no offense in telling an unordained person to store food that has not been formally received. For example, if donors simply leave food at a bhikkhu’s residence without formally presenting it, the bhikkhu may tell a novice or lay person to take it and put it away for a later day. If the food is then presented to the bhikkhu on a later day, he may eat it that day without penalty.
+
+     - 告訴未受具足戒者儲存未被正式接受的食物也不構成犯戒。例如，如果布施者只是將食物留在比丘的住處而未正式呈上，比丘可以指示沙彌或在家眾將食物取走並存放起來，留待日後享用。如果日後有人將食物呈上給比丘，比丘當天可以享用，而不受任何處罰。
+
+   * - However, `Mv.VI.33.2`_ states that food may be stored indoors in a monastery only in a building designated for the purpose (this would include the dwelling of anyone who is not a bhikkhu—see `BMC2, Chapter 7`_). To eat food stored indoors anywhere else in the monastery, even if it has not been formally accepted on a previous day, would incur a dukkaṭa under `Mv.VI.32.2`_. A bhikkhu may, however, store medicines or the five tonics anywhere in the monastery without penalty.
+
+     - 然而，\ `《大品》.六.33.2`_ 規定，食物只能在寺院內指定為該目的室內儲存（這包括任何非比丘的住所－參見\ `《佛教比丘戒律 第二冊》第七章`_\ ）。食用在寺院其他地方室內儲存的食物，即使之前的日子未經正式接受，根據\ `《大品》.六.33.2`_ 會犯《突吉羅》。然而，比丘可以在寺院的任何地方儲存藥物或五種補品，而不會受到懲罰。
+
+.. _Mv.VI.33.2: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#Mv.VI.33.2
+.. _BMC2, Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
+.. _《大品》.六.33.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0314a08
+.. _《佛教比丘戒律 第二冊》第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第七章
+
 (未完待續)
