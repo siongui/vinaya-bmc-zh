@@ -1820,4 +1820,19 @@
 
      - 較精緻的主食中前五種在\ `《捨墮》二三`_\ 中詳細討論。\ *魚*\ 和\ *肉*\ 在本章的前言中討論。這裡的\ *奶和凝乳*\ 指的是那些允許食用其肉的動物的奶和凝乳。在討論這一點時，《複註》認為虎奶、熊奶等並非不允許食用，只是它們不受本戒條約束。這是一個有趣的想法，但包含進來可能只是為了喚醒教室後面昏昏欲睡的學生。
 
+   * - According to the Commentary, any food other than these nine finer staple foods is grounds for a dukkaṭa under `Sk 37`_.
+     - 根據《義註》，這九種較精緻的主食之外的任何食物都構成\ `《應學》三七`_\ 之下的《突吉羅》。
+
+   * - None of the texts mention the issue, but this rule apparently refers only to finer staple foods that have been offered in response to one’s request—either from the person to whom the request was directed or from another person who has learned of the request. If one has made a request for any of these foods but then receives the food from someone who knows nothing of the request, that food would apparently not fulfill this factor of the offense.
+
+     - 任何文獻均未提及此事，但這條戒條似乎僅指應自己請求而提供的較精緻的主食——無論是來自被請求者本人，還是來自知曉該請求的其他人。如果請求了這些食物，卻從對請求毫不知情的人那裡得到了食物，那麼這些食物顯然不滿足構成犯戒的此因素。
+
+   * - Another issue not discussed in any of the texts is what to do if the people who received the request or knew of it continue to offer food of the sort requested. Is one forbidden for life from ever accepting that sort of food from them again? One suggestion for resolving this issue would be to borrow a page from the Commentary’s treatment of a revoked banishment-transaction (see `Sg 13`_). This would mean that if—after the original offering of food—those who know of the request continue offering that sort of food, one must tell them that one may not accept the food because of the penalty it would entail. If, without further prompting, they say that they are offering the food not because of the request but because of their own independent desire to offer it, one may accept it and consume it.
+
+     - 另一個在任何文獻中都沒有討論的問題是，如果收到請求或知曉請求的人繼續提供所請求的該種食物，該怎麼辦？是否終身禁止再次接受他們提供的該種食物？解決這個問題的一個建議是藉用《義註》中關於撤銷驅出羯磨的處理（見\ `《僧殘》十三`_\ ）。這意味著，如果在最初提供食物之後，那些知曉請求的人繼續提供該種食物，必須告訴他們，由於可能帶來的懲罰，因此不能接受食物。如果他們無需進一步提示就說他們提供食物不是因為請求，而是出於他們自己的意願，那麼可以接受並食用。
+
+.. _Sk 37: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk37
+.. _《應學》三七: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk37
+.. TODO FIXME: replace link to 《應學》三七
+
 (未完待續)
