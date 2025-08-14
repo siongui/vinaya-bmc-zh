@@ -1800,9 +1800,24 @@
 
      - .. container:: notification
 
-          *有以下較精緻的主食：酥油、鮮奶油、油、蜂蜜、糖/糖蜜、魚、肉、牛奶和凝乳。任何無病的比丘，為自己乞求這些較精緻的主食並食用，波逸提。*
+          *有以下較精緻的主食：酥油、鮮奶油、油、蜂蜜、糖/糖蜜、魚、肉、奶和凝乳。任何無病的比丘，為自己乞求這些較精緻的主食並食用，波逸提。*
 
    * - There are three factors for an offense here: object, effort, and result.
      - 這裡的犯戒構成因素有三個：對象、努力、結果。
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga defines *finer staple foods* as any of the nine foods mentioned in the rule, either on their own or mixed with other foods. Thus milk and milk-mixed-with-cereal would both be finer staple foods. The ancient commentators, though, must have objected to including some of these items under the category of staple food *(bhojana)*, so we have the Commentary defining “finer staple foods” as any of the substances mentioned in the rule mixed with any one of the seven types of grain. Thus, it would say, milk with cereal would be a finer staple food, but milk on its own would not.
+
+     - 《經分別》將「\ *較精緻的主食*\ 」定義為\ `戒條中提到的九種食物 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0118a08>`_\ ，單獨食用或與其他食物混合食用均是。因此，牛奶和牛奶與穀物混合食用都是為較精緻的主食。然而，古代註釋家肯定反對將其中一些食物歸入主食\ *（bhojana）*\ 的範疇，因此《義註》將「較精緻的主食」定義為戒條中提到的任何物質與七種穀物中的一種混合。因此，它認為牛奶與穀物混合是較精緻的主食，而牛奶本身則不是。
+
+   * - As we have seen, though, the Vibhaṅga defines its terms to fit the situation covered by each particular rule and is not always consistent from one rule to another. Thus, as the Vibhaṅga is not at fault for being inconsistent here, there is no reason to follow the Commentary in deviating from it. The rule means what it says: It covers each of the foods mentioned in it, whether pure or mixed with other ingredients.
+
+     - 然而，正如我們所見，《經分別》的定義是根據每條特定戒條所涵蓋的情況，並且各戒條之間並不總是一致的。因此，既然《經分別》在此前後不一致並無過錯，也沒有理由遵循《義註》而偏離它。這條戒條的含義就在於它所言：它涵蓋了其中提到的每一種食物，無論是單獨還是與其他食材混合。
+
+   * - The first five of these finer staple foods are discussed in detail under `NP 23`_. *Fish* and *meat* are discussed in the preface to this chapter. *Milk and curds* here refers to milk and curds from animals whose flesh is allowable. The Sub-commentary, in discussing this point, maintains that tiger’s milk, bear’s milk, etc., are not unallowable, simply that they would not come under this rule. This is an interesting idea, but was included probably just to wake up sleepy students in the back of the room.
+
+     - 較精緻的主食中前五種在\ `《捨墮》二三`_\ 中詳細討論。\ *魚*\ 和\ *肉*\ 在本章的前言中討論。這裡的\ *奶和凝乳*\ 指的是那些允許食用其肉的動物的奶和凝乳。在討論這一點時，《複註》認為虎奶、熊奶等並非不允許食用，只是它們不受本戒條約束。這是一個有趣的想法，但包含進來可能只是為了喚醒教室後面昏昏欲睡的學生。
 
 (未完待續)
