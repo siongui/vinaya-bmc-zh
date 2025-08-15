@@ -1835,4 +1835,26 @@
 .. _《應學》三七: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk37
 .. TODO FIXME: replace link to 《應學》三七
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort & Result**
+     - **努力及結果**
+
+   * - A bhikkhu who is not ill, requesting any of the finer staple foods for his own use, incurs a dukkaṭa for every request he makes, a dukkaṭa for accepting the food with the intention of eating it, and a pācittiya for every mouthful he eats.
+
+     - 一位無病的比丘，為自己使用請求任何較精細的主食，他每次請求都會招致一次《突吉羅》，以吃它的意圖接受食物也會招致《突吉羅》，他吃的每一口都會招致一次《波逸提》。
+
+   * - *Not ill* means that one is able to fare comfortably without these foods. None of the texts go into detail on this point, but *ill* probably means something more than simply being hungry, for there is a separate allowance under `Sk 37`_ for a bhikkhu who is hungry to ask for rice and bean curry, which was the basic diet of the day, and the Commentary extends the allowance to cover all foods not covered by this rule. Here *ill* probably refers to any form of fatigue, weakness, or malnutrition that comes specifically from lacking any of the foods mentioned in the rule.
+
+     - 「無病」指的是即使沒有這些食物也能過得舒服。所有文獻都沒有詳細闡述這一點，但「\ *生病*\ 」的含義可能遠不止飢餓，因為\ `《應學》三七`_\ 中有一項單獨的開緣，飢餓的比丘可以要求米飯和豆咖哩，這是當時的基本飲食。《義註》也將此開緣擴及所有未包含在這條戒條中的食物。這裡的「\ *生病*\ 」可能指的是任何形式的疲勞、虛弱或營養不良，具體來說，是由於缺乏該戒條中提到的任何食物而引起的。
+
+   * - Perception as to whether one is actually ill is not a mitigating factor here (see `Pc 4`_).
+     - 對於是否真的生病的感知並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - The Commentary adds that if a bhikkhu asks for one kind of finer staple food but receives another kind instead, he incurs the dukkaṭa for asking, but no penalty for accepting and eating what he gets. It also notes that when a bhikkhu asks a lay person for any of the finer staple foods, and the lay person makes a donation of money to the bhikkhu’s steward to buy that food, then once the food is bought it comes under this rule all the same.
+
+     - 《義註》補充道，如果比丘請求一種較精緻的主食，卻收到另一種，他會因請求而犯《突吉羅》，但接受並食用他所得到的食物則不會受到懲罰。《義註》還指出，如果比丘向居士請求任何較精緻的主食，而居士向比丘的淨人布施金錢以購買該食物，那麼一旦食物被購買，也同樣適用此戒條。
+
 (未完待續)
