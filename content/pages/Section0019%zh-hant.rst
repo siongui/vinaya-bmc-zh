@@ -1857,4 +1857,58 @@
 
      - 《義註》補充道，如果比丘請求一種較精緻的主食，卻收到另一種，他會因請求而犯《突吉羅》，但接受並食用他所得到的食物則不會受到懲罰。《義註》還指出，如果比丘向居士請求任何較精緻的主食，而居士向比丘的淨人布施金錢以購買該食物，那麼一旦食物被購買，也同樣適用此戒條。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense:
+     - 不犯戒：
+
+   * - .. container:: mx-2
+
+          in asking for food—any kind of food—when one is ill, and then eating it, even if one has recovered in the meantime (§);
+
+     - .. container:: mx-2
+
+          當生病時，要求食物－任何種類的食物－然後吃掉它，即使在此同時已經康復（§）；
+
+   * - .. container:: mx-2
+
+          in eating food that has been requested for the sake of an ill bhikkhu and is leftover after his meal;
+
+     - .. container:: mx-2
+
+          吃為生病的比丘請求的食物，並且是他用餐後剩下的食物；
+
+   * - .. container:: mx-2
+
+          in asking from relatives;
+
+     - .. container:: mx-2
+
+          從親戚要求；
+
+   * - .. container:: mx-2
+
+          in asking from those who have offered an invitation to ask;
+
+     - .. container:: mx-2
+
+          從那些提供要求邀請的人要求；
+
+   * - .. container:: mx-2
+
+          in asking for the sake of another person; or
+
+     - .. container:: mx-2
+
+          為他人要求；或
+
+   * - .. container:: mx-2
+
+          in asking that food be bought with one’s own resources.
+
+     - .. container:: mx-2
+
+          用自己的資源要求購買的食物。
+
 (未完待續)
