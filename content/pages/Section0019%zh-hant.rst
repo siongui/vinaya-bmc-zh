@@ -180,8 +180,7 @@
 .. _Pc 35-38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
 .. _《波逸提》三五至三八: #Pc35
 .. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
-.. _《波逸提》四十: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
-.. TODO FIXME: replace link to 《波逸提》四十
+.. _《波逸提》四十: #Pc40
 .. _Pc 41: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc41
 .. _Pc 44: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part5
 .. _54: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part6
@@ -197,8 +196,7 @@
 .. _三五: #Pc35
 .. _Mv.VI.25.7: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.25.7
 .. _40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
-.. _四十: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
-.. TODO FIXME: replace link to 《波逸提》四十
+.. _四十: #Pc40
 .. _《大品》.六.25.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0295a14
 .. _Mv.VI.34.21: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.34.21
 .. _Pc 39: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc39
@@ -1927,5 +1925,37 @@
 
    \*    \*    \*
 
+
+.. _Pc40:
+
+.. raw:: html
+
+   <span id="Pc40"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **40**
+     - **四十**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu take into his mouth an edible that has not been given—except for water and tooth-cleaning sticks (§)—it is to be confessed.*
+
+     - .. container:: notification
+
+          *若任何比丘將未給予的可食用物放入口中 —— 除了水和齒木（§） —— 波逸提。*
+
+   * - .. container:: mx-2
+
+          “Now at that time a certain bhikkhu, living entirely off of what was thrown away (§), was staying in a cemetery. Not wanting to receive gifts from people, he himself took the offerings for dead ancestors—left in cemeteries, under trees, and on thresholds—and ate them. People criticized and complained and spread it about, ‘How can this bhikkhu himself take our offerings for our dead ancestors and eat them? He’s robust, this bhikkhu. He’s strong. Perhaps he feeds on human flesh.’”
+
+     - .. container:: mx-2
+
+          「\ `爾時，有一位比丘，完全靠丟棄物（§）生活，住在墓地裡。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0119a13>`_\ 他不願接受人們的布施，他自己拿走死去祖先的供品——無論是留在墓地裡、樹下還是門檻上——並吃掉它們。人們批評、抱怨，並四處散播此事：『這位比丘他自己怎麼能拿走我們死去祖先的供品並吃掉它們？這位比丘，他身體強健。他力氣很大。或許他吃人肉。』」
+
+   * - There are two factors for the full offense here: object and effort.
+     - 這裡的完整違犯有兩個因素：對象和努力。
 
 (未完待續)

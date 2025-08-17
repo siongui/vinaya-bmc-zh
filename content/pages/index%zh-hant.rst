@@ -430,7 +430,7 @@
      - `\　　　三十九 <{filename}Section0019%zh-hant.rst#Pc39>`__
 
    * - `\　　　40 <https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40>`__
-     - 　　　四十
+     - `\　　　四十 <{filename}Section0019%zh-hant.rst#Pc40>`__
 
    * - `\　　Five: The Naked Ascetic Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0020.html>`__
      - 　　第五 裸行者品
