@@ -1911,4 +1911,21 @@
 
           用自己的資源要求購買的食物。
 
+   * - Also, according to the Meṇḍaka Allowance (`Mv.VI.34.21`_), a bhikkhu going on a journey through a wilderness area where almsfood is difficult to obtain may search for provisions of husked rice, kidney beans, green gram (mung beans), salt, sugar, oil, and ghee for the journey. The Commentary says, though, that he should first wait for spontaneous offerings of these provisions from people who learn of his plans for the journey. If these aren’t forthcoming, he should ask from his relatives or from those who have given him an invitation to ask. Or he may see what he gets on his alms round. (This last alternative apparently applies to the salt, sugar, oil, and ghee; people ordinarily would not be giving uncooked rice, beans, or green gram for alms.) Only when these avenues fail should he ask from people who are unrelated to him and have not given an invitation to ask. Furthermore, he should ask for no more than the journey will require.
+
+     - 此外，根據 Meṇḍaka 開緣（\ `《大品》.六.34.21`_\ ），比丘在穿越難以取得缽食的林野地區的旅程時，可以尋找糙米、腰豆、綠豆、鹽、糖、油和酥油等食物供應旅程。然而，《義註》指出，他應該先等待知曉其行程計畫的人自發性供養這些食物。如果沒有得到，他應該向親戚或給予他要求邀請的人要求。或者，他可以看看托缽所得。（最後一種選擇顯然適用於鹽、糖、油和酥油；人們通常不會在托缽時給予生米、豆子或綠豆。）只有當這些途徑都失敗時，他才應該向與他無關且未給予他要求邀請的人要求。此外，他所要求的食物不應超過旅程所需。
+
+   * - None of the texts mention any permission for the bhikkhu, after he has searched for the provisions, to store them longer than usual or to cook them in any way. Apparently, they expect him to arrange for an unordained person—or people—to accept the provisions and be responsible for their storage and preparation while on the road.
+
+     - 任何文獻都沒有提及允許比丘在尋找食物後，將其存放比通常更長的時間，或以任何方式烹調。顯然，他們希望比丘安排一位或多位未受具足戒者接受食物供應，並負責旅途中的儲存和準備。
+
+   * - *Summary: Eating finer staple foods, after having asked for them for one’s own sake—except when ill—is a pācittiya offense.*
+     - *摘要：為自己要求更精緻的主食並食用之（除非生病），是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
