@@ -1958,4 +1958,34 @@
    * - There are two factors for the full offense here: object and effort.
      - 這裡的完整違犯有兩個因素：對象和努力。
 
+   * - **Object**
+     - **對象**
+
+   * - An *edible* is whatever is fit to eat, and includes all four classes of food and medicine: staple and non-staple foods, juice drinks, the five tonics, and medicine. As the rule notes, however, there are two exceptions:
+
+     - 凡是適合食用的，都屬於\ *可食用物*\ ，包括四類食物和藥物：主食、副食、果汁飲料、五大補品和藥物。然而，正如戒條所述，有兩個例外：
+
+   * - .. container:: mx-2
+
+          *1) Water*, according to the Commentary, includes ice, hailstones, and snow as well. Whether such things as boiled water, bottled water, and man-made ice should also come under this exception is a controversial point. Because the texts offer no specific guidance here, this is an area where the wise policy is to follow the dictates of one’s Community.
+
+     - .. container:: mx-2
+
+          *1）水*\ ，根據《義註》，也包括冰、冰雹和雪。白開水、瓶裝水和人造冰是否也應屬於此例外，這是一個有爭議的問題。由於文獻中沒有提供具體的指導，因此明智的做法是遵循各自僧團的規定。
+
+   * - .. container:: mx-2
+
+          *2) Tooth-cleaning sticks*, as used in the time of the Buddha, were semi-edible. They were sticks of soft wood, like balsam, cut four to eight fingerbreadths long, chewed until they were reduced to fiber and spat out. People in India still use tooth-cleaning sticks of this sort even today.
+
+     - .. container:: mx-2
+
+          *2）齒木*\ ，佛陀時代使用時是半可食用的。它們是由類似香脂的軟木棒製成，切成四到八指寬，咀嚼至纖維化後吐出。印度人至今仍在使用這種齒木。
+
+   * - Here again there is a controversy as to whether toothpaste comes under this exception as well. On the one hand it fits in with the pattern for tooth-cleaning sticks—it is semi-edible and not intended to be swallowed—but on the other hand it contains substances, such as mineral salts, that the Canon classes as medicines (`Mv.VI.8`_) and that are meant to have medicinal value for the teeth and gums. This second consideration would seem to override the first, as it is a question of following what is explicitly laid out in the Canon, rather than of applying the Great Standards. Thus the wise policy would seem to be to regard toothpaste as a medicine that has to be formally given before it can be used, and not as coming under this exception.
+
+     - 關於牙膏是否也屬於這一例外，也有爭議。一方面，它符合齒木的模式——半可食用，不打算吞嚥——但另一方面，它含有諸如礦物鹽之類的物質，而這些物質在《聖典》中被歸類為藥物（\ `《大品》.六.8`_ ），旨在對牙齒和牙齦具有藥用價值。第二種考慮似乎優先於第一種考慮，因為這是一個遵循《聖典》明確規定的問題，而不是應用《四大教示》的問題。因此，明智的做法似乎是將牙膏視為一種必須正式給予才能使用的藥物，而不將其納入這一例外。
+
+.. _Mv.VI.8: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.8
+.. _《大品》.六.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0270a07
+
 (未完待續)
