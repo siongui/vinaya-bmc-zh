@@ -1985,6 +1985,33 @@
 
      - 關於牙膏是否也屬於這一例外，也有爭議。一方面，它符合齒木的模式——半可食用，不打算吞嚥——但另一方面，它含有諸如礦物鹽之類的物質，而這些物質在《聖典》中被歸類為藥物（\ `《大品》.六.8`_ ），旨在對牙齒和牙齦具有藥用價值。第二種考慮似乎優先於第一種考慮，因為這是一個遵循《聖典》明確規定的問題，而不是應用《四大教示》的問題。因此，明智的做法似乎是將牙膏視為一種必須正式給予才能使用的藥物，而不將其納入這一例外。
 
+   * - *The act of giving* food and other edibles, as described in the Vibhaṅga, has three factors:
+     - 《經分別》中描述了食物和其他可食用物的\ *給予行為*\ 有三個因素：
+
+   * - .. container:: mx-2
+
+          1\) The donor (an unordained person) is standing within reach—one hatthapāsa, or 1.25 meters—of the bhikkhu.
+
+     - .. container:: mx-2
+
+          1）布施者（未受具足戒者）站在比丘伸手可及的範圍內—一個 hatthapāsa（1.25公尺）。
+
+   * - .. container:: mx-2
+
+          2\) He/she gives the item with the body (e.g., the hand), with something in contact with the body (e.g., a spoon), or by means of letting go. According to the Commentary, *letting go* means releasing from the body or something in contact with the body—e.g., dropping from the hand or a spoon—and refers to such cases as when a donor drops or tosses something into a bhikkhu’s bowl or hands without directly or indirectly making contact.
+
+     - .. container:: mx-2
+
+          2）他/她用身體（例如，手）、與身體接觸之物（例如，湯匙）或放下來給予。根據《義註》，「\ *放下*\ 」是指從身體或與身體接觸之物中釋放（例如，從手或湯匙上掉落），指的是這樣的情況：布施者將某物掉落或拋入比丘的缽或手中，而沒有直接或間接地接觸。
+
+   * - .. container:: mx-2
+
+          3\) The bhikkhu receives the item with the body or with something in contact with the body (e.g., his bowl, a piece of cloth).
+
+     - .. container:: mx-2
+
+          3）比丘用身體或與身體接觸之物（例如，他的缽，一塊布）來接受物品。
+
 .. _Mv.VI.8: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.8
 .. _《大品》.六.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0270a07
 
