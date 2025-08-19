@@ -2026,4 +2026,28 @@
 .. _《僧殘》二: {filename}Section0011%zh-hant.rst#Sg2
 .. _《小品》（五.26）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0178a07
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga states that a bhikkhu incurs a dukkaṭa if, with the intention of eating it, he takes food that hasn’t been properly given; and a pācittiya for every mouthful he eats. Perception as to whether the food has actually been formally given is not a mitigating factor here (see `Pc 4`_).
+
+     - 《經分別》規定，如果比丘以吃它的意圖而拿取未經適當給予的食物，則犯《突吉羅》；他每吃一口，犯一次《波逸提》。在此，食物是否真的已經被正式給予的感知並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - The Commentary asserts, however, that perception *would* be a mitigating factor in the act of taking food. In other words, the bhikkhu would not incur the dukkaṭa for taking the food if he perceived it as properly given even when in fact it wasn’t. This assertion has no basis in the Vibhaṅga to this rule, and cannot be based on the Great Standards because the Canon contains no example of a derived offense requiring the factor of perception under a rule where the full offense does not. Thus there seems no reason to follow the Commentary on this point.
+
+     - 然而，《義註》聲稱，感知\ *會*\ 是拿取食物行為裡的減輕懲罰因素。換句話說，如果比丘認為食物是適當地給予的，即使事實上並非如此，他也不會因拿取食物而犯《突吉羅》。這種說法在本戒條的《經分別》中沒有依據，也不能以《四大教示》為依據，因為《聖典》中沒有某一戒條的衍生違犯需要感知因素，但完全違犯卻不需要的例子。因此，在這一點上，似乎沒有理由遵循《義註》。
+
+   * - Once, during a famine, the Buddha allowed bhikkhus to pick up fallen fruit, take it to an unordained person, place it on the ground, and have it formally “given” without committing an offense. This allowance, however, was later rescinded in a way that left no possibility for its being invoked again (`Mv.VI.17.8-9`_; `Mv.VI.32`_). Thus a bhikkhu who—with the intention of eating it—picks up an edible he knows has not been given may not later make it allowable by formally “receiving” it from an unordained person. Whether other bhikkhus may receive it and make use of it, though, is a controversial point discussed in the Commentary in a treatise separate from its explanation of the Vibhaṅga (see below).
+
+     - 曾經，在飢荒期間，佛陀允許比丘們撿拾掉落的水果，帶給未受具足戒者，放在地上，並讓它被正式地「給予」，而不構成犯戒。然而，這項開緣後來被廢除，並且不再允許再次援引（\ `《大品》.六.17.8-9`_\ ；\ `《大品》.六.32`_\ ）。因此，如果比丘—以吃它的意圖—撿起他知道尚未給予的可食用物，則他之後不得透過從未受具足戒者那裡正式地「接受」而使其被允許。然而，其他比丘是否可以接受並使用它，這是一個有爭議的問題，在《義註》的另一篇專論中進行了討論，該專論與《經分別》的解釋不同（見下文）。
+
+.. _Mv.VI.17.8-9: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.17.7
+.. _Mv.VI.32: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.32.2
+.. _《大品》.六.17.8-9: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0282a05
+.. _《大品》.六.32: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0313a07
+
 (未完待續)
