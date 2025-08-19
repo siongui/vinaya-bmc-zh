@@ -2012,7 +2012,18 @@
 
           3）比丘用身體或與身體接觸之物（例如，他的缽，一塊布）來接受物品。
 
+   * - There is a tradition in Thailand that a bhikkhu should never receive an offering from a woman hand-to-hand. Either she must offer it with something in contact with her body (e.g., a tray) or the bhikkhu must accept it with something in contact with his: an alms bowl, a tray, a piece of cloth, etc. Apparently this tradition arose as a means of protecting a sexually aroused bhikkhu from committing an offense under `Sg 2`_, or from the embarrassment that might arise if, say, yesterday he was not aroused and so could take something straight from her hand, while today he is and so can’t. Many Thai eight-precept nuns, even though they don’t have any precepts corresponding to `Sg 2`_, follow a reciprocal tradition of not receiving anything hand-to-hand from a man. Neither of these traditions is mentioned in the Canon or the commentaries, nor are they observed by bhikkhus or ten-precept nuns in Burma or Sri Lanka.
+
+     - 泰國有一項傳統，比丘絕對不能接受女性直接手對手遞來的供養。若非她必須用接觸她的身體的東西（例如托盤）來供養，不然則是比丘必須用接觸他的身體的東西來接受供養：缽、托盤、一塊布等等。顯然，這條傳統的起源是為了保護性欲高漲的比丘，避免觸犯\ `《僧殘》二`_\ ，或者避免如果比丘昨天沒有性欲高漲，可以直接從她手中拿東西，而今天性欲高漲，就無法直接拿東西，從而產生尷尬。許多泰國八戒女，即使沒有與\ `《僧殘》二`_\ 相對應的戒律，也遵循同樣的傳統，不接受男性直接手對手遞來的任何東西。這兩種傳統都沒有在《聖典》或註釋書中提及，緬甸或斯里蘭卡的比丘或十戒女也沒有遵循它們。
+
+   * - A special allowance in the Cullavagga (V.26) states that if food accidentally falls while being offered, a bhikkhu may pick it up himself and eat it without committing an offense.
+
+     - `《小品》（五.26）`_\ 中有一項特殊的開緣，如果供養時食物不小心掉落，比丘可以自己撿起來吃，這並不構成犯戒。
+
 .. _Mv.VI.8: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.8
 .. _《大品》.六.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0270a07
+.. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
+.. _《僧殘》二: {filename}Section0011%zh-hant.rst#Sg2
+.. _《小品》（五.26）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0178a07
 
 (未完待續)
