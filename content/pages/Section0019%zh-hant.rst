@@ -2050,4 +2050,18 @@
 .. _《大品》.六.17.8-9: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0282a05
 .. _《大品》.六.32: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0313a07
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - `Mv.VI.14.6`_ allows a bhikkhu bitten by a snake to make an antidote of urine, excrement (burned in fire), ashes, and soil. If there is no unordained person present who can or will make these things allowable, the bhikkhu may take and prepare them himself, and then eat them without incurring a penalty under this rule. The Commentary adds that if he cuts a tree under these circumstances to burn it, or digs the earth to get soil, he is exempt from the rules dealing with those actions as well.
+
+     - `《大品》.六.14.6`_ 允許被蛇咬的比丘用尿液、糞便（火燒）、灰燼和泥土製作解毒劑。如果在場沒有未受具足戒者能夠或願意使這些東西變成允許的，比丘可以自行取用並準備，然後食用，而不會受到此戒條的懲罰。《義註》補充說，如果他在這些情況下砍樹焚燒，或挖土取土，他也豁免於針對這些行為的戒條。
+
+.. _Mv.VI.14.6: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.14.6
+.. _《大品》.六.14.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0275a01
+
 (未完待續)
