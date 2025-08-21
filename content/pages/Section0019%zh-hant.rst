@@ -2064,4 +2064,33 @@
 .. _Mv.VI.14.6: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.14.6
 .. _《大品》.六.14.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0275a01
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Controversial points from the Commentary**
+     - **《義註》中的爭議點**
+
+   * - As mentioned above, the Commentary’s discussion of this rule includes a treatise separate from its explanation of the Vibhaṅga, dealing with controversial points for which the Canon gives unclear answers or no answers at all. Because the treatise is a compilation of the opinions of various teachers and does not pretend to explain the meaning or intent of the Buddha’s words—and because the Buddha warned bhikkhus against making up their own rules (`NP 15.1.2`_)—the opinions expressed in the treatise are not necessarily normative. Many Communities do not accept them, or are selective in choosing what they do and do not accept. Here we will give a summary of some of the Commentary’s opinions that have influenced practices found in some, if not all, Communities of bhikkhus at present.
+
+     - 如上所述，《義註》對此戒條的討論包含一篇獨立於其對《經分別》解釋的專論，該專論處理了《聖典》中未給出明確答案或根本沒有答案的爭議點。由於專論匯集了各位導師的觀點，並未假裝解釋佛陀言說的意義或意圖—因為佛陀警告比丘們不要自行制定戒條（\ `《捨墮》一五.1.2`_\ ）—該專論中表達的觀點並非必然具有規範性。許多僧團並不接受這些觀點，或在接受和不接受方面有所選擇性。此處我們將總結《義註》中的一些觀點，這些觀點影響了部分（即便不是全部）當今比丘僧團的修行。
+
+   * - *1. Taking into the mouth*
+     - *1. 進入嘴中*
+
+   * - is defined as going down the throat. As we have already noted under `Pc 37`_, though, this definition has no justification in canonical usage. The Sub-commentary attempts to justify the Commentary’s stand here by defining “mouth” (*mukhadvāra*\—literally, the door of the face) as the larynx, i.e., the back door rather than the front door to the mouth, but again this is not supported by the Canon. `Sk 41`_\—“I will not open the door of the face when the mouthful has yet to be brought to it”—shows decisively that this term refers to the lips and not to the larynx. `MN 140`_ explicitly lists the mukhadvāra and the passage “whereby what is eaten, drunk, consumed, and tasted gets swallowed” as two separate parts of the internal space element in the body. *Taking into the mouth* thus means taking in through the lips.
+
+     - 被定義為進入喉嚨。然而，正如我們已經在\ `《波逸提》三七`_\ 中指出的，這個定義在經典用法中沒有依據。《複註》試圖透過將「嘴」（\ *mukhadvāra*\ ——字面意思是臉部之門）定義為喉頭，即嘴的後門而不是前門，來證明《義註》在此的立場，但《聖典》再次不支持這種說法。\ `《應學》四一`_\ ——「當一口食物尚未送達時，我不會打開臉部之門」——明確表明該術語指的是嘴唇而不是喉頭。\ `《中部》140經`_\ 明確列出了 mukhadvāra 和「由此吃、喝、消耗和品嚐的東西被吞嚥」這段話，它們是身體內部空間元素的兩個獨立部分。因此，\ *進入嘴中*\ 意味著透過嘴唇進入。
+
+   * - *2. Food*
+     - *2. 食物*
+
+.. _NP 15.1.2: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
+.. _《捨墮》一五.1.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0327a14
+.. _Sk 41: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk41
+.. _《應學》四一: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk41
+.. TODO FIXME: replace link to 《應學》四一
+.. _MN 140: https://www.dhammatalks.org/suttas/MN/MN140.html
+.. _《中部》140經: https://sutra.mobi/chilin/zhong/content/140.html
+
 (未完待續)
