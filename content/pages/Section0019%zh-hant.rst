@@ -2085,6 +2085,18 @@
    * - *2. Food*
      - *2. 食物*
 
+   * - Pond water so muddy that it leaves a scum on the hand or on the mouth is considered to be food, and so must be given before it can be drunk. The same holds true with water into which so many leaves or flowers have fallen that their taste is discernible in the water. For some reason, though, water that has been scented with flowers need not be given, and the same is true with water taken from a stream or river no matter how muddy. (There is a belief still current in India and other parts of Asia that flowing water is inherently clean.) Although leaves and flowers technically do count as edibles—they are classed as non-staple foods or medicines, depending on one’s purpose in eating them—the idea of counting mud and scum as edibles seems to be taking the concept of edible a little too far.
+
+     - 池塘水如果太混濁，在手上或嘴上留有浮渣，則被視為食物，因此必須先被給予才能飲用。如果水中落滿了樹葉或花朵，以至於在水中可以辨別出它們的味道，也是一樣必須先被給予才能飲用。但出於某種原因，加了花香的水就不必被給予，從溪流或河流中取來的水，無論多麼渾濁，也不必被給予。（在印度和亞洲其他地區，人們至今仍然相信流動的水本身是乾淨的。）雖然從技術上講，葉子和花朵確實可以算作可食用物——它們被歸類為副食或藥物，具體取決於食用它們的目的——但將泥土和浮渣算作可食用物似乎對可食用的概念理解得有點過了。
+
+   * - If toothwood is chewed for the sake of its juice, it must first be given. Even if one is chewing it for the sake of cleaning the teeth but accidentally swallows the juice, one has committed an offense all the same. These two opinions have no basis in the Canon, inasmuch as intention is not a factor in determining the offense under this rule.
+
+     - 如果為了汁液而咀嚼齒木，必須先被給予。即使是為了清潔牙齒而咀嚼，卻不小心吞下了汁液，也同樣犯了戒。這兩種觀點在《聖典》中都沒有依據，因為根據這條戒條，意圖並非判斷罪行的因素。
+
+   * - A long section of this treatise discusses what to do if things that are not given get into food that has been given. It concludes that they must be removed from the food or the food must be given again. If the items “not given” are edibles, this seems reasonable enough, but the Commentary extends the concept to include such things as dust, dirty rain water, rust from a knife, beads of sweat dropping from one’s brow, etc. Again, this seems to be taking the concept too far, for the Vibhaṅga states clearly that the rule covers only those things generally considered as fit to eat.
+
+     - 這篇專論用了很長的篇幅討論瞭如果未給予的東西進入已給予的食物中該怎麼辦。結論是，必須將這些未給予的東西從食物中移除，或者食物必須重新被給予。如果「未給予」的東西是可食用的，這似乎很合理，但《義註》將這一概念擴展至包括灰塵、髒雨水、刀上的鏽跡、額頭上滴下的汗珠等等。同樣，這似乎將這一概念延伸得太遠了，因為《經分別》明確指出，這條戒條只涵蓋那些通常被認為適合食用的東西。
+
 .. _NP 15.1.2: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
 .. _《捨墮》一五.1.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0327a14
 .. _Sk 41: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk41
