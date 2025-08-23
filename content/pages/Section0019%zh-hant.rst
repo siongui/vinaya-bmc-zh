@@ -2097,6 +2097,56 @@
 
      - 這篇專論用了很長的篇幅討論瞭如果未給予的東西進入已給予的食物中該怎麼辦。結論是，必須將這些未給予的東西從食物中移除，或者食物必須重新被給予。如果「未給予」的東西是可食用的，這似乎很合理，但《義註》將這一概念擴展至包括灰塵、髒雨水、刀上的鏽跡、額頭上滴下的汗珠等等。同樣，這似乎將這一概念延伸得太遠了，因為《經分別》明確指出，這條戒條只涵蓋那些通常被認為適合食用的東西。
 
+   * - *3. Giving*
+     - *3. 給予*
+
+   * - The Commentary redefines the act of giving, expanding its factors to five:
+     - 《義註》重新定義了給予行為，將其因素擴展至五個：
+
+   * - .. container:: mx-2
+
+          \(a\) The item is such that a man of average stature can lift it.
+
+     - .. container:: mx-2
+
+          （a）此物品可被普通身材的人舉起。
+
+   * - .. container:: mx-2
+
+          \(b\) The donor is within reach—1.25 m.—of the bhikkhu.
+
+     - .. container:: mx-2
+
+          （b）布施者距離比丘在可及（1.25公尺）的範圍內。
+
+   * - .. container:: mx-2
+
+          \(c\) He/she makes a gesture of offering the food.
+
+     - .. container:: mx-2
+
+          （c）他/她做出供養食物的示意動作。
+
+   * - .. container:: mx-2
+
+          \(d\) The donor is a deva, a human being, or a common animal.
+
+     - .. container:: mx-2
+
+          （d）布施者是天人、人類或普通動物。
+
+   * - .. container:: mx-2
+
+          \(e\) The bhikkhu receives the item with the body or with something in contact with the body.
+
+     - .. container:: mx-2
+
+          （e）比丘用身體，或用與身體接觸的某物來接受物品。
+
+   * - *Factor (a)* was included apparently to discourage the practice, still found in many places, of getting two or more men to present a table of food to a bhikkhu by lifting the entire table at once. The inclusion of this factor, though, has given rise to the assumption that the donor must lift the food a certain distance before handing it to the bhikkhu, but the Commentary itself shows that this assumption is mistaken, for it states that if a small novice too weak to lift a pot of rice simply slides it along the table or floor onto a bhikkhu’s hand, it is properly given.
+
+     - *因素（a）*\ 被納入顯然是為了阻止許多地方仍然存在的這種做法：讓兩個或兩個以上的人同時抬起整張桌子，將一桌食物呈給比丘。然而，納入這一因素導致了一種假設，即布施者必須將食物抬起一定距離才能遞給比丘。但《義註》本身表明，這種假設是錯誤的，因為它指出，如果一個體弱的沙彌，無法抬起一鍋米飯，只需將米飯沿著桌子或地板滑到比丘的手中，就屬於適當地被給予。
+
 .. _NP 15.1.2: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
 .. _《捨墮》一五.1.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0327a14
 .. _Sk 41: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk41
