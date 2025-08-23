@@ -2147,6 +2147,14 @@
 
      - *因素（a）*\ 被納入顯然是為了阻止許多地方仍然存在的這種做法：讓兩個或兩個以上的人同時抬起整張桌子，將一桌食物呈給比丘。然而，納入這一因素導致了一種假設，即布施者必須將食物抬起一定距離才能遞給比丘。但《義註》本身表明，這種假設是錯誤的，因為它指出，如果一個體弱的沙彌，無法抬起一鍋米飯，只需將米飯沿著桌子或地板滑到比丘的手中，就屬於適當地被給予。
 
+   * - *Factor (b):* If any part of the donor’s body (except for his/her extended arm) is within 1.25 meters of any part of the bhikkhu’s body (except for his extended arm), this factor is fulfilled. If the donor is standing beyond reach, the bhikkhu should tell him/her to come within reach before donating the food. If for some reason the donor does not comply with the bhikkhu’s request, the bhikkhu may still accept the food but should then take it to another unordained person—without setting it down and picking it up again in the meantime (see below)—and have it properly “given” before eating it.
+
+     - *因素（b）：*\如果布施者身體的任何部位（除伸出的手臂外）距離比丘身體的任何部位（除伸出的手臂外）在1.25公尺以內，則滿足此條件。若布施者站在比丘不可及的地方，比丘應告知其在布施食物前走到比丘可及的地方。若布施者因故未遵從比丘的請求，比丘仍可接受食物，但應將其帶給另一位未受具足戒者—在此期間沒有放下再拿起（見下文）—並在食用前令其適當地「被給予」。
+
+   * - Although the donor must be within reach, the food itself need not be. Thus if the donor places many vessels on a mat while the bhikkhu touches the mat with the intention of receiving them, all of the food is considered to be properly received as long as the donor is within reach of the bhikkhu. The same holds true if the donor places many vessels touching one another while the bhikkhu touches one of the vessels with the intention of receiving them all. (The factor of the bhikkhu’s intention is discussed further under factor (e) below.)
+
+     - 雖然布施者必須在可及的範圍內，但食物本身卻不必如此。因此，如果布施者將許多器皿放在墊子上，而比丘觸摸墊子意圖接受它們，只要布施者在比丘可及的範圍內，所有食物都被視為已適當地被接受。如果布施者將許多器皿彼此接觸，而比丘觸摸其中一個器皿意圖接受所有食物，則同樣適用。（比丘的意圖因素將在下文的因素（e）中進一步討論。）
+
 .. _NP 15.1.2: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
 .. _《捨墮》一五.1.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0327a14
 .. _Sk 41: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk41
