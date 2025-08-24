@@ -2155,6 +2155,14 @@
 
      - 雖然布施者必須在可及的範圍內，但食物本身卻不必如此。因此，如果布施者將許多器皿放在墊子上，而比丘觸摸墊子意圖接受它們，只要布施者在比丘可及的範圍內，所有食物都被視為已適當地被接受。如果布施者將許多器皿彼此接觸，而比丘觸摸其中一個器皿意圖接受所有食物，則同樣適用。（比丘的意圖因素將在下文的因素（e）中進一步討論。）
 
+   * - *Factor (c)* means that the donor cannot simply tell the bhikkhu to take the food being given. Rather, he/she should make a physical gesture of offering the food. In some Communities, this factor is interpreted as meaning that the donor must assume a humble or respectful manner while making the offering, and has led some to believe, for instance, that a bhikkhu going barefoot on his alms round should not accept food from a donor wearing shoes. This view is not supported by the Commentary. Although some of the gestures it cites as examples, such as tilting the head, might be interpreted as showing respect, some of them are not respectful in terms of Asian etiquette at all. For instance, a person riding on the bhikkhu’s shoulders picks a piece of fruit from a tree, drops it into the bhikkhu’s hands, and it is considered properly given.
+
+     - *因素（c）*\ 意味著布施者不能僅僅告訴比丘接受要被給予的食物。相反，他/她應該做出供養食物的身體示意動作。在某些僧團，這個因素被解釋為布施者在供養時必須採取謙卑或尊重的態度，並且導致一些人認為，例如，赤腳托缽的比丘不應該接受穿鞋的布施者的食物。《義註》並不支持這種觀點。雖然它引用的一些示意動作例子，例如歪著頭，可能被解釋為表示尊重，但從亞洲禮儀來看，有些動作根本不尊重。例如，一個人騎在比丘的肩上，從樹上摘下一個水果，扔到比丘的手中，這被認為是被適當地給予。
+
+   * - The question arises as to how much of a gesture is necessary for this factor to be fulfilled. In the West, if a donor brings a tray of food and stands in front of a bhikkhu, waiting for him to take some of the food, the fact that he/she stands there waiting would be considered enough of a gesture to show that the food is being given. If the bhikkhu were to demand more of a gesture than that, the donor would probably be offended. Because the opinions expressed in this section of the Commentary are not necessarily normative, this is an area where one can make allowances for cultural norms. The essence of this factor would seem to be that a bhikkhu should not snatch food that a person happens to be carrying past him without showing any indication that he/she wants him to take the food.
+
+     - 問題是，要滿足這因素，需要多少示意動作？在西方，如果一位布施者端著一盤食物，站在一位比丘面前，等他取食，那麼他/她站在那裡等待的事實就足以被視為示意動作，表明食物要被給予。如果比丘要求更多示意動作，布施者可能會感到被冒犯。由於《義註》這一部分所表達的觀點不一定具有規範性，因此在這方面可以考慮文化規範。這因素的本質似乎是，比丘不應該在沒有表現出任何想要他取食的跡象時，搶奪恰巧經過他身邊的人攜帶的食物。
+
 .. _NP 15.1.2: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
 .. _《捨墮》一五.1.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0327a14
 .. _Sk 41: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk41
