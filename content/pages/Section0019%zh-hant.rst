@@ -2175,6 +2175,21 @@
 
      - 當比丘睡著或注意力在其他地方（例如入深定）時，將食物放在他手中不算是適當地給予。他必須保持清醒，並且足夠注意地知道食物正在被給予，才能滿足這一條件。如果比丘清醒，將食物放在他口中算是適當地給予。如果他睡著或失去意識，食物透過餵食管送入他的胃中，他並沒有違反這條戒條，因為他不是將食物放入胃中的施食者。如同\ `《僧殘》一`_\ 的《複註》所述，當比丘未處於正常的清醒意識狀態時，戒律不適用於他。
 
+   * - *4. Taking food that has not been given*
+     - *4. 拿取未給予的食物*
+
+   * - To take food knowing that it has been improperly given or not given at all (here we are not talking about cases of stealing) is no offense if the bhikkhu has no intention of ever eating it. If, after he has set it down, the food is later “given” to him, he may accept and eat it with no penalty. Here the examples given in the Commentary include such things as picking up fallen fruit or the remains of a lion’s kill with the thought of taking them for a novice to eat, or picking up oil or ghee with the thought of taking it to one’s parents. A common example at present would be picking up food left lying around when one is cleaning up the monastery. The Sub-commentary states that this allowance does not hold if one is thinking of taking the food for other bhikkhus to eat.
+
+     - 明知食物未適當地給予或根本沒有給予（這裡我們不討論偷竊的情況）而拿取，如果比丘無意食用，則不構成犯戒。如果比丘放下食物後，之後食物被「給予」他，他可以接受並食用，不受懲罰。《義註》中給出的例子包括撿起掉落的水果或獅子獵物的殘骸，想把它們帶給沙彌吃，或撿起油或酥油，想把它們帶給自己的父母。目前一個常見的例子是，在打掃寺院時撿起散落的食物。《複註》指出，如果想把食物帶給其他比丘吃，則此開緣不成立。
+
+   * - To take food with the purpose of eating it, thinking that it has been properly given when in fact it hasn’t, is also no offense. If one then learns or realizes that it has not been properly given, one should return it—if possible, to its original place—without setting it down and picking it up again in the meantime. Once the food is back in its original place, one may “receive” and eat it with no penalty. If one sets it down and picks it up again before returning it to its original place, though, then technically one incurs a dukkaṭa for taking food that one realizes is not properly given, and so one may not later formally receive the food, as mentioned above. If for some reason there is no possibility of returning the food to its original place, one need only return it to some other spot in the building from which it was taken and then “receive” and eat it without committing an offense.
+
+     - 為了食用的目的而拿取食物，以為食物已適當地給予，但實際上並非如此，這同樣不構成犯戒。如果隨後得知或意識到食物並未適當地給予，應將其歸還——如果可能的話，放回原處——期間沒有放下再拿起。一旦食物會到原處後，可以「接受」並吃它，不會受到任何懲罰。但如果在歸還回原處之前就放下再拿起，那麼嚴格來說，則因意識到食物並非適當地給予而拿取食物，犯《突吉羅》，因此之後不得像上文所述那樣正式地接受食物。如果由於某種原因無法將食物歸還回原處，只需要將它放回被拿取的建築物中的其他地方，然後「接受」並吃它，而不構成犯戒。
+
+   * - As we noted above, the Commentary’s discussion of this point has no basis in the Vibhaṅga to this rule or in the Great Standards, so there seems no reason to follow it.
+
+     - 正如我們上面提到的，《義註》中對這一點的討論在本戒條的《經分別》或《四大教示》中都沒有依據，因此似乎沒有理由遵循它。
+
 .. _NP 15.1.2: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
 .. _《捨墮》一五.1.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0327a14
 .. _Sk 41: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk41
