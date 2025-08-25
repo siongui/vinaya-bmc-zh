@@ -2163,6 +2163,18 @@
 
      - 問題是，要滿足這因素，需要多少示意動作？在西方，如果一位布施者端著一盤食物，站在一位比丘面前，等他取食，那麼他/她站在那裡等待的事實就足以被視為示意動作，表明食物要被給予。如果比丘要求更多示意動作，布施者可能會感到被冒犯。由於《義註》這一部分所表達的觀點不一定具有規範性，因此在這方面可以考慮文化規範。這因素的本質似乎是，比丘不應該在沒有表現出任何想要他取食的跡象時，搶奪恰巧經過他身邊的人攜帶的食物。
 
+   * - *Factor (d)* is not discussed by the Commentary, although it is probably inspired by such stories as that of elephants offering lotus stalks to Ven. Moggallāna, and of Sakka, the king of the devas, presenting a gift of food to Mahā Kassapa after the latter had withdrawn from seven days of concentration (Ud.III.7). There is at least one bhikkhu in Thailand today who has trained a pet monkey to “give” him things.
+
+     - *因素（d）*\ 並未在《義註》裡討論，儘管它可能受到一些故事的啟發，例如大象向目犍連尊者供養蓮花莖，以及帝釋天在摩訶迦葉入定七日出定後，向他獻上食物布施（\ `《自說》.三.7`_\ ）。如今，泰國至少有一位比丘訓練了一隻寵物猴來「給予」他東西。
+
+   * - *Factor (e):* The effort involved in receiving the item may be minimal indeed. In fact, the Commentary’s discussion of the Vibhaṅga quotes the Mahā Paccarī, one of the ancient Sinhalese commentaries, as saying that attention is the measure determining whether or not food has been received. Thus if a donor offers food by placing it on a table, the bhikkhu may simply touch the table with his finger, thinking, “I am receiving the food,” and it is properly given. The same holds true if he is sitting on the table or lying on a bed and regards the act of sitting or lying there as one of receiving whatever is placed there. However, immovable objects—such as a floor, the ground, or anything fixed to the floor or ground—may not be used as “items connected to the body” to receive food in this way.
+
+     - *因素（e）：*\ 接受食物所需的努力可能確實微不足道。事實上，《義註》對《分別經》的討論中引用了古代僧伽羅語註釋書之一《Mahā Paccarī》的論述，其中指出，注意力是衡量食物是否被接受的標準。因此，如果布施者將食物放在桌子上供養，比丘只需用手指觸摸桌子，心想「我正在接受食物」，這就是適當地給予。同樣，如果他坐在桌子上或躺在床上，並將坐或臥的行為視為接受擺放在那裡的任何東西，也是適當地給予。然而，不可移動的物體——例如地板、地面或任何固定在地板或地面上的東西——不能被用作「與身體相連的物品」來以這種方式接受食物。
+
+   * - Food placed in a bhikkhu’s hand when he is asleep or his attention is elsewhere—e.g., in deep meditation—does not count as properly given. He must be awake and paying enough attention to know that the food is being given for this factor to be fulfilled. Food placed in a bhikkhu’s mouth is considered properly given if he is awake. If he is asleep or unconscious and food is put into his stomach via a feeding tube, he has not broken this rule for he is not the agent putting it there, and as the Sub-commentary notes under `Sg 1`_, the Vinaya does not apply to a bhikkhu when he is not in a normal, waking state of awareness.
+
+     - 當比丘睡著或注意力在其他地方（例如入深定）時，將食物放在他手中不算是適當地給予。他必須保持清醒，並且足夠注意地知道食物正在被給予，才能滿足這一條件。如果比丘清醒，將食物放在他口中算是適當地給予。如果他睡著或失去意識，食物透過餵食管送入他的胃中，他並沒有違反這條戒條，因為他不是將食物放入胃中的施食者。如同\ `《僧殘》一`_\ 的《複註》所述，當比丘未處於正常的清醒意識狀態時，戒律不適用於他。
+
 .. _NP 15.1.2: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
 .. _《捨墮》一五.1.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0327a14
 .. _Sk 41: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk41
@@ -2170,5 +2182,8 @@
 .. TODO FIXME: replace link to 《應學》四一
 .. _MN 140: https://www.dhammatalks.org/suttas/MN/MN140.html
 .. _《中部》140經: https://sutra.mobi/chilin/zhong/content/140.html
+.. _《自說》.三.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N26n0010_001/#0090a03
+.. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
+.. _《僧殘》一: {filename}Section0011%zh-hant.rst#Sg1
 
 (未完待續)
