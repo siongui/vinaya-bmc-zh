@@ -2217,4 +2217,50 @@
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
 .. _《僧殘》一: {filename}Section0011%zh-hant.rst#Sg1
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *5. When food becomes “ungiven.”*
+     - *5. 當食物變成「未給予」*
+
+   * - The Commentary to `Pr 1`_, in its discussion of what to do when a bhikkhu’s sex changes spontaneously (!), lists seven actions through which an edible given to a bhikkhu becomes “ungiven”—i.e., no bhikkhu may pick it up and eat it until it is formally given again. The seven are—
+
+     - `《波羅夷》一`_\ 的《義註》在討論比丘性別自發地改變時（！）該如何處理時，列舉了七種行為，這些行為會導致給予比丘的可食用物變成「未給予」——也就是說，在正式再次給予之前，任何比丘都不能拿起並食用它。這七種行為是──
+
+   * - .. container:: mx-2
+
+          \(a\) undergoing a spontaneous sex change,
+
+     - .. container:: mx-2
+
+          （a）發生自發性變性，
+
+   * - .. container:: mx-2
+
+          \(b\) dying,
+
+     - .. container:: mx-2
+
+          （b）死亡，
+
+   * - .. container:: mx-2
+
+          \(c\) disrobing and becoming a lay person,
+
+     - .. container:: mx-2
+
+          （c）還俗成為在家人，
+
+   * - .. container:: mx-2
+
+          \(d\) becoming a low person (according to the Sub-commentary, this means committing a pārājika),
+
+     - .. container:: mx-2
+
+          （d）成為下等人（根據《複註》，這意味著犯了《波羅夷》罪），
+
+.. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
+.. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
+
 (未完待續)
