@@ -184,8 +184,7 @@
 .. _Pc 41: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc41
 .. _Pc 44: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part5
 .. _54: https://www.dhammatalks.org/vinaya/bhikkhuni-pati.html#pc-part6
-.. _《波逸提》四一: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc41
-.. TODO FIXME: replace link to 《波逸提》四一
+.. _《波逸提》四一: {filename}Section0020%zh-hant.rst#Pc41
 .. _比丘尼《波逸提》四四: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_012/#0417a11
 .. _五四: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_012/#0432a05
 .. _Pc 37: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc37

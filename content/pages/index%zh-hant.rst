@@ -433,10 +433,10 @@
      - `\　　　四十 <{filename}Section0019%zh-hant.rst#Pc40>`__
 
    * - `\　　Five: The Naked Ascetic Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0020.html>`__
-     - 　　第五 裸行者品
+     - `\　　第五 裸行者品 <{filename}Section0020%zh-hant.rst>`__
 
    * - `\　　　41 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc41>`__
-     - 　　　四十一
+     - `\　　　四十一 <{filename}Section0020%zh-hant.rst#Pc41>`__
 
    * - `\　　　42 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc42>`__
      - 　　　四十二
