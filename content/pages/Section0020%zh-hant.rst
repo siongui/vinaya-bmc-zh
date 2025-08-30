@@ -97,4 +97,27 @@
 
           「所以——『情人！』『不是情人！（§）』——他們持續爭吵。」
 
+   * - The second story, though, gives a better idea of the reason for the rule:
+     - 不過，第二個故事更好地解釋了這條戒條的原因：
+
+   * - .. container:: mx-2
+
+          “Then a certain naked ascetic went to a distribution of food. A certain bhikkhu, having mashed some rice with a great deal of ghee, gave a large helping to the naked ascetic. So the naked ascetic, having received his alms, left. Another naked ascetic asked him, ‘Where, friend, did you get your alms?’
+
+     - .. container:: mx-2
+
+          「後來，一位裸行者去食物分配處。一位比丘用大量酥油搗碎了一些米飯，給了這位裸行者一大份。這位裸行者受完施捨後便離開了。另一位裸行者問他：『朋友，你的施捨是從哪裡來的？』
+
+   * - .. container:: mx-2
+
+          “‘At a distribution of food by that shaveling householder, the Gotama monk.’”
+
+     - .. container:: mx-2
+
+          「『那位剃度的居士，喬達摩沙門，在食物分配處。』」
+
+   * - This training rule is corollary to the preceding one. Other religions at the Buddha’s time observed the formalities of receiving food from their lay followers just as the bhikkhus did, and thus a bhikkhu who gave food in such a way to a mendicant ordained in another religion would be placing himself in the position of a lay follower of that religion, as the second origin story shows. An interesting point about this rule is that the Buddha formulated it at the request of Buddhist lay followers. Having overheard the naked ascetics’ conversation, they said to him, “Venerable sir, these adherents of other religions enjoy criticizing the Buddha… Dhamma… and Saṅgha. It would be good if the masters did not give to adherents of other religions with their own hands.”
+
+     - 這條戒條與前一條戒條相輔相成。在佛陀時代，其他宗教也像比丘一樣，遵守著接受他們在家信眾食物的禮儀。因此，如果比丘以這種方式向其他宗教的托缽僧給予食物，就等於將自己置於該宗教的在家信眾的地位，正如第二個起源故事所示。這條戒條的一個有趣之處在於，佛陀是應佛教在家信眾的要求而制定的。他們無意中聽到裸行者的談話，便對佛陀說：「世尊，這些外教信徒喜歡批評佛……法……僧。如果大德們不親手將食物給予外教信徒就好了。」
+
 (未完待續)
