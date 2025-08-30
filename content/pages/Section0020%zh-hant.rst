@@ -120,4 +120,35 @@
 
      - 這條戒條與前一條戒條相輔相成。在佛陀時代，其他宗教也像比丘一樣，遵守著接受他們在家信眾食物的禮儀。因此，如果比丘以這種方式向其他宗教的托缽僧給予食物，就等於將自己置於該宗教的在家信眾的地位，正如第二個起源故事所示。這條戒條的一個有趣之處在於，佛陀是應佛教在家信眾的要求而制定的。他們無意中聽到裸行者的談話，便對佛陀說：「世尊，這些外教信徒喜歡批評佛……法……僧。如果大德們不親手將食物給予外教信徒就好了。」
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga defines the terms *naked ascetic* and *male or female wanderer* in such a way that they cover all people who have “gone forth” except for bhikkhus, bhikkhunīs, female trainees, and male or female novices. Because “going forth” was how ordination was understood at that time, we can use the Great Standards at present to include anyone ordained in other religions—e.g., Catholic priests, Protestant ministers, Jewish rabbis, Muslim mullahs, etc.—under the factor of object here as well. Different Communities differ as to whether they would include people ordained in other Buddhist religions—such as Zen priests or Tibetan lamas—under this category as well.
+
+     - 《經分別》對\ *裸行者*\ 和\ *男女遊方者*\ 的定義，涵蓋了除比丘、比丘尼、學法女（式叉摩那）以及男女沙彌之外的所有「出家」者。由於「出家」是當時對受戒的理解，我們如今可以運用《四大教示》，將其他宗教出家者（例如天主教神父、新教牧師、猶太教拉比、穆斯林毛拉等）也納入此處的對象因素。不同的僧團對於是否將其他佛教出家者（例如禪宗僧人或西藏喇嘛）納入此類也存在分歧。
+
+   * - Perception as to whether a person would qualify as a naked ascetic or a male or female wanderer is not a mitigating factor here (see `Pc 4`_).
+     - 對於某人是否真為裸行者或男女遊方者的感知在這裡並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+.. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
+.. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - *Staple and non-staple food* here covers all edibles: juice drinks, tonics, and medicines as well as food, but not water or tooth-cleaning sticks. Staple and non-staple foods are grounds for a pācittiya; water and tooth-cleaning sticks, grounds for a dukkaṭa.
+
+     - *主食和副食*\ 在此處涵蓋所有可食用物：果汁飲料、補品、藥物以及食物，但不包括水或齒木。主食和副食構成《波逸提》；水和齒木構成《突吉羅》。
+
+   * - To *give* is defined as giving with the body, with something in contact with the body, or by means of letting go, as in the preceding rule.
+     - *給予*\ 的定義是，用身體給予，用與身體接觸的某物給予，或透過放下來給予，就像前一條戒條一樣。
+
 (未完待續)
