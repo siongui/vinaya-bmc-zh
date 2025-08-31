@@ -151,4 +151,23 @@
    * - To *give* is defined as giving with the body, with something in contact with the body, or by means of letting go, as in the preceding rule.
      - *給予*\ 的定義是，用身體給予，用與身體接觸的某物給予，或透過放下來給予，就像前一條戒條一樣。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - To get someone else to give edible things, to give edible things by depositing them near (as in `NP 18`_), or to give ointments for external use entails no offense. The Commentary qualifies the first exemption by saying that the “someone else” must not be fully ordained. The New K/Sub-commentary points out that the last exemption was probably meant to apply to oils, which otherwise would come under “non-staple food” here.
+
+     - 讓他人給予可食用物，或將可食用物放在附近給予（如\ `《捨墮》一八`_\ ），或施捨外用藥膏，均不構成犯戒。《義註》對第一項豁免進行了限定，指出「他人」不得受具足戒。新 K/《複註》指出，最後一項豁免可能適用於油類，否則油類在此處應歸入「副食」。
+
+   * - *Summary: Handing food or medicine to a person ordained in another religion is a pācittiya offense.*
+     - *摘要：向其他宗教出家者親手給予食物或藥物是《波逸提》（《單墮》）罪。*
+
+.. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
+.. _《捨墮》一八: {filename}Section0014%zh-hant.rst#NP18
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
