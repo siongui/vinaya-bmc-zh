@@ -742,8 +742,7 @@
      - *摘要：除特殊場合外，享用有四位或四位以上比丘具體指名邀請的餐食，是《波逸提》（《單墮》）罪。*
 
 .. _Pc 42: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc42
-.. _《波逸提》四二: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc42
-.. TODO FIXME: replace link to 《波逸提》四二
+.. _《波逸提》四二: {filename}Section0020%zh-hant.rst#Pc42
 
 
 .. container:: has-text-centered

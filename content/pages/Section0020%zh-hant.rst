@@ -170,4 +170,28 @@
    \*    \*    \*
 
 
+.. _Pc42:
+
+.. raw:: html
+
+   <span id="Pc42"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **42**
+     - **四十二**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu say to a bhikkhu, “Come, my friend, let’s enter the village or town for alms,” and then—whether or not he has had (food) given to him—dismiss him, saying, “Go away, my friend. I don’t like sitting or talking with you. I prefer sitting or talking alone”—doing it for just that reason and no other—it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘對另一個比丘說，「來吧，我的朋友，我們進村或進城托缽」，然後——不管有沒有給予他食物——打發他走，說，「走開吧，我的朋友。我不喜歡和你坐在一起或說話。我更喜歡獨自坐著或說話」——如此做僅僅因為這個原因而沒有其他——波逸提。*
+
+   * - The factors for the full offense here are four.
+     - 這裡構成完全違犯的因素有四。
+
 (未完待續)
