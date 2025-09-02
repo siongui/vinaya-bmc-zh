@@ -194,4 +194,27 @@
    * - The factors for the full offense here are four.
      - 這裡構成完全違犯的因素有四。
 
+   * - *1) Object:* another bhikkhu.
+     - *1）對象：*\ 另一位比丘。
+
+   * - *2) Intention:* One wants to indulge in misconduct and does not want him to see it.
+     - *2）意圖：*\ 想要沉溺於不當行為，卻又不想讓他看到。
+
+   * - *3) Effort:* One dismisses him.
+     - *3）努力：*\ 打發他走。
+
+   * - *4) Result:* He leaves one’s range of hearing and sight.
+     - *4）結果：*\ 他離開了自己的聽力和視力範圍。
+
+   * - Although the rule mentions one specific situation—bhikkhus going for alms in a town or village—the non-offense clauses give no exemption for a bhikkhu who, wanting to indulge in misconduct, dismisses another bhikkhu while outside of a village or engaged in an activity other than going for alms. The commentaries notice this point and, reasonably, do not list the specific situation as a necessary factor for the offense. For this reason, the factors for this offense apply in any location and at any time of the day.
+
+     - 雖然戒條提到了一種特殊情況——比丘在城鎮或村莊托缽——如果比丘想要沉溺於不當行為，在村莊之外或從事托缽以外的活動時打發另一位比丘走，不犯條款並未給予該比丘豁免。註釋書注意到了這一點，並且合理地沒有將特定情況列為構成此戒條犯戒的必要因素。因此，此戒條犯戒的因素適用於任何地點、任何時間。
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga states that a bhikkhu is grounds for a pācittiya here; an unordained person (which for the purpose of this rule would include bhikkhunīs), grounds for a dukkaṭa. Perception as to whether a person is actually a bhikkhu is not a mitigating factor here. In other words, a bhikkhu is grounds for a pācittiya if one perceives him as a bhikkhu, if one perceives him as an unordained person, or if one is in doubt about the matter. An unordained person is grounds for a dukkaṭa if one perceives him as a bhikkhu, if one perceives him as an unordained person, or if one is in doubt about the matter. *This pattern—three pācittiyas and three dukkaṭas—is repeated in all the rules where a bhikkhu is grounds for a pācittiya, an unordained person is grounds for a dukkaṭa, and perception is not a mitigating factor.*
+
+     - 《經分別》規定，比丘在此構成《波逸提》；而未受具足者（就本戒條而言，包括比丘尼）構成《突吉羅》。對某人是否為比丘的感知在此並非減輕懲罰的因素。換句話說，如果認為比丘是比丘，或認為他是未受具足戒者，或對此事存有疑問，則構成《波逸提》。如果認為未受具足戒者是比丘，或認為他是未受具足戒者，或對此事存有疑問，則構成《突吉羅》。\ *這種模式——三《波逸提》和三《突吉羅》——在比丘構成《波逸提》，未受具足戒者構成《突吉羅》，且感知不是減輕懲罰的因素的所有戒條中重複出現。*
+
 (未完待續)
