@@ -217,4 +217,52 @@
 
      - 《經分別》規定，比丘在此構成《波逸提》；而未受具足者（就本戒條而言，包括比丘尼）構成《突吉羅》。對某人是否為比丘的感知在此並非減輕懲罰的因素。換句話說，如果認為比丘是比丘，或認為他是未受具足戒者，或對此事存有疑問，則構成《波逸提》。如果認為未受具足戒者是比丘，或認為他是未受具足戒者，或對此事存有疑問，則構成《突吉羅》。\ *這種模式——三《波逸提》和三《突吉羅》——在比丘構成《波逸提》，未受具足戒者構成《突吉羅》，且感知不是減輕懲罰的因素的所有戒條中重複出現。*
 
+   * - **Intention**
+     - **意圖**
+
+   * - The Vibhaṅga defines *misconduct* as laughing, playing, or sitting in private with a woman, or any other misbehavior of any sort. To dismiss the other person, ordained or not, for motives other than a desire to hide one’s own misconduct entails no offense. Examples of such motives given in the non-offense clauses are listed below.
+
+     - 《經分別》將\ *不當行為*\ 定義為與女性私下嬉笑、玩耍、共坐，或任何其他不當行為。出於非為掩蓋自身不當行為的動機而打發他人走，不論該人是否受具足戒，均不構成犯戒。以下列舉了不犯條款中給予的此類動機範例。
+
+   * - **Effort & result**
+     - **努力及結果**
+
+   * - To *dismiss* the other person means either to say outright for him/her to go away, or else to make remarks that will make him/her want to leave. The Commentary gives an example here—“Look at how this guy stands, sits, and looks around. He stands like a stump, sits like a dog, and looks about like a monkey”—but this would more likely come under `Pc 2`_.
+
+     - *打發*\ 對方走意味著若非直接說出讓他/她走開，則是說些讓他/她想離開的話。《義註》在這裡舉了一個例子——「看看這傢伙站著、坐著，四處張望的樣子。他站著像個樹樁，坐著像條狗，看起來就像隻猴子。」——但這更有可能屬於\ `《波逸提》二`_\ 。
+
+   * - The offenses here are as follows:
+     - 此處的違犯如下：
+
+   * - .. container:: mx-2
+
+          a dukkaṭa for speaking the words of dismissal;
+
+     - .. container:: mx-2
+
+          說了打發走的話，犯《突吉羅》；
+
+   * - .. container:: mx-2
+
+          a dukkaṭa when the other bhikkhu is leaving the range of hearing and sight; and
+
+     - .. container:: mx-2
+
+          當其他比丘離開聽力和視力範圍時，犯《突吉羅》；而且
+
+   * - .. container:: mx-2
+
+          a pācittiya when he has left.
+
+     - .. container:: mx-2
+
+          當他離開時，犯《波逸提》。
+
+   * - The Commentary defines *range of hearing and range of sight* as twelve cubits, or six meters. If, however, there is a wall or a door within that distance, it says, that delimits the range.
+
+     - 《義註》將\ *聽力範圍和視力範圍*\ 定義為十二肘尺，即六公尺。然而，如果在該距離內有一堵牆或一扇門，則該範圍就被劃定了。
+
+.. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
+.. _《波逸提》二: {filename}Section0016%zh-hant.rst#Pc2
+
 (未完待續)
