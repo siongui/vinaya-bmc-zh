@@ -324,4 +324,29 @@
    \*    \*    \*
 
 
+.. _Pc43:
+
+.. raw:: html
+
+   <span id="Pc43"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **43**
+     - **四十三**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu sit intruding on a family “with its meal,” it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘坐著並打擾一個家庭吃飯，波逸提。*
+
+   * - The origin story here, briefly, is this: Ven. Upananda visits a woman in her private quarters. Her husband approaches him respectfully, has his wife give him alms, and then asks him to leave. The wife senses that her husband wants to have sexual intercourse with her and so—as a game, apparently—keeps detaining Ven. Upananda until the husband gets exasperated and goes to complain to the bhikkhus: “Venerable sirs, this master Upananda is sitting in the bedroom with my wife. I have dismissed him, but he isn’t willing to go. We are very busy and have much work to do.”
+
+     - `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0126a09>`_\ 簡述如下：優跋難陀尊者到一位女人的私人住處拜訪。她的丈夫恭敬地走上前去，讓妻子佈施缽食，然後請他離開。妻子察覺到丈夫想與她發生性關係，於是——顯然是一場遊戲——一直拖著優跋難陀尊者，直到丈夫惱怒不已，去向比丘們抱怨：「大德們，這位優跋難陀尊者正和我的妻子坐在臥室裡。我已經讓他走了，但他就是不肯走。我們很忙，有很多工作要做。」
+
 (未完待續)

@@ -442,7 +442,7 @@
      - `\　　　四十二 <{filename}Section0020%zh-hant.rst#Pc42>`__
 
    * - `\　　　43 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc43>`__
-     - 　　　四十三
+     - `\　　　四十三 <{filename}Section0020%zh-hant.rst#Pc43>`__
 
    * - `\　　　44 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44>`__
      - 　　　四十四
