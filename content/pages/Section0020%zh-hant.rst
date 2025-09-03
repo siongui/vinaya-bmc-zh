@@ -265,4 +265,63 @@
 .. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
 .. _《波逸提》二: {filename}Section0016%zh-hant.rst#Pc2
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - According to the Vibhaṅga, there is no offense in:
+     - 根據《經分別》，以下行為並不構成犯戒：
+
+   * - .. container:: mx-2
+
+          dismissing one’s companion with the thought that two bhikkhus going together won’t obtain enough food;
+
+     - .. container:: mx-2
+
+          認為兩個比丘一起去不會得到足夠的食物，所以打發同伴離開；
+
+   * - .. container:: mx-2
+
+          dismissing him after seeing costly goods ahead, so that he won’t develop a feeling of greed;
+
+     - .. container:: mx-2
+
+          看到昂貴的商品後就打發他離開，這樣他就不會產生貪婪的感覺；
+
+   * - .. container:: mx-2
+
+          dismissing him after seeing a beautiful woman ahead, so that he won’t lose his resolve for the celibate life;
+
+     - .. container:: mx-2
+
+          看到前面有美女就打發他離開，這樣他就不會動搖梵行生活的決心；
+
+   * - .. container:: mx-2
+
+          sending him back with food for one who is sick, who was left behind, or who is guarding the monastery; or
+
+     - .. container:: mx-2
+
+          送他回去給生病的人、留下的人或看守寺院的人帶去食物；或者
+
+   * - .. container:: mx-2
+
+          dismissing him for any other proper reason as long as one is not planning to indulge in misconduct.
+
+     - .. container:: mx-2
+
+          只要不打算沉溺於不當行為，就可以因任何其他適當理由打發他離開。
+
+   * - *Summary: Sending another bhikkhu away so that he won’t witness any misconduct one is planning to indulge in is a pācittiya offense.*
+     - *摘要：為了讓另一位比丘不目睹自己計劃沉溺於任何不當行為而將其送走，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
