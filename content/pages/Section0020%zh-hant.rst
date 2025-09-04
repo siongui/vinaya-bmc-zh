@@ -343,10 +343,31 @@
 
      - .. container:: notification
 
-          *如果任何比丘坐著並打擾一個家庭吃飯，波逸提。*
+          *如果任何比丘坐著並打擾一個家庭「與其餐食」，波逸提。*
 
    * - The origin story here, briefly, is this: Ven. Upananda visits a woman in her private quarters. Her husband approaches him respectfully, has his wife give him alms, and then asks him to leave. The wife senses that her husband wants to have sexual intercourse with her and so—as a game, apparently—keeps detaining Ven. Upananda until the husband gets exasperated and goes to complain to the bhikkhus: “Venerable sirs, this master Upananda is sitting in the bedroom with my wife. I have dismissed him, but he isn’t willing to go. We are very busy and have much work to do.”
 
      - `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0126a09>`_\ 簡述如下：優跋難陀尊者到一位女人的私人住處拜訪。她的丈夫恭敬地走上前去，讓妻子佈施缽食，然後請他離開。妻子察覺到丈夫想與她發生性關係，於是——顯然是一場遊戲——一直拖著優跋難陀尊者，直到丈夫惱怒不已，去向比丘們抱怨：「大德們，這位優跋難陀尊者正和我的妻子坐在臥室裡。我已經讓他走了，但他就是不肯走。我們很忙，有很多工作要做。」
+
+   * - **Object:**
+     - **對象：**
+
+   * - A family “with its meal.” This term—\ *sabhojanaṁ*\ —appears to be a pun in the original Pali, meaning either “with its meal”—\ *sa* + *bhojanaṁ*\ —or “with two people”—\ *sa* + *ubho* + *janaṁ*. The Vibhaṅga explains it as a euphemism meaning “a man and woman together, both not having gone out (of their bedroom), not both without lust.” As its further explanations show, this means a man and woman together in their private quarters, with at least one of them desiring sexual intercourse with the other. Although the Commentary tries to justify the Vibhaṅga’s explanation etymologically (*bhoga*, the root form of meal, has other forms meaning enjoyment, indulgence, and use), there is no need to turn to etymology. Since ancient times in all cultures, eating has been commonly used as a metaphor for sex. (Similarly, the husband’s comment that he “has much work to do” could also be taken as a double entendre.)
+
+     - 一個家庭「與其餐食」。「\ *sabhojanaṁ*\ 」一詞在原本巴利語中似乎是雙關語，意為「與其餐食」——\ *sa* + *bhojanaṁ*\ ——或「與兩個人」——\ *sa* + *ubho* + *janaṁ*\ 。《經分別》將其解釋為一種委婉說法，意為「一男一女在一起，兩人均未出（他們的臥室），並非雙方都無情欲」。進一步的解釋表明，這意味著一男一女在私人住處，至少其中一人渴望與另一人發生性關係。儘管《義註》試圖從字源學角度論證《經分別》的解釋（\ *bhoga*\ ，餐食的字根，還有其他形式，意為享受、放縱和使用），但無需追溯詞源。自古以來，在所有文化中，「吃」就普遍被用作性的隱喻。（同樣，丈夫說他「有很多工作要做」也可以理解為（含情欲的）雙關語。）
+
+   * - **Effort**
+     - **努力**
+
+   * - To *sit intruding* means to sit—without another bhikkhu present—in the private area of the house, this being defined in terms of how large the house is. In one large enough to have a separate bedroom, the private area is any spot more than one hatthapāsa (1.25 meters) in from the doorway (of the bedroom, says the Commentary). In a smaller house, the private area is the back half of the house. None of the texts discuss such things as one-room apartments or hotel rooms, but these would probably be treated as “separate bedrooms.”
+
+     - *坐著並打擾*\ 是指在沒有其他比丘在場的情況下，坐在房屋的私人區域內。私人區域的定義取決於房屋的大小。在一間大到可以設有獨立臥室的房屋中，私人區域是指距離（《義註》中說是臥室的）門口超過一個 hatthapāsa （1.25米）的任何位置。在較小的房屋中，私人區域是指房屋的後半部。所有文獻均未討論單房間公寓或飯店房間之類的情況，但這些可能被視為「獨立臥室」。
+
+   * - The Vibhaṅga states that perception with regard to the private area is not a mitigating factor here (see `Pc 4`_) and apparently the same holds true for perception with regard to whether the couple is “with its meal.” As for intention, the Parivāra and commentaries maintain that it is a factor, but the Vibhaṅga does not mention it at all. Thus, to be perfectly safe from an offense in cases like this, a bhikkhu should not sit intruding on a couple unless they both make him 100% certain that he is welcome: a wise policy in any case, regardless of whether one is a bhikkhu.
+
+     - 《經分別》指出，對私人區域的感知並非此處減輕懲罰因素（見\ `《波逸提》四`_\ ），而對夫妻是否「與其餐食」的感知明顯地也同樣如此。至於意圖，《附隨》和註釋書認為它是一個因素，但《經分別》對此隻字未提。因此，為了在這種情況下完全避免犯戒，比丘不應坐著打擾夫妻，除非夫妻雙方都讓他百分之百確信自己受到歡迎：無論如何，這都是一個明智之舉，無論是否是比丘。
+
+   * - Cases of sitting with a woman alone in her bedroom—or any other private place—are covered by the following rule.
+     - 與女性單獨坐在她的臥室或任何其他私人場所的情況則被下一條戒條所涵蓋。
 
 (未完待續)
