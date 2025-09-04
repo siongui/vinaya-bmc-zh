@@ -458,4 +458,38 @@
    * - *3) Intention:* One is aiming at privacy.
      - *3）意圖：*\ 旨在保護隱私。
 
+   * - **Object**
+     - **對象**
+
+   * - *Woman* here includes *women* as well. In other words, even if one is sitting with many women in the secluded area, one is not exempt from this factor.
+     - 這裡的\ *女人*\ 也包括\ *超過一位女人*\ 。換句話說，即使和許多女人坐在僻靜的地方，也不能免於違犯此因素。
+
+   * - A female human being is grounds for a pācittiya; a paṇḍaka, a female peta, a female yakkha, and an animal in the form of a woman, grounds for a dukkaṭa.
+     - 女性人類構成《波逸提》；而黃門、雌餓鬼、雌夜叉和具有女性形象的動物構成《突吉羅》。
+
+   * - Perception as to whether a person is actually a woman is not a mitigating factor (see `Pc 4`_).
+     - 關於某人是否確實是女性的感知並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - **Effort**
+     - **努力**
+
+   * - *Sitting* also includes lying down. Whether the bhikkhu sits near the woman when she is already seated, or the woman sits near him when he is already seated, or both sit down at the same time, makes no difference.
+
+     - *坐*\ 也包括躺下。無論是比丘在女人已經就座後坐到她附近，或是女人在比丘已經就座後坐到他附近，或是兩人同時就座，都沒有差別。
+
+   * - *Private* means private to the eye and private to the ear. Two people sitting in a place private to the eye means that no one else can see if they wink, raise their eyebrows, or nod (§). If they are in a place private to the ear, no one else can hear what they say in a normal voice.
+
+     - *私密*\ 是指對眼睛和耳朵都私密。兩個人坐在私密的地方意味著無論他們眨眼、揚眉或點頭，其他人都無法看到（§）。如果他們坐在對耳朵私密的地方，其他人無法聽到他們用正常聲音說話。
+
+   * - A *secluded seat* is one behind a wall, a closed door, a large bush, or anything at all that would afford them enough privacy to commit the sexual act.
+     - *僻靜座位*\ 是指牆後面、關著的門後面、大灌木叢後面或任何能為他們提供足夠隱私以進行性行為的地方。
+
+   * - According to the Commentary, *private to the eye* is the essential factor here. Even if a knowledgeable man is within hearing but not within sight—i.e., he is sitting just outside the door to the private place—that does not exempt one from the offense here.
+
+     - 根據《義註》，\ *對眼睛私密*\ 是此處的關鍵因素。即使一位知識淵博的男性在聽得見的地方，卻不在視線之內——也就是說，他就正坐在通往私密地方的門外——也不能免除此處的犯戒。
+
+   * - The Vibhaṅga states that the presence of a man within sight absolves one from this factor only if he is knowledgeable enough to know what is and is not lewd. The Commentary adds that he must also be awake and neither blind nor deaf. Even a distracted or drowsy man, though, if he meets these criteria, *would* absolve one from this factor.
+
+     - 《經分別》指出，只有當一位男性擁有足夠的知識，知道什麼是淫穢，什麼是非淫穢時，該男性在視線可及處，就能免於違犯這一因素。《義註》補充道，他也必須保持清醒，既不盲也不聾。即使是個心不在焉或昏昏欲睡的人，只要符合這些標準，也\ *能*\ 免於違犯這一因素。
+
 (未完待續)
