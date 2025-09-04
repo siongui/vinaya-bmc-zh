@@ -425,4 +425,37 @@
    \*    \*    \*
 
 
+.. _Pc44:
+
+.. raw:: html
+
+   <span id="Pc44"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **44**
+     - **四十四**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu sit in private on a secluded seat with a woman, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘與女人私下坐在僻靜的座位上，波逸提。*
+
+   * - There are three factors for the offense here.
+     - 此處的犯戒有三個因素。
+
+   * - *1) Object:* a female human being, “even one born that very day, all the more an older one.”
+     - *1）對象：*\ 女性人類，「即使是當天出生的女性，更不用說年紀更長者。」
+
+   * - *2) Effort:* One sits with her in private on a secluded seat without another man present.
+     - *2）努力：*\ 私下和她坐在僻靜的座位上，沒有其他男人在場。
+
+   * - *3) Intention:* One is aiming at privacy.
+     - *3）意圖：*\ 旨在保護隱私。
+
 (未完待續)

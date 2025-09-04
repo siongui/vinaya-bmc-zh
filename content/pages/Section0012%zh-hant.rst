@@ -126,8 +126,7 @@
 .. _Pc 44: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
-.. _《波逸提》四四: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
-.. TODO FIXME: replace link to 《波逸提》四四
+.. _《波逸提》四四: {filename}Section0020%zh-hant.rst#Pc44
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
 .. _《僧殘》一: {filename}Section0011%zh-hant.rst#Sg1
 .. _As 4: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As4

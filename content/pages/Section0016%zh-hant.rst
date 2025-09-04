@@ -999,8 +999,7 @@
 
 .. _Pc 44: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
 .. _45: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
-.. _《波逸提》四四: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
-.. TODO FIXME: replace link to 《波逸提》四四
+.. _《波逸提》四四: {filename}Section0020%zh-hant.rst#Pc44
 .. _四五: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
 .. TODO FIXME: replace link to 《波逸提》四五
 
