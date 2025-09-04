@@ -370,4 +370,59 @@
    * - Cases of sitting with a woman alone in her bedroom—or any other private place—are covered by the following rule.
      - 與女性單獨坐在她的臥室或任何其他私人場所的情況則被下一條戒條所涵蓋。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense—
+     - 並無犯戒——
+
+   * - .. container:: mx-2
+
+          if both the man and woman have left the bedroom/private area;
+
+     - .. container:: mx-2
+
+          如果男人和女人都離開了臥室/私人區域；
+
+   * - .. container:: mx-2
+
+          if neither of them is sexually aroused;
+
+     - .. container:: mx-2
+
+          如果他們雙方都沒有性興奮狀態；
+
+   * - .. container:: mx-2
+
+          if the building is not a “sleeping building”;
+
+     - .. container:: mx-2
+
+          如果該建築物不是「睡眠建築物」；
+
+   * - .. container:: mx-2
+
+          if the bhikkhu is not in the private area; or
+
+     - .. container:: mx-2
+
+          如果比丘不在私人區域；或
+
+   * - .. container:: mx-2
+
+          if he has a second bhikkhu as his companion.
+
+     - .. container:: mx-2
+
+          如果他有第二個比丘作為他的同伴。
+
+   * - *Summary: To sit down intruding on a man and a woman in their private quarters—when one or both are sexually aroused, and when another bhikkhu is not present—is a pācittiya offense.*
+     - *摘要：當一男一女中的一人或兩人都處於性興奮狀態，且沒有其他比丘在場時，闖入他們的私人住處坐下，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
