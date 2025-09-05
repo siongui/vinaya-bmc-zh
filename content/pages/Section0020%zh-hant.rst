@@ -456,7 +456,7 @@
      - *2）努力：*\ 私下和她坐在僻靜的座位上，沒有其他男人在場。
 
    * - *3) Intention:* One is aiming at privacy.
-     - *3）意圖：*\ 旨在保護隱私。
+     - *3）意圖：*\ 為了隱私。
 
    * - **Object**
      - **對象**
@@ -491,5 +491,43 @@
    * - The Vibhaṅga states that the presence of a man within sight absolves one from this factor only if he is knowledgeable enough to know what is and is not lewd. The Commentary adds that he must also be awake and neither blind nor deaf. Even a distracted or drowsy man, though, if he meets these criteria, *would* absolve one from this factor.
 
      - 《經分別》指出，只有當一位男性擁有足夠的知識，知道什麼是淫穢，什麼是非淫穢時，該男性在視線可及處，就能免於違犯這一因素。《義註》補充道，他也必須保持清醒，既不盲也不聾。即使是個心不在焉或昏昏欲睡的人，只要符合這些標準，也\ *能*\ 免於違犯這一因素。
+
+   * - **Intention**
+     - **意圖**
+
+   * - The non-offense clauses give an exemption for a bhikkhu “not aiming at privacy,” but the Vibhaṅga nowhere explains what this means. In light of its definition of *private*, “aiming at privacy” could mean simply not wanting anyone near enough to hear what he is saying or to see him wink, raise his eyebrow, or nod.
+
+     - 不犯條款規定，比丘「不為了隱私」可免於處罰，但《經分別》並未解釋其意義。根據其對\ *隱私*\ 的定義，「為了隱私」可能只是指不想讓任何人足夠靠近到能聽到他說話，或看到他眨眼、揚眉或點頭。
+
+   * - The Commentary offers an alternative explanation, defining *aiming at privacy* as being impelled by any defilement related to sex, but this explanation opens as many questions as it tries to resolve. Does it refer solely to the desire for intercourse or to other more subtle sexually-related desires such as those listed in `AN 7:47`_? That is the discourse describing a brahman or contemplative who observes the celibate life by not engaging in sexual intercourse but whose celibacy is “broken, cracked, spotted, and blemished” by the joy he finds in any of the following activities:
+
+     - 《義註》提供了另一種解釋，將\ *為了隱私*\ 定義為受任何與性相關的煩惱所驅使，但這種解釋在試圖解決的同時也引發了許多問題。它僅僅指性交的欲望，還是指其他更細微的與性相關的欲望，例如\ `《增支部》7:47經`_\ 中列出的那些？這是一部經文，描述的是一位婆羅門或沙門，透過不進行性交來遵循梵行生活，但他的梵行因在以下任何活動中發現的快樂而「破碎、破裂、斑駁、玷污」：
+
+   * - .. container:: mx-2
+
+          1\) He consents to being anointed, rubbed down, bathed, and massaged by a woman.
+
+     - .. container:: mx-2
+
+          1）他同意接受女人的塗油、擦拭、沐浴和按摩。
+
+   * - .. container:: mx-2
+
+          2\) He jokes, plays, and amuses himself with a woman.
+
+     - .. container:: mx-2
+
+          2）他和女人開玩笑、玩樂、消遣。
+
+   * - .. container:: mx-2
+
+          3\) He stares into a woman’s eyes.
+
+     - .. container:: mx-2
+
+          3）他凝視著女人的眼睛。
+
+.. _AN 7\:47: https://www.dhammatalks.org/suttas/AN/AN7_47.html
+.. _《增支部》7\:47經: https://sutra.mobi/chilin/zengzhi/content/07.html#%E5%9B%9B%E5%8D%81%E4%B8%83%E6%B7%AB%E6%AC%B2
 
 (未完待續)
