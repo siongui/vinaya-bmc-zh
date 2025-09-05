@@ -527,6 +527,46 @@
 
           3）他凝視著女人的眼睛。
 
+   * - .. container:: mx-2
+
+          4\) He listens to the voices of women outside a wall as they laugh, speak, sing, or cry.
+
+     - .. container:: mx-2
+
+          4）他聆聽牆外女人的笑聲、說話聲、歌聲或哭聲。
+
+   * - .. container:: mx-2
+
+          5\) He recollects how he used to laugh, converse, and play with a woman.
+
+     - .. container:: mx-2
+
+          5）他回憶起過去如何與女人歡笑、交談和玩耍。
+
+   * - .. container:: mx-2
+
+          6\) He sees a householder or householder’s son enjoying himself endowed with the five sensual pleasures.
+
+     - .. container:: mx-2
+
+          6）他看見居士或居士之子正在享受五種感官之樂。
+
+   * - .. container:: mx-2
+
+          7\) He practices the celibate life intent on being born in one or another of the deva hosts, (thinking) “By this virtue or practice or abstinence or celibate life I will be a deva of one sort or another.”
+
+     - .. container:: mx-2
+
+          7）他修行梵行生活，意圖投生為各種各樣的天神，（想著）「通過此戒行、修行、禁欲或梵行生活，我將成為各種各樣的天神。」
+
+   * - The joy a person finds in any of these things is termed a sexual fetter *(methuna-saṁyoga)* that prevents him from gaining release from birth, aging, and death, and from the entire round of suffering. If the Commentary is indeed referring to this sort of thing when it mentions “defilements related to sexual intercourse” *(methuna-nissita-kilesa)*, then in light of its interpretation, the factor of intention under this rule would be fulfilled by such things as wanting to joke with the woman, to stare into her eyes, or to enjoy hearing her voice as she talks or laughs.
+
+     - 一個人從任何這些事物中獲得的快樂被稱為淫結\ *（methuna-saṁyoga）*\ ，它阻礙他從生、老、死以及整個輪迴的苦中獲得解脫。如果《義註》中提到的「與性交相關的煩惱」\ *（methuna-nissita-kilesa）*\ 確實是指這類事物，那麼根據其解釋，這條戒條下的意圖因素應該透過諸如想和女人開玩笑、想凝視她的眼睛、享受聽她說話或笑的聲音等行為來滿足。
+
+   * - The Vinaya-mukha provides a third interpretation, defining “not aiming at privacy” with the following illustration: A bhikkhu is sitting in a secluded place with a man and woman present, but the man gets up and leaves before the bhikkhu can stop him. In other words, the bhikkhu is not intending to sit alone in private with the woman at all, but circumstances beyond his control force him to.
+
+     - 《戒律入口》提供了第三種解釋，用以下例子來定義「不為了隱私」：一位比丘與一男一女坐在僻靜之處，但比丘還沒來得及阻止，那位男士就起身離開了。換句話說，比丘根本並不想與那位女士單獨坐在一起，但他無法控制的情況迫使他不得不如此。
+
 .. _AN 7\:47: https://www.dhammatalks.org/suttas/AN/AN7_47.html
 .. _《增支部》7\:47經: https://sutra.mobi/chilin/zengzhi/content/07.html#%E5%9B%9B%E5%8D%81%E4%B8%83%E6%B7%AB%E6%AC%B2
 
