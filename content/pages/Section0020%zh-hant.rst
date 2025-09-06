@@ -595,4 +595,28 @@
    \*    \*    \*
 
 
+.. _Pc45:
+
+.. raw:: html
+
+   <span id="Pc45"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **45**
+     - **四十五**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu sit in private, alone with a woman, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘私下單獨與女人坐在一起，波逸提。*
+
+   * - The full offense here has three factors that differ slightly from those for the preceding rule.
+     - 這裡的完整違犯有三個因素，與前一條戒條略有不同。
+
 (未完待續)

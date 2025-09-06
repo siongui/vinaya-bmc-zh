@@ -206,5 +206,4 @@
 .. _二: {filename}Section0011%zh-hant.rst#Sg2
 .. _《僧殘》三: {filename}Section0011%zh-hant.rst#Sg3
 .. _四: {filename}Section0011%zh-hant.rst#Sg4
-.. _《波逸提》四五: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
-.. TODO FIXME: replace link to 《波逸提》四五
+.. _《波逸提》四五: {filename}Section0020%zh-hant.rst#Pc45

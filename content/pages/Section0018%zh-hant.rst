@@ -1452,5 +1452,4 @@
      - *摘要：當以隱私為意圖時，與比丘尼單獨在不僻靜但私密的地方坐下或躺下，是《波逸提》（《單墮》）罪。*
 
 .. _Pc 45: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
-.. _《波逸提》四五: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
-.. TODO FIXME: replace link to 《波逸提》四五
+.. _《波逸提》四五: {filename}Section0020%zh-hant.rst#Pc45
