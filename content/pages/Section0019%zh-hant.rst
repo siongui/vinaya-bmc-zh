@@ -585,8 +585,7 @@
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _《小品》.七.3.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_017/#0268a04
 .. _46: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
-.. _四六: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
-.. TODO FIXME: replace link to 《波逸提》四六
+.. _四六: {filename}Section0020%zh-hant.rst#Pc46
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

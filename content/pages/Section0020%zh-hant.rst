@@ -665,4 +665,25 @@
    \*    \*    \*
 
 
+.. _Pc46:
+
+.. raw:: html
+
+   <span id="Pc46"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **46**
+     - **四十六**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, being invited for a meal and without taking leave of an available bhikkhu, go calling on families before or after the meal, except at the proper occasions, it is to be confessed. Here the proper occasions are these: a time of giving cloth, a time of making robes. These are the proper occasions here.*
+
+     - .. container:: notification
+
+          *任何比丘受邀赴餐食，有另一名比丘在而未與之告別，在餐食前或餐食後走訪俗家，除非在適當的場合，波逸提。此處適當的場合是：施衣時，做衣時。這些是此處適當的場合。*
+
 (未完待續)

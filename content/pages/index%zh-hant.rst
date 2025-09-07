@@ -451,7 +451,7 @@
      - `\　　　四十五 <{filename}Section0020%zh-hant.rst#Pc45>`__
 
    * - `\　　　46 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46>`__
-     - 　　　四十六
+     - `\　　　四十六 <{filename}Section0020%zh-hant.rst#Pc46>`__
 
    * - `\　　　47 <https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47>`__
      - 　　　四十七

@@ -417,8 +417,7 @@
 .. _46: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
 .. _《波逸提》三二: {filename}Section0019%zh-hant.rst#Pc32
 .. _三三: {filename}Section0019%zh-hant.rst#Pc33
-.. _四六: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
-.. TODO FIXME: replace link to 四六
+.. _四六: {filename}Section0020%zh-hant.rst#Pc46
 .. _BMC2, Chapter 17: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
 .. _《佛教比丘戒律 第二冊》第十七章: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
 .. _功德衣: https://www.google.com/search?q=%E8%BF%A6%E7%B5%BA%E9%82%A3
