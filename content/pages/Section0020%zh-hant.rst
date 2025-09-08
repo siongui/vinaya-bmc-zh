@@ -684,6 +684,43 @@
 
      - .. container:: notification
 
-          *任何比丘受邀赴餐食，有另一名比丘在而未與之告別，在餐食前或餐食後走訪俗家，除非在適當的場合，波逸提。此處適當的場合是：施衣時，做衣時。這些是此處適當的場合。*
+          *任何比丘受邀赴餐食，有比丘在而未與之告別，在餐食前或餐食後走訪俗家，除非在適當的場合，波逸提。此處適當的場合是：施衣時，做衣時。這些是此處適當的場合。*
+
+   * - The origin story here suggests that the purpose of this rule is to prevent bhikkhus from wandering off before an appointed meal time so that they will not show up late or be difficult to track down; and to prevent them, after the meal, from using the invitation as an excuse to go off wandering without taking leave (see `Pc 85`_). However, the definition of the factor of object—which limits this rule to visiting lay people’s houses—and the non-offense clauses—which allow one to visit monasteries and nunneries without taking leave—suggest a more over-riding purpose: to prevent bhikkhus from taking the invitation as an excuse to visit lay people and spend their time in inappropriate activities.
+
+     - 這裡的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0131a11>`__\ 表明，這條戒條的目的是防止比丘在約定用餐時間前遊蕩，以免他們遲到或難以找到；也是為了防止他們在用餐後以邀請為藉口不告別就去遊蕩（參見\ `《波逸提》八五`_\ ）。然而，對象因素的定義——將本戒條限制為拜訪在家眾的家——以及不犯條款——允許不告別就去寺院和尼姑庵——暗示了一個更重要的目的：防止比丘以邀請為藉口拜訪在家眾並將時間浪費在不適當的活動上。
+
+   * - There are two factors for the full offense here.
+     - 這裡的全面違犯有兩個因素。
+
+   * - *1) Object:* a family residence.
+     - *1）對象：*\ 家庭住處。
+
+   * - *2) Effort:* One enters such a residence—without having taken leave of an available bhikkhu—on a morning when one has been invited to a meal, except during the time exemptions mentioned in the rule.
+     - *2）努力：*\ 在被邀請用餐的早晨，有比丘在而未與之告別，進入這樣的住處，除非在戒條中提到的時間豁免期間。
+
+.. _Pc 85: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc85
+.. _《波逸提》八五: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc85
+.. TODO FIXME: replace link to 《波逸提》八五
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - A family residence is grounds for a pācittiya here; its yard, grounds for a dukkaṭa.
+     - 這裡，家庭住處構成《波逸提》；其庭院構成《突吉羅》。
+
+   * - **Effort**
+     - **努力**
+
+   * - Entering the residence is defined as having both feet inside the threshold. Having only one foot over the threshold incurs a dukkaṭa, in addition to the dukkaṭa for entering the yard.
+
+     - 進入住處的定義是雙腳在門檻內。如果只有一隻腳跨過門檻，犯《突吉羅》，除此之外，進入其庭院也犯一次《突吉羅》。
+
+   * - *Meal* means one consisting of any of the five staple foods. The Vibhaṅga indicates that the amount eaten is irrelevant.
+     - *餐食*\ 是指由五種主食組成的一餐。《經分別》指出，吃多少並不相關。
 
 (未完待續)
