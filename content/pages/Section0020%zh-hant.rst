@@ -694,7 +694,7 @@
      - 這裡的全面違犯有兩個因素。
 
    * - *1) Object:* a family residence.
-     - *1）對象：*\ 家庭住處。
+     - *1）對象：*\ 俗家住處。
 
    * - *2) Effort:* One enters such a residence—without having taken leave of an available bhikkhu—on a morning when one has been invited to a meal, except during the time exemptions mentioned in the rule.
      - *2）努力：*\ 在被邀請用餐的早晨，有比丘在而未與之告別，進入這樣的住處，除非在戒條中提到的時間豁免期間。
@@ -711,7 +711,7 @@
      - **對象**
 
    * - A family residence is grounds for a pācittiya here; its yard, grounds for a dukkaṭa.
-     - 這裡，家庭住處構成《波逸提》；其庭院構成《突吉羅》。
+     - 這裡，俗家住處構成《波逸提》；其庭院構成《突吉羅》。
 
    * - **Effort**
      - **努力**
@@ -722,5 +722,32 @@
 
    * - *Meal* means one consisting of any of the five staple foods. The Vibhaṅga indicates that the amount eaten is irrelevant.
      - *餐食*\ 是指由五種主食組成的一餐。《經分別》指出，吃多少並不相關。
+
+   * - As for the question of how to determine whether another bhikkhu is or is not available, the Commentary draws the distinction like this: After the desire to go calling on families arises in one’s mind and one takes a normal path to leave the monastery, if one comes across a bhikkhu who is close enough to address in a normal tone of voice (within six meters, says the Sub-commentary), that means that a bhikkhu is available and one should inform him of where one is going. If one does not come across a bhikkhu that close, no bhikkhu is available, and there is no need to go out of one’s way to find one.
+
+     - 至於如何判斷是否有比丘在或不在，《義註》是這樣區分的：當心生走訪俗家的願望，並沿著正常的路徑離開寺院後，如果遇到一位距離足夠近、可以用正常語氣講話的比丘（《複註》中說，距離在六米以內），則代表有比丘在，應告知其去向。如果在這麼近的地方沒有遇到比丘，則表示沒有比丘在，無需特意去找。
+
+   * - This, though, is in direct contradiction to the Vibhaṅga’s definition of available—“It is possible to go, having taken leave”—that is, if there is another bhikkhu in the monastery, and there are no obstacles to taking one’s leave from him (e.g., he is asleep, he is sick, he is receiving important visitors), one is obliged to go out of one’s way to inform him.
+
+     - 但這與《經分別》中「在」的定義直接矛盾——「告別後可以離開」——也就是說，如果寺院裡有另一位比丘，而向他告別沒有任何障礙（例如，他睡著了，他生病了，他正在接待重要訪客），那麼就有義務去通知他。
+
+   * - According to the K/Commentary, *taking leave* in the context of this rule means the simple act of informing the other bhikkhu that, “I am going to the house of so-and-so,” or any similar statement. In other words, one is not asking permission to go (see the discussion of *taking leave* under `Pc 14`_). However, if the other bhikkhu sees that one is doing something improper in going, he is perfectly free to say so. If one treats his comments with disrespect, one incurs at least a dukkaṭa under `Pc 54`_. (See the discussion under that rule for details.)
+
+     - 根據 K/《義註》，在此戒條中，「\ *告別*\ 」指的是簡單地告知其他比丘「我要去某某家」或任何類似的說法。換句話說，並非在請求允許前往（參見\ `《波逸提》十四`_\ 中\ *告別*\ 的討論）。然而，如果其他比丘認為前往時在做不恰當的事情，他完全可以自由地如此說。如果不尊重其他比丘的言辭，則根據\ `《波逸提》五四`_\ ，至少會犯《突吉羅》。（詳情請參閱該戒條下的討論。）
+
+   * - For a new bhikkhu still living in dependence *(nissaya)* on his mentor, though, taking leave *is* a matter of asking permission at all times, whether one has been invited to a meal or not. The Mahāvagga (I.25.24; II.21.1) states that one of the duties of such a bhikkhu is that he must receive permission from his mentor before entering a village, going to a cemetery, or leaving the district. Not to ask permission before going, or to go after being denied permission, is to incur a dukkaṭa. As for the mentor, if he gives permission to go when it is not appropriate to do so, *he* is the one who incurs the dukkaṭa.
+
+     - 然而，對於仍依止\ *（nissaya）*\ 導師生活的新出家比丘來說，無論是否受邀請赴餐食，每次離開\ *都*\ 需先行請求導師的允許。《大品》（\ `一.25.24`_\ ；\ `二.21.1`_\ ）規定，這類比丘的義務之一是，在進入村莊、前往墓地或離開所在地區之前，必須獲得導師的許可。未經許可前往，或被拒絕後仍前往，均會犯《突吉羅》。至於導師，如果在不合適的情況下允許前往，\ *他*\ 自己犯《突吉羅》。
+
+   * - Perception as to whether one has actually been invited to a meal is not a mitigating factor here (see `Pc 4`_).
+     - 對於是否真的被邀請赴餐食的感知並不是這裡的減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+.. _Pc 14: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc14
+.. _Pc 54: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
+.. _《波逸提》十四: {filename}Section0017%zh-hant.rst#Pc14
+.. _《波逸提》五四: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
+.. TODO FIXME: replace link to 《波逸提》五四
+.. _一.25.24: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0067a04
+.. _二.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0157a10
 
 (未完待續)
