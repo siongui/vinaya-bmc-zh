@@ -750,4 +750,63 @@
 .. _一.25.24: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0067a04
 .. _二.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0157a10
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - As the rule states, there is no offense in not taking leave at the time of giving cloth—the robe season—or at a time of making robes, i.e., any time when one is making a robe. These exceptions enable a bhikkhu to visit his lay supporters easily to obtain any gifts of thread, cloth, or scissors, etc., he may need at such times.
+
+     - 如戒條所述，在施衣時（袈裟季節）或做衣時（即任何正在製作袈裟的時間）不告別並無犯戒。這些豁免使得比丘能夠容易地拜訪他的在家支持者，以獲得他可能需要的線、布、剪刀等的布施。
+
+   * - There is also no offense in going to or through a family residence when one has taken leave of another bhikkhu, or in going when one has not taken leave under any of the following circumstances:
+
+     - 當已經向另一位比丘告別時，前往或經過俗家住處，或者在下列任何情況下沒有向另一位比丘告別而前往，也沒有犯戒：
+
+   * - .. container:: mx-2
+
+          —There is no bhikkhu available (in addition to the examples mentioned above, this would include cases where one is living alone, all the other bhikkhus have left, or all the bhikkhus in the monastery are going together).
+
+     - .. container:: mx-2
+
+          —沒有比丘在（除了上述例子外，還包括一個人獨居、其他比丘都已離開，或寺院裡所有比丘都一起前往的情況）。
+
+   * - .. container:: mx-2
+
+          —One is going to the house where one was invited for the meal.
+
+     - .. container:: mx-2
+
+          —前往被邀請赴餐食的那戶人家。
+
+   * - .. container:: mx-2
+
+          —The path to the house in which the meal is to be given leads through another house or its yard.
+
+     - .. container:: mx-2
+
+          —通往提供餐食的房屋的路徑要穿過另一棟房屋或其院子。
+
+   * - .. container:: mx-2
+
+          —One is on one’s way to another monastery (§), to bhikkhunīs’ quarters, to the residence of people ordained in another religion (located in a village, says the Commentary), or one is returning from any of these places.
+
+     - .. container:: mx-2
+
+          —正前往另一座寺院（§）、比丘尼的住處、另一個宗教的出家者的住所（《義註》中說，位於村莊裡），或者正從這些地方返回。
+
+   * - .. container:: mx-2
+
+          —There are dangers. This, according to the Commentary, refers to dangers to one’s life or to one’s resolve in remaining celibate.
+
+     - .. container:: mx-2
+
+          —存在危險。根據《義註》，這指的是危及生命或危及保持梵行的決心。
+
+   * - The non-offense clauses do not mention this point, but the perception section of the Vibhaṅga makes clear that this rule does not apply when one is not invited to a meal.
+
+     - 不犯條款並沒有提到這一點，但《經分別》的感知章節明確指出，當沒有被邀請赴餐食時，這條戒條不適用。
+
 (未完待續)
