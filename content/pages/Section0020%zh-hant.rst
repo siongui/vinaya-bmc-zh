@@ -825,4 +825,32 @@
    \*    \*    \*
 
 
+.. _Pc47:
+
+.. raw:: html
+
+   <span id="Pc47"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **47**
+     - **四十七**
+
+   * - .. container:: notification
+
+          *A bhikkhu who is not ill may accept (make use of) a four-month invitation to ask for requisites. If he should accept (make use of) it beyond that—unless the invitation is renewed or is permanent—it is to be confessed.*
+
+     - .. container:: notification
+
+          *無病的比丘可以接受（利用）四個月的邀請來索取必需品。如果他接受（利用）超過此者 —— 除非該邀請被更新的或是永久的 —— 波逸提。*
+
+   * - **Invitations**
+     - **邀請**
+
+   * - An invitation to ask for requisites is an offer made by a lay person to supply a bhikkhu with requisites whenever he (the bhikkhu) asks for them. Such invitations may be made either to individual bhikkhus, to groups, or to entire Communities. The responsibilities incumbent on the two sides in such an arrangement are well illustrated in a passage from the origin story to this rule.
+
+     - 邀請來索取必需品是指居士提出的供養，每當比丘索取時，為其提供必需品。此類邀請可以針對個別比丘、團體或整個僧團提出。此種安排中雙方應盡的責任，在\ `本戒條起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0135a14>`_\ 的一個段落中已有詳盡闡述。
+
 (未完待續)

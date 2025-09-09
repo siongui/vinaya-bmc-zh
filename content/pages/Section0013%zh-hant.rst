@@ -2405,8 +2405,7 @@
 .. _Pc 84: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
 .. _《波逸提》八四: {filename}Section0024%zh-hant.rst#Pc84
 .. _Pc 47: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47
-.. _《波逸提》四七: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47
-.. TODO FIXME: replace link to 《波逸提》四七
+.. _《波逸提》四七: {filename}Section0020%zh-hant.rst#Pc47
 .. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
 .. _《長部》2經: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N06n0004_002/
 .. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36
