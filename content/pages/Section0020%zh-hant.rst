@@ -917,4 +917,38 @@
 
           「因此釋迦族摩訶男批評、抱怨並傳播此事，『尊者們被告知「請等待今天剩下的時間，大德們」，怎麼不等待呢？』」
 
+   * - As the story shows, the person making the invitation was expected to provide the goods he offered, while bhikkhus were expected to be reasonable in their requests.
+     - 如故事所示，提出邀請的人應該提供他所供養的物品，而比丘們則應該合理地請求。
+
+   * - The Vibhaṅga’s discussion here assumes that this rule applies to invitations offering medicines, but it does not say explicitly whether it covers invitations made to individuals or to those made to entire Communities. The Commentary, however, argues reasonably from a statement in the Vibhaṅga’s non-offense clauses (see below) that it covers only invitations made to Communities.
+
+     - 《經分別》在此的討論假設這條戒條適用於提供藥物的邀請，但並未明確說明是否涵蓋向個人發出的邀請，還是向整個僧團發出的邀請。然而，《義註》根據《經分別》的不犯條款（見下文）的陳述，合理地論證了本戒條僅涵蓋向僧團發出的邀請。
+
+   * - The rule and origin stories show that invitations of this sort originally had three standard forms: a four-month invitation (each of the major seasons in India lasts four months, which may have been the reason for this type of invitation), a renewed four-month invitation, and a permanent invitation. Eventually, though, the Vibhaṅga worked out the following fourfold schema to cover invitations of a wide variety of sorts: those that specify (1) requisites (medicines), (2) a time period, (3) both, or (4) neither.
+
+     - 戒條和起源故事表明，此類邀請最初有三種標準形式：四個月的邀請（印度每個主要季節持續四個月，這可能是此類邀請的原因）、續期（更新）四個月的邀請以及永久邀請。然而，《經分別》最終制定了以下四重模式，以涵蓋各種類型的邀請，指定：（1）必需品（藥物）、（2）時間段、（3）兩者兼具、（4）兩者皆無。
+
+   * - .. container:: mx-2
+
+          1\) An invitation specifying requisites may specify merely the type of item offered—“Let me know if you ever need any honey or sugar”—or also the amount—“Let me know if you ever need a bottle of honey… a pound of sugar.” In cases like these, a bhikkhu may ask for the type or amount of the item offered. If he asks for other items or for more of the proper item than the amount offered, if that too is specified, he incurs a pācittiya. However, because the donor mentions no time limit, the Vibhaṅga says that the bhikkhu may ask at any time.
+
+     - .. container:: mx-2
+
+          1）指定必需品的邀請，可能僅指定供養物品的種類——例如「如果您需要蜂蜜或糖，請告訴我」——或者也指定數量——例如「如果您需要一瓶蜂蜜……一磅糖，請告訴我」。在這種情況下，比丘可以要求供養物品的種類或數量。如果他要求其他物品，或要求供養物品的數量超過供養數量（如果數量也指定的話），則他犯了《波逸提》。然而，由於布施者沒有提及時間限制，《經分別》規定比丘可以隨時提出請求。
+
+   * - .. container:: mx-2
+
+          2\) An invitation specifying the time period may be phrased, for example, “Let me know if you need any medicine during this Rains-residence.” In cases like this, a bhikkhu may ask for any type or amount of medicine during that time period. But as the origin stories to this and the other rules dealing with asking make clear (see `Sg 6`_ and `NP 6`_ & 7_), he should be moderate and reasonable when making requests, and not abuse the lay supporter’s generosity. If, not being ill, he asks after the period has expired, he incurs a pācittiya.
+
+     - .. container:: mx-2
+
+          2）可以指定具體時間段的邀請，例如：「如果您在雨安居期間需要任何藥物，請告訴我。」在這種情況下，比丘可以在該時間段內請求任何種類或數量的藥物。但正如此戒條的起源故事以及其他有關請求的戒條所明確指出的（參見\ `《僧殘》六`_\ 以及\ `《捨墮》六`_\ 和\ `七`_\ ），比丘在提出請求時應適度合理，切勿濫用在家支持者的慷慨。如果他沒有生病，但在雨安居期滿後才請求，則犯《波逸提》。
+
+.. _Sg 6: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg6
+.. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
+.. _7: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
+.. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
+.. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
+.. _七: {filename}Section0013%zh-hant.rst#NP7
+
 (未完待續)
