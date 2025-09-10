@@ -853,4 +853,68 @@
 
      - 邀請來索取必需品是指居士提出的供養，每當比丘索取時，為其提供必需品。此類邀請可以針對個別比丘、團體或整個僧團提出。此種安排中雙方應盡的責任，在\ `本戒條起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0135a14>`_\ 的一個段落中已有詳盡闡述。
 
+   * - .. container:: mx-2
+
+          “Now at that time some group-of-six bhikkhus wore their lower robes improperly, their upper robes improperly, and were not at all consummate in their deportment. Mahānāma the Sakyan criticized them: ‘Venerable sirs, why do you wear your lower robes improperly, your upper robes improperly, and why are you not at all consummate in your deportment? Shouldn’t a person who has gone forth wear his lower robe properly, his upper robe properly, and be consummate in his deportment?’
+
+     - .. container:: mx-2
+
+          「爾時，有六群比丘，下衣穿著不當，上衣穿著不當，儀態也不夠端正。釋迦族摩訶男批評他們：『尊者，你們為何下衣穿著不當，上衣穿著不當，儀態也不夠端正？出家的人難道不應該下衣穿著得體，上衣穿著得體，儀態端正嗎？』
+
+   * - .. container:: mx-2
+
+          “The group-of-six bhikkhus nursed a grudge against him. They thought, ‘Now, how can we make Mahānāma the Sakyan feel abashed?’ Then the thought occurred to them, ‘He has made an invitation to provide the Community with medicines. Let’s ask him for ghee.’
+
+     - .. container:: mx-2
+
+          「那六位比丘對他心生怨恨。他們心想：『現在，我們該如何讓釋迦族摩訶男感到羞愧呢？』於是他們想：『他已提出邀請來提供僧團藥物。我們去跟他要酥油吧。』
+
+   * - .. container:: mx-2
+
+          “So they went to Mahānāma the Sakyan and on arrival said to him, ‘We need a tubful of ghee, my friend.’
+
+     - .. container:: mx-2
+
+          「於是他們去見釋迦族摩訶男，一到那裡就對他說：『我們需要一桶酥油，我的朋友。』
+
+   * - .. container:: mx-2
+
+          “‘Please wait for the rest of today, venerable sirs. People have just gone to the cattle pen to get ghee. You may come and fetch it in the morning.’
+
+     - .. container:: mx-2
+
+          「『請大德們等待今天剩下的時間。人們剛去牛圈取酥油。您明早再來取吧。』
+
+   * - .. container:: mx-2
+
+          A second time… A third time, they said to him, ‘We need a tubful of ghee, my friend.’
+
+     - .. container:: mx-2
+
+          第二次…第三次，他們對他說：『我們需要一桶酥油，我的朋友。』
+
+   * - .. container:: mx-2
+
+          “‘Please wait for the rest of today, venerable sirs. People have just gone to the cattle pen to get ghee. You may come and fetch it in the morning.’
+
+     - .. container:: mx-2
+
+          「『請大德們等待今天剩下的時間。人們剛去牛圈取酥油。您明早再來取吧。』
+
+   * - .. container:: mx-2
+
+          “‘What’s with this invitation without wanting to give, friend, in that having made the invitation you don’t give?’
+
+     - .. container:: mx-2
+
+          「『朋友，既然不想給而邀請，為什麼還要提出你不想給的邀請呢？』
+
+   * - .. container:: mx-2
+
+          “So Mahānāma the Sakyan criticized and complained and spread it about, ‘How can their reverences, being told, “Please wait for the rest of today, venerable sirs,” not wait?’”
+
+     - .. container:: mx-2
+
+          「因此釋迦族摩訶男批評、抱怨並傳播此事，『尊者們被告知「請等待今天剩下的時間，大德們」，怎麼不等待呢？』」
+
 (未完待續)
