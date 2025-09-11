@@ -990,4 +990,24 @@
 
      - 《經分別》在此並未對\ *藥物*\ 做出定義，但其例子均與五種補品有關，而《義註》也正是以此為依據對本戒條下的\ *藥物*\ 做出定義。《四大教示》亦可被用來擴展\ *藥物*\ ，使其亦涵蓋終身藥物。
 
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga also neglects to give an explicit definition for *not ill*, but in one of its wheels it states that if a bhikkhu asks for a medicine when he has no need for a medicine (§—reading *na-bhesajjena karaṇiye* with the Thai and Sri Lankan editions of the Canon), he incurs a pācittiya in the asking. The Commentary explains *having no need for medicine* as being well enough to get by on “mixed” food, which is apparently its term for food acquired at random (see `BMC2, Chapter 18`_).
+
+     - 《經分別》也忽略了對「\ *無病*\ 」給予明確定義，但在其中一個「輪子」中指出，如果比丘在不需要藥物的情況下要求藥物（§——在泰國和斯里蘭版本的《聖典》中讀作 *na-bhesajjena karaṇiye* ），則他在要求時會犯《波逸提》。《義註》將\ *不需要藥物*\ 解釋為身體狀況良好，可以靠「混合」食物過活，顯然它是指隨機獲取的食物（參見\ `《佛教比丘戒律 第二冊》第十八章`_\ ）。
+
+   * - The Vibhaṅga’s wheel goes on to state that if a bhikkhu requests one medicine when he actually has need of another (e.g., he has a disease that calls for a disgusting ghee concoction (see `Mv.VIII.1.23-26`_) but requests honey instead), he incurs a pācittiya in the requesting as well. These penalties apply regardless of whether he receives what he requests.
+
+     - 《經分別》的「輪子」繼續指出，如果比丘請求一種藥物，而實際上他需要的是另一種藥物（例如，他患了一種需要令人作嘔的酥油混合物的疾病（參見\ `《大品》.八.1.23-26`_\ ），但他卻請求蜂蜜），那麼他也會因請求而犯《波逸提》。無論他是否得到他所請求之物，都會受到這些懲罰。
+
+   * - Perception as to whether one is making a request outside the terms of the invitation is not a mitigating factor here (`Pc 4`_).
+     - 對於是否提出超出邀請條款的請求的感知並不是這裡的減輕懲罰因素（\ `《波逸提》四`_\ ）。
+
+.. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. _《佛教比丘戒律 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十八章
+.. _Mv.VIII.1.23-26: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts1_23
+.. _《大品》.八.1.23-26: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0362a03
+
 (未完待續)
