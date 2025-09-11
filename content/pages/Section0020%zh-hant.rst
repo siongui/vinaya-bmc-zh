@@ -944,11 +944,50 @@
 
           2）可以指定具體時間段的邀請，例如：「如果您在雨安居期間需要任何藥物，請告訴我。」在這種情況下，比丘可以在該時間段內請求任何種類或數量的藥物。但正如此戒條的起源故事以及其他有關請求的戒條所明確指出的（參見\ `《僧殘》六`_\ 以及\ `《捨墮》六`_\ 和\ `七`_\ ），比丘在提出請求時應適度合理，切勿濫用在家支持者的慷慨。如果他沒有生病，但在雨安居期滿後才請求，則犯《波逸提》。
 
+   * - .. container:: mx-2
+
+          3\) An invitation specifying requisites and the time period might be phrased, “Let me know if you need any honey during the Rains-residence.” In cases like this, a bhikkhu incurs a pācittiya if he asks for items other than those offered—or for more of the proper item than the amount offered, if that too is specified—regardless of whether he asks during the specified time period. He also incurs a pācittiya if, not being ill, he asks for the items offered after the time period has expired.
+
+     - .. container:: mx-2
+
+          3）指定必需品和期限的邀請，可以這樣表述：「在雨安居期間，如果您需要蜂蜜，請告訴我。」在這種情況下，如果比丘請求供養品以外的物品，或請求供養品的數量超過供養量（如果供養量也已指定），無論他是否在指定的期限內請求，都會招致《波逸提》。如果他沒有生病，但在期限過後要求供養品，也會招致《波逸提》。
+
+   * - .. container:: mx-2
+
+          4\) An invitation specifying neither requisites nor the time period may be phrased, for example, “Let me know if you ever need any medicine.” In cases like this, the bhikkhu may ask for any medicine at any time. As in case (2), though, he should try to be reasonable in his requests.
+
+     - .. container:: mx-2
+
+          4）邀請既不指定必需品也不指定具體時間，可以這樣表述，例如：「如果您需要任何藥物，請告訴我。」在這種情況下，比丘可以隨時請求任何藥物。不過，與情況（2）一樣，他應該盡量合理地提出請求。
+
 .. _Sg 6: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg6
 .. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
 .. _7: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
 .. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
 .. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
 .. _七: {filename}Section0013%zh-hant.rst#NP7
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The factors of the offense**
+     - **犯戒因素**
+
+   * - The factors of the offense here are two.
+     - 此處的犯戒因素有二。
+
+   * - *1) Object:* medicine that a donor has invited a Community to request.
+     - *1）對象：*\ 布施者邀請僧團請求的藥物。
+
+   * - *2) Effort:* One requests it outside of the terms of the invitation when one is not ill.
+     - *2）努力：*\ 在沒有生病的情況下，在邀請條件之外提出請求。
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga does not define *medicine* here, but its examples all deal with the five tonics, and that is how the Commentary defines *medicine* under this rule. The Great Standards could be used to extend *medicine* to cover lifetime medicines as well.
+
+     - 《經分別》在此並未對\ *藥物*\ 做出定義，但其例子均與五種補品有關，而《義註》也正是以此為依據對本戒條下的\ *藥物*\ 做出定義。《四大教示》亦可被用來擴展\ *藥物*\ ，使其亦涵蓋終身藥物。
 
 (未完待續)
