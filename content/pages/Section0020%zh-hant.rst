@@ -1056,4 +1056,28 @@
    \*    \*    \*
 
 
+.. _Pc48:
+
+.. raw:: html
+
+   <span id="Pc48"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **48**
+     - **四十八**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu go to see an army on active duty, unless there is a suitable reason, it is to be confessed.*
+
+     - .. container:: notification
+
+          *任何比丘若去觀看現役的軍隊，除非有適當的理由，波逸提。*
+
+   * - This is an offense with three factors: object, effort, and intention.
+     - 這是一個有三個因素的犯戒：對象、努力和意圖。
+
 (未完待續)
