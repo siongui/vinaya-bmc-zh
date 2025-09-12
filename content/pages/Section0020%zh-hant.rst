@@ -1036,4 +1036,24 @@
 .. _Pc 39: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc39
 .. _《波逸提》三九: {filename}Section0019%zh-hant.rst#Pc39
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **An alternative interpretation**
+     - **另一種解釋**
+
+   * - The Vinaya-mukha tries to extend this rule to cover invitations of every sort, individual and communal, dealing with any sort of requisite. It also reads the training rule to mean that if a time limit is not specified on an invitation, a four-month time limit is to be assumed. All of this has no support in the Vibhaṅga and so is not binding, but the last point is something that individual bhikkhus may adopt as a personal policy to teach themselves moderation in their requests. A donor’s faith and financial position can change quickly, and it is reasonable not to depend on an invitation for longer periods of time unless the donor makes it clear that he/she is still willing to continue providing the item offered on a long-term basis.
+
+     - 《戒律入口》試圖將此戒條擴展至涵蓋各種形式的邀請，無論是個人邀請還是集體邀請，以及處理任何種類的必需品。它還將本戒條解讀成，如果邀請未註明期限，則視為四個月的期限。所有這些在《經分別》中均無依據，因此不具有約束力，但最後一點是比丘們可以作為個人準則，以學習在請求時保持節制。布施者的信心和經濟狀況可以快速地轉變，因此，除非布施者明確表示願意長期繼續供養物品，否則不依賴長期邀請是合理的。
+
+   * - *Summary: When a supporter has made an offer to supply medicines to the Community: Asking him/her for medicine outside the terms of the offer when one is not ill is a pācittiya offense.*
+     - *摘要：當支持者向僧團提出供養藥物時：在沒有生病的情況下向其要求超出提供條款的藥物，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
