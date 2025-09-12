@@ -1010,4 +1010,30 @@
 .. _Mv.VIII.1.23-26: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts1_23
 .. _《大品》.八.1.23-26: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0362a03
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - Three of the non-offense clauses require no explanation: There is no offense in asking from relatives, for the sake of another, or for medicine to be bought with one’s own resources.
+
+     - 其中三項不犯條款無需解釋：向親戚要求、為他人要求、用自己的資源購買藥物均不犯戒。
+
+   * - One of the two non-offense clauses requiring explanation is that there is no offense in asking “from those by whom one was invited with medicine.” This the Commentary explains by saying that if one has received a personal invitation, one may ask in line with its terms, but that otherwise the limits set by this rule apply only to invitations made to an entire Community and not to those made on a personal basis to individual bhikkhus. Although the Vibhaṅga makes no specific mention of this point, the Commentary’s explanation seems the best way to make sense of this non-offense clause and the relationship between this rule and `Pc 39`_. Under that rule, a bhikkhu who is not ill and has not been invited incurs a dukkaṭa in asking for any one of the five tonics, and there seems no reason to impose a heavier penalty for requesting one of the five tonics after a personal invitation to do so has expired. If, though, the invitation referred to in this rule is one made to an entire Community, the heavier penalty makes sense as an added protection to the donor against having his/her invitation abused by the less conscientious members of the Community. This added protection would also be a means of encouraging further invitations of this sort in the future.
+
+     - 需要解釋的兩條不犯條款之一是，「向邀請自己藥物的人」要求並無犯戒。《義註》對此的解釋是，如果收到了個人邀請，則可以按照其條款提出要求，但除此之外，此戒條的限制僅適用於向整個僧團發出的邀請，而不適用於基於個人向個別比丘發出的邀請。雖然《經分別》沒有具體提及這一點，但《義註》的解釋似乎是理解此不犯條款以及此戒條與\ `《波逸提》三九`_\ 之間關係的最佳方式。根據該戒條，無病且未被邀請的比丘在要求五種補品中的任何一種時犯《突吉羅》，並且似乎沒有理由對在個人邀請過期後請求五種補品之一施加更重的懲罰。然而，如果本戒條中提到的邀請是向整個僧團發出的，那麼更重的懲罰是合理的，因為它可以為布施者提供額外的保護，防止其邀請被僧團中不太負責任的成員濫用。這種額外的保護也有助於鼓勵未來繼續進行此類邀請。
+
+   * - The second non-offense clause requiring explanation is the one for an ill bhikkhu. Reading the rule, one might imagine that the exemption for an ill bhikkhu would read simply, “There is no offense if one is ill,” but instead it reads, “There is no offense if one says, ‘The time period for which we were invited has passed, but we have need of medicine.’” This is an important point of etiquette. Normally, an ill bhikkhu may ask anyone for medicine at any time, but in dealing with a person who has made an invitation for medicine to the Community, he has to show special consideration. In mentioning the fact that the time period for the invitation has expired, he gives recognition of the fact that the donor is no longer under any obligation to provide the medicine, thus giving the donor a convenient “out” in case he/she can no longer provide it. This simple gesture is the least consideration that can be shown to someone who has had the generosity to invite the Community to ask for medicines. And again, simple gestures of this sort help to protect donors and encourage similar invitations again in the future.
+
+     - 第二個需要解釋的不犯條款是關於生病比丘的。閱讀這條戒條，可能會以為，對生病比丘的豁免條款可簡單地拼讀成「如果生病，就沒有犯戒」，但實際上卻是「如果說『我們被邀請的期限已過，但我們需要藥物』，則沒有犯戒。」這是威儀中的一個重要方面。通常，生病的比丘可以隨時向任何人要求藥物，但在對待邀請僧團索取藥物的人時，他必須表現出特殊的體諒。在提到邀請期限已過這一事實時，他承認了布施者不再有提供藥物的義務，從而為布施者在無法再提供藥物時提供了一個方便的「藉口」。這個簡單的舉動，是對慷慨邀請僧團索取藥物的人所能表現出的最低限度的體諒。再次強調，這種簡單的舉動有助於保護布施者，並鼓勵未來再次發出類似的邀請。
+
+   * - Although this last non-offense clause applies explicitly only to an invitation specifying the time period, the Great Standards could be used to apply it to an invitation specifying requisites as well. In other words, an ill bhikkhu could say, “You invited the Community with honey, but I have need of ghee.”
+
+     - 雖然最後這條不犯條款明確僅適用於指定時段的邀請，但可用《四大教示》來將此不犯條款也適用於指定必需品的邀請。換句話說，一位生病的比丘可以說：「你用蜂蜜邀請僧團，但我需要酥油。」
+
+.. _Pc 39: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc39
+.. _《波逸提》三九: {filename}Section0019%zh-hant.rst#Pc39
+
 (未完待續)
