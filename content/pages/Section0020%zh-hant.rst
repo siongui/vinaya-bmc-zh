@@ -1181,4 +1181,25 @@
    \*    \*    \*
 
 
+.. _Pc49:
+
+.. raw:: html
+
+   <span id="Pc49"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **49**
+     - **四十九**
+
+   * - .. container:: notification
+
+          *There being some reason or another for a bhikkhu to go to an army, he may stay two or three (consecutive) nights with the army. If he should stay beyond that, it is to be confessed.*
+
+     - .. container:: notification
+
+          *當比丘有因緣前往軍隊，他可以隨軍隊停留兩至三個（連續）夜晚。若停留時間超過此者，波逸提。*
+
 (未完待續)
