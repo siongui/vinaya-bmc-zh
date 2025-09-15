@@ -1269,4 +1269,45 @@
    \*    \*    \*
 
 
+.. _Pc50:
+
+.. raw:: html
+
+   <span id="Pc50"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **50**
+     - **五十**
+
+   * - .. container:: notification
+
+          *If a bhikkhu staying two or three nights with an army should go to a battlefield, a roll call, the troops in battle formation, or to see a review of the (battle) units, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果一個比丘在軍隊中停留兩三個晚上，並且去了戰場、點名、觀看戰鬥隊形部隊或觀看（戰鬥）部隊檢閱，波逸提。*
+
+   * - .. container:: mx-2
+
+          “Then a certain group-of-six bhikkhu, having gone to the battlefield, was pierced by an arrow. People made fun of him: ‘We hope (the battle) was well fought, venerable sir. How many points did you get? (§)’”
+
+     - .. container:: mx-2
+
+          「\ `爾時，六群比丘前往戰場，卻被箭射中 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0143a03>`_\ 。人們取笑他：『希望這場戰鬥打得不錯，大德。您得了多少分？（§）』」
+
+   * - A *battlefield*, according to the Vibhaṅga and Commentary here, is a place where actual fighting may be seen; according to the Commentary to the Brahmajāla Suttanta, it is a place where war games are held. Both interpretations seem valid, especially considering the organized and decorous nature of warfare in those days.
+
+     - *戰場*\ ，根據這裡的《分別經》及《義註》，是可以看到實際戰鬥的地方；而根據\ `《梵網經》`_\ 的《義註》，是進行戰爭遊戲的地方。這兩種解釋似乎都成立，尤其是考慮到當時戰爭的組織性和莊嚴性。
+
+   * - The Commentary also says that a *review of battle units* can mean anything down to a review of a single unit.
+     - 《義註》還指出，對\ *戰鬥部隊的檢閱*\ 可以包含對單一部隊的檢閱。
+
+   * - *Roll call* and *troops in battle formation* are self-explanatory.
+     - *點名*\ 和\ *戰鬥隊形部隊*\ 都是不言自明的。
+
+.. _《梵網經》: https://sutra.mobi/chilin/chang/content/01.html
+
 (未完待續)
