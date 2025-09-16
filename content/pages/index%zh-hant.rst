@@ -466,10 +466,10 @@
      - `\　　　五十 <{filename}Section0020%zh-hant.rst#Pc50>`__
 
    * - `\　　Six: The Alcoholic Drink Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0021.html>`__
-     - 　　第六 飲谷酒品
+     - `\　　第六 飲谷酒品 <{filename}Section0021%zh-hant.rst>`__
 
    * - `\　　　51 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc51>`__
-     - 　　　五十一
+     - `\　　　五十一 <{filename}Section0021%zh-hant.rst#Pc51>`__
 
    * - `\　　　52 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc52>`__
      - 　　　五十二
