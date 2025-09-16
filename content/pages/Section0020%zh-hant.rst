@@ -1308,6 +1308,70 @@
    * - *Roll call* and *troops in battle formation* are self-explanatory.
      - *點名*\ 和\ *戰鬥隊形部隊*\ 都是不言自明的。
 
-.. _《梵網經》: https://sutra.mobi/chilin/chang/content/01.html
+   * - DN 1 mentions all four of these activities as forms of entertainment. From this, using the Great Standards, we may say that any show the armed forces put on for the public—parades, air shows, etc.—would also fall under this factor.
 
-(未完待續)
+     - `《長部》1經`_\ 將這四種活動都列為娛樂形式。由此，根據《四大教示》，我們可以說，武裝部隊為公眾舉辦的任何表演——閱兵、飛航展等等——也都屬於此因素。
+
+   * - Notice that these activities fulfill this factor even if they do not include the full array of forces that one would find in a field army or similar large military unit. In other words, a bhikkhu staying with the army would incur the full penalty here for watching these activities even if they involve only a small segment of a single division. If he is not staying with the army, though, then under `Pc 48`_ he would incur a pācittiya for watching these activities if they contain the full complement of artillery, armored, airborne, and infantry forces; and a dukkaṭa if they contain only a segment.
+
+     - 請注意，即使這些活動並非像野戰軍或類似的大型軍事單位那樣，全部兵力參與，也符合此條件。換句話說，如果比丘待在軍隊中觀看這些活動，即使只涉及一個師的一小部分，他在此也會遭受全額懲罰。然而，如果他沒有待在軍隊中，根據\ `《波逸提》四八`_\ ，如果軍隊中包括全部砲兵、裝甲兵、空降兵和步兵，他將因觀看這些活動而犯《波逸提》；如果只包括一部分，犯《突吉羅》。
+
+   * - **Effort**
+     - **努力**
+
+   * - As with `Pc 48`_, there is a dukkaṭa for every step one takes toward watching these activities, and a pācittiya for staying still and watching them.
+     - 正如\ `《波逸提》四八`_\ 一樣，觀看這些活動的所走每一步都會犯一次《突吉羅》，而靜止不動地觀看這些活動則犯《波逸提》。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The Vibhaṅga’s non-offense clauses here are identical with those for Pc 48. In other words, there is no offense:
+     - 此處《經分別》的不犯條款與\ `《波逸提》四八`_\ 的條文相同。換句話說，不犯戒：
+
+   * - .. container:: mx-2
+
+          if, having gone on business, one happens to see any of these activities;
+
+     - .. container:: mx-2
+
+          如果出差時碰巧看到這些活動；
+
+   * - .. container:: mx-2
+
+          if, staying within a monastery, one watches these activities;
+
+     - .. container:: mx-2
+
+          如果待在寺院裡，觀看這些活動；
+
+   * - .. container:: mx-2
+
+          if an army comes to where one happens to be;
+
+     - .. container:: mx-2
+
+          如果一支軍隊來到自己碰巧所在的地方；
+
+   * - .. container:: mx-2
+
+          if one meets an army coming from the opposite direction; or
+
+     - .. container:: mx-2
+
+          如果遇到一支從對面來的軍隊；或者
+
+   * - .. container:: mx-2
+
+          if there are dangers.
+
+     - .. container:: mx-2
+
+          如果有危險。
+
+   * - *Summary: Going to a battlefield, a roll call, an array of troops in battle formation, or to see a review of the battle units while one is staying with an army is a pācittiya offense.*
+     - *摘要：當待在軍隊中時，前往戰場、點名、列隊作戰的部隊、或觀看戰鬥部隊檢閱，是《波逸提》（《單墮》）罪。*
+
+.. _《梵網經》: https://sutra.mobi/chilin/chang/content/01.html
+.. _Pc 48: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc48
+.. _《波逸提》四八: #Pc48
+
