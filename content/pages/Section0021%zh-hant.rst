@@ -86,5 +86,85 @@
 
           「於是，憍賞彌的優婆塞們家家戶戶地準備了鴿子酒，看到娑伽陀尊者出去托缽，就對他說：『娑伽陀尊者，喝點鴿子酒吧！娑伽陀尊者，喝點鴿子酒吧！』娑伽陀尊者家家戶戶地喝完鴿子酒後，出城時，倒臥在城門口。
 
+   * - .. container:: mx-2
+
+          “Then the Blessed One, leaving the city with a number of bhikkhus, saw that Ven. Sāgata had passed out at the city gate. On seeing him, he addressed the bhikkhus, saying, ‘Bhikkhus, pick up Sāgata.’
+
+     - .. container:: mx-2
+
+          「那時，世尊與一群比丘離開城市，看到娑伽陀尊者倒臥在城門口。見到他後，世尊對比丘們說：『比丘們，扶持娑伽陀。』
+
+   * - .. container:: mx-2
+
+          “Responding, ‘As you say, venerable sir,’ the bhikkhus took Ven. Sāgata to the monastery and laid him down with his head toward the Blessed One. Then Ven. Sāgata turned around and went to sleep with his feet toward the Blessed One. So the Blessed One addressed the bhikkhus, saying, ‘In the past, wasn’t Sāgata respectful to the Tathāgata and deferential?’
+
+     - .. container:: mx-2
+
+          「答道：『如你所言，世尊。』比丘們把娑伽陀尊者帶回寺院，讓他頭朝向世尊躺下。然後娑伽陀尊者轉過身去，雙腳朝向世尊，繼續睡著了。世尊便對比丘們說道：『過去，娑伽陀對如來不是恭敬順從的嗎？』
+
+   * - .. container:: mx-2
+
+          “‘Yes, venerable sir.’
+
+     - .. container:: mx-2
+
+          「『是的，世尊。』
+
+   * - .. container:: mx-2
+
+          “‘But is he respectful to the Tathāgata and deferential now?’
+
+     - .. container:: mx-2
+
+          「『但他現在對如來還恭敬恭順嗎？』
+
+   * - .. container:: mx-2
+
+          “‘No, venerable sir.’
+
+     - .. container:: mx-2
+
+          「『不，世尊。』
+
+   * - .. container:: mx-2
+
+          “‘And didn’t Sāgata do battle with the Ambatittha nāga?’
+
+     - .. container:: mx-2
+
+          「『娑伽陀不是和安巴提達之龍戰鬥過嗎？』
+
+   * - .. container:: mx-2
+
+          “‘Yes, venerable sir.’
+
+     - .. container:: mx-2
+
+          「『是的，世尊。』
+
+   * - .. container:: mx-2
+
+          “‘But could he do battle with even a salamander now?’
+
+     - .. container:: mx-2
+
+          「『但是他現在能和即使一隻蠑螈戰鬥嗎？』
+
+   * - .. container:: mx-2
+
+          “‘No, venerable sir.’”
+
+     - .. container:: mx-2
+
+          「『不，世尊。』」
+
+   * - .. container:: mx-2
+
+          (§—Reading *deḍḍubhena-pi* with the Thai and Sri Lankan versions of the Canon.)
+
+     - .. container:: mx-2
+
+          （§—泰國版和斯里蘭卡版的《聖典》拼讀為 *deḍḍubhena-pi* 。）
+
 
 (未完待續)
