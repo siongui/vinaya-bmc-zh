@@ -199,4 +199,34 @@
 
      - 然而，《經分別》並未指明此處如何計算犯戒次數。根據《義註》，飲酒的犯戒次數取決於單獨啜飲的次數。至於以啜飲以外的方式使用麻醉品，每次單獨努力都算作一次犯戒。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The Vibhaṅga states that there is no offense in taking items that are non-alcoholic, but whose color, taste, or smell is like alcohol. Thus, for example, carbonated apple juice that resembles champagne would not be grounds for an offense.
+
+     - 《經分別》規定，飲用不含酒精但顏色、味道或氣味類似酒精的飲品並不構成犯戒。例如，類似香檳的碳酸蘋果汁不構成犯戒。
+
+   * - There is also no offense in taking alcohol “cooked in broth, meat, or oil.” The Commentary interprets the first two items as referring to sauces, stews, and meat dishes to which alcoholic beverages, such as wine, are added for flavoring before they are cooked. Because the alcohol would evaporate during the cooking, it would have no intoxicating effect. Foods containing unevaporated alcohol—such as rum babas—would not be included under this allowance.
+
+     - 飲用「用肉湯、肉或油烹調的」酒類也不犯戒。《義註》將前兩項解釋為醬汁、燉菜和肉類菜餚，在烹飪前會加入諸如葡萄酒等酒精飲料調味。由於酒精會在烹調過程中揮發，因此不會產生醉人效果。含有未揮發酒精的食物（例如蘭姆巴巴）不在此開緣之列。
+
+   * - As for alcohol cooked in oil, this refers to a medicine used in the Buddha’s time for afflictions of the “wind element.” The Mahāvagga (VI.14.1) allows this medicine for internal use only as long as the taste, color, and smell of the alcohol are not perceptible. From this point, the Vinaya-mukha argues that morphine and other narcotics used as pain killers are allowable as well.
+
+     - 至於油裡煮的酒，指的是佛陀時代用來治療「風大」不調的藥物。\ `《大品》（六.14.1）`_\ 規定，這種藥物只能內服，但酒的味道、顏色和氣味必須無法察覺。從這一點來看，《戒律入口》認為嗎啡和其他用於止痛的麻醉劑也是可以允許的。
+
+   * - In addition, the non-offense clauses state, “With regard to molasses and emblic myrobalan, (there is no offense) if he drinks unfermented *ariṭṭha*.” The Commentary explains this as follows: “There is no offense for non-alcoholic *ariṭṭha*. They reportedly make ariṭṭha with the juice of such fruits as emblic myrobalan, which has the color, smell, and taste of alcohol but is not alcoholic: This is what is meant. That which has the starter thrown in, however, is alcoholic, and even the mother (of this kind of *ariṭṭha*) is unallowable.”
+
+     - 此外，不犯條款規定：「至於糖蜜和餘甘子，如果他飲用未發酵的 *ariṭṭha* ，（不犯戒）。」《義註》對此解釋如下：「不含酒精的 *ariṭṭha* 不犯戒。據說他們用諸如餘甘子等水果的汁液製作 ariṭṭha ，有酒的顏色、氣味和味道，但不含酒精：這就是它的意思。然而，加入發酵劑者含有酒精，即使（這種 *ariṭṭha* 的）母體也是不允許的。」
+
+   * - *Summary: Taking an intoxicant is a pācittiya offense regardless of whether one is aware that it is an intoxicant.*
+     - *摘要：服用麻醉物是《波逸提》（《單墮》）罪，無論是否知道它是麻醉物。*
+
+.. _《大品》（六.14.1）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0273a11
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
