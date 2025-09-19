@@ -378,4 +378,25 @@
    * - *3) Intention:* for fun.
      - *3）意圖：*\ 為了好玩。
 
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga is silent on how to count offenses under this rule. According to the Commentary, each individual effort counts as a separate offense. Thus if one is swimming for fun, one incurs a pācittiya for each hand or foot stroke.
+
+     - 《經分別》並沒有說明如何根據這條戒條計算犯戒。根據《義註》，每一次單獨的努力都算作一次單獨的犯戒。因此，如果只是為了好玩而游泳，那麼每次划手或划腳都犯一次《波逸提》。
+
+   * - Perception as to whether one’s actions count as “playing in the water” is not a mitigating factor here (see `Pc 4`_).
+     - 關於自己的行為是否算作「在水中玩耍」的感知在這裡並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - **Object**
+     - **對象**
+
+   * - Jumping up or down in water less than ankle deep entails a dukkaṭa, as does splashing water with the hands, feet, a stick, or a piece of tile; or playing with water or other liquids—such as rice gruel, milk, buttermilk, colored dyes, urine, or mud—in a vessel.
+
+     - 在水深不到腳踝的水中跳上跳下犯《突吉羅》，用手、腳、棍子或瓷磚濺起水花也一樣；或玩在容器中的水或其他液體（如米粥、牛奶、酪乳、彩色染料、尿液或泥漿）。
+
+   * - The Vibhaṅga states that there is also a dukkaṭa for playing in a boat. This the Commentary illustrates with examples: such things as paddling a boat with an oar, propelling it with a pole, or pushing it up on shore. At present, sailing a sailboat or steering a motorboat would come under this factor.
+
+     - 《經分別》指出，在船上玩耍也犯《突吉羅》。《義註》舉例說明了這一點：例如用槳划船、用篙撐船、或將船推上岸。目前，駕駛帆船或駕駛摩托艇都算在此因素之下。
+
 (未完待續)
