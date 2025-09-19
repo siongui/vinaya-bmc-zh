@@ -345,4 +345,37 @@
    \*    \*    \*
 
 
+.. _Pc53:
+
+.. raw:: html
+
+   <span id="Pc53"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **53**
+     - **五十三**
+
+   * - .. container:: notification
+
+          *The act of playing in the water is to be confessed.*
+
+     - .. container:: notification
+
+          *在水中玩耍的行為，波逸提。*
+
+   * - Here again, the factors for the full offense are three.
+     - 此處再次，構成完全違犯的因素有三。
+
+   * - *1) Effort:* One jumps up or down, splashes, or swims
+     - *1）努力：*\ 跳起或跳下、濺起水花或游泳
+
+   * - *2) Object:* in water deep enough to immerse one’s ankle
+     - *2）對象：*\ 水深足以浸沒腳踝
+
+   * - *3) Intention:* for fun.
+     - *3）意圖：*\ 為了好玩。
+
 (未完待續)
