@@ -270,4 +270,79 @@
    * - *3) Intention:* for fun.
      - *3）意圖：*\ 為了好玩。
 
+   * - **Object**
+     - **對象**
+
+   * - A bhikkhu is grounds for a pācittiya here; any unordained person, grounds for a dukkaṭa. The Vibhaṅga does not say whether *unordained* here includes bhikkhunīs. The Commentary states explicitly that it does, adding that a bhikkhu looking for a little fun can tickle a bhikkhunī without incurring a penalty stronger than a dukkaṭa. There are occasional attempts at humor in the Commentary, and we can probably write this off as one of them.
+
+     - 比丘在此構成《波逸提》；任何未受具足戒者，構成《突吉羅》。《經分別》並未說此處的\ *未受具足戒*\ 是否包括比丘尼。《義註》明確指出，包括比丘尼，並補充說，想找點樂子的比丘可以搔比丘尼癢，而不會遭受比《突吉羅》更重的懲罰。《義註》中偶爾會有一些幽默的嘗試，我們或許可以把這算作其中之一。
+
+   * - Perception as to whether the person being tickled is ordained is irrelevant to the offense (see `Pc 42`_).
+     - 被搔癢的人是否受過具足戒的感知與犯戒無關（參閱\ `《波逸提》四二`_\ ）。
+
+.. _Pc 42: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc42
+.. _《波逸提》四二: {filename}Section0020%zh-hant.rst#Pc42
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - This factor is fulfilled only by body-to-body contact, as defined at length under `Sg 2`_. The following actions, if done with the intent of making the other person laugh, would be grounds for a dukkaṭa here regardless of whether the person was ordained or not:
+
+     - 這一因素僅透過身體對身體的接觸才能滿足，如\ `《僧殘》二`_\ 中詳細定義的那樣。如果以逗別人笑為目的而做出以下行為，則無論該人是否受具足戒，在此都構成《突吉羅》：
+
+   * - .. container:: mx-2
+
+          using an item connected with the body—such as a stick—to poke at the person;
+
+     - .. container:: mx-2
+
+          使用與身體相連的物品（例如棍子）來戳人；
+
+   * - .. container:: mx-2
+
+          touching an item connected with the other person’s body;
+
+     - .. container:: mx-2
+
+          觸摸與他人身體相連的物品；
+
+   * - .. container:: mx-2
+
+          tossing or dropping things on the other person.
+
+     - .. container:: mx-2
+
+          向他人投擲或降落物品。
+
+.. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
+.. _《僧殘》二: {filename}Section0011%zh-hant.rst#Sg2
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - If one has legitimate motives for touching the other person aside from a desire for fun, there is no penalty in doing so. Thus a bhikkhu massaging another bhikkhu’s tired back commits no offense if he inadvertently happens to touch a spot where the other bhikkhu is ticklish. However, touching another bhikkhu in anger would come under `Pc 74`_.
+
+     - 如果除了為了好玩之外，有正當動機觸碰他人，則這樣做不會受到任何懲罰。例如，一位比丘在按摩另一位比丘疲憊的背部時，如果無意中觸碰到了另一位比丘怕癢的部位，則不構成犯戒。然而，憤怒地觸碰另一位比丘則算在\ `《波逸提》七四`_\ 。
+
+   * - *Summary: Tickling another bhikkhu is a pācittiya offense.*
+     - *摘要：搔其他比丘癢是《波逸提》（《單墮》）罪。*
+
+.. _Pc 74: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
+.. _《波逸提》七四: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
+.. TODO FIXME: replace link to 《波逸提》七四
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
