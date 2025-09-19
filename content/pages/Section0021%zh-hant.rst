@@ -229,4 +229,45 @@
    \*    \*    \*
 
 
+.. _Pc52:
+
+.. raw:: html
+
+   <span id="Pc52"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **52**
+     - **五十二**
+
+   * - .. container:: notification
+
+          *Tickling with the fingers is to be confessed.*
+
+     - .. container:: notification
+
+          *用手指搔癢，波逸提。*
+
+   * - .. container:: mx-2
+
+          “Now at that time some group-of-six bhikkhus were making one of the group of seventeen laugh by tickling him with their fingers. Convulsed with laughter and unable to catch his breath, he died.”
+
+     - .. container:: mx-2
+
+          「\ `其時，六群比丘，用手指撓十七群比丘中的一位 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0147a14>`_\ ，逗得他哈哈大笑。他笑得渾身抽搐，喘不過氣來，就死了。」
+
+   * - There are three factors for the full offense here.
+     - 這裡的完全違犯有三個因素。
+
+   * - *1) Object:* another bhikkhu.
+     - *1）對象：*\ 另一位比丘。
+
+   * - *2) Effort:* One touches any part of his body with any part of one’s own body
+     - *2）努力：*\ 用自己身體的任何部位觸碰他的身體的任何部位
+
+   * - *3) Intention:* for fun.
+     - *3）意圖：*\ 為了好玩。
+
 (未完待續)

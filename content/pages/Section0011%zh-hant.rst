@@ -639,8 +639,7 @@
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》附錄五
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _Pc 52: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc52
-.. _《波逸提》五二: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc52
-.. TODO FIXME: replace link to 《波逸提》五二
+.. _《波逸提》五二: {filename}Section0021%zh-hant.rst#Pc52
 
 
 .. list-table::

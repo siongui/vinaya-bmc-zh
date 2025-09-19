@@ -472,7 +472,7 @@
      - `\　　　五十一 <{filename}Section0021%zh-hant.rst#Pc51>`__
 
    * - `\　　　52 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc52>`__
-     - 　　　五十二
+     - `\　　　五十二 <{filename}Section0021%zh-hant.rst#Pc52>`__
 
    * - `\　　　53 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc53>`__
      - 　　　五十三
