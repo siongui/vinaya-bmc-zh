@@ -413,7 +413,43 @@
 
      - 另一方面，如果比丘游泳是為了醫療目的——例如，他的肩膀受傷了，他的醫生建議他游泳以加速癒合——這或許可算作「在水中有事要做」的例子，因此算在相關的不犯條款之下。
 
+   * - **Non-offenses.** The Vibhaṅga states that there is no offense in jumping in or out of the water, swimming, or using a boat—
+     - **不犯。**\ 《經分別》規定，跳入或躍出水面、游泳或使用船均不構成犯戒—
+
+   * - .. container:: mx-2
+
+          if one goes into the water not for fun but because one has business to do—examples would include bathing or helping a person who cannot swim;
+
+     - .. container:: mx-2
+
+          如果下水不是為了好玩而是因為有事要做──例如洗澡或幫助不會游泳的人；
+
+   * - .. container:: mx-2
+
+          if one is crossing to the other shore of a body of water; or
+
+     - .. container:: mx-2
+
+          如果正在穿越水域到另一邊；或者
+
+   * - .. container:: mx-2
+
+          if there are dangers—e.g., one is escaping a fire or a wild beast.
+
+     - .. container:: mx-2
+
+          如果有危險——例如，逃離火災或野獸。
+
+   * - *Summary: Jumping and swimming in the water for fun is a pācittiya offense.*
+     - *摘要：為了好玩而在水中跳躍和游泳是《波逸提》（《單墮》）罪。*
+
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
