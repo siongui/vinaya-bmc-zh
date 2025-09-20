@@ -452,4 +452,37 @@
    \*    \*    \*
 
 
+.. _Pc54:
+
+.. raw:: html
+
+   <span id="Pc54"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **54**
+     - **五十四**
+
+   * - .. container:: notification
+
+          *Disrespect is to be confessed.*
+
+     - .. container:: notification
+
+          *不尊重，波逸提。*
+
+   * - This rule refers to cases where one has been admonished for one’s behavior. The factors for the full offense are two.
+     - 此戒條適用於因行為而受到訓誡的情況。構成完全違犯的因素有二。
+
+   * - *1) Effort:* Having been admonished by a fellow bhikkhu who cites a rule formulated in the Vinaya, one shows disrespect
+     - *1）努力：*\ 被一位比丘同儕引用律藏裡的戒條訓誡時，表現出不敬。
+
+   * - *2) Object:* for the bhikkhu or for the rule.
+     - *2）對象：*\ 對比丘或對戒條。
+
+   * - We will discuss these factors in reverse order.
+     - 我們將按相反的順序討論這些因素。
+
 (未完待續)

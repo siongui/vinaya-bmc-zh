@@ -340,8 +340,7 @@
      - 侮辱比丘犯《波逸提》；侮辱未受具足戒的人——根據《義註》，這適用於從比丘尼到所有其他生物——《突吉羅》。
 
 .. _Pc 54: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
-.. _《波逸提》五四: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
-.. TODO FIXME: replace link to 《波逸提》五四
+.. _《波逸提》五四: {filename}Section0021%zh-hant.rst#Pc54
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

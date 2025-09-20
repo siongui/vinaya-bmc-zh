@@ -2006,8 +2006,7 @@
 .. _Pc 12: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc12
 .. _《波逸提》十二: {filename}Section0017%zh-hant.rst#Pc12
 .. _Pc 54: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
-.. _《波逸提》五四: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
-.. TODO FIXME: replace link to 《波逸提》五四
+.. _《波逸提》五四: {filename}Section0021%zh-hant.rst#Pc54
 .. _Pc 71: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc71
 .. _《波逸提》七一: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc71
 .. TODO FIXME: replace link to 《波逸提》七一
@@ -2749,8 +2748,7 @@
 .. _《僧殘》八: #Sg8
 .. _《中部》15經: https://sutra.mobi/chilin/zhong/content/015.html
 .. _54: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
-.. _五四: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
-.. TODO FIXME: replace link to 五四
+.. _五四: {filename}Section0021%zh-hant.rst#Pc54
 .. _71: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc71
 .. _七一: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc71
 .. TODO FIXME: replace link to 七一

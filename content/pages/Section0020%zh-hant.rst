@@ -745,8 +745,7 @@
 .. _Pc 14: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc14
 .. _Pc 54: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
 .. _《波逸提》十四: {filename}Section0017%zh-hant.rst#Pc14
-.. _《波逸提》五四: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
-.. TODO FIXME: replace link to 《波逸提》五四
+.. _《波逸提》五四: {filename}Section0021%zh-hant.rst#Pc54
 .. _一.25.24: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0067a04
 .. _二.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0157a10
 
