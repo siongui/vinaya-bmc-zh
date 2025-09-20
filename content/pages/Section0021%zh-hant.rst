@@ -399,4 +399,21 @@
 
      - 《經分別》指出，在船上玩耍也犯《突吉羅》。《義註》舉例說明了這一點：例如用槳划船、用篙撐船、或將船推上岸。目前，駕駛帆船或駕駛摩托艇都算在此因素之下。
 
+   * - **Intention**
+     - **意圖**
+
+   * - The Vibhaṅga defines this factor as “for a laugh” *(hassādhippāyo)*, which the Commentary translates as “for fun” or “for sport” *(kiḷādhippāyo)*.
+     - 《經分別》將此因素定義為「為了笑」\ *（hassādhippāyo）*\ ，《義註》將其翻譯為「為了好玩」或「為了運動」\ *（kiḷādhippāyo）*\ 。
+
+   * - The question of swimming for fitness or exercise is not discussed in any of the texts and seems to have been virtually unheard of in Asia until recent times. Swimming in most Asian countries has long been regarded as a childish form of play, and the one mention in the Canon of athletic bhikkhus keeping their bodies in strong shape is disparaging. In the origin story to `Sg 8`_, Ven. Dabba Mallaputta assigned separate dwellings to different groups of bhikkhus—those who studied the suttas, those who studied the Vinaya, those who meditated, etc.—and, finally, “for those bhikkhus who lived indulging in animal talk and keeping their bodies in strong shape, he assigned dwellings in the same place, ‘So that even these venerable ones will stay as they like.’” Thus it does not seem likely that the Buddha would have recognized physical fitness as an appropriate reason for bhikkhus to go swimming.
+
+     - 游泳健身或鍛鍊身體的問題在任何文獻中均未提及，而且似乎直到近代才在亞洲有所聞。在大多數亞洲國家，游泳一直被視為幼稚的玩樂形式，而《聖典》中關於運動型比丘保持強健體魄的提及更是帶有貶義。在\ `《僧殘》八`_\ 的起源故事中，沓婆摩羅子尊者為不同群體的比丘——研習經藏的、研習律藏的、禪修的等等——分配了不同的住所，最後，「對於那些沉溺於畜生論並保持強健體魄的比丘，他分配了同一住所，『以便連這些尊者，也都能隨意居住。』」因此，佛陀似乎不太可能認可身體健康是比丘們去游泳的適當理由。
+
+   * - On the other hand, if a bhikkhu has a medical motive for swimming—e.g., he has injured his shoulder, and his doctor has recommended that he swim to help speed its healing—this would probably count as an instance of “having business to do in the water” and thus would come under the relevant non-offense clause.
+
+     - 另一方面，如果比丘游泳是為了醫療目的——例如，他的肩膀受傷了，他的醫生建議他游泳以加速癒合——這或許可算作「在水中有事要做」的例子，因此算在相關的不犯條款之下。
+
+.. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
+
 (未完待續)
