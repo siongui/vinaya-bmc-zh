@@ -573,7 +573,18 @@
 
      - 沒有任何文獻明確規定這一因素僅限於當面表達的不尊重。因此，如果因為對方的言論，導致在對方背後表達不尊重，似乎也滿足這個因素。
 
+   * - **Further action**
+     - **進一步行動**
+
+   * - If one persists in acting disrespectfully when being admonished, one may also be subject to `Sg 12`_ or to suspension from the Community (see `BMC2, Chapter 20`_).
+     - 如果在受到訓誡時仍然堅持表現出不尊重的行為，則可能還會受到\ `《僧殘》十二`_\ 的處罰或被僧團舉罪（參見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）。
+
 .. _Mv.IV.17.7-9: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#Mv.IV.17.7-9
 .. _《大品》.四.17.7-9: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_004/#0235a06
+.. _Sg 12: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
+.. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. _《僧殘》十二: {filename}Section0011%zh-hant.rst#Sg12
+.. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
 
 (未完待續)
