@@ -537,4 +537,43 @@
 
           或者做出粗魯的手勢，甚至輕微的面部表情來表達自己的蔑視。
 
+   * - .. container:: mx-2
+
+          *Disrespect for the rule* includes—
+
+     - .. container:: mx-2
+
+          *對戒條不尊重*\ 包括—
+
+   * - .. container:: mx-2
+
+          saying, “That’s a stupid rule,” “That rule doesn’t apply to me”;
+
+     - .. container:: mx-2
+
+          說「那是一條愚蠢的戒條」，「那條戒條不適用於我」；
+
+   * - .. container:: mx-2
+
+          stubbornly repeating the action for which one was admonished (this point is covered in `Mv.IV.17.7-9`_);
+
+     - .. container:: mx-2
+
+          固執地重複被訓誡的行為（這點被涵蓋在\ `《大品》.四.17.7-9`_\ 中）；
+
+   * - .. container:: mx-2
+
+          or making a rude gesture, saying, “This is what I think of that rule.”
+
+     - .. container:: mx-2
+
+          或者做出粗魯的示意動作，說「這就是我對該戒條的看法。」
+
+   * - None of the texts explicitly confine this factor to disrespect expressed in the person’s presence. Thus it would seem that if, as a result of the person’s comments, one expresses disrespect behind his or her back, it would fulfill this factor as well.
+
+     - 沒有任何文獻明確規定這一因素僅限於當面表達的不尊重。因此，如果因為對方的言論，導致在對方背後表達不尊重，似乎也滿足這個因素。
+
+.. _Mv.IV.17.7-9: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#Mv.IV.17.7-9
+.. _《大品》.四.17.7-9: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_004/#0235a06
+
 (未完待續)
