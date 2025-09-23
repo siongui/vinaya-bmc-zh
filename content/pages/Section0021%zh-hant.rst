@@ -587,4 +587,43 @@
 .. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if, being admonished, one states simply that one was taught differently by one’s teachers. (The precise words in the Vibhaṅga are, “Such is our teachers’ tradition and catechism.” (§)) The Commentary contains a discussion of which sort of teachers’ tradition is worthy of including in this exemption, but this seems to miss the point. If one can rightfully cite one’s teacher’s instruction as the reason for one’s behavior, then regardless of whether the teacher is right or wrong, such a citation would not count as disrespect.
+
+     - 如果在被訓誡時，僅僅說自己的老師教得不一樣，這並沒有犯戒。（《經分別》的確切措辭是：「這就是我們老師的傳統和教義。」（§））《義註》討論了哪些老師的傳統值得納入這一豁免，但這似乎沒有抓住要點。如果能夠正確地引用自己老師的教導為自己行為的理由，那麼無論老師是對是錯，這樣的引用都不算不尊重。
+
+   * - As `Dhp 76`_ says, one should regard a person who points out one’s faults as a guide who points out hidden treasure. If one shows disrespect to such a guide, it is unlikely that he/she will feel inclined to point out any hidden treasure ever again.
+
+     - 正如\ `《法句》七六`_\ 所說，應該將指出自己過失的人視為指出寶藏的嚮導。如果對這樣的嚮導不敬，那麼他/她很可能永遠不會再想指出任何寶藏。
+
+   * - A good example of how to receive admonishment was set by Ven. Ānanda during the First Council (Cv.XI.1.10). Although he was admonished for committing acts that the Buddha had not declared to be offenses, and although he did not see that he had committed any error, still he willingly confessed his actions as offenses so as to show good faith in his fellow bhikkhus.
+
+     - 阿難尊者在第一次結集（\ `《小品》.十一.1.10`_\ ）中樹立了接受訓誡的典範。儘管他因犯下佛陀未明示的罪行而受到訓誡，儘管他並未意識到自己犯了任何過錯，但他仍然願意承認自己的行為是罪行，以向比丘同儕們展現誠意信心。
+
+   * - **A related rule**
+     - **相關戒條**
+
+   * - Pc 71 covers the case of a bhikkhu who, trying to avoid an offense under this rule, uses a ploy to get out of altering his behavior in response to an admonition. For details, see the explanation under that rule.
+
+     - 《波逸提》七一涵蓋比丘為了避免違反本戒條，使用計謀逃避因勸誡而改變行為的情況。詳情請參閱該戒條的解釋。
+
+   * - *Summary: Speaking or acting disrespectfully after having been admonished by another bhikkhu for a breach of the training rules is a pācittiya offense.*
+     - *摘要：在因違反學處而受到另一位比丘的訓誡後，如果言語或行為不敬，是《波逸提》（《單墮》）罪。*
+
+.. _Dhp 76: https://www.dhammatalks.org/suttas/KN/Dhp/Ch06.html#dhp076
+.. _《法句》七六: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N26n0009_001/#0020a11
+.. _《小品》.十一.1.10: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_021/#0386a07
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
