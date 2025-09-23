@@ -626,4 +626,34 @@
    \*    \*    \*
 
 
+.. _Pc55:
+
+.. raw:: html
+
+   <span id="Pc55"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **55**
+     - **五十五**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu try to frighten another bhikkhu, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘試圖驚嚇另一位比丘，波逸提。*
+
+   * - There are three factors for the full offense here.
+     - 這裡的完全違犯有三個因素。
+
+   * - **Intention**
+     - **意圖**
+
+   * - One wants to frighten the other person.
+     - 想驚嚇另一個人。
+
 (未完待續)

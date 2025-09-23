@@ -481,7 +481,7 @@
      - `\　　　五十四 <{filename}Section0021%zh-hant.rst#Pc54>`__
 
    * - `\　　　55 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc55>`__
-     - 　　　五十五
+     - `\　　　五十五 <{filename}Section0021%zh-hant.rst#Pc55>`__
 
    * - `\　　　56 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc56>`__
      - 　　　五十六
