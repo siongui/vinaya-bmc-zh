@@ -656,4 +656,39 @@
    * - One wants to frighten the other person.
      - 想驚嚇另一個人。
 
+   * - **Effort**
+     - **努力**
+
+   * - One arranges a frightening sight, sound, smell, taste, or tactile sensation—this would include such things as hanging a sheet in a dark room so that it looks like a ghost, making a ghostly wail outside the person’s window, etc.—\ *or* one describes dangers from ghosts, robbers, or wild animals.
+
+     - 安排令人恐懼的視覺、聽覺、嗅覺、味覺或觸覺——這包括在黑暗的房間裡掛一張床單，使它看起來像鬼魂，在人的窗外發出鬼哭狼嚎的聲音等——\ *或者*\ 描述鬼魂、強盜或野生動物的危險。
+
+   * - **Object**
+     - **對象**
+
+   * - The other person is a bhikkhu. Anyone who is not a bhikkhu is grounds for a dukkaṭa.
+     - 另一個人是比丘。任何不是比丘的人都構成《突吉羅》。
+
+   * - Perception as to whether the person one is trying to frighten is ordained is irrelevant to the offense (see `Pc 42`_).
+     - 至於試圖驚嚇的人是否受過具足戒的感知，則與犯戒無關（參閱\ `《波逸提》四二`_\ ）。
+
+   * - “Result” is not a factor here. If the three factors are fulfilled, one commits the offense regardless of whether the other person is actually frightened.
+     - 「結果」在這裡不是一個因素。如果三個因素都滿足，那麼無論對方是否真的被驚嚇到，都構成犯戒。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - To inform another person of dangers from ghosts, robbers, etc., without intending to frighten him/her constitutes no offense. The same exemption holds for arranging a sight, sound, smell, taste, or tactile sensation without the intention of causing fright.
+
+     - 告知他人鬼怪、盜賊等危險，而非有意驚嚇他人，不構成犯戒。同樣，營造視覺、聽覺、嗅覺、味覺或觸覺，而非有意驚嚇他人，亦不構成犯戒。
+
+   * - *Summary: Attempting to frighten another bhikkhu is a pācittiya offense.*
+     - *摘要：試圖驚嚇另一位比丘是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
