@@ -732,4 +732,26 @@
    * - *3) Intention:* for the purpose of warming oneself.
      - *3）意圖：*\ 以取暖為目的。
 
+   * - **Object**
+     - **對象**
+
+   * - *Not ill*, in the context of this rule, means that one can fare comfortably without warming oneself. The Vibhaṅga makes the point that perception as to whether one is actually ill is not a mitigating factor here (see `Pc 4`_). What this means is that when it is chilly outside, one should be very sure that extra warmth is necessary for one’s health before lighting a fire to warm oneself.
+
+     - 在本戒條的脈絡中，「\ *無病*\ 」是指無需取暖即可舒適地生活。《經分別》指出，是否真的生病的感知並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。這意味著，當外面很冷時，在生火取暖之前，應該非常確定額外的保暖對健康是必要的。
+
+   * - **Effort**
+     - **努力**
+
+   * - *Lighting a fire* at present would include turning on the flame in a heating system in one’s dwelling for the sake of the warmth. Solar or electric heating systems, which do not use flames, would not be included here.
+
+     - 目前，\ *生火*\ 包括為了取暖而打開住處供暖系統的火焰。不使用火焰的太陽能或電加熱系統不在此列。
+
+   * - *Getting a fire lit*, according to the Vibhaṅga, means ordering another person to light a fire. Thus there is apparently room for *kappiya-vohāra* under this rule, as long as one’s suggestion for lighting a fire not be an express command.
+
+     - 根據《經分別》，「\ *令點火*\ 」意味著命令他人點火。因此，只要點火的建議不是明確的命令，這條戒條下顯然就有 *kappiya-vohāra* 的空間。
+
+   * - If, when not ill, one orders someone else to light a fire (or fires) for the purpose of warming oneself, there is a pācittiya in making the order, and another pācittiya when the other person lights the fire(s), regardless of how many fires are lit as a result of the one order. To return a burning piece of fuel to a fire is grounds for a dukkaṭa; adding new fuel to a fire—according to the Commentary—is grounds for a pācittiya.
+
+     - 如果在無病的情況下，為了取暖而命令別人生火，那麼發出命令時會犯一次《波逸提》，而當別人生火時，無論因這個命令而生了多少火，犯另一次《波逸提》。將燃燒的燃料放回火中構成《突吉羅》；根據《義註》，往火中添加新的燃料構成《波逸提》。
+
 (未完待續)
