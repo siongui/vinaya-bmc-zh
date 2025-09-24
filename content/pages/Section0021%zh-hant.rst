@@ -691,4 +691,45 @@
    \*    \*    \*
 
 
+.. _Pc56:
+
+.. raw:: html
+
+   <span id="Pc56"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **56**
+     - **五十六**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu who is not ill, seeking to warm himself, kindle a fire or have one kindled—unless there is a suitable reason—it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何無病的比丘，為了取暖而點火或讓人點火——除非有適當的理由——波逸提。*
+
+   * - .. container:: mx-2
+
+          “Now at that time, in the winter months, bhikkhus warmed themselves, having kindled a fire by a large hollow log. And in that hollow a cobra was scorched by the fire. Coming out, it sprang at the bhikkhus. The bhikkhus ran off every which way.”
+
+     - .. container:: mx-2
+
+          「\ `當時正值冬季 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0154a03>`_\ ，比丘們在一根空心的大木頭旁生火取暖。木頭洞裡有一條眼鏡蛇被火灼傷了。它竄出來，向比丘們撲去。比丘們四處逃竄。」
+
+   * - Here again the factors for the full offense are three.
+     - 再次，此處構成完全違犯的因素有三。
+
+   * - *1) Object:* One is not ill.
+     - *1）對象：*\ 自己沒有生病。
+
+   * - *2) Effort:* One lights a fire or gets someone else to light one
+     - *2）努力：*\ 自己點火或讓別人點火
+
+   * - *3) Intention:* for the purpose of warming oneself.
+     - *3）意圖：*\ 以取暖為目的。
+
 (未完待續)
