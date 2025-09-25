@@ -754,4 +754,52 @@
 
      - 如果在無病的情況下，為了取暖而命令別人生火，那麼發出命令時會犯一次《波逸提》，而當別人生火時，無論因這個命令而生了多少火，犯另一次《波逸提》。將燃燒的燃料放回火中構成《突吉羅》；根據《義註》，往火中添加新的燃料構成《波逸提》。
 
+   * - **Intention**
+     - **意圖**
+
+   * - There is no offense if one lights a fire or has one lit for purposes other than warming oneself. Thus one may light a lamp or light a fire to boil water, burn dead leaves, or fire an alms bowl without penalty. `Cv.V.32.1`_ says that if a forest fire is approaching one’s dwelling, one may light a counter-fire to ward off its approach. In other circumstances, though, `Pc 10`_ would impose a penalty for lighting a fire on top of “live” soil; and `Pc 11`_ would impose a further penalty for damaging plant life.
+
+     - 如果出於取暖以外的目的而生火或讓人生火，則不構成犯戒。因此，們可以點燈或點火燒水、燒枯葉或燒缽，而不會受到懲罰。\ `《小品》.五.32.1`_ 說，如果森林大火正在逼近住所，可以點燃逆火以阻止火勢蔓延。不過，在其他情況下，\ `《波逸提》十`_\ 規定，在「活」土壤上生火會受到懲罰；\ `《波逸提》十一`_\ 規定，破壞植物生命會受到進一步懲罰。
+
+.. _Cv.V.32.1: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.32.1
+.. _Pc 10: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10
+.. _Pc 11: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
+.. _《小品》.五.32.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0185a06
+.. _《波逸提》十: {filename}Section0016%zh-hant.rst#Pc10
+.. _《波逸提》十一: {filename}Section0017%zh-hant.rst#Pc11
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - In addition, there is no offense in warming oneself at raked-out coals or at a fire lit by someone else (not at one’s request). And there is no offense in lighting a fire when there are dangers. This, the Commentary says, refers to cases when one is bitten by a snake (and wants to make the snake-bite medicine mentioned under `Pc 40`_), when one is surrounded by robbers, or disturbed by non-human beings or beasts of prey.
+
+     - 此外，用耙出的煤塊或他人點燃的火（非本人要求）取暖也不犯戒。在危險的情況下生火也不犯戒。《義註》指出，這指的是被蛇咬傷（並想製作\ `《波逸提》四十`_\ 中提到的蛇咬藥）、被強盜包圍或被非人或猛獸騷擾的情況。
+
+   * - `Cv.V.14.1`_ allows bhikkhus to use a “fire hall (§),” similar to a sauna at present, for the purpose of inducing perspiration for health reasons. According to the Vibhaṅga, there is no offense in lighting a fire in a place such as this.
+
+     - `《小品》.五.14.1`_ 允許比丘使用類似現在桑拿房的「火堂」（§），以促進排汗，從而達到保健目的。根據《經分別》，在這樣的地方生火並無犯戒。
+
+   * - The purpose of this rule is suggested by AN 5:219, which lists the five disadvantages of sitting around a fire: It is bad for one’s eyes, bad for one’s skin, bad for one’s strength, and (most importantly, in this context) groups tend to form (that can turn into factions), and they spend their time in animal talk.
+
+     - 這條戒條的目的由\ `《增支部》5:219經`_\ 提出，其中列出了圍坐在火堆旁的五個缺點：對眼睛有害、對皮膚有害、對體力有害，並且（最重要的是，在這種脈絡下）容易形成團體（可能變成派系），他們會把時間花在畜生論上。
+
+   * - *Summary: Lighting a fire to warm oneself—or having it lit—when one does not need the warmth for one’s health is a pācittiya offense.*
+     - *摘要：當不需要溫暖來保持健康時，點火取暖或讓人點火是《波逸提》（《單墮》）罪。*
+
+.. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
+.. _《波逸提》四十: {filename}Section0019%zh-hant.rst#Pc40
+.. _Cv.V.14.1: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#Cv.V.14.1
+.. _《小品》.五.14.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0161a07
+.. _《增支部》5\:219經: https://sutra.mobi/chilin/zengzhi/content/05.html#%E4%BA%8C%E4%B8%80%E4%B9%9D%E7%94%9F%E7%81%AB
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
