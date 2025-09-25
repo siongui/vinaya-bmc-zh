@@ -240,7 +240,7 @@
 .. _《附隨》.六.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_006/#0199a13
 .. _Pc 57: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57
 .. _貪、嗔、痴: https://zh.wikipedia.org/zh-hant/%E4%B8%89%E6%AF%92
-.. _《波逸提》五七: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57
+.. _《波逸提》五七: {filename}Section0021%zh-hant.rst#Pc57
 .. _AN 3\:85: https://www.dhammatalks.org/suttas/AN/AN3_85.html
 .. _《增支部》3\:85經: https://sutra.mobi/chilin/zengzhi/content/03.html#%E5%85%AB%E5%8D%81%E4%B8%89%E8%B7%8B%E8%80%86%E5%AD%90
 .. _AN 3\:88: https://www.dhammatalks.org/suttas/AN/AN3_88.html

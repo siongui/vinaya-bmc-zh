@@ -802,4 +802,41 @@
    \*    \*    \*
 
 
+.. _Pc57:
+
+.. raw:: html
+
+   <span id="Pc57"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **57**
+     - **五十七**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu bathe at intervals of less than half a month, except at the proper occasions, it is to be confessed. Here the proper occasions are these: the last month and a half of the hot season, the first month of the rains, these two and a half months being a time of heat, a time of fever; (also) a time of illness; a time of work; a time of going on a journey; a time of wind or rain. These are the proper occasions here.*
+
+     - .. container:: notification
+
+          *若任何比丘在非適當時間，每隔少於半個月沐浴一次，波逸提。這裡適當時間如下：熱季的最後一個半月，雨季的第一個月，這兩個半月是熱時，暑時；（也是）生病的時候；工作的時候；旅行的時候；刮風或下雨的時候。這些是此處適當的時間。*
+
+   * - .. container:: mx-2
+
+          “Now at that time bhikkhus were bathing in the hot spring (at Rājagaha). Then King Seniya Bimbisāra of Magadha, having gone to the hot spring (with the thought), ‘I will bathe my head,’ waited to one side, (thinking,) ‘I will wait as long as the masters are bathing.’ The bhikkhus bathed until nightfall.
+
+     - .. container:: mx-2
+
+          「\ `其時，比丘們正在（王舍城）溫泉沐浴。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0156a08>`_\ 摩竭陀國的斯尼耶頻毘娑羅王來到溫泉（心想）：『我要沐浴頭部。』他站在一旁等待（心想）：『只要大師們在沐浴，我就等著。』比丘們一直沐浴到夜幕降臨。
+
+   * - .. container:: mx-2
+
+          “Then King Seniya Bimbisāra of Magadha, after having bathed his head at the wrong time (night)—the gates of the city being closed—spent the night outside the city walls…. (The Buddha learned of the incident and rebuked the bhikkhus:) ‘How can you worthless men, even though you saw the king, bathe not knowing moderation?’”
+
+     - .. container:: mx-2
+
+          「然後，摩竭陀國的斯尼耶頻毘娑羅王在錯誤的時間（夜間）沐浴他的頭部後，城門關閉，於是便在城外過夜……（佛陀得知此事後呵責比丘們：）『你們這些愚人，即使見到國王，怎麼還不知道適度沐浴呢？』」
+
 (未完待續)
