@@ -889,4 +889,34 @@
 .. _Mv.V.13: https://www.dhammatalks.org/vinaya/Mv/MvV.html#pts13
 .. _《大品》.五.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0259a08
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Offenses**
+     - **犯戒**
+
+   * - For those who live in the middle Ganges Valley, the offenses for bathing more frequently than once a fortnight outside of the proper occasions are these: a dukkaṭa for every time one scrubs oneself with *chunam* (bathing powder) or clay (soap), and a pācittiya when one has finished bathing.
+
+     - 對於居住在恆河中游者來說，在適當時間之外每半個月沐浴超過一次的犯戒如下：每次用 *chunam* （沐浴粉）或黏土（肥皂）擦身體犯一次《突吉羅》，沐浴完畢犯一次《波逸提》。
+
+   * - Perception as to whether a fortnight has actually passed is not a mitigating factor here (see `Pc 4`_).
+     - 對於半個月是否真的已經過去的感知並不是這裡的減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - In addition to the allowances to bathe more frequently than once a fortnight during the proper occasions or in areas outside the middle Ganges Valley, there is no offense in bathing more frequently if one is crossing a river or if there are dangers. This last allowance the Commentary explains with an example: One is being chased by bees and so jumps into the water to escape them.
+
+     - 除了在適當時間或在恆河中游以外的地區允許每半個月沐浴一次以上之外，如果要過河或遇到危險，更頻繁地沐浴也無犯戒。《義註》舉例解釋了最後一種開緣：被蜜蜂追趕，於是跳入水中躲避。
+
+   * - Summary: Bathing more frequently than once a fortnight when residing in the middle Ganges Valley, except on certain occasions, is a pācittiya offense.
+     - 摘要：居住在恆河中游地區時，除特定場合外，每半個月沐浴超過一次，是《波逸提》（《單墮》）罪。
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
