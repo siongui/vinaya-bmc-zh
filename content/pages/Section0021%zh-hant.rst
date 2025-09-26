@@ -839,4 +839,54 @@
 
           「然後，摩竭陀國的斯尼耶頻毘娑羅王在錯誤的時間（夜間）沐浴他的頭部後，城門關閉，於是便在城外過夜……（佛陀得知此事後呵責比丘們：）『你們這些愚人，即使見到國王，怎麼還不知道適度沐浴呢？』」
 
+   * - The original formulation of this rule—with no allowance for “proper occasions”—seems to have been intended as a temporary disciplinary measure for the bhikkhus who had inconvenienced the king. (There was a similar temporary rule, against eating mangoes (`Cv.V.5.1`_), that the Buddha formulated when King Bimbisāra had invited the bhikkhus to help themselves to his mangoes, and some group-of-six bhikkhus went and took all the mangoes in his park, even the unripe ones. The rule was later rescinded (`Cv.V.5.2`_) when the Buddha allowed bhikkhus to eat any and all fruit as long as it was allowable in any of the five ways mentioned under `Pc 11`_.)
+
+     - 這條戒條的最初制定——沒有「適當時間」的開緣——似乎是針對那些給國王帶來不便的比丘們的臨時懲戒措施。（佛陀也曾制定過一條類似的臨時戒律，禁止食用芒果（\ `《小品》.五.5.1`_\ ）。當時頻毘娑羅王邀請比丘們隨意享用他的芒果，結果有六群比丘去把王園裡所有的芒果都吃光了，連未熟的也吃光了。後來，佛陀允許比丘吃任何水果，只要符合\ `《波逸提》十一`_\ 中提到的五種方式中的任何一種是允許的，這條戒條就被廢除了（\ `《小品》.五.5.2`_\ ）。）
+
+   * - As for this rule: Once the proper occasions were added, they relaxed it considerably. For instance:
+     - 至於這條戒條：一旦增加了適當的時間，他們就大大放寬了。例如：
+
+   * - .. container:: mx-2
+
+          *a time of illness* is any time when one does not feel comfortable without bathing;
+
+     - .. container:: mx-2
+
+          *生病的時候*\ 是指不沐浴就覺得不舒服的任何時候；
+
+   * - .. container:: mx-2
+
+          *a time of work* can involve as little work as sweeping out the yard of one’s dwelling (§);
+
+     - .. container:: mx-2
+
+          *工作的時候*\ 可以只是清掃自家院子那麼簡單（§）；
+
+   * - .. container:: mx-2
+
+          *a time of going on a journey* is whenever one is about to go, is going, or has gone on a trip of at least half a yojana (approximately 5 miles/8 kilometers);
+
+     - .. container:: mx-2
+
+          *旅行的時候*\ 是指即將出發、正在出發或已經出發至少半由旬（約 5 英哩/8 公里）的旅程；
+
+   * - .. container:: mx-2
+
+          *a time of wind and rain* is whenever a dusty wind blows and at least two or three drops of rain fall on one’s body.
+
+     - .. container:: mx-2
+
+          *刮風或下雨的時候*\ ，就是刮起一陣塵土飛揚的風，及至少落下兩三滴雨到身上。
+
+   * - In addition, `Mv.V.13`_ tells the story of Ven. Mahā Kaccāna’s leaving the middle Ganges Valley and settling in Avantī, to the south. After some time, one of his students—Ven. Soṇa Kuṭikaṇṇa—asked permission to visit the Buddha. Ven. Mahā Kaccāna gave his permission, together with a request to convey to the Buddha: that certain rules inappropriate for areas outside of the Ganges Valley—this rule among them—be rescinded for bhikkhus living in outlying districts. The Buddha complied with the request and defined the outlying districts in such a way that there is nowhere in the world outside of the middle Ganges Valley where this rule applies.
+
+     - 此外，\ `《大品》.五.13`_ 也講述了摩訶迦旃延尊者離開恆河中游，定居於南邊的阿槃提的故事。一段時間後，他的一位弟子——首樓那億耳尊者——請求准許去拜見佛陀。摩訶迦旃延尊者同意了，但他同時請求轉告佛陀：一些不適用於恆河流域以外地區的戒條——其中包括這條戒條——對於居住在邊遠地區的比丘來說，應予以廢除。佛陀遵從了該請求，並劃定了邊遠地區的範圍，使得世界上除恆河中游地區外，沒有任何地方適用這條戒條。
+
+.. _Cv.V.5.1: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Cv.V.5.1
+.. _Cv.V.5.2: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Cv.V.5.2
+.. _《小品》.五.5.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0147a10
+.. _《小品》.五.5.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0148a04
+.. _Mv.V.13: https://www.dhammatalks.org/vinaya/Mv/MvV.html#pts13
+.. _《大品》.五.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0259a08
+
 (未完待續)
