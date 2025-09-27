@@ -948,4 +948,26 @@
 
           「\ `其時，許多比丘和遊方者從沙祇前往舍衛城。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0160a10>`_\ 途中，盜賊出沒，劫掠了他們。王國官員從舍衛城出來，擒獲了盜賊和財物，便派使者去見比丘，說道：「諸大德，來吧，各認各的袈裟，帶走。」比丘們認不出自己的袈裟。人們紛紛批評、抱怨，並四處散播：『諸大德怎麼會認不出自己的袈裟呢？』」
 
+   * - **Protocol**
+     - **行儀**
+
+   * - As this rule indicates, a bhikkhu should wear robes only that have been marked with an identifying mark. The Vibhaṅga does not go into any great detail on procedures for marking a robe, aside from saying that the mark may be as small as the tip of a blade of grass, and can be made with any of the colors mentioned in the rule. (The color green in Pali also covers the color blue, so a mark made with blue ink would be acceptable.)
+
+     - 正如這條戒條所示，比丘只能穿著帶有識別標記的袈裟。《經分別》並未詳細闡述在袈裟上做標記的步驟，只是說標記可以小到草尖，並且可以用戒條中提到的任何顏色來標記。（巴利語中的綠色也涵蓋藍色，因此用藍墨水做的標記是可以接受的。）
+
+   * - The Commentary goes into more detail: After the robe has been dyed, one should make a round mark no smaller than the size of a bedbug’s back and no larger than the iris of a peacock’s eye in all four corners of the robe, three corners, two, or one, as one sees fit. Only round marks are allowable. Such things as lines or angular marks (squares, triangles, or stars) are not. Because these prohibitions have no basis in the Canon or the Great Standards, they are not binding.
+
+     - 《義註》對此進行了更詳細的闡述：袈裟染色後，應在袈裟的四個角（三個角、兩個角或一個角，視情況而定）上，做一個不小於臭蟲背部大小、不大於孔雀眼虹膜大小的圓形標記。只允許做圓形標記。不允許做線狀或有角的標記（正方形、三角形或星形）。由於這些禁令在《聖典》或《四大教示》中均無依據，因此不具約束力。
+
+   * - As the Vibhaṅga notes, once the robe has been marked there is no need to mark it again, even if the mark wears off, the marked part of the robe gets worn through age, one sews a marked cloth together with an unmarked one, or one patches, darns, or adds a hem to a marked robe. If Bhikkhu X marks a robe and then gives it to Bhikkhu Y, Y may wear it without having to mark it again.
+
+     - 《分別論》指出，一旦袈裟上有標記，就無需再標記。即使標記磨損，或標記部分因時間久遠而磨損，或將標記的布料與未標記的布料縫合在一起，或為標記的袈裟打補丁、縫補或加邊，也無需再次標記。如果比丘 X 在袈裟上做了標記，然後將其給予比丘 Y ，Y 可以穿著它，而無需再次標記。
+
+   * - In Thailand at present, the custom is to make three small dots in one corner of the robe, saying, *“Imaṁ bindu-kappaṁ karomi,”* (I make this properly marked) while making each dot. This procedure does not appear in the Canon or commentaries, but does not conflict with any of them.
+
+     - 泰國目前的習俗是在袈裟的一角點三個小點，每點一個，都要說\ *「Imaṁ bindu-kappaṁ karomi」*\ （我適當地標記之）。此做法並未見於《聖典》或註釋書，但與它們也並不衝突。
+
+   * - The factors for the offense here are two: *object*\—a new robe; and *effort*\—one makes use of it without first marking it.
+     - 這裡的犯戒因素有兩個：\ *對象*\ ——一件新袈裟；以及\ *努力*\ ——在沒有先標記的情況下使用它。
+
 (未完待續)
