@@ -1159,8 +1159,7 @@
      - 《經分別》補充說，坐布和床單則犯《突吉羅》；其他必需品，不犯。
 
 .. _Pc 58: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
-.. _《波逸提》五八: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
-.. TODO FIXME: replace link to 《波逸提》五八
+.. _《波逸提》五八: {filename}Section0021%zh-hant.rst#Pc58
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

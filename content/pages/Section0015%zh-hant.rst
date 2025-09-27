@@ -1003,8 +1003,7 @@
      - 沒有任何文獻進一步討論這一點，但《義註》對此處使役動詞的解釋顯然也適用於其他戒條，其中《經分別》對比丘因不適當地讓別人為自己製作物品而施加懲罰，例如\ `《捨墮》十一至十五`_\ 和\ `《波逸提》八六至九二`_\ ：請求本身並不犯戒，但如果請求成功說服另一方按照其行事，則犯《突吉羅》。只有當《經分別》明確指出請求中有犯戒之處時——如\ `《波逸提》二六`_\ 關於縫製袈裟或為比丘尼縫製袈裟的戒條——即使被請求者不遵照行事，該請求仍構成犯戒。
 
 .. _Pc 58: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
-.. _《波逸提》五八: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
-.. TODO FIXME: replace link to 《波逸提》五八
+.. _《波逸提》五八: {filename}Section0021%zh-hant.rst#Pc58
 .. _Pc 10: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10
 .. _《波逸提》十: {filename}Section0016%zh-hant.rst#Pc10
 .. _Pc 20: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc20

@@ -919,4 +919,33 @@
    \*    \*    \*
 
 
+.. _Pc58:
+
+.. raw:: html
+
+   <span id="Pc58"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **58**
+     - **五十八**
+
+   * - .. container:: notification
+
+          *When a bhikkhu receives a new robe, any one of three means of discoloring it is to be applied: green, brown, or black. If a bhikkhu should make use of a new robe without applying any of the three means of discoloring it, it is to be confessed.*
+
+     - .. container:: notification
+
+          *當比丘收到一件新袈裟時，可以用三種方法之一來作壞色：綠色、棕色或黑色。如果比丘使用新袈裟時沒有使用上述三種方法作壞色，波逸提。*
+
+   * - .. container:: mx-2
+
+          “Now at that time many bhikkhus and wanderers were traveling from Sāketa to Sāvatthī. On the way, thieves came out and robbed them. Royal officials, coming out of Sāvatthī and capturing the thieves with the goods, sent a messenger to the bhikkhus, saying, ‘Come, your reverences. Let each identify his own robes and take them.’ The bhikkhus couldn’t identify their robes. People criticized and complained and spread it about, ‘How can their reverences not identify their own robes?’”
+
+     - .. container:: mx-2
+
+          「\ `其時，許多比丘和遊方者從沙祇前往舍衛城。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0160a10>`_\ 途中，盜賊出沒，劫掠了他們。王國官員從舍衛城出來，擒獲了盜賊和財物，便派使者去見比丘，說道：「諸大德，來吧，各認各的袈裟，帶走。」比丘們認不出自己的袈裟。人們紛紛批評、抱怨，並四處散播：『諸大德怎麼會認不出自己的袈裟呢？』」
+
 (未完待續)
