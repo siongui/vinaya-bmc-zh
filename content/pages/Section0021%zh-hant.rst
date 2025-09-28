@@ -987,4 +987,53 @@
 
      - 《經分別》用動詞「使用」\ *（paribhuñjati）*\ 來定義此因素，而 K/《義註》則更明確地指出，當將袈裟披在肩上或圍在腰間時，這一因素就被滿足。由於標記只能在袈裟染色後添加，因此這一因素並不涵蓋諸如袈裟正在縫製但尚未染色時試穿之類的情況。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - As noted above, there is no offense—
+     - 如上所述，不構成犯戒——
+
+   * - .. container:: mx-2
+
+          in using a robe that has been properly marked;
+
+     - .. container:: mx-2
+
+          使用已被適當地標記的袈裟；
+
+   * - .. container:: mx-2
+
+          in using a robe whose mark has worn off (as in washing); or
+
+     - .. container:: mx-2
+
+          使用標記已磨損的袈裟（如洗滌後）；或
+
+   * - .. container:: mx-2
+
+          in using a robe whose marked corner has been torn off or otherwise destroyed.
+
+     - .. container:: mx-2
+
+          使用其標記角已被撕掉或以其他方式損壞的袈裟。
+
+   * - There is also no need to re-mark a marked robe if one sews it together with an unmarked piece of cloth, or if one patches it, darns it, or adds a new hem to it.
+     - 如果將有標記的袈裟與沒有標記的布縫在一起，或對其進行打補丁、縫補或加新邊，也無需重新標記。
+
+   * - The K/Commentary, arguing from the allowance for makeshift robes under `NP 6`_, states that if one’s robes have been snatched away, destroyed, etc., one may wear an unmarked piece of cloth without committing an offense.
+
+     - K/《義註》從\ `《捨墮》六`_\ 允許穿著臨時袈裟的角度進行論證，指出如果袈裟被搶走、毀壞等，則可以穿著一塊沒有標記的布而不會犯戒。
+
+   * - *Summary: Wearing an unmarked robe is a pācittiya offense.*
+     - *摘要：穿著沒有標記的袈裟是《波逸提》（《單墮》）罪。*
+
+.. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
+.. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
