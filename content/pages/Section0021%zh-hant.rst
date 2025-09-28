@@ -970,4 +970,21 @@
    * - The factors for the offense here are two: *object*\—a new robe; and *effort*\—one makes use of it without first marking it.
      - 這裡的犯戒因素有兩個：\ *對象*\ ——一件新袈裟；以及\ *努力*\ ——在沒有先標記的情況下使用它。
 
+   * - **Object**
+     - **對象**
+
+   * - According to the Vibhaṅga, a *new robe* here is one made out of any of the six kinds of robe-cloth and not yet marked. Thus an unmarked cloth kept for a long time is still regarded as new. The Commentary, noting that the Vibhaṅga does not qualify *robe* as including even the smallest cloth that can be placed under shared ownership, concludes that *robe* in the context of this rule refers specifically to completed robes that can be worn over the shoulders or around the waist—i.e., lower robes, upper robes, outer robes, rains-bathing cloths, skin-eruption covering cloths—and not to ordinary pieces of cloth or other cloth items such as sitting cloths, handkerchiefs, or shoulder bags. Any cloth requisite that is not a robe in this sense is not grounds for an offense. Shoulder cloths *(aṁsa)* were not worn in the time of the Commentary but would seem to fall under this factor, as would any other item a bhikkhu might wear around his body.
+
+     - 根據《經分別》，此處的\ *新袈裟*\ 是指用六種袈裟布中的任一種製成且未作標記的袈裟。因此，即使未作標記的布長期保存，也被視為新的。《義註》指出，《經分別》並未將\ *袈裟*\ 定義為哪怕是最小的、可至於共享所有權之下的布料，並得出結論：本戒條脈絡中的\ *袈裟*\ 特指可披於肩上或圍於腰間的成品袈裟，即下衣、上衣、外衣、雨浴衣、覆瘡布，而非指普通的布片或其他布製物品，例如坐墊、手帕或肩包。任何非此種意義上的袈裟的布料用品均不構成犯戒。在《義註》的時代，人們並不穿戴肩布\ *（aṁsa）*\ ，但似乎屬於這一因素，就像比丘可能穿戴在身上的任何其他物品一樣。
+
+   * - Perception as to whether the robe has actually been marked is not a mitigating factor here (see `Pc 4`_).
+     - 對於袈裟上是否真的有標記的感知並不是這裡的減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga defines this factor with the verb “use” *(paribhuñjati)*, while the K/Commentary is more specific in saying that this factor is fulfilled when one wears the robe over the shoulders or around the waist. Because the mark is to be added only after the robe is dyed, this factor does not cover such things as trying on a new robe while it is being sewn but has yet to be dyed.
+
+     - 《經分別》用動詞「使用」\ *（paribhuñjati）*\ 來定義此因素，而 K/《義註》則更明確地指出，當將袈裟披在肩上或圍在腰間時，這一因素就被滿足。由於標記只能在袈裟染色後添加，因此這一因素並不涵蓋諸如袈裟正在縫製但尚未染色時試穿之類的情況。
+
 (未完待續)
