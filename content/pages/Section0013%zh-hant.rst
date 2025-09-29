@@ -245,8 +245,7 @@
 .. _Mv.VIII.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.21.1
 .. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
 .. _《大品》.八.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0385a09
-.. _《波逸提》五九: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
-.. TODO FIXME: replace link to 《波逸提》五九
+.. _《波逸提》五九: {filename}Section0021%zh-hant.rst#Pc59
 .. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
 .. _《捨墮》二四: {filename}Section0015%zh-hant.rst#NP24
 .. _Appendices IV: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIV

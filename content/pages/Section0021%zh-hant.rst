@@ -1036,4 +1036,25 @@
    \*    \*    \*
 
 
+.. _Pc59:
+
+.. raw:: html
+
+   <span id="Pc59"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **59**
+     - **五十九**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, having himself placed robe-cloth under shared ownership (vikappana) with a bhikkhu, a bhikkhunī, a female trainee, a male novice, or a female novice, then make use of the cloth without the shared ownership’s being rescinded, it is to be confessed.*
+
+     - .. container:: notification
+
+          *任何比丘將袈裟布與比丘、比丘尼、學法女（式叉摩那）、沙彌或沙彌尼共有（vikappana），然後使用那塊布而沒有取消共有，波逸提。*
+
 (未完待續)

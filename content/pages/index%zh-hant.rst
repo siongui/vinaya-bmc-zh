@@ -493,7 +493,7 @@
      - `\　　　五十八 <{filename}Section0021%zh-hant.rst#Pc58>`__
 
    * - `\　　　59 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59>`__
-     - 　　　五十九
+     - `\　　　五十九 <{filename}Section0021%zh-hant.rst#Pc59>`__
 
    * - `\　　　60 <https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc60>`__
      - 　　　六十
