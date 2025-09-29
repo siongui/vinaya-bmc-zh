@@ -1055,6 +1055,22 @@
 
      - .. container:: notification
 
-          *任何比丘將袈裟布與比丘、比丘尼、學法女（式叉摩那）、沙彌或沙彌尼共有（vikappana），然後使用那塊布而沒有取消共有，波逸提。*
+          *任何比丘將袈裟布與比丘、比丘尼、學法女（式叉摩那）、沙彌或沙彌尼共有（vikappana），然後使用那塊布而沒有取消共享所有權，波逸提。*
+
+   * - **Shared ownership**
+     - **共享所有權**
+
+   * - As mentioned in the explanations to `NP 1`_, *vikappana* is an arrangement whereby a bhikkhu places a robe or robe-cloth under shared ownership so that he may store it for any length of time without its being counted as an extra cloth. One may share ownership with any of one’s co-religionists as mentioned in the rule.
+
+     - 如同在\ `《捨墮》一`_\ 的解釋中所提到的， *vikappana* 是指比丘將一件袈裟或袈裟布置於共享所有權之下，以便他可以將其存放任意時間，而不會被視為額外的布料。如本戒條所述，可以與任何一位同宗教者共享所有權。
+
+   * - Passages in the Mahāvagga (VIII.20.2; VIII.21.1) show that shared ownership is intended for cloth that is being stored and not for cloth in use. Cloth that has not been made into a finished robe, rains-bathing cloths being kept during the eight months of the year outside of the rainy season, and skin-eruption covering cloths being kept when they are not needed, may all be placed under shared ownership. The three basic robes, miscellaneous requisites, handkerchiefs, and the sitting cloth may not. As this rule states, when a bhikkhu wants to use a piece of cloth placed under shared ownership, the shared ownership must first be rescinded.
+
+     - 《大品》（\ `八.20.2`_\ ；\ `八.21.1`_\ ）中的段落表明，共享所有權適用於正在儲存的布料，而不適用於正在使用的布料。尚未製成成品袈裟的布料、一年中除雨季外八個月保存的雨浴衣，以及不需要時保存的覆瘡布，都可以置於共享所有權之下。基本三衣、雜項用品、手帕和坐墊則不行。如本戒條所述，當比丘想要使用置於共享所有權之下的布料時，必須先取消共享所有權。
+
+.. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
+.. _八.20.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0385a04
+.. _八.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0385a09
 
 (未完待續)
