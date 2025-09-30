@@ -1073,4 +1073,36 @@
 .. _八.20.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0385a04
 .. _八.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0385a09
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Protocol**
+     - **行儀**
+
+   * - The Vibhaṅga to this rule explains how cloth may be placed under shared ownership, but unfortunately the explanation is rather terse, so we will have to discuss two alternative interpretations.
+
+     - 這條戒條的《經分別》解釋了如何將布料置於共享所有權之下，但不幸的是，解釋相當簡潔，所以我們必須討論兩種替代解釋。
+
+   * - *What the Vibhaṅga says*
+     - 《經分別》說了什麼
+
+   * - One may place a piece of cloth under shared ownership only if it is one of the six kinds of robe-cloth discussed under `NP 1`_ and it measures at least four by eight fingerbreadths. There are two ways of placing it under shared ownership: in the presence of (the second owner presumably, although this is a controversial point) or in the absence of (again, this would seem to mean the second owner).
+
+     - 只有當一塊布料屬於\ `《捨墮》一`_\ 中討論的六種袈裟布料之一，且其尺寸至少為四指寬乘八指寬時，才可以將其置於共享所有權之下。有兩種方式可以將其置於共享所有權之下：在場的情況下（推測是第二個所有者在場，儘管這一點存在爭議）或不在場的情況下（同樣，這似乎是指第二個所有者）。
+
+   * - In the first method, one says, “I place this robe-cloth under shared ownership with you (plural)” or “with so-and-so.” (The Pali formulae for this and the following procedures are in `Appendix V`_.) This is as far as the Vibhaṅga explains the method, but it seems to refer to two ways of doing the procedure in the presence of the second owner: One uses “you (plural)” if the other owner is a bhikkhu with more seniority than oneself; and the second owner’s name if he/she is a junior bhikkhu, a bhikkhunī, female trainee, or male or female novice. (Passages throughout the Canon show that it was considered disrespectful to refer to a senior person by his name in his presence. Buddhists, for instance, would never address the Buddha as Gotama, although members of other religions often did. At `Mv.I.74.1`_, Ven. Ānanda says that he is not worthy enough to refer to Ven. Mahā Kassapa by name, as the latter is his teacher.)
+
+     - 在第一種方法中，說，「我把這件袈裟布與你（複數）或『與某某』共同擁有。」（這一程序的巴利語公式和以下程序見\ `附錄五`_\ 。）《經分別》對此方法的解釋到此為止，但它似乎是指在第二個所有者面前執行該程序的兩種方式：如果另一個所有者是比自己戒臘高的比丘，則使用「你（複數）」；如果第二個所有者是戒臘較低的比丘、比丘尼、學法女（式叉摩那）或沙彌或沙彌尼，則使用他的名字。（整個《聖典》中的段落都表明，在長者面前直呼其名被認為是不敬的。例如，佛教徒永遠不會稱呼佛陀為喬達摩，儘管其他宗教的成員經常這樣做。在\ `《大品》.一.74.1`_\ 中，阿難達尊者說他沒有資格直呼摩訶迦葉尊者的名字，因為後者是他的老師。）
+
+   * - The Vibhaṅga does not say how shared ownership is to be rescinded in a case like this, although the K/Commentary gives a formula for the second owner to say: “Use what is mine, give it away, or do as you like with it.”
+
+     - 《經分別》並沒有說明在這種情況下如何取消共享所有權，儘管 K/《義註》給出了第二個所有者所說的公式，即「使用屬於我的東西，贈予出去，或按照你的意願處置它」。
+
+.. _Appendix V: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
+.. _Mv.I.74.1: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.I.74.1
+.. _附錄五: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
+.. TODO FIXME: replace link to 附錄五
+.. _《大品》.一.74.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0116a03
+
 (未完待續)
