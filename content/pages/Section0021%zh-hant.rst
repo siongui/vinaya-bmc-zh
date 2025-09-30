@@ -1085,7 +1085,7 @@
      - 這條戒條的《經分別》解釋了如何將布料置於共享所有權之下，但不幸的是，解釋相當簡潔，所以我們必須討論兩種替代解釋。
 
    * - *What the Vibhaṅga says*
-     - 《經分別》說了什麼
+     - *《經分別》說了什麼*
 
    * - One may place a piece of cloth under shared ownership only if it is one of the six kinds of robe-cloth discussed under `NP 1`_ and it measures at least four by eight fingerbreadths. There are two ways of placing it under shared ownership: in the presence of (the second owner presumably, although this is a controversial point) or in the absence of (again, this would seem to mean the second owner).
 
@@ -1099,10 +1099,26 @@
 
      - 《經分別》並沒有說明在這種情況下如何取消共享所有權，儘管 K/《義註》給出了第二個所有者所說的公式，即「使用屬於我的東西，贈予出去，或按照你的意願處置它」。
 
+   * - In the second method, one gives the cloth to a witness and says, “I give this robe-cloth to you to place under shared ownership.” The witness then says, “Who are your friends and acquaintances?” One then names two of one’s friends (with whom one has made an arrangement for using one another’s belongings on trust), and the witness says, “I give it to them. Use what is theirs, give it away, or do as you like with it.”
+
+     - 第二種方法，把布交給見證人，說：「我把這塊袈裟布交給你，置於共享所有權之下。」見證人接著說：「你的朋友和熟人是誰？」然後，說出兩個朋友的名字（他們已經約定好互相信任使用對方的物品），見證人說：「我把它給他們。使用屬於他們的東西，贈予出去，或按照你的意願處置它。」
+
+   * - This second method, apparently, is for use in situations where one has an extra cloth whose time span is almost up and one is far away from any co-religionist with whom one has made an arrangement to use one another’s belongings on trust.
+
+     - 顯然，第二種方法是用於這樣的情況：有一塊多餘的布，其使用期限即將結束，而又遠離任何與已達成協議可以信任地使用彼此物品的同宗教者。
+
+   * - What is happening in the procedure is that one is giving the cloth away to the witness; the witness then places it with one as a gift to one’s friends. Because one already has permission to use their things on trust, one may freely make use of the cloth if one wants to, or simply keep it for any number of days if not. (See `Mv.V.13.13`_.) Cases of placing gifts in trust in this way are discussed in detail at `Mv.VIII.31.2-3`_. According to those passages, the witness has no business in giving one permission to use the cloth after having given it to the two other people; perhaps the statement is included here to show that all sides involved—the witness and the two new owners of the cloth—are agreeable to one’s making use of the cloth. If the two new owners have not previously given one permission to use their belongings on trust, one may not make use of the cloth until they give express permission to do so, although one may keep it for any number of days without incurring a penalty under `NP 1`_.
+
+     - 在程序中，將布料送給見證人；見證人隨後將放在自己身邊，作為禮物贈予自己的朋友。由於已獲得以信託方式使用其物品的許可，因此如果願意，可以自由使用這塊布料；如果不願意，也可以只將其保留任意天數。（參見\ `《大品》.五.13.13`_\ 。）以此方式將禮物置於信託中的案例在\ `《大品》.八.31.2-3`_\ 中有詳細討論。根據這些段落，見證人在將布料交給另外兩人後，無權允許自己使用；此處加入聲明或許是為了表明所有相關方——見證人和布料的兩位新主人——都同意自己使用布料。如果兩位新主人之前未曾以信託方式允許自己使用其物品，則自己在獲得他們的明確許可之前不得使用布料，然而自己可以保留任意天數，而不會受到\ `《捨墮》一`_\ 的懲罰。
+
 .. _Appendix V: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
 .. _Mv.I.74.1: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.I.74.1
 .. _附錄五: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
 .. TODO FIXME: replace link to 附錄五
 .. _《大品》.一.74.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0116a03
+.. _Mv.V.13.13: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.V.13.13
+.. _Mv.VIII.31.2-3: https://www.dhammatalks.org/vinaya/bmc/Section0063.html#Mv.VIII.31.2-3
+.. _《大品》.五.13.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0263a11
+.. _《大品》.八.31.2-3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0398a13
 
 (未完待續)
