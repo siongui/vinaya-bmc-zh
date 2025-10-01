@@ -1121,4 +1121,26 @@
 .. _《大品》.五.13.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0263a11
 .. _《大品》.八.31.2-3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0398a13
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *What the K/Commentary says*
+     - *K/《義註》說了什麼*
+
+   * - The Commentary has nothing to say about these procedures, while the K/Commentary goes into great detail, reworking the Vibhaṅga’s descriptions to come up with three methods.
+     - 《義註》對這些程序隻字未提，而 K/《義註》則進行了詳細的闡述，重新修訂了《經分別》的描述，提出了三種方法。
+
+   * - In the first method, “in the presence of,” one says in the presence of the second owner, “I place this robe-cloth under shared ownership with you.” The shared ownership is rescinded when the second owner/witness gives one permission to use the cloth, give it away, or do as one likes with it.
+
+     - 第一種方法是「在場」，當著第二個所有者的面說，「我將這件袈裟布與你共享所有。」當第二個所有者/見證人允許自己使用、贈送或隨意處置這件布時，共享所有權就被取消了。
+
+   * - In the second method—which the K/Commentary also calls “in the presence of”—one says in the presence of a witness who is not the second owner, “I place this robe-cloth under shared ownership with so-and-so.” The shared ownership is rescinded when the witness gives one permission to use the cloth, give it away, or do as one likes with it.
+
+     - 第二種方法——K/《義註》也稱之為「在場」——在非第二所有者的見證人面前說：「我將這件袈裟布與某某共享所有。」當見證人允許自己使用、贈送或隨意處置這塊布時，共享所有權即被撤銷。
+
+   * - In the third method, “in the absence of,” one gives the cloth to a witness, saying, “I give this robe-cloth to you to place under shared ownership.” The witness says, “Who is a friend or acquaintance of yours?” One names a friend, and the witness says, “I give it to him/her. Use what is his/hers, give it away, or do as you like with it.” The shared ownership is rescinded when the witness says this.
+
+     - 第三種方法，即「不在場」，將布交給見證人，說：「我將這塊袈裟布交給你，置於共享所有權之下。」見證人說：「你的朋友或熟人是誰？」說出一個朋友的名字，見證人說：「我把它給他/她。使用屬於他/她的東西，贈予出去，或按照你的意願處置它」當見證人說這句話時，共享所有權就被取消了。
+
 (未完待續)
