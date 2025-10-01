@@ -1143,4 +1143,15 @@
 
      - 第三種方法，即「不在場」，將布交給見證人，說：「我將這塊袈裟布交給你，置於共享所有權之下。」見證人說：「你的朋友或熟人是誰？」說出一個朋友的名字，見證人說：「我把它給他/她。使用屬於他/她的東西，贈予出去，或按照你的意願處置它」當見證人說這句話時，共享所有權就被取消了。
 
+   * - There are several problems with the K/Commentary’s interpretations. First, it is hard to see any practical difference between its methods 2 and 3, why one should be called “in the presence of” and the other “in the absence of,” and in method 2 why the witness should have the right to give one permission to use an article that strictly speaking belongs to someone else.
+
+     - K/《義註》的解釋有幾個問題。首先，很難看出方法二和三之間有什麼實際區別，為什麼一個應該被稱為「在場」，另一個應該被稱為「不在場」，以及在方法二中，為什麼見證人有權允許自己使用嚴格來說屬於他人的物品。
+
+   * - Second, the K/Commentary’s method for “in the absence of” deviates from the Vibhaṅga’s description of the method. In the Vibhaṅga’s description, the witness places the cloth under shared ownership with two of one’s friends, whereas in the K/Commentary’s, he/she places it under shared ownership with one friend. Why this should be the case, none of the texts explain.
+
+     - 其次，K/《義註》中「不在場」的情況下所使用的方法與《經分別》中的方法描述不同。在《經分別》的描述中，見證人將布料與自己的兩個朋友共有，而在K/《義註》中，見證人將布料與自己的一個朋友共有。至於為什麼會這樣，所有文獻都沒有解釋。
+
+   * - For these reasons, it would seem that the previous explanation—that there are two methods, as described in the Vibhaṅga—is preferable to the K/Commentary’s.
+     - 基於這些原因，似乎先前的解釋（即《經分別》中所描述的兩種方法）比 K/《義註》的解釋更可取。
+
 (未完待續)
