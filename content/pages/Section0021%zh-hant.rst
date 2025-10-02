@@ -1171,4 +1171,76 @@
 .. _NP 21: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
 .. _《捨墮》二一: {filename}Section0015%zh-hant.rst#NP21
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in using an item placed under shared ownership if the shared ownership has been rescinded or if one makes use of the item on trust. The factors for legitimately taking an item on trust are as follows (`Mv.VIII.19.1`_):
+
+     - 若共享所有權已被取消，或基於信任使用該物品，則使用該共享所有權下的物品不構成犯戒。合法地基於信任取得物品的要素如下（\ `《大品》.八.19.1`_\ ）：
+
+   * - .. container:: mx-2
+
+          1\) The other person is a friend.
+
+     - .. container:: mx-2
+
+          1）對方是朋友。
+
+   * - .. container:: mx-2
+
+          2\) He/she is an intimate.
+
+     - .. container:: mx-2
+
+          2）他/她是親密的人。
+
+   * - .. container:: mx-2
+
+          3\) He/she has spoken of the matter. (According to the Commentary, this means that he/she has said, “You may take any of my property you want.”)
+
+     - .. container:: mx-2
+
+          3）他/她已經說了此事。（根據《義註》，這意味著他/她說：「你可以拿走屬於我的任何你想要的財產。」）
+
+   * - .. container:: mx-2
+
+          4\) He/she is still alive.
+
+     - .. container:: mx-2
+
+          4）他/她還活著。
+
+   * - .. container:: mx-2
+
+          5\) One knows that he/she will be pleased at one’s taking it.
+
+     - .. container:: mx-2
+
+          5）知道他/她會很高興自己取走它。
+
+   * - These factors are discussed in detail under `Pr 2`_.
+     - 這些因素在\ `《波羅夷》二`_\ 中有詳細討論。
+
+   * - The K/Commentary’s analysis of the factors involved in committing an offense under this rule suggests that when an item placed under shared ownership is taken on trust, the shared ownership is automatically rescinded, and the item reverts to the status of extra cloth or an extra bowl, as the case may be.
+
+     - K/《義註》對違反此戒條所涉及的因素的分析表明，當共享所有權下的物品被基於信任拿走時，共享所有權將自動取消，並且該物品將恢復為額外的布料或額外的缽的狀態，視情況而定。
+
+   * - *Summary: Making use of cloth or a bowl stored under shared ownership—unless the shared ownership has been rescinded or one is taking the item on trust—is a pācittiya offense.*
+     - *摘要：使用共享所有權下存放的布料或缽（除非共享所有權已被取消或基於信任而拿走該物品）是《波逸提》（《單墮》）罪。*
+
+.. _Mv.VIII.19.1: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.VIII.19.1
+.. _《大品》.八.19.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0384a12
+.. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
+.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
