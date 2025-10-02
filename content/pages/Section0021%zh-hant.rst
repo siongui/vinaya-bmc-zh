@@ -1154,4 +1154,21 @@
    * - For these reasons, it would seem that the previous explanation—that there are two methods, as described in the Vibhaṅga—is preferable to the K/Commentary’s.
      - 基於這些原因，似乎先前的解釋（即《經分別》中所描述的兩種方法）比 K/《義註》的解釋更可取。
 
+   * - **The factors for the offense**
+     - **犯戒因素**
+
+   * - The factors for the offense here are two: *object*\—any one of the six kinds of robe-cloth, measuring at least four by eight fingerbreadths, that one has placed under shared ownership; and *effort*\—one uses the cloth without the shared ownership’s being rescinded.
+
+     - 此處的犯戒因素有二：\ *對象*\ ──六種袈裟布中的任何一種，尺寸至少為四指乘八指寬，置於共享所有權之下；\ *努力*\ ──在不取消共享所有權的情況下使用該布料。
+
+   * - Perception as to whether the shared ownership has actually been rescinded is not a mitigating factor here (see `Pc 4`_).
+     - 對於共享所有權是否真的被取消的感知並不是這裡的減輕懲罰因素（參見\ `《波逸提》四`_\ ）。
+
+   * - The K/Commentary notes that this rule applies not only to robe-cloth, but also to bowls as well. None of the other texts mention this point, but—given that bowls placed under shared ownership are mentioned under `NP 21`_, and that there is nothing in the Vibhaṅga to indicate that this arrangement is different for bowls than it is for cloth—the Great Standards could be cited to support the K/Commentary here.
+
+     - K/《義註》指出，這條戒條不僅適用於袈裟布，也適用於缽。其他文獻均未提及這一點，但鑑於\ `《捨墮》二一`_\ 提及了共享所有權的缽，且《經分別》中沒有任何內容表明缽的分配方式與布料不同，因此可以引用《四大教示》來支持 K/《義註》。
+
+.. _NP 21: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
+.. _《捨墮》二一: {filename}Section0015%zh-hant.rst#NP21
+
 (未完待續)
