@@ -1254,7 +1254,7 @@
    :widths: auto
 
    * - **60**
-     - **六十一**
+     - **六十**
 
    * - .. container:: notification
 
@@ -1281,4 +1281,48 @@
 .. _《波逸提》八六: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
 .. TODO FIXME: replace link to 《波逸提》八六
 
-(未完待續)
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - One hides the article or has it hidden. In the latter case—assuming that the other factors are fulfilled—there is a pācittiya in making the request/command/suggestion, and another pācittiya when the other person does one’s bidding, regardless of how many items that person hides as the result of the one request/command/suggestion.
+
+     - 藏匿物品，或令藏匿物品。在後一種情況下－假設其他因素均已滿足－提出請求/命令/建議時，犯一次《波逸提》；而當對方遵從自己的命令時，犯另一次《波逸提》，無論對方因這一個請求/命令/建議而藏匿了多少物品。
+
+   * - **Intention**
+     - **意圖**
+
+   * - One is doing it as a game. The Sub-commentary makes clear that the “game” here can either be friendly or malicious. If one hides the other bhikkhu’s requisites out of the perverse pleasure of annoying him or simply for a friendly laugh, one commits the full offense all the same.
+
+     - 這樣做當成一場遊戲。《複註》明確指出，這裡的「遊戲」可以是善意的，也可以是惡意的。如果出於惹惱比丘的變態快感而藏匿他的必需品，或者只是為了友善地一笑，同樣犯了全部罪行。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if—
+     - 如果以下情況，則不構成犯戒：
+
+   * - .. container:: mx-2
+
+          not as a game, one puts away properly items that have been put away improperly (§), e.g., a bowl left hanging on a peg (see `Cv.V.9.5`_); or
+
+     - .. container:: mx-2
+
+          不是作為一種遊戲，而是將放得不當的物品妥善放好（§），例如，掛在掛鉤上的缽（參見\ `《小品》.五.9.5`_\ ）；或者
+
+   * - .. container:: mx-2
+
+          one puts away an item, thinking, “I will give it back (to him) after having given him a Dhamma talk.” *Dhamma talk* here, the Commentary says, refers to such admonitions as, “A contemplative should not leave his requisites scattered around.” Hiding things with this purpose in mind is sometimes an effective way for a teacher to train his students to stop being careless with their belongings, but it should be used with discretion, for it can easily backfire.
+
+     - .. container:: mx-2
+
+          收起一件物品，心想：「我給他講完佛法後再還（給他）。」《義註》說，這裡的\ *佛法*\ 指的是這樣的勸誡：「沙門不應將自己的物品散落在各處。」出於這個目的而隱藏物品有時是老師訓練學生不再粗心大意對待自己物品的有效方法，但應謹慎使用，因為它很容易適得其反。
+
+   * - *Summary: Hiding another bhikkhu’s bowl, robe, sitting cloth, needle box, or belt—or having it hidden—either as a joke or with the purpose of annoying him, is a pācittiya offense.*
+     - *摘要：隱藏另一個比丘的缽、袈裟、坐墊、針盒或腰帶，或令隱藏，無論是出於玩笑還是為了惹惱他，都是《波逸提》（《單墮》）罪。*
+
+.. _Cv.V.9.5: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#Cv.V.9.5
+.. _《小品》.五.9.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0154a13
