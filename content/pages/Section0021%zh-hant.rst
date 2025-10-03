@@ -1243,4 +1243,42 @@
    \*    \*    \*
 
 
+.. _Pc60:
+
+.. raw:: html
+
+   <span id="Pc60"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **60**
+     - **六十一**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu hide (another) bhikkhu’s bowl, robe, sitting cloth, needle box, or belt—or have it hidden—even as a joke, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘隱藏（另一個）比丘的缽、袈裟、坐墊、針盒或腰帶 —— 或令隱藏 —— 即使是出於玩笑，波逸提。*
+
+   * - This is another rule that comes from some members of the group of six teasing the children in the group of seventeen. The factors for the full offense are three.
+     - 這是另一條戒條，源自於六群中的一些成員戲弄十七群中的孩子。構成完全違犯的因素有三。
+
+   * - **Object:**
+     - **對象：**
+
+   * - Any of the requisites mentioned in the rule, belonging to a bhikkhu. *Robe* here means any piece of robe material measuring at least four by eight fingerbreadths, except for sitting cloths, which are mentioned separately. *Needle box* covers not only cases containing needles (see `Pc 86`_) but also empty ones. Any requisite not mentioned in the rule but belonging to a bhikkhu is grounds for a dukkaṭa, as is any requisite belonging to a person who is not a bhikkhu.
+
+     - 任何在戒條中提及的、屬於比丘的必需品。\ *袈裟*\ 在此指任何至少四指乘八指寬的袈裟材料，但坐墊除外，坐墊另行提及。\ *針盒*\ 不僅指裝有針的盒子（參見\ `《波逸提》八六`_\ ），也指空針盒。任何在戒條中未提及但屬於比丘的必需品，以及任何屬於非比丘者的必需品，均構成《突吉羅》。
+
+   * - Perception as to the status of the person whose requisite one is hiding is not a mitigating factor here (see `Pc 42`_).
+     - 對於自己隱藏必需品的人的身分的感知在這裡並不是減輕懲罰的因素（參見\ `《波逸提》四二`_\ ）。
+
+.. _Pc 86: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
+.. _《波逸提》八六: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
+.. TODO FIXME: replace link to 《波逸提》八六
+
 (未完待續)
