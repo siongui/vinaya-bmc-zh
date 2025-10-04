@@ -499,10 +499,10 @@
      - `\　　　六十 <{filename}Section0021%zh-hant.rst#Pc60>`__
 
    * - `\　　Seven: The Animal Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0022.html>`__
-     - 　　第七 有生物品
+     - `\　　第七 有生物品 <{filename}Section0022%zh-hant.rst>`__
 
    * - `\　　　61 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61>`__
-     - 　　　六十一
+     - `\　　　六十一 <{filename}Section0022%zh-hant.rst#Pc61>`__
 
    * - `\　　　62 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc62>`__
      - 　　　六十二

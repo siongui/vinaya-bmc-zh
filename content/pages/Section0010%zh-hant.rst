@@ -1156,8 +1156,7 @@
 .. _起源故事: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0092a07
 .. _一個比丘試圖跳崖自殺: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0111a09
 .. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
-.. _《波逸提》六一: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
-.. TODO FIXME: replace link to 《波逸提》六一
+.. _《波逸提》六一: {filename}Section0022%zh-hant.rst#Pc61
 
 
 .. list-table::

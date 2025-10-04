@@ -1447,8 +1447,7 @@
      - 結果在這裡不是一個因素。生物是否真的死亡對於判定犯戒而言並不相關。
 
 .. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
-.. _《波逸提》六一: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
-.. TODO FIXME: replace link to 《波逸提》六一
+.. _《波逸提》六一: {filename}Section0022%zh-hant.rst#Pc61
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
