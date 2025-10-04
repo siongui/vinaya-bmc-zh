@@ -86,4 +86,29 @@
 .. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
 .. _《波羅夷》三: {filename}Section0010%zh-hant.rst#Pr3
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Perception**
+     - **感知**
+
+   * - If one is in doubt as to whether something is a living animal, it is grounds for a dukkaṭa regardless of whether it actually is. If one perceives an inanimate object to be a living animal, it is grounds for a dukkaṭa. If one perceives an object to be inanimate, then regardless of whether it actually is, it is not grounds for an offense. Thus, for example, if—with murderous intent—one steps on a spot of dirt thinking it to be a bed bug egg, the penalty is a dukkaṭa. If one steps on bed bug eggs thinking them to be spots of dirt, there is no penalty.
+
+     - 如果懷疑某物是否為活著的動物，無論它是否真的是，都構成《突吉羅》。如果將無生命物體視為活著的動物，也構成《突吉羅》。如果將某物視為無生命，無論它是否真的是，都不構成犯戒。因此，例如，如果懷著殺意踩到一處泥土，認為那是臭蟲卵，則懲罰為《突吉羅》。如果踩到臭蟲卵，認為它們是泥土，則不受懲罰。
+
+   * - **Intention**
+     - **意圖**
+
+   * - *Intention*, in the Vibhaṅga, is described as “having willed, having made the decision knowingly and consciously”—the same phrase used to define intention under `Pr 3`_. The Commentary to this rule refers back to the Commentary to that rule, where *having willed* means having willed, having planned, with a murderous intention. *Having made the decision* means “having summoned up a reckless mind-state, ‘crushing’ through the power of an attack.” *Knowingly* means knowing that, “This is a living being.” *Consciously* means being aware that one’s action is depriving the animal of life.
+
+     - *意圖*\ ，在《經分別》中，被描述為「有意願，明知且有意識地做出決定」──與\ `《波羅夷》三`_\ 中對意圖的定義的措辭相同。本戒條的《義註》引用了該戒條的《義註》，其中\ *有意願*\ 是指有意願、有計劃、有謀殺意圖。\ *做出決定*\ 是指「鼓起不顧一切的心態，以攻擊的力量『粉碎』」。\ *明知*\ 是指知道「這是一個生物」。\ *有意識*\ 是指知道自己的行為正在剝奪動物的生命。
+
+   * - All of this indicates that this factor is fulfilled only when one acts on a clear and consciously made decision to deprive the animal of life. Thus, for example, if one is sweeping a walk, trying carefully not to kill any insects, and yet some ants happen to die, one does not commit an offense even if one knew that there was the possibility that some might die, because one’s purpose in acting was not to cause their death.
+
+     - 所有這些都表明，只有當根據清晰且有意識的決定採取行動，剝奪動物的生命時，這一因素才會得到滿足。因此，例如，如果正在清掃人行道，小心翼翼地不殺死任何昆蟲，然而卻碰巧死了一些螞蟻，即使知道有可能造成一些螞蟻死亡，也不會構成犯戒，因為行為的目的並非是要導致它們死亡。
+
+   * - Motive, here, is irrelevant to the offense. Even the desire to kill an animal to “put it out of its misery” fulfills the factor of intention all the same.
+     - 此處，動機與犯戒無關。即使只是想「結束痛苦」而殺死動物，也同樣構成意圖的因素。
+
 (未完待續)
