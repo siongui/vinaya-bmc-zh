@@ -111,4 +111,69 @@
    * - Motive, here, is irrelevant to the offense. Even the desire to kill an animal to “put it out of its misery” fulfills the factor of intention all the same.
      - 此處，動機與犯戒無關。即使只是想「結束痛苦」而殺死動物，也同樣構成意圖的因素。
 
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga is silent on what ways of taking life would fall under this rule. The Commentary says that explanations for this rule may be inferred from its discussion to `Pr 3`_. Thus the four ways of taking life listed in the Vibhaṅga to that rule would apply here as well:
+
+     - 《經分別》並沒有說哪些殺生方式符合這條戒條。《義註》說，這條戒條的解釋可以從其對\ `《波羅夷》三`_\ 的討論中推論出來。因此，該戒條的《經分別》中所列舉的四種殺生方式也適用於此：
+
+   * - .. container:: mx-2
+
+          *using one’s own person* (e.g., hitting with the hand, kicking, using a knife or a club);
+
+     - .. container:: mx-2
+
+          *使用自己的身體*\ （例如，用手打、踢、使用刀或棍棒）；
+
+   * - .. container:: mx-2
+
+          *throwing* (hurling a stone, shooting an arrow or a gun);
+
+     - .. container:: mx-2
+
+          *投擲*\ （投擲石頭、射箭或槍）；
+
+   * - .. container:: mx-2
+
+          *using a stationary device* (setting a trap, placing poison in food);
+
+     - .. container:: mx-2
+
+          *使用固定裝置*\ （設置陷阱、在食物中放置毒藥）；
+
+   * - .. container:: mx-2
+
+          *commanding*.
+
+     - .. container:: mx-2
+
+          *命令*\ 。
+
+   * - `Mv.V.10.10`_ discusses a case of this last instance, in which a depraved bhikkhu tells a layman that he has use for a certain calf’s hide, and the layman kills the calf for him. Because the bhikkhu did not give a specific command that the calf be killed, and yet the Buddha said that his action did come under this rule, we can conclude that there is no room for *kappiya-vohāra* in this context. Whatever one says in hopes of inciting someone else to kill an animal would fulfill this factor. This rule thus differs from `Pr 3`_, under which *commanding* covers only clear imperatives.
+
+     - `《大品》.五.10.10`_ 討論了最後一個方式的案例：一位墮落的比丘告訴一位居士，他需要一頭小牛的皮，於是這位居士為他宰殺了這頭小牛。由於這位比丘並沒有明確下令宰殺這頭小牛，而佛陀卻說他的行為確實符合這條戒條，因此我們可以得出結論，在這種脈絡下，不存在 *kappiya-vohāra* 的空間。任何希望煽動他人殺動物的言論都符合此因素。因此，這條戒條與\ `《波羅夷》三`_\ 不同，該戒條下的\ *命令*\ 只涵蓋明確的命令。
+
+   * - Two other ways of taking life, listed in the Commentary to `Pr 3`_, would apparently also apply here:
+     - `《波羅夷》三`_\ 的《義註》中列出了另外兩種殺生的方式，顯然也適用於此：
+
+   * - .. container:: mx-2
+
+          *using magical formulae;*
+
+     - .. container:: mx-2
+
+          *使用咒語；*
+
+   * - .. container:: mx-2
+
+          *using psychic powers.*
+
+     - .. container:: mx-2
+
+          *使用神通。*
+
+.. _Mv.V.10.10: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.V.10.10
+.. _《大品》.五.10.10: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0258a09
+
 (未完待續)
