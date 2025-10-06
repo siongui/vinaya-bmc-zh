@@ -176,4 +176,66 @@
 .. _Mv.V.10.10: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.V.10.10
 .. _《大品》.五.10.10: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0258a09
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Result**
+     - **結果**
+
+   * - Only if the animal dies does one incur the pācittiya here. The Vibhaṅga here mentions no penalty for the case where one tries to kill an animal but the animal does not die. However, under `Pr 3`_\—in its discussion of a pitfall arranged with the intent of causing the death of any living being falling into it—it assigns the following penalties: if an animal falls into the pitfall, a dukkaṭa; if it experiences pain as a result, another dukkaṭa; if it dies, a pācittiya. Thus it seems reasonable to extrapolate from this specific example to make these penalties general: For a bhikkhu making an intentional effort to kill an animal, there is a dukkaṭa for the first effort that touches the animal’s body; another dukkaṭa if the animal experiences pain because of one’s effort; and the full offense if, as a result, it dies.
+
+     - 只有動物死亡，才會在此犯《波逸提》。《經分別》在此並未提及試圖殺死動物但動物未死的情況的懲罰。然而，在\ `《波羅夷》三`_\ 中——在其討論中，安排意圖讓任何生物掉入其中而死亡的陷阱時——規定了以下懲罰：如果動物掉入陷阱，則犯一次《突吉羅》；如果動物因此遭受痛苦，則犯另一次《突吉羅》；如果動物死亡，則犯一次《波逸提》。因此，似乎可以合理地從這個具體例子推斷而使這些懲罰具普遍性：對於有意殺死動物的比丘，第一次觸及動物身體的努力犯一次《突吉羅》；如果動物因該努力而遭受痛苦，則犯另一次《突吉羅》；如果因此導致動物死亡，則構成完全違犯。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in killing an animal—
+     - 殺死動物並無犯戒——
+
+   * - .. container:: mx-2
+
+          *unintentionally*\—e.g., accidentally dropping a load that crushes a cat to death;
+
+     - .. container:: mx-2
+
+          *無意地*\—例如，意外掉落負載，將貓咪壓死；
+
+   * - .. container:: mx-2
+
+          *unthinkingly*\—e.g., absent-mindedly rubbing one’s arm while it is being bitten by mosquitoes;
+
+     - .. container:: mx-2
+
+          *不假思索地*\—例如，在被蚊子叮咬時心不在焉地揉搓手臂；
+
+   * - .. container:: mx-2
+
+          *unknowingly*\—e.g., walking into a dark room and, without realizing it, stepping on an insect; or
+
+     - .. container:: mx-2
+
+          *不知不覺地*\—例如，走進一個黑暗的房間，沒有意識到踩到了一隻昆蟲；或者
+
+   * - .. container:: mx-2
+
+          *when one’s action is motivated by a purpose other than that of causing death*\—e.g., giving medicine to a sick dog whose system, it turns out, cannot withstand the dosage.
+
+     - .. container:: mx-2
+
+          *當行動不是出於導致死亡的目的時*\—例如，給一隻病狗餵藥，結果這隻狗的身體卻無法承受該劑量。
+
+   * - Still, the Commentary states that if one notices even bed bug eggs while cleaning a bed, one should be careful not to damage them. Thus, “out of compassion, one’s duties are to be done carefully.” Or, in the words of the Sub-commentary: “One’s duties in looking after one’s dwelling are to be done with mindfulness well-established so that such creatures do not die.”
+
+     - 儘管如此，《義註》指出，即使在清潔床舖時發現臭蟲卵，也應小心謹慎，以免損壞它們。因此，「出於慈悲，應謹慎履行職責」。或者，用《複註》的話來說：「看管住所時，應以紮實的正念履行職責，以免這些生物死亡。」
+
+   * - *Summary: Deliberately killing an animal—or having it killed—is a pācittiya offense.*
+     - *摘要：故意殺害動物或令其被殺是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
