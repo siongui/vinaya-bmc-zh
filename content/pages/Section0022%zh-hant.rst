@@ -238,4 +238,38 @@
    \*    \*    \*
 
 
+.. _Pc62:
+
+.. raw:: html
+
+   <span id="Pc62"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **62**
+     - **六十二**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu knowingly make use of water containing living beings, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘明知而使用含有生物的水，波逸提。*
+
+   * - This rule is similar to `Pc 20`_, differing only in the factor of effort and in the fact that intention is not a factor for an offense. So here the factors for the full offense are three: object, perception, and effort.
+
+     - 這條戒條與\ `《波逸提》二十`_\ 相似，差異僅在於努力因素，以及意圖並非構成犯戒的因素。因此，此處構成完全違犯的因素有三：對象、感知和努力。
+
+   * - **Object:**
+     - **對象：**
+
+   * - Water containing living creatures. This includes things like mosquito larvae, but not beings too small to be seen.
+     - 含有生物的水。這包括蚊子幼蟲之類的生物，但不包括肉眼看不見的生物。
+
+.. _Pc 20: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc20
+.. _《波逸提》二十: {filename}Section0017%zh-hant.rst#Pc20
+
 (未完待續)
