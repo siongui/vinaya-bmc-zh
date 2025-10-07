@@ -272,4 +272,29 @@
 .. _Pc 20: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc20
 .. _《波逸提》二十: {filename}Section0017%zh-hant.rst#Pc20
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Perception**
+     - **感知**
+
+   * - One knows that they are there—either from having sensed their presence on one’s own or from having been told of their presence—and that they will die from the factor of effort, defined below.
+
+     - 知道它們的存在——無論是自己感覺到它們的存在，還是被告知它們的存在——並且它們會因為下面定義的努力因素而死亡。
+
+   * - If one is in doubt as to whether water contains living beings, or if one perceives living beings in the water when there actually aren’t, then to use it in a way that would cause their death if they *were* there is to incur a dukkaṭa.
+
+     - 如果懷疑水中是否有生物，或者認為水中有生物，但實際上沒有，那麼以會導致生物死亡的方式使用水就會犯《突吉羅》。
+
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga does not go into detail on this factor, while the Commentary defines it with examples: drinking the water, using it to wash one’s bowl, using it to cool hot porridge, dipping it out of a tank or pond to bathe with it, making waves in a pool so that the water will splash over its banks. The Sub-commentary suggests that this rule covers only cases in which one is using water for one’s own personal consumption, but this does not fit with the fact that, under this rule, the Commentary explains how one should go about cleaning out a dirty pool. (Place eight to ten potfuls of water containing no living beings in another place that will hold the water, and then dip the water from the pool into it.) The Commentary to `Pr 3`_ states that using water to put out a fire—even an approaching wildfire that threatens one’s dwelling—would also come under this rule.
+
+     - 《經分別》沒有詳細說明這一點，而《義註》則舉例說明：飲水、用它來洗碗、用它來涼熱粥、從水箱或池塘中舀水並以之沐浴、在水池中掀起波浪使水濺到岸邊。《複註》認為這條戒條只涵蓋個人用水的情況，但這與《義註》在這條戒條下解釋如何清理髒水池的事實不符。（將八到十壺沒有生物的水放在另一個可以盛水的地方，然後將水池中的水舀入其中。）\ `《波羅夷》三`_\ 的《義註》指出，用水滅火——即使是即將威脅到住所的野火——也屬於這條戒條。
+
+   * - From all of this, it would appear that this rule covers all cases of using water containing living beings that are not covered by `Pc 20`_.
+     - 從所有這些來看，這條戒條似乎涵蓋了所有使用含有生物的水的情況，而這些情況並被\ `《波逸提》二十`_\ 所涵蓋。
+
 (未完待續)
