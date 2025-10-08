@@ -295,6 +295,20 @@
      - 《經分別》沒有詳細說明這一點，而《義註》則舉例說明：飲水、用它來洗碗、用它來涼熱粥、從水箱或池塘中舀水並以之沐浴、在水池中掀起波浪使水濺到岸邊。《複註》認為這條戒條只涵蓋個人用水的情況，但這與《義註》在這條戒條下解釋如何清理髒水池的事實不符。（將八到十壺沒有生物的水放在另一個可以盛水的地方，然後將水池中的水舀入其中。）\ `《波羅夷》三`_\ 的《義註》指出，用水滅火——即使是即將威脅到住所的野火——也屬於這條戒條。
 
    * - From all of this, it would appear that this rule covers all cases of using water containing living beings that are not covered by `Pc 20`_.
-     - 從所有這些來看，這條戒條似乎涵蓋了所有使用含有生物的水的情況，而這些情況並被\ `《波逸提》二十`_\ 所涵蓋。
+     - 從所有這些來看，這條戒條似乎涵蓋了所有使用含有生物的水的情況，而這些情況並未被\ `《波逸提》二十`_\ 所涵蓋。
+
+   * - Unlike that rule, though, the Vibhaṅga does not include the act of getting other people to make use of water containing living beings under the factor of effort here, although the Commentary and K/Commentary do. On the surface, the commentaries’ position seems reasonable. However, the compilers of the Vibhaṅga may have been taking into account the fact that, unlike telling a person to pour water on the ground, telling a person simply to use water containing living beings is not an order that, if carried out, would automatically doom those beings to death. For example, if one told another bhikkhu to drink water containing living beings, he would be the one responsible for deciding whether to strain the water first (see below). If he did, no damage would be done. If he didn’t, the offense under this rule would be his. Thus the Vibhaṅga seems correct in *not* including the act of getting other people to use such water under this rule. In fact, this distinction between this rule and `Pc 20`_ may be one of the reasons why this topic is covered by two separate rules.
+
+     - 然而，與那條戒條不同的是，《經分別》並未將讓別人使用含有生物的水的行為納入此處的努力因素，而《義註》和 K/《義註》則將其納入。表面上看，註釋書的立場似乎合理。然而，《經分別》的編纂者可能考慮到了這樣一個事實：與告訴一個人將水倒在地上不同，僅僅告訴一個人使用含有生物的水，並不意味著這個命令如果被執行，就會自動導致這些生物死亡。例如，如果告訴另一個比丘喝含有生物的水，他有責任決定是否先濾水（見下文）。如果他這樣做了，就不會造成損害。如果他不這樣做，他就會犯下這條戒條下的罪行。因此，《經分別》並\ *未*\ 將讓別人使用這種水的行為納入這條戒條似乎是正確的。事實上，本戒條與\ `《波逸提》二十`_\ 之間的差異可能是此主題由兩個獨立戒條涵蓋的原因之一。
+
+   * - The K/Commentary claims that intention is also a factor here, and—as under `Pc 20`_\—it states that the intention has to be non-murderous—the implication being that if it were murderous, the case would come under `Pc 61`_. However, unlike the non-offense clauses to `Pc 20`_, the Vibhaṅga’s non-offense clauses here make no exception for a bhikkhu who uses water containing living beings either unthinkingly or unintentionally. The only exemptions deal with what one knows or does not know about the water. This means that if one knows the water contains living beings that would die from using it, then even if one spills the water accidentally, one’s action would incur a penalty all the same.
+
+     - K/《義註》聲稱意圖也是此處的一個因素，並且——與\ `《波逸提》二十`_\ 一樣——它規定意圖必須是非殺害性的——言下之意是，如果意圖是殺害性的，則該情況屬於\ `《波逸提》六一`_\ 的範疇。然而，與\ `《波逸提》二十`_\ 的不犯條款不同，此處《經分別》的不犯條款並未豁免比丘不加思索地或無意地使用含有生物的水。唯一的豁免取決於對水的了解。這意味著，如果知道水中含有生物，而使用水會導致生物會死亡，那麼即使不小心將水灑了，該行為仍然同樣會受到懲罰。
+
+   * - Result is not a factor here. Whether the living beings actually die is of no consequence in determining the offense.
+     - 結果在這裡不是一個因素。生物是否真的死亡與判定犯戒無關。
+
+.. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
+.. _《波逸提》六一: #Pc61
 
 (未完待續)
