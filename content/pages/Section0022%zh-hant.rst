@@ -311,4 +311,59 @@
 .. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
 .. _《波逸提》六一: #Pc61
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in using water—
+     - 使用水並沒有犯戒——
+
+   * - .. container:: mx-2
+
+          if one does not know that it contains living beings;
+
+     - .. container:: mx-2
+
+          如果不知道其中有生物的話；
+
+   * - .. container:: mx-2
+
+          if one knows that it does not contain living beings; or
+
+     - .. container:: mx-2
+
+          如果知道其中不包含生物；或者
+
+   * - .. container:: mx-2
+
+          if one knows that the living beings it contains will not die from the use one has in mind.
+
+     - .. container:: mx-2
+
+          如果知道其中所包含的生物不會因為想要的用途而死亡。
+
+   * - **Water strainers**
+     - **濾水器**
+
+   * - `Cv.V.13.1`_ gives permission for one to use a water strainer to remove dirt and living beings from water before using it, and such strainers eventually became one of a bhikkhu’s eight basic requisites. According to `Cv.V.13.2`_, one must take a water strainer along when going on a journey. If one has no strainer, one may determine the corner of one’s outer robe as a strainer and use it to filter water.
+
+     - `《小品》.五.13.1`_ 允許在使用水之前使用濾水器，去除水中的污垢和生物，這種濾水器最終成為比丘的八項基本必需品之一。根據\ `《小品》.五.13.2`_ ，在旅行時必須攜帶濾水器。如果沒有濾水器，可以決意外衣的一角當作濾水器，用它來過濾水。
+
+   * - *Summary: Using water knowing that it contains living beings that will die from that use is a pācittiya offense.*
+     - *摘要：明知水中含有會因使用而造成死亡的生物，卻仍使用水，是《波逸提》（《單墮》）罪。*
+
+.. _Cv.V.13.1: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#Cv.V.13.1
+.. _Cv.V.13.2: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#Cv.V.13.2
+.. _《小品》.五.13.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0160a01
+.. _《小品》.五.13.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0160a04
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
