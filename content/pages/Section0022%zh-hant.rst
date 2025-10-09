@@ -366,4 +366,25 @@
    \*    \*    \*
 
 
+.. _Pc63:
+
+.. raw:: html
+
+   <span id="Pc63"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **63**
+     - **六十三**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu knowingly agitate for the reviving of an issue that has been rightfully dealt with, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘明知地鼓動重新提起已經得到正確處理的諍事，波逸提。*
+
 (未完待續)

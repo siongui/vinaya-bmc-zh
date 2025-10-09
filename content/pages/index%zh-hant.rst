@@ -508,7 +508,7 @@
      - `\　　　六十二 <{filename}Section0022%zh-hant.rst#Pc62>`__
 
    * - `\　　　63 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc63>`__
-     - 　　　六十三
+     - `\　　　六十三 <{filename}Section0022%zh-hant.rst#Pc63>`__
 
    * - `\　　　64 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64>`__
      - 　　　六十四
