@@ -65,6 +65,7 @@
     + `佛教的飲食規制 <http://old.ddc.shengyen.org/mobile/toc/05/05-05/d5.php>`_
 
 - `[PDF] 「七滅諍法」的程序正義與配套措施 釋昭慧 <https://www.hcu.edu.tw/Upload/TempFiles/76ee1d49d40f4230a19de0f39b03548a.pdf>`__
+- `比丘僧尼戒律儀--七滅諍法 <{filename}dispute-resolution%zh-hant.rst>`_
 - `內觀雜誌 - Google Search <https://www.google.com/search?q=%E5%85%A7%E8%A7%80%E9%9B%9C%E8%AA%8C>`__
 
   * `[PDF] 四諍和滅諍 林崇安編 <http://www.ss.ncu.edu.tw/~calin/article2008/13_6.pdf>`__
