@@ -461,3 +461,6 @@
 
 轉錄來源：
 `比丘僧尼戒律儀--七滅諍法 <https://www.dharmazen.org/X1Chinese/D45Dictionary/D09Sila001/D09-1-0002.htm>`_
+
+參考：
+`四諍【南山律學詞典】 <http://m.fodizi.tw/f05/58625.html>`_

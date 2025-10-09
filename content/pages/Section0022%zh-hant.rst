@@ -387,4 +387,35 @@
 
           *如果任何比丘明知地鼓動重新提起已經得到正確處理的諍事，波逸提。*
 
+   * - **Issues**
+     - **諍事**
+
+   * - An issue *(adhikaraṇa)* is a matter that, once arisen, must be dealt with formally in a prescribed manner. The Vibhaṅga lists four sorts:
+     - 諍事\ *（adhikaraṇa）*\ 是指一旦發生，必須以規定的方式正式處理的事情。《經分別》列出了四種類型：
+
+   * - *1) dispute-issues (vivādādhikaraṇa)* concerning Dhamma and Vinaya (see `Sg 10`_), which the Community must deal with by declaring which side is right and which wrong;
+     - *1）言諍（vivādādhikaraṇa）*\ 是有關法與律的爭議問題（見\ `《僧殘》十`_\ ），僧團必須透過宣告哪一方是對的、哪一方是錯的來處理這些問題；
+
+   * - *2) accusation-issues (anuvādādhikaraṇa)* concerning offenses (see `Sg 8`_ & 9_; `Ay 1`_ & 2_), which the Community must deal with by judging them true or false;
+     - *2）教誡諍/覓諍（anuvādādhikaraṇa）*\ 有關犯戒的指控問題（見\ `《僧殘》八`_\ 、\ `九`_\ ；\ `《不定》一`_\ 、\ `二`_\ ），僧團必須透過判斷其真否來處理這些問題；
+
+   * - *3) offense-issues (āpattādhikaraṇa)*, in other words, the commission of offenses, which are to be dealt with by the offender’s undergoing the prescribed penalties (confession, penance, or expulsion from the Community); and
+
+     - *3）犯罪諍/犯諍（āpattādhikaraṇa）*\ ，換言之即犯下的罪行，應透過對犯戒者進行規定的懲罰（發露懺悔、摩那埵、或驅逐出僧團）來處理；
+
+   * - *4) duty-issues (kiccādhikaraṇa)*\—Community transactions, such as giving ordination and holding the Pāṭimokkha recitation—which the Community must deal with by performing them properly.
+
+     - *4）事諍（kiccādhikaraṇa）*\ ——僧伽羯磨，例如授具足戒和持誦《波羅提木叉》——僧團必須藉由妥善履行來處理這些事務。
+
+.. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
+.. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
+.. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. _9: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
+.. _Ay 1: https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay1
+.. _2: https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay2
+.. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
+.. _九: {filename}Section0011%zh-hant.rst#Sg9
+.. _《不定》一: {filename}Section0012%zh-hant.rst#Ay1
+.. _二: {filename}Section0012%zh-hant.rst#Ay2
+
 (未完待續)
