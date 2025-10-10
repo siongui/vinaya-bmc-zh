@@ -407,6 +407,27 @@
 
      - *4）事諍（kiccādhikaraṇa）*\ ——僧伽羯磨，例如授具足戒和持誦《波羅提木叉》——僧團必須藉由妥善履行來處理這些事務。
 
+   * - An issue rightfully dealt with is one that has been handled properly in accordance with the procedures given in the Vinaya. Some of these procedures are discussed under `Pc 79`_ & 80_, the Adhikaraṇa-samatha rules, and in `BMC2, Chapters 12-22`_. If an issue has been dealt with improperly, it may be reopened for reconsideration, but once it has been dealt with properly it is considered closed for good.
+
+     - 妥善處理的諍事是依照律藏規定的程序適當地處理的諍事。其中一些程序在\ `《波逸提》七九`_\ 和\ `八十`_，滅諍戒條，以及\ `《佛教比丘戒律 第二冊》第十二至二十二章`_\ 中進行了討論。如果諍事處理不當，可以重新審理，但一旦適當地處理，則視為永久了結。
+
+   * - The factors for an offense under this rule are three.
+     - 本戒條下犯戒的因素有三。
+
+   * - *1) Object:* an issue that has been dealt with properly.
+     - *1）對象：*\ 已妥善處理的諍事。
+
+   * - *2) Perception:* One knows that it was dealt with properly, either because one was directly involved or one has been told of the matter.
+     - *2）感知：*\ 知道諍事已經妥善處理，要不是因為直接參與其中，就是因為被告知了這件事。
+
+   * - *3) Effort:* One says—in the presence of another bhikkhu—that it was dealt with improperly. The Vibhaṅga gives the following examples of statements that would fulfill this factor: “The issue was not carried out.” “It was poorly carried out.” “It should be carried out again.” “It was not settled.” “It was poorly settled.” “It should be settled again.”
+
+     - *3）努力：*\ 在另一位比丘面前說此事處理不當。《經分別》列舉了以下符合此因素的陳述的例子：「此事未被執行。」「它被執行得不好。」「它應被重新執行。」「它未被解決。」「它被解決得不好。」「它應被重新解決。」
+
+   * - Pv.IX.3 contains a short discussion of this rule, making the point that one is subject to this rule regardless of whether one was involved in dealing with the issue the first time around.
+
+     - `《附隨》.九.3`_ 包含此戒條的簡短討論，指出無論是否第一次時即參與處理該問題，都必須遵守此戒條。
+
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
@@ -417,5 +438,15 @@
 .. _九: {filename}Section0011%zh-hant.rst#Sg9
 .. _《不定》一: {filename}Section0012%zh-hant.rst#Ay1
 .. _二: {filename}Section0012%zh-hant.rst#Ay2
+.. _Pc 79: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc79
+.. _80: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc80
+.. _BMC2, Chapters 12-22: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
+.. _《波逸提》七九: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc79
+.. TODO FIXME: replace link to 《波逸提》七九
+.. _八十: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc80
+.. TODO FIXME: replace link to 《波逸提》八十
+.. _《佛教比丘戒律 第二冊》第十二至二十二章: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十二至二十二章
+.. _《附隨》.九.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_009/#0240a13
 
 (未完待續)
