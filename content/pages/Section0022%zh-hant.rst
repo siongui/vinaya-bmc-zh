@@ -449,4 +449,51 @@
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十二至二十二章
 .. _《附隨》.九.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_009/#0240a13
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Perception**
+     - **感知**
+
+   * - If the transaction dealing with the issue was invalid but one perceives it as valid, it is grounds for a dukkaṭa. If one is in doubt about the validity of the transaction, then it is grounds for a dukkaṭa regardless of whether it was actually valid or not. What this last point means in practice is that if one is in doubt about the transaction, one may declare one’s doubt, but to state baldly that the issue needs to be reopened is to incur a dukkaṭa.
+
+     - 若處理該諍事的羯磨無效，但認為其有效，則構成《突吉羅》。如果對羯磨的有效性存有疑問，則無論該羯磨是否真的有效，都構成《突吉羅》。最後一點在實踐中意味著，如果對羯磨存有疑問，可以聲明自己的疑問，但直言不諱地表示需要重新討論該諍事，則構成《突吉羅》。
+
+   * - **Further action**
+     - **進一步行動**
+
+   * - The Commentary to `Cv.IX.3`_ states that in committing this offense one is subject to having one’s Pāṭimokkha canceled (see `BMC2, Chapter 15`_). This would provide an opportunity for the Community to look into one’s attitude to see if one is still insistent on having the issue revived. If one continues to make a concerted effort to reopen an issue, knowing that it was properly dealt with, one is considered a maker of strife, and as such is subject to an act of censure, banishment, or suspension, depending on the gravity of the case (see `BMC2, Chapter 20`_).
+
+     - `《小品》.九.3`_ 的《義註》指出，犯此戒者，其《波羅提木叉》將被取消（參見\ `《佛教比丘戒律 第二冊》第十五章`_\ ）。這將為僧團提供一個機會，審視其態度，看看其是否仍堅持重新提起此事。如果其明知此事已得到妥善處理，卻仍繼續試圖重新提起，則將被視為挑起紛爭，並根據情況的嚴重程度受到呵責、驅出或舉罪的處分（參見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）。
+
+.. _Cv.IX.3: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.3.1
+.. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. _《小品》.九.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_019/#0323a01
+.. _《佛教比丘戒律 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十五章
+.. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in agitating to have an issue re-opened if one perceives it to have been improperly dealt with: e.g., dealt with not in accordance with the rules and procedures of the Vinaya, dealt with by an incomplete group, or—in the case of an accusation or similar acts—performed against someone who did not deserve it. This allowance holds regardless of whether, in actuality, the issue was properly dealt with. For example: A Community has performed a censure transaction against Bhikkhu X. One honestly believes that X did not deserve the act, and says so to a fellow bhikkhu. In this case, one commits no offense even if it turns out that X did in fact deserve censure.
+
+     - 如果認為諍事處理不當，例如，處理方式不符合律藏的戒條和程序，或由不完整的團體處理，或——在指控或類似行為的情況下——針對不應得之者，則鼓動重新審理該諍事並無犯戒。無論諍事實際上是否得到妥善處理，此開緣仍適用。例如：僧團對比丘 X 進行了呵責羯磨。自己真誠地認為 X 不該受此處分，並向一位比丘同儕如此說。在這種情況下，即使事實證明 X 確實應受呵責，也不構成犯戒。
+
+   * - *Summary: Agitating to re-open an issue, knowing that it was properly dealt with, is a pācittiya offense.*
+     - *摘要：在明知諍事已經妥善處理的情況下，仍鼓動重新提之，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
