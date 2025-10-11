@@ -496,4 +496,41 @@
    \*    \*    \*
 
 
+.. _Pc64:
+
+.. raw:: html
+
+   <span id="Pc64"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **64**
+     - **六十四**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu knowingly conceal (another) bhikkhu’s serious offense, it is to be confessed.*
+
+     - .. container:: notification
+
+          *若任何比丘明知地隱瞞（另一位）比丘的嚴重罪行，波逸提。*
+
+   * - Here there are four factors for the full offense.
+     - 此處構成完全違犯的因素有四。
+
+   * - *1) Object:* a serious offense committed by another bhikkhu.
+     - *1）對象：*\ 另一位比丘所犯下的嚴重罪行。
+
+   * - *2) Perception:* One perceives the offense as serious—either from knowing on one’s own, from having been told by the bhikkhu, or from having been told by others.
+     - *2）感知：*\ 察覺該罪行是嚴重的—無論是自己知道，被比丘告知，或被他人告知。
+
+   * - *3) Intention:* One wants to hide the offense from other bhikkhus, one’s motive being either (a) fear that they will charge him with the offense or interrogate him about it (steps in the formal inquiry into the offense) or (b) fear that they will jeer, scoff, or make him feel abashed (steps in his enemies’ informal reaction to the news). In other words, this factor is fulfilled if one wants to prevent a Community transaction from being carried out against the offender or simply to protect him from the jeering remarks of other bhikkhus who may dislike him.
+
+     - *3）意圖：*\ 想對其他比丘隱瞞該罪行，動機若非是（a）擔心他們會指控他犯下罪行或審問他（這涉及到對罪行的正式調查）；則是（b）擔心他們會嘲笑、嘲諷他或讓他感到羞愧（這涉及到他的敵人對這一消息的非正式反應）。換句話說，如果想阻止針對犯戒者執行的僧伽羯磨，或者僅僅想保護他免受其他可能不喜歡他的比丘的嘲笑，此因素就成立了。
+
+   * - *4) Effort:* One sees a bhikkhu suitable to be informed of the matter but abandons one’s duty to report the offense.
+     - *4）努力：*\ 看到一位適合告知此事的比丘，但卻放棄了報告罪行的義務。
+
 (未完待續)

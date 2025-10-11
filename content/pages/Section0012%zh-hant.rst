@@ -155,8 +155,7 @@
 .. _Cv.IV.8: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.8.1
 .. _Pc 64: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
 .. _《小品》.四.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0113a06
-.. _《波逸提》六四: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
-.. TODO FIXME: replace link to 《波逸提》六四
+.. _《波逸提》六四: {filename}Section0022%zh-hant.rst#Pc64
 .. _BMC2, Chapter 16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
 .. _《佛教比丘戒律 第二冊》第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十六章

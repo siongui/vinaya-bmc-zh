@@ -2102,5 +2102,4 @@
 .. _9: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
 .. _Pc 64: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
 .. _《僧殘》九: {filename}Section0011%zh-hant.rst#Sg9
-.. _《波逸提》六四: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
-.. TODO FIXME: replace link to 《波逸提》六四
+.. _《波逸提》六四: {filename}Section0022%zh-hant.rst#Pc64
