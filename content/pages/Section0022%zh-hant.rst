@@ -551,4 +551,25 @@
 .. _Pc 9: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
 .. _《波逸提》九: {filename}Section0016%zh-hant.rst#Pc9
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort & intention**
+     - **努力及意圖**
+
+   * - The K/Commentary defines the factor of effort here as if it were a simple act of mind—one decides that, “I won’t tell any bhikkhu about this”—but this goes against the principle that the commentaries themselves derive from the Vinīta-vatthu to `Pr 2`_ and apply to all the rules: that the mere arising of a mind state is never sufficient for an offense. It would seem better to argue from the Vibhaṅga’s non-offense clauses to this rule and say that this factor is fulfilled if one comes to this decision when seeing a bhikkhu who is suitable to tell and yet decides not to tell him.
+
+     - K/《義註》將此處的努力因素定義為如同一種簡單的心念行為—決定「我不會告訴任何比丘這件事」—但這違背了註釋書本身源自\ `《波羅夷》二`_\ 的《Vinīta_-vatthu_》並適用於所有戒條的原則：即僅僅產生一種心理狀態並不足以構成犯戒。更好的做法似乎是從本戒條的《經分別》的不犯條款論證，如果在看到一位適合告知的比丘卻決定不告訴他時，做出這樣的決定，那麼這個因素就成立了。
+
+   * - None of the texts define *suitable bhikkhu* here, but—following the Commentary to Cv.III—it would probably mean one who is of common affiliation and in good standing, i.e., neither suspended or undergoing penance or probation. Because of the way in which the factor of intention is worded here, a suitable bhikkhu in this case—unlike the case in which a bhikkhu needs to report his own saṅghādisesa offense—would *not* have to be on congenial terms with either the bhikkhu who committed the offense that needs to be reported or the bhikkhu responsible for reporting it. If the only bhikkhu available to be told is uncongenial, one must be scrupulously honest with oneself about any disinclination to inform him of the offense. If one’s only fear is that he will jeer at the offender or initiate a Community transaction to look into the offense, one is duty bound to tell him. If one feels that telling him will lead to strife in the Community or retaliation from the original offender—as the non-offense clauses note—one may wait and tell a more suitable bhikkhu.
+
+     - 此處，沒有任何文獻對\ *合適的比丘*\ 進行定義，但根據\ `《小品》.三`_\ 的《義註》，它可能指共同羯磨且品行良好者，即既沒有被舉罪，也沒有正在接受摩那埵或別住。由於此處對意圖因素的表述方式，在這種情況下，合適的比丘—與比丘需要報告他自己的《僧殘》罪的情況不同—\ *不*\ 必與犯下需要報告罪行的比丘或負責報告罪行的比丘關係融洽。如果唯一可以報告的比丘不和藹可親，則必須嚴格誠實地面對自己，不要不願告訴他罪行。如果唯一的擔心是他會嘲笑犯戒者或發起僧伽羯磨來調查罪行，則有義務告訴他。如果覺得告訴他會導致僧團的衝突或原始犯戒者的報復—正如不犯條款所指出的那樣—可以等待並告訴一位更合適的比丘。
+
+.. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
+.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
+.. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
+.. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
+.. _《小品》.三: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_013/
+
 (未完待續)
