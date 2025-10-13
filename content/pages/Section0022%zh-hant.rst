@@ -566,6 +566,22 @@
 
      - 此處，沒有任何文獻對\ *合適的比丘*\ 進行定義，但根據\ `《小品》.三`_\ 的《義註》，它可能指共同羯磨且品行良好者，即既沒有被舉罪，也沒有正在接受摩那埵或別住。由於此處對意圖因素的表述方式，在這種情況下，合適的比丘—與比丘需要報告他自己的《僧殘》罪的情況不同—\ *不*\ 必與犯下需要報告罪行的比丘或負責報告罪行的比丘關係融洽。如果唯一可以報告的比丘不和藹可親，則必須嚴格誠實地面對自己，不要不願告訴他罪行。如果唯一的擔心是他會嘲笑犯戒者或發起僧伽羯磨來調查罪行，則有義務告訴他。如果覺得告訴他會導致僧團的衝突或原始犯戒者的報復—正如不犯條款所指出的那樣—可以等待並告訴一位更合適的比丘。
 
+   * - Because the non-offense clauses also state that there is no offense in not reporting the offense if one’s motive is not to hide it, one need not inform the first suitable bhikkhu one meets if one is planning to inform a more appropriate bhikkhu, such as a senior member of the Community, a Vinaya expert, or the offender’s mentor or preceptor.
+
+     - 因為不犯條款還規定，如果動機不是隱瞞罪行，那麼不報告罪行也不算犯戒，所以如果打算通知更合適的比丘，例如僧團的資深成員、律藏專家或犯戒者的導師或戒師，那麼不需要通知遇到的第一個合適的比丘。
+
+   * - Apparently, once one has told a suitable bhikkhu, one is absolved of the responsibility of having to tell anyone else. However, none of the texts discuss the question of what one’s duty is if, after informing another bhikkhu, one realizes that he wants to conceal the offense. A responsible course of action, if none of the dangers listed in the non-offense clauses apply, would be to find and inform a more responsible bhikkhu, but this is a matter of one’s conscience and not of the rules.
+
+     - 顯然，一旦告知了合適的比丘，就無需再告知他人。然而，所有文獻均未探討過，如果告知了其他比丘後，意識到對方有意隱瞞罪行，自己的職責是什麼。如果不犯條款中列出的所有風險均不適用，那麼負責任的做法是找到並告知一位更負責任的比丘，但這關乎自己的良心，而非戒條。
+
+   * - The Commentary says that if, out of a desire to hide the original offense, one neglects to inform a suitable bhikkhu but then later changes one’s mind and tells either him or yet another bhikkhu, one has committed the offense all the same.
+
+     - 《義註》說，如果為了隱藏原來的罪行而忽略了告知合適的比丘，但後來又改變主意並告訴他或另一個比丘，那麼仍然犯了戒。
+
+   * - It also says that if one tells Bhikkhu X, asking him to help hide Bhikkhu Y’s offense, this also fulfills the factors of effort and intention here. If X then abandons his responsibility to tell, he too commits the corresponding offense under this rule. Regardless of how many co-conspirators would end up trying to keep the original offense secret enough to prevent a formal inquiry into it, all of them would be guilty of the offense here.
+
+     - 它也指出，如果告知比丘 X ，請他協助隱瞞比丘 Y 的罪行，也滿足此處的努力和意圖的因素。如果 X 隨後放棄了他的告知責任，他也犯了此戒條下的相應罪行。無論有多少同謀最終試圖隱瞞原來的罪行，以阻止對其的正式調查，他們所有人都犯了此處的罪行。
+
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
 .. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
 .. _Vinīta: https://dictionary.sutta.org/zh_TW/browse/v/vin%C4%ABta/
