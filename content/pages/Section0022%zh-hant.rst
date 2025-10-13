@@ -588,4 +588,63 @@
 .. _vatthu: https://dictionary.sutta.org/zh_TW/browse/v/vatthu/
 .. _《小品》.三: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_013/
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in not telling another bhikkhu—
+     - 不告訴其他比丘並沒有犯戒——
+
+   * - .. container:: mx-2
+
+          if one thinks that telling will lead to strife or a split in the Community;
+
+     - .. container:: mx-2
+
+          如果認為告知會導致僧團內的衝突或分裂；
+
+   * - .. container:: mx-2
+
+          if, seeing that the bhikkhu who has committed the offense is violent by nature, one feels that he might create “dangers to life” or “dangers to the celibate life”;
+
+     - .. container:: mx-2
+
+          如果看到犯了戒的比丘生性殘暴，覺得他可能會造成「生命危險」或「梵行生活危險」；
+
+   * - .. container:: mx-2
+
+          if one sees no suitable bhikkhu to tell;
+
+     - .. container:: mx-2
+
+          如果沒有看到合適的比丘可以告知；
+
+   * - .. container:: mx-2
+
+          if one has no desire to hide the offense; or
+
+     - .. container:: mx-2
+
+          如果不想隱瞞罪行；或者
+
+   * - .. container:: mx-2
+
+          if one feels that the wrong-doer’s own behavior will betray him and thus there is no need to tell.
+
+     - .. container:: mx-2
+
+          如果覺得做錯事的人自己的行為會背叛他，因此沒有必要說出來。
+
+   * - *Summary: Not informing another bhikkhu of a serious offense that one knows a third bhikkhu has committed—out of a desire to protect the third bhikkhu either from having to undergo the penalty or from the jeering remarks of other bhikkhus—is a pācittiya offense.*
+     - *摘要：如果知道第三個比丘犯了嚴重罪行，而沒有告知另一個比丘——出於保護第三個比丘免受懲罰或免受其他比丘嘲笑的欲望——是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
