@@ -1145,8 +1145,7 @@
           *3）意圖：*\ 主要衝動是憤怒。
 
 .. _Pc 65: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc65
-.. _《波逸提》六五: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc65
-.. TODO FIXME: replace link to 《波逸提》六五
+.. _《波逸提》六五: {filename}Section0022%zh-hant.rst#Pc65
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

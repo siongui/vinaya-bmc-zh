@@ -647,4 +647,28 @@
    \*    \*    \*
 
 
+.. _Pc65:
+
+.. raw:: html
+
+   <span id="Pc65"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **65**
+     - **六十五**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu knowingly give full Acceptance (ordination) to an individual less than twenty years old, the individual is not accepted and the bhikkhus are blameworthy; and as for him (the preceptor), it is to be confessed.*
+
+     - .. container:: notification
+
+          *若任何比丘明知地為未滿二十歲的人授具足戒，則該人不得具足戒，且比丘們應受呵責；至於他（戒師），波逸提。*
+
+   * - The origin story here tells how the group of seventeen came to be ordained.
+     - 這裡的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0172a14>`__\ 講述了十七群是如何被授具足戒的。
+
 (未完待續)
