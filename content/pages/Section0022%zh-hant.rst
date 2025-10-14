@@ -669,6 +669,38 @@
           *若任何比丘明知地為未滿二十歲的人授具足戒，則該人不得具足戒，且比丘們應受呵責；至於他（戒師），波逸提。*
 
    * - The origin story here tells how the group of seventeen came to be ordained.
-     - 這裡的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0172a14>`__\ 講述了十七群是如何被授具足戒的。
+     - 這裡的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0172a14>`__\ 講述了十七群是如何被授予具足戒的。
+
+   * - .. container:: mx-2
+
+          “Now at that time in Rājagaha, a group of seventeen boys were friends, with the boy Upāli as their leader. Then the thought occurred to Upāli’s parents, ‘By what means could Upāli, after our death, live pleasantly and not suffer?… If he studies writing, his fingers will hurt…. If he studies calculation, his breast will hurt…. If he studies money changing, his eyes will hurt. Now, these Sakyan-son monks are of pleasant virtue and conduct. Having eaten good meals, they lie down in beds sheltered from the wind. If Upāli went forth among the Sakyan-son monks, he would live pleasantly after our death and not suffer.’
+
+     - .. container:: mx-2
+
+          「其時，在王舍城，有十七群男孩為友，以男孩優波離為首。優波離的父母心想：『我們死後，優婆離如何才能生活安樂，不受痛苦？……如果他學書法，手指會痛……學算術，胸口會痛……學金錢兌換，眼會痛。這些沙門釋子品行端正，吃飽飯後，睡臥在避風的床上。如果優波離在沙門釋子中出家，我們死後，他就能生活安樂，不受痛苦。』
+
+   * - .. container:: mx-2
+
+          “The boy Upāli heard his parents’ conversation. So he went to the boys… and said, ‘Come, masters, let’s go forth among the Sakyan-son monks.’
+
+     - .. container:: mx-2
+
+          男孩優婆離聽到了父母的談話。於是他走到男孩們面前……說：『來吧，大德們，我們去沙門釋子中出家吧。』
+
+   * - .. container:: mx-2
+
+          “‘If you go forth, master, so will we.’
+
+     - .. container:: mx-2
+
+          「『大德，您若前去出家，我們亦然。』
+
+   * - .. container:: mx-2
+
+          “So each of the boys, having gone to his parents, said, ‘Permit us to go forth from home into homelessness.’ Then the parents of the boys gave their permission, (thinking,) ‘All these boys are unanimous in their desire. Their motives are noble.’
+
+     - .. container:: mx-2
+
+          「於是，每位男孩都去見自己的父母，說：『請允許我們從家出離而入無家。』男孩們的父母也同意了，（心想）『這些男孩的願望一致，他們的動機高尚。』
 
 (未完待續)
