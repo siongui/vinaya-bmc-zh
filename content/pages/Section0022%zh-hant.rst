@@ -727,4 +727,28 @@
 
           「但即便如此，那些（新來的）比丘們還是像以前一樣喊叫：『給我們粥！給我們飯！給我們食物！』他們弄濕了寢具，弄髒了寢具。」
 
+   * - The Buddha, in rebuking the bhikkhus who had given full Acceptance to the seventeen boys, painted a picture of the bhikkhus’ life very different from that imagined by Upāli’s parents:
+
+     - 佛陀在呵責那些授予具足戒給這十七群男孩的比丘們時，描繪了比丘們的生活，與優波離父母所想像的截然不同：
+
+   * - .. container:: mx-2
+
+          “Bhikkhus, how can these worthless men knowingly give full Acceptance to an individual less than 20 years old? An individual less than 20 years old is not resistant to cold, heat, hunger, thirst, the touch of gadflies and mosquitoes, wind and sun and creeping things; or to abusive, hurtful language. He is not the sort who can endure bodily feelings that, when they arise, are painful, sharp, stabbing, fierce, distasteful, disagreeable, deadly.’”
+
+     - .. container:: mx-2
+
+          「比丘們，這些無用之人怎能明知地授予具足戒給一個不到二十歲的人？不到二十歲的人無法抵禦寒冷、炎熱、飢餓、口渴，牛蠅蚊蟲，風吹日曬和爬蟲的觸碰；也無法抵禦辱罵和傷害性的言語。他無法忍受身體上那些生起的痛苦、尖銳、刺痛、兇猛、令人厭惡、不快、致命的感受。』」
+
+   * - The factors for the full offense here are three.
+     - 此處構成完全違犯的因素有三。
+
+   * - *1) Object:* a man less than 20 years old.
+     - *1）對象：*\ 不到二十歲的男子。
+
+   * - *2) Perception:* One knows that he is less than 20 years old—either from knowing on one’s own, from having been told by the man, or from having been told by others.
+     - *2）感知：*\ 知道他不到20歲—要嘛是自己知道，要嘛是那位男子告知，要嘛是被別人告知。
+
+   * - *3) Effort:* One acts as the preceptor in his full Acceptance as a bhikkhu.
+     - *3）努力：*\ 在授予具足戒為比丘的過程中，作為戒師。
+
 (未完待續)
