@@ -703,4 +703,28 @@
 
           「於是，每位男孩都去見自己的父母，說：『請允許我們從家出離而入無家。』男孩們的父母也同意了，（心想）『這些男孩的願望一致，他們的動機高尚。』
 
+   * - .. container:: mx-2
+
+          “(The boys) having gone to the bhikkhus, asked for the Going-forth. The bhikkhus gave them the Going-forth and full Acceptance. Then, waking up in the last watch of the night, the boys (now bhikkhus) cried out, ‘Give us porridge! Give us a meal! Give us food!’
+
+     - .. container:: mx-2
+
+          「（男孩們）去見比丘們，請求出家。比丘們給他們出家和授予具足戒。然後，在後夜時分醒來，男孩們（現在成了比丘）喊道：『給我們粥！給我們飯！給我們食物！』
+
+   * - .. container:: mx-2
+
+          “The bhikkhus said, ‘Wait, friends, until the night turns light. If there is porridge, you will drink it. If there is a meal, you will eat it. If there is food, you will eat it. But if there is no porridge or meal or food, then you will eat having gone for alms.’
+
+     - .. container:: mx-2
+
+          「比丘們說：『朋友們，等到天明，如果有粥，你們就喝。如果有飯，你們就吃。如果有食物，你們就吃。但如果沒有粥、飯或食物，你們就托缽來吃。』
+
+   * - .. container:: mx-2
+
+          “But even then, those (new) bhikkhus cried out as before, ‘Give us porridge! Give us a meal! Give us food!’ And they wet the bedding and soiled it.”
+
+     - .. container:: mx-2
+
+          「但即便如此，那些（新來的）比丘們還是像以前一樣喊叫：『給我們粥！給我們飯！給我們食物！』他們弄濕了寢具，弄髒了寢具。」
+
 (未完待續)
