@@ -751,4 +751,14 @@
    * - *3) Effort:* One acts as the preceptor in his full Acceptance as a bhikkhu.
      - *3）努力：*\ 在授予具足戒為比丘的過程中，作為戒師。
 
+   * - **Object**
+     - **對象**
+
+   * - As `Mv.I.75`_ makes clear, a person’s age for the purpose of this rule is counted from the time he becomes a fetus in his mother’s womb. Because this is difficult—if not impossible—to date with any accuracy, the usual practice in calculating a person’s age is to add six months to the number of years since his birth, to allow for the possibility of his having been born prematurely. As the Commentary notes, a baby born after seven months in the womb may survive, but one born after only six months in the womb won’t.
+
+     - 正如\ `《大品》.一.75`_ 所明確指出的，就本戒條而言，一個人的年齡是從其在母親子宮內變成胎兒時開始計算的。由於很難（甚至不可能）準確地確定年齡，因此計算年齡的常見做法是在其出生年份上加六個月，以考慮到早產的可能性。正如《義註》所指出的，在子宮內七個月後出生的嬰兒可能存活，但在子宮內僅六個月後出生的嬰兒則無法存活。
+
+.. _Mv.I.75: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.75
+.. _《大品》.一.75: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0116a14
+
 (未完待續)
