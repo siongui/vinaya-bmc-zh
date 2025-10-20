@@ -948,8 +948,7 @@
 .. _66: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc66
 .. _67: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
 .. _《波逸提》二八: #Pc28
-.. _六六: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc66
-.. TODO FIXME: replace link to 《波逸提》六六
+.. _六六: {filename}Section0022%zh-hant.rst#Pc66
 .. _六七: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
 .. TODO FIXME: replace link to 《波逸提》六七
 

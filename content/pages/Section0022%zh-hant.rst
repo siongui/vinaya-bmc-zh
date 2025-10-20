@@ -800,4 +800,37 @@
    \*    \*    \*
 
 
+.. _Pc66:
+
+.. raw:: html
+
+   <span id="Pc66"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **66**
+     - **六十六**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu knowingly and by arrangement travel together with a caravan of thieves, even for the interval between one village and the next, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘明知且約定與盜賊商隊一起旅行，即使只是從一個村莊到下一個的間隔，波逸提。*
+
+   * - Here the full offense has three factors.
+     - 這裡的完全違犯有三個因素。
+
+   * - *1) Object:* a caravan of thieves.
+     - *1）對象：*\ 盜賊商隊。
+
+   * - *2) Perception:* One knows that it is a caravan of thieves—either from knowing on one’s own, from having been told by one of the thieves, or from having been told by others.
+     - *2）感知：*\ 知道這是盜賊商隊——無論是自己知道，或是被盜賊之ㄧ告知，或是被別人告知。
+
+   * - *3) Effort:* (a) Having made an arrangement together with the caravan to travel together, (b) one actually travels together with them as arranged (c) from one village to another.
+     - *3）努力：*\ （a）與商隊約定一起旅行，（b）按照約定，真的與他們一起旅行，（c）從一個村莊到另一個。
+
 (未完待續)
