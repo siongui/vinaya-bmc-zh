@@ -844,4 +844,11 @@
 
      - 沒有任何文獻提到組成「團體」所需的盜賊的最低數量，但是由於《經分別》始終使用複數形式來描述盜賊，因此似乎至少需要兩個盜賊才能滿足這一因素。
 
+   * - **Perception**
+     - **感知**
+
+   * - If one is in doubt as to whether a group would count as a caravan of thieves, there is a dukkaṭa for traveling with them regardless of whether they actually are a caravan of thieves or not. If one perceives them to be a caravan of thieves when they actually aren’t, they are grounds for a dukkaṭa. If one does not perceive them to be a caravan of thieves, then regardless of whether they are or aren’t, they are not grounds for an offense.
+
+     - 如果懷疑某個團體是否構成盜賊商隊，那麼無論他們是否真的構成盜賊商隊，與他們同行都會構成《突吉羅》。如果認為他們是盜賊商隊，但實際上並非如此，構成了《突吉羅》。如果不認為他們是盜賊商隊，那麼無論他們是否為盜賊商隊，都不構成犯戒。
+
 (未完待續)
