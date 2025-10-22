@@ -833,4 +833,15 @@
    * - *3) Effort:* (a) Having made an arrangement together with the caravan to travel together, (b) one actually travels together with them as arranged (c) from one village to another.
      - *3）努力：*\ （a）與商隊約定一起旅行，（b）按照約定，真的與他們一起旅行，（c）從一個村莊到另一個。
 
+   * - **Object**
+     - **對象**
+
+   * - A *caravan of thieves*, according to the Vibhaṅga, is any group that has committed a theft, is on its way to commit a theft, is planning to evade a tax, or is planning to “rob the king,” which the Commentary translates as planning to cheat the government in one way or another. At present this would include any person or group of people smuggling or trading in contraband goods.
+
+     - *盜賊商隊*\ ，根據《經分別》，是指任何犯有盜竊罪、正在行竊途中、計劃逃稅或計劃「搶劫國王」的團體。《義註》將「搶劫國王」翻譯為計劃以某種方式欺騙政府。目前，這包括任何走私或販賣違禁品的個人或團體。
+
+   * - None of the texts mention the minimum number of thieves needed to form a “group,” but because the Vibhaṅga consistently uses plural forms to describe the thieves, it would appear that at least two thieves are needed to fulfill this factor.
+
+     - 沒有任何文獻提到組成「團體」所需的盜賊的最低數量，但是由於《經分別》始終使用複數形式來描述盜賊，因此似乎至少需要兩個盜賊才能滿足這一因素。
+
 (未完待續)

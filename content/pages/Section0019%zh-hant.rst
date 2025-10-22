@@ -1016,7 +1016,7 @@
 
    * - The Vibhaṅga also says that there is no penalty in accepting more than three bowlfuls from relatives or from those who have offered an invitation. Here the Commentary states that if such people give more than three bowlfuls outright, one may accept them without penalty, but if they tell one to take as much as one likes from items prepared as presents or provisions, the proper course is to take only two or three bowlfuls.
 
-     - 《分別論》也說，接受親屬或已提出邀請者超過三缽，不受任何懲罰。《義註》在此指出，如果這些人直接給予超過三缽，可以接受，不受任何懲罰；但如果他們告知隨意取用被準備作為禮物或食物供應的東西，則正確的做法是只取兩、三缽。
+     - 《經分別》也說，接受親屬或已提出邀請者超過三缽，不受任何懲罰。《義註》在此指出，如果這些人直接給予超過三缽，可以接受，不受任何懲罰；但如果他們告知隨意取用被準備作為禮物或食物供應的東西，則正確的做法是只取兩、三缽。
 
    * - The Vibhaṅga further says that there is no offense in having more than three bowlfuls of presents or provisions purchased with one’s own resources, and that there is no offense in taking extra for the sake of another. Neither the Commentary nor Sub-commentary discusses this last point, but the only way it can make sense in the context of this rule is if it refers to cases where the bhikkhu takes extra for the sake of another not on his own initiative, but because the donor asks him to.
 

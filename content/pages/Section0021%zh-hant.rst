@@ -961,7 +961,7 @@
 
    * - As the Vibhaṅga notes, once the robe has been marked there is no need to mark it again, even if the mark wears off, the marked part of the robe gets worn through age, one sews a marked cloth together with an unmarked one, or one patches, darns, or adds a hem to a marked robe. If Bhikkhu X marks a robe and then gives it to Bhikkhu Y, Y may wear it without having to mark it again.
 
-     - 《分別論》指出，一旦袈裟上有標記，就無需再標記。即使標記磨損，或標記部分因時間久遠而磨損，或將標記的布料與未標記的布料縫合在一起，或為標記的袈裟打補丁、縫補或加邊，也無需再次標記。如果比丘 X 在袈裟上做了標記，然後將其給予比丘 Y ，Y 可以穿著它，而無需再次標記。
+     - 《經分別》指出，一旦袈裟上有標記，就無需再標記。即使標記磨損，或標記部分因時間久遠而磨損，或將標記的布料與未標記的布料縫合在一起，或為標記的袈裟打補丁、縫補或加邊，也無需再次標記。如果比丘 X 在袈裟上做了標記，然後將其給予比丘 Y ，Y 可以穿著它，而無需再次標記。
 
    * - In Thailand at present, the custom is to make three small dots in one corner of the robe, saying, *“Imaṁ bindu-kappaṁ karomi,”* (I make this properly marked) while making each dot. This procedure does not appear in the Canon or commentaries, but does not conflict with any of them.
 
