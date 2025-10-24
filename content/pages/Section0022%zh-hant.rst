@@ -873,4 +873,15 @@
 .. _Pc 27: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc27
 .. _《波逸提》二七: {filename}Section0018%zh-hant.rst#Pc27
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Going as arranged**
+     - **依約定而行**
+
+   * - The two parties must travel together as specified in the arrangement for this sub-factor to be fulfilled. If the arrangement is minimal or spur-of-the-moment, with no time frame explicitly specified, then simply leaving together at any time would fulfill this sub-factor. If a time frame is explicitly specified, then this sub-factor is fulfilled only if they leave within the time frame. If they happen to start out earlier or later than arranged, the bhikkhu incurs no penalty. As under `Pc 27`_, the Commentary suggests that “earlier“ or “later” here involve fairly substantial amounts of time, i.e., going one day later than arranged, or going before the meal when the arrangement was to go after the meal. However, if they leave from a different spot than the one they had arranged or go by a different route, that does not absolve the bhikkhu from the offense.
+
+     - 雙方必須依約定一同出行，此子因素才算成立。如果約定的內容很少或只是臨時起意，沒有明確約定時間，那麼隨時一起出發都算成立。如果明確約定了時間，那麼只有在約定時間內出發才算成立。如果他們出發的時間早於或晚於約定時間，比丘不會受到懲罰。正如\ `《波逸提》二七`_\ 所述，《義註》指出，這裡的「早於」或「晚於」指的是相當長的時間，例如，比約定時間晚一天出發，或者約定在飯後出發，而他們卻在飯前出發。但是，如果他們的出發地點與約定不同，或者他們走了不同的路線，這並不能免除比丘的罪行。
+
 (未完待續)
