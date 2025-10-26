@@ -884,4 +884,69 @@
 
      - 雙方必須依約定一同出行，此子因素才算成立。如果約定的內容很少或只是臨時起意，沒有明確約定時間，那麼隨時一起出發都算成立。如果明確約定了時間，那麼只有在約定時間內出發才算成立。如果他們出發的時間早於或晚於約定時間，比丘不會受到懲罰。正如\ `《波逸提》二七`_\ 所述，《義註》指出，這裡的「早於」或「晚於」指的是相當長的時間，例如，比約定時間晚一天出發，或者約定在飯後出發，而他們卻在飯前出發。但是，如果他們的出發地點與約定不同，或者他們走了不同的路線，這並不能免除比丘的罪行。
 
+   * - **From one village to another**
+     - **從一個村莊到另一個**
+
+   * - There is a pācittiya for every village-to-village interval one passes. In an area where there are no villages—i.e., says the Sub-commentary, where villages are farther than half a yojana (8 km. or 5 miles) apart—there is a pācittiya for every half-yojana one travels together with the thieves as arranged.
+
+     - 每經過村莊到村莊間隔，就犯一次《波逸提》。在沒有村莊的地方——也就是，《複註》說，村莊之間的距離超過半由旬（8公里或5英里）——則每經過半由旬，按照約定與盜賊同行，就犯一次《波逸提》。
+
+   * - None of the texts mention cases of traveling long distances within a large city, but it would seem that in such cases—arguing from the Great Standards—one would incur the full penalty in traveling from one administrative district to the next.
+
+     - 沒有任何文獻提到在大城市內長途旅行的情況，但似乎在這種情況下——從《四大教示》來看——從一個行政區到下一個的旅行會招致全額懲罰。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense—
+     - 不犯戒—
+
+   * - .. container:: mx-2
+
+          if the bhikkhu and thieves happen to travel together without having made an arrangement;
+
+     - .. container:: mx-2
+
+          如果比丘和盜賊未經約定而一起旅行；
+
+   * - .. container:: mx-2
+
+          if the thieves propose an arrangement, but the bhikkhu does not give his verbal assent;
+
+     - .. container:: mx-2
+
+          如果盜賊提出安排，但比丘沒有口頭同意；
+
+   * - .. container:: mx-2
+
+          if the bhikkhu leaves not as specified in the arrangement (§); or
+
+     - .. container:: mx-2
+
+          如果比丘沒有依照約定離開（§）；或者
+
+   * - .. container:: mx-2
+
+          if there are dangers (and the bhikkhu must join the caravan for his safety).
+
+     - .. container:: mx-2
+
+          如果有危險（比丘必須加入商隊以確保其安全）。
+
+   * - A peculiarity of the third non-offense clause here, is that—unlike its parallels in `Pc 27`_ & 28_\—all the major Asian editions of the Canon express it in the singular (he leaves) rather than the plural (they leave). Only the PTS edition puts it in the plural. In the following rule, all the major editions, including the PTS, put the parallel clause in the singular. None of the commentaries call attention to these disparities, and apparently they make no difference in practice.
+
+     - 這裡第三條不犯條款的一個特點是——與\ `《波逸提》二七`_\ 和\ `二八`_\ 中的相對應條款不同——所有主要的亞洲版本《聖典》都將其表達為單數（他離開），而不是複數（他們離開）。只有PTS版本將其表示為複數。在以下戒條中，所有主要版本，包括PTS版本，都將相對應條款表達為單數。所有註釋書都沒有提及這些差異，而且顯然它們在實踐中也沒有任何區別。
+
+   * - *Summary: Traveling by arrangement with a group of thieves from one village to another—knowing that they are thieves—is a pācittiya offense.*
+     - *摘要：與一群盜賊約定同行從一個村莊到另一個——明知他們是盜賊——是《波逸提》（《單墮》）罪。*
+
+.. _28: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc28
+.. _二八: {filename}Section0018%zh-hant.rst#Pc28
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
