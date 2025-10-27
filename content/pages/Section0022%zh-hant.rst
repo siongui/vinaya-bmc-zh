@@ -949,4 +949,33 @@
    \*    \*    \*
 
 
+.. _Pc67:
+
+.. raw:: html
+
+   <span id="Pc67"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **67**
+     - **六十七**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, by arrangement, travel together with a woman, even for the interval between one village and the next, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘與女人相約同行，即使只是在一個村莊和下一個之間的間隔，波逸提。*
+
+   * - .. container:: mx-2
+
+          “Now at that time a certain bhikkhu, going through the Kosalan districts on his way to Sāvatthī, passed by the gate of a certain village. A woman, leaving the village after quarreling with her husband, saw the bhikkhu and said, ‘Where are you going, venerable sir?’
+
+     - .. container:: mx-2
+
+          「\ `其時，有一位比丘，途經拘薩羅國，前往舍衛城。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0178a03>`_\ 他經過一個村莊的門前。一位女人與丈夫吵架後，正要離開村莊。她看見比丘，便說：『大德，您要去哪裡？』
+
 (未完待續)

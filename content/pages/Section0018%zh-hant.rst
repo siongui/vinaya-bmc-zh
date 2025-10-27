@@ -911,8 +911,7 @@
      - 已經二部受戒的比丘尼在此構成《波逸提》。其他女性則算在\ `《波逸提》六七`_\ 下。
 
 .. _Pc 67: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
-.. _《波逸提》六七: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
-.. TODO FIXME: replace link to 《波逸提》六七
+.. _《波逸提》六七: {filename}Section0022%zh-hant.rst#Pc67
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -949,8 +948,7 @@
 .. _67: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
 .. _《波逸提》二八: #Pc28
 .. _六六: {filename}Section0022%zh-hant.rst#Pc66
-.. _六七: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
-.. TODO FIXME: replace link to 《波逸提》六七
+.. _六七: {filename}Section0022%zh-hant.rst#Pc67
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

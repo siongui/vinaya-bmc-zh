@@ -520,7 +520,7 @@
      - `\　　　六十六 <{filename}Section0022%zh-hant.rst#Pc66>`__
 
    * - `\　　　67 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67>`__
-     - 　　　六十七
+     - `\　　　六十七 <{filename}Section0022%zh-hant.rst#Pc67>`__
 
    * - `\　　　68 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc68>`__
      - 　　　六十八

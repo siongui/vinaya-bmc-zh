@@ -584,8 +584,7 @@
 .. _《波逸提》六: {filename}Section0016%zh-hant.rst#Pc6
 .. _四四: {filename}Section0020%zh-hant.rst#Pc44
 .. _四五: {filename}Section0020%zh-hant.rst#Pc45
-.. _六七: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
-.. TODO FIXME: replace link to 《波逸提》六七
+.. _六七: {filename}Section0022%zh-hant.rst#Pc67
 .. _Mv.V.9.3: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.V.9.3
 .. _《大品》.五.9.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0255a11
 
