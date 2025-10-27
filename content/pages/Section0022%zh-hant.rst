@@ -978,4 +978,60 @@
 
           「\ `其時，有一位比丘，途經拘薩羅國，前往舍衛城。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0178a03>`_\ 他經過一個村莊的門前。一位女人與丈夫吵架後，正要離開村莊。她看見比丘，便說：『大德，您要去哪裡？』
 
+   * - .. container:: mx-2
+
+          “‘I’m going to Sāvatthī, sister.’
+
+     - .. container:: mx-2
+
+          「『我要去舍衛城，姊妹。』
+
+   * - .. container:: mx-2
+
+          “‘Then I’m going with you.’
+
+     - .. container:: mx-2
+
+          「『那我跟你一起去。』
+
+   * - .. container:: mx-2
+
+          “‘As you wish, sister.’
+
+     - .. container:: mx-2
+
+          「『如你所願，姊妹。』
+
+   * - .. container:: mx-2
+
+          “Then the woman’s husband, leaving the village, asked people, ‘Have you seen such-and-such a woman?’
+
+     - .. container:: mx-2
+
+          「然後，女人的丈夫離開村莊，問人們說：『你們見過某某女人嗎？』
+
+   * - .. container:: mx-2
+
+          “‘She’s going along with a monk.’
+
+     - .. container:: mx-2
+
+          「『她和一位出家人一起去。』
+
+   * - .. container:: mx-2
+
+          “So the man, having caught up with them, seized the bhikkhu, gave him a good thrashing, and set him free. The bhikkhu went and sat fuming under a certain tree. The woman said to the man, ‘That bhikkhu didn’t abscond with me. *I* was the one who went with him. He’s innocent. Go and ask his forgiveness.’
+
+     - .. container:: mx-2
+
+          「於是那人追上他們，抓住比丘，狠狠地揍了他一頓，然後把他放了。比丘走到一棵樹下，怒氣沖沖地坐著。那女人對那人說：『那比丘沒有跟我一起逃走。是\ *我*\ 跟他一起去的。他是無辜的。去向他求原諒吧。』
+
+   * - .. container:: mx-2
+
+          “So the man asked the bhikkhu for his forgiveness.”
+
+     - .. container:: mx-2
+
+          「於是那人向比丘請求原諒。」
+
 (未完待續)
