@@ -1099,4 +1099,18 @@
 
           如果有危險。
 
+   * - **Current practice**
+     - **目前實踐**
+
+   * - In the time of the Buddha, long-distance travel was mostly by foot, and the question of prior arrangement was what made the difference between whether one was traveling together with someone else or simply happened to be walking along the road at the same time. At present, when one is taking public transport—buses, subways, trains, and airplanes—this is still the factor determining whether one is traveling together with someone else or simply happens to be on the bus, etc., at the same time. This rule thus forbids a bhikkhu from traveling together with a woman, by prior arrangement, on the same public transport.
+
+     - 在佛陀時代，長途出行大多靠步行，事先安排決定了是與他人同行，還是剛好與他人同時在路上行走。如今，當搭乘大眾運輸工具——公車、地鐵、火車和飛機——這仍然是決定與他人同行，還是剛好與他人同時在公車等交通工具上的因素。因此，這條戒條禁止比丘與女性事先安排搭乘同一大眾運輸工具同行。
+
+   * - Private transport, though—such as automobiles, trucks and vans—is an area that different Communities treat in differing ways. Some treat it under `Pc 44`_ rather than here, saying that a bhikkhu may sit in an automobile with a woman as long as a knowledgeable man is present. This holds regardless of whether the automobile is sitting still or traveling any number of miles, and regardless of whether the woman or the man is driving.
+
+     - 然而，對於私人交通工具——例如汽車、卡車和貨車——不同的僧團對此有不同的處理方式。有些僧團根據\ `《波逸提》四四`_\ 而非本戒條處理此事，說只要有一位知識淵博的男人在場，比丘可以與女人同坐一輛車。無論汽車是靜止不動還是行駛了多少英里，也無論駕駛的是男人還是女人，這都適用。
+
+.. _Pc 44: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
+.. _《波逸提》四四: {filename}Section0020%zh-hant.rst#Pc44
+
 (未完待續)
