@@ -1034,4 +1034,20 @@
 
           「於是那人向比丘請求原諒。」
 
+   * - **Object**
+     - **對象**
+
+   * - A female human being, experienced enough to know what is properly and improperly said, what is lewd and not lewd, is grounds for a pācittiya here. Paṇḍakas, female yakkhas and petas, and animals in the form of a female human being are all grounds for a dukkaṭa. *Woman* here also includes *women*. In other words, the inclusion of one or more extra women in the travel arrangement is not a mitigating factor; and, in fact, there is an offense for every woman included in the travel arrangement. The inclusion of men in the travel arrangement, however, is a controversial issue at present, and is discussed below.
+
+     - 一位女性人類，有足夠經驗，能夠分辨哪些話是恰當的，哪些話是不恰當的，哪些是淫穢的，哪些不是淫穢的，在此構成了《波逸提》。黃門、雌夜叉和餓鬼，以及化身為女性人類的動物，都構成《突吉羅》。此處的\ *女人*\ 也包括\ *女人們*\ 。換句話說，在旅行安排中額外包含一名或多名女性，並不能成為減輕懲罰的因素；事實上，旅行安排中每包含一名女性，都犯一次罪行。然而，在旅行安排中包含男性目前是一個有爭議的問題，下文將對此進行討論。
+
+   * - Perception as to whether the person is actually a woman is not a mitigating factor here (see `Pc 4`_).
+     - 對於該人是否確實是女性的感知並不是減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - Similarly, if one travels by arrangement with a paṇḍaka, not knowing that that’s what he is, one still incurs a dukkaṭa.
+     - 同樣地，如果與黃門相約同行，卻不知道他是什麼人，那麼仍然犯《突吉羅》。
+
+.. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
+.. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
+
 (未完待續)
