@@ -1050,4 +1050,53 @@
 .. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
 .. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - *Effort* here is defined in a parallel way to its definition under the preceding rule: (a) Having made an arrangement together with the woman to travel together, (b) one actually travels together with her as arranged (c) from one village to another. See the preceding rule for explanations and for the allotment of offenses.
+
+     - 此處「\ *努力*\ 」的定義與上一條戒條中的定義類似：（a）與女人約定一同出行，（b）實際上與其如約定一同出行（c）從一個村莊到另一個。有關解釋及罪行劃分，請參閱上一條戒條。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense—
+     - 不犯戒——
+
+   * - .. container:: mx-2
+
+          if the bhikkhu and woman happen to travel together without having made an arrangement;
+
+     - .. container:: mx-2
+
+          如果比丘與女人未經約定而同行；
+
+   * - .. container:: mx-2
+
+          if the woman proposes an arrangement, while the bhikkhu does not give his verbal assent;
+
+     - .. container:: mx-2
+
+          如果女人提出安排，而比丘沒有口頭同意；
+
+   * - .. container:: mx-2
+
+          if either party leaves (or, apparently, both leave together) not as specified in the arrangement (§); or
+
+     - .. container:: mx-2
+
+          若任何一方離開（或顯然雙方一起離開），但未依約定所述（§）；或者
+
+   * - .. container:: mx-2
+
+          if there are dangers.
+
+     - .. container:: mx-2
+
+          如果有危險。
+
 (未完待續)
