@@ -1157,4 +1157,19 @@
 
           *若那位比丘被比丘們如此勸誡後仍執迷不悟，比丘們應當責備他三次，以勸其捨棄。若他被責備三次後捨棄之，則很好；若他仍不捨棄（之），波逸提。*
 
+   * - **Obstructions**
+     - **障礙**
+
+   * - The Vibhaṅga does not define *obstruction* in the context of this rule, although the origin story makes clear that it refers at the very least to the sexual act. The Commentary defines *obstruction* as anything that acts as an obstacle to the attainment of heaven or emancipation. It lists five major categories:
+
+     - 《經分別》並未在此戒條的脈絡中定義\ *障礙*\ ，儘管其\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0180a03>`__\ 明確表明，它至少指的是性行為。《義註》將\ *障礙*\ 定義為任何阻礙證得天界或解脫的事物，並列出了五大類：
+
+   * - .. container:: mx-2
+
+          *1) Actions*, i.e., the five *ānantariya/ānantarika-kamma*: patricide, matricide, the murder of an arahant, the wounding of a Buddha, the creation of a schism in a Saṅgha;
+
+     - .. container:: mx-2
+
+          *1）行為*\ ，即五種無間業（\ *ānantariya/ānantarika-kamma*\ ）：弒父、弒母、殺阿羅漢、出佛身血、破和合僧；
+
 (未完待續)
