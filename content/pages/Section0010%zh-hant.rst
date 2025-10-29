@@ -674,8 +674,7 @@
 .. _Sg 10-13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十到十三: {filename}Section0011%zh-hant.rst#Sg10
 .. _Pc 68: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc68
-.. _《波逸提》六八: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc68
-.. TODO FIXME: replace link to 《波逸提》六八
+.. _《波逸提》六八: {filename}Section0022%zh-hant.rst#Pc68
 
 
 .. list-table::

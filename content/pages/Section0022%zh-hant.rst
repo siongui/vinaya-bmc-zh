@@ -1132,4 +1132,29 @@
    \*    \*    \*
 
 
+.. _Pc68:
+
+.. raw:: html
+
+   <span id="Pc68"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **68**
+     - **六十八**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu say the following: “As I understand the Dhamma taught by the Blessed One, those acts the Blessed One says are obstructive, when engaged in are not genuine obstructions,” the bhikkhus are to admonish him thus: “Do not say that, venerable sir. Do not slander the Blessed One, for it is not good to slander the Blessed One. The Blessed One would not say anything like that. In many ways, friend, the Blessed One has described obstructive acts, and when engaged in they are genuine obstructions. [The Sri Lankan and Burmese recensions read: In many ways, friend, the Blessed One has described obstructive acts as obstructive, and when engaged in they are genuine obstructions.] ”*
+
+          *And should that bhikkhu, thus admonished by the bhikkhus, persist as before, the bhikkhus are to rebuke him up to three times for the sake of relinquishing that. If while being rebuked up to three times he relinquishes that, that is good. If he does not relinquish (that), it is to be confessed.*
+
+     - .. container:: notification
+
+          *若有比丘說：「據我理解世尊所教導的佛法，世尊所說的那些障礙行為，去從事時並非真正的障礙」，比丘們應當這樣勸誡他：「具壽，不要這樣說。不要誹謗世尊，因為誹謗世尊是不好的。世尊不會說這樣的話。朋友，世尊以各種方便描述了障礙行為，而當從事這些行為時，它們確實是障礙。[斯里蘭卡和緬甸版本為：朋友，世尊以各種方便把障礙行為描述為障礙，而當從事這些行為時，它們確實是阻礙。]」*
+
+          *若那位比丘被比丘們如此勸誡後仍執迷不悟，比丘們應當責備他三次，以勸其捨棄。若他被責備三次後捨棄之，則很好；若他仍不捨棄（之），波逸提。*
+
 (未完待續)
