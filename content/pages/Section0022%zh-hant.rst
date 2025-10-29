@@ -1110,7 +1110,26 @@
 
      - 然而，對於私人交通工具——例如汽車、卡車和貨車——不同的僧團對此有不同的處理方式。有些僧團根據\ `《波逸提》四四`_\ 而非本戒條處理此事，說只要有一位知識淵博的男人在場，比丘可以與女人同坐一輛車。無論汽車是靜止不動還是行駛了多少英里，也無論駕駛的是男人還是女人，這都適用。
 
+   * - Other Communities treat private transport under this rule, but say that the prior arrangement is implicitly with the driver of the transport. If the driver is a woman, there is a pācittiya in riding with her from one village to the next. If the driver is a man, there is no offense, regardless of whether a woman is riding along.
+
+     - 其他僧團則依據此戒條處理私人交通工具，但認為事先的約定默認是與交通工具的司機達成的。如果司機是女人，那麼與她同乘從一個村莊到下一個就犯《波逸提》。如果司機是男人，則無論是否有女性同行，均不構成犯戒。
+
+   * - The Commentary would not agree with this second interpretation, for it states explicitly when discussing `Mv.V.10.3`_ that a bhikkhu may ride in a cart driven by a woman or a man. At any rate, though, this is another area where the wise policy is to follow the practice of the Community in which one belongs, as long as one is careful to adhere to the Vibhaṅga by not entering verbally into any arrangement with a woman to go traveling together.
+
+     - 《義註》並不認同第二種解釋，因為它在討論\ `《大品》.五.10.3`_\ 時明確指出，比丘可以乘坐由女人或男人駕駛的馬車。無論如何，在這方面，明智之舉是遵循其所屬僧團的做法，只要謹慎遵守《經分別》，不與女人口頭約定一起出行。
+
+   * - *Summary: Traveling by arrangement with a woman from one village to another is a pācittiya offense.*
+     - *摘要：與女人從一個村莊到另一個村莊約定同行是《波逸提》（《單墮》）罪。*
+
 .. _Pc 44: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
 .. _《波逸提》四四: {filename}Section0020%zh-hant.rst#Pc44
+.. _Mv.V.10.3: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.V.10.3
+.. _《大品》.五.10.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0256a08
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
