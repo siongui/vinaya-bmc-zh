@@ -1204,7 +1204,18 @@
 
           *5）故意違反*\ 佛陀的戒律，雖然這些只有在還沒有受到相關戒條所規定的懲罰前才構成障礙。
 
+   * - The Commentary does not say from where it derives this list. The first three categories—without explanations—are found in `AN 6:86`_. `AN 6:87`_ provides the examples for the first category. The statement in the Nidāna to the Pāṭimokkha that an intentional lie is an obstruction may have provided the Commentary with an example of the fifth category. (`AN 3:88`_ states that arahants may intentionally commit offenses, but that they willingly undergo rehabilitation for them.) As for the fourth category, the primary reference in the Canon is to the case of the bhikkhu Kokālika, who spreads lies about Sāriputta and Moggallāna, comes down with a horrible disease, and then dies, reappearing in hell because he continued to harbor animosity toward them (SN 6:10). Thus *reviling* here would seem to mean spreading lies impelled by animosity.
+
+     - 《義註》並未說明此列表的來源。前三類—未加解釋—見於\ `《增支部》6:86經`_\ 。\ `《增支部》6:87經`_\ 提供了第一類的例子。《波羅提木叉》的序誦中關於故意說謊是障礙的陳述，可為《義註》提供了第五類的例子。（\ `《增支部》3:88經`_\ 指出，阿羅漢可能故意犯戒，但他們願意為犯戒改過恢復清淨。）至於第四類，《聖典》中的主要參考的是拘迦梨迦比丘的案例。他散播關於舍利弗和目犍連的謊言，染上重病，最終死去，並因繼續懷有對他們的仇恨而墮入地獄（\ `《相應部》6:10經`_\ ）。因此，此處的\ *辱罵*\ 似乎是指出於仇恨而散播謊言。
+
 .. _Mv.I.63: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.63
 .. _《大品》.一.63: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0108a07
+.. _AN 6\:86: https://www.dhammatalks.org/suttas/AN/AN6_86.html
+.. _AN 6\:87: https://www.dhammatalks.org/suttas/AN/AN6_87.html
+.. _AN 3\:88: https://www.dhammatalks.org/suttas/AN/AN3_88.html
+.. _《增支部》6\:86經: https://sutra.mobi/chilin/zengzhi/content/06.html#%E5%85%AB%E5%8D%81%E5%85%AD%E9%9A%9C%E7%A4%99
+.. _《增支部》6\:87經: https://sutra.mobi/chilin/zengzhi/content/06.html#%E5%85%AB%E5%8D%81%E4%B8%83%E6%AF%8D%E8%A6%AA
+.. _《增支部》3\:88經: https://sutra.mobi/chilin/zengzhi/content/03.html#%E5%85%AB%E5%8D%81%E5%85%AD%E5%AD%B8%E8%99%95%E4%B9%8B%E4%BA%8C
+.. _《相應部》6\:10經: https://sutra.mobi/chilin/xiangying/content/06.html#%E5%8D%81%E6%8B%98%E8%BF%A6%E6%A2%A8%E8%BF%A6
 
 (未完待續)
