@@ -1172,4 +1172,39 @@
 
           *1）行為*\ ，即五種無間業（\ *ānantariya/ānantarika-kamma*\ ）：弒父、弒母、殺阿羅漢、出佛身血、破和合僧；
 
+   * - .. container:: mx-2
+
+          *2) Defilements*, i.e., firmly held wrong views (the Sub-commentary lists determinism, fatalism, annihilationism, etc.);
+
+     - .. container:: mx-2
+
+          *2）煩惱*\ ，即根深蒂固的錯誤觀點（《複註》列出了決定論、宿命論、斷滅論等）；
+
+   * - .. container:: mx-2
+
+          *3) Fruits of past actions*, e.g., birth as a common animal (see the story of the nāga at `Mv.I.63`_\ —`BMC2, Chapter 14`_);
+
+     - .. container:: mx-2
+
+          *3）過去行為的果報*\ ，例如，出生為普通動物（參見\ `《大品》.一.63`_ 中龍的故事—\ `《佛教比丘戒律 第二冊》第十四章`_\ ）；
+
+   * - .. container:: mx-2
+
+          *4) Verbal abuse*, i.e., reviling a Noble One—although this is an obstruction only so long as one has not asked forgiveness; and finally, for a bhikkhu,
+
+     - .. container:: mx-2
+
+          *4）言語辱罵*\ ，即辱罵聖者—雖然這只有在沒有請求寬恕的情況下才構成障礙；最後，對比丘而言，
+
+   * - .. container:: mx-2
+
+          *5) Intentional transgressions* of the Buddha’s ordinances, although these are obstacles only as long as one has not undergone the penalty called for in the relevant rule.
+
+     - .. container:: mx-2
+
+          *5）故意違反*\ 佛陀的戒律，雖然這些只有在還沒有受到相關戒條所規定的懲罰前才構成障礙。
+
+.. _Mv.I.63: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.63
+.. _《大品》.一.63: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0108a07
+
 (未完待續)
