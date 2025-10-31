@@ -1208,6 +1208,25 @@
 
      - 《義註》並未說明此列表的來源。前三類—未加解釋—見於\ `《增支部》6:86經`_\ 。\ `《增支部》6:87經`_\ 提供了第一類的例子。《波羅提木叉》的序誦中關於故意說謊是障礙的陳述，可為《義註》提供了第五類的例子。（\ `《增支部》3:88經`_\ 指出，阿羅漢可能故意犯戒，但他們願意為犯戒改過恢復清淨。）至於第四類，《聖典》中的主要參考的是拘迦梨迦比丘的案例。他散播關於舍利弗和目犍連的謊言，染上重病，最終死去，並因繼續懷有對他們的仇恨而墮入地獄（\ `《相應部》6:10經`_\ ）。因此，此處的\ *辱罵*\ 似乎是指出於仇恨而散播謊言。
 
+   * - The Commentary notes that this training rule deals with a bhikkhu who holds to the view that the fifth category is not an obstacle, the most common example being the bhikkhu who believes that there is nothing wrong in a bhikkhu’s having sexual intercourse in defiance of `Pr 1`_.
+
+     - 《義註》指出，這條學處針對的是認為第五類不是障礙的比丘，最常見的例子是認為比丘違反\ `《波羅夷》一`_\ 進行性交並沒有什麼錯的比丘。
+
+   * - There are many ways one might rationalize such an idea, and the Commentary gives an entertaining description of one of them:
+     - 有很多方法可用來解釋這種想法，《義註》中對其中一種方法進行了有趣的描述：
+
+   * - .. container:: mx-2
+
+          “There is the case where a bhikkhu… having gone into seclusion, reasons as follows: ‘There are people living the household life, enjoying the five pleasures of the senses, who are stream-winners, once-returners, and non-returners. As for bhikkhus, they see pleasurable forms cognizable via the eye, hear… smell… taste… feel (pleasurable) tactile sensations cognizable via the body. They use soft carpets and clothing. All this is proper. Then why shouldn’t the sight, sound, smell, taste, and feel of a woman be proper? They too are proper!’ Thus… comparing a mustard seed with Mount Sineru, he gives rise to the evil view, ‘Why did the Blessed One—binding the ocean, as it were, with great effort—formulate the first pārājika training rule? There is nothing wrong with that act.’”
+
+     - .. container:: mx-2
+
+          「有這樣的情形，比丘……去到僻靜處後，這樣思惟：『有人過著居家生活，享五根之樂，他們有入流者、一還者、不還者。至於比丘，他們看到眼睛可感知的愉悅形態，聽到……聞到……嚐到……感受到身體可感知的（愉悅的）觸覺。他們使用柔軟的地毯和衣物。這一切都是適當的。那麼，女人的色、聲、香、味、觸為何就不適當呢？它們也同樣適當！』於是……他將芥菜籽比作須彌山，生起惡見：『世尊為何要像束縛大海一般，費盡心力制定第一條《波羅夷》學處呢？這種行為並沒有錯。』」
+
+   * - Simply holding such a view is not enough to bring a bhikkhu under the purview of this rule, but if he asserts it to others, the Vibhaṅga states that other bhikkhus have the duty of reprimanding him up to three times in the manner described in the rule. If, having learned of his assertion, they do not reprimand him, they each incur a dukkaṭa, for if he goes unreprimanded, he may continue with his assertions as he likes without incurring a penalty.
+
+     - 僅僅持有這種觀點並不足以使一位比丘受到此戒條的約束，但如果他向他人宣揚這種觀點，《經分別》指出，其他比丘有義務按照戒條所述的方式責備他，最多三次。如果得知他的言論後，他們沒有責備他，則他們各自都犯《突吉羅》，因為如果他不受責備，他就可以繼續隨意發表這種言論而無需承擔任何懲罰。
+
 .. _Mv.I.63: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.63
 .. _《大品》.一.63: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0108a07
 .. _AN 6\:86: https://www.dhammatalks.org/suttas/AN/AN6_86.html
@@ -1217,5 +1236,7 @@
 .. _《增支部》6\:87經: https://sutra.mobi/chilin/zengzhi/content/06.html#%E5%85%AB%E5%8D%81%E4%B8%83%E6%AF%8D%E8%A6%AA
 .. _《增支部》3\:88經: https://sutra.mobi/chilin/zengzhi/content/03.html#%E5%85%AB%E5%8D%81%E5%85%AD%E5%AD%B8%E8%99%95%E4%B9%8B%E4%BA%8C
 .. _《相應部》6\:10經: https://sutra.mobi/chilin/xiangying/content/06.html#%E5%8D%81%E6%8B%98%E8%BF%A6%E6%A2%A8%E8%BF%A6
+.. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
+.. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
 
 (未完待續)
