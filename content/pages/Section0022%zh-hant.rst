@@ -1227,6 +1227,14 @@
 
      - 僅僅持有這種觀點並不足以使一位比丘受到此戒條的約束，但如果他向他人宣揚這種觀點，《經分別》指出，其他比丘有義務按照戒條所述的方式責備他，最多三次。如果得知他的言論後，他們沒有責備他，則他們各自都犯《突吉羅》，因為如果他不受責備，他就可以繼續隨意發表這種言論而無需承擔任何懲罰。
 
+   * - If, after being reprimanded, he relinquishes his view, he incurs no penalty. But if he doesn’t, he incurs a dukkaṭa. He should then be taken into the midst of the Community to be admonished and rebuked as described under `Sg 10`_, the only difference here being that the penalty is a dukkaṭa in each of the preliminary stages, and a pācittiya after the third formal rebuke. (The formula for the rebuke is given in `Appendix VIII`_.) Unlike the Vibhaṅga to the parallel saṅghādisesa rules, the Vibhaṅga here does not say that the penalties incurred in the preliminary stages are annulled when the full penalty is incurred.
+
+     - 若受訓誡後，他放棄己見，則不受懲罰；若不放棄，則犯《突吉羅》。此時應將其帶到僧團中，按照\ `《僧殘》十`_\ 所述接受訓誡和呵責，唯一區別在於，此處的懲罰是在每個預備階段都是一次《突吉羅》，在第三次正式呵責後是一次《波逸提》。（呵責的公式在\ `附錄八`_\ 。）與相對應《僧殘》戒條的《經分別》不同，此處的《經分別》並未規定，在遭受最終懲罰之後，預備階段所受的懲罰會被免除。
+
+   * - Perception is not a mitigating factor here. If the rebuke transaction is properly carried out, then one’s offense is a pācittiya regardless of whether one regards it as such. If the transaction is improperly carried out, then again—regardless of how one perceives its validity—one incurs a dukkaṭa (§), probably for one’s unwillingness to relinquish one’s view after being reprimanded. In other words, a pattern similar to the one set out under `Sg 10`_, rather than the one under `Pc 4`_, holds here.
+
+     - 在此，感知並非減輕懲罰的因素。若呵責羯磨執行得當，則不論當事人是否認為其為如此，皆為《波逸提》罪。若呵責羯磨執行不當，同樣—無論當事人如何看待其有效性—亦會犯《突吉羅》（§），這可能是因為在受到責備後仍不願放棄己見。換言之，此處的模式與\ `《僧殘》十`_\ 所述模式相似，而非\ `《波逸提》四`_\ 所述模式。
+
 .. _Mv.I.63: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.63
 .. _《大品》.一.63: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0108a07
 .. _AN 6\:86: https://www.dhammatalks.org/suttas/AN/AN6_86.html
@@ -1238,5 +1246,7 @@
 .. _《相應部》6\:10經: https://sutra.mobi/chilin/xiangying/content/06.html#%E5%8D%81%E6%8B%98%E8%BF%A6%E6%A2%A8%E8%BF%A6
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
+.. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
+.. _附錄八: {filename}Section0028%zh-hant.rst#appendixVIII
 
 (未完待續)
