@@ -1249,4 +1249,37 @@
 .. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
 .. _附錄八: {filename}Section0028%zh-hant.rst#appendixVIII
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Further action**
+     - **進一步行動**
+
+   * - If a bhikkhu penalized under this rule persists in asserting his evil view, he is subject to an act of suspension, under which he is not allowed to commune or affiliate with bhikkhus in any Community until he sees the error of his ways and relinquishes his view (see `BMC2, Chapter 20`_). As is the case under `Sg 10-13`_, a Community preparing to impose this rule on a stubborn bhikkhu should also be prepared to impose a suspension transaction on him immediately in case he refuses to respond to the formal rebuke.
+
+     - 若比丘因違反此戒條而受罰，仍執取惡見，則應處以舉罪處分，不得與任何僧團的比丘交往或羯磨，直至他體認自己的錯誤，放棄了他的觀點。（參見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）。如同\ `《僧殘》十至十三`_\ 之下的情況，若僧團準備對頑固不化的比丘施以此戒條，則應做好立即對其處以舉罪的準備，以防其拒絕回應正式的呵責。
+
+.. _Sg 10-13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
+.. _《僧殘》十至十三: {filename}Section0011%zh-hant.rst#Sg10
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense for the bhikkhu if he has not been reprimanded or if, after being reprimanded, he relinquishes his view.
+     - 如果比丘還未受到訓誡，或是受到訓誡後放棄了自己的觀點，則不犯戒。
+
+   * - *Summary: Refusing—after the third proclamation of a formal rebuke in a meeting of the Community—to relinquish the evil view that there is nothing wrong in intentionally transgressing the Buddha’s ordinances is a pācittiya offense.*
+     - *摘要：在僧團會議上正式訶責的第三次羯磨文之後，拒絕放棄「故意違反佛陀戒律沒有錯」惡見，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
