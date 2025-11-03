@@ -1282,4 +1282,53 @@
    \*    \*    \*
 
 
+.. _Pc69:
+
+.. raw:: html
+
+   <span id="Pc69"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **69**
+     - **六十九**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu knowingly commune, affiliate, or lie down in the same dwelling with a bhikkhu professing such a view who has not acted in compliance with the rule, who has not abandoned that view, it is to be confessed.*
+
+     - .. container:: notification
+
+          *若任何比丘明知一位比丘持有未遵守戒律而行的觀點，且未放棄該觀點，而仍與之交往、共羯磨或在同一住處躺下，波逸提。*
+
+   * - This rule reinforces the suggestion made under the preceding rule, that a bhikkhu who refuses to respond to the rebuke imposed by that rule should immediately be suspended. There are three factors for the full offense here.
+
+     - 這條戒條強化了前一條戒條的建議，比丘若拒絕回應前一條戒條所施加的呵責，應立即被舉罪。構成完全違犯共有三個要素。
+
+   * - .. container:: mx-2
+
+          *1) Object:* a bhikkhu who has been suspended by a Community transaction and has not yet been restored.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 因僧團羯磨而被舉罪且尚未恢復的比丘。
+
+   * - .. container:: mx-2
+
+          *2) Perception:* One knows that he has been suspended and has not yet been restored—either from knowing on one’s own, from having been told by the bhikkhu, or from having been told by others.
+
+     - .. container:: mx-2
+
+          *2）感知：*\ 知道他已經被舉罪且還沒有恢復──要嘛是自己知道的，要嘛是比丘告訴的，要嘛是別人告訴的。
+
+   * - .. container:: mx-2
+
+          *3) Effort:* One communes with him, affiliates with him, or lies down in the same dwelling with him.
+
+     - .. container:: mx-2
+
+          *3）努力：*\ 與他交往，與他共羯磨，或與他在同一住處躺下。
+
 (未完待續)
