@@ -1331,4 +1331,41 @@
 
           *3）努力：*\ 與他交往，與他共羯磨，或與他在同一住處躺下。
 
+   * - **Object**
+     - **對象**
+
+   * - According to `Cv.I.25-35`_, a bhikkhu may be suspended for any one of three reasons:
+     - 根據\ `《小品》.一.25-35`_ ，比丘可能因以下三個原因之一而被舉罪：
+
+   * - .. container:: mx-2
+
+          He refuses to relinquish an evil view, as in the preceding rule;
+
+     - .. container:: mx-2
+
+          他拒絕放棄惡見，正如前一條戒條所述；
+
+   * - .. container:: mx-2
+
+          he refuses to see an offense (i.e., he admits to having performed an action forbidden by the rules, but refuses to concede that it is an offense); or
+
+     - .. container:: mx-2
+
+          他拒絕承認自己犯了戒（即，他承認自己做了戒條禁止的事情，但拒絕承認這是犯戒）；或者
+
+   * - .. container:: mx-2
+
+          he refuses to make amends for an offense (again, he admits to having performed an action forbidden by the rules, but refuses to undergo the attendant penalty).
+
+     - .. container:: mx-2
+
+          他拒絕彌補自己的犯戒（再次，他承認自己做了戒條禁止的事情，但拒絕接受相應的懲罰）。
+
+   * - Once a bhikkhu has been suspended, it is his duty to change his ways and reject the view or position that led to his suspension, so that he may be restored to normal status.
+
+     - 比丘一旦被舉罪，就有責任改變自己的行為，摒棄導致他被舉罪的觀點或立場，以便恢復正常狀態。
+
+.. _Cv.I.25-35: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.25.2
+.. _《小品》.一.25-35: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0028a03
+
 (未完待續)
