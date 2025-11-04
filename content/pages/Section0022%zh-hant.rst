@@ -1365,7 +1365,30 @@
 
      - 比丘一旦被舉罪，就有責任改變自己的行為，摒棄導致他被舉罪的觀點或立場，以便恢復正常狀態。
 
+   * - According to the Vibhaṅga, the factor of object here is fulfilled by a bhikkhu who has been suspended for the first of these three reasons and has yet to be restored. However, because the rules governing the way in which a suspended bhikkhu is to be treated by other bhikkhus are the same for all three cases (see `Cv.I.27`_, Cv.I.31, Cv.I.33), the Commentary argues that a bhikkhu suspended for either of the other two reasons would fulfill this factor as well. The Vibhaṅga’s non-offense clauses add, though, that if the bhikkhu was suspended for holding an evil view and has come to relinquish that view, he does not fulfill this factor even if the Community has yet to restore him to normal status. This allowance would apparently apply to bhikkhus suspended for other reasons as well.
+
+     - 根據《經分別》，此處的對象因素是指因上述三種原因中的第一種而被舉罪且尚未恢復的比丘。然而，由於戒條中其他比丘對待被舉罪比丘的方式在所有三種情況下都是相同的（參見\ `《小品》.一.27`_\ 、\ `《小品》.一.31`_\ 、\ `《小品》.一.33`_\ ），因此《義註》認為，因後兩種原因中的任何一種而被舉罪的比丘也符合這一因素。然而，《經分別》的不犯條款補充道，如果比丘因持有惡見而被舉罪，並且已經捨棄了這種惡見，即使僧團尚未恢復其正常狀態，他也不符合這一要素。顯然，這一開緣也適用於因其他原因而被舉罪的比丘。
+
 .. _Cv.I.25-35: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.25.2
 .. _《小品》.一.25-35: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0028a03
+.. _Cv.I.27: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.27
+.. _《小品》.一.27: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0029a14
+.. _《小品》.一.31: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0033a02
+.. _《小品》.一.33: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0036a01
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Perception**
+     - **感知**
+
+   * - There is no offense in communing, etc., with a suspended bhikkhu if one perceives him as unsuspended; a dukkaṭa for communing, etc., with an unsuspended bhikkhu if one perceives him as suspended; and a dukkaṭa for communing, etc., with a bhikkhu if one is in doubt as to whether he has been suspended. This last penalty holds regardless of whether he has actually been suspended.
+
+     - 與一位被舉罪的比丘交流等，若認為其未被舉罪，則不犯戒；與一位未被舉罪的比丘交流等，若認為其被舉罪，則犯《突吉羅》；與一位對其是否被舉罪存疑的比丘交流等，犯《突吉羅》。最後一種的懲罰，無論比丘是否實際已被舉罪，均適用。
+
+   * - None of the texts mention the matter, but a similar principle would also seem to apply to one’s perception of the transaction whereby the bhikkhu was suspended. Thus, there would be no offense in communing, etc., with him if one perceived a valid transaction as invalid; a dukkaṭa for communing, etc., with him if one perceived an invalid transaction as valid; and a dukkaṭa for communing, etc., with him if one was in doubt as to the transaction’s validity, regardless of whether it was actually valid or not.
+
+     - 文獻中並未提及此事，但類似的原則似乎也適用於對比丘被舉罪的羯磨的感知。因此，如果認為有效的羯磨是無效的，則與其交流等並不犯戒；如果認為無效的羯磨是有效的，則與其交流等犯《突吉羅》；如果對羯磨的有效性存疑，無論該羯磨實際上是否有效，與他交流等都犯《突吉羅》。
 
 (未完待續)
