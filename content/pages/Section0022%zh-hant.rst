@@ -1301,7 +1301,7 @@
 
      - .. container:: notification
 
-          *若任何比丘明知一位比丘持有未遵守戒律而行的觀點，且未放棄該觀點，而仍與之交往、共羯磨或在同一住處躺下，波逸提。*
+          *若任何比丘明知一位比丘持有未遵守戒律而行的觀點，且未放棄該觀點，而仍與之交流、共羯磨或在同一住處躺下，波逸提。*
 
    * - This rule reinforces the suggestion made under the preceding rule, that a bhikkhu who refuses to respond to the rebuke imposed by that rule should immediately be suspended. There are three factors for the full offense here.
 
@@ -1329,7 +1329,7 @@
 
      - .. container:: mx-2
 
-          *3）努力：*\ 與他交往，與他共羯磨，或與他在同一住處躺下。
+          *3）努力：*\ 與他交流，與他共羯磨，或與他在同一住處躺下。
 
    * - **Object**
      - **對象**
@@ -1390,5 +1390,44 @@
    * - None of the texts mention the matter, but a similar principle would also seem to apply to one’s perception of the transaction whereby the bhikkhu was suspended. Thus, there would be no offense in communing, etc., with him if one perceived a valid transaction as invalid; a dukkaṭa for communing, etc., with him if one perceived an invalid transaction as valid; and a dukkaṭa for communing, etc., with him if one was in doubt as to the transaction’s validity, regardless of whether it was actually valid or not.
 
      - 文獻中並未提及此事，但類似的原則似乎也適用於對比丘被舉罪的羯磨的感知。因此，如果認為有效的羯磨是無效的，則與其交流等並不犯戒；如果認為無效的羯磨是有效的，則與其交流等犯《突吉羅》；如果對羯磨的有效性存疑，無論該羯磨實際上是否有效，與他交流等都犯《突吉羅》。
+
+   * - **Effort**
+     - **努力**
+
+   * - *Effort* here covers any one of three sorts of action:
+     - *努力*\ 在此處涵蓋以下三種行動中的任何一種：
+
+   * - .. container:: mx-2
+
+          *1) One communes with the bhikkhu.* Communion takes one of two forms: sharing material objects, i.e., giving material objects to the bhikkhu or receiving them from him; or sharing Dhamma, i.e., reciting Dhamma for him or getting him to recite Dhamma. The penalties for sharing Dhamma are, if one recites line-by-line or gets the other to recite line-by-line, a pācittiya for each line; if syllable-by-syllable, a pācittiya for each syllable.
+
+     - .. container:: mx-2
+
+          *1）與該比丘交流。*\ 交流有兩種形式：一是分享物質，即給予該比丘物質或接受其物質；二是分享佛法，即為比丘背誦佛法或讓他背誦佛法。分享佛法的懲罰是：如果逐行背誦或讓他人逐行背誦，每行犯一次《波逸提》；如果逐音節，每個音節犯一次《波逸提》。
+
+   * - .. container:: mx-2
+
+          *2) One affiliates with the bhikkhu*, i.e., one participates in a transaction of the Community along with him. An example would be sitting in the same assembly with him to listen to the Pāṭimokkha.
+
+     - .. container:: mx-2
+
+          *2）與比丘共羯磨*\ ，即與他參與僧團的羯磨。例如，與他坐在同一眾中聆聽《波羅提木叉》。
+
+   * - .. container:: mx-2
+
+          *3) One lies down in the same dwelling with him.* “Same dwelling” here, unlike `Pc 5`_ & 6_, means one with the same roof. Thus, as the K/Commentary notes, if one is lying under the same roof with the bhikkhu, one falls under this factor even if one is lying in a room that is not connected by any entrance with the one he is lying in. And, we might add, one falls under this factor regardless of whether the dwelling is walled or not. Whether one lies down first, the suspended bhikkhu lies down first, or both lie down at the same time, is not an issue here. As under `Pc 5`_, if both parties get up and then lie down again, one incurs another pācittiya.
+
+     - .. container:: mx-2
+
+          *3）與他在同一住處躺下。*\ 此處「同一住處」與\ `《波逸提》五`_\ 和\ `六`_\ 不同，指的是同一屋頂。因此，正如 K/《義註》所指出的，如果與該比丘在同一屋頂躺下，即使所躺下的房間與他躺下的房間沒有任何入口相連，也適用此因素。而且，我們還可補充，無論住處是否有圍牆，都適用此因素。無論是自己先躺下、被舉罪的比丘先躺下，還是兩人同時躺下，在此都無關緊要。正如根據\ `《波逸提》五`_\ ，如果雙方起身後又躺下，則犯另一次《波逸提》。
+
+   * - These three actions touch on only a few of the observances a suspended bhikkhu must follow, but they are the only ones that entail a pācittiya for a regular bhikkhu who has dealings with him while he is suspended. For further details, see `Cv.I.25-35`_ and `BMC2, Chapter 20`_.
+
+     - 這三項行為只涉及被舉罪比丘須遵守的一些規定，但卻是在他被舉罪時，唯一會為與其打交道的正常比丘帶來《波逸提》的規定。更多詳情，請參閱\ `《小品》.一.25-35`_ 及\ `《佛教比丘戒律 第二冊》第二十章`_\ 。
+
+.. _Pc 5: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc5
+.. _6: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc6
+.. _《波逸提》五: {filename}Section0016%zh-hant.rst#Pc5
+.. _六: {filename}Section0016%zh-hant.rst#Pc6
 
 (未完待續)
