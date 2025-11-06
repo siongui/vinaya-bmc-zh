@@ -1430,4 +1430,51 @@
 .. _《波逸提》五: {filename}Section0016%zh-hant.rst#Pc5
 .. _六: {filename}Section0016%zh-hant.rst#Pc6
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in communing, affiliating, or lying down in the same dwelling with another bhikkhu if one knows that—
+     - 與另一位比丘交往、共羯磨或在同一住處躺下並不犯戒，前提是如果知道——
+
+   * - .. container:: mx-2
+
+          he has not been suspended;
+
+     - .. container:: mx-2
+
+          他未被舉罪；
+
+   * - .. container:: mx-2
+
+          he was suspended but has been restored; or
+
+     - .. container:: mx-2
+
+          他曾被舉罪但已經恢復；或者
+
+   * - .. container:: mx-2
+
+          he has abandoned the evil view that led to his suspension.
+
+     - .. container:: mx-2
+
+          他已經摒棄了導致他被舉罪的惡見。
+
+   * - The Vibhaṅga states explicitly that the first of these three exemptions holds regardless of whether one’s perception is correct, and the same principle would seem to apply to the remaining two as well.
+
+     - 《經分別》明確指出，這三個豁免中的第一個與感知是否正確無關，同樣的原則似乎也適用於其餘兩個。
+
+   * - *Summary: Communing, affiliating, or lying down under the same roof with a bhikkhu who has been suspended and not been restored—knowing that such is the case—is a pācittiya offense.*
+     - *摘要：明知比丘已被舉罪且尚未恢復，仍與其交往、共羯磨或在同一屋頂躺下，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
