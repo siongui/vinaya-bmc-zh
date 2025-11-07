@@ -529,7 +529,7 @@
      - `\　　　六十九 <{filename}Section0022%zh-hant.rst#Pc69>`__
 
    * - `\　　　70 <https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc70>`__
-     - 　　　七十
+     - `\　　　七十 <{filename}Section0022%zh-hant.rst#Pc70>`__
 
    * - `\　　Eight: The In-accordance-with-the-Rule Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0023.html>`__
      - 　　第八 如法品

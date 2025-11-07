@@ -1477,4 +1477,33 @@
    \*    \*    \*
 
 
+.. _Pc70:
+
+.. raw:: html
+
+   <span id="Pc70"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **70**
+     - **七十**
+
+   * - .. container:: notification
+
+          *And if a novice should say the following: “As I understand the Dhamma taught by the Blessed One, those acts the Blessed One says are obstructive, when engaged in are not genuine obstructions,” the bhikkhus are to admonish him thus: “Do not say that, friend novice. Do not slander the Blessed One, for it is not good to slander the Blessed One. The Blessed One would not say anything like that. In many ways, friend, the Blessed One has described obstructive acts, and when engaged in they are genuine obstructions. [The Sri Lankan and Burmese recensions read: In many ways, friend, the Blessed One has described obstructive acts as obstructive, and when engaged in they are genuine obstructions.]”*
+
+          *And should that novice, thus admonished by the bhikkhus, persist as before, the bhikkhus are to admonish him thus: “From this day forth, friend novice, you are not to claim the Blessed One as your teacher, nor are you even to have the opportunity the other novices get—that of sharing dwellings two or three nights with the bhikkhus. Away with you! Get lost!”*
+
+          *Should any bhikkhu knowingly befriend, receive services from, commune with, or lie down in the same dwelling with a novice thus expelled, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果沙彌說：「據我理解世尊所教導的佛法，世尊所說的那些障礙行為，當從事時並非真正的障礙」，比丘們應當這樣勸誡他：「沙彌朋友，不要這樣說。不要誹謗世尊，因為誹謗世尊是不好的。世尊不會那樣說。朋友，世尊以各種方便描述了障礙行為，而當從事這些行為時，它們確實是障礙。[斯里蘭卡和緬甸版本為：朋友，世尊以各種方便把障礙行為描述為障礙，而當從事這些行為時，它們確實是阻礙。]」*
+
+          *如果那位沙彌在被比丘們如此勸誡後仍執迷不悟，比丘們就應當這樣勸誡他：「沙彌朋友，從今天起，你不可稱世尊為你的老師，也不可享有其他沙彌所擁有的機會——與比丘們同住兩三晚。走開！消失吧！」*
+
+          *若任何比丘明知與被驅擯的沙彌交朋友、接受其服務、與其交流、或與其在同一住處躺下，波逸提。*
+
 (未完待續)
