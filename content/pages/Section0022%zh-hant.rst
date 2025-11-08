@@ -1519,4 +1519,11 @@
    * - *3) Effort:* One befriends him, receives services from him, communes with him, or lies down in the same dwelling with him.
      - *3）努力：*\ 與他交朋友，接受他的服務，與他交流，或與他在同一住處躺下。
 
+   * - **Object**
+     - **對象**
+
+   * - According to the Commentary, there are three types of expulsion: expulsion from affiliation (this applies only to bhikkhus and bhikkhunīs, and refers to the act of suspension discussed under the preceding rule); expulsion from one’s status; and expulsion as a punishment. Novices are subject to the latter two.
+
+     - 根據《義註》，驅擯有三種：羯磨驅擯（僅適用於比丘和比丘尼，指的是前一條戒條中討論的舉罪）；身份驅擯；以及作為懲罰的驅擯。沙彌只受後兩種驅擯的約束。
+
 (未完待續)
