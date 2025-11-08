@@ -1506,4 +1506,17 @@
 
           *若任何比丘明知與被驅擯的沙彌交朋友、接受其服務、與其交流、或與其在同一住處躺下，波逸提。*
 
+   * - The factors for the full offense here are three.
+     - 此處完全違犯的因素有三。
+
+   * - *1) Object:* a novice who has been expelled and has not relinquished his evil view.
+     - *1）對象：*\ 被驅擯但仍未放棄惡見的沙彌。
+
+   * - *2) Perception:* One perceives that he has been expelled and has not relinquished his evil view—either from knowing on one’s own, from having been told by him (§), or from having been told by others.
+
+     - *2）感知：*\ 感知到他已被驅擯，但仍未放棄惡見——無論是自己知道的，或是被他告知（§），或是別人告知的。
+
+   * - *3) Effort:* One befriends him, receives services from him, communes with him, or lies down in the same dwelling with him.
+     - *3）努力：*\ 與他交朋友，接受他的服務，與他交流，或與他在同一住處躺下。
+
 (未完待續)
