@@ -1534,7 +1534,29 @@
 
      - `《大品》.一.60`_ 的《義註》指出，沙彌若違犯了前五條戒律中的任何一條，便斷絕了三皈依、與導師斷絕關係以及在寺院居住的權利。然而，他仍然是沙彌，如果他能認出自己行為的錯誤，並決心今後克制他自己，便可再次從導師處受三皈依，恢復他之前的身份。（《義註》也補充道，若沙彌明知故犯地違反第五條戒律飲酒，可以恢復他的沙彌身份，但此生不得受具足戒成為比丘。並非所有僧團都認同此觀點，因為此觀點並未得到《聖典》的支持。）但是，如果沙彌經常違反這些戒律中的任何一條，並且不下定決心在今後約束自己，那麼他將被驅擯沙彌的身份。
 
+   * - As for the novice who holds to wrong views or who speaks in dispraise of the Buddha, Dhamma, or Saṅgha, the bhikkhus are to instruct him to show him the error of his ways. If he abandons his views, he is to undergo punishment for an appropriate period (see `Mv.I.57-58`_) and then be allowed to confess his error, so as to return to his former status. If he does not change his ways, he is to be expelled from his status as a novice.
+
+     - 至於持有邪見或詆毀佛、法、僧的沙彌，比丘們應當教導他，指出他行為的錯誤。如果他放棄他的見解，就應當受適當期限的懲罰（參見\ `《大品》.一.57-58`_\ ），之後允許他懺悔錯誤，恢復他之前的身份。如果他不改變他的行為，就應當驅擯他的沙彌身份。
+
+   * - And as for the novice who rapes a bhikkhunī: The Commentary notes that this comes under the breaking of the third precept, but is listed separately because a novice who has sexual intercourse with anyone but a bhikkhunī may be reinstated if he sees the error of his ways, whereas one who has raped a bhikkhunī may not—and furthermore, he can never be ordained as a novice or a bhikkhu in this lifetime. (See `BMC2, Chapter 14`_.)
+
+     - 至於強姦比丘尼的沙彌：《義註》指出，這屬於違反第三條戒，但單獨列出，因為與比丘尼以外的任何人發生性關係的沙彌，如果看見行為的錯誤，可以恢復身份；而強姦比丘尼的沙彌則不能恢復身份——而且，他此生永遠無法受戒成為沙彌或比丘。（參見\ `《佛教比丘戒律 第二冊》第十四章`_\ 。）
+
+   * - Except in the last case, a novice who has been expelled from his status as a novice may be reordained as a novice if he sees his errors and can convince the bhikkhus that he will mend his ways in the future.
+
+     - 除了最後一種情況外，被驅擯身份的沙彌，如果能夠認識到自己的錯誤，並能說服比丘們他將來會改過自新，就可以重新受戒為沙彌。
+
+   * - 2\) The second form of expulsion—expulsion as punishment—is the one mentioned in this rule: A novice comes to think that there is nothing wrong with any novice’s having sexual intercourse or breaking any of his other precepts. If he asserts this view, the bhikkhus are to instruct him to show him that it is evil, but if they cannot sway him, they are to expel him in the form described in the rule: He has no right to claim the Buddha as his teacher and loses his right to live in the same dwellings with the bhikkhus, although he retains his status as a novice. This form of expulsion lasts as long as he has yet to relinquish his view. If and when he does relinquish it, he is to be reinstated. The Commentary doesn’t say how, but we can reason from the pattern mentioned above that he should take the Triple Refuge from his teacher again.
+
+     - 2）第二種驅擯——做為懲罰的的驅擯——如本戒條所述：沙彌認為任何沙彌發生性行為或違反自己的其他戒律並無不妥。如果他堅持這種觀點，比丘們應當教導他，讓他明白這是邪惡的，如果比丘們無法改變他的想法，則應當按照戒條中描述的方式驅擯他：他無權稱佛陀為他的導師，也喪失了與比丘們在同一住處生活的權利，雖然他保留沙彌身份。這種驅擯持續到他放棄這種觀點為止。如果他最終放棄了這種觀點，就應該讓他恢復。《義註》中沒有說明具體如何恢復，但我們可以根據上述模式推斷，他應當再次從他的導師受三皈依。
+
+   * - The Commentary states that the factor of object under this rule is fulfilled only by a novice who has undergone the second form of expulsion and has yet to relinquish his evil view.
+
+     - 《義註》指出，只有經受了第二種形式的驅擯但尚未放棄惡見的沙彌才滿足此戒條下的對象因素。
+
 .. _Mv.I.60: https://www.dhammatalks.org/vinaya/bmc/Section0066.html#Mv.I.60
 .. _《大品》.一.60: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0106a10
+.. _Mv.I.57-58: https://www.dhammatalks.org/vinaya/bmc/Section0066.html#Mv.I.57.1
+.. _《大品》.一.57-58: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0105a04
 
 (未完待續)
