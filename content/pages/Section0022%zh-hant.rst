@@ -1559,4 +1559,53 @@
 .. _Mv.I.57-58: https://www.dhammatalks.org/vinaya/bmc/Section0066.html#Mv.I.57.1
 .. _《大品》.一.57-58: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0105a04
 
-(未完待續)
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Perception**
+     - **感知**
+
+   * - There is no offense in befriending, etc., an expelled novice if one does not know that he has been expelled; a dukkaṭa for befriending, etc., a novice who has not been expelled but whom one perceives as expelled; and a dukkaṭa for befriending, etc., a novice if one is in doubt about the matter. This last penalty holds regardless of whether he has actually been expelled or not.
+
+     - 若不知曉某沙彌已被驅擯，與其交朋友等行為並無犯戒；若與某沙彌交朋友等行為，而該沙彌未被驅擯，但認為其已被驅擯，則犯《突吉羅》；若對某沙彌是否已被驅擯存有疑問，與其交朋友等行為犯《突吉羅》。最後這個處罰，不論該沙彌是否已被驅擯，均適用。
+
+   * - **Effort**
+     - **努力**
+
+   * - *Effort* here is fulfilled by any one of four sorts of action:
+     - *努力*\ 在此可以透過以下四種行動中的任何一種來滿足：
+
+   * - .. container:: mx-2
+
+          *1) Befriending a novice* means making friendly overtures to him with the thought of supplying him with material requisites or instruction in the Dhamma, as a mentor would.
+
+     - .. container:: mx-2
+
+          *1）與沙彌交朋友*\ 意味著友好地向他示好，並打算像導師一樣為他提供物質必需品或佛法指導。
+
+   * - .. container:: mx-2
+
+          *2) Receiving services* from him means to accept the services a mentor normally receives from his student—the Vibhaṅga mentions accepting powder, clay (soap) for washing, tooth-wood, or water for rinsing the mouth or washing the face (§).
+
+     - .. container:: mx-2
+
+          *2）接受其服務*\ 意味著接受導師通常從弟子那裡獲得的服務——《經分別》提到接受粉末、用於洗滌的黏土（肥皂）、齒木或用於漱口或洗臉的水（§）。
+
+   * - .. container:: mx-2
+
+          *3 & 4) Communing and lying down in the same dwelling* are defined as under the preceding rule.
+
+     - .. container:: mx-2
+
+          *3 和 4）交流和在同一住處躺下*\ 的定義與前一條戒條相同。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in befriending, etc., a novice if one knows that he has not been expelled, or if one knows that he has relinquished the view that led to his expulsion in the first place. As under the preceding rule, the Vibhaṅga states explicitly that the first exemption holds regardless of whether one’s perception is correct, and the same principle would seem to apply to the second one as well.
+
+     - 若知道沙彌未被驅擯，或知道他已捨棄了當初導致他被驅擯的見解，那麼與他交朋友等行為並無犯戒。如前一條戒條所述，《經分別》明確指出，第一種豁免無論認知是否正確都適用，而同樣的原則似乎也適用於第二種豁免。
+
+   * - *Summary: Befriending, receiving services from, communing, or lying down under the same roof with an expelled novice—knowing that he has been expelled—is a pācittiya offense.*
+     - *摘要：與已被驅擯的沙彌交朋友、接受其服務、與其交流或在一個屋簷下躺下，而且明知其已被驅擯，是《波逸提》（《單墮》）罪。*
