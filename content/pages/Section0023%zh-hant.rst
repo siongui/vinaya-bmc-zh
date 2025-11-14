@@ -116,4 +116,53 @@
    \*    \*    \*
 
 
+.. _Pc72:
+
+.. raw:: html
+
+   <span id="Pc72"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **72**
+     - **七十二**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, when the Pāṭimokkha is being recited, say, “Why are these lesser and minor training rules recited when they lead only to anxiety, bother, and confusion?” the criticism of the training rules is to be confessed.*
+
+     - .. container:: notification
+
+          *在誦讀《波羅提木叉》時，若任何比丘說：「這些細小的、次要的學處（小小戒）只會導致焦慮、煩擾和困惑，為何還要誦讀呢？」對學處的批評，波逸提。*
+
+   * - .. container:: mx-2
+
+          “Now at that time the Blessed One, phrasing it in many ways, gave a talk on discipline to the bhikkhus. He spoke in praise of discipline, in praise of the mastery of discipline, and in praise of Ven. Upāli, referring to him again and again. The bhikkhus (said), ‘… Come, friends, let’s study discipline with Ven. Upāli.’ They and many other bhikkhus—elders, newly ordained, and those in between—studied discipline with Ven. Upāli.
+
+     - .. container:: mx-2
+
+          「\ `其時，世尊以種種方便向比丘們講述了戒律。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0192a03>`_\ 他讚揚戒律，讚揚精通戒律，並讚揚優婆離尊者，多次提及他。比丘們（說）：『……來吧，朋友們，讓我們跟隨優婆離尊者學習戒律。』他們和許多其他比丘——上座、下座以及中座跟隨優婆離尊者學習戒律。
+
+   * - .. container:: mx-2
+
+          “Then the thought occurred to some group-of-six bhikkhus: ‘Now, friends, many bhikkhus… are studying discipline with Ven. Upāli. If they become well versed in the discipline, they will push us and pull us around in whatever way they like, however they like, and as long as they like. Come, friends, let’s criticize the discipline.’ Then the group-of-six bhikkhus, going to the bhikkhus, said, ‘Why are these lesser and minor training rules repeated when they lead only to anxiety, bother, and confusion?’”
+
+     - .. container:: mx-2
+
+          「這時，有六群比丘想到：『現在，朋友們，許多比丘…都在跟隨優婆離尊者學習戒律。如果他們精通戒律，就會隨心所欲地擺佈我們，想怎麼擺佈就怎麼擺佈，想擺佈多久就多久。來吧，朋友們，讓我們批評這些戒律。』然後，這六群比丘走到其他比丘面前，說：『這些細小的、次要的學處（小小戒），只會帶來焦慮、煩擾和困惑，為什麼還要反覆強調呢？』」
+
+   * - The full offense here has three factors.
+     - 此處的完全違犯有三個因素。
+
+   * - *1) Effort:* One criticizes the discipline in the presence
+     - *1）努力：*\ 有人在場時批評戒律
+
+   * - *2) Object:* of another bhikkhu
+     - *2）對象：*\ 當著另一位比丘的面
+
+   * - *3) Intention:* with the intent of disparaging it.
+     - *3）意圖：*\ 意圖貶低它。
+
 (未完待續)

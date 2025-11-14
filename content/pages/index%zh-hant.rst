@@ -538,7 +538,7 @@
      - `\　　　七十一 <{filename}Section0023%zh-hant.rst#Pc71>`__
 
    * - `\　　　72 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc72>`__
-     - 　　　七十二
+     - `\　　　七十二 <{filename}Section0023%zh-hant.rst#Pc72>`__
 
    * - `\　　　73 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc73>`__
      - 　　　七十三
