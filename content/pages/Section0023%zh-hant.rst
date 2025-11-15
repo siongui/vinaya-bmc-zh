@@ -165,4 +165,22 @@
    * - *3) Intention:* with the intent of disparaging it.
      - *3）意圖：*\ 意圖貶低它。
 
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga explains *criticizing the discipline* with a list of examples. In addition to the statement in the rule, the list includes such statements as, “Those who master this suffer anxiety, bother, and confusion. Those who don’t master this suffer no anxiety, bother, or confusion. It would be better (§) if this were not repeated. It would be better (§) if this were not learned. It would be better (§) if this were not mastered. It would be better (§) if this were not borne in mind. May the discipline disappear or may these bhikkhus not be well-versed in this.” This last sentence sounds less like a criticism and more like a possible motivation for one’s criticism—a typical ambiguity in the style of the Pali Canon—but none of the commentaries discuss this point.
+
+     - 《經分別》列舉了例子來解釋\ *批評戒律*\ 。除了戒條本身的陳述外，列舉的例子還包括：「掌握此者，會感到焦慮、煩擾和困惑。未掌握此者，則不會感到焦慮、煩擾和困惑。最好（§）這不被重複。最好（§）這不被學習。最好（§）這不被掌握。最好（§）這不被銘記在心。願戒律消失，或願這些比丘對此不甚精通。」最後這句話與其說是批評，不如說是批評的可能動機——這是巴利《聖典》風格中典型的含糊不清之處——但沒有任何註釋書討論過這一點。
+
+   * - The training rule would seem to indicate that these actions are grounds for an offense only while the Pāṭimokkha is being recited or rehearsed, but the non-offense clauses in the Vibhaṅga give no allowance to criticize the discipline at other times, and the K/Commentary follows the Vibhaṅga in not making the recitation of the Pāṭimokkha a necessary factor for the offense here. In other words, the factor of effort here is fulfilled if one criticizes the discipline at any time.
+
+     - 此學處似乎表明，只有在誦讀或練習《波羅提木叉》時，這些行為才構成犯戒；但《經分別》中的不犯條款並未允許在其他時間批評戒律， K/《義註》也遵循《經分別》，認為誦讀《波羅提木叉》並非構成此處犯戒的必要條件。換言之，只要在任何時候批評戒律，就滿足了此處「努力」因素。
+
+   * - **Object**
+     - **對象**
+
+   * - There is a pācittiya for criticizing the discipline in the presence of a bhikkhu; and a dukkaṭa for criticizing any other Dhamma in his presence, or criticizing either the discipline or any other Dhamma in the presence of an unordained person. Perception as to whether one’s listener is ordained is irrelevant to the offense (see `Pc 42`_).
+
+     - 在比丘面前批評戒律，犯《波逸提》；在比丘面前批評其他佛法，或在未受具足戒者面前批評戒律或其他佛法，犯《突吉羅》。聽者是否受具足戒的感知與犯戒無關（參閱\ `《波逸提》四二`_\ ）。
+
 (未完待續)
