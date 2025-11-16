@@ -183,4 +183,41 @@
 
      - 在比丘面前批評戒律，犯《波逸提》；在比丘面前批評其他佛法，或在未受具足戒者面前批評戒律或其他佛法，犯《突吉羅》。聽者是否受具足戒的感知與犯戒無關（參閱\ `《波逸提》四二`_\ ）。
 
+   * - **Intention**
+     - **意圖**
+
+   * - This factor is fulfilled when one’s intention is to disparage the discipline. Given the way “effort” is defined above, this factor might seem superfluous, but the non-offense clauses give an example of an effort that may sound like criticism but is not actually meant to be taken as disparagement. The Commentary defines the factor of intention here as the desire to give rise to skepticism *(vimati)* about the discipline in the listener’s mind.
+
+     - 當意圖是貶低戒律時，這個因素就成立了。鑑於上文對「努力」的定義，這一因素可能似乎顯得多餘，但不犯條款舉例說明了這樣一種努力：它聽起來像是批評，但實際上並非意在貶低。《義註》將此處的意圖因素定義為：意欲在聽者心中引發對戒律的懷疑\ *（vimati）*\ 。
+
+   * - **Further action**
+     - **進一步行動**
+
+   * - A bhikkhu who makes a concerted effort to speak in dispraise of the Dhamma or discipline may be subject to an act of censure or banishment, depending on the seriousness of the case (Cv.I.4.1; `Cv.I.14.2`_). (See `BMC2, Chapter 20`_.)
+
+     - 比丘若蓄意詆毀佛法或戒律，可受呵責（羯磨）或驅出（羯磨），視情節嚴重程度而定（\ `《小品》.一.4.1`_\ ；\ `《小品》.一.14.2`_\ ）。（參見\ `《佛教比丘戒律 第二冊》第二十章`_\ 。）
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if, without intending to criticize the discipline, one suggests to another person that he/she master the suttas, the gāthās (verses), or the Abhidhamma first, before mastering the discipline.
+
+     - 如果無意批評戒律，建議另一個人先掌握經文、偈頌或阿毘達摩，然後再掌握戒律，並不構成犯戒。
+
+   * - *Summary: Criticizing the discipline in the presence of another bhikkhu, in hopes of making him skeptical about the discipline or its study, is a pācittiya offense.*
+     - *總結：當著另一位比丘的面批評戒律，希望使他懷疑戒律或其研讀，是《波逸提》（《單墮》）罪。*
+
+.. _Cv.I.14.2: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.14.2
+.. _《小品》.一.4.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0005a13
+.. _《小品》.一.14.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0018a05
+.. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
