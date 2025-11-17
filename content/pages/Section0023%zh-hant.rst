@@ -220,4 +220,32 @@
    \*    \*    \*
 
 
+.. _Pc73:
+
+.. raw:: html
+
+   <span id="Pc73"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **73**
+     - **七十三**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, when the Pāṭimokkha is being recited every half-month, say, “Just now have I learned that this case, too, is handed down in the Pāṭimokkha, is included in the Pāṭimokkha, and comes up for recitation every half-month”; and if the bhikkhus should know of that bhikkhu, “This bhikkhu has already sat through two or three recitations of the Pāṭimokkha, if not more,” the bhikkhu is not exempted for being ignorant. Whatever the offense he has committed, he is to be dealt with in accordance with the rule; and in addition, his deceit is to be exposed: “It is no gain for you, friend, it is ill-done, that when the Pāṭimokkha is being recited, you do not pay attention, properly taking it to heart.” As for the deception (§), it is to be confessed.*
+
+     - .. container:: notification
+
+          *若任何比丘在每半月誦讀《波羅提木叉》時說：「我剛剛才知道，此情況也記載於《波羅提木叉》內，包含於《波羅提木叉》內，且每半月誦讀一次」；且如果比丘們知道那位比丘，「這位比丘已經坐著聽了兩、三遍《波羅提木叉》的誦讀，甚至更多。」，該比丘也不能因為無知而免於懲罰。無論他犯了何種罪過，都應按照戒條處置；此外，還應揭露他的欺騙行為：「朋友，誦讀《波羅提木叉》時，你不專心、不牢記於心，對你並無益處，而且是糟糕的做法。」至於欺騙（§），波逸提。*
+
+   * - To summarize the Vibhaṅga: If a bhikkhu—when the recitation of the Pāṭimokkha comes to a rule he has violated—tries to excuse himself through the sort of pretence cited in the rule, he immediately incurs a dukkaṭa if he has already listened to the Pāṭimokkha in full three times or more. The other bhikkhus may then expose his deception by means of a Community transaction (see `Appendix VIII`_). If he then continues with the pretence, he incurs a pācittiya. If they do not enact a transaction against him, though, he incurs a dukkaṭa for each effort he makes in keeping up the pretence. There is no offense, though, if he is not feigning ignorance or if he has not yet heard the Pāṭimokkha in full at least three times.
+
+     - 綜合《經分別》所述：若比丘在誦讀《波羅提木叉》時，遇到自己已違反的戒條，並試圖以戒條中所列的藉口為自己開脫，若他已完整聆聽過《波羅提木叉經》三遍或以上，則立即犯《突吉羅》。其他比丘則可藉由僧團羯磨（見\ `附錄八`_\ ）揭穿其欺騙。若他繼續其虛偽藉口，犯《波逸提》。但若他們不對其施以羯磨，則他每努力一次維持其虛偽藉口，犯一次《突吉羅》。但若他並非裝無知，或尚未完整聆聽《波羅提木叉》至少三遍，則不犯戒。
+
+.. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
+.. _附錄八: {filename}Section0028%zh-hant.rst#appendixVIII
+
 (未完待續)
