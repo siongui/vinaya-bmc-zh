@@ -245,6 +245,37 @@
 
      - 綜合《經分別》所述：若比丘在誦讀《波羅提木叉》時，遇到自己已違反的戒條，並試圖以戒條中所列的藉口為自己開脫，若他已完整聆聽過《波羅提木叉經》三遍或以上，則立即犯《突吉羅》。其他比丘則可藉由僧團羯磨（見\ `附錄八`_\ ）揭穿其欺騙。若他繼續其虛偽藉口，犯《波逸提》。但若他們不對其施以羯磨，則他每努力一次維持其虛偽藉口，犯一次《突吉羅》。但若他並非裝無知，或尚未完整聆聽《波羅提木叉》至少三遍，則不犯戒。
 
+   * - Obviously, these explanations were formulated when Pali was the bhikkhus’ native language, and the recitation of the Pāṭimokkha in Pali offered the opportunity to learn the rules, along with the opportunity to feign ignorance without telling an out-and-out lie. In other words, one could say immediately after the recitation of a particular rule, “Just now have I heard that this rule is in the Pāṭimokkha,” and strictly speaking it would be true: One *has* just heard it, even if for the umpteenth time, but one hopes that the other bhikkhus will be deceived into inferring that one has just heard it for the first time.
+
+     - 顯然，這些解釋是在巴利語是比丘母語的時代形成的。用巴利語誦讀《波羅提木叉》既提供了學習戒條的機會，也提供了在不徹底撒謊的情況下假裝無知的機會。換句話說，可以在誦讀一條戒條後立即說：「我剛才聽到這條戒條在《波羅提木叉》裡。」嚴格來說，這確實是真的：他剛剛\ *才*\ 聽到它，即使是第無數次聽到，但希望其他比丘會被蒙蔽，誤以為他是第一次聽到。
+
+   * - However, the discussion of this rule in the Vibhaṅga and commentaries makes no exceptions for bhikkhus whose native language is not Pali. Nevertheless, as the Pāṭimokkha is available in a number of translations, the grace period in which one is expected to be ignorant—three recitations covers at least a month to a month and a half—is not too short a time for a new bhikkhu to read and remember the rules in translation.
+
+     - 然而，《經分別》及註釋書中對這條戒條的討論並未對母語非巴利語的比丘做出例外規定。儘管如此，《波羅提木叉》已有多種譯本，因此，對於一位新比丘而言，這段允許其無知的寬限期——三次誦讀至少涵蓋一個月到一個半月——並不算短，足以讓他閱讀並記住譯本中的戒條。
+
+   * - It is also worth noting that the non-offense clauses do not make an exception for a bhikkhu who tries a similar ploy to feign ignorance of the rules outside of the time when the Pāṭimokkha is being formally recited, and the K/Commentary—as under the preceding rule—follows the Vibhaṅga in not making the recitation of the Pāṭimokkha a necessary factor for the offense here. In other words, this rule covers the use of a half-truth to feign ignorance of the rules at *any* time.
+
+     - 值得注意的是，不犯條款並未對試圖在正式誦讀《波羅提木叉》之外的時間裡，以類似伎倆假裝不知戒條的比丘做出例外規定。 K/《義註》──如同前一條戒條一樣──遵循《經分別》，並未將誦讀《波羅提木叉》作為構成此處犯戒的必要條件。換言之，此戒條涵蓋了在\ *任何*\ 時候以半真半假之言假裝不知戒條。
+
+   * - The factors for the full offense here are three.
+     - 此處構成完全違犯的因素有三點。
+
+   * - .. container:: mx-2
+
+          *1) Object:* a rule in the Pāṭimokkha.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 《波羅提木叉》中的戒條。
+
+   * - .. container:: mx-2
+
+          *2) Intention:* One wants to deceive the bhikkhus into believing that one is ignorant of the rule one has broken.
+
+     - .. container:: mx-2
+
+          *2）意圖：*\ 想要欺騙比丘相信自己對所違反的戒條一無所知。
+
 .. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
 .. _附錄八: {filename}Section0028%zh-hant.rst#appendixVIII
 
