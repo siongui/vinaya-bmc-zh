@@ -276,7 +276,40 @@
 
           *2）意圖：*\ 想要欺騙比丘相信自己對所違反的戒條一無所知。
 
+   * - .. container:: mx-2
+
+          *3) Effort:* One has heard the Pāṭimokkha in full for at least three times, yet one persists in saying half-truths to feign ignorance after the bhikkhus have enacted a Community transaction exposing one’s deceit. (Out-and-out lies would come under `Pc 1`_.)
+
+     - .. container:: mx-2
+
+          *3）努力：*\ 至少三次完整地聽過《波羅提木叉》，但在比丘們透過僧團羯磨揭穿其欺騙行為後，仍然堅持說半真半假的話來假裝無知。（徹頭徹尾的謊言屬於\ `《波逸提》一`_\ 。）
+
+   * - Perception as to the transaction’s validity is not a mitigating factor here. If the transaction exposing one’s deceit has been properly carried out, then regardless of whether one perceives it as valid, one incurs a pācittiya for trying to deceive the bhikkhus any further. If it has been improperly carried out, one incurs a dukkaṭa for trying to deceive them further, regardless of how one perceives the transaction.
+
+     - 對羯磨有效性的感知並非減輕懲罰的因素。如果揭穿欺騙行為的羯磨已妥善執行，那麼無論是否認為其有效，若試圖進一步欺騙比丘們，都犯《波逸提》。如果羯磨執行不當，無論如何看待羯磨，若試圖進一步欺騙比丘們，都犯《突吉羅》。
+
 .. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
 .. _附錄八: {filename}Section0028%zh-hant.rst#appendixVIII
+.. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
+.. _《波逸提》一: {filename}Section0016%zh-hant.rst#Pc1
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if one has heard the Pāṭimokkha in full fewer than three times or if one is not intending to deceive anyone.
+     - 如果完整地聽過《波羅提木叉》少於三次，或沒有欺騙任何人的意圖，那麼就不犯戒。
+
+   * - *Summary: Using half-truths to deceive others into believing that one is ignorant of the rules in the Pāṭimokkha—after one has already heard the Pāṭimokkha in full three times, and a Community transaction exposing one’s deceit has been brought against one—is a pācittiya offense.*
+     - *摘要：在已經完整地聽過三次《波羅提木叉》之後，用半真半假的話欺騙他人，使他人相信自己對《波羅提木叉》裡的戒條無知，並且揭露欺騙行為的僧團羯磨被提出，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
