@@ -312,4 +312,47 @@
    \*    \*    \*
 
 
+.. _Pc74:
+
+.. raw:: html
+
+   <span id="Pc74"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **74**
+     - **七十四**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, angered and displeased, give a blow to (another) bhikkhu, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘憤怒且不滿而打了（另一個）比丘，波逸提。*
+
+   * - The factors for the full offense here are three.
+     - 構成完全違犯的因素有三點。
+
+   * - *1) Object:* another bhikkhu.
+     - *1）對象：*\ 另一位比丘。
+
+   * - *2) Effort:* One gives him a blow
+     - *2）努力：*\ 給他一擊
+
+   * - *3) Intention:* out of anger.
+     - *3）意圖：*\ 出於憤怒。
+
+   * - **Object**
+     - **對象**
+
+   * - A bhikkhu is grounds for the full offense here; anyone unordained, grounds for a dukkaṭa. According to the Commentary, *anyone unordained* includes animals as well as human beings.
+
+     - 比丘在此構成全額犯戒；任何未受具足戒者，構成《突吉羅》。根據《義註》，任何未受具足戒者包括動物和人類。
+
+   * - As under `Pc 42`_, the Vibhaṅga indicates that perception as to whether the person receiving the blow is ordained is irrelevant to the offense here.
+     - 如同\ `《波逸提》四二`_\ ，《經分別》指出，對於被擊打者是否受具足戒的感知與此處的犯戒無關。
+
 (未完待續)

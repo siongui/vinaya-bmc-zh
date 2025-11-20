@@ -336,8 +336,7 @@
      - *摘要：搔其他比丘癢是《波逸提》（《單墮》）罪。*
 
 .. _Pc 74: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
-.. _《波逸提》七四: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
-.. TODO FIXME: replace link to 《波逸提》七四
+.. _《波逸提》七四: {filename}Section0023%zh-hant.rst#Pc74
 
 
 .. container:: has-text-centered

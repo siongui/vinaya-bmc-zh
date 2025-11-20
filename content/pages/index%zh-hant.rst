@@ -544,7 +544,7 @@
      - `\　　　七十三 <{filename}Section0023%zh-hant.rst#Pc73>`__
 
    * - `\　　　74 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74>`__
-     - 　　　七十四
+     - `\　　　七十四 <{filename}Section0023%zh-hant.rst#Pc74>`__
 
    * - `\　　　75 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc75>`__
      - 　　　七十五

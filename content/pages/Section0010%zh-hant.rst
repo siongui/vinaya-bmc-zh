@@ -1456,8 +1456,7 @@
      - 然而，如果比丘射擊技術不佳，瞄準 B 但沒有擊中他，並且無意中殺死了 C ，那麼他就不會犯《波羅夷》，因為他在行動的任何部分都無意殺死 C 。他唯一受到的懲罰是在準備謀殺 B 時犯《突吉羅》。
 
 .. _Pc 74: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
-.. _《波逸提》七四: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
-.. TODO FIXME: replace link to 《波逸提》七四
+.. _《波逸提》七四: {filename}Section0023%zh-hant.rst#Pc74
 .. _想要殺死 X ，但卻殺死了 Y: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0115a04
 .. _婦女死亡，胎兒倖存: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_001/#0113a07
 

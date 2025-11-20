@@ -630,8 +630,7 @@
 
 .. _一位比丘出於孝愛撫摸母親的例子，一位比丘出於父愛撫摸女兒的例子，還有一位比丘出於兄弟感情撫摸妹妹: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_002/#0175a08
 .. _Pc 74: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
-.. _《波逸提》七四: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
-.. TODO FIXME: replace link to 《波逸提》七四
+.. _《波逸提》七四: {filename}Section0023%zh-hant.rst#Pc74
 .. _BMC2, Appendix V: https://www.dhammatalks.org/vinaya/bmc/Section0072.html#BMC2appendixFIVE
 .. _《佛教比丘戒律 第二冊》附錄五: https://www.dhammatalks.org/vinaya/bmc/Section0072.html#BMC2appendixFIVE
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》附錄五
