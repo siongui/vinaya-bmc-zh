@@ -355,4 +355,48 @@
    * - As under `Pc 42`_, the Vibhaṅga indicates that perception as to whether the person receiving the blow is ordained is irrelevant to the offense here.
      - 如同\ `《波逸提》四二`_\ ，《經分別》指出，對於被擊打者是否受具足戒的感知與此處的犯戒無關。
 
+   * - **Effort**
+     - **努力**
+
+   * - This factor is fulfilled whether one gives a blow—
+     - 無論是否出手，這項因素都成立——
+
+   * - .. container:: mx-2
+
+          with one’s own body (hitting with a fist, jabbing with an elbow, kicking with a foot);
+
+     - .. container:: mx-2
+
+          用自己的身體（用拳頭擊打、用手肘刺擊、用腳踢）；
+
+   * - .. container:: mx-2
+
+          with something attached to the body (e.g., a stick, a knife); or
+
+     - .. container:: mx-2
+
+          用附在身上的東西（例如棍子、刀子）；或
+
+   * - .. container:: mx-2
+
+          with something that can be “thrown” (this includes such things as throwing a rock, shooting an arrow, or firing a gun). According to the Vibhaṅga, this last category includes throwing “even a lotus leaf,” which shows that the blow need not be painful in order to fulfill this factor.
+
+     - .. container:: mx-2
+
+          用可以「投擲」的東西（包括投擲石頭、射箭或開槍等）。根據《經分別》，此最後一類甚至包括投擲「一片蓮葉」，這表明，即使打擊本身並不一定要帶來疼痛，也能滿足這一因素。
+
+   * - Such actions as twisting the other person’s arm behind his back or wringing his neck are not mentioned under this rule, but the act of grabbing his arm prior to twisting it or grabbing his neck prior to wringing it *would* fulfill the factor of effort here.
+
+     - 本戒條並未提及將對方的手臂扭到背後或扭斷對方的脖子等行為，但在扭對方的手臂之前抓住對方的手臂或在扭斷對方的脖子之前抓住對方的脖子，\ *就*\ 符合這裡的努力因素。
+
+   * - **Intention**
+     - **意圖**
+
+   * - If one gives a blow for reasons other than anger, the action does not fall under this rule. Thus, for instance, if one thumps a fellow bhikkhu on the back to help dislodge something caught in his throat, there is no offense. And as the Commentary notes, if—impelled by lust—one gives a blow to a woman, one incurs the full penalty under `Sg 2`_.
+
+     - 如果並非出於憤怒而擊打他人，則此行為不屬於此戒條的範疇。例如，如果為了幫助其他比丘吐出卡在喉嚨裡的東西而輕拍其背部，則不構成犯戒。正如《義註》所指出的，如果出於淫欲而擊打女性，則應根據\ `《僧殘》二`_\ 受到全額懲罰。
+
+.. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
+.. _《僧殘》二: {filename}Section0011%zh-hant.rst#Sg2
+
 (未完待續)
