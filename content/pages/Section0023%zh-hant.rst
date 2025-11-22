@@ -396,7 +396,33 @@
 
      - 如果並非出於憤怒而擊打他人，則此行為不屬於此戒條的範疇。例如，如果為了幫助其他比丘吐出卡在喉嚨裡的東西而輕拍其背部，則不構成犯戒。正如《義註》所指出的，如果出於淫欲而擊打女性，則應根據\ `《僧殘》二`_\ 受到全額懲罰。
 
+   * - For some reason, the Commentary says that if one cuts off the nose or ear of a fellow bhikkhu in order to disfigure him, one incurs only a dukkaṭa. As the Vinaya-mukha points out, though, there is no basis in the Vibhaṅga or in reason for this statement. It is hard to imagine anyone doing this unless impelled by anger, and the act of cutting another person would come under the factor of giving a blow with something connected with the body.
+
+     - 不知何故，《義註》中說，若為了毀容而割掉同儕比丘的鼻子或耳朵，只會犯《突吉羅》。然而，正如《戒律入口》所指出的，這種說法在《經分別》或論證中並無依據。很難想像有人會做出這種事，除非是出於憤怒。而且，割傷他人屬於用連接身體的東西進行攻擊的因素。
+
+   * - “Result” is not a factor here. Whether the other person is hurt—or how badly he/she is hurt—does not affect the offense. If one intends simply to hurt the other person, but he/she happens to die from one’s blow, the case is treated under this rule, rather than under `Pr 3`_. In other words, the penalty is a pācittiya if the victim is a bhikkhu, and a dukkaṭa if not.
+
+     - 「結果」在此並非因素。對方是否受傷——或受傷程度如何——並不影響犯戒。若僅意圖傷害他人，卻因自己的出手導致對方死亡，則應依此戒條處理，而非依\ `《波羅夷》三`_\ 處理。換言之，若受害者為比丘，則懲罰為《波逸提》；若受害者並非比丘，則懲罰為《突吉羅》。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - According to the Vibhaṅga, there is no offense for a bhikkhu who, trapped in a difficult situation, gives a blow “desiring freedom.” The Commentary’s discussion of this point shows that it includes what we at present would call self-defense; and the K/Commentary’s analysis of the factors of the offense here shows that even if anger or displeasure arises in one’s mind in cases like this, there is no penalty.
+
+     - 根據《經分別》，比丘身處困境，為求得自由而出手，並無犯戒。《義註》對此的討論表明，這包含了我們今天所說的自衛；而 K/《義註》對此處犯戒因素的分析表明，即便在這種情況下心中生起憤怒或不滿，也無需受懲罰。
+
+   * - *Summary: Giving a blow to another bhikkhu when impelled by anger—except in self-defense—is a pācittiya offense.*
+     - *摘要：因憤怒而打其他比丘——自衛除外——是《波逸提》（《單墮》）罪。*
+
 .. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
 .. _《僧殘》二: {filename}Section0011%zh-hant.rst#Sg2
+.. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
+.. _《波羅夷》三: {filename}Section0010%zh-hant.rst#Pr3
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
