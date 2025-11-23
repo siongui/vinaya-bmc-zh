@@ -331,7 +331,7 @@
 
      - .. container:: notification
 
-          *如果任何比丘憤怒且不滿而打了（另一個）比丘，波逸提。*
+          *如果任何比丘憤怒且不滿而打了（另一位）比丘，波逸提。*
 
    * - The factors for the full offense here are three.
      - 構成完全違犯的因素有三點。
@@ -418,6 +418,48 @@
 .. _《僧殘》二: {filename}Section0011%zh-hant.rst#Sg2
 .. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
 .. _《波羅夷》三: {filename}Section0010%zh-hant.rst#Pr3
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
+.. _Pc75:
+
+.. raw:: html
+
+   <span id="Pc75"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **75**
+     - **七十五**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, angered and displeased, raise the palm of his hand against (another) bhikkhu, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘憤怒且不滿而向（另一位）比丘舉起手掌，波逸提。*
+
+   * - This rule is similar to the preceding one, differing only in the factor of effort: *Raising the palm of one’s hand* means raising any part of one’s body (the hand, the foot, etc.) or anything attached to the body (a stick, a rock, a gun, a bow and arrow) in a threatening manner.
+
+     - 這條戒條與前一條戒條類似，只是在努力因素上有所不同：\ *舉起手掌*\ 意味著以威脅的方式舉起身體的任何部位（手、腳等）或附著在身體上的任何東西（棍棒、石頭、槍、弓箭）。
+
+   * - The Commentary notes that if one intends only to raise one’s hand but then accidentally gives a blow, one incurs a dukkaṭa. The Sub-commentary, following the lead of the Old K/Sub-commentary, explains this in the only way that would make sense: One incurs the dukkaṭa for the blow, but a pācittiya for raising the hand in the first place.
+
+     - 《義註》指出，如果原本只想舉手，卻不小心打到了，犯《突吉羅》。《複註》遵循舊 K/《義註》的思路，以唯一合理的解釋來說明這一點：因打到而犯《突吉羅》，但因最初舉手而犯《波逸提》。
+
+   * - The Sub-commentary also notes that if an animal, for example, is making a mess and a bhikkhu raises his hand against it, this would be included under *desiring freedom*\—i.e., from the mess—and so would not be an offense. This explanation, however, would open a large loophole for a bhikkhu who wanted to justify raising his hand against another bhikkhu in any situation that he found displeasing. It would seem preferable to limit the allowance for one desiring freedom to cases where one is in physical danger.
+
+     - 《複註》也指出，例如，如果一隻動物弄得一團糟，比丘對其舉手，這屬於\ *渴望自由*\ ——即擺脫一團糟——因此不構成犯戒。然而，這種解釋會給比丘留下很大的漏洞，使他可以為自己在任何不愉快的情況下想要對其他比丘舉手的行為找到藉口。因此，似乎更可取的做法是，將渴望自由的開緣限制在人身安全受到危險的情況下。
+
+   * - *Summary: Making a threatening gesture against another bhikkhu when motivated by anger—except in self-defense—is a pācittiya offense.*
+     - *摘要：因憤怒而對其他比丘做出威脅性動作——自衛除外——是《波逸提》（《單墮》）罪。*
 
 
 .. container:: has-text-centered
