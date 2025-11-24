@@ -467,4 +467,52 @@
    \*    \*    \*
 
 
+.. _Pc76:
+
+.. raw:: html
+
+   <span id="Pc76"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **76**
+     - **七十六**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu charge a bhikkhu with an unfounded saṅghādisesa (offense), it is to be confessed.*
+
+     - .. container:: notification
+
+          *若任何比丘無根據而指控比丘犯《僧殘》罪，波逸提。*
+
+   * - Here again the factors for the full offense are three.
+     - 同樣，完全違犯的因素有三個。
+
+   * - .. container:: mx-2
+
+          *1) Object:* another bhikkhu.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 另一位比丘。
+
+   * - .. container:: mx-2
+
+          *2) Perception:* One has not seen, heard, or suspected him of committing the offense one is charging him with.
+
+     - .. container:: mx-2
+
+          *2）感知：*\ 沒有看到、聽到或懷疑他犯下了自己指控他的罪行。
+
+   * - .. container:: mx-2
+
+          *3) Effort:* One accuses him in his presence—or gets someone else to accuse him in his presence—of having committed a saṅghādisesa offense.
+
+     - .. container:: mx-2
+
+          *3）努力：*\ 當著他的面指控他，或讓別人當著他的面指控他，犯了《僧殘》罪。
+
 (未完待續)

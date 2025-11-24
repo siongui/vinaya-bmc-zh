@@ -134,10 +134,8 @@
 .. _九: {filename}Section0011%zh-hant.rst#Sg9
 .. _《波逸提》十三: {filename}Section0017%zh-hant.rst#Pc13
 .. _二四: {filename}Section0018%zh-hant.rst#Pc24
-.. _七六: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
-.. TODO FIXME: replace link to 《波逸提》七六
-.. _《波逸提》七六: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
-.. TODO FIXME: replace link to 《波逸提》七六
+.. _七六: {filename}Section0023%zh-hant.rst#Pc76
+.. _《波逸提》七六: {filename}Section0023%zh-hant.rst#Pc76
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

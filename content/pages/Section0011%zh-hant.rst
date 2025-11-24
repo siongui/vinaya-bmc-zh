@@ -1993,8 +1993,7 @@
 .. _Mv.II.16.3: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.16.1-3
 .. _《大品》.二.16.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0151a07
 .. _Pc 76: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
-.. _《波逸提》七六: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
-.. TODO FIXME: replace link to 《波逸提》七六
+.. _《波逸提》七六: {filename}Section0023%zh-hant.rst#Pc76
 .. _Mv.II.16.2: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.16.1-3
 .. _《大品》.二.16.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0151a04
 .. _《附隨》.十五.4.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_015/#0295a12
