@@ -515,4 +515,23 @@
 
           *3）努力：*\ 當著他的面指控他，或讓別人當著他的面指控他，犯了《僧殘》罪。
 
+   * - If one makes an unfounded charge accusing another bhikkhu of a defect in conduct or a defect in view, the penalty is a dukkaṭa. According to `Mv.IV.16.12`_, a *defect in conduct* means any offense of a thullaccaya or less; a *defect in view* means wrong view or a view holding to an extreme. The Commentary to Pv.VI.10 identifies *wrong view* as mundane wrong view as defined in `MN 117`_, and as classed as a defect in view in AN 3:117. The same Commentary identifies a *view holding to an extreme* as any one of the ten standpoints on which the Buddha refused to take a stand. See, e.g., `DN 9`_ and `MN 63`_. Although a defect in view is not automatically an offense, charging a bhikkhu with such a defect could lead the Community to interrogate him to see if the view warrants treatment under `Sg 10`_, `Pc 69`_, or the procedures leading up to censure.
+
+     - 若無根據指控另一位比丘行為或見解有缺陷，則懲罰是《突吉羅》。根據\ `《大品》.四.16.12`_\ ，\ *行為有缺陷*\ 是指任何《偷蘭遮》或更輕的犯戒；\ *見解有缺陷*\ 是指錯誤的見解或極端的見解。\ `《附隨》.六.10`_\ 的《義註》指出，\ *錯誤的見解*\ 是指\ `《中部》117經`_\ 中定義的世俗錯誤的見解，以及\ `《增支部》3:117經`_\ 中歸類的見解有缺陷。同一《義註》也指出，\ *極端的見解*\ 是指佛陀拒絕表明立場的十種觀點中的任何一種。例如，參見\ `《長部》9經`_\ 和\ `《中部》63經`_\ 。雖然見解有缺陷本身並非必然構成犯戒，但指控一位比丘有此缺陷可能會導致僧團對其進行訊問，以確定該見解是否應根據\ `《僧殘》十`_\ 、\ `《波逸提》六九`_\ 或導致呵責的程序進行處理。
+
+.. _Mv.IV.16.12: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.IV.16.12
+.. _MN 117: https://www.dhammatalks.org/suttas/MN/MN117.html
+.. _DN 9: https://www.dhammatalks.org/suttas/DN/DN09.html
+.. _MN 63: https://www.dhammatalks.org/suttas/MN/MN63.html
+.. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
+.. _Pc 69: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc69
+.. _《大品》.四.16.12: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_004/#0229a10
+.. _《附隨》.六.10: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N05n0003_006/#0219a14
+.. _《中部》117經: https://sutra.mobi/chilin/zhong/content/117.html
+.. _《增支部》3\:117經: https://sutra.mobi/chilin/zengzhi/content/03.html#%E4%B8%80%E4%B8%80%E4%B8%83%E9%8C%AF%E5%A4%B1%E4%B9%8B%E4%B8%89
+.. _《長部》9經: https://sutra.mobi/chilin/chang/content/09.html
+.. _《中部》63經: https://sutra.mobi/chilin/zhong/content/063.html
+.. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
+.. _《波逸提》六九: {filename}Section0022%zh-hant.rst#Pc69
+
 (未完待續)
