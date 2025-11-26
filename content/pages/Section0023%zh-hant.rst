@@ -519,6 +519,27 @@
 
      - 若無根據指控另一位比丘行為或見解有缺陷，則懲罰是《突吉羅》。根據\ `《大品》.四.16.12`_\ ，\ *行為有缺陷*\ 是指任何《偷蘭遮》或更輕的犯戒；\ *見解有缺陷*\ 是指錯誤的見解或極端的見解。\ `《附隨》.六.10`_\ 的《義註》指出，\ *錯誤的見解*\ 是指\ `《中部》117經`_\ 中定義的世俗錯誤的見解，以及\ `《增支部》3:117經`_\ 中歸類的見解有缺陷。同一《義註》也指出，\ *極端的見解*\ 是指佛陀拒絕表明立場的十種觀點中的任何一種。例如，參見\ `《長部》9經`_\ 和\ `《中部》63經`_\ 。雖然見解有缺陷本身並非必然構成犯戒，但指控一位比丘有此缺陷可能會導致僧團對其進行訊問，以確定該見解是否應根據\ `《僧殘》十`_\ 、\ `《波逸提》六九`_\ 或導致呵責的程序進行處理。
 
+   * - The Vibhaṅga states that there is also a dukkaṭa for making an unfounded charge accusing an unordained person—such as a bhikkhunī or a novice—of a defect in conduct or a defect in view.
+
+     - 《經分別》指出，無根據指控未受具足戒者（如比丘尼或沙彌）行為或見解有缺陷，也犯《突吉羅》。
+
+   * - As under `Pc 42`_, perception as to whether the person being charged is ordained is irrelevant to the offense.
+     - 如同\ `《波逸提》四二`_\ ，被指控的人是否受過具足戒的感知與犯戒無關。
+
+   * - The topic of unfounded charges is a complex one and has already been covered in detail under `Sg 8`_. Additional points may be inferred from the discussion of that rule, the differences being that intention is not a factor here, and the change in effort—one is accusing the other bhikkhu of a saṅghādisesa or lesser offense—changes the seriousness of the penalty.
+
+     - 無根據指控的話題很複雜，在\ `《僧殘》八`_\ 中已經詳細論述過。從該戒條的討論中可以推斷出一些其他要點，區別在於意圖在這裡不是一個因素，而且努力的變化——指控另一個比丘犯《僧殘》罪或較輕的罪行——會改變懲罰的嚴重程度。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - As under `Sg 8`_, there is no offense if one makes the accusation—or gets someone else to make it—when one thinks it to be true, even if the other bhikkhu is actually not guilty of the offense.
+
+     - 如同\ `《僧殘》八`_\ ，如果認為指控屬實（或讓別人指控）即使對方比丘實際上沒有犯下該罪行，也不構成犯戒。
+
+   * - *Summary: Making an unfounded charge to another bhikkhu—or getting someone else to make the charge to him—that he is guilty of a saṅghādisesa offense is a pācittiya offense.*
+     - *摘要：無根據指控另一位比丘（或讓別人指控他）犯有《僧殘》罪，是《波逸提》（《單墮》）罪。*
+
 .. _Mv.IV.16.12: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.IV.16.12
 .. _MN 117: https://www.dhammatalks.org/suttas/MN/MN117.html
 .. _DN 9: https://www.dhammatalks.org/suttas/DN/DN09.html
@@ -533,5 +554,13 @@
 .. _《中部》63經: https://sutra.mobi/chilin/zhong/content/063.html
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 .. _《波逸提》六九: {filename}Section0022%zh-hant.rst#Pc69
+.. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
