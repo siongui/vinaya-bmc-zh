@@ -563,4 +563,71 @@
    \*    \*    \*
 
 
+.. _Pc77:
+
+.. raw:: html
+
+   <span id="Pc77"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **77**
+     - **七十七**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu intentionally provoke anxiety in (another) bhikkhu, (thinking,) “This way, even for just a moment, he will have no peace”—doing it for just that reason and no other—it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘故意挑起（另一位）比丘的焦慮，（心想）「這樣，即使只是一瞬間，他也不會安寧」——僅僅因為這個原因而沒有其他原因——波逸提。*
+
+   * - The Vinaya-mukha’s explanation for this rule is worth quoting at length:
+     - 《戒律入口》對此戒條的解釋值得詳細引用：
+
+   * - .. container:: mx-2
+
+          “There are people who normally tend to be anxious about one thing or another…. If someone speaks to this sort of bhikkhu about contingencies that run counter to the Buddha’s ordinances and are impossible to know—e.g., ‘When you were ordained, how can you know that all the qualifications (for a valid Community transaction) were fulfilled? If they were lacking, doesn’t that mean you aren’t really ordained?’—even this is enough to set him worrying, giving him all sorts of anguish. A bhikkhu who is unrestrained and who—looking for fun with no concern for how his friends will suffer—takes such matters to tell them is penalized with a pācittiya in this rule.”
+
+     - .. container:: mx-2
+
+          「有些人天生就容易為這樣那樣的事情焦慮……如果有人跟這類比丘談論一些違背佛陀戒律且根本無法知曉的變數——例如，『你受具足戒的時候，怎麼知道所有（有效的僧團羯磨的）條件都具備了呢？如果缺少某些條件，那豈不是代表你沒真的受具足戒？』——即使只是這樣，也足以讓他憂慮，給他帶來各種各樣的痛苦。一位放縱自己的比丘，只顧找樂子，絲毫不顧及他的朋友會如何地痛苦，將此類事情告訴他們，則根據這條戒條，將受到《波逸提》的懲罰。」
+
+   * - The full offense here has four factors.
+     - 完全違犯有四個因素。
+
+   * - .. container:: mx-2
+
+          *1) Object:* another bhikkhu.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 另一位比丘。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One mentions that he might have broken a rule.
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 提到他可能違反了戒條。
+
+   * - .. container:: mx-2
+
+          *3) Result:* One provokes anxiety in him.
+
+     - .. container:: mx-2
+
+          *3）結果：*\ 引起了他的焦慮。
+
+   * - .. container:: mx-2
+
+          *4) Intention:* One’s motive is simply to cause him anxiety even if just for a moment.
+
+     - .. container:: mx-2
+
+          *4）意圖：*\ 動機只是為了讓他焦慮，哪怕只是一瞬間。
+
 (未完待續)

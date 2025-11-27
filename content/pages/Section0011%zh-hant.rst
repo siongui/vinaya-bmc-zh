@@ -179,8 +179,7 @@
 .. _Pc 77: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc77
 .. _《波羅夷》三: {filename}Section0010%zh-hant.rst#Pr3
 .. _《波逸提》六一: {filename}Section0022%zh-hant.rst#Pc61
-.. _《波逸提》七七: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc77
-.. TODO FIXME: replace link to 《波逸提》七七
+.. _《波逸提》七七: {filename}Section0023%zh-hant.rst#Pc77
 
 
 .. list-table::
