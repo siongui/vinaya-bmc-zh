@@ -642,13 +642,33 @@
 
    * - The Vibhaṅga illustrates these two factors together, saying, “One provokes anxiety (saying), ‘Perhaps you were ordained when less than twenty; perhaps you have eaten at the wrong time; perhaps you have drunk alcohol; perhaps you have sat down in private with a woman.’ Most of these possible offenses are ones that can be committed unknowingly, but the last one is not. However, it is close enough to an offense that the mention of the possibility of having done it unknowingly would cause an ignorant bhikkhu anxiety. Similarly, in the origin story, some group-of-six bhikkhus made insinuating remarks to the group of seventeen that because they were ordained when they were less than 20 years old, they were not really ordained. Yet, because the group of seventeen were the instigators for that rule, they were not subject to it. All of this shows that the factor of effort can be fulfilled by any statement one might make to another bhikkhu insinuating that he may have broken a rule, even if the action mentioned is not actually an offense.
 
-     - 《經分別》將這兩個因素一起闡釋，說道：「引發焦慮（說）：『或許你未滿二十歲就受具足戒了；或許你在非時吃了東西；或許你喝了酒；或許你曾與女子私下同坐。』這些罪過大多是無意中犯下的，但最後一項喝過酒；或許你曾與女子私下同坐。』這些可能的罪行大部分可以在不知不覺中犯下，但最後一條並非如此。然而，它與犯戒非常接近，提及可能在不知不覺的情況下做了這件事，會引起無明比丘的焦慮。同樣，在\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0200a13>`__\ 中，六群比丘曾暗示十七群比丘，因為他們受具足戒時未滿二十歲，所以不算真正受具足戒。然而，由於這十七群比丘是這條戒條的最初犯者，所以他們不受其約束。所有這些都表明，任何暗示另一位比丘其可能違反戒條的言論，即使所提及的行為本身並非真的犯戒，也能滿足「努力」這一因素。
+     - 《經分別》將這兩個因素一起闡釋，說道：「引發焦慮（說）：『或許你未滿二十歲就受具足戒了；或許你在非時吃了東西；或許你喝了酒；或許你曾與女子私下同坐。』這些可能的罪行大部分可以在不知不覺中犯下，但最後一條並非如此。然而，它與犯戒非常接近，提及可能在不知不覺的情況下做了這件事，會引起無明比丘的焦慮。同樣，在\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0200a13>`__\ 中，六群比丘曾暗示十七群比丘，因為他們受具足戒時未滿二十歲，所以不算真正受具足戒。然而，由於這十七群比丘是這條戒條的最初犯者，所以他們不受其約束。所有這些都表明，任何暗示另一位比丘其可能違反戒條的言論，即使所提及的行為本身並非真的犯戒，也能滿足「努力」這一因素。
 
    * - The Commentary underlines the need for the factor of result here by translating “provokes” as “generates.” In other words, anxiety has to arise in one’s listener as a result of one’s remarks, even if for a moment, for there to be an offense. This interpretation is seconded by the fact that the Vibhaṅga to `Pc 55`_, which is in some ways parallel to this rule, contains explicit statements to the effect that result is not a factor under that rule, whereas the Vibhaṅga to this rule contains no such statements.
 
      - 《義註》強調了結果因素在此的重要性，將「引發」譯為「產生」。換言之，即使只是片刻，只要聽者因自己的言語產生了焦慮，便可構成犯戒。這項解釋得到了以下事實的支持：與此戒條在某些方面相似的\ `《波逸提》五五`_\ 的《經分別》明確指出，結果並非該戒條的因素，而此戒條的《經分別》則沒有此類表述。
 
+   * - **Intention**
+     - **意圖**
+
+   * - *Intention* here is defined in the same terms used under `Pr 3`_, `Sg 1`_, and `Pc 61`_: “having willed, having made the decision knowingly and consciously.” In those rules, this phrase indicates that one’s intention has to be clear and unequivocal. Here, however, the wording of the training rule suggests that, to fulfill the factor of intention, one’s intention to cause anxiety has to be the sole motive for one’s statements. The non-offense clauses illustrate this point with the case where, not wanting to provoke anxiety, one says, “Perhaps you were ordained when less than twenty; perhaps you have eaten at the wrong time; perhaps you have drunk alcohol; perhaps you have sat down in private with a woman. Please look into it. Don’t suffer anxiety later.” It’s easy to anticipate that a bhikkhu hearing these remarks might suffer a moment of anxiety, but because one’s overriding purpose is to prevent greater anxiety at a later time—say, after he has become a preceptor and ordained many other bhikkhus, he discovers that his ordination was invalid—one incurs no offense in making these remarks in a timely and compassionate fashion.
+
+     - *意圖*\ 在此的定義與\ `《波羅夷》三`_\ 、\ `《僧殘》一`_\ 和\ `《波逸提》六一`_\ 中的定義相同：「有意願，明知且有意識地做出決定」。在這些戒條中，這一措辭表明意圖必須清晰明確。然而，此處的學處措辭表明，要滿足「意圖」這一因素，發表言論的唯一動機必須是造成焦慮。不犯條款透過以下例子說明了這一點：不想引起焦慮，說：「或許你未滿二十歲就受具足戒了；或許你在非時吃了東西；或許你喝了酒；或許你曾與女子私下同坐。請調查一下。別以後為此焦慮。」可以預見，比丘聽到這些話可能會感到焦慮，但因為首要目的是為了防止日後出現更大的焦慮——比如，在他成為戒師並為許多其他比丘授戒之後，他發現自己的受具足戒無效——所以及時、慈悲地提出這些話並不犯戒。
+
+   * - *Summary: Intentionally provoking anxiety in another bhikkhu that he may have broken a rule, when one has no other purpose in mind, is a pācittiya offense.*
+     - *摘要：故意引起另一位比丘的焦慮，讓他擔心自己可能違反了戒條，而且並無其他目的，是《波逸提》（《單墮》）罪。*
+
 .. _Pc 55: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc55
 .. _《波逸提》五五: {filename}Section0021%zh-hant.rst#Pc55
+.. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
+.. _《僧殘》一: {filename}Section0011%zh-hant.rst#Sg1
+.. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
+.. _《波逸提》六一: {filename}Section0022%zh-hant.rst#Pc61
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
