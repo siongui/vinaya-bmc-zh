@@ -671,4 +671,25 @@
    \*    \*    \*
 
 
+.. _Pc78:
+
+.. raw:: html
+
+   <span id="Pc78"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **78**
+     - **七十八**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu stand eavesdropping on bhikkhus when they are arguing, quarreling, and disputing, thinking, “I will overhear what they say”—doing it for just that reason and no other—it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘站著偷聽其他比丘爭論、爭吵、辯論，想著，「我要偷聽他們說什麼」，這樣做只因為該理由而無其他，波逸提。*
+
 (未完待續)
