@@ -692,4 +692,63 @@
 
           *如果任何比丘站著偷聽其他比丘爭論、爭吵、辯論，想著，「我要偷聽他們說什麼」，這樣做只因為該理由而無其他，波逸提。*
 
+   * - .. container:: mx-2
+
+          “Now at that time some group-of-six bhikkhus were quarreling with the well-behaved bhikkhus. The well-behaved bhikkhus (meeting among themselves) said, ‘These group-of-six bhikkhus are shameless. There’s no way you can quarrel with them.’
+
+     - .. container:: mx-2
+
+          「\ `其時，有六群比丘與品行端正的比丘們發生爭執。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0202a10>`_\ 品行端正的比丘們（聚在一起）說：『這六群比丘無慚愧，不能和他們爭吵。』」
+
+   * - .. container:: mx-2
+
+          “(Later,) the group-of-six bhikkhus said to them, ‘Why do you disgrace us by calling us shameless?’
+
+     - .. container:: mx-2
+
+          「（後來，）六群比丘對他們說：『你們為什麼稱我們無慚愧，使我們蒙羞呢？』
+
+   * - .. container:: mx-2
+
+          “‘But how did you overhear?’
+
+     - .. container:: mx-2
+
+          「『但是你們是怎麼偷聽到的？』
+
+   * - .. container:: mx-2
+
+          “‘We stood eavesdropping on you.’”
+
+     - .. container:: mx-2
+
+          「『我們當時站著偷聽你們說話。』」
+
+   * - The factors for the full offense here are three.
+     - 構成完全違犯的因素有三點。
+
+   * - .. container:: mx-2
+
+          *1) Object:* other bhikkhus who are involved in an argument over an issue.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 參與諍論的其他比丘們。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One stands eavesdropping on them,
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 站著偷聽他們說話，
+
+   * - .. container:: mx-2
+
+          *3) Intention:* with the purpose of using what they say against them, either as part of a formal accusation (charging, interrogating, counter-charging, or counter-interrogating them) or simply to make them feel abashed.
+
+     - .. container:: mx-2
+
+          *3）意圖：*\ 目的是利用他們所說的話來對付他們，無論是作為正式指控的一部分（指控、質疑、反指控或反質疑他們），還是僅僅為了讓他們感到羞愧。
+
 (未完待續)
