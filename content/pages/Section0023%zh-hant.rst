@@ -751,4 +751,39 @@
 
           *3）意圖：*\ 目的是利用他們所說的話來對付他們，無論是作為正式指控的一部分（指控、質疑、反指控或反質疑他們），還是僅僅為了讓他們感到羞愧。
 
+   * - **Object**
+     - **對象**
+
+   * - According to the Vibhaṅga, the words, *arguing, quarreling, and disputing* refer to arguments over issues (see `Pc 63`_). The Commentary says that this refers to one kind of issue—disputes—but accusations would appear to fit here as well.
+
+     - 根據《經分別》，\ *爭論、爭吵、辯論*\ 等字詞指的是圍繞著各種議題的諍論（參見\ `《波逸提》六三`_\ ）。《義註》指出，這指的是一種議題——諍論——但指控似乎也適用於此。
+
+   * - This factor is fulfilled regardless of whether the two parties in the dispute/accusation are confronting each other or—as in the origin story—one party is talking in private. It is also fulfilled regardless of whether one is already involved in the dispute oneself.
+
+     - 無論諍論/指控中的雙方是當面對質，還是像最初的故事那樣，一方私下交談，這一因素都成立。無論自己是否已牽涉入諍論，此因素也成立。
+
+   * - Bhikkhus involved in an argument are grounds for a pācittiya; unordained people involved in an argument, grounds for a dukkaṭa. The Vibhaṅga, in its references to bhikkhus as objects under this rule, switches back and forth between the singular and the plural. Thus even a single bhikkhu, involved in an argument with an unordained person, would be grounds for the full offense.
+
+     - 牽涉入諍論的比丘，構成《波逸提》；牽涉入諍論的未受具足戒者，構成《突吉羅》。在《經分別》中，比丘作為此戒條的對象時，單複數交替出現。因此，即使只有一位比丘，牽涉入與未受具足戒者的諍論，也構成完全違犯。
+
+   * - The role of perception here is the same as under `Pc 42`_.
+     - 感知在這裡的作用與\ `《波逸提》四二`_\ 下相同。
+
+   * - People who are not involved in an argument are not grounds for an offense. Thus there is no penalty in eavesdropping on a Dhamma talk or on a bhikkhu sitting in private with a woman, to see what they will say to each other.
+
+     - 未牽涉入諍論者，則不構成犯戒。因此，偷聽佛法開示或與女性私下坐著的比丘，看看他們互相說什麼，並不構成犯戒。
+
+.. _Pc 63: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc63
+.. _《波逸提》六三: {filename}Section0022%zh-hant.rst#Pc63
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga goes into a fair amount of detail on this factor, allotting the offenses as follows (assuming the other factors to be fulfilled as well):
+     - 《經分別》對此因素進行了相當詳細的闡述，並按如下方式劃分了罪行（假設其他因素也被滿足）：
+
 (未完待續)
