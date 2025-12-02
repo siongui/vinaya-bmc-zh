@@ -786,4 +786,55 @@
    * - The Vibhaṅga goes into a fair amount of detail on this factor, allotting the offenses as follows (assuming the other factors to be fulfilled as well):
      - 《經分別》對此因素進行了相當詳細的闡述，並按如下方式劃分了罪行（假設其他因素也被滿足）：
 
+   * - .. container:: mx-2
+
+          One goes with the purpose of eavesdropping on the other party (§): a dukkaṭa. One stays in one place eavesdropping on them: a pācittiya.
+
+     - .. container:: mx-2
+
+          前往是為了竊聽對方（§）：一次《突吉羅》。待在一處偷聽他們說話：一次《波逸提》。
+
+   * - .. container:: mx-2
+
+          One is walking behind the other party and speeds up one’s steps to overhear them: a dukkaṭa. One stays in one place eavesdropping on them: a pācittiya.
+
+     - .. container:: mx-2
+
+          走在對方身後，加快腳步想偷聽他們：一次《突吉羅》。待在一處偷聽他們說話：一次《波逸提》。
+
+   * - .. container:: mx-2
+
+          One is walking ahead of the other party and slows down to overhear them: a dukkaṭa. One stays in one place eavesdropping on them: a pācittiya.
+
+     - .. container:: mx-2
+
+          走在對方前面，放慢速度偷聽他們：一次《突吉羅》。待在一處偷聽他們說話：一次《波逸提》。
+
+   * - .. container:: mx-2
+
+          One comes to a place where a bhikkhu involved in discussion is sitting, standing, or lying down: One should cough, clear one’s throat, or otherwise let one’s presence be known. (The K/Commentary suggests saying, “I’m here.”) Not to do so entails a pācittiya.
+
+     - .. container:: mx-2
+
+          來到正在討論的比丘的地方，無論他是坐著、站著或躺著：都應該咳嗽、清嗓子，或以其他方式表明自己的存在。（ K/《義註》建議說：「我在這裡。」）不這樣做犯《波逸提》。
+
+   * - At present, surreptitiously reading another person’s mail would seem to fulfill this factor as well.
+     - 目前來看，偷偷閱讀他人的郵件似乎也符合此因素。
+
+   * - **Intention**
+     - **意圖**
+
+   * - According to the Vibhaṅga, there is no offense if one goes (to listen) with the motive, “having heard their (words), I will abstain, I will refrain, I will grow calm, I will free myself” (“by declaring my innocence,” says the Commentary) (§).
+
+     - 根據《經分別》，如果懷著這樣的動機去（聽）：「聽了他們的（話語）之後，我將節制，我將克制，我將增長冷靜，我將解脫自己」（《義註》說，「透過宣告我的清白」），那麼就沒有犯戒（§）。
+
+   * - *Summary: Eavesdropping on bhikkhus involved in an argument over an issue—with the intention of using what they say against them—is a pācittiya offense.*
+     - *摘要：偷聽比丘們就某個議題進行諍論，意圖利用他們所說的話來對付他們，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
