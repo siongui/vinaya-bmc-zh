@@ -441,8 +441,7 @@
 .. _Pc 79: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc79
 .. _80: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc80
 .. _BMC2, Chapters 12-22: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
-.. _《波逸提》七九: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc79
-.. TODO FIXME: replace link to 《波逸提》七九
+.. _《波逸提》七九: {filename}Section0023%zh-hant.rst#Pc79
 .. _八十: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc80
 .. TODO FIXME: replace link to 《波逸提》八十
 .. _《佛教比丘戒律 第二冊》第十二至二十二章: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12

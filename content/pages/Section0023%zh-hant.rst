@@ -837,4 +837,57 @@
    \*    \*    \*
 
 
+.. _Pc79:
+
+.. raw:: html
+
+   <span id="Pc79"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **79**
+     - **七十九**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, having given consent (by proxy) to a transaction carried out in accordance with the rule, later complain (about the transaction), it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘（透過代理人）同意依照戒條執行的羯磨，之後又抱怨（該羯磨），波逸提。*
+
+   * - .. container:: mx-2
+
+          “Now at that time some group-of-six bhikkhus were indulging in bad habits but protested when a transaction was being carried out against any one of their group. Then on one occasion the Community was meeting on some business or other, and the group-of-six bhikkhus, making robes, sent their consent with one of their members. Then the Community, (saying,) ‘Look, friends, this member of the group-of-six has come alone. Let’s carry out a transaction against him,’ did just that.
+
+     - .. container:: mx-2
+
+          「\ `其時，有六群比丘沉溺於不良習慣 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0204a11>`_\ ，但當對他們中之任一人執行羯磨時，他們提出抗議。後來有一次，僧團開會討論某事，六群比丘正在製作袈裟，並派他們成員其中一人來表示同意。然後，僧團（說）『看，朋友們，這六群中的這名成員獨自前來。讓我們對他執行羯磨』，然後就這麼做了。
+
+   * - .. container:: mx-2
+
+          “He then went to the group-of-six bhikkhus. They asked him, ‘What, friend, did the Community do?’”
+
+     - .. container:: mx-2
+
+          「然後他去找那六群比丘。他們問他：『朋友，僧團做了什麼？』」
+
+   * - .. container:: mx-2
+
+          “‘They carried out a transaction against me.’
+
+     - .. container:: mx-2
+
+          「『他們對我執行了羯磨。』
+
+   * - .. container:: mx-2
+
+          “‘That wasn’t what we gave our consent for, that they would carry out a transaction against you. If we had known that they would carry out a transaction against you, we wouldn’t have given our consent!’”
+
+     - .. container:: mx-2
+
+          「『我們當初同意的並不是讓他們對你執行羯磨。如果我們知道他們會對你執行羯磨，我們不會同意！』」
+
 (未完待續)
