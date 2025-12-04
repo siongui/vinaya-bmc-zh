@@ -890,4 +890,16 @@
 
           「『我們當初同意的並不是讓他們對你執行羯磨。如果我們知道他們會對你執行羯磨，我們不會同意！』」
 
+   * - **Transactions**
+     - **羯磨**
+
+   * - A transaction is a procedure by which a Community issues a statement to settle an issue (see `BMC2, Chapter 12`_). Cv.IV gives the pattern for such procedures, stating the minimum number of bhikkhus that have to be present for the transaction, the qualifications (positive or negative) of the individual or situation warranting the act, and the formal pattern for the statement—an announcement, a motion, a motion with one proclamation, or a motion with three proclamations—that constitutes the transaction. Thus the Vibhaṅga to this rule defines *transaction* as any of the four types of statements that form the heart of the transaction. A transaction carried out in accordance with these patterns is said to be carried out in accordance with the rule.
+
+     - 羯磨是指僧團透過發表聲明來解決議題的程序（參見\ `《佛教比丘戒律 第二冊》第十二章`_\ ）。\ `《小品》.四`_\ 規定了此類程序的模式，敘述羯磨所需的最低在場比丘人數、促成羯磨的個人或情況的資格（肯定或否定），以及構成羯磨的聲明的正式模式——公告\ :small:`[譯註：求聽羯磨 apalokana-kamma]`\ 、動議\ :small:`[譯註：單白羯磨 ñatti-kamma]`\ 、附有一次宣告的動議\ :small:`[譯註：白二羯磨 ñatti-dutiya-kamma]`\ 或附有三次宣告的動議\ :small:`[譯註：白四羯磨 ñatti-catuttha-kamma]`\ 。因此，本戒條的《經分別》將\ *羯磨*\ 定義為構成羯磨核心的四種聲明中的任何一種。依照這些模式進行的羯磨，即被稱為依照戒條執行。
+
+.. _BMC2, Chapter 12: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
+.. _《佛教比丘戒律 第二冊》第十二章: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十二章
+.. _《小品》.四: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/
+
 (未完待續)
