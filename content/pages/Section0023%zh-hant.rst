@@ -897,9 +897,23 @@
 
      - 羯磨是指僧團透過發表聲明來解決議題的程序（參見\ `《佛教比丘戒律 第二冊》第十二章`_\ ）。\ `《小品》.四`_\ 規定了此類程序的模式，敘述羯磨所需的最低在場比丘人數、促成羯磨的個人或情況的資格（肯定或否定），以及構成羯磨的聲明的正式模式——公告\ :small:`[譯註：求聽羯磨 apalokana-kamma]`\ 、動議\ :small:`[譯註：單白羯磨 ñatti-kamma]`\ 、附有一次宣告的動議\ :small:`[譯註：白二羯磨 ñatti-dutiya-kamma]`\ 或附有三次宣告的動議\ :small:`[譯註：白四羯磨 ñatti-catuttha-kamma]`\ 。因此，本戒條的《經分別》將\ *羯磨*\ 定義為構成羯磨核心的四種聲明中的任何一種。依照這些模式進行的羯磨，即被稱為依照戒條執行。
 
+   * - However, for a transaction to be valid and irreversible, it must be carried out not only in accordance with the rule but also by a complete assembly (`Mv.IX.2.4`_). This point is to prevent small factions from carrying out transactions as they like. When this point was first raised, the question arose, How many bhikkhus are needed for an assembly to be complete? All the bhikkhus in the world? All the bhikkhus in a particular monastery? The Buddha’s answer was, All the bhikkhus in a monastery, and he gave permission for the bhikkhus to mark out territories *(sīmā)* so as to determine who did and did not have to join in the transaction for the assembly to be complete (`Mv.II.5.2`_,`6.1`_,`12.7`_). Later, he gave permission that an ill bhikkhu living within the territory did not have to attend the meeting, but could give his consent by proxy, through word or gesture, and the assembly would still be regarded as complete (`Mv.II.23.1-2`_).
+
+     - 然而，羯磨要有效且不可逆轉，不僅必須按照戒條，而且必須由完整的集眾執行（\ `《大品》.九.2.4`_\ ）。這一點是為了防止小團體隨意執行羯磨。當這一點最初被提出時，問題便產生：究竟需要多少比丘才算一個完整的集眾？是全世界所有的比丘？還是某個特定寺院的所有比丘？佛陀的回答是：一個寺院的所有比丘。他允許比丘們劃分戒場\ *（sīmā）*\ ，以此來決定哪些人必須參與羯磨，哪些人不必參與，從而確保集眾的完整性（\ `《大品》.二.5.2`_\ 、\ `《大品》.二.6.1`_\ 、\ `《大品》.二.12.7`_\ ）。後來，他允許居住在該戒場內的生病比丘不必參加會議，但可以透過言語或示意動作代理表示同意，集眾仍會被視為完整（\ `《大品》.二.23.1-2`_\ ）。
+
 .. _BMC2, Chapter 12: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
 .. _《佛教比丘戒律 第二冊》第十二章: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十二章
 .. _《小品》.四: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/
+.. _Mv.IX.2.4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.IX.2.4
+.. _Mv.II.5.2: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.5.2
+.. _6.1: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#Mv.II.6.1-2
+.. _12.7: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#Mv.II.12.7
+.. _Mv.II.23.1-2: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.II.23.1-2
+.. _《大品》.九.2.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0409a08
+.. _《大品》.二.5.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0139a10
+.. _《大品》.二.6.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0140a11
+.. _《大品》.二.12.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0146a11
+.. _《大品》.二.23.1-2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0160a10
 
 (未完待續)
