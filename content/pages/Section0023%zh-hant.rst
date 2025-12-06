@@ -901,6 +901,13 @@
 
      - 然而，羯磨要有效且不可逆轉，不僅必須按照戒條，而且必須由完整的集眾執行（\ `《大品》.九.2.4`_\ ）。這一點是為了防止小團體隨意執行羯磨。當這一點最初被提出時，問題便產生：究竟需要多少比丘才算一個完整的集眾？是全世界所有的比丘？還是某個特定寺院的所有比丘？佛陀的回答是：一個寺院的所有比丘。他允許比丘們劃分戒場\ *（sīmā）*\ ，以此來決定哪些人必須參與羯磨，哪些人不必參與，從而確保集眾的完整性（\ `《大品》.二.5.2`_\ 、\ `《大品》.二.6.1`_\ 、\ `《大品》.二.12.7`_\ ）。後來，他允許居住在該戒場內的生病比丘不必參加會議，但可以透過言語或示意動作代理表示同意，集眾仍會被視為完整（\ `《大品》.二.23.1-2`_\ ）。
 
+   * - Thus a *complete assembly* is defined as follows: All the bhikkhus of common affiliation within the territory are either present at the meeting (sitting within hatthapāsa, or 1.25 meters of one another) or have given their consent by proxy, and no one—in the course of the transaction—makes a valid protest against its being carried out (`Mv.IX.3.5-6`_). (An invalid protest would be one made by someone who is not a bhikkhu, by a bhikkhu who is insane, possessed by a spirit, outside the territory, or suspended from the Community, or by the bhikkhu against whom the act is being carried out (`Mv.IX.4.7-8`_).)
+
+     - 因此，\ *完整的集眾*\ 定義如下：界場內所有共羯磨的比丘，若非親自出席會議（坐在伸手可及之處，即彼此間隔 1.25 公尺之內），就是藉由代理人給予同意，而且——在羯磨進行過程中——無人對其被執行提出有效的反對（\ `《大品》.九.3.5-6`_\ ）。（無效的反對是：由非比丘提出；精神錯亂、被邪靈附身、界場外、被僧團舉罪、或正對其執行羯磨的比丘提出（\ `《大品》.九.4.7-8`_\ ）。）
+
+   * - Before we go on to discuss this rule, there are a few added points concerning the origin story we should touch on:
+     - 在繼續討論這條戒條之前，我們還需要提及一些關於其起源故事的要點：
+
 .. _BMC2, Chapter 12: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
 .. _《佛教比丘戒律 第二冊》第十二章: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十二章
@@ -915,5 +922,9 @@
 .. _《大品》.二.6.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0140a11
 .. _《大品》.二.12.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0146a11
 .. _《大品》.二.23.1-2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0160a10
+.. _Mv.IX.3.5-6: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.IX.3.5
+.. _Mv.IX.4.7-8: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.IX.4.7
+.. _《大品》.九.3.5-6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0411a11
+.. _《大品》.九.4.7-8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0415a10
 
 (未完待續)
