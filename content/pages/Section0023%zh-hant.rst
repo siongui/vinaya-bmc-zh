@@ -903,10 +903,46 @@
 
    * - Thus a *complete assembly* is defined as follows: All the bhikkhus of common affiliation within the territory are either present at the meeting (sitting within hatthapāsa, or 1.25 meters of one another) or have given their consent by proxy, and no one—in the course of the transaction—makes a valid protest against its being carried out (`Mv.IX.3.5-6`_). (An invalid protest would be one made by someone who is not a bhikkhu, by a bhikkhu who is insane, possessed by a spirit, outside the territory, or suspended from the Community, or by the bhikkhu against whom the act is being carried out (`Mv.IX.4.7-8`_).)
 
-     - 因此，\ *完整的集眾*\ 定義如下：界場內所有共羯磨的比丘，若非親自出席會議（坐在伸手可及之處，即彼此間隔 1.25 公尺之內），就是藉由代理人給予同意，而且——在羯磨進行過程中——無人對其被執行提出有效的反對（\ `《大品》.九.3.5-6`_\ ）。（無效的反對是：由非比丘提出；精神錯亂、被邪靈附身、界場外、被僧團舉罪、或正對其執行羯磨的比丘提出（\ `《大品》.九.4.7-8`_\ ）。）
+     - 因此，\ *完整的集眾*\ 定義如下：界場內所有共羯磨的比丘，若非親自出席會議（坐在伸手可及之處，即彼此間隔 1.25 公尺之內），就是藉由代理人給予同意，而且——在羯磨進行過程中——無人對其被執行提出有效的抗議（\ `《大品》.九.3.5-6`_\ ）。（無效的抗議是：由非比丘提出；精神錯亂、被邪靈附身、界場外、被僧團舉罪、或正對其執行羯磨的比丘提出（\ `《大品》.九.4.7-8`_\ ）。）
 
    * - Before we go on to discuss this rule, there are a few added points concerning the origin story we should touch on:
      - 在繼續討論這條戒條之前，我們還需要提及一些關於其起源故事的要點：
+
+   * - .. container:: mx-2
+
+          1\) A protest does not need to be justified in order to count as valid. In other words, a bhikkhu can make protest simply because he doesn’t agree with the transaction, and his protest stands regardless of whether he can find any basis for it in the Dhamma and Vinaya.
+
+     - .. container:: mx-2
+
+          1）抗議無需提供正當理由即可被視為有效。換言之，比丘可以因為不認同該羯磨而提出抗議，無論他能否在法與律中找到任何依據，他的抗議都成立。
+
+   * - .. container:: mx-2
+
+          2\) One Community may not carry out a transaction against another Community (`Mv.IX.2.3`_). What this means is that they may carry it out against no more than three bhikkhus at a time. This is why the group-of-six bhikkhus were able to protect one another from being subject to a transaction, for there were usually more than three of them at any one meeting of the Community. Even though the ones against whom the transaction was being carried out had no right to protest, their friends did, and they took advantage of their right.
+
+     - .. container:: mx-2
+
+          2）一個僧團不得對另一個僧團執行羯磨（\ `《大品》.九.2.3`_\ ）。這意味著他們一次只能對不超過三位比丘執行羯磨。正因如此，六群比丘才能互相抗議，免於受到羯磨，因為僧團每次會議他們通常都有超過三位在場。即使被執行羯磨者無權抗議，他們的朋友也有，且他們行使了他們的權利。
+
+   * - .. container:: mx-2
+
+          3\) In the passage where the Buddha gives permission for bhikkhus to give their consent by proxy (`Mv.II.23.1-2`_), he states that this permission applies to ill bhikkhus. Yet in the origin stories to this rule and the following one, the group-of-six bhikkhus are not ill, they give their consent by proxy, and the transaction carried out with their consent is considered valid. None of the texts make note of this point, but it seems to indicate that *ill* in this context covers not only physical illness but also any other serious inconvenience that prevents one from joining in the meeting.
+
+     - .. container:: mx-2
+
+          3）在佛陀允許比丘藉由代理人給予同意的段落（\ `《大品》.二.23.1-2`_\ ）中，他指出此開緣適用於生病的比丘。然而，在這條戒條及其後一條戒條的起源故事中，六群比丘並非生病，他們藉由代理人給予同意，且經他們同意而執行的羯磨也被視為有效。所有文獻均未提及這一點，但這似乎表明，此脈絡下的「\ *生病*\ 」不僅涵蓋身體疾病，也包括任何其他嚴重不便之處，導致無法參加會議。
+
+   * - The factors for the offense under this rule are three.
+     - 本戒條下犯戒的因素有三點。
+
+   * - *1) Object:* a valid transaction to which one has given one’s consent.
+     - *1）對象：*\ 已給予本人同意的有效羯磨。
+
+   * - *2) Perception:* One perceives it as valid.
+     - *2）感知：*\ 認為它是有效的。
+
+   * - *3) Effort:* One complains about it.
+     - *3）努力：*\ 抱怨它。
 
 .. _BMC2, Chapter 12: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
 .. _《佛教比丘戒律 第二冊》第十二章: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
@@ -926,5 +962,7 @@
 .. _Mv.IX.4.7-8: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.IX.4.7
 .. _《大品》.九.3.5-6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0411a11
 .. _《大品》.九.4.7-8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0415a10
+.. _Mv.IX.2.3: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.IX.2.3
+.. _《大品》.九.2.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0409a05
 
 (未完待續)
