@@ -965,4 +965,69 @@
 .. _Mv.IX.2.3: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.IX.2.3
 .. _《大品》.九.2.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0409a05
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object & perception**
+     - **對象及感知**
+
+   * - The various permutations of these factors are as follows:
+     - 這些因素的各種組合如下：
+
+   * - .. container:: mx-2
+
+          a valid transaction that one perceives to be valid: grounds for a pācittiya;
+
+     - .. container:: mx-2
+
+          有效羯磨，而且認為它是有效的：構成《波逸提》；
+
+   * - .. container:: mx-2
+
+          an invalid transaction that one perceives to be valid: grounds for a dukkaṭa;
+
+     - .. container:: mx-2
+
+          無效羯磨，而且認為它是有效的：構成《突吉羅》；
+
+   * - .. container:: mx-2
+
+          a transaction that one is doubtful about, regardless of its actual validity: grounds for a dukkaṭa;
+
+     - .. container:: mx-2
+
+          對羯磨存疑，無論其實際有效性如何：構成《突吉羅》；
+
+   * - .. container:: mx-2
+
+          a transaction that one perceives to be invalid, regardless of its actual validity: grounds for no offense.
+
+     - .. container:: mx-2
+
+          即使羯磨本身有效，但認為該羯磨無效：不構成犯戒。
+
+   * - **Effort**
+     - **努力**
+
+   * - Any expression of displeasure with the transaction would fulfill this factor. If, however, one states that the transaction was not carried out in accordance with the rule, then regardless of whether one had given one’s consent, the case would fall under `Pc 63`_ rather than here.
+
+     - 任何對羯磨表示不滿的表達都符合此因素。但是，如果聲稱羯磨未按戒條執行，那麼無論是否給予同意，該情況都應適用\ `《波逸提》六三`_\ ，而非本戒條。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in complaining about the transaction if one perceives it as having been carried out not in accordance with the rule, by an incomplete assembly, or against someone who did not warrant such an act. This exemption holds even if the transaction was actually valid.
+
+     - 如果認為羯磨未依照戒條執行、由不完整的集眾執行，或者針對的是不該進行此羯磨的人，那麼抱怨該羯磨並不構成犯戒。即使該羯磨真的有效，這項豁免仍然適用。
+
+   * - *Summary: Complaining about a Community transaction to which one gave one’s consent—if one perceives the transaction as having been carried out in accordance with the rule—is a pācittiya offense.*
+     - *摘要：抱怨已給予自己同意的僧團羯磨——如果認為該羯磨是按照戒條執行的——是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
