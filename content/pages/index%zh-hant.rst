@@ -562,7 +562,7 @@
      - `\　　　七十九 <{filename}Section0023%zh-hant.rst#Pc79>`__
 
    * - `\　　　80 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc80>`__
-     - 　　　八十
+     - `\　　　八十 <{filename}Section0023%zh-hant.rst#Pc80>`__
 
    * - `\　　　81 <https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc81>`__
      - 　　　八十一

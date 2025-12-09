@@ -1030,4 +1030,36 @@
    \*    \*    \*
 
 
+.. _Pc80:
+
+.. raw:: html
+
+   <span id="Pc80"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **80**
+     - **八十**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, when deliberation is being carried on in the Community, get up from his seat and leave without having given consent, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘在僧團進行討論時，未給予同意便起座離開，波逸提。*
+
+   * - The origin story here is a sequel to the one for the preceding rule.
+     - 這裡的起源故事是前一條戒條起源故事的續篇。
+
+   * - .. container:: mx-2
+
+          “Now at that time the Community was meeting on some business or other, and the group-of-six bhikkhus, making robes, sent their consent with one of their members. Then the Community, thinking, ’We’ll carry out the transaction (against the one member of the group-of-six) that was our *real* purpose in meeting,’ set forth a motion. The bhikkhu—thinking, ‘It’s just in this way that these people carry out transactions against us one at a time. Well, who are you going to carry out *this* transaction against?’—without giving his consent, got up from his seat and left.”
+
+     - .. container:: mx-2
+
+          「\ `其時，僧團正在商議某事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0206a06>`_\ ，六群比丘，正在製作袈裟，派其中一位送去了他們的同意。然後，僧團心想：『我們開會的\ *真正*\ 目的，就是為了執行（針對那六群比丘中的一位）羯磨。』於是提出了一項動議\ :small:`[譯註：白文]`\ 。」該比丘——心想：『這些人就是這樣一次一位地對我們執行羯磨。那麼，你們要對誰執行\ *此*\ 羯磨呢？』——未給予他的同意，起座離開。
+
 (未完待續)
