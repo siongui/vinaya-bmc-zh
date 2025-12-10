@@ -1062,4 +1062,27 @@
 
           「\ `其時，僧團正在商議某事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0206a06>`_\ ，六群比丘，正在製作袈裟，派其中一位送去了他們的同意。然後，僧團心想：『我們開會的\ *真正*\ 目的，就是為了執行（針對那六群比丘中的一位）羯磨。』於是提出了一項動議\ :small:`[譯註：白文]`\ 。」該比丘——心想：『這些人就是這樣一次一位地對我們執行羯磨。那麼，你們要對誰執行\ *此*\ 羯磨呢？』——未給予他的同意，起座離開。
 
+   * - As explained under the preceding rule, a bhikkhu has no right to protest when the Community is carrying out a transaction against him. However, the Community may not carry out a transaction against a bhikkhu who is not in its midst (see `As 1`_), and any transaction is invalid if carried out when there is a bhikkhu within the territory who is not in the meeting and who has not given his consent. The bhikkhu in the origin story took advantage of these two principles to escape from the transaction’s being carried out against himself, and the Buddha then formulated this rule to impose a penalty on any bhikkhu who tried the same maneuver in the future.
+
+     - 如前一條戒條所述，當僧團對一位比丘執行羯磨時，他無權抗議。然而，僧團不得對不在其中的比丘執行羯磨（見\ `《滅諍》一`_\ ），且如果在界場內有比丘不在會議中且未給予其同意的情況下執行的任何羯磨均無效。在起源故事中的那位比丘正是利用這兩個原則逃脫了針對他的執行的羯磨，佛陀因此制定了這條戒條，以懲戒任何日後試圖故伎重演的比丘。
+
+   * - There are four factors for the full offense.
+     - 完全違犯有四個因素。
+
+   * - *1) Object:* a Community transaction that has been started but has yet to be finished, and is being carried out in a valid manner.
+     - *1）對象：*\ 已開始但尚未完成，且正在以有效方式執行的僧團羯磨。
+
+   * - *2) Perception:* One perceives it as being carried out in a valid manner.
+     - *2）感知：*\ 認為它是以有效的方式執行的。
+
+   * - *3) Intention:* One wants to invalidate the transaction or to keep the group from carrying it out.
+     - *3）意圖：*\ 想要使羯磨無效或阻止該團體執行之。
+
+   * - *4) Effort:* Without having first given one’s consent, one goes beyond *hatthapāsa* (1.25 m.) from the bhikkhus sitting in the meeting.
+     - *4）努力：*\ 未經先給予同意，離開正在會議裡坐著的比丘們，超過伸手可及之處（1.25 公尺）。
+
+.. _As 1: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As1
+.. _《滅諍》一: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As1
+.. TODO FIXME: replace link to 《滅諍》一
+
 (未完待續)
