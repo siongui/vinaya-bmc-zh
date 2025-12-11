@@ -1005,7 +1005,7 @@
 
      - .. container:: mx-2
 
-          即使羯磨本身有效，但認為該羯磨無效：不構成犯戒。
+          認為羯磨無效，無論其實際有效性如何：不構成犯戒。
 
    * - **Effort**
      - **努力**
@@ -1084,5 +1084,55 @@
 .. _As 1: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As1
 .. _《滅諍》一: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As1
 .. TODO FIXME: replace link to 《滅諍》一
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object & perception**
+     - **對象及感知**
+
+   * - The various permutations of these two factors are as follows:
+     - 這兩個因素的各種組合如下：
+
+   * - .. container:: mx-2
+
+          a valid transaction that one perceives to be valid: grounds for a pācittiya;
+
+     - .. container:: mx-2
+
+          有效羯磨，而且認為它是有效的：構成《波逸提》；
+
+   * - .. container:: mx-2
+
+          an invalid transaction that one perceives to be valid: grounds for a dukkaṭa;
+
+     - .. container:: mx-2
+
+          無效羯磨，而且認為它是有效的：構成《突吉羅》；
+
+   * - .. container:: mx-2
+
+          a transaction that one is doubtful about, regardless of its actual validity: grounds for a dukkaṭa;
+
+     - .. container:: mx-2
+
+          對羯磨存疑，無論其實際有效性如何：構成《突吉羅》；
+
+   * - .. container:: mx-2
+
+          a transaction that one perceives as invalid, regardless of its actual validity: grounds for no offense.
+
+     - .. container:: mx-2
+
+          認為羯磨無效，無論其實際有效性如何：不構成犯戒。
+
+   * - According to the Vibhaṅga, the time period covered by the factor of object begins at the point where the matter has been brought up in the Community—or a motion has been set forth—and ends when the Community’s decision has been announced.
+
+     - 根據《經分別》，對象因素所涵蓋的時間段從該事件在僧團中被提出（或動議\ :small:`[譯註：白文]`\ 被提出）開始，到僧團宣布決定為止。
+
+   * - The Commentary, in discussing this point, says that, in the case of an accusation, the point when the matter has been brought up is when both sides have stated their initial positions, and a bhikkhu has been authorized to cross-examine them. This, however, would open a loophole for an accused bhikkhu to avoid a penalty simply by leaving the meeting after being accused but before stating his case. Thus it would seem preferable to follow the Vibhaṅga here, holding that the time period even in an accusation would begin when the issue is first raised in a valid Community meeting.
+
+     - 《義註》在討論這一點時指出，在指控的情況下，事件被提出的時間點是雙方都陳述了各自的初步立場，並且有一位比丘被授權進行盤問之時。然而，這會使被指控的比丘有機可乘，只需在被指控後、陳述情況之前離開會議，即可逃避懲罰。因此，此處似乎最好遵循《經分別》，保持即使在指控的情況下，時間段也應從該議題首次在有效的僧團會議上提出之時開始計算。
 
 (未完待續)
