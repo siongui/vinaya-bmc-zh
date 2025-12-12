@@ -1135,4 +1135,38 @@
 
      - 《義註》在討論這一點時指出，在指控的情況下，事件被提出的時間點是雙方都陳述了各自的初步立場，並且有一位比丘被授權進行盤問之時。然而，這會使被指控的比丘有機可乘，只需在被指控後、陳述情況之前離開會議，即可逃避懲罰。因此，此處似乎最好遵循《經分別》，保持即使在指控的情況下，時間段也應從該議題首次在有效的僧團會議上提出之時開始計算。
 
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga divides the effort here into three parts and allots the penalties as follows:
+     - 《經分別》將此處的努力分為三個部分，並以以下方式分配懲罰：
+
+   * - .. container:: mx-2
+
+          One gets up to go: a dukkaṭa.
+
+     - .. container:: mx-2
+
+          起身要走：一次《突吉羅》。
+
+   * - .. container:: mx-2
+
+          One reaches the distance of one hatthapāsa from the meeting: another dukkaṭa.
+
+     - .. container:: mx-2
+
+          到達離會議一個 *hatthapāsa* （1.25 公尺）的距離：另一次《突吉羅》。
+
+   * - .. container:: mx-2
+
+          One passes beyond the distance of one *hatthapāsa*: a pācittiya.
+
+     - .. container:: mx-2
+
+          越過了一個 *hatthapāsa* （1.25 公尺）的距離：一次《波逸提》。
+
+   * - The K/Commentary adds that one must also remain within the territory *(sīmā)* for this factor to be fulfilled, but the Vibhaṅga makes no mention of this, and there seems no reason to adopt it. If we did adopt it, it would mean that if a transaction were being carried out against a bhikkhu, and he left both the meeting and the territory to avoid it, he would be committing no offense. Thus it seems better to stick with the Vibhaṅga and say that this factor is fulfilled when one goes beyond one hatthapāsa away from the meeting, regardless of whether one then continues to stay within the territory.
+
+     - K/《義註》補充說，為了滿足這一條件，還必須留在界場\ *（sīmā）*\ 內，但《經分別》並未提及這一點，而且似乎也沒有理由採納。如果我們採納這一說法，那就意味著如果正在對一位比丘執行羯磨，而他為了避免羯磨而離開了會議和界場，他就不會犯戒。因此，似乎最好還是堅持《經分別》的說法，即當離開會議超過一個 hatthapāsa 時，無論他之後是否繼續留在界場內，這一條件就已經滿足了。
+
 (未完待續)
