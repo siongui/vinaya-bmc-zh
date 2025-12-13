@@ -1169,4 +1169,59 @@
 
      - K/《義註》補充說，為了滿足這一條件，還必須留在界場\ *（sīmā）*\ 內，但《經分別》並未提及這一點，而且似乎也沒有理由採納。如果我們採納這一說法，那就意味著如果正在對一位比丘執行羯磨，而他為了避免羯磨而離開了會議和界場，他就不會犯戒。因此，似乎最好還是堅持《經分別》的說法，即當離開會議超過一個 hatthapāsa 時，無論他之後是否繼續留在界場內，這一條件就已經滿足了。
 
+   * - **Intention**
+     - **意圖**
+
+   * - There is no offense if, without giving one’s consent, one leaves the meeting for purposes other than to invalidate the transaction. Examples in the Vibhaṅga include:
+
+     - 如果未給予同意而離開會議，目的並非為了使羯磨無效，則不構成犯戒。《經分別》中的例子包括：
+
+   * - .. container:: mx-2
+
+          One is ill.
+
+     - .. container:: mx-2
+
+          生病。
+
+   * - .. container:: mx-2
+
+          One has to do something (e.g., prepare or give medicine) for one who is ill.
+
+     - .. container:: mx-2
+
+          必須為病人做些事（例如，準備或給予藥物）。
+
+   * - .. container:: mx-2
+
+          One is overcome with the need to urinate or defecate.
+
+     - .. container:: mx-2
+
+          被排尿或排便需求壓倒。
+
+   * - .. container:: mx-2
+
+          One leaves, without desiring to invalidate the transaction, with the thought, “I’ll come right back.”
+
+     - .. container:: mx-2
+
+          離開時並不想讓羯磨無效，心裡想著：「我很快就會回來。」
+
+   * - In all of these cases, though, if possible, it is best to give one’s consent before going.
+     - 不過，在所有這些情況下，如果可能的話，最好在前往之前先給予同意。
+
+   * - **Further action**
+     - **進一步行動**
+
+   * - A bhikkhu who has committed this offense would, under `Cv.IX.3`_, be subject to having his Pāṭimokkha canceled (see `BMC2, Chapter 15`_). This would provide the Community with the opportunity to look into his attitude and to take further disciplinary actions if it sees fit.
+
+     - 根據\ `《小品》.九.3`_\ ，犯下此戒的比丘將遭受《波羅提木叉》被取消（參見\ `《佛教比丘戒律 第二冊》第十五章`_\ ）。這將使僧團有機會審視其態度，並在認為適當時採取進一步的治罪措施。
+
+.. _Cv.IX.3: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.3.1
+.. _《小品》.九.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_019/#0323a01
+.. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. _《佛教比丘戒律 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十五章
+
 (未完待續)
