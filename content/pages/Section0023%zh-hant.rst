@@ -1260,4 +1260,25 @@
    \*    \*    \*
 
 
+.. _Pc81:
+
+.. raw:: html
+
+   <span id="Pc81"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **81**
+     - **八十一**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, (acting as part of) a united Community, give robe-cloth (to an individual bhikkhu) and later complain, “The bhikkhus allocate the Community’s gains according to friendship,” it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘（作為一員）在和合僧團給予（一位比丘）袈裟布，後來抱怨：「比丘們根據友誼分配僧團的收益」，波逸提。*
+
 (未完待續)
