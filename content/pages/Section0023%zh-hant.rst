@@ -1224,4 +1224,40 @@
 .. _《佛教比丘戒律 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十五章
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - In addition to the above cases, there is also no offense if one leaves a meeting without giving one’s consent with the purpose of invalidating the transaction if one perceives that:
+
+     - 除了上述情況外，如果認為有以下情況，則未給予同意就離開會議以使羯磨無效也不構成犯戒：
+
+   * - .. container:: mx-2
+
+          the transaction will lead to strife, quarreling, a dispute, a crack, or a split in the Community; or
+
+     - .. container:: mx-2
+
+          該羯磨將導致僧團內部的衝突、爭吵、糾紛、裂痕或分裂；或者
+
+   * - .. container:: mx-2
+
+          the transaction is being carried out not in accordance with the rule, by an incomplete assembly, or against/for a person who doesn’t warrant it.
+
+     - .. container:: mx-2
+
+          此羯磨未被如法執行，由不完整的集眾，或針對/為了不值得該羯磨者。
+
+   * - *Summary: Getting up and leaving a meeting of the Community in the midst of a valid transaction that one knows to be valid—without having first given one’s consent to the transaction and with the intention of invalidating it—is a pācittiya offense.*
+     - *摘要：在有效羯磨進行期間，明知羯磨有效，卻在未事先同意該羯磨的情況下起身離開僧團會議，意圖使該羯磨無效，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
