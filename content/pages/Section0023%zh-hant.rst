@@ -1281,4 +1281,26 @@
 
           *如果任何比丘（作為一員）在和合僧團給予（一位比丘）袈裟布，後來抱怨：「比丘們根據友誼分配僧團的收益」，波逸提。*
 
+   * - **Apportioning the Community’s gains**
+     - **分配僧團收益**
+
+   * - `Cv.VI.15.2`_ states that no one—not even the Community itself—can take any of the following items belonging to the Community and turn them over to individual ownership: monasteries or monastery land; dwellings or land on which dwellings are built; furnishings, such as couches, chairs, or mattresses; metal vessels or tools; building materials or articles made of pottery or wood. The collective term for these goods is *garubhaṇḍa:* heavy or expensive articles. (For a detailed discussion of these articles, see `BMC2, Chapter 7`_.) The penalty for handing any of the Community’s garubhaṇḍa over to individual ownership is a thullaccaya. In the origin story to `Pr 4`_, the Buddha states that a bhikkhu who gives the Community’s garubhaṇḍa to a lay person is one of the five great thieves in the world.
+
+     - `《小品》.六.15.2`_ 規定，任何人——甚至僧團本身——都不得將以下屬於僧團的物品轉為個人所有：寺院或寺院土地；住處或住處用地；家具，例如臥榻、椅子或床墊；金屬器皿或工具；建築材料或陶器、木製品。這些物品統稱為 *garubhaṇḍa* ：重或昂貴的物品。（關於這些物品的詳細討論，請參見\ `《佛教比丘戒律 第二冊》第七章`_\ 。）將僧團的任何 garubhaṇḍa 轉為個人所有的懲罰是《偷蘭遮》。在\ `《波羅夷》四`_\ 的起源故事中，佛陀指出，將僧團的 garubhaṇḍa 給予在家人的比丘，是世間五大盜之一。
+
+   * - Light or inexpensive articles *(lahubhaṇḍa)* belonging to the Community, though, may be turned over to individual ownership—of a bhikkhu or novice—but only when the proper procedures are followed. The usual pattern is to appoint a Community official, through a Community transaction, to be responsible for ensuring that such items be distributed fairly to the members of the Community eligible to receive them. Such officials include distributors of robe-cloth, of food, of fruit, and of non-staple foods; and dispensers of small accessories, such as scissors, sandals, water strainers, etc. (see `BMC2, Chapter 18`_).
+
+     - 屬於僧團的輕或非昂貴物品\ *（lahubhaṇḍa）*\ 可以移交給個人所有——比丘或沙彌——但前提是必須遵循適當的程序。通常的做法是透過僧團羯磨指定一名僧團執事，負責確保此類物品公平地分配給有資格接受的僧團成員。這些執事包括袈裟布、食物、水果和副食的分配者；以及諸如剪刀、涼鞋、濾水器等小配件的分發者（參見\ `《佛教比丘戒律 第二冊》第十八章`_\ ）。
+
+.. _Cv.VI.15.2: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Cv.VI.15.2
+.. _《小品》.六.15.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0231a01
+.. _BMC2, Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
+.. _《佛教比丘戒律 第二冊》第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第七章
+.. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
+.. _《波羅夷》四: {filename}Section0010%zh-hant.rst#Pr4
+.. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. _《佛教比丘戒律 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十八章
+
 (未完待續)
