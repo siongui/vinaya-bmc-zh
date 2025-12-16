@@ -1292,6 +1292,37 @@
 
      - 屬於僧團的輕或非昂貴物品\ *（lahubhaṇḍa）*\ 可以移交給個人所有——比丘或沙彌——但前提是必須遵循適當的程序。通常的做法是透過僧團羯磨指定一名僧團執事，負責確保此類物品公平地分配給有資格接受的僧團成員。這些執事包括袈裟布、食物、水果和副食的分配者；以及諸如剪刀、涼鞋、濾水器等小配件的分發者（參見\ `《佛教比丘戒律 第二冊》第十八章`_\ ）。
 
+   * - In the origin story to `Pc 41`_, the Community receives a large amount of non-staple food, so much that the Buddha instructs Ānanda to share the excess among those who live off leftovers. Some Communities have taken this as a precedent for taking excess perishable items belonging to the Community and distributing them among the poor.
+
+     - 在\ `《波逸提》四一`_\ 的起源故事中，僧團收到了大量的副食，多到佛陀指示阿難將多餘的食物分給那些靠剩飯剩菜度日的人。有些僧團以此為先例，將僧團多餘的易腐物品分送給窮人。
+
+   * - In addition, this training rule shows that a Community acting as a whole may take lahubhaṇḍa articles belonging to it and turn them over to individual bhikkhus or novices. (According to the K/Commentary to `Pc 79`_, this can be done with a simple announcement *(apalokana)*, although the kaṭhina ceremony, which would fall under this general category, follows the pattern of a motion with one announcement.) A typical example, apart from the kaṭhina, would be if the Community receives a particularly fine piece of cloth and, instead of cutting it up to share the pieces out among its members, decides to present the entire piece to one of its members who has been especially helpful to the group. This is one way in which the Community may reward a Community official for his services.
+
+     - 此外，這條學處表明，僧團作為一個整體，可以把屬於僧團的 lahubhaṇḍa 物品交給予個別比丘或沙彌。（根據\ `《波逸提》七九`_\ 的 K/《義註》，這可以透過簡單的求聽\ *（apalokana）*\ 完成，儘管屬於這一通用範疇的功德衣（kaṭhina）儀式遵循的是以一白一羯磨\ :small:`[譯註：白二羯磨]`\ 的形式。）除了功德衣之外，一個典型的例子是，如果僧團收到一塊特別好的布料，不將其裁剪後分給成員，而是決定將整塊贈送給一位對團體特別有幫助的成員。這是僧團獎勵僧團執事服務的一種方式。
+
+   * - Any member of the Community who disagrees with such a decision may prevent it from happening by protesting during the announcement. The purpose of this rule is to prevent members of the Community from complaining after they have taken part in such a decision that the Community was acting out of favoritism.
+
+     - 任何僧團成員如不同意該決定，均可在求聽過程中提出抗議，阻止其生效。此戒條旨在防止僧團成員在參與決定後抱怨僧團出於偏袒而行事。
+
+   * - The factors for the full offense are two.
+     - 構成完全違犯的因素有二。
+
+   * - .. container:: mx-2
+
+          *1) Object:* One has acted as part of a united Community that has given robe-cloth to a bhikkhu who has been chosen, through a prior Community transaction, to be a Community official.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 作為和合僧團的一份子，向一位比丘給予了袈裟布，該比丘通過先前的僧團羯磨被選為僧團執事。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One complains afterward that the Community acted out of favoritism.
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 事後抱怨僧團是出於偏袒而行事。
+
 .. _Cv.VI.15.2: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#Cv.VI.15.2
 .. _《小品》.六.15.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0231a01
 .. _BMC2, Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
@@ -1302,5 +1333,9 @@
 .. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
 .. _《佛教比丘戒律 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十八章
+.. _Pc 41: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc41
+.. _《波逸提》四一: {filename}Section0020%zh-hant.rst#Pc41
+.. _Pc 79: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc79
+.. _《波逸提》七九: #Pc79
 
 (未完待續)
