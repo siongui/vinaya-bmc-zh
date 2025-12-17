@@ -1338,4 +1338,53 @@
 .. _Pc 79: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc79
 .. _《波逸提》七九: #Pc79
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - *Acting as part of a united Community* means that one is in affiliation with the Community that handed over the cloth, and that one was in the same territory with them: i.e., one was either in the meeting or had given one’s consent to it.
+
+     - *作為和合僧團的一份子*\ ，意味著與給予布料的僧團共羯磨，並且與他們處於同一界場：也就是說，若非參加了會議，就是給予其同意。
+
+   * - *Robe-cloth* means a piece of any of the six kinds of allowable cloth, measuring at least four by eight fingerbreadths.
+     - *袈裟布*\ 是指六種允許的布料中的任何一種，其尺寸至少為四指寬乘八指寬。
+
+   * - The various permutations of articles and recipients are as follows:
+     - 物品和接受者的各種組合如下：
+
+   * - .. container:: mx-2
+
+          Complaining when the Community has given robe-cloth to a Community official: a pācittiya.
+
+     - .. container:: mx-2
+
+          當僧團給予僧團執事袈裟布時抱怨：一次《波逸提》。
+
+   * - .. container:: mx-2
+
+          Complaining when the Community has given any other light article to a Community official: a dukkaṭa.
+
+     - .. container:: mx-2
+
+          當僧團給予僧團執事任何其他輕物品時抱怨：一次《突吉羅》。
+
+   * - .. container:: mx-2
+
+          Complaining when the Community has given any light article—cloth or otherwise—to a bhikkhu who is not a Community official: a dukkaṭa.
+
+     - .. container:: mx-2
+
+          當僧團將任何輕物品（布料或其他）給予非僧團執事的比丘時抱怨：一次《突吉羅》。
+
+   * - .. container:: mx-2
+
+          Complaining when the Community has given any light article—cloth or otherwise—to a novice, whether authorized as a Community official or not: a dukkaṭa.
+
+     - .. container:: mx-2
+
+          當僧團將任何輕物品（布料或其他）給予沙彌時抱怨，無論其是否被授權擔任僧團執事：一次《突吉羅》。
+
 (未完待續)
