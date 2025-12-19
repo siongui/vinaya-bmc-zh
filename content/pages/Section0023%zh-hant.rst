@@ -1394,4 +1394,15 @@
 .. _Pc 13: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc13
 .. _《波逸提》十三: {filename}Section0017%zh-hant.rst#Pc13
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - This factor is fulfilled by any expression of personal displeasure with the Community in regard to its distribution of requisites. If, however, one accuses the Community of having carried out the transaction improperly—not in accordance with the rule, or with an incomplete assembly—the case would come not here, but under `Pc 63`_.
+
+     - 任何人對僧團分配必需品表達個人不滿，均滿足此因素。然而，如果指控僧團執行羯磨不當－未依照戒條，或集眾不完整——則該情況不屬於此，而應依據\ `《波逸提》六三`_\ 處理。
+
 (未完待續)
