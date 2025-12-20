@@ -1570,8 +1570,7 @@
 .. _AN 3\:58: https://www.dhammatalks.org/suttas/AN/AN3_58.html
 .. _Pc 82: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
 .. _《增支部》3\:58經: https://sutra.mobi/zcj/zengzhi/content/0481.html
-.. _《波逸提》八二: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
-.. TODO FIXME: replace link to 《波逸提》八二
+.. _《波逸提》八二: {filename}Section0023%zh-hant.rst#Pc82
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

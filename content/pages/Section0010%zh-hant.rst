@@ -312,8 +312,7 @@
 .. _NP 30: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
 .. _Pc 82: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
 .. _《捨墮》三十: {filename}Section0015%zh-hant.rst#NP30
-.. _《波逸提》八二: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
-.. TODO FIXME: replace link to 《波逸提》八二
+.. _《波逸提》八二: {filename}Section0023%zh-hant.rst#Pc82
 .. _支提: https://zh.wikipedia.org/wiki/%E6%94%AF%E6%8F%90_(%E5%BB%BA%E7%AD%91)
 .. _康提: https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%8F%90
 .. _佛牙: https://zh.wikipedia.org/wiki/%E4%BD%9B%E7%89%99%E5%AF%BA

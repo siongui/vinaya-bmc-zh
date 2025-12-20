@@ -1421,4 +1421,32 @@
    \*    \*    \*
 
 
-(未完待續)
+.. _Pc82:
+
+.. raw:: html
+
+   <span id="Pc82"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **82**
+     - **八十二**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu knowingly divert to an individual gains that had been allocated for a Community, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘明知地將已被分配給僧團的利益挪為個人所有，波逸提。*
+
+   * - This rule has already been explained under `NP 30`_.
+     - 這條戒條已經在\ `《捨墮》三十`_\ 中解釋過了。
+
+   * - *Summary: Persuading a donor to give to another individual a gift that he or she had planned to give to a Community—when one knows that it was intended for the Community—is a pācittiya offense.*
+     - *摘要：勸說施主將原本打算給予僧團的布施轉而給予另一個人——當明知該布施原本是打算給僧團的——是《波逸提》（《單墮》）罪。*
+
+.. _NP 30: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
+.. _《捨墮》三十: {filename}Section0015%zh-hant.rst#NP30
