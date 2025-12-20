@@ -1405,4 +1405,20 @@
 
      - 任何人對僧團分配必需品表達個人不滿，均滿足此因素。然而，如果指控僧團執行羯磨不當－未依照戒條，或集眾不完整——則該情況不屬於此，而應依據\ `《波逸提》六三`_\ 處理。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The Vibhaṅga says that if the recipient of the article acts out of habitual favoritism, anger, delusion, or fear, there is no offense in complaining, “What’s the use of giving it to him? Even having received it, he’ll ruin it; he won’t take proper care of it.” This is an extension of the non-offense clause under `Pc 13`_, in which one is allowed to complain about a community official who acts out of any of the four bases for bias. Thus this exemption applies here both before and after the Community gives the article to the individual in question. As an application of the exemption under `Pc 13`_, one can complain before the Community transaction that the recipient is unqualified to receive the article. This would put a halt to the transaction. As an application of the exemption under `Pc 63`_, one can complain after the transaction that the recipient was a poor choice because his habitual favoritism, anger, delusion, or fear means that he was unqualified to be given the article. This would mean that the Community transaction was invalid to begin with, and so one is entitled to complain.
+
+     - 《經分別》指出，如果物品的接受者出於慣常的偏袒、憤怒、愚癡或恐懼而行事，那麼抱怨「把東西給他有什麼用？即使收到了，他也會毀壞它；他不會妥善保管。」並不構成犯戒。這是\ `《波逸提》十三`_ 中不犯條款的延伸，該條款允許抱怨出於四種偏見中的任何一種而行事的僧團執事。因此，這項豁免在此適用於僧團將物品給予相關個人之前和之後。作為\ `《波逸提》十三`_\ 中豁免條款的應用，可以在僧團羯磨之前抱怨接受者不具備接受物品的資格。這將導致羯磨中止。作為\ `《波逸提》六三`_ 中豁免條款的應用，可以在羯磨之後抱怨接受者是一個糟糕的選擇，因為他慣常的偏袒、憤怒、愚癡或恐懼意味著他不具備被給予物品的資格。這意味著該僧團羯磨從一開始就是無效的，因此有權提出抱怨。
+
+   * - *Summary: After participating in a Community transaction giving robe-cloth to a Community official: Complaining that the Community acted out of favoritism is a pācittiya offense.*
+     - *摘要：參與僧團羯磨，給予僧團執事袈裟布後：抱怨僧團出於偏袒而行事，是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
