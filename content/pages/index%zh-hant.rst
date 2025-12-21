@@ -571,10 +571,10 @@
      - `\　　　八十二 <{filename}Section0023%zh-hant.rst#Pc82>`__
 
    * - `\　　Nine: The Valuable Chapter <https://www.dhammatalks.org/vinaya/bmc/Section0024.html>`__
-     - 　　第九 寶品
+     - `\　　第九 寶品 <{filename}Section0024%zh-hant.rst>`__
 
    * - `\　　　83 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc83>`__
-     - 　　　八十三
+     - `\　　　八十三 <{filename}Section0024%zh-hant.rst#Pc83>`__
 
    * - `\　　　84 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84>`__
      - `\　　　八十四 <{filename}Section0024%zh-hant.rst#Pc84>`__

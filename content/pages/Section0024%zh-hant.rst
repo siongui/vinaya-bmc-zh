@@ -1,8 +1,8 @@
 第九 寶品
 =========
 
-:tags: 《波逸提》
-:summary: 《波逸提》, 第九 寶品
+:tags: 《波逸提》, 《單墮》
+:summary: 《波逸提》 《單墮》, 第九 寶品
 :status: hidden
 :og_image: {static}/extra/Dharma_wheel.png
 :orig_eng_link: https://www.dhammatalks.org/vinaya/bmc/Section0024.html
@@ -10,6 +10,41 @@
 .. role:: small
    :class: is-size-7
 
+
+.. _Pc_ChNine:
+
+.. raw:: html
+
+   <span id="Pc_ChNine"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Nine: The Valuable Chapter**
+     - **第九 寶品**
+
+
+.. _Pc83:
+
+.. raw:: html
+
+   <span id="Pc83"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **83**
+     - **八十三**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, unannounced beforehand, cross the threshold of a consecrated noble king’s (sleeping chamber) from which the king has not left, from which the valuable (the queen) has not withdrawn, it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘，未經事先通知，跨過神聖高貴國王（寢宮）的門檻，而國王尚未離開，寶貴（王后）也尚未撤離，波逸提。*
 
 (未完待續)
 
