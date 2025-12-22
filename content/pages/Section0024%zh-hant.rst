@@ -46,6 +46,25 @@
 
           *如果任何比丘，未經事先通知，跨過神聖高貴國王（寢宮）的門檻，而國王尚未離開，寶貴（王后）也尚未撤離，波逸提。*
 
+   * - .. container:: mx-2
+
+          “As he was sitting to one side, King Pasenadi of Kosala said to the Blessed One, ‘It would be good, venerable sir, if the Blessed One would appoint a bhikkhu to teach Dhamma in our harem’…. So the Blessed One addressed Ven. Ānanda, ‘In that case, Ānanda, go teach Dhamma in the king’s harem.’
+
+     - .. container:: mx-2
+
+          「\ `他坐在一旁時，拘薩羅國波斯匿王對世尊說 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0214a05>`_\ ：『大德，如果世尊能指派一位比丘到我們後宮說法，那就太好了…』於是世尊對阿難尊者說：『既然如此，阿難，你去國王的後宮說法吧。』
+
+   * - .. container:: mx-2
+
+          “Responding, ‘As you say, venerable sir,’ Ven. Ānanda entered the king’s harem time and again to teach Dhamma. Then (one day) Ven. Ānanda, dressing early in the morning, taking his bowl and (outer) robe, went to King Pasenadi’s palace. At that time King Pasenadi was lying on a couch with Queen Mallikā. Queen Mallikā saw Ven. Ānanda coming from afar and, on seeing him, got up hurriedly. Her cloth of burnished gold slipped off. Ven. Ānanda turned around and went back to the monastery.”
+
+     - .. container:: mx-2
+
+          「尊者阿難答道：『如你所說，大德。』尊者阿難多次進入國王的後宮說法。後來（有一天），尊者阿難清晨著裝，帶著他的缽和（外）衣，前往波斯匿王的宮殿。當時，波斯匿王正與摩利王后躺在臥榻上。摩利王后遠遠地看見阿難尊者走過來，便急忙起身，金光閃閃的衣袍滑落下來。阿難尊者轉身返回了寺院。」
+
+   * - The factors for the full offense here are two: object and effort.
+     - 構成完全違犯的因素有二：對象和努力。
+
 (未完待續)
 
 
