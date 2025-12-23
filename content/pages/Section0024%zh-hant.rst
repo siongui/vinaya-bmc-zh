@@ -65,6 +65,61 @@
    * - The factors for the full offense here are two: object and effort.
      - 構成完全違犯的因素有二：對象和努力。
 
+   * - **Object**
+     - **對象**
+
+   * - A king—a consecrated (“crowned” in Western terms) member of the noble warrior class, pure in his lineage through the past seven generations—is in his sleeping chamber with his queen. *Sleeping chamber* means any place where his bed is prepared, even if it is outside, surrounded only by a curtain or screen wall (as was the custom on royal excursions in those days, a custom often depicted in murals on the walls of Thai temples).
+
+     - 一位國王——一位神聖（用西方術語來說是「加冕」）的貴族武士階層\ :small:`[譯註:剎帝利]`\ 成員，其血統在過去七代中保持純正——正與他的王后在他的寢宮中。\ *寢宮*\ 指的是任何鋪好床的地方，即使是在室外，僅用帷幔或屏風牆圍起來（就像當時皇家出遊時的習俗一樣，這種習俗經常在泰國寺廟牆壁上的壁畫中描繪）。
+
+   * - **Effort**
+     - **努力**
+
+   * - If, unannounced, one steps over the threshold of the sleeping chamber with one foot, the penalty is a dukkaṭa; when both feet are over the threshold, a pācittiya. Perception as to whether one has been announced is not a mitigating factor here (see `Pc 4`_).
+
+     - 若未經通知，單腳踏入寢室門檻，懲罰是《突吉羅》；若雙腳踏入門檻，懲罰是《波逸提》。在此，是否已事先通知的感知在此並非減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if—
+     - 不構成犯戒，如果——
+
+   * - .. container:: mx-2
+
+          one has been announced,
+
+     - .. container:: mx-2
+
+          已通知，
+
+   * - .. container:: mx-2
+
+          the king is not a member of the noble warrior class or has not been consecrated,
+
+     - .. container:: mx-2
+
+          國王並非貴族武士階級\ :small:`[譯註:剎帝利]`\ 成員，或者沒有接受過加冕儀式，
+
+   * - .. container:: mx-2
+
+          either the king or the queen has left the sleeping chamber, or
+
+     - .. container:: mx-2
+
+          國王或王后離開了寢宮，或者
+
+   * - .. container:: mx-2
+
+          the room is not a sleeping chamber.
+
+     - .. container:: mx-2
+
+          該房間不是寢宮。
+
+.. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
+.. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
+
 (未完待續)
 
 
