@@ -117,10 +117,92 @@
 
           該房間不是寢宮。
 
+   * - Obviously, there is little chance that a bhikkhu will break this rule at present. However, in the course of formulating the rule, the Buddha mentioned ten dangers for a bhikkhu who enters the king’s inner palace even at the king’s request, and some of these dangers still apply to any situation in which a bhikkhu is on familiar terms with a person of influence, royal or not:
+
+     - 顯然，目前比丘違反此戒條的可能性很小。然而，佛陀在制定此戒條時，曾提及比丘即使應國王之邀進入國王內宮，也會面臨\ `十種危險 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0215a02>`_\ 。其中一些危險至今仍然適用於比丘與有影響力的人物（無論是否為王室成員）關係密切的任何情況：
+
+   * - .. container:: mx-2
+
+          1\) “‘There is the case where the king is on a couch together with the queen. A bhikkhu enters there. Either the queen, seeing the bhikkhu, smiles; or the bhikkhu, seeing the queen, smiles. The thought occurs to the king, “Surely they’ve done it, or are going to do it”….
+
+     - .. container:: mx-2
+
+          1）「有這樣一個場景：國王和王后同在臥榻上。一位比丘走了進來。若非王后看到比丘後微笑；就是比丘看到王后後微笑。國王心想：『他們肯定已經做了，或者即將要做』…
+
+   * - .. container:: mx-2
+
+          2\) “‘And furthermore, the king is busy, with much to do. Having gone to a certain woman, he forgets about it. On account of that, she conceives a child. The thought occurs to him, “No one enters here but the one gone forth. Could this be the work of the one gone forth?”….
+
+     - .. container:: mx-2
+
+          2）「此外，國王繁忙有許多事要做。他去到了某一位女子處，卻忘記了此事。結果，那女子懷了孕。他心想：『除了那位出家人，沒有人能進來。這會不會是那位出家人所為？』…
+
+   * - .. container:: mx-2
+
+          3\) “‘And furthermore, some valuable in the king’s inner palace disappears. The thought occurs to the king, “No one enters here but the one gone forth. Could this be the work of the one gone forth?”….
+
+     - .. container:: mx-2
+
+          3）「此外，國王內宮裡的一些貴重物品不翼而飛。國王心想：『除了那位出家人，沒有人能進來。這會不會是那位出家人所為？』…
+
+   * - .. container:: mx-2
+
+          4\) “‘And furthermore, secret consultations in the confines of the inner palace get spread abroad. The thought occurs to the king, “No one enters here but the one gone forth. Could this be the work of the one gone forth?”….
+
+     - .. container:: mx-2
+
+          4）「此外，宮廷內部的秘密磋商傳到外面去。國王心想：『除了那位出家人，沒有人能進來。這會不會是那位出家人所為？』…
+
+   * - .. container:: mx-2
+
+          5\) “‘And furthermore, in the king’s inner palace the son is estranged from the father, or the father from the son. The thought occurs to them, “No one enters here but the one gone forth. Could this be the work of the one gone forth?”….
+
+     - .. container:: mx-2
+
+          5）「此外，在國王的內宮裡，兒子與父親疏遠失和，或父親與兒子疏遠失和。他們心想：『除了那位出家人，沒有人能進來。這會不會是那位出家人所為？』…
+
+   * - .. container:: mx-2
+
+          6 & 7\) “‘And furthermore, the king establishes one from a low position in a high position… (or) one from a high position in a low position. The thought occurs to those displeased by this, “The king is on familiar terms with one gone forth. Could this be the work of the one gone forth?”….
+
+     - .. container:: mx-2
+
+          6和7）「此外，國王置地位低者於高位…（或）置地位高者於低位。對此不滿者心想：『國王與一位出家人關係密切。這會不會是那位出家人所為？』…
+
+   * - .. container:: mx-2
+
+          8\) “‘And furthermore, the king sends the army out at the wrong time. The thought occurs to those displeased by this, “The king is on familiar terms with one gone forth. Could this be the work of the one gone forth?”….
+
+     - .. container:: mx-2
+
+          8）「此外，國王派軍的時機不對。對此不滿者心想：『國王與一位出家人關係密切。這會不會是那位出家人所為？』…
+
+   * - .. container:: mx-2
+
+          9\) “‘And furthermore, the king sends the army out at the right time, but has it turn around mid-way. The thought occurs to those displeased by this, “The king is on familiar terms with one gone forth. Could this be the work of the one gone forth?”….
+
+     - .. container:: mx-2
+
+          9）「此外，國王在適當的時間派軍，卻讓軍隊在中途掉頭。對此不滿者心想：『國王與一位出家人關係密切。這會不會是那位出家人所為？』…
+
+   * - .. container:: mx-2
+
+          10\) “‘And furthermore, bhikkhus, the king’s inner palace is crowded with elephants… horses… chariots. There are enticing sights, sounds, smells, tastes, tactile sensations unsuitable for one gone forth. This, bhikkhus, is the tenth danger for one who enters the king’s inner palace.’”
+
+     - .. container:: mx-2
+
+          10）「『此外，諸比丘，國王的內宮裡擠滿了大象……駿馬……戰車。那裡有誘人的景象、聲音、氣味、味道和觸覺感，不適合出家者。諸比丘，這就是進入國王內宮者的第十個危險。』」
+
+   * - *Summary: Entering a king’s sleeping chamber unannounced, when both the king and queen are in the chamber, is a pācittiya offense.*
+     - *摘要：未通知進入國王的寢宮，且國王和王后都在其內，是《波逸提》（《單墮》）罪。*
+
 .. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
 .. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
 
-(未完待續)
+
+.. container:: has-text-centered
+
+   \*    \*    \*
 
 
 .. _Pc84:
