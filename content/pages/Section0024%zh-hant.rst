@@ -368,8 +368,57 @@
 
      - *摘要：撿起或讓人撿起貴重物品，並意圖為所有者將其妥善保管——除非在寺院或正在拜訪的住處中發現它——是《波逸提》罪。*
 
+
 .. container:: has-text-centered
 
    \*    \*    \*
+
+
+.. _Pc85:
+
+.. raw:: html
+
+   <span id="Pc85"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **85**
+     - **八十五**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu, without taking leave of an available bhikkhu, enter a village at the wrong time—unless there is a suitable emergency—it is to be confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘，有比丘在而未告假，在非時進入村莊——除非有適當的緊急情況——波逸提。*
+
+   * - As the origin story here indicates, the purpose of this rule is to prevent bhikkhus from passing their time among householders engaged in animal talk (see the discussion under `Pc 7`_).
+
+     - 正如這裡的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0222a03>`__\ 所表明的那樣，這條戒條的目的是防止比丘們把時間消磨在與在家人從事畜生論（參見\ `《波逸提》七`_\ 下的討論）。
+
+   * - The factors for the full offense here are two.
+     - 完全違犯的因素有二。
+
+   * - .. container:: mx-2
+
+          *1) Object:* a village (this would include larger inhabited areas, such as towns and cities, as well).
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 村莊（這也包括較大的居住區，如城鎮和城市）。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One enters the village at the wrong time—without having taken leave of an available bhikkhu—except when there is an emergency.
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 在非時進入村莊——有比丘在而未告假——除非有緊急情況。
+
+.. _Pc 7: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
+.. _《波逸提》七: {filename}Section0016%zh-hant.rst#Pc7
 
 (未完待續)

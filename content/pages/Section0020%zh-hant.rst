@@ -700,8 +700,7 @@
      - *2）努力：*\ 在被邀請用餐的早晨，有比丘在而未與之告別，進入這樣的住處，除非在戒條中提到的時間豁免期間。
 
 .. _Pc 85: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc85
-.. _《波逸提》八五: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc85
-.. TODO FIXME: replace link to 《波逸提》八五
+.. _《波逸提》八五: {filename}Section0024%zh-hant.rst#Pc85
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
