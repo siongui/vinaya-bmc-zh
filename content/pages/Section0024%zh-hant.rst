@@ -421,4 +421,36 @@
 .. _Pc 7: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
 .. _《波逸提》七: {filename}Section0016%zh-hant.rst#Pc7
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga says that if the village as a whole is enclosed, everywhere inside the enclosure is considered to be in the village. If not, the area in the village includes all the buildings and their immediate vicinity. According to the Sub-commentary, this means everywhere within a two-\ *leḍḍupāta* radius of the buildings.
+
+     - 《經分別》指出，如果整個村莊被圍起來，那麼圍起來的所有區域都屬於村莊範圍。如果沒有被圍起來，村莊的範圍則包括所有建築物及其周邊區域。根據《複註》，這意味著建築物半徑為兩個 *leḍḍupāta* 內的所有區域都屬於村莊範圍。
+
+   * - Thus if one is staying in a monastery located within a village or town, the area covered by this factor would apparently begin at the vicinity of the nearest buildings outside the monastery.
+
+     - 因此，如果住在位於村莊或城鎮內的寺院裡，那麼這個因素所涵蓋的區域顯然會從寺院外最近的建築物周圍開始。
+
+   * - **Effort**
+     - **努力**
+
+   * - The Vibhaṅga defines the *wrong time* as from after noon until the following dawnrise. This rule thus dovetails with `Pc 46`_, which deals with the period from dawnrise until noon on days when one has been invited to a meal.
+
+     - 《經分別》將\ *非時*\ 定義為中午過後至隔天黎明。這條戒條與\ `《波逸提》四六`_\ 相銜接吻合，該條規定了受邀赴餐食日子裡，從黎明到中午這段時間。
+
+   * - Perception as to whether the time is right or wrong is not a mitigating factor here (see `Pc 4`_).
+     - 關於是否非時的感知在這裡並不構成減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
+
+   * - As under `Pc 46`_, another bhikkhu is said to be available for taking one’s leave if, in the Vibhaṅga’s words, “It is possible to go, having taken leave of him.” That is, if there is another bhikkhu in the monastery, and there are no obstacles to taking one’s leave from him (e.g., he is asleep, he is sick, he is receiving important visitors), one is obliged to go out of one’s way to inform him.
+
+     - 如同\ `《波逸提》四六`_\ ，如果，用《經分別》的話來說，「告別他之後，就可以離開了。」，那就是有另一位比丘在可以告假。也就是說，如果寺院裡有另一位比丘，並且向他告假沒有任何障礙（例如，他正在睡覺、生病、接待重要訪客），那麼就必須特意去通知他。
+
+.. _Pc 46: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
+.. _《波逸提》四六: {filename}Section0020%zh-hant.rst#Pc46
+
 (未完待續)
