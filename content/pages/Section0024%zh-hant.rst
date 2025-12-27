@@ -450,7 +450,37 @@
 
      - 如同\ `《波逸提》四六`_\ ，如果，用《經分別》的話來說，「告別他之後，就可以離開了。」，那就是有另一位比丘在可以告假。也就是說，如果寺院裡有另一位比丘，並且向他告假沒有任何障礙（例如，他正在睡覺、生病、接待重要訪客），那麼就必須特意去通知他。
 
+   * - According to the K/Commentary, *taking leave* in the context of this rule means the simple act of informing the other bhikkhu that, “I am going into the village,” or any similar statement. In other words, one is not asking permission to go, although if the other bhikkhu sees that one is doing something improper in going, he is perfectly free to say so. If one treats his comments with disrespect, one incurs at least a dukkaṭa under `Pc 54`_. (See the discussion under that rule for details.)
+
+     - 根據 K/《義註》，在此戒條的脈絡中，「\ *告假*\ 」僅指告知另一位比丘「我要入村」或類似表述。換言之，並非徵求前去的許可，但若另一位比丘認為在前往時會做不恰當的事情，他完全可以指出來。若對他的指正不敬，則至少會根據\ `《波逸提》五四`_\ 犯《突吉羅》（詳情請參閱該戒條下的討論）。
+
+   * - The Commentary states that if there is no bhikkhu in the monastery to take leave from, there is no need to inform any bhikkhu one may meet after leaving the monastery. If many bhikkhus are going together, they need only take leave from one another before entering the village.
+
+     - 《義註》指出，如果寺院裡沒有比丘可以告假，那麼離開寺院後遇到的任何比丘都不需要告知。如果很多比丘一同前往，他們只需在進入村莊前互相告假即可。
+
+   * - For a new bhikkhu still living in dependence *(nissaya)* on his mentor, though, the protocols in Cullavagga VIII indicate that taking leave *is* a matter of asking permission from his mentor at all times, “wrong” or not. (See the discussion of this point under `Pc 46`_.)
+
+     - 然而，對於一位仍依止於其導師\ *（nissaya）*\ 的新比丘而言，\ `《小品》第八卷`_\ 的行儀表明，無論「非」時與否，告假隨時\ *都*\ 要徵得導師的同意。（參見\ `《波逸提》四六`_\ 對此的討論。）
+
+   * - As for the suitable emergencies under this rule—which would seem to exempt even new bhikkhus from having to take leave from their mentors—the Vibhaṅga gives the example of a bhikkhu rushing to get fire to make medicine for another bhikkhu bitten by a snake. Examples more likely at present would include rushing to get a doctor for a sick bhikkhu or to get help when a fire has broken out in the monastery.
+
+     - 至於這條戒條下適用的緊急情況——這似乎意味著即使是新比丘也不必向他們的導師告假——《經分別》舉例說，一位比丘急忙去取火，為另一位被蛇咬傷的比丘熬製藥物。而如今更常見的例子則包括急忙為生病的比丘請醫生，或在寺院發生火災時尋求幫助。
+
 .. _Pc 46: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
 .. _《波逸提》四六: {filename}Section0020%zh-hant.rst#Pc46
+.. _Pc 54: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
+.. _《波逸提》五四: {filename}Section0021%zh-hant.rst#Pc54
+.. _《小品》第八卷: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Further action**
+     - **進一步行動**
+
+   * - Although there is no penalty for engaging in animal talk, a bhikkhu who enters a village frequently and engages in it, even if he takes leave of other bhikkhus, can be subject to an act of censure for “unbecoming association with householders” (see BMC2, Chapter 20).
+
+     - 雖然從事畜生論並沒有懲罰，但經常進入村莊從事畜生論的比丘，即使向其他比丘告假，也可能因「與居士交往不當」而受到呵責的處分（見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）。
 
 (未完待續)
