@@ -483,4 +483,59 @@
 
      - 雖然從事畜生論並沒有懲罰，但經常進入村莊從事畜生論的比丘，即使向其他比丘告假，也可能因「與居士交往不當」而受到呵責的處分（見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in entering a village when one has taken leave of another bhikkhu, or in going when one has not taken leave if:
+     - 在向另一位比丘告假後進入村莊，或未告假就進入村莊並符合以下條件，均不犯戒：
+
+   * - .. container:: mx-2
+
+          There is an emergency.
+
+     - .. container:: mx-2
+
+          有緊急狀況。
+
+   * - .. container:: mx-2
+
+          There is no bhikkhu available (e.g., one is living alone or all the other bhikkhus have left).
+
+     - .. container:: mx-2
+
+          沒有比丘在（例如，自己獨自居住，或其他比丘都離開了）。
+
+   * - .. container:: mx-2
+
+          One is on one’s way to another monastery (§), to bhikkhunīs’ quarters, to the residence of people ordained in another religion (located in a village, says the Commentary), or one is returning from any of these places.
+
+     - .. container:: mx-2
+
+          正前往另一個寺院（§），前往比丘尼的住所，前往外道受戒者的住所（《義註》中說，位於村莊內），或從這些地方返回。
+
+   * - .. container:: mx-2
+
+          One is going along a road that happens to pass through a village. (According to the Commentary, a bhikkhu who wants to leave the road and enter the village proper should take leave of another bhikkhu if one is available.)
+
+     - .. container:: mx-2
+
+          正沿著一條路走，這條路剛好穿過村莊。（根據《義註》，如果比丘想要離開這條路進入村莊，應該向另一位比丘告假，如果有比丘在的話。）
+
+   * - .. container:: mx-2
+
+          There are dangers. (Examples in the Commentary include seeing lions or tigers approaching, or clouds building up and threatening a storm.)
+
+     - .. container:: mx-2
+
+          有危險。（例如，《義註》中例子包括看到獅子或老虎靠近，或烏雲密布，預示著暴風雨即將到來。）
+
+   * - *Summary: Entering a village, town, or city during the period after noon until the following dawnrise, without having taken leave of an available bhikkhu—unless there is an emergency—is a pācittiya offense.*
+     - *摘要：在中午之後到第二天黎明之前，有比丘在而未向其告假並進入村莊、城鎮或城市——除非有緊急情況——是《波逸提》（《單墮》）罪。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
