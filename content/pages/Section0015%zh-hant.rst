@@ -1014,8 +1014,7 @@
 .. _Pc 86-92: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
 .. _Pc 26: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc26
 .. _《捨墮》十一至十五: {filename}Section0014%zh-hant.rst#NP11
-.. _《波逸提》八六至九二: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
-.. TODO FIXME: replace link to 《波逸提》八六至九二
+.. _《波逸提》八六至九二: {filename}Section0024%zh-hant.rst#Pc86
 .. _《波逸提》二六: {filename}Section0018%zh-hant.rst#Pc26
 
 .. list-table::

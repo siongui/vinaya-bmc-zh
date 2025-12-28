@@ -538,4 +538,31 @@
    \*    \*    \*
 
 
+.. _Pc86:
+
+.. raw:: html
+
+   <span id="Pc86"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **86**
+     - **八十六**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu have a needle box made of bone, ivory, or horn, it is to be broken and confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘擁有用骨頭、象牙或角製成的針盒，就應當將其打碎並懺悔[波逸提]。*
+
+   * - The origin story here echoes the one for `NP 22`_.
+     - 這裡的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0225a10>`__\ 與\ `《捨墮》二二`_\ 的起源故事如出一轍。
+
+.. _NP 22: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22
+.. _《捨墮》二二: {filename}Section0015%zh-hant.rst#NP22
+
 (未完待續)

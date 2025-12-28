@@ -1277,8 +1277,7 @@
      - 對於自己隱藏必需品的人的身分的感知在這裡並不是減輕懲罰的因素（參見\ `《波逸提》四二`_\ ）。
 
 .. _Pc 86: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
-.. _《波逸提》八六: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
-.. TODO FIXME: replace link to 《波逸提》八六
+.. _《波逸提》八六: {filename}Section0024%zh-hant.rst#Pc86
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
