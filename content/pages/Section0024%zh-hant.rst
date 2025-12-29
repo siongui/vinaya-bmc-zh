@@ -562,6 +562,44 @@
    * - The origin story here echoes the one for `NP 22`_.
      - 這裡的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0225a10>`__\ 與\ `《捨墮》二二`_\ 的起源故事如出一轍。
 
+   * - .. container:: mx-2
+
+          “Now at that time a certain ivory-worker had invited the bhikkhus, saying, ‘If any of the masters needs a needle box, I will supply him with a needle box.’ So the bhikkhus asked for many needle boxes. Those with small needle boxes asked for large ones; those with large ones asked for small ones. (§) The ivory-worker, making many needle boxes for the bhikkhus, was not able to make other goods for sale. He could not support himself, and his wife and children suffered.”
+
+     - .. container:: mx-2
+
+          「其時，一位象牙匠邀請比丘們，說：『如果哪位大德需要針盒，我可以給他提供。』於是比丘們索要許多針盒。有小針盒的就去要大的，有大的就去要小的。（§）這位象牙匠為比丘們製作了許多針盒，卻無力製作其他商品出售。他無法養活自己，妻子和孩子也因此受苦。」
+
+   * - Here there are three factors for the full offense.
+     - 此處完整違犯包含三個因素。
+
+   * - .. container:: mx-2
+
+          *1) Object:* a needle box made of bone, ivory, or horn.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 用骨頭、象牙或角製成的針盒。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One obtains it after making it or having it made
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 透過自己或他人製作而獲得它。
+
+   * - .. container:: mx-2
+
+          *3) Intention:* for one’s own use.
+
+     - .. container:: mx-2
+
+          *3）意圖：*\ 供自己使用。
+
+   * - Two of these factors involve permutations: *effort* and *intention*.
+     - 其中兩個因素涉及排列組合：\ *努力*\ 和\ *意圖*\ 。
+
 .. _NP 22: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22
 .. _《捨墮》二二: {filename}Section0015%zh-hant.rst#NP22
 
