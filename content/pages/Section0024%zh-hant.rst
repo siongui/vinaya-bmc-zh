@@ -603,4 +603,24 @@
 .. _NP 22: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22
 .. _《捨墮》二二: {filename}Section0015%zh-hant.rst#NP22
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - The permutations under this factor are as follows: the act of making the needle box or having it made—a dukkaṭa; obtaining the finished box—a pācittiya. This last penalty applies regardless of whether the box was made entirely by oneself, entirely by others either partly or entirely at one’s instigation, or whether one finished what others began or got others to finish what one began oneself. In any event, one must break the box before confessing the offense.
+
+     - 此因素下的排列組合如下：製作針盒或讓人製作針盒的行為——《突吉羅》；取得成品盒——《波逸提》。無論針盒是完全由自己製作，還是完全由他人製作（部分或全部受自己唆使），亦或是自己完成了他人開始之物，或令他人完成了自己開始之物，最後一種懲罰均適用。無論如何，必須在懺悔罪行前打碎該盒。
+
+   * - If one obtains a bone, ivory, or horn needle box made by another—not at one’s instigation—then using it entails a dukkaṭa (§).
+     - 如果獲得了由他人製作的骨頭、象牙或角針盒——並非是應自己的唆使要求製作的——那麼使用它犯《突吉羅》（§）。
+
+   * - **Intention**
+     - **意圖**
+
+   * - There is a dukkaṭa in making a bone, ivory, or horn needle box—or having it made—for another’s use.
+     - 為了他人而製作或令人製作骨頭、象牙或角針盒，犯《突吉羅》。
+
 (未完待續)
