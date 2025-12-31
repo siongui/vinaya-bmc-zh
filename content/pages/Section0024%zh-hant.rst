@@ -623,4 +623,23 @@
    * - There is a dukkaṭa in making a bone, ivory, or horn needle box—or having it made—for another’s use.
      - 為了他人而製作或令人製作骨頭、象牙或角針盒，犯《突吉羅》。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - The non-offense clauses, instead of listing materials from which a needle box might be made, list allowable items made of bone, ivory, or horn: a fastener (§) (for a robe), a fire-starter (according to the Commentary, this means a bow used with the upper stick of a fire-starter), a belt fastener, an ointment box, a stick for applying ointment, an adze handle, and a water wiper (§) (see `BMC2, Chapter 1`_). This list was apparently intended simply to be illustrative, because the Khandhakas contain allowances for many other items to be made from bone, ivory, or horn as well—although it’s worth noting that the non-offense clauses here are the only passages in the Canon stating that the fire-starter, adze handle, and water wiper can be made of these materials.
+
+     - 不犯條款並未列舉製作針盒的可用材料，而是列出了允許用骨頭、象牙或角製成的物品：扣件（§）（用於袈裟）、引火物（根據《義註》，這指的是與引火物上桿配合使用的弓形物）、腰帶扣、藥膏盒、塗抹藥膏的棍子、斧頭柄和擦水器（§）（參見\ `《佛教比丘戒律 第二冊》第一章`_\ ）。這份清單顯然只是為了舉例說明，因為《犍度》中也允許用骨頭、象牙或角製作許多其他物品——儘管值得注意的是，此處的不犯條款是《聖典》中唯一明確指出引火物、斧頭柄和擦水器可以用這些材料製成的段落。
+
+   * - `Pc 60`_ mentions a needle box as one of a bhikkhu’s requisites, so apparently one would be allowable if not made of bone, ivory, or horn. `Cv.V.11.2`_ contains an allowance for a “needle tube” (or “needle cylinder”—\ *sūci-nāḷika*\ ) for keeping needles, but does not explain how it differs from a needle box. Apparently both the box and the tube may be made of reed, bamboo, wood, lac (resin), fruit (e.g., coconut shell), copper (metal), or conch-shell, as the Khandhakas often list these materials as allowable for other items as well.
+
+     - `《波逸提》六十`_\ 提到針盒是比丘的必備物品之一，因此，如果不是用骨頭、象牙或角製成的，針盒顯然是允許的。\ `《小品》.五.11.2`_\ 允許使用「針筒」（或「針管」－\ *sūci-nāḷika*\ ）來存放針，但並未解釋它與針盒有何不同。顯然，針盒和針筒都可以用蘆葦、竹子、木頭、紫膠（樹脂）、水果（例如椰子殼）、銅（金屬）或海螺殼製成，因為《犍度》也經常將這些材料列為其他物品的允許材料。
+
+.. _BMC2, Chapter 1: https://www.dhammatalks.org/vinaya/bmc/Section0040.html#BMC2chapter1
+.. _《佛教比丘戒律 第二冊》第一章: https://www.dhammatalks.org/vinaya/bmc/Section0040.html#BMC2chapter1
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第一章
+.. _Pc 60: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc60
+.. _Cv.V.11.2: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Cv.V.11.2
+.. _《波逸提》六十: {filename}Section0021%zh-hant.rst#Pc60
+.. _《小品》.五.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a01
+
 (未完待續)
