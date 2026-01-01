@@ -642,4 +642,24 @@
 .. _《波逸提》六十: {filename}Section0021%zh-hant.rst#Pc60
 .. _《小品》.五.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a01
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **The general principle**
+     - **一般原則**
+
+   * - The Vinaya-mukha derives a general principle from this rule: The Buddha, in formulating this rule, was putting a halt to the sort of fad that can occur among bhikkhus when certain requisites become fashionable to the point of inconveniencing donors, and senior bhikkhus at present should try to put a halt to any similar fads.
+
+     - 《戒律入口》從這條戒條中引申出一條普遍原則：佛陀制定這條戒條，是為了阻止比丘中出現某種風尚，即某些必需品變得時髦，以至於給布施者帶來不便。如今，上座比丘應該嘗試阻止任何類似的風尚。
+
+   * - *Summary: Obtaining a needle box made of bone, ivory, or horn after making it—or having it made—for one’s own use is a pācittiya offense requiring that one break the box before confessing the offense.*
+     - *摘要：獲得為自己使用而製作或讓人製作的用骨頭、象牙或角製成的針盒，是《波逸提》（《單墮》）罪，必須先打碎針盒才能懺悔罪行。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
