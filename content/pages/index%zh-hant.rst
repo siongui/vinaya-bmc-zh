@@ -586,7 +586,7 @@
      - `\　　　八十六 <{filename}Section0024%zh-hant.rst#Pc86>`__
 
    * - `\　　　87 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc87>`__
-     - 　　　八十七
+     - `\　　　八十七 <{filename}Section0024%zh-hant.rst#Pc87>`__
 
    * - `\　　　88 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc88>`__
      - 　　　八十八

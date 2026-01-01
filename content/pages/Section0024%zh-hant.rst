@@ -662,4 +662,55 @@
    \*    \*    \*
 
 
+.. _Pc87:
+
+.. raw:: html
+
+   <span id="Pc87"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **87**
+     - **八十七**
+
+   * - .. container:: notification
+
+          *When a bhikkhu is having a new bed or bench made, it is to have legs (at most) eight fingerbreadths long—using sugata fingerbreadths—not counting the lower edge of the frame. In excess of that it is to be cut down and confessed.*
+
+     - .. container:: notification
+
+          *比丘製作新床或椅子時，腳的長度（至多）應為八指寬——使用善至指寬——不包括框架的下緣。超過此長度應被砍掉並懺悔[波逸提]。*
+
+   * - The purpose of this rule is to prevent bhikkhus from making and using furnishings that are high and imposing.
+     - 這條戒條的目的是防止比丘們製作和使用高大而氣派的家具。
+
+   * - The factors for the offense here are three.
+     - 此處犯戒的因素有三。
+
+   * - .. container:: mx-2
+
+          *1) Object:* a bed or bench whose legs, measuring from the lower side of the frame to the floor, are longer than eight sugata fingerbreadths (16.7 cm.)
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 床或椅子的腳，從框架下緣到地面的長度，超過八善至指寬（16.7 公分）。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One obtains it after making it or having it made
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 自己製作或他人製作後而獲得它。
+
+   * - .. container:: mx-2
+
+          *3) Intention:* for one’s own use.
+
+     - .. container:: mx-2
+
+          *3）意圖：*\ 供自己使用。
+
 (未完待續)
