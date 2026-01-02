@@ -681,7 +681,7 @@
 
      - .. container:: notification
 
-          *比丘製作新床或椅子時，腳的長度（至多）應為八指寬——使用善至指寬——不包括框架的下緣。超過此長度應被砍掉並懺悔[波逸提]。*
+          *比丘製作新床或凳子時，腳的長度（至多）應為八指寬——使用善至指寬——不包括框架的下緣。超過此長度應被砍掉並懺悔[波逸提]。*
 
    * - The purpose of this rule is to prevent bhikkhus from making and using furnishings that are high and imposing.
      - 這條戒條的目的是防止比丘們製作和使用高大而氣派的家具。
@@ -695,7 +695,7 @@
 
      - .. container:: mx-2
 
-          *1）對象：*\ 床或椅子的腳，從框架下緣到地面的長度，超過八善至指寬（16.7 公分）。
+          *1）對象：*\ 床或凳子的腳，從框架下緣到地面的長度，超過八善至指寬（16.7 公分）。
 
    * - .. container:: mx-2
 
@@ -712,5 +712,33 @@
      - .. container:: mx-2
 
           *3）意圖：*\ 供自己使用。
+
+   * - **Object**
+     - **對象**
+
+   * - The Canon contains many rules dealing with furnishings, especially in the Khandhakas, and because furnishings in the time of the Buddha were somewhat different from what they are now, it is often a matter of guesswork as to what, precisely, the rules are referring to. The *bed (mañca)* here almost certainly refers to what we mean by a bed. The *bench (pīṭha)*, according to the K/Commentary, is shorter than a bed, but not so short that it is square. This last stipulation comes from `Cv.VI.2.4`_, which allows bhikkhus to use an *āsandika*\ —apparently a square stool, large enough to sit on but not to lie on—even if the legs are long. Another piece of furniture with long legs allowed in the same passage is the *sattaṅga*, a chair or sofa with a back and arms. The Vinaya-mukha includes a *pañcaṅga*\ —a chair or sofa with a back but no arms—under this allowance as well. The Canon and commentaries make no mention of this point, but it seems valid: Armless chairs and sofas are less imposing than those with arms.
+
+     - 《聖典》中包含許多關於傢俱的戒條，尤其是在《犍度》中。由於佛陀時代的傢俱與現在有所不同，因此這些戒條的具體意義往往需要推測。這裡的\ *床（mañca）*\ 幾乎可以肯定是指我們今天所說的床。根據 K/《義註》，\ *凳子（pīṭha）*\ 比床短，但又不至於短到呈正方形。最後這項規定出自\ `《小品》.六.2.4`_\ ，其中允許比丘使用 *āsandika* ——顯然是方形凳子，這種凳子足夠大，可以坐，但不能躺——即使凳腿很長。在同一段落中允許使用的另一種長腿家具是 *sattaṅga* ，一種有靠背和扶手的椅子或沙發。《戒律入口》中也允許使用 *pañcaṅga* ——一種有靠背但沒有扶手的椅子或沙發。《聖典》和註釋書中都沒有提到這一點，但這似乎是合理的：沒有扶手的椅子和沙發不如有扶手的椅子和沙發那麼引人注目。
+
+   * - The sugata measures are a matter of controversy, discussed in `Appendix II`_. For the purposes of this book, we are taking the sugata span to be 25 cm. Because there are twelve sugata fingerbreadths in a sugata span, eight sugata fingerbreadths would be equal to 16.7 cm.
+
+     - 善至的度量衡存在爭議，在\ `附錄二`_ 中討論。本書中，我們將善至張手定為 25 公分。因為一善至張手有十二善至指寬，所以八善至指寬等於 16.7 公分。
+
+.. _Cv.VI.2.4: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#Cv.VI.2.4
+.. _《小品》.六.2.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0203a11
+.. _Appendix II: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixII
+.. _附錄二: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixII
+.. TODO FIXME: replace link to 附錄二
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - The permutations under this factor are as follows: the act of making the bed/bench or having it made—a dukkaṭa; obtaining the finished article—a pācittiya. This last penalty applies regardless of whether the bed/bench was made entirely by oneself, entirely by others either partly or entirely at one’s instigation, or whether one finished what others began or got others to finish what one began oneself. In any event, one must cut the bed/bench down to the proper size before confessing the offense.
+
+     - 此因素下的排列組合如下：製作床/凳的行為（或讓人製作）——《突吉羅》；獲得成品——《波逸提》。無論床/凳是完全由自己製作，或是完全由他人製作（部分或全部受自己唆使），亦或是完成他人開始之物，或令他人完成自己開始之物，均適用此最後一種懲罰。無論如何，在懺悔罪行之前，必須將床/凳切成合適的尺寸。
 
 (未完待續)
