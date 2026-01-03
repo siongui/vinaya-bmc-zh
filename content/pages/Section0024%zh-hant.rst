@@ -741,4 +741,37 @@
 
      - 此因素下的排列組合如下：製作床/凳的行為（或讓人製作）——《突吉羅》；獲得成品——《波逸提》。無論床/凳是完全由自己製作，或是完全由他人製作（部分或全部受自己唆使），亦或是完成他人開始之物，或令他人完成自己開始之物，均適用此最後一種懲罰。無論如何，在懺悔罪行之前，必須將床/凳切成合適的尺寸。
 
+   * - If one obtains a tall bed/bench made by another—not at one’s instigation—then using it entails a dukkaṭa (§). `Cv.VI.8`_ allows that if furnishings of the sort unallowable for bhikkhus to own themselves are in a lay person’s house (and belong to the lay person, says the Sub-commentary) bhikkhus may sit on them but not lie down on them. There are three exceptions to this allowance, the one piece objected to on account of its height being a dais *(āsandī)*\—a square platform, large enough to lie on, and very high. Bhikkhus are not allowed even to sit on such a thing, even in a lay person’s house.
+
+     - 若獲他人所造的高床/凳——並非是應自己的唆使要求製作的——那麼使用它犯《突吉羅》（§）。\ `《小品》.六.8`_\ 允許在居士家中（且屬於居士所有，《複註》中如此描述）擺放比丘不得擁有的家具，比丘可以坐在上面，但不能躺在上面。此開緣有三個例外，其中一例外因其高度而遭禁，即高臺\ *（āsandī）*\ ——一種方形平台，足夠大，可躺之，且高度極高。比丘即便在居士家中，亦不可坐其上。
+
+.. _Cv.VI.8: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#Cv.VI.8
+.. _《小品》.六.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0221a08
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Intention**
+     - **意圖**
+
+   * - There is a dukkaṭa in making a bed or bench with extra long legs—or having it made—for the sake of another person.
+     - 為了他人的緣故，製作或請人製作腳特別長的床或凳，犯《突吉羅》。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in making a bed or bench—or having one made—if the legs are eight sugata fingerbreadths or less; or in receiving a bed or bench with overly long legs made by another if one cuts the legs down to regulation size before using it. The Commentary notes that if one buries the legs in the ground so that no more than eight fingerbreadths separate the ground from the lower frame, that is also allowable.
+
+     - 製作床或凳子，或請人製作，只要腳長不超過八善至指寬，不構成犯戒；或接受他人製作的腳過長的床或凳子，只要在使用前將腿截短至規定尺寸，也不構成犯戒。《義註》指出，如果將腳埋入土中，使框架底部與地面之間的距離不超過八指寬，也是允許的。
+
+   * - *Summary: Obtaining a bed or bench with legs longer than eight sugata fingerbreadths after making it—or having it made—for one’s own use is a pācittiya offense requiring that one cut the legs down before confessing the offense.*
+     - *摘要：獲得為自己使用而製作或請人製作的床或凳子，其腳長超過八善至指寬，是《波逸提》（《單墮》）罪，必須先將腳切短才能懺悔罪行。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
