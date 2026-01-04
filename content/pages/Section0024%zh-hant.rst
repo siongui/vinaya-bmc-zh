@@ -774,4 +774,41 @@
    \*    \*    \*
 
 
+.. _Pc88:
+
+.. raw:: html
+
+   <span id="Pc88"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **88**
+     - **八十八**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu have a bed or bench upholstered with cotton down, it (the upholstery) is to be torn off and confessed.*
+
+     - .. container:: notification
+
+          *如果任何比丘的床或凳子是用棉絨填充的，它（填充物）應該被撕掉並懺悔[波逸提]。*
+
+   * - **Upholstery & cushions**
+     - **坐椅填充物及墊子**
+
+   * - Cotton down was apparently the most luxurious material known in the Buddha’s time for stuffing furniture, cushions, and mattresses, inasmuch as bhikkhus are forbidden by this rule from making beds and benches upholstered with cotton-down. `Cv.VI.8`_ forbids them from sitting on cushions or other articles of furnishing upholstered or stuffed with cotton down (this would include meditation cushions), even in the homes of lay people. The only article of furnishing stuffed with cotton down allowed to bhikkhus is a pillow (§), although the pillow should be made no larger than the size of the head (`Cv.VI.2.6`_).
+
+     - 在佛陀時代，棉絨顯然是已知最奢華的材料，用來填充家具、坐墊和床墊，因此，此戒條禁止比丘製作以棉絨為填充物的床和凳子。\ `《小品》.六.8`_ 禁止比丘坐在以棉絨為填充物的墊子或其他家具物上（包括禪坐墊子），即使在居士的家中也不例外。比丘唯一被允許的以棉絨為填充物的家具是枕頭（§），但枕頭不得超過頭部的大小（\ `《小品》.六.2.6`_\ ）。
+
+   * - The Commentary’s explanations of this point show that the pillow used in those days was an oblong cushion, looking like a rectangle when viewed from above and a triangle when viewed from either the right or left side (like the old style of pillow still in use in Thailand). Such pillows, the Commentary says, should be no more than two cubits (1 meter) long, and one span plus four fingerbreadths (32 cm.) from corner to corner on the sides (although this seems considerably larger than a pillow “the size of the head”). A bhikkhu who is not ill may use such a pillow for his head and feet; an ill bhikkhu may line up a series of pillows, cover them with a cloth, and lie down on them with no offense. According to `Cv.VI.14`_, if bhikkhus are presented with cushions stuffed with cotton down, they may use them only after tearing them up and making them into pillows.
+
+     - 《義註》對此的解釋表明，當時使用的枕頭是一種長橢圓形的墊子，從上方看呈長方形，從左側或右側看呈三角形（類似於泰國至今仍在使用的舊式枕頭）。《義註》說，這種枕頭的長度不應超過兩肘（1公尺），從邊角到另一邊角不超過一跨度加四指寬（32公分）（儘管這似乎比「頭部大小」的枕頭要大得多）。無病的比丘可以用這種枕頭墊頭和腳；生病的比丘可以擺放一排枕頭，用布蓋好，然後躺下，並不犯戒。根據\ `《小品》.六.14`_\ ，如果比丘獲贈填充棉絨的墊子，他們只能將其撕碎，重新製成枕頭後才能使用。
+
+.. _Cv.VI.2.6: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#Cv.VI.2.6
+.. _《小品》.六.2.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0204a10
+.. _Cv.VI.14: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#Cv.VI.14
+.. _《小品》.六.14: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0229a10
+
 (未完待續)
