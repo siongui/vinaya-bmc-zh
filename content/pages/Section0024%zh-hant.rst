@@ -806,9 +806,46 @@
 
      - 《義註》對此的解釋表明，當時使用的枕頭是一種長橢圓形的墊子，從上方看呈長方形，從左側或右側看呈三角形（類似於泰國至今仍在使用的舊式枕頭）。《義註》說，這種枕頭的長度不應超過兩肘（1公尺），從邊角到另一邊角不超過一跨度加四指寬（32公分）（儘管這似乎比「頭部大小」的枕頭要大得多）。無病的比丘可以用這種枕頭墊頭和腳；生病的比丘可以擺放一排枕頭，用布蓋好，然後躺下，並不犯戒。根據\ `《小品》.六.14`_\ ，如果比丘獲贈填充棉絨的墊子，他們只能將其撕碎，重新製成枕頭後才能使用。
 
+   * - Human hair was another forbidden form of stuffing. Mattresses and cushions stuffed with other materials, though, are allowed even for use in the monastery. `Cv.VI.2.7`_ mentions five kinds of allowable stuffing: wool, cloth, bark, grass, and leaves. (According to the Commentary, *wool* here includes all kinds of animal fur and bird feathers. Goose down would thus be allowable. Synthetic fibers and synthetic down would apparently come under “cloth.” The Commentary also mentions that, according to the Kurundī, mattresses and cushions stuffed with these materials are allowable whether covered with leather or cloth.)
+
+     - 人類頭髮是另一種被禁止的填充物。不過，即使在寺院內也允許使用填充有其他材料的床墊和墊子。\ `《小品》.六.2.7`_ 提到了五種允許的填充物：羊毛、布、樹皮、草和樹葉。（根據《義註》，這裡的\ *羊毛*\ 包括各種動物毛皮和鳥類羽毛。因此，鵝絨是允許的。合成纖維和合成絨顯然屬於「布」。《義註》還提到，根據《Kurundī》，用這些材料填充的床墊和墊子是允許的，無論覆蓋著皮革還是布料。）
+
+   * - The purpose of all this is to keep bhikkhus from using furnishings that are extravagant and ostentatious. As the Vinaya-mukha mentions, though, standards of what counts as extravagant and ostentatious vary from age to age and culture to culture. Some of the things allowed in the Canon and commentaries now seem exotic and luxurious; and other things forbidden by them, common and ordinary. Thus the wise policy, in a monastery, would be to use only those furnishings allowed by the rules and regarded as unostentatious at present; and, when visiting a lay person’s home, to avoid sitting on furnishings that seem unusually grand.
+
+     - 這一切的目的是為了防止比丘使用奢侈、炫耀的家具。然而，正如《戒律入口》中提到的那樣，奢侈和炫耀的標準因時代和文化的不同而有所不同。《聖典》和註釋書中所允許的一些事物現在看來顯得異國情調和奢華；以及其所禁止的其他事物，現在看來顯得常見和普通。因此，在寺院裡，明智之舉是只使用那些戒條允許的、目前被認為不炫耀的家具。當拜訪居士家中時，避免坐在看起來異常華麗的家具上。
+
+   * - The factors for the offense here are three.
+     - 這裡的犯戒因素有三個。
+
+   * - .. container:: mx-2
+
+          *1) Object:* a bed or bench stuffed with cotton down.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 填充棉絨的床或凳。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One obtains it after making it or having it made
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 在製作或令人製作之後獲得它
+
+   * - .. container:: mx-2
+
+          *3) Intention:* for one’s own use.
+
+     - .. container:: mx-2
+
+          *3）意圖：*\ 供自己使用。
+
 .. _Cv.VI.2.6: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#Cv.VI.2.6
 .. _《小品》.六.2.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0204a10
 .. _Cv.VI.14: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#Cv.VI.14
 .. _《小品》.六.14: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0229a10
+.. _Cv.VI.2.7: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#Cv.VI.2.7
+.. _《小品》.六.2.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0205a03
 
 (未完待續)
