@@ -766,7 +766,7 @@
      - 製作床或凳子，或請人製作，只要腳長不超過八善至指寬，不構成犯戒；或接受他人製作的腳過長的床或凳子，只要在使用前將腿截短至規定尺寸，也不構成犯戒。《義註》指出，如果將腳埋入土中，使框架底部與地面之間的距離不超過八指寬，也是允許的。
 
    * - *Summary: Obtaining a bed or bench with legs longer than eight sugata fingerbreadths after making it—or having it made—for one’s own use is a pācittiya offense requiring that one cut the legs down before confessing the offense.*
-     - *摘要：獲得為自己使用而製作或請人製作的床或凳子，其腳長超過八善至指寬，是《波逸提》（《單墮》）罪，必須先將腳切短才能懺悔罪行。*
+     - *摘要：為自己使用而製作——或請人製作——腳長超過八善至指寬的床或凳子之後並獲得它，是《波逸提》（《單墮》）罪，必須先將腳切短才能懺悔罪行。*
 
 
 .. container:: has-text-centered
@@ -847,5 +847,52 @@
 .. _《小品》.六.14: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0229a10
 .. _Cv.VI.2.7: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#Cv.VI.2.7
 .. _《小品》.六.2.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0205a03
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - *Cotton down*, according to the Vibhaṅga, includes any down from trees, vines, and grass. The Commentary to `Cv.VI.2.6`_ interprets this as meaning down from *any* plant, inasmuch as “trees, vines, and grass” is the Canon’s usual way of covering all plant life. Kapok, flax fibers, jute, and cotton would thus all come under this category.
+
+     - *棉絨*\ ，根據《經分別》，包括樹木、藤蔓和草類的任何絨毛。\ `《小品》.六.2.6`_\ 的《義註》將其解釋為\ *任何*\ 植物的絨毛，因為「樹木、藤蔓和草類」是《聖典》通常用來指稱所有植物的方式。因此，木棉、亞麻纖維、黃麻和棉花都屬於此種類。
+
+   * - Because cotton-down cushions are forbidden in all situations, *bed and bench* here would seem to include all forms of furniture, including the stools, chairs, and sofas exempted from the preceding rule.
+
+     - 由於在任何情況下都禁止棉絨墊子，因此這裡的\ *床和凳*\ 似乎包括所有形式的家具，包括前一條戒條中豁免的凳子、椅子和沙發。
+
+   * - **Effort**
+     - **努力**
+
+   * - The permutations under this factor are as follows: the act of making the bed/bench or having it made—a dukkaṭa; obtaining the finished article—a pācittiya. This last penalty applies regardless of whether the bed/bench was made entirely by oneself, entirely by others either partly or entirely at one’s instigation, or whether one finished what others began or got others to finish what one began oneself. In any event, one must tear off the upholstery before confessing the offense.
+
+     - 此因素下的排列組合如下：製作床/凳的行為（或讓人製作）——《突吉羅》；獲得成品——《波逸提》。無論床/凳是完全由自己製作，或是完全由他人製作（部分或全部受自己唆使），亦或是完成他人開始之物，或令他人完成自己開始之物，均適用此最後一種懲罰。無論如何，在懺悔罪行之前，必須先撕掉填充物。
+
+   * - If one obtains an upholstered bed/bench made by another—not at one’s instigation—then using it entails a dukkaṭa (§).
+     - 如果獲得一張由他人製作的軟墊床/凳——並非應自己的要求——那麼使用它犯《突吉羅》（§）。
+
+   * - **Intention**
+     - **意圖**
+
+   * - There is a dukkaṭa in making a bed or bench upholstered with cotton down—or having it made—for the sake of another person.
+     - 為了他人而製作或請人製作用棉絨填充的床或凳，犯《突吉羅》。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in using cotton down to stuff a pillow, a knee strap (§), a belt, a shoulder strap, or a bag for carrying the alms bowl; or to form the filter in a water strainer. If one obtains a bed or bench stuffed with cotton down made for another person’s use, there is no offense in using it if one removes the upholstery first.
+
+     - 用棉絨填充枕頭、膝帶（§）、皮帶、肩帶或用來裝缽的袋子，或製作濾水器的濾芯，並不犯戒。若獲得他人使用的、填充棉絨的床或凳，只要先移除其內部的填充物，使用它也不犯戒。
+
+   * - *Summary: Obtaining a bed or bench stuffed with cotton down after making it—or having it made—for one’s own use is a pācittiya offense requiring that one remove the stuffing before confessing the offense.*
+     - *摘要：為自己使用而製作——或請人製作——填充了棉絨的床或凳之後並獲得它，是《波逸提》（《單墮》）罪，必須先取出填充物才能懺悔罪行。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
