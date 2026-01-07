@@ -804,7 +804,7 @@
 
    * - The Commentary’s explanations of this point show that the pillow used in those days was an oblong cushion, looking like a rectangle when viewed from above and a triangle when viewed from either the right or left side (like the old style of pillow still in use in Thailand). Such pillows, the Commentary says, should be no more than two cubits (1 meter) long, and one span plus four fingerbreadths (32 cm.) from corner to corner on the sides (although this seems considerably larger than a pillow “the size of the head”). A bhikkhu who is not ill may use such a pillow for his head and feet; an ill bhikkhu may line up a series of pillows, cover them with a cloth, and lie down on them with no offense. According to `Cv.VI.14`_, if bhikkhus are presented with cushions stuffed with cotton down, they may use them only after tearing them up and making them into pillows.
 
-     - 《義註》對此的解釋表明，當時使用的枕頭是一種長橢圓形的墊子，從上方看呈長方形，從左側或右側看呈三角形（類似於泰國至今仍在使用的舊式枕頭）。《義註》說，這種枕頭的長度不應超過兩肘（1公尺），從邊角到另一邊角不超過一跨度加四指寬（32公分）（儘管這似乎比「頭部大小」的枕頭要大得多）。無病的比丘可以用這種枕頭墊頭和腳；生病的比丘可以擺放一排枕頭，用布蓋好，然後躺下，並不犯戒。根據\ `《小品》.六.14`_\ ，如果比丘獲贈填充棉絨的墊子，他們只能將其撕碎，重新製成枕頭後才能使用。
+     - 《義註》對此的解釋表明，當時使用的枕頭是一種長橢圓形的墊子，從上方看呈長方形，從左側或右側看呈三角形（類似於泰國至今仍在使用的舊式枕頭）。《義註》說，這種枕頭的長度不應超過兩肘（1公尺），從邊角到另一邊角不超過一張手加四指寬（32公分）（儘管這似乎比「頭部大小」的枕頭要大得多）。無病的比丘可以用這種枕頭墊頭和腳；生病的比丘可以擺放一排枕頭，用布蓋好，然後躺下，並不犯戒。根據\ `《小品》.六.14`_\ ，如果比丘獲贈填充棉絨的墊子，他們只能將其撕碎，重新製成枕頭後才能使用。
 
    * - Human hair was another forbidden form of stuffing. Mattresses and cushions stuffed with other materials, though, are allowed even for use in the monastery. `Cv.VI.2.7`_ mentions five kinds of allowable stuffing: wool, cloth, bark, grass, and leaves. (According to the Commentary, *wool* here includes all kinds of animal fur and bird feathers. Goose down would thus be allowable. Synthetic fibers and synthetic down would apparently come under “cloth.” The Commentary also mentions that, according to the Kurundī, mattresses and cushions stuffed with these materials are allowable whether covered with leather or cloth.)
 
@@ -894,5 +894,76 @@
 
    \*    \*    \*
 
+
+.. _Pc89:
+
+.. raw:: html
+
+   <span id="Pc89"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **89**
+     - **八十九**
+
+   * - .. container:: notification
+
+          *When a bhikkhu is having a sitting cloth made, it is to be made to the standard measurement. Here the standard is this: two spans—using the sugata span—in length, one and a half spans in width, the border a span. In excess of that, it is to be cut down and confessed.*
+
+     - .. container:: notification
+
+          *當比丘製作坐具時，必須按照標準尺寸製作。這裡的標準是這樣的：長度為兩張手（使用善至張手），寬度為一個半張手，邊框為一張手。超過那者，應該被切掉並懺悔[波逸提]。*
+
+   * - The origin story here follows on the passage in `Mv.VIII.16.1`_, where the Buddha allows bhikkhus to use a sitting cloth in order to protect their robes from getting soiled by their furnishings, and their furnishings from getting soiled by their robes and bodies.
+
+     - 這裡的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0230a03>`__\ 延續\ `《大品》.八.16.1`_ 的段落，佛陀允許比丘使用坐具，以保護他們的袈裟不被他們的家具弄髒，以及他們的家具不被他們的袈裟和身體弄髒。
+
+   * - .. container:: mx-2
+
+          “Now at that time the Blessed One had allowed a sitting cloth for the bhikkhus. Some group-of-six bhikkhus… used sitting cloths, without any limit in size, that hung down in front and behind even on beds and benches.” (As a result, the Buddha set the limit at 2 by 1.5 spans.) Now, Ven. Udāyin was very large. Setting out his sitting cloth in front of the Blessed One, he stretched it out on all sides before sitting down. The Blessed One said to him, ‘Why is it, Udāyin, that when setting out your sitting cloth you stretch it out on all sides like a worker in old leather? (§)’
+
+     - .. container:: mx-2
+
+          「其時世尊允許比丘們使用坐具。某六群比丘……使用坐具，沒有任何尺寸限制，甚至在床和凳子上都前後垂下。」（因此，佛陀將限制設為 2 x 1.5 張手。）其時，優陀夷尊者身體非常大。在世尊面前鋪其坐具，向四面八方展開，然後坐下。世尊對他說：『優陀夷，為什麼在鋪你的坐具時，你像一個穿著舊皮革的工人一樣將它向四面八方展開呢？(§)』
+
+   * - .. container:: mx-2
+
+          “Because the sitting cloth the Blessed One has allowed for the bhikkhus is way too small.’” (Thus the Buddha added the allowance for the border.)
+
+     - .. container:: mx-2
+
+          「因為世尊允許比丘們的坐具太小了。』」（因此佛陀增加了邊框的開緣。）
+
+   * - There are three factors for the full offense here.
+     - 這裡完全違犯的因素有三個。
+
+   * - .. container:: mx-2
+
+          *1) Object:* a sitting cloth larger than the standard measure.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 比標準尺寸大的坐具。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One obtains it after making it or having it made
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 在製作或令人製作之後獲得它
+
+   * - .. container:: mx-2
+
+          *3) Intention:* for one’s own use.
+
+     - .. container:: mx-2
+
+          *3）意圖：*\ 供自己使用。
+
+.. _Mv.VIII.16.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.16.1
+.. _《大品》.八.16.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0382a14
 
 (未完待續)

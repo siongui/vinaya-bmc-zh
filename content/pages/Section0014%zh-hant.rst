@@ -313,8 +313,7 @@
 .. _Pc 89: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
 .. _《大品》.八.16.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0382a14
 .. _《小品》.五.18: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0166a12
-.. _《波逸提》八九: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
-.. TODO FIXME: replace link to 《波逸提》八九
+.. _《波逸提》八九: {filename}Section0024%zh-hant.rst#Pc89
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

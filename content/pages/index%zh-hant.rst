@@ -592,7 +592,7 @@
      - `\　　　八十八 <{filename}Section0024%zh-hant.rst#Pc88>`__
 
    * - `\　　　89 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89>`__
-     - 　　　八十九
+     - `\　　　八十九 <{filename}Section0024%zh-hant.rst#Pc89>`__
 
    * - `\　　　90 <https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc90>`__
      - 　　　九十
