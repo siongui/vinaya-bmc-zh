@@ -914,7 +914,7 @@
 
      - .. container:: notification
 
-          *當比丘製作坐具時，必須按照標準尺寸製作。這裡的標準是這樣的：長度為兩張手（使用善至張手），寬度為一個半張手，邊框為一張手。超過那者，應該被切掉並懺悔[波逸提]。*
+          *當比丘製作坐具時，必須按照標準尺寸製作。這裡的標準是這樣的：長度為兩張手（使用善至張手），寬度為一個半張手，邊框為一張手。超過那者，應該被裁掉並懺悔[波逸提]。*
 
    * - The origin story here follows on the passage in `Mv.VIII.16.1`_, where the Buddha allows bhikkhus to use a sitting cloth in order to protect their robes from getting soiled by their furnishings, and their furnishings from getting soiled by their robes and bodies.
 
@@ -965,5 +965,48 @@
 
 .. _Mv.VIII.16.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.16.1
 .. _《大品》.八.16.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0382a14
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - A sitting cloth, by definition, has to have a border, regardless of whether it is made of felted or woven material. However—as none of the texts give any clear indication as to how many sides should have a border or how the borders should be patterned—there is no definitive measurement as to how large the overall cloth should be. A wise policy, then, is to take the origin story as a guide: Make the cloth large enough so that one can sit cross-legged on it without soiling one’s robes or furnishings, but not so large that it extends out on any side.
+
+     - 坐具，根據定義，必須有邊框，無論其材質是氈製還是編織。然而，由於沒有任何文獻明確指出坐具多少邊應該有邊框，或者邊框的圖案應該如何設計，因此坐具的整體尺寸並沒有確切的標準。所以，明智之舉是以起源故事為指導：製作坐具要足夠大，以便可以雙盤腿而坐而不會弄髒袈裟或家具，但又不能太大，以至於向四面八方延伸。
+
+   * - **Effort**
+     - **努力**
+
+   * - The permutations under this factor are as follows: the act of making the sitting cloth or having it made—a dukkaṭa; obtaining the finished article—a pācittiya. This last penalty applies regardless of whether the cloth was made entirely by oneself, entirely by others either partly or entirely at one’s instigation, or whether one finished what others began or got others to finish what one began oneself. In any event, one must cut the cloth down to the proper size before confessing the offense.
+
+     - 此因素下的排列組合如下：製作或讓人製作坐具的行為——《突吉羅》；獲得成品——《波逸提》。無論坐具是完全由自己製作，或是完全由他人製作（部分或全部受自己唆使），亦或是完成他人開始之物，或令他人完成自己開始之物，均適用此最後一種懲罰。無論如何，在懺悔罪行之前，必須將坐具裁剪至合適尺寸。
+
+   * - If one obtains an oversized sitting cloth made by another—not at one’s instigation—then using it entails a dukkaṭa (§).
+     - 如果獲得一塊由他人製作的過大尺寸的坐具——並非應自己的要求——那麼使用它犯《突吉羅》（§）。
+
+   * - **Intention**
+     - **意圖**
+
+   * - There is a dukkaṭa in making an overly large sitting cloth—or having it made—for the sake of another person.
+     - 為了他人而製作或請人製作過大的坐具，犯《突吉羅》。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if one receives an overly large sitting cloth made by another person (§)—not at one’s instigation—and cuts it down to size before using it oneself. The non-offense clauses also state that there is no offense in a canopy, a floor-covering, a wall screen, a mattress/cushion, or a kneeling mat. This apparently means that if one receives an overly large sitting cloth, one may use it as a canopy, etc., instead.
+
+     - 若收到他人製作的過大坐具（§），且並非應自己的要求，並在使用前將其裁剪至合適尺寸，則不構成犯戒。不犯條款也規定，天篷、地墊、屏風、床墊/墊子或跪墊也不構成犯戒。這顯然意味著，如果收到過大的坐具，可以將其用作天篷等其他用途。
+
+   * - *Summary: Obtaining an overly large sitting cloth after making it—or having it made—for one’s own use is a pācittiya offense requiring that one cut the cloth down to size before confessing the offense.*
+     - *摘要：為自己使用而製作——或請人製作——過大的坐具後，獲得該坐具，是《波逸提》（《單墮》）罪，必須先將坐具裁剪到合適的尺寸才能懺悔罪行。*
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
