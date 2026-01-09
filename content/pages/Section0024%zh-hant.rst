@@ -1009,4 +1009,58 @@
    \*    \*    \*
 
 
+.. _Pc90:
+
+.. raw:: html
+
+   <span id="Pc90"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **90**
+     - **九十**
+
+   * - .. container:: notification
+
+          *When a bhikkhu is having a skin-eruption covering cloth made, it is to be made to the standard measurement. Here the standard is this: four spans—using the sugata span—in length, two spans in width. In excess of that, it is to be cut down and confessed.*
+
+     - .. container:: notification
+
+          *當比丘製作覆瘡布時，必須按照標準尺寸製作。這裡的標準是這樣的：長度為四張手（使用善至張手），寬度為兩張手。超過那者，應該被裁掉並懺悔[波逸提]。*
+
+   * - **Object**
+     - **對象**
+
+   * - `Mv.VIII.17`_ allows bhikkhus to use a skin-eruption covering cloth to protect their robes when they are suffering from boils, running sores, rashes, or “thick scab” diseases (large boils? psoriasis?). The Vibhaṅga to this rule states that the cloth is to cover the area from the navel down to the knees, thus suggesting that the cloth is intended to be worn as an inner robe beneath the lower robe. As we already mentioned under `NP 1`_, one should determine these cloths for use when one is suffering from such a disease and place them under shared ownership when not.
+
+     - `《大品》.八.17`_ 允許比丘在患癤、潰爛、皮疹或「厚痂」疾病（大癤？牛皮癬？）時，使用覆瘡布來保護袈裟。此戒條的《經分別》指出，布料應覆蓋從肚臍到膝蓋的區域，這表明布料應作為內衣穿在下衣之內。正如我們在\ `《捨墮》一`_\ 中所述，應在患此種病時決意這些布料使用，並在非患病時將其置於共享所有權之下。
+
+   * - As mentioned under `Pc 87`_, above, the sugata measures are discussed in `Appendix II`_. Here we take the sugata span to equal 25 cm., which would put the standard measurement for the skin-eruption covering cloth at 1 meter by 50 cm.
+
+     - 如上文\ `《波逸提》八七`_\ 所提到，善至尺寸在\ `附錄二`_\ 中討論。這裡我們取善至張手為 25 公分，這將使覆瘡布的標準尺寸為 1 公尺 x 50 公分。
+
+   * - **Effort, intention, & non-offenses**
+     - **努力，意圖，及不犯**
+
+   * - The permutations of these factors are the same as under the preceding rule.
+     - 這些因素的排列組合與前一條戒條下的排列組合相同。
+
+   * - *Summary: Obtaining an overly large skin-eruption covering cloth after making it—or having it made—for one’s own use is a pācittiya offense requiring that one cut the cloth down to size before confessing the offense.*
+     - *摘要：為自己使用而製作——或請人製作——過大的覆瘡布後，獲得該覆瘡布，是《波逸提》（《單墮》）罪，必須先將覆瘡布裁剪到合適的尺寸才能懺悔罪行。*
+
+.. _Mv.VIII.17: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.17
+.. _《大品》.八.17: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0384a02
+.. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
+.. _Pc 87: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc87
+.. _《波逸提》八七: #Pc87
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
