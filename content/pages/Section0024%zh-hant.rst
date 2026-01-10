@@ -1063,4 +1063,52 @@
    \*    \*    \*
 
 
+.. _Pc91:
+
+.. raw:: html
+
+   <span id="Pc91"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **91**
+     - **九十一**
+
+   * - .. container:: notification
+
+          *When a bhikkhu is having a rains-bathing cloth made, it is to be made to the standard measurement. Here the standard is this: six spans—using the sugata span—in length, two and a half spans in width. In excess of that, it is to be cut down and confessed.*
+
+     - .. container:: notification
+
+          *當比丘製作雨浴衣時，必須按照標準尺寸製作。這裡的標準是這樣的：長度為六張手（使用善至張手），寬度為兩個半張手。超過那者，應該被裁掉並懺悔[波逸提]。*
+
+   * - **Object**
+     - **對象**
+
+   * - The rains-bathing cloth has already been discussed in detail under `NP 24`_. Taking the sugata span as 25 cm., the standard measurement for the rains-bathing cloth would be 1.5 m. by 62.5 cm.
+
+     - 雨浴衣已在\ `《捨墮》二四`_\ 中詳細討論過。以善至張手為 25 公分，雨浴衣的標準尺寸為 1.5 公尺 x 62.5 公分。
+
+   * - **Effort, intention, & non-offenses**
+     - **努力，意圖，及不犯**
+
+   * - The permutations of these factors are the same as under `Pc 89`_.
+     - 這些因素的排列組合與\ `《波逸提》八九`_\ 下的排列組合相同。
+
+   * - *Summary: Obtaining an overly large rains-bathing cloth after making it—or having it made—for one’s own use is a pācittiya offense requiring that one cut the cloth down to size before confessing the offense.*
+     - *摘要：為自己使用而製作——或請人製作——過大的雨浴衣後，獲得該雨浴衣，是《波逸提》（《單墮》）罪，必須先將雨浴衣裁剪到合適的尺寸才能懺悔罪行。*
+
+.. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
+.. _《捨墮》二四: {filename}Section0015%zh-hant.rst#NP24
+.. _Pc 89: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
+.. _《波逸提》八九: #Pc89
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
