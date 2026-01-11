@@ -1138,4 +1138,23 @@
    * - The term *sugata*\—meaning well-gone or accomplished—is an epithet for the Buddha.
      - 「\ *sugata*\ （善逝）」一詞意為善逝或成就，是佛陀的別稱。
 
-(未完待續)
+   * - *Robe* is not defined in the Vibhaṅga here but apparently means any of the three basic robes: the lower robe, the upper robe, and the outer robe. This raises an interesting point: Perhaps in the Buddha’s time all three of the basic robes were approximately the same size. This would have made it much more convenient than it is at present to hold to the practice of using only one set of three robes. When washing one robe, one could wear the other two without looking out of line.
+
+     - 「\ *袈裟*\ 」一詞並未在《經分別》中對其進行定義，但顯然指的是基本的三衣：下衣、上衣和外衣。這引出了一個有趣的觀點：或許在佛陀時代，所有基本三衣的尺寸大致相同。這樣一來，堅持只使用一套三衣的修行就比現在方便得多。當清洗一件袈裟時，可以穿著另外兩件，而不會顯得不協調。
+
+   * - At any rate, taking the sugata span to be 25 cm. would put the size of the Buddha’s robes at 2.25 m. by 1.50 m.—much larger than the lower robes used at present, but much smaller than present-day upper and outer robes.
+
+     - 無論如何，如果將善逝張手取為 25 公分，那麼佛陀的袈裟尺寸將為 2.25 公尺乘以 1.50 公尺——比現在使用的下衣大得多，但比現在的上衣和外衣小得多。
+
+   * - As we will see under `Appendix II`_, various theories have been offered over the centuries as to the length of the sugata span. Beginning at least with the time of the Mahā Aṭṭhakathā, one of the ancient commentaries, the Buddha was assumed to be of three-times normal height, and so his handspan, cubit, etc., were assumed to be three-times normal length. Only recently, within the last century or so, have Vinaya experts taken evidence from the Canon to show that the Buddha, though tall, was not abnormally so, and thus the estimate of the sugata span, etc., has shrunk accordingly. Still, the traditional estimates of the Buddha’s height continue to influence the size of the robes that bhikkhus wear today throughout the Theravādin countries. There was a movement in Thailand during the mid-19th century to return to the original size and style as shown in the earliest Indian Buddha images, but the idea never caught on.
+
+     - 正如我們將在\ `附錄二`_\ 中看到的，幾個世紀以來，關於善逝張手的長度的各種理論被提出。至少從古代註釋書之一《Mahā Aṭṭhakathā》時期開始，佛陀被認為身高是常人的三倍，因此他的張手、肘長等也被認為是常人的三倍。直到最近一個世紀左右，律藏專家才從《聖典》中尋找證據，顯示佛陀雖然身材高大，但並非異常高大，因此對張手等的估計也相應縮小。儘管如此，關於佛陀身高的傳統估計仍然影響著當今上座部佛教國家比丘所穿袈裟的尺寸。19世紀中期，泰國曾出現過一場運動，試圖恢復最早期印度佛像所展現的原始尺寸和樣式，但這一理念並未流行起來。
+
+   * - **Effort, intention, & non-offenses**
+     - **努力，意圖，及不犯**
+
+   * - The permutations of these factors are the same as under `Pc 89`_.
+     - 這些因素的排列組合與\ `《波逸提》八九`_\ 下的排列組合相同。
+
+   * - *Summary: Obtaining an overly large robe after making it—or having it made—for one’s own use is a pācittiya offense requiring that one cut the robe down to size before confessing the offense.*
+     - *摘要：為自己使用而製作——或請人製作——過大的袈裟後，獲得該袈裟，是《波逸提》（《單墮》）罪，必須先將袈裟裁剪到合適的尺寸才能懺悔罪行。*
