@@ -510,8 +510,7 @@
 .. _《相應部》16\:8經: https://sutra.mobi/chilin/xiangying/content/16.html#%E5%85%AB%E6%95%99%E5%8C%96%E4%B9%8B%E4%B8%89
 .. _頭陀: https://zh.wikipedia.org/wiki/%E5%A4%B4%E9%99%80
 .. _Pc 92: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc92
-.. _《波逸提》九二: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc92
-.. TODO FIXME: replace link to 《波逸提》九二
+.. _《波逸提》九二: {filename}Section0024%zh-hant.rst#Pc92
 .. _NP 7: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
 .. _《捨墮》七: #NP7
 

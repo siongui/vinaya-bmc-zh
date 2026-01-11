@@ -264,13 +264,13 @@
 
      - .. container:: notification
 
-          *當比丘製作敷具坐墊（尼師壇）時，應在每一邊加入一善至張手（25公分）的舊敷具，以使其壞色。如果比丘製作一張新敷具坐墊，沒有在每一邊加入一善至張手的舊敷具，尼薩耆波逸提。*
+          *當比丘製作敷具坐墊（尼師壇）時，應在每一邊加入一善逝張手（25公分）的舊敷具，以使其壞色。如果比丘製作一張新敷具坐墊，沒有在每一邊加入一善逝張手的舊敷具，尼薩耆波逸提。*
 
    * - The full offense here has three factors:
      - 這裡的完整違犯包含三個因素：
 
    * - *1) Object:* a felt sitting rug made without incorporating a piece of old felt a sugata span on each side and intended for one’s own use.
-     - *1）對象：*\ 敷具坐墊（尼師壇），每一邊沒有加入一善至張手舊敷具，供自己使用。
+     - *1）對象：*\ 敷具坐墊（尼師壇），每一邊沒有加入一善逝張手舊敷具，供自己使用。
 
    * - *2) Effort:* One either makes it oneself, gets someone else to make it, finishes what others have left unfinished, or gets someone else to finish what one has left unfinished.
      - *2）努力：*\ 自己做，讓別人做，完成別人未完成的，或讓別人完成自己未完成的。
@@ -298,7 +298,7 @@
 
    * - The Commentary to `Pc 89`_ describes the border piece of a felt sitting rug as follows: “Having made a felt rug, then on one end in an area of one sugata span, cutting it at two points, one makes three border pieces.” Whether these three pieces are to be left flapping or are to be sewn back together, it doesn’t say.
 
-     - `《波逸提》八九`_\ 的《義註》對敷具坐墊（尼師壇）邊界片的描述是這樣的：「作了敷具，然後在一善至張手的區域的一端，在兩點切割，就製成了三個邊界片。」這三塊是要繼續飄動，還是要縫合在一起，它並沒有說。
+     - `《波逸提》八九`_\ 的《義註》對敷具坐墊（尼師壇）邊界片的描述是這樣的：「作了敷具，然後在一善逝張手的區域的一端，在兩點切割，就製成了三個邊界片。」這三塊是要繼續飄動，還是要縫合在一起，它並沒有說。
 
    * - According to the Vibhaṅga, when one is making a felt sitting rug, one should take a piece of old felt—at least one span in diameter or one span square—and then either place it down in one part of the new felt as is, or else shred it up and scatter the pieces throughout the new felt. This, it says, will help to strengthen the new felt.
 

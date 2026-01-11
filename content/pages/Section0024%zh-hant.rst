@@ -681,7 +681,7 @@
 
      - .. container:: notification
 
-          *比丘製作新床或凳子時，腳的長度（至多）應為八指寬——使用善至指寬——不包括框架的下緣。超過此長度應被砍掉並懺悔[波逸提]。*
+          *比丘製作新床或凳子時，腳的長度（至多）應為八指寬——使用善逝指寬——不包括框架的下緣。超過此長度應被砍掉並懺悔[波逸提]。*
 
    * - The purpose of this rule is to prevent bhikkhus from making and using furnishings that are high and imposing.
      - 這條戒條的目的是防止比丘們製作和使用高大而氣派的家具。
@@ -695,7 +695,7 @@
 
      - .. container:: mx-2
 
-          *1）對象：*\ 床或凳子的腳，從框架下緣到地面的長度，超過八善至指寬（16.7 公分）。
+          *1）對象：*\ 床或凳子的腳，從框架下緣到地面的長度，超過八善逝指寬（16.7 公分）。
 
    * - .. container:: mx-2
 
@@ -722,7 +722,7 @@
 
    * - The sugata measures are a matter of controversy, discussed in `Appendix II`_. For the purposes of this book, we are taking the sugata span to be 25 cm. Because there are twelve sugata fingerbreadths in a sugata span, eight sugata fingerbreadths would be equal to 16.7 cm.
 
-     - 善至的度量衡存在爭議，在\ `附錄二`_ 中討論。本書中，我們將善至張手定為 25 公分。因為一善至張手有十二善至指寬，所以八善至指寬等於 16.7 公分。
+     - 善逝的度量衡存在爭議，在\ `附錄二`_ 中討論。本書中，我們將善逝張手定為 25 公分。因為一善逝張手有十二善逝指寬，所以八善逝指寬等於 16.7 公分。
 
 .. _Cv.VI.2.4: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#Cv.VI.2.4
 .. _《小品》.六.2.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0203a11
@@ -763,10 +763,10 @@
 
    * - There is no offense in making a bed or bench—or having one made—if the legs are eight sugata fingerbreadths or less; or in receiving a bed or bench with overly long legs made by another if one cuts the legs down to regulation size before using it. The Commentary notes that if one buries the legs in the ground so that no more than eight fingerbreadths separate the ground from the lower frame, that is also allowable.
 
-     - 製作床或凳子，或請人製作，只要腳長不超過八善至指寬，不構成犯戒；或接受他人製作的腳過長的床或凳子，只要在使用前將腿截短至規定尺寸，也不構成犯戒。《義註》指出，如果將腳埋入土中，使框架底部與地面之間的距離不超過八指寬，也是允許的。
+     - 製作床或凳子，或請人製作，只要腳長不超過八善逝指寬，不構成犯戒；或接受他人製作的腳過長的床或凳子，只要在使用前將腿截短至規定尺寸，也不構成犯戒。《義註》指出，如果將腳埋入土中，使框架底部與地面之間的距離不超過八指寬，也是允許的。
 
    * - *Summary: Obtaining a bed or bench with legs longer than eight sugata fingerbreadths after making it—or having it made—for one’s own use is a pācittiya offense requiring that one cut the legs down before confessing the offense.*
-     - *摘要：為自己使用而製作——或請人製作——腳長超過八善至指寬的床或凳子之後並獲得它，是《波逸提》（《單墮》）罪，必須先將腳切短才能懺悔罪行。*
+     - *摘要：為自己使用而製作——或請人製作——腳長超過八善逝指寬的床或凳子之後並獲得它，是《波逸提》（《單墮》）罪，必須先將腳切短才能懺悔罪行。*
 
 
 .. container:: has-text-centered
@@ -914,7 +914,7 @@
 
      - .. container:: notification
 
-          *當比丘製作坐具時，必須按照標準尺寸製作。這裡的標準是這樣的：長度為兩張手（使用善至張手），寬度為一個半張手，邊框為一張手。超過那者，應該被裁掉並懺悔[波逸提]。*
+          *當比丘製作坐具時，必須按照標準尺寸製作。這裡的標準是這樣的：長度為兩張手（使用善逝張手），寬度為一個半張手，邊框為一張手。超過那者，應該被裁掉並懺悔[波逸提]。*
 
    * - The origin story here follows on the passage in `Mv.VIII.16.1`_, where the Buddha allows bhikkhus to use a sitting cloth in order to protect their robes from getting soiled by their furnishings, and their furnishings from getting soiled by their robes and bodies.
 
@@ -1028,7 +1028,7 @@
 
      - .. container:: notification
 
-          *當比丘製作覆瘡布時，必須按照標準尺寸製作。這裡的標準是這樣的：長度為四張手（使用善至張手），寬度為兩張手。超過那者，應該被裁掉並懺悔[波逸提]。*
+          *當比丘製作覆瘡布時，必須按照標準尺寸製作。這裡的標準是這樣的：長度為四張手（使用善逝張手），寬度為兩張手。超過那者，應該被裁掉並懺悔[波逸提]。*
 
    * - **Object**
      - **對象**
@@ -1039,7 +1039,7 @@
 
    * - As mentioned under `Pc 87`_, above, the sugata measures are discussed in `Appendix II`_. Here we take the sugata span to equal 25 cm., which would put the standard measurement for the skin-eruption covering cloth at 1 meter by 50 cm.
 
-     - 如上文\ `《波逸提》八七`_\ 所提到，善至尺寸在\ `附錄二`_\ 中討論。這裡我們取善至張手為 25 公分，這將使覆瘡布的標準尺寸為 1 公尺 x 50 公分。
+     - 如上文\ `《波逸提》八七`_\ 所提到，善逝尺寸在\ `附錄二`_\ 中討論。這裡我們取善逝張手為 25 公分，這將使覆瘡布的標準尺寸為 1 公尺 x 50 公分。
 
    * - **Effort, intention, & non-offenses**
      - **努力，意圖，及不犯**
@@ -1082,14 +1082,14 @@
 
      - .. container:: notification
 
-          *當比丘製作雨浴衣時，必須按照標準尺寸製作。這裡的標準是這樣的：長度為六張手（使用善至張手），寬度為兩個半張手。超過那者，應該被裁掉並懺悔[波逸提]。*
+          *當比丘製作雨浴衣時，必須按照標準尺寸製作。這裡的標準是這樣的：長度為六張手（使用善逝張手），寬度為兩個半張手。超過那者，應該被裁掉並懺悔[波逸提]。*
 
    * - **Object**
      - **對象**
 
    * - The rains-bathing cloth has already been discussed in detail under `NP 24`_. Taking the sugata span as 25 cm., the standard measurement for the rains-bathing cloth would be 1.5 m. by 62.5 cm.
 
-     - 雨浴衣已在\ `《捨墮》二四`_\ 中詳細討論過。以善至張手為 25 公分，雨浴衣的標準尺寸為 1.5 公尺 x 62.5 公分。
+     - 雨浴衣已在\ `《捨墮》二四`_\ 中詳細討論過。以善逝張手為 25 公分，雨浴衣的標準尺寸為 1.5 公尺 x 62.5 公分。
 
    * - **Effort, intention, & non-offenses**
      - **努力，意圖，及不犯**
@@ -1110,5 +1110,32 @@
 
    \*    \*    \*
 
+
+.. _Pc92:
+
+.. raw:: html
+
+   <span id="Pc92"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **92**
+     - **九十二**
+
+   * - .. container:: notification
+
+          *Should any bhikkhu have a robe made the measurement of the sugata robe or larger, it is to be cut down and confessed. Here, the measurement of the Sugata’s sugata robe is this: nine spans—using the sugata span—in length, six spans in width. This is the measurement of the Sugata’s sugata robe.*
+
+     - .. container:: notification
+
+          *若任何比丘所造的袈裟尺寸與善逝袈裟相同或更大，應該被裁掉並懺悔[波逸提]。這裡善逝袈裟的尺寸是這樣的：長度為九張手（使用善逝張手），寬度為六張手。此乃善逝袈裟的尺寸。*
+
+   * - **Object**
+     - **對象**
+
+   * - The term *sugata*\—meaning well-gone or accomplished—is an epithet for the Buddha.
+     - 「\ *sugata*\ （善逝）」一詞意為善逝或成就，是佛陀的別稱。
 
 (未完待續)

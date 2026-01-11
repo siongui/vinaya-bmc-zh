@@ -1418,7 +1418,7 @@
 
      - .. container:: notification
 
-          *當比丘用自己的乞討（得到的所得）（§）建造一間小屋時（§）——沒有資助者並且是為自己建造的——他應該按照標準尺寸建造小屋。這裡的標準是這樣的：長度（在外面測量）十二張手，使用善至張手；裡面寬（測量）為七張手。比丘們應聚集起來指定地點。比丘們指定的地點應該沒有干擾並且有合適的空間。如果比丘在一個干擾且沒有合適空間的地點，以自己的乞討建造一間小屋，或者如果他不召集比丘來指定地點，或者如果他超過標準，僧殘。*
+          *當比丘用自己的乞討（得到的所得）（§）建造一間小屋時（§）——沒有資助者並且是為自己建造的——他應該按照標準尺寸建造小屋。這裡的標準是這樣的：長度（在外面測量）十二張手，使用善逝張手；裡面寬（測量）為七張手。比丘們應聚集起來指定地點。比丘們指定的地點應該沒有干擾並且有合適的空間。如果比丘在一個干擾且沒有合適空間的地點，以自己的乞討建造一間小屋，或者如果他不召集比丘來指定地點，或者如果他超過標準，僧殘。*
 
    * - “At that time the bhikkhus of Āḷavī were having huts built from their own begging—having no sponsors, destined for themselves, not to any standard measurement—that did not come to completion. They were continually begging, continually hinting: ‘Give a man, give labor, give an ox, give a wagon, give a knife, give an ax, give an adze, give a hoe, give a chisel, give rushes, give bamboo, give reeds, give grass, give clay.’ People, harassed with the begging, harassed with the hinting, on seeing bhikkhus would feel apprehensive, alarmed, would run away; would take another route, face another direction, close the door. Even on seeing cows, they would run away, imagining them to be bhikkhus.”
 
@@ -1496,7 +1496,7 @@
 
    * - At another point in its discussions, the Commentary adds that any building three sugata spans wide or less is not big enough to move a bed around in and so does not count as a hut under this rule. The Commentary itself defines a sugata span as three times the span of a normal person, which would put it at approximately 75 cm. More recent calculations based on the fact that the Buddha was not abnormally tall set the sugata span at 25 cm.
 
-     - 在討論的另一點上，《義註》補充說，任何寬度為三善至張手或更小的建築物都不足以移動一張床，因此根據本戒條不算作小屋。《義註》本身將善至張手定義為正常人張手的三倍，即大約 75 公分。根據佛陀身高並無異常的事實，最近的計算將善至張手設定為 25 公分。
+     - 在討論的另一點上，《義註》補充說，任何寬度為三善逝張手或更小的建築物都不足以移動一張床，因此根據本戒條不算作小屋。《義註》本身將善逝張手定義為正常人張手的三倍，即大約 75 公分。根據佛陀身高並無異常的事實，最近的計算將善逝張手設定為 25 公分。
 
    * - *The maximum size of the hut*, as the rule states, is no more than twelve spans long and seven spans wide, or approximately 3 x 1.75 meters. For some reason the Vibhaṅga states that the length of the hut is measured from the outside (excluding the plastering, says the Commentary), while the width is measured from the inside. Neither of these measurements may be exceeded even by the breadth of a hair. Thus a hut measuring ten by eight spans, even though it has less floor area than a twelve-by-seven-span hut, would exceed the standard width and so would be a violation of this rule.
 
