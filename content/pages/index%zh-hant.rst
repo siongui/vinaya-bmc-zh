@@ -604,7 +604,7 @@
      - `\　　　九十二 <{filename}Section0024%zh-hant.rst#Pc92>`__
 
    * - `\　Pāṭidesanīya <https://www.dhammatalks.org/vinaya/bmc/Section0025.html>`__
-     - 　應悔過
+     - `\　應悔過 <{filename}Section0025%zh-hant.rst>`__
 
    * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd1>`__
      - 　　一
