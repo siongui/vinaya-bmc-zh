@@ -607,7 +607,7 @@
      - `\　應悔過 <{filename}Section0025%zh-hant.rst>`__
 
    * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd1>`__
-     - 　　一
+     - `\　　一 <{filename}Section0025%zh-hant.rst#Pd1>`__
 
    * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd2>`__
      - 　　二
