@@ -53,7 +53,7 @@
           *任何比丘若在俗家間，親手從沒有血緣關係的比丘尼手中接受主食或副食，並咀嚼或食用，他應當悔過：「諸位朋友，我犯了應受譴責的不當行為，應當悔過。我悔過。」*
 
    * - A long series of events led up to the formulation of this rule.
-     - `一系列漫長事件 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_006/#0243a06>`__\ 導致了這條戒條的制定。
+     - 一系列漫長事件導致了這條戒條的制定。
 
    * - .. container:: mx-2
 
@@ -102,6 +102,49 @@
      - .. container:: mx-2
 
           「當時，六群比丘尼，見到比丘時，會覆缽而示底……『我允許比丘尼見到比丘時，右傾缽而示，並供養缽中有的食物。』」——\ `《小品》.十.13`_
+
+   * - Here is where the origin story for this rule begins:
+     - 這條戒條的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_006/#0243a06>`__\ 就此展開：
+
+   * - .. container:: mx-2
+
+          “Now at that time a certain bhikkhunī, on the way back from going for alms in Sāvatthī, seeing a certain bhikkhu, said to him, ‘Come, master, accept alms.’
+
+     - .. container:: mx-2
+
+          「當時，一位比丘尼從舍衛城托缽乞食回來，看見一位比丘，便對他說：『來，大師，接受缽食。』
+
+   * - .. container:: mx-2
+
+          “‘Very well, sister.’ And he took everything. As the time (for alms-going) was almost up, she was unable to go for alms and so was deprived of her meal.
+
+     - .. container:: mx-2
+
+          「『很好，姊妹。』然後他就把所有東西都拿走了。由於（托缽的）時間快到了，她沒能去托缽，因此失去了吃飯的機會。
+
+   * - .. container:: mx-2
+
+          “On the second day… the third day… he took everything…. she was deprived of her meal.
+
+     - .. container:: mx-2
+
+          「第二天……第三天……他把一切都拿走了……她失去了吃飯的機會。」
+
+   * - .. container:: mx-2
+
+          “On the fourth day, she went staggering along the road. A financier, coming the opposite direction in a chariot, said to her, ‘Get out of the way, lady.’
+
+     - .. container:: mx-2
+
+          「第四天，她踉蹌著走在路上。一位金融家在馬車裡從對面而來，對她說：『女士，讓開。』
+
+   * - .. container:: mx-2
+
+          “Stepping down (from the road), she fell down right there.
+
+     - .. container:: mx-2
+
+          「她（從路上）走下來時，就摔倒在那裡了。
 
 .. _《小品》.十.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_020/#0357a02
 
