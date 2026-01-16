@@ -146,6 +146,57 @@
 
           「她（從路上）走下來時，就摔倒在那裡了。
 
+   * - .. container:: mx-2
+
+          “The financier asked her forgiveness, ‘Forgive me, lady, for making you fall.’
+
+     - .. container:: mx-2
+
+          「這位金融家請求她的原諒，『女士，請原諒我讓你跌倒。』
+
+   * - .. container:: mx-2
+
+          “‘It wasn’t that you made me fall, householder. It’s just that I myself am weak.’
+
+     - .. container:: mx-2
+
+          「『不是你害我跌倒的，居士。而是我自己太虛弱了。』
+
+   * - .. container:: mx-2
+
+          “‘But why are you weak?’
+
+     - .. container:: mx-2
+
+          「『但是你為什麼這麼虛弱呢？』
+
+   * - .. container:: mx-2
+
+          “And she told him what had happened. The financier, having taken her to his house and having fed her (§), criticized and complained and spread it about, ‘How can their reverences take food from the hand of a bhikkhunī? It’s difficult for women to come by things.’”
+
+     - .. container:: mx-2
+
+          「她把事情經過告訴了他。那位金融家把她帶回家，供養她食物（§），然後批評抱怨，到處散播說：『諸大德怎麼能接受從比丘尼的手中接受食物呢？女人很難獲得所需的東西。』」
+
+   * - There are two factors for the full offense here.
+     - 此處完整違犯有兩個因素。
+
+   * - .. container:: mx-2
+
+          *1) Object:* staple or non-staple food that a bhikkhu has accepted from the hand of a bhikkhunī—unrelated to him—while she is in a village area.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 比丘在村莊地區，與他沒有血緣關係的比丘尼手中接受的主食或副食。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* He eats the food.
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 他吃了食物。
+
 .. _《小品》.十.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_020/#0357a02
 
 (未完待續)
