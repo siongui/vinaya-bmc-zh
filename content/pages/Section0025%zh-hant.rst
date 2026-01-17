@@ -199,4 +199,18 @@
 
 .. _《小品》.十.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_020/#0357a02
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Object**
+     - **對象**
+
+   * - There are two elements to this factor: the food sub-factor and the bhikkhunī sub-factor. Under the food sub-factor: *Staple food* follows the standard definition given in the `Food Chapter`_ under the pācittiya rules. *Non-staple food* includes all edibles except juice drinks, tonics, and medicines. Staple and non-staple food are grounds for a pāṭidesanīya; juice drinks, tonics, and medicines taken as food, grounds for a dukkaṭa.
+
+     - 此因素有兩個元素：食物子因素和比丘尼子因素。食物子因素下：\ *主食*\ 遵循\ `食物品`_\ 中《波逸提》戒條下的標準定義。\ *副食*\ 包括除果汁飲料、補品和藥物以外的所有可食用物。主食和副食構成《應悔過》；將果汁飲料、補品和藥物作為食物服用，構成《突吉羅》。
+
+.. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
+.. _食物品: {filename}Section0019%zh-hant.rst#Pc_ChFour
+
 (未完待續)
