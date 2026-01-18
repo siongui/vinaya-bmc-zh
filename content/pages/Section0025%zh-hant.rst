@@ -210,7 +210,16 @@
 
      - 此因素有兩個元素：食物子因素和比丘尼子因素。食物子因素下：\ *主食*\ 遵循\ `食物品`_\ 中《波逸提》戒條下的標準定義。\ *副食*\ 包括除果汁飲料、補品和藥物以外的所有可食用物。主食和副食構成《應悔過》；將果汁飲料、補品和藥物作為食物服用，構成《突吉羅》。
 
+   * - As for the bhikkhunī sub-factor: *Bhikkhunī* refers to one who has received the double ordination. A bhikkhunī who has received only her first ordination—in the Bhikkhunī Saṅgha—is grounds for a dukkaṭa. *Unrelated* means sharing no common ancestor back through seven generations. Perception as to whether the bhikkhunī is related is not a mitigating factor here. The permutations around the issue of perception here are similar to those under `Pc 4`_, with the only difference that the three pācittiyas under that pattern are changed to three pāṭidesanīyas here. In other words, if she is unrelated, she is grounds for a pāṭidesanīya whether one perceives her as unrelated, related, or doubtful. If she is related, she is grounds for a dukkaṭa if one perceives her as unrelated or doubtful. If she is related and one perceives her as related, she is not grounds for an offense. This pattern with regard to perception is followed in all four pāṭidesanīya rules.
+
+     - 至於比丘尼子因素：\ *比丘尼*\ 指的是已受兩部受戒者。僅單部受戒（在比丘尼僧團）的比丘尼，構成《突吉羅》。\ *沒有血緣關係*\ 是指七代以內沒有共同祖先。在此，對比丘尼是否具有血緣關係的感知並非減輕懲罰的因素。這裡關於感知問題的排列組合與\ `《波逸提》四`_\ 中的排列組合類似，唯一的區別在於，該模式中的三個《波逸提》在此處變為三個《應悔過》。換言之，如果她無血緣關係，無論感知她為無血緣關係、有血緣關係還是存疑，都構成《應悔過》。如果她有血緣關係，無論感知她為無血緣關係或存疑，都構成《突吉羅》。如果她有血緣關係，感知她為有血緣關係，則不構成犯戒。所有四條《應悔過》戒條都遵循這種關於感知的模式。
+
+   * - A *village area* is defined as a house or roadway in a village, town, or city.
+     - *村莊區域*\ 是指村莊、城鎮或城市中的房屋或道路。
+
 .. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
 .. _食物品: {filename}Section0019%zh-hant.rst#Pc_ChFour
+.. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
+.. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
 
 (未完待續)
