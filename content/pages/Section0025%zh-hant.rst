@@ -222,4 +222,51 @@
 .. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
 .. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - There is a dukkaṭa in accepting staple or non-staple food with the purpose of eating it, and in accepting juice drinks, tonics, or medicine with the purpose of taking them as food; while there is a pāṭidesanīya for every mouthful of the staple or non-staple food one eats, and a dukkaṭa for every mouthful one takes of the juice drinks, tonics, or medicine for the sake of food.
+
+     - 為了食用而接受主食或副食，為了當成食物食用而接受果汁飲料、補品或藥物，都犯《突吉羅》；而對於吃的每一口主食或副食則犯《應悔過》，以及為了當成食物而服用的每一口果汁飲料、補品或藥物，犯《突吉羅》。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if a bhikkhu accepts and eats food from a related bhikkhunī or from a female trainee or female novice, related or not. There is also no offense in the following situations even if the bhikkhunī is unrelated:
+
+     - 比丘接受並食用與其有血緣關係的比丘尼，或從無論是否與其有血緣關係的學法女（式叉摩那）或沙彌尼提供的食物，並無犯戒。即使比丘尼與其無血緣關係，在下列情況下也無犯戒：
+
+   * - .. container:: mx-2
+
+          She gets someone else to give him the food.
+
+     - .. container:: mx-2
+
+          她讓別人給他食物。
+
+   * - .. container:: mx-2
+
+          She gives it by placing it near him (as in `NP 18`_ and `Pc 41`_).
+
+     - .. container:: mx-2
+
+          她把它放在他附近（如\ `《捨墮》一八`_\ 和\ `《波逸提》四一`_\ 裡）給他。
+
+   * - .. container:: mx-2
+
+          She gives it to him in a monastery, nuns’ quarters, a dwelling of members of other sects, or on the way back from such places.
+
+     - .. container:: mx-2
+
+          她在寺院、尼姑住處、外道成員的住所，或是從這些地方返回的路上給他。
+
+.. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
+.. _Pc 41: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc41
+.. _《捨墮》一八: {filename}Section0014%zh-hant.rst#NP18
+.. _《波逸提》四一: {filename}Section0020%zh-hant.rst#Pc41
+
 (未完待續)
