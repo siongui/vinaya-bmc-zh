@@ -264,9 +264,43 @@
 
           她在寺院、尼姑住處、外道成員的住所，或是從這些地方返回的路上給他。
 
+   * - .. container:: mx-2
+
+          She gives it to him after she has left the village.
+
+     - .. container:: mx-2
+
+          她離開村莊後給他。
+
+   * - .. container:: mx-2
+
+          She gives him juice drinks, tonics, or medicine, and he uses them as such, rather than as food.
+
+     - .. container:: mx-2
+
+          她給他果汁飲料、補品或藥物，而他如是使用之，而不是當成食物。
+
+   * - The Commentary contains a fairly extensive explanation of the second exemption here. To begin with, the bhikkhunī cannot give the food simply by placing it down. She also has to state that she is giving the food, and the bhikkhu has to state his acceptance. In its discussion of `Cv.X.15.1-2`_, the Commentary argues that food formally accepted by a bhikkhunī does not count as formally accepted for a bhikkhu, and vice versa. Thus, in the case of this exemption, even though the food has been given, the bhikkhu cannot take it until it has been formally offered. The Commentary states that the bhikkhunī can then formally offer it herself, but this would turn the exemption into a mere formality. What is more likely is that the food should be formally offered by someone else.
+
+     - 《義註》對此處第二個豁免有相當詳盡的解釋。首先，比丘尼不能只把食物放下而給予食物。她也必須聲明自己正在給予食物，而比丘也必須聲明他接受。在\ `《小品》.十.15.1-2`_ 的討論中，《義註》論證說，比丘尼正式接受的食物不算是比丘正式接受的食物，反之亦然。因此，就此豁免的情況而言，即使食物已被給予，比丘也必須先經過正式供養才能拿它。《義註》說，比丘尼可以自己正式供養，但這會使該豁免淪為形式主義。更可能的是，食物應由他人正式供養。
+
+   * - In all of these exemptions, the wise policy would be not to take so much of the bhikkhunī’s food that she is deprived of a full meal.
+     - 在所有這些豁免情況下，明智之舉是不要拿走比丘尼太多的食物，以至於讓她無法吃飽飯。
+
+   * - *Summary: Eating staple or non-staple food after having accepted it from the hand of an unrelated bhikkhunī in a village area is a pāṭidesanīya offense.*
+     - *摘要：在村莊地區，從一位與自己沒有血緣關係的比丘尼手中接受主食或副食後食用之，是《應悔過》罪。*
+
 .. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
 .. _Pc 41: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc41
 .. _《捨墮》一八: {filename}Section0014%zh-hant.rst#NP18
 .. _《波逸提》四一: {filename}Section0020%zh-hant.rst#Pc41
+.. _Cv.X.15.1-2: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#Cv.X.15.1
+.. _《小品》.十.15.1-2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_020/#0358a07
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
