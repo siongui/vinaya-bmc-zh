@@ -610,7 +610,7 @@
      - `\　　一 <{filename}Section0025%zh-hant.rst#Pd1>`__
 
    * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd2>`__
-     - 　　二
+     - `\　　二 <{filename}Section0025%zh-hant.rst#Pd2>`__
 
    * - `\　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd3>`__
      - 　　三

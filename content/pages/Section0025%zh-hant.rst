@@ -303,4 +303,36 @@
    \*    \*    \*
 
 
+.. _Pd2:
+
+.. raw:: html
+
+   <span id="Pd2"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **2**
+     - **二**
+
+   * - .. container:: notification
+
+          *In case bhikkhus, being invited, are eating in family residences, and if a bhikkhunī is standing there as though giving directions, (saying,) “Give curry here, give rice here,” then the bhikkhus are to dismiss her: “Go away, sister, while the bhikkhus are eating.” If not one of the bhikkhus should speak to dismiss her, “Go away, sister, while the bhikkhus are eating,” the bhikkhus are to acknowledge it: “Friends, we have committed a blameworthy, unsuitable act that ought to be acknowledged. We acknowledge it.”*
+
+     - .. container:: notification
+
+          *若比丘們受邀在某戶人家用餐，而且如果一位比丘尼站在那裡，彷彿在指揮（，說）：「這裡給咖哩，這裡給米飯」，那麼比丘們應當請她離開：「姊妹，比丘們用餐時，走開。」若沒有比丘們開口請她離開：「姊妹，比丘們用餐時，走開。」比丘們應當悔過：「諸位朋友，我們犯了應受譴責的不當行為，應當悔過。我們悔過。」*
+
+   * - This rule refers to situations where lay donors invite bhikkhus to a meal, and a bhikkhunī stands giving orders, based on favoritism, as to which bhikkhus should get which food. The duty of the bhikkhus in such cases is to tell her to go away before they accept any of the food. If even just one of them does, they all are exempt from the offense here. If none of them does, and the following factors are fulfilled, they all incur the penalty and must acknowledge their offense as a group.
+
+     - 這條戒條指的是在家布施者邀請比丘們用餐，而一位比丘尼站在根據偏好發號施令，決定哪些比丘應該得到哪些食物的情況。在這種情況下，比丘們的義務是在接受任何食物之前告訴她走開。如果即使只有一位比丘這樣做，那麼所有人都免於犯此戒。如果所有人都沒有這樣做，並且滿足以下條件，那麼所有人都要受到懲罰，並且必須作為一個整體懺悔他們的過錯。
+
+   * - If, instead of giving her orders in the bhikkhus’ presence, the bhikkhunī goes to the donors’ place and gives her orders prior to their arrival, then if the bhikkhus know of her actions, the case would come under `Pc 29`_.
+
+     - 如果比丘尼沒有在比丘面前發號施令，而是前往布施者的地方，在他們到達之前發號施令，那麼如果比丘們知道她的行為，這種情況就屬於\ `《波逸提》二九`_\ 。
+
+.. _Pc 29: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc29
+.. _《波逸提》二九: {filename}Section0018%zh-hant.rst#Pc29
+
 (未完待續)
