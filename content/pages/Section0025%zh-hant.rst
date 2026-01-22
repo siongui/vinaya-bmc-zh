@@ -332,7 +332,25 @@
 
      - 如果比丘尼沒有在比丘面前發號施令，而是前往布施者的地方，在他們到達之前發號施令，那麼如果比丘們知道她的行為，這種情況就屬於\ `《波逸提》二九`_\ 。
 
+   * - **Object**
+     - **對象**
+
+   * - As with the preceding rule, there are two objects here: the food and the bhikkhunī. Any one of the five staple foods received in the above situation would fulfill the food sub-factor. A bhikkhunī who has received double ordination would fulfill the bhikkhunī sub-factor. A bhikkhunī ordained only in the Bhikkhunī Saṅgha would be grounds for a dukkaṭa. If she has not been ordained, she is not grounds for an offense.
+
+     - 與前一條戒條一樣，這裡也有兩個對象：食物和比丘尼。上述情況下所接受的五種主食中的任何一種都符合食物子因素。已兩部受戒的比丘尼符合比丘尼子因素。僅在比丘尼僧團受戒的比丘尼構成《突吉羅》。若她未受戒，則不構成犯戒。
+
+   * - Perception as to whether she has been ordained is not a mitigating factor here (see `Pd 1`_).
+     - 關於她是否已受戒的感知在這裡並不構成減輕懲罰的因素（見\ `《應悔過》一`_\ ）。
+
+   * - **Effort**
+     - **努力**
+
+   * - There is a dukkaṭa in accepting the staple food received under such circumstances, and a pāṭidesanīya for every mouthful one eats.
+     - 在這樣的情況下接受主食，犯《突吉羅》，吃的每一口食物犯一次《應悔過》。
+
 .. _Pc 29: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc29
 .. _《波逸提》二九: {filename}Section0018%zh-hant.rst#Pc29
+.. _Pd 1: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd1
+.. _《應悔過》一: #Pd1
 
 (未完待續)
