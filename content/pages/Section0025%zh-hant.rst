@@ -348,6 +348,52 @@
    * - There is a dukkaṭa in accepting the staple food received under such circumstances, and a pāṭidesanīya for every mouthful one eats.
      - 在這樣的情況下接受主食，犯《突吉羅》，吃的每一口食物犯一次《應悔過》。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense if—
+     - 不構成犯戒，如果——
+
+   * - .. container:: mx-2
+
+          the bhikkhunī gets others to give her food to the bhikkhus but does not give it herself;
+
+     - .. container:: mx-2
+
+          比丘尼讓別人把她的食物給比丘們，但她沒有自己給。
+
+   * - .. container:: mx-2
+
+          she herself gives the food of other people to the bhikkhus;
+
+     - .. container:: mx-2
+
+          她自己把別人的食物給比丘們；
+
+   * - .. container:: mx-2
+
+          she gets the donors to give food they have forgotten to give;
+
+     - .. container:: mx-2
+
+          她讓施主給予他們忘記給的食物；
+
+   * - .. container:: mx-2
+
+          she gets them to give to a bhikkhu they have passed over;
+
+     - .. container:: mx-2
+
+          她讓他們給予他們忽略的比丘；
+
+   * - .. container:: mx-2
+
+          she gets them to give the food equally to all;
+
+     - .. container:: mx-2
+
+          她讓他們把食物平均分配給所有人；
+
 .. _Pc 29: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc29
 .. _《波逸提》二九: {filename}Section0018%zh-hant.rst#Pc29
 .. _Pd 1: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd1
