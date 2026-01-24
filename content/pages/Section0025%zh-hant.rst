@@ -394,9 +394,38 @@
 
           她讓他們把食物平均分配給所有人；
 
+   * - .. container:: mx-2
+
+          she gets them to give anything but the five staple foods; or
+
+     - .. container:: mx-2
+
+          她讓他們給予除了五種主食以外的任何東西；或者
+
+   * - .. container:: mx-2
+
+          she is a female trainee or novice.
+
+     - .. container:: mx-2
+
+          她是學法女（式叉摩那）或沙彌尼。
+
+   * - The Commentary explains the first exemption here by noting that if the bhikkhunī were to give her own food to the bhikkhus, they would incur an offense under the preceding rule.
+
+     - 《義註》中解釋此處第一個豁免，指出如果比丘尼將自己的食物給比丘們，他們就會觸犯前一條戒條的罪行。
+
+   * - *Summary: Eating staple food accepted at a meal to which one has been invited and where a bhikkhunī has given directions, based on favoritism, as to which bhikkhu should get which food, and none of the bhikkhus have dismissed her, is a pāṭidesanīya offense.*
+     - *摘要：在受邀參加的餐食上，比丘尼出於偏好而指示哪些比丘應該得到哪些食物，而沒有比丘請她離開，那麼吃餐食上接受的主食是《應悔過》罪。*
+
 .. _Pc 29: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc29
 .. _《波逸提》二九: {filename}Section0018%zh-hant.rst#Pc29
 .. _Pd 1: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd1
 .. _《應悔過》一: #Pd1
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
