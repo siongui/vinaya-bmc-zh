@@ -613,7 +613,7 @@
      - `\　　二 <{filename}Section0025%zh-hant.rst#Pd2>`__
 
    * - `\　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd3>`__
-     - 　　三
+     - `\　　三 <{filename}Section0025%zh-hant.rst#Pd3>`__
 
    * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd4>`__
      - 　　四
