@@ -472,4 +472,28 @@
 
           *2）努力：*\ 吃該食物。
 
+   * - **Object**
+     - **對象**
+
+   * - *Staple food* follows the standard definition given in the `Food Chapter`_ under the pācittiya rules. *Non-staple food* includes all edibles except juice drinks, tonics, and medicines. Staple and non-staple food are grounds for a pāṭidesanīya; juice drinks, tonics, and medicines taken as food, grounds for a dukkaṭa.
+
+     - *主食*\ 遵循\ `食物品`_\ 中《波逸提》戒條下的標準定義。\ *副食*\ 包括除果汁飲料、補品和藥物以外的所有可食用物。主食和副食構成《應悔過》；將果汁飲料、補品和藥物作為食物服用，構成《突吉羅》。
+
+   * - *Ill* is defined as being unable to go for alms.
+     - *生病*\ 的定義是無法去托缽。
+
+   * - *Invited* means that one has been invited on that day or a previous day by a member of the family—or a messenger—standing outside of the residence or its yard/compound. If they invite one while they are inside the residence or its yard/compound, one is not exempt from the offense in accepting and eating their food.
+
+     - \ *受邀*\ 指在當天或之前的日子，由家庭成員——或信差——站在住處或院落外邀請。如果他們在住處或院落內時邀請，接受並食用其提供的食物不能免於犯戒。
+
+   * - Perception as to whether the family has been designated as “in training” is not a mitigating factor here (see `Pd 1`_).
+     - 對於該家是否已被指定為「學家」的感知在這裡並不構成減輕懲罰的因素（見\ `《應悔過》一`_\ ）。
+
+   * - **Effort**
+     - **努力**
+
+   * - There is a dukkaṭa in accepting staple or non-staple food with the purpose of eating it, or in accepting juice drinks, tonics, or medicine with the purpose of taking them as food; a pāṭidesanīya for every mouthful of the staple or non-staple food one eats; and a dukkaṭa for every mouthful one takes of the juice drinks, tonics, or medicine for the sake of food.
+
+     - 接受主食或副食是為了食用之，或者接受果汁飲料、補品或藥物是為了將其做食物而食用之，犯《突吉羅》；每吃一口主食或副食，犯一次《應悔過》；以及為了當成食物而服用的每一口果汁飲料、補品或藥物，犯一次《突吉羅》。
+
 (未完待續)
