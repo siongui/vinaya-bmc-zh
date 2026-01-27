@@ -496,4 +496,46 @@
 
      - 接受主食或副食是為了食用之，或者接受果汁飲料、補品或藥物是為了將其做食物而食用之，犯《突吉羅》；每吃一口主食或副食，犯一次《應悔過》；以及為了當成食物而服用的每一口果汁飲料、補品或藥物，犯一次《突吉羅》。
 
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in eating food that one has accepted from the house of a family in training if—
+     - 若符合以下條件，食用從學家接受的食物並無犯戒：
+
+   * - .. container:: mx-2
+
+          one is ill;
+
+     - .. container:: mx-2
+
+          生病；
+
+   * - .. container:: mx-2
+
+          one was invited;
+
+     - .. container:: mx-2
+
+          受邀請；
+
+   * - .. container:: mx-2
+
+          almsfood supplied by people other than the members of the family in training is set out in the residence or its yard (§);
+
+     - .. container:: mx-2
+
+          由學家成員以外的人提供的缽食擺放在住處或其院子裡（§）；
+
+   * - .. container:: mx-2
+
+          the family has made an arrangement to provide meals by drawing lots, on a daily basis, or on a regular or rotating basis—such as on a particular day of the waxing or waning moon, the uposatha days, or day after the uposatha days (see `Appendix III`_)—and one accepts food as part of that arrangement;
+
+     - .. container:: mx-2
+
+          該家已安排，透過抽籤的方式，每天，或定期，或輪流——例如在月亮盈虧的特定日子、布薩日、或布薩日後一天（見\ `附錄三`_\ ）——提供餐食，並作為該安排的一部分接受食物；
+
+.. _Appendix III: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII
+.. _附錄三: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII
+.. TODO FIXME: replace link to 附錄三
+
 (未完待續)
