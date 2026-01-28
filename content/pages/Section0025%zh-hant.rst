@@ -534,8 +534,41 @@
 
           該家已安排，透過抽籤的方式，每天，或定期，或輪流——例如在月亮盈虧的特定日子、布薩日、或布薩日後一天（見\ `附錄三`_\ ）——提供餐食，並作為該安排的一部分接受食物；
 
+   * - .. container:: mx-2
+
+          one eats the leftovers of one who received the food at their residence when he was invited or ill (which suggests that if Bhikkhu X receives food from such a family in a way that would violate this rule and gives it to Bhikkhu Y, Y would incur offenses in receiving it with the thought of eating it and in consuming it);
+
+     - .. container:: mx-2
+
+          如果比丘 X 受邀請或生病時，在他們的住處接受了食物，比丘 Y 吃比丘 X 的剩菜剩飯（這表明，如果比丘 X 以違反此戒條的方式從這樣的家庭接受了食物，並將其給了比丘 Y，Y 若抱著食用的意圖接收之並食用之，將會犯戒。）；
+
+   * - .. container:: mx-2
+
+          one accepts juice drinks, tonics, or medicine and uses them as such; or
+
+     - .. container:: mx-2
+
+          接受果汁飲料、補品或藥物，並如是使用；或者
+
+   * - .. container:: mx-2
+
+          the members of the family give the food outside of their residence or yard/compound. The Commentary quotes the Mahā Paccarī, one of the ancient commentaries, as saying that this last exemption holds regardless of whether they take the food out of the residence before or after seeing one approach.
+
+     - .. container:: mx-2
+
+          該家成員在住處或院落外給予食物。《義註》引用了古代註釋之一《Mahā Paccarī》的說法，即無論他們是在看到自己靠近之前還是之後將食物帶出住處，此最後一條豁免都適用。
+
+   * - *Summary: Eating staple or non-staple food after accepting it—when one is neither ill nor invited—at the residence of a family formally designated as “in training” is a pāṭidesanīya offense.*
+     - *摘要：在正式指定為「學家」的住處接受主食或副食後食用之，而自己既沒有生病也沒有被邀請，是《應悔過》罪。*
+
 .. _Appendix III: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII
 .. _附錄三: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII
 .. TODO FIXME: replace link to 附錄三
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
