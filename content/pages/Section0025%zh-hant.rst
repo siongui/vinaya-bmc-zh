@@ -571,4 +571,25 @@
    \*    \*    \*
 
 
+.. _Pd4:
+
+.. raw:: html
+
+   <span id="Pd4"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **4**
+     - **四**
+
+   * - .. container:: notification
+
+          *There are wilderness lodgings that are considered dubious and risky. Should any bhikkhu, not being ill, living in such lodgings, chew or consume (a gift of) staple or non-staple food that was unannounced beforehand, having received it with his own hand in the lodging, he is to acknowledge it: “Friends, I have committed a blameworthy, unsuitable act that ought to be acknowledged. I acknowledge it.”*
+
+     - .. container:: notification
+
+          *有些林野住處被認為是可疑且危險的。若任何比丘，無病，居住在此類住處，在住處親手接受，且咀嚼或食用事先未告知的主食或副食（的布施），他應當悔過：「諸位朋友，我犯了應受譴責的不當行為，應當悔過。我悔過。」*
+
 (未完待續)

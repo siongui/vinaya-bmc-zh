@@ -1380,8 +1380,7 @@
 .. _Pd 4: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd4
 .. _《波逸提》十五: {filename}Section0017%zh-hant.rst#Pc15
 .. _八四: {filename}Section0024%zh-hant.rst#Pc84
-.. _《應悔過》四: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd4
-.. TODO FIXME: replace link to 《應悔過》四
+.. _《應悔過》四: {filename}Section0025%zh-hant.rst#Pd4
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

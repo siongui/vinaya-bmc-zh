@@ -616,7 +616,7 @@
      - `\　　三 <{filename}Section0025%zh-hant.rst#Pd3>`__
 
    * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd4>`__
-     - 　　四
+     - `\　　四 <{filename}Section0025%zh-hant.rst#Pd4>`__
 
    * - `\　Sekhiya <https://www.dhammatalks.org/vinaya/bmc/Section0026.html>`__
      - 　應學
