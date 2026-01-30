@@ -592,4 +592,31 @@
 
           *有些林野住處被認為是可疑且危險的。若任何比丘，無病，居住在此類住處，在住處親手接受，且咀嚼或食用事先未告知的主食或副食（的布施），他應當悔過：「諸位朋友，我犯了應受譴責的不當行為，應當悔過。我悔過。」*
 
+   * - .. container:: mx-2
+
+          “Now at that time the Sakyan slaves were rebelling. The Sakyan ladies wanted to present a meal (for the bhikkhus) in wilderness lodgings. The Sakyan slaves heard, ‘The Sakyan ladies, they say, want to present a meal in the wilderness lodgings,’ so they infested the way. The Sakyan ladies, carrying exquisite staple and non-staple foods, went to the wilderness lodgings. The Sakyan slaves, coming out, robbed them and raped them. The Sakyans, having come out and captured the thieves with the goods, criticized and complained and spread it about, ‘How can their reverences not inform us that there are thieves living in the monastery?’”
+
+     - .. container:: mx-2
+
+          「\ `其時釋迦族奴隸正在叛亂。 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_006/#0252a03>`_\ 釋迦族女子想要在林野住處供養（比丘們）。釋迦族奴隸聽說，『據說釋迦族女子想要在林野住處供養』，便出沒於道路。釋迦族女子，帶著精緻的主食和副食，前往林野住處。釋迦族奴隸出現，搶劫並強暴了她們。釋迦族人出來抓住了盜賊和財貨後，批評、抱怨，並散佈說：『諸大德怎麼不通知我們寺院裡有盜賊住著呢？』」
+
+   * - Here again there are two factors for the full offense.
+     - 這裡同樣完全違犯有兩個因素。
+
+   * - .. container:: mx-2
+
+          *1) Object:* an unannounced gift of staple or non-staple food that one has received, when not ill, in a dubious and risky wilderness lodging.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 在可疑且危險的林野住處中，在無病的情況下收到的未告知的主食或副食的布施。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One eats the food.
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 吃該食物。
+
 (未完待續)
