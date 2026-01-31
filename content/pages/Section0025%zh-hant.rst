@@ -619,4 +619,25 @@
 
           *2）努力：*\ 吃該食物。
 
+   * - **Object**
+     - **對象**
+
+   * - The Vibhaṅga defines a *wilderness lodging* as one at least 500 bow-lengths, or one kilometer, from the nearest village, measuring by the shortest walkable path between the two, and not as the crow flies. Such a lodging is considered dubious if signs of thieves—such as their eating, resting, sitting, or standing places—have been seen within it or its vicinity; it is considered risky if people are known to have been hurt or plundered by thieves there. As under the other rule dealing with dubious and risky wilderness lodgings—NP 29—none of the texts here give a precise definition of how far the vicinity of the lodging extends for the purpose of this situation. As noted in the explanation to `NP 29`_, given the risks inherent in such lodgings it was perhaps felt unwise to delimit the area too precisely. Thus, in the context of this rule, the “vicinity” of the lodging can be stretched to include any area where the presence of thieves leads to a common perception that the lodging is dangerous.
+
+     - 《經分別》將\ *林野住處*\ 定義為距離最近村莊至少500弓長（或1公里）的地方，此處的距離以兩地之間最短的步行路徑為準，而非直線距離。如果在住處內或其附近發現盜賊的痕跡，例如他們的飲食、休息、坐臥或站立之處，則該住處被視為可疑；如果已知有人在該住處被盜賊傷害或搶劫，則該住處被視為危險。與另一條關於可疑和危險林野住處的戒條——\ `《捨墮》二九`_\ ——一樣，就此情況而言，此處的文獻均未對住處的「附近區域」的範圍給出明確的定義。如同\ `《捨墮》二九`_\ 的解釋所述，考慮到此類住處固有的風險，或許認為對區域範圍進行過於精確的界定並不明智。因此，根據這條戒條，住處「附近」的範圍可以擴大到包括任何因盜賊出沒而導致人們普遍認為該住處危險的區域。
+
+   * - *Staple food* follows the standard definition given in the `Food Chapter`_ under the pācittiya rules. *Non-staple food* includes all edibles except juice drinks, tonics, and medicines.
+
+     - *主食*\ 遵循\ `食物品`_\ 中《波逸提》戒條下的標準定義。\ *副食*\ 包括除果汁飲料、補品和藥物以外的所有可食用物。
+
+   * - Staple and non-staple food are grounds for a pāṭidesanīya; juice drinks, tonics, and medicines taken as food, grounds for a dukkaṭa.
+     - 主食和副食構成《應悔過》；將果汁飲料、補品和藥物作為食物服用，構成《突吉羅》。
+
+   * - The Vibhaṅga gives specific instructions for how the gift of food should be announced. The donor(s) or a messenger must come into the lodging compound if it is walled, or into its vicinity if it is not, and tell one of the inhabitants that a gift of food will be brought. The inhabitant must then tell the informant that the area is dubious and risky. If the informant says, “Never mind, the donor(s) will come anyway,” then someone in the lodging must tell the thieves, “Go away. People are coming to serve food.” This is unlikely to make the thieves go away but, as the Commentary explains, it absolves the bhikkhus from any responsibility if the thieves attack the donors.
+
+     - 《經分別》對如何告知食物布施作出了具體指示。如果有圍牆的話，布施者或使者必須進入有圍牆的住處，如果沒有圍牆，則在其附近，告知居住者之一即將帶來食物布施。居住者隨後必須跟告知者說此地可疑且危險。若告知者說：『沒關係，布施者無論如何都會來』，則住處內的某人必須告訴盜賊：『走開！有人要來供養食物。』雖然這不太可能趕走盜賊，但正如《義註》所解釋的，如果盜賊襲擊布施者，其可免除比丘的責任。
+
+.. _NP 29: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
+.. _《捨墮》二九: {filename}Section0015%zh-hant.rst#NP29
+
 (未完待續)
