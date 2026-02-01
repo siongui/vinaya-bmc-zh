@@ -637,6 +637,20 @@
 
      - 《經分別》對如何告知食物布施作出了具體指示。如果有圍牆的話，布施者或使者必須進入有圍牆的住處，如果沒有圍牆，則在其附近，告知居住者之一即將帶來食物布施。居住者隨後必須跟告知者說此地可疑且危險。若告知者說：『沒關係，布施者無論如何都會來』，則住處內的某人必須告訴盜賊：『走開！有人要來供養食物。』雖然這不太可能趕走盜賊，但正如《義註》所解釋的，如果盜賊襲擊布施者，其可免除比丘的責任。
 
+   * - According to the Vibhaṅga, even if the informant specifies that only certain types of food will be brought, anything that comes along with those foods counts as announced (§). Here the Commentary adds that if other people learn of the intended donation and bring food to add to it, their food counts as announced as well. The Vibhaṅga also states that if the informant says a group of people is coming to bring food, the announcement covers anything brought by any member of the group.
+
+     - 根據《經分別》，即使告知者明確說明只帶來特定種類的食物，任何與這些食物一同帶來的東西都算作已告知（§）。《義註》在此補充道，如果其他人得知布施計劃並帶食物來相加，他們帶來的食物也算是已告知。《經分別》也指出，如果告知者說一群人會帶來食物，那麼該聲明涵蓋了該群體中任何成員帶來的任何東西。
+
+   * - The Commentary adds that if the donors send a bhikkhu or novice to the lodging to announce the donation, it does not count as announced. In other words, the messenger must be a lay person.
+
+     - 《義註》補充道，如果布施者派遣比丘或沙彌到住處宣布該布施，則不算作已告知。換言之，使者必須是在家人。
+
+   * - Perception as to whether the food has been properly announced is not a mitigating factor here (see `Pd 1`_).
+     - 對於食物是否已適當告知的感知在這裡並不是減輕懲罰的因素（見\ `《應悔過》一`_\ ）。
+
+   * - A bhikkhu counts as *ill* if he is unable to go for alms.
+     - 比丘若不能去托缽，則視為\ *有病*\ 。
+
 .. _NP 29: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
 .. _《捨墮》二九: {filename}Section0015%zh-hant.rst#NP29
 
