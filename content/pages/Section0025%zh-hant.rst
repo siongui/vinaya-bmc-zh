@@ -654,4 +654,58 @@
 .. _NP 29: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
 .. _《捨墮》二九: {filename}Section0015%zh-hant.rst#NP29
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Effort**
+     - **努力**
+
+   * - Under these circumstances, there is a dukkaṭa in accepting unannounced staple or non-staple food with the purpose of eating it, or in accepting unannounced juice drinks, tonics or medicine with the purpose of taking them as food; a pāṭidesanīya for every mouthful of the unannounced staple or non-staple food one eats; and a dukkaṭa for every mouthful one takes of the unannounced juice drinks, tonics, or medicine for the sake of food. These penalties apply not only to the bhikkhu who accepts these items directly from the donor(s), but also to all other bhikkhus who take these items and eat them.
+
+     - 在這種情況下，為了食用而接受未事先告知的主食或副食，或為了當成食物食用而接受未事先告知的果汁飲料、補品或藥物，都犯《突吉羅》；每吃一口未事先告知的主食或副食，犯一次《應悔過》；每吃一口當成食物且未事先告知的果汁飲料、補品或藥物，犯一次《突吉羅》。這些懲罰不僅適用於直接從施主接受這些物品的比丘，也適用於所有其他接受並食用這些物品的比丘。
+
+   * - **Non-offenses**
+     - **不犯**
+
+   * - There is no offense in eating food accepted in the lodging if one is ill or if the gift was announced. There is also no offense—
+
+     - 如果生病或該布施已被告知，那麼食用在住處被接受的食物並不犯戒。此外，若符合以下條件也不犯戒——
+
+   * - .. container:: mx-2
+
+          in using fruit, roots, bark, leaves, or flowers growing in the lodging (or, apparently, in its vicinity or compound);
+
+     - .. container:: mx-2
+
+          使用生長在住處（或顯然在其附近或院落內）的果實、根、樹皮、葉子或花朵；
+
+   * - .. container:: mx-2
+
+          in eating left-over announced food or food given to one who is ill;
+
+     - .. container:: mx-2
+
+          吃剩下的已告知食物或給病者的食物；
+
+   * - .. container:: mx-2
+
+          in accepting food outside the lodging and eating it inside; or
+
+     - .. container:: mx-2
+
+          在住處外接受食物並在住處內食用；或
+
+   * - .. container:: mx-2
+
+          in accepting and consuming juice drinks, tonics, and medicines as such and not as food.
+
+     - .. container:: mx-2
+
+          如是接受並服用果汁飲料、補品和藥物，而不是當成食物。
+
+   * - The Commentary, in discussing these allowances, makes the following points: 1) If lay people take any of the fruits, roots, etc., growing in the lodging and cook them at home, they must announce the gift before bringing them back to the lodging. 2) If the donors, after announcing the gift, bring large amounts of food, some of it may be set aside—without presenting it to the bhikkhus—to be presented on a later day.
+
+     - 《義註》在討論這些開緣時，提出了以下幾點：1）如果在家人拿取住處內生長的任何水果、根莖等，並在家中烹調，則他們必須在將其帶回住處之前告知布施。2）如果施主在告知布施後帶來大量食物，其中一部分可以擱置——而非供養給比丘——留待日後供養。
+
 (未完待續)
