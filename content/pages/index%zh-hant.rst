@@ -619,7 +619,7 @@
      - `\　　四 <{filename}Section0025%zh-hant.rst#Pd4>`__
 
    * - `\　Sekhiya <https://www.dhammatalks.org/vinaya/bmc/Section0026.html>`__
-     - 　應學
+     - `\　應學 <{filename}Section0026%zh-hant.rst>`__
 
    * - `\　　One: The 26 Dealing with Proper Behavior <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk_ChOne>`__
      - 　　第一 二十六條關於適當行為
