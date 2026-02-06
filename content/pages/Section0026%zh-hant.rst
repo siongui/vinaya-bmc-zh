@@ -11,12 +11,6 @@
    :class: is-size-7
 
 
-.. _BMC1chapter9:
-
-.. raw:: html
-
-   <span id="BMC1chapter9"></span>
-
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
    :widths: auto
@@ -38,6 +32,17 @@
    * - *The Commentary adds that* unknowingly *in this case does not mean not knowing the rule. For a new bhikkhu not to make the effort to know the rules, it says, would qualify as disrespect. So* unknowingly *here means not knowing that a situation contrary to the rules has developed. For instance, if one does not know that one’s robes have gotten out of kilter, that would not count as a breach of the relevant rule.*
 
      - *《義註》補充道，此處的「*\ 不知情地\ *」並非指不知道戒條。它指出，對於一位新比丘而言，若不努力去知道戒條，則構成不敬。因此，此處的「*\ 不知情地\ *」指的是不知到已出現違反戒條的情況。例如，若不知曉自己的袈裟歪斜，則不算違反相關戒條。*
+
+
+.. _Sk_ChOne:
+
+.. raw:: html
+
+   <span id="Sk_ChOne"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
 
    * - **One: The 26 Dealing with Proper Behavior**
      - **第一 二十六條關於適當行為**
@@ -77,5 +82,27 @@
 .. _阿說示尊者: https://zh.wikipedia.org/zh-hant/%E9%98%BF%E8%AA%AA%E7%A4%BA
 .. _Mv.I.23.1-3: https://www.dhammatalks.org/vinaya/Mv/MvI.html#pts23_1
 .. _《大品》.一.23.1-3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0054a03
+
+
+.. _Sk1:
+
+.. raw:: html
+
+   <span id="Sk1"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **1 [2]**
+     - **一 [二]**
+
+   * - .. container:: notification
+
+          *I will wear the lower robe [upper robe] wrapped around (me): a training to be observed.*
+
+     - .. container:: notification
+
+          *我將身披下衣[上衣]：應當學。*
 
 (未完待續)

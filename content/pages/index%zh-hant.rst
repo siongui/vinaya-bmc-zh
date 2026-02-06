@@ -622,10 +622,10 @@
      - `\　應學 <{filename}Section0026%zh-hant.rst>`__
 
    * - `\　　One: The 26 Dealing with Proper Behavior <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk_ChOne>`__
-     - 　　第一 二十六條關於適當行為
+     - `\　　第一 二十六條關於適當行為 <{filename}Section0026%zh-hant.rst#Sk_ChOne>`__
 
    * - `\　　　1 [2] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk1>`__
-     - 　　　一 [二]
+     - `\　　　一 [二] <{filename}Section0026%zh-hant.rst#Sk1>`__
 
    * - `\　　　3 [4] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk3>`__
      - 　　　三 [四]
