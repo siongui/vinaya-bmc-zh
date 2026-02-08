@@ -126,4 +126,42 @@
 .. _《小品》.八.6.2-3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0296a08
 .. _《小品》.八.8.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0300a01
 
+.. _Sk3:
+
+.. raw:: html
+
+   <span id="Sk3"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **3 [4]**
+     - **三 [四]**
+
+   * - .. container:: notification
+
+          *I will go [sit] well-covered in inhabited areas: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將善披覆而行[坐]於俗家間：應當學。*
+
+   * - The Vibhaṅga does not define *inhabited areas* in this or any of the following rules. The term thus probably has the same meaning as under `Pd 1`_: in the homes of lay people, or along the streets and alleys of villages, cities, or towns. This does not include, however, monasteries located in inhabited areas, for the incoming bhikkhu’s protocols (`Cv.VIII.1.2`_) show that when the Canon was composed, bhikkhus were not required to wear their upper robes in the monastery. At present, though, many monasteries located in inhabited areas require that bhikkhus living with them observe many of these rules when outside of their personal quarters but still within monastery grounds.
+
+     - 《經分別》在本戒條及以下任何一條戒條中均未對「\ *俗家*\ 」進行定義。因此，該術語的含義可能與\ `《應悔過》一`_\ 中的含義相同：即在家人的家中，或村莊、城市或城鎮的街道和小巷。然而，這並不包括位於俗家區域的寺院，因為客住比丘的行儀（\ `《小品》.八.1.2`_\ ）表明，在《聖典》編纂之時，比丘在寺院內無需穿著上衣。但如今，許多位於俗家區域的寺院要求與其同住的比丘們在離開個人住所但仍在寺院範圍內時，遵守其中許多戒條。
+
+   * - *Well-covered*, according to the Commentary, means not exposing one’s chest or knees. One should have the upper edge of the upper robe around the neck, and the lower edge covering the wrists. The lower edge of the lower robe, as stated above, should cover the knees. When seated, only one’s head, hands, and legs from the calves on down should show.
+
+     - *善披覆*\ ，根據《義註》，意指不露出胸部和膝蓋。上衣的上緣應圍繞頸部，下緣應遮住手腕。如上所述，下衣的下緣應遮住膝蓋。坐著時，只露出頭部、雙手和小腿以下的部分。
+
+   * - Sk 4 here has an added non-offense clause: There is no offense if one sits not “well-covered” within one’s residence (§). According to the Vinaya-mukha, this means within one’s room when staying overnight in a lay person’s home; when outside of one’s room, though, one should follow the rule.
+
+     - 《應學》四在此增加了一條不犯條款：如果在自己的住所內（§）坐著時沒有「善披覆」並不犯戒。根據《戒律入口》的解釋，這指的是在在家人的家中過夜時，在自己的房間裡；但如果在房間外，則應遵守此戒條。
+
+.. _Pd 1: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd1
+.. _Cv.VIII.1.2: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.1.2-5
+.. _《應悔過》一: {filename}Section0025%zh-hant.rst#Pd1
+.. _《小品》.八.1.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0285a14
+
 (未完待續)

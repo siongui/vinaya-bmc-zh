@@ -628,7 +628,7 @@
      - `\　　　一 [二] <{filename}Section0026%zh-hant.rst#Sk1>`__
 
    * - `\　　　3 [4] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk3>`__
-     - 　　　三 [四]
+     - `\　　　三 [四] <{filename}Section0026%zh-hant.rst#Sk3>`__
 
    * - `\　　　5 [6] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk5>`__
      - 　　　五 [六]
