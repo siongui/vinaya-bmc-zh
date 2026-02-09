@@ -631,10 +631,10 @@
      - `\　　　三 [四] <{filename}Section0026%zh-hant.rst#Sk3>`__
 
    * - `\　　　5 [6] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk5>`__
-     - 　　　五 [六]
+     - `\　　　五 [六] <{filename}Section0026%zh-hant.rst#Sk5>`__
 
    * - `\　　　7 [8] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk7>`__
-     - 　　　七 [八]
+     - `\　　　七 [八] <{filename}Section0026%zh-hant.rst#Sk7>`__
 
    * - `\　　　9 [10] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk9>`__
      - 　　　九 [十]

@@ -164,4 +164,56 @@
 .. _《應悔過》一: {filename}Section0025%zh-hant.rst#Pd1
 .. _《小品》.八.1.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0285a14
 
+
+.. _Sk5:
+
+.. raw:: html
+
+   <span id="Sk5"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **5 [6]**
+     - **五 [六]**
+
+   * - .. container:: notification
+
+          *I will go [sit] well-restrained in inhabited areas: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將善攝護而行[坐]於俗家間：應當學。*
+
+   * - *Well-restrained*, according to the Vibhaṅga, means not playing with the hands or feet. This would include such things as dancing, cracking one’s knuckles, or wiggling one’s fingers or toes.
+
+     - *善攝護*\ ，根據《經分別》，意指不玩弄手腳。這包括跳舞、掰手指關節、擺動手指或腳趾等行為。
+
+
+.. _Sk7:
+
+.. raw:: html
+
+   <span id="Sk7"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **7 [8]**
+     - **七 [八]**
+
+   * - .. container:: notification
+
+          *I will go [sit] with eyes lowered in inhabited areas: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將垂目而行[坐]於俗家間：應當學。*
+
+   * - The Vibhaṅga says that a bhikkhu should keep his gaze lowered to the ground the distance of a plow’s length ahead of him—this equals two meters, according to the Commentary. The purpose of this rule, it adds, is to prevent one from gazing aimlessly at the sights here and there as one walks along. There is nothing wrong, though, in looking up when one has reason to do so. An example given in the Commentary is stopping to look up and see if there are dangers from approaching horses or elephants. A more modern example would be checking the traffic before crossing a road.
+
+     - 《經分別》說，比丘應將目光向下，看向前方一犁長的距離的地面——根據《義註》，這相當於兩公尺。它補充說，這條戒條的目的是為了防止比丘在行走時漫無目的地四處張望。然而，有理由時抬頭看也無妨。《義註》中舉例說，停下來抬頭看看是否有靠近的馬匹或大象的危險。一個更現代的例子是，過馬路前先查看交通狀況。
+
 (未完待續)
