@@ -216,4 +216,88 @@
 
      - 《經分別》說，比丘應將目光向下，看向前方一犁長的距離的地面——根據《義註》，這相當於兩公尺。它補充說，這條戒條的目的是為了防止比丘在行走時漫無目的地四處張望。然而，有理由時抬頭看也無妨。《義註》中舉例說，停下來抬頭看看是否有靠近的馬匹或大象的危險。一個更現代的例子是，過馬路前先查看交通狀況。
 
+
+.. _Sk9:
+
+.. raw:: html
+
+   <span id="Sk9"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **9 [10]**
+     - **九 [十]**
+
+   * - .. container:: notification
+
+          *I will not go [sit] with robes hitched up in inhabited areas: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不撩起袈裟而行[坐]於俗家間：應當學。*
+
+   * - According to the Vibhaṅga, *to hitch up one’s robes* means to lift them so as to expose either side or both sides of the body. `Sk 10`_ here, like `Sk 4`_, does not apply when one is sitting in one’s residence in an inhabited area (§).
+
+     - 根據《經分別》，\ *撩起袈裟*\ 是指提起袈裟，露出身體的一側或兩側。此處的\ `《應學》十`_\ ，如同\ `《應學》四`_\ 一樣，不適用於在俗家間（§）的住所內坐著的情況。
+
+.. _Sk 10: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk9
+.. _Sk 4: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk3
+.. _《應學》十: #Sk9
+.. _《應學》四: #Sk3
+
+
+.. _Sk11:
+
+.. raw:: html
+
+   <span id="Sk11"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **11 [12]**
+     - **十一 [十二]**
+
+   * - .. container:: notification
+
+          *I will not go [sit] laughing loudly in inhabited areas: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不放聲大笑而行[坐]於俗家間：應當學。*
+
+   * - According to the Vibhaṅga, if there is any reason for amusement, one should simply smile. It also states that there is no offense in laughing loudly when ill or there are dangers. The editors of the Thai edition of the Pali Canon question these exemptions on the grounds that they see no reason why anyone would laugh loudly in either of these situations, but this objection shows a lack of imagination.
+
+     - 根據《經分別》，若有什麼消遣的理由，只應微笑即可。它也指出，生病或有危險時，放聲大笑並無不妥。泰國版巴利《聖典》的編者質疑這些例外情況，認為在上述兩種情況下，都沒有理由放聲大笑，但這種反對意見顯示出缺乏想像力。
+
+
+.. _Sk13:
+
+.. raw:: html
+
+   <span id="Sk13"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **13 [14]**
+     - **十三 [十四]**
+
+   * - .. container:: notification
+
+          *I will go [sit] (speaking) with a lowered voice in inhabited areas: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將放低聲音（說話）而行[坐]於俗家間：應當學。*
+
+   * - The Commentary defines a *lowered voice* as follows: Three bhikkhus are sitting in a row at intervals of three meters. The first bhikkhu speaks. The second can hear him and clearly catch what he is saying. The third can hear his voice but not what he is saying. If the third can clearly catch what he is saying, it maintains, the first bhikkhu is speaking too loudly. As the Vinaya-mukha notes, though, when one is speaking to a crowd of people, there is nothing wrong in raising one’s voice provided that one does not shout. And as the non-offense clauses show, there is nothing wrong in shouting if there are dangers—e.g., someone is about to fall off a cliff or be hit by a car. It would also seem that there is no offense in shouting if one’s listener is partially deaf.
+
+     - 《義註》對\ *放低聲音*\ 的定義如下：三位比丘坐成一列，間隔三公尺。第一位比丘說話。第二位比丘能聽到他的聲音，並且清楚地聽清了他在說什麼。第三位比丘聽見他的聲音，但聽不清楚他在說什麼。它認為，如果第三位比丘能聽清楚他在說什麼，那麼第一位比丘說話的聲音就太大了。然而，正如《戒律入口》所指出的，當對著一群人說話時，只要不喊叫，提高音量並沒有錯。而且，正如不犯條款所示，如果存在危險——例如，有人即將墜落懸崖或被車撞——喊叫也沒有錯。如果聽者部份耳聾，喊叫似乎也沒有犯戒。
+
+
 (未完待續)

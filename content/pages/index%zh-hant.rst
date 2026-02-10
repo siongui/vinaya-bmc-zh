@@ -637,13 +637,13 @@
      - `\　　　七 [八] <{filename}Section0026%zh-hant.rst#Sk7>`__
 
    * - `\　　　9 [10] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk9>`__
-     - 　　　九 [十]
+     - `\　　　九 [十] <{filename}Section0026%zh-hant.rst#Sk9>`__
 
    * - `\　　　11 [12] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk11>`__
-     - 　　　十一 [十二]
+     - `\　　　十一 [十二] <{filename}Section0026%zh-hant.rst#Sk11>`__
 
    * - `\　　　13 [14] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk13>`__
-     - 　　　十三 [十四]
+     - `\　　　十三 [十四] <{filename}Section0026%zh-hant.rst#Sk13>`__
 
    * - `\　　　15 [16] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk15>`__
      - 　　　十五 [十六]
