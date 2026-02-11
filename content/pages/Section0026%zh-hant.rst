@@ -300,4 +300,90 @@
      - 《義註》對\ *放低聲音*\ 的定義如下：三位比丘坐成一列，間隔三公尺。第一位比丘說話。第二位比丘能聽到他的聲音，並且清楚地聽清了他在說什麼。第三位比丘聽見他的聲音，但聽不清楚他在說什麼。它認為，如果第三位比丘能聽清楚他在說什麼，那麼第一位比丘說話的聲音就太大了。然而，正如《戒律入口》所指出的，當對著一群人說話時，只要不喊叫，提高音量並沒有錯。而且，正如不犯條款所示，如果存在危險——例如，有人即將墜落懸崖或被車撞——喊叫也沒有錯。如果聽者部份耳聾，喊叫似乎也沒有犯戒。
 
 
+.. _Sk15:
+
+.. raw:: html
+
+   <span id="Sk15"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **15 [16]**
+     - **十五 [十六]**
+
+   * - .. container:: notification
+
+          *I will not go [sit] swinging my body in inhabited areas: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不晃動身體而行[坐]於俗家間：應當學。*
+
+   * - This means that one should keep one’s body straight. `Sk 16`_, like `Sk 4`_, does not apply when one is sitting in one’s residence in an inhabited area (§).
+     - 這意指應該保持身體挺直。\ `《應學》十六`_\ 與\ `《應學》四`_\ 一樣，不適用於坐在俗家間的住處裡（§）。
+
+.. _Sk 16: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk15
+.. _《應學》十六: #Sk15
+
+
+.. _Sk17:
+
+.. raw:: html
+
+   <span id="Sk17"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **17 [18]**
+     - **十七 [十八]**
+
+   * - .. container:: notification
+
+          *I will not go [sit] swinging my arms in inhabited areas: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不晃動手臂而行[坐]於俗家間：應當學。*
+
+   * - According to the Commentary, this means that one should keep one’s arms still, although as the Vinaya-mukha points out, there is nothing wrong in swinging one’s arms slightly to keep one’s balance as one walks. The non-offense clauses indicate that `Sk 18`_, like `Sk 4`_, does not apply when one is sitting in one’s residence in an inhabited area.
+
+     - 根據《義註》，這意指應該保持手臂靜止，但正如《戒律入口》所指出的，行走時為了保持平衡而輕微晃動手臂並無不妥。不犯條款表明，\ `《應學》十八`_\ 與\ `《應學》四`_\ 一樣，不適用於坐在俗家間的住處裡。
+
+.. _Sk 18: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk17
+.. _《應學》十八: #Sk17
+
+
+.. _Sk19:
+
+.. raw:: html
+
+   <span id="Sk19"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **19 [20]**
+     - **十九 [二十]**
+
+   * - .. container:: notification
+
+          *I will not go [sit] swinging my head in inhabited areas: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不晃動頭部而行[坐]於俗家間：應當學。*
+
+   * - This refers to swinging the head from side to side or letting it droop forward or back. Of course, there is no offense if one is dozing off, and like `Sk 4`_, `Sk 20`_ does not apply when one is sitting in one’s residence in an inhabited area.
+
+     - 這指的是頭部左右搖晃或向前或向後垂落。當然，如果是在打瞌睡則不犯戒，而且與\ `《應學》四`_\ 一樣，\ `《應學》二十`_\ 也不適用於坐在俗家間的住處裡。
+
+.. _Sk 20: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk19
+.. _《應學》二十: #Sk19
+
+
 (未完待續)

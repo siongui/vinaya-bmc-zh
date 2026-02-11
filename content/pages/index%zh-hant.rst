@@ -646,13 +646,13 @@
      - `\　　　十三 [十四] <{filename}Section0026%zh-hant.rst#Sk13>`__
 
    * - `\　　　15 [16] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk15>`__
-     - 　　　十五 [十六]
+     - `\　　　十五 [十六] <{filename}Section0026%zh-hant.rst#Sk15>`__
 
    * - `\　　　17 [18] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk17>`__
-     - 　　　十七 [十八]
+     - `\　　　十七 [十八] <{filename}Section0026%zh-hant.rst#Sk17>`__
 
    * - `\　　　19 [20] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk19>`__
-     - 　　　十九 [二十]
+     - `\　　　十九 [二十] <{filename}Section0026%zh-hant.rst#Sk19>`__
 
    * - `\　　　21 [22] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk21>`__
      - 　　　二十一 [二十二]
