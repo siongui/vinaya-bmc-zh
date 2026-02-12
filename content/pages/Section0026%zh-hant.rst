@@ -386,4 +386,84 @@
 .. _《應學》二十: #Sk19
 
 
+.. _Sk21:
+
+.. raw:: html
+
+   <span id="Sk21"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **21 [22]**
+     - **二十一 [二十二]**
+
+   * - .. container:: notification
+
+          *I will not go [sit] with arms akimbo in inhabited areas: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不雙手叉腰而行[坐]於俗家間：應當學。*
+
+   * - *Akimbo* means with the hand on the hip. This rule, the Vibhaṅga says, forbids having one arm or both arms akimbo. Sk 22 does not apply when one is sitting in one’s residence in an inhabited area.
+
+     - *雙手叉腰*\ 指的是手叉腰。《經分別》說，這條戒條禁止單臂或雙臂叉腰。《應學》二十二不適用於坐在俗家間的住處裡。
+
+
+.. _Sk23:
+
+.. raw:: html
+
+   <span id="Sk23"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **23 [24]**
+     - **二十三 [二十四]**
+
+   * - .. container:: notification
+
+          *I will not go [sit] with my head covered in inhabited areas: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不覆頭而行[坐]於俗家間：應當學。*
+
+   * - *Covered* here means covered with a robe, a scarf, or other similar piece of cloth. `Sk 24`_ does not apply when one is sitting in one’s residence in an inhabited area. The allowance for “one who is ill” under both rules means that one may cover one’s head when the weather is unbearably cold or the sun unbearably hot.
+
+     - *覆蓋*\ 在此指的是用袈裟、圍巾或其他類似布料遮蓋。\ `《應學》二四`_\ 不適用於坐在俗家間的住處裡。兩條戒條中都有「生病的人」的開緣，這意味著在天氣難以忍受地寒冷或陽光難以忍受地炎熱時，可以遮蓋頭部。
+
+.. _Sk 24: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk23
+.. _《應學》二四: #Sk23
+
+
+.. _Sk25:
+
+.. raw:: html
+
+   <span id="Sk25"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **25**
+     - **二十五**
+
+   * - .. container:: notification
+
+          *I will not go tiptoeing or walking just on the heels in inhabited areas: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不踮著腳尖或只用腳跟走路而行於俗家間：應當學。*
+
+   * - This translation of the rule follows the Commentary.
+     - 本戒條的翻譯遵循《義註》。
+
+
 (未完待續)

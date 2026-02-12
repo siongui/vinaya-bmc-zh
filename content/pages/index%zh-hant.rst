@@ -655,13 +655,13 @@
      - `\　　　十九 [二十] <{filename}Section0026%zh-hant.rst#Sk19>`__
 
    * - `\　　　21 [22] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk21>`__
-     - 　　　二十一 [二十二]
+     - `\　　　二十一 [二十二] <{filename}Section0026%zh-hant.rst#Sk21>`__
 
    * - `\　　　23 [24] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk23>`__
-     - 　　　二十三 [二十四]
+     - `\　　　二十三 [二十四] <{filename}Section0026%zh-hant.rst#Sk23>`__
 
    * - `\　　　25 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk25>`__
-     - 　　　二十五
+     - `\　　　二十五 <{filename}Section0026%zh-hant.rst#Sk25>`__
 
    * - `\　　　26 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk26>`__
      - 　　　二十六
