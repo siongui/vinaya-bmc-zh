@@ -664,7 +664,7 @@
      - `\　　　二十五 <{filename}Section0026%zh-hant.rst#Sk25>`__
 
    * - `\　　　26 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk26>`__
-     - 　　　二十六
+     - `\　　　二十六 <{filename}Section0026%zh-hant.rst#Sk26>`__
 
    * - `\　　Two: The 30 Dealing with Food <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk_ChTwo>`__
      - 　　第二 三十條關於食物

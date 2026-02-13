@@ -107,7 +107,7 @@
 
    * - *To wear the lower robe wrapped around* means to wear the upper edge circling the waist, covering the navel, and the lower edge covering the kneecaps. This is called covering the “three circles.” The Commentary states that when one is standing, the lower edge should be not more than eight fingerbreadths below the knees, although if one’s calves are disfigured, it is all right to cover them more than that.
 
-     - *身披下衣*\ 是將上邊緣環繞腰部，遮住肚臍，下邊緣遮住膝蓋骨，此稱為遮蓋「三圈」。《義註》中說，站立時，下邊緣不應超過膝蓋以下八指寬，但如果小腿畸形，可以遮蓋得更寬。
+     - *身披下衣*\ 是將上邊緣環繞腰部，遮住肚臍，下邊緣遮住膝蓋骨，此稱為遮蓋「三輪」。《義註》中說，站立時，下邊緣不應超過膝蓋以下八指寬，但如果小腿畸形，可以遮蓋得更寬。
 
    * - *To wear the upper robe wrapped around* means, according to the Vibhaṅga, keeping both ends of the top edge in line with each other, and the same with both ends of the bottom edge. The bottom edge of the upper robe, though, does not have to be level with the bottom edge of the lower robe. Given the size of the upper robe in the Buddha’s time, it would not have extended down that far.
 
@@ -115,7 +115,7 @@
 
    * - Intentionally to wear either robe hanging down in front or in back is a breach of these rules. The Commentary states that the purpose of these rules is to prevent bhikkhus from wearing their robes in any of the various ways that lay people in those days wore theirs—e.g., pleated “with 100 pleats,” tied up, or tucked up between the legs. It also comments that because these rules are not qualified, as the following ones are, with the phrase, “in inhabited areas,” they should be followed in the monastery and wilderness areas as well. However, the wilderness protocols (`Cv.VIII.6.2-3`_) clearly show that bhikkhus were not expected to wear the upper robe wrapped around them in the wilderness; and the sauna protocols (`Cv.VIII.8.2`_) seem to indicate that bhikkhus on their way to and from the sauna were not required to wear their lower robes covering the three circles as long as they covered their private parts front and back.
 
-     - 故意將任一件袈裟垂於身前或身後均違反了這些戒條。《義註》指出，這些戒條的目的是防止比丘以當時在家人的各種方式穿著袈裟，例如，將「打一百個褶」、綁起來，或塞在兩腿之間。它也指出，由於這些戒條不像接下來的戒條那樣附加「俗家間」的措辭限定，因此在寺院和林野也應遵守。然而，林野行儀（\ `《小品》.八.6.2-3`_\ ）明確表明，比丘在林野中無需身披上衣；蒸汽(桑拿)浴室的行儀（\ `《小品》.八.8.2`_\ ）似乎也表明，比丘在往返桑拿房的途中，穿下衣時只要遮蓋住前後私處，不必遮蓋三圈。
+     - 故意將任一件袈裟垂於身前或身後均違反了這些戒條。《義註》指出，這些戒條的目的是防止比丘以當時在家人的各種方式穿著袈裟，例如，將「打一百個褶」、綁起來，或塞在兩腿之間。它也指出，由於這些戒條不像接下來的戒條那樣附加「俗家間」的措辭限定，因此在寺院和林野也應遵守。然而，林野行儀（\ `《小品》.八.6.2-3`_\ ）明確表明，比丘在林野中無需身披上衣；蒸汽(桑拿)浴室的行儀（\ `《小品》.八.8.2`_\ ）似乎也表明，比丘在往返桑拿房的途中，穿下衣時只要遮蓋住前後私處，不必遮蓋三輪。
 
    * - As a practical matter, if one is working on a high ladder or in a tree—whether in a village, a monastery, or the wilderness—a wise policy is to tuck one’s lower robe up between the legs for decency’s sake.
 
@@ -464,6 +464,110 @@
 
    * - This translation of the rule follows the Commentary.
      - 本戒條的翻譯遵循《義註》。
+
+
+.. _Sk26:
+
+.. raw:: html
+
+   <span id="Sk26"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **26**
+     - **二十六**
+
+   * - .. container:: notification
+
+          *I will not sit clasping the knees (§) in inhabited areas: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不抱膝而坐（§）於俗家間：應當學。*
+
+   * - This, the Vibhaṅga says, refers to sitting with one or both arms or hands hugging one or both knees; or with a strap or a strip of cloth around one or both knees and the torso (§). The bas-reliefs at Borobudur show royalty using this latter position as a way of keeping the body erect when tired or weak.
+
+     - 《經分別》說，這指的是一種坐姿，即一隻或兩隻手臂或手抱一隻或兩隻膝蓋；或者用帶子或布條纏繞一隻或兩隻膝蓋和軀幹（§）。婆羅浮屠的浮雕描繪了皇室成員在疲憊或虛弱時採用後一種姿勢來保持身體直立。
+
+   * - This rule does not apply when one is sitting in one’s residence in an inhabited area (§).
+     - 這條戒條不適用坐在俗家間的住處裡（§）。
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - In addition to the rules listed here, there are others in the Khandhakas concerning behavior in inhabited areas. These include:
+     - 除了這裡列出的戒條外，《犍度》裡還有其他關於在俗家間行為的戒條。這些包括：
+
+   * - A bhikkhu entering an inhabited area must wear all three of his basic set of robes unless—
+     - 比丘進入俗家間時，必須穿著全部的基本三衣，除非——
+
+   * - .. container:: mx-2
+
+          he is ill;
+
+     - .. container:: mx-2
+
+          他生病；
+
+   * - .. container:: mx-2
+
+          there is sign of rain;
+
+     - .. container:: mx-2
+
+          有下雨跡象；
+
+   * - .. container:: mx-2
+
+          his kaṭhina privileges are in effect;
+
+     - .. container:: mx-2
+
+          他的功德衣方便利益仍然有效；
+
+   * - .. container:: mx-2
+
+          he is going to cross a river; or
+
+     - .. container:: mx-2
+
+          他要過河；或者
+
+   * - .. container:: mx-2
+
+          he has a secure dwelling (or other hiding place, the Commentary says, such as a hollow in a tree or a rock) in which to place the robe he leaves behind (`Mv.VIII.23.2-3`_).
+
+     - .. container:: mx-2
+
+          他有一個安全的住所（或其他隱藏之處，《義註》說，例如樹洞或岩石中的洞穴），可以把他留下的袈裟放在那裡（\ `《大品》.八.23.2-3`_\ ）。
+
+   * - He should also wear his waistband. The bhikkhu who instigated this rule had the unforgettable experience of having his lower robe slip off in front of a group of people who thoroughly enjoyed the spectacle (Cv.V.29.1).
+
+     - 他也應該繫上腰帶。導致制定這條戒條的比丘曾有過一次難忘的經驗：他的下衣在眾人面前滑落，眾人看得津津有味（Cv.V.29.1）。
+
+   * - A bhikkhu entering an inhabited area, though, should not spread out his outer robe to sit on (`Cv.VIII.4.3`_) and, unless he is ill, should not wear footwear—shoes, sandals, boots, etc.—(`Mv.V.12`_) or use an umbrella or sunshade (`Cv.V.23.3`_). The Commentary to the umbrella rule includes physical or mental discomfort under *ill* in this case, and says that one may also use the umbrella to protect one’s robes from the rain.
+
+     - 比丘進入俗家間時，不應鋪外衣而坐（\ `《小品》.八.4.3`_\ ），而且除非生病，否則不應穿鞋——鞋子、涼鞋、靴子等——（\ `《大品》.五.12`_\ ），也不應使用傘或遮陽傘（\ `《小品》.五.23.3`_\ ）。傘戒條的《義註》中將身體或精神上的不適歸類為「\ *生病*\ 」之列，並指出也可以用傘保護袈裟免受雨淋。
+
+.. _Mv.VIII.23.2-3: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.23.3
+.. _《大品》.八.23.2-3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0386a13
+.. _Cv.V.29.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Cv.V.29.1
+.. _《小品》.五.29.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0182a05
+.. _Cv.VIII.4.3: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.4.3-6
+.. _Mv.V.12: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#Mv.V.12
+.. _Cv.V.23.3: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#Cv.V.23.3
+.. _《小品》.八.4.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0291a13
+.. _《大品》.五.12: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0259a04
+.. _《小品》.五.23.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0176a03
 
 
 (未完待續)
