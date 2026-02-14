@@ -570,4 +570,75 @@
 .. _《小品》.五.23.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0176a03
 
 
+.. _Sk_ChTwo:
+
+.. raw:: html
+
+   <span id="Sk_ChTwo"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Two: The 30 Dealing with Food**
+     - **第二 三十條關於食物**
+
+
+.. _Sk27:
+
+.. raw:: html
+
+   <span id="Sk27"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **27**
+     - **二十七**
+
+   * - .. container:: notification
+
+          *I will receive almsfood appreciatively: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將恭敬地接受缽食：應當學。*
+
+   * - This rule was formulated in response to an incident in which some group-of-six bhikkhus accepted almsfood unappreciatively, as if—to quote the Vibhaṅga—“they wanted to throw it away.” The Commentary explains *appreciatively* as “with mindfulness established.” One should also remind oneself of the trouble and expense the donors incurred in providing the food.
+
+     - 這條戒條是為\ `應對一起事件而製定的 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_007/#0262a05>`_\ ，六群比丘接受布施食物時態度冷漠，彷彿——用《經分別》的話來說——「他們想把它丟掉」。《義註》解釋說，\ *恭敬地*\ 是指「建立正念」。也應該提醒自己，布施者為了提供食物付出了多少心血和金錢。
+
+
+.. _Sk28:
+
+.. raw:: html
+
+   <span id="Sk28"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **28**
+     - **二十八**
+
+   * - .. container:: notification
+
+          *I will receive almsfood with attention focused on the bowl: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將注意缽而接受缽食：應當學。*
+
+   * - The purpose of this rule is to prevent one from looking at the donor’s face (see `Cv.VIII.5.2`_) or gazing aimlessly in other directions while he/she is placing food in the bowl. However, one of the “duties to be observed on alms round,” (`Cv.VIII.5`_) is that one should not stand too long or turn away too soon. This means that one should glance at what the donor has prepared to give, so that one will not stand waiting for more when the donor has finished giving, or turn away when he/she has more to give.
+
+     - 這條戒條的目的是為了防止盯著布施者的臉看（參見\ `《小品》.八.5.2`_\ ），或者在布施者往缽裡放食物時漫無目的地看向其他方向。然而，「托缽乞食時應遵守的儀法」（\ `《小品》.八.5`_\ ）之一是不要站太久，也不要轉身離開太早。這意味著應該瞥一眼布施者準備施捨的食物，這樣就不會在布施者施捨完畢後還站著等要更多，或者在布施者還有食物要施捨時轉身離開。
+
+.. _Cv.VIII.5.2: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.5.2-3
+.. _Cv.VIII.5: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.5.2-3
+.. _《小品》.八.5.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0294a12
+.. _《小品》.八.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0293a14
+
+
 (未完待續)
