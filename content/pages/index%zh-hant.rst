@@ -676,7 +676,7 @@
      - `\　　　二十八 <{filename}Section0026%zh-hant.rst#Sk28>`__
 
    * - `\　　　29 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk29>`__
-     - 　　　二十九
+     - `\　　　二十九 <{filename}Section0026%zh-hant.rst#Sk29>`__
 
    * - `\　　　30 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk30>`__
      - 　　　三十

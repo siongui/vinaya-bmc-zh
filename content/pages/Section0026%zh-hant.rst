@@ -641,4 +641,34 @@
 .. _《小品》.八.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0293a14
 
 
+.. _Sk29:
+
+.. raw:: html
+
+   <span id="Sk29"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **29**
+     - **二十九**
+
+   * - .. container:: notification
+
+          *I will receive almsfood with bean curry in proper proportion: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將接受適當比例的豆咖哩缽食：應當學。*
+
+   * - This rule refers specifically to eating habits at the time of the Buddha. *Bean curry* means dishes made with gram, pulses, vetch, etc., thick enough that they can be placed in the bowl by the hand. *In proper proportion*, according to the Commentary, means no more than one-quarter of the total food. The Vinaya-mukha tries to interpret this rule as covering curries and soups of all kinds, but the Vibhaṅga and commentaries state unequivocally that it covers only bean curries. Other gravies, soups, stews, and sauces are exempt.
+
+     - 這條戒條特指佛陀時代的飲食習慣。\ *豆咖哩*\ 指的是用鷹嘴豆、豆類、野豌豆等製成的菜餚，濃稠到可以用手放入缽中。根據《義註》，\ *適當比例*\ 是指不超過總食物量的四分之一。《戒律入口》試圖將這條戒條解釋為涵蓋所有種類的咖哩和湯，但《經分別》和註釋書明確指出，它只指豆咖哩。其他肉汁、湯、燉菜和醬汁均不在此列。
+
+   * - This rule probably refers to situations in which bhikkhus are offered food from a serving dish from which they help themselves—as was the custom when they were invited to homes in the Buddha’s time, and is still the custom in Sri Lanka and Burma—for the Vibhaṅga states that there is no offense in receiving more than the proper proportion if one is invited to accept more than that. There is also no offense in taking more than the proper proportion if one is ill, one is accepting it from relatives, one is accepting it for the sake of another, or one has obtained the food through one’s own resources. (This interpretation follows the Commentary. The K/Commentary, for some reason, maintains that these latter non-offense situations—accepting from one’s relatives, from people who have offered an invitation, for the sake of another, or from food obtained through one’s own resources—apply only to dishes that are not bean curries, but this interpretation does not fit with the Vibhaṅga.)
+
+     - 這條戒條可能指的是比丘們從盛放食物的盤子裡自行取用的情況——這在佛陀時代是比丘們受邀到家中的習俗，在斯里蘭卡和緬甸至今仍是這種習俗——因為《經分別》指出，如果被邀請接受超過適當比例的食物，那麼接受過此並無犯戒。如果生病了，或者接受的是親戚提供的，或者是為了他人而接受，又或者食物是透過自己的資源獲得的，那麼拿取超過適當比例也無犯戒。（這種解釋遵循《義註》。而 K/《義註》出於某種原因認為，後一種不犯的情況——接受從親戚提供的、從已提出邀請者、為了他人，或者食物是透過自己的資源獲得的——僅適用於非豆咖哩的菜餚，但這種解釋與《經分別》不符。）
+
+
 (未完待續)
