@@ -671,4 +671,38 @@
      - 這條戒條可能指的是比丘們從盛放食物的盤子裡自行取用的情況——這在佛陀時代是比丘們受邀到家中的習俗，在斯里蘭卡和緬甸至今仍是這種習俗——因為《經分別》指出，如果被邀請接受超過適當比例的食物，那麼接受過此並無犯戒。如果生病了，或者接受的是親戚提供的，或者是為了他人而接受，又或者食物是透過自己的資源獲得的，那麼拿取超過適當比例也無犯戒。（這種解釋遵循《義註》。而 K/《義註》出於某種原因認為，後一種不犯的情況——接受從親戚提供的、從已提出邀請者、為了他人，或者食物是透過自己的資源獲得的——僅適用於非豆咖哩的菜餚，但這種解釋與《經分別》不符。）
 
 
+.. _Sk30:
+
+.. raw:: html
+
+   <span id="Sk30"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **30**
+     - **三十**
+
+   * - .. container:: notification
+
+          *I will receive almsfood level with the edge (of the bowl): a training to be observed.*
+
+     - .. container:: notification
+
+          *我將接受缽食，其高度與（缽）邊齊平：應當學。*
+
+   * - Iron bowls in the past had a hoop approximately 1 cm. wide around the inside of the mouth. According to the Commentary, *edge* here means the bottom edge of this hoop. A bhikkhu is prohibited from accepting so much food that it would pile up above this level, although of course there is nothing against accepting less.
+
+     - 過去的鐵缽開口內壁有一圈大約1公分寬的環狀邊緣。根據《義註》，這裡的「\ *邊緣*\ 」指的是這圈環狀邊緣的底部。比丘被禁止接受過多的食物，以致食物堆積超過這個高度，當然，接受較少的食物則沒有問題。
+
+   * - The Commentary contains a long discussion of what does and does not come under *almsfood* in this rule, and concludes that the term covers only staple and non-staple foods. Thus if one receives a sweet, the “tail” of whose leaf-wrapper extends above the edge of the bowl (such sweets are still common in Asia today), it would not count as an infraction of this rule. The same holds true if one receives foods that do not fill the bowl but extend above the edge—such as a length of sugar cane—or if the donor places on top of one’s bowl another vessel containing food, such as a box of sweets or a bag of fruit.
+
+     - 《義註》中詳細討論了這條戒條中哪些屬於\ *缽食*\ ，哪些不屬於，並得出結論：缽食僅涵蓋主食和副食。因此，如果收到一塊甜點，其葉子包裹的「尾巴」超出缽的邊緣（這種甜點在當今亞洲仍然很常見），則不視為違反此戒條。同樣，如果收到未裝滿缽但超出缽的邊緣的食物——例如一段甘蔗——或者布施者在缽上放置另一個裝有食物的容器，例如一盒甜點或一袋水果，也不算違反此戒條。
+
+   * - The Vinaya-mukha, in discussing this rule, makes the following point: “In terms of present-day customs, receiving a lot of food in a way that demonstrates greed is unacceptable. There is nothing wrong, however, in receiving a lot in a way that demonstrates compassion. For instance, when a newly-ordained bhikkhu goes to receive alms at his family home, if he accepts only one bowlful, not everyone will have a chance to put food in his bowl. If they take his bowl and pour out the contents (into a basin), and he then continues accepting food until everyone has had a chance, this is no breach of manners, and no one would criticize him as greedy.” Because this is an instance of breaking the rule not out of disrespect, it would incur no offense; the same observation can be applied to similar situations as well.
+
+     - 《戒律入口》在討論這條戒條時，提出了以下觀點：「就現代習俗而言，以貪婪的方式接受大量食物是不可接受的。然而，以慈悲的方式接受大量食物則並無不妥。例如，一位新受戒的比丘回到家中托缽乞食，如果他只接受一缽，就無法讓每個人都有機會往他的缽裡放食物。如果他們拿走他的缽，把裡面的食物倒進盆裡，然後他繼續接受食物，直到每個人都有機會，這並不算失禮，也沒有人會批評他貪婪。」因為這是一個違反戒條但並非出於不敬的例子，所以不會犯戒；同樣的道理也適用於其他類似情況。
+
+
 (未完待續)
