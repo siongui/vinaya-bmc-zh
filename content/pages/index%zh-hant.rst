@@ -682,7 +682,7 @@
      - `\　　　三十 <{filename}Section0026%zh-hant.rst#Sk30>`__
 
    * - `\　　　31 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk31>`__
-     - 　　　三十一
+     - `\　　　三十一 <{filename}Section0026%zh-hant.rst#Sk31>`__
 
    * - `\　　　32 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk32>`__
      - 　　　三十二

@@ -705,4 +705,29 @@
      - 《戒律入口》在討論這條戒條時，提出了以下觀點：「就現代習俗而言，以貪婪的方式接受大量食物是不可接受的。然而，以慈悲的方式接受大量食物則並無不妥。例如，一位新受戒的比丘回到家中托缽乞食，如果他只接受一缽，就無法讓每個人都有機會往他的缽裡放食物。如果他們拿走他的缽，把裡面的食物倒進盆裡，然後他繼續接受食物，直到每個人都有機會，這並不算失禮，也沒有人會批評他貪婪。」因為這是一個違反戒條但並非出於不敬的例子，所以不會犯戒；同樣的道理也適用於其他類似情況。
 
 
+.. _Sk31:
+
+.. raw:: html
+
+   <span id="Sk31"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **31**
+     - **三十一**
+
+   * - .. container:: notification
+
+          *I will eat almsfood appreciatively: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將恭敬地食用缽食：應當學。*
+
+   * - According to the Vinaya-mukha, this rule forbids doing other things—such as reading—while eating one’s food. The Recollection at the Moment of Using One’s Requisites requires that one reflect that one is eating “not playfully, nor for intoxication, nor for putting on bulk, nor for beautification; but simply for the survival and continuance of this body, for ending its afflictions, for the support of the celibate life, (thinking) ‘I will destroy old feelings [of hunger] without creating new feelings [from overeating]: Thus will I maintain myself, be blameless, and live in comfort.’” One should also remind oneself of the effort and expense the donors went to in providing the meal.
+
+     - 根據《戒律入口》，這條戒條禁止在進食時做其他事情，例如閱讀。在「使用必需品時的省思」中，需要反思自己在進食「並非為了玩樂、沉醉、增肥或美化身體，而僅僅是為了維持身體的生存和延續，為了消除痛苦，為了支持梵行生活，（心想）『我將消除舊的[飢餓]感受，而不產生新的[暴飲暴食]感受：如此我才能保持自我，無咎，安住。』」還應該提醒自己施主為提供這頓飯所付出的努力和費用。
+
 (未完待續)
