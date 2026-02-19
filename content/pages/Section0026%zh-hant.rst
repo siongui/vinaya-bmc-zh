@@ -730,4 +730,34 @@
 
      - 根據《戒律入口》，這條戒條禁止在進食時做其他事情，例如閱讀。在「使用必需品時的省思」中，需要反思自己在進食「並非為了玩樂、沉醉、增肥或美化身體，而僅僅是為了維持身體的生存和延續，為了消除痛苦，為了支持梵行生活，（心想）『我將消除舊的[飢餓]感受，而不產生新的[暴飲暴食]感受：如此我才能保持自我，無咎，安住。』」還應該提醒自己施主為提供這頓飯所付出的努力和費用。
 
+
+.. _Sk32:
+
+.. raw:: html
+
+   <span id="Sk32"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **32**
+     - **三十二**
+
+   * - .. container:: notification
+
+          *I will eat almsfood with attention focused on the bowl: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將注意缽而食用缽食：應當學。*
+
+   * - The purpose of this rule is to prevent one from gazing aimlessly about while eating. The Vinaya-mukha notes, though, “To look elsewhere in ways related to one’s eating—e.g., looking with the thought of providing a nearby bhikkhu with whatever he is lacking—is not prohibited.” (See `Sk 38`_, below.)
+
+     - 這條戒條的目的是為了防止人們在進食時漫無目的地四處張望。《戒律入口》指出：「若以與進食相關的方式看向別處——例如，想著如何給予附近的比丘所缺乏的東西而看——則並不禁止。」（見下文\ `《應學》三八`_\ 。）
+
+.. _Sk 38: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk38
+.. _《應學》三八: #Sk38
+
+
 (未完待續)
