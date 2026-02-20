@@ -688,7 +688,7 @@
      - `\　　　三十二 <{filename}Section0026%zh-hant.rst#Sk32>`__
 
    * - `\　　　33 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk33>`__
-     - 　　　三十三
+     - `\　　　三十三 <{filename}Section0026%zh-hant.rst#Sk33>`__
 
    * - `\　　　34 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk34>`__
      - 　　　三十四

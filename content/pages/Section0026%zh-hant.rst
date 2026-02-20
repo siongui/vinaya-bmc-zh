@@ -760,4 +760,30 @@
 .. _《應學》三八: #Sk38
 
 
+.. _Sk33:
+
+.. raw:: html
+
+   <span id="Sk33"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **33**
+     - **三十三**
+
+   * - .. container:: notification
+
+          *I will eat almsfood methodically (§): a training to be observed.*
+
+     - .. container:: notification
+
+          *我將有條不紊地（§）食用缽食：應當學。*
+
+   * - The aim of this rule is that a bhikkhu work steadily across his food from one side to another while eating and not pick at it here and there. Special treats, though, may be passed over—either as a form of self-denial or to save them for the end of the meal. Also, there is no offense in picking here and there when taking food from one’s bowl to give to another person (§).
+
+     - 這條戒條的目的是讓比丘在進食時，從缽的一側均勻地吃到另一側，而不是隨意地挑取。不過，可以略過特別的點心──既可以是一種自我克制，也可以留到用餐最後享用。此外，從自己的缽中取食給別人時，隨意地挑取並不犯戒（§）。
+
+
 (未完待續)
