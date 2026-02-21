@@ -786,4 +786,59 @@
      - 這條戒條的目的是讓比丘在進食時，從缽的一側均勻地吃到另一側，而不是隨意地挑取。不過，可以略過特別的點心──既可以是一種自我克制，也可以留到用餐最後享用。此外，從自己的缽中取食給別人時，隨意地挑取並不犯戒（§）。
 
 
+.. _Sk34:
+
+.. raw:: html
+
+   <span id="Sk34"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **34**
+     - **三十四**
+
+   * - .. container:: notification
+
+          *I will eat almsfood with bean curry in proper proportion: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將以適當比例的豆咖哩而食用缽食：應當學。*
+
+   * - This rule does not apply to foods that are not thick bean curries, or to situations where one is ill or where one has received bean curry from relatives, from people who offered an invitation to take more, or from one’s own resources.
+
+     - 這條戒條不適用於非濃稠豆咖哩類食物，也不適用於生病、從親戚那裡得到豆咖哩、被人邀請多取，或者從自己的資源的情況。
+
+
+.. _Sk35:
+
+.. raw:: html
+
+   <span id="Sk35"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **35**
+     - **三十五**
+
+   * - .. container:: notification
+
+          *I will not eat almsfood taking mouthfuls from a heap: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不從一堆中取食而食用缽食：應當學。*
+
+   * - This refers to the food on one’s plate or in one’s bowl. The Commentary explains *from a heap* as from the top or from the middle. As noted under `Sk 33`_, one should work across one’s food systematically; this rule indicates that one should start from the side when taking mouthfuls and not from the middle of the heap. The non-offense clauses state that if a little food remains scattered in one’s bowl, there is no offense in gathering it together in a small heap and eating from that (§). The Vinaya-mukha maintains that it is a custom among bhikkhus before eating to level off the food in their bowls so that its surface is even, but I have found no reference to this point in any of the other texts. However, the Vinaya-mukha does make the helpful point that if one is served other foods—such as sweets—stacked on a platter, it would be impolite to level them off (or to take from the edge in a way that would collapse the heap), so in such cases one may take from the top of the heap.
+
+     - 這指的是盤中或缽中的食物。《義註》解釋說，\ *從一堆中*\ ，是指從頂部或中間。如\ `《應學》三三`_\ 所述，應有系統地食用；這條戒條表明，取食時應從側邊開始，而不是從堆疊的中間開始。不犯條款指出，如果缽中還剩下一些散落的食物，將其聚攏成一小堆食用（§）並無犯戒。《戒律入口》認為，比丘們在進食前有將碗中食物抹平的習慣，但我沒有在其他任何文獻中找到相關記載。然而，《戒律入口》確實提出了一個有幫助的觀點：如果被供養堆放在盤子上的其他食物（例如甜點），將它們抹平（或從邊緣取食，導致堆疊坍塌）是不禮貌的，因此在這種情況下，可以從堆疊的頂部取食。
+
+.. _Sk 33: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk33
+.. _《應學》三三: #Sk33
+
+
 (未完待續)

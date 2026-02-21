@@ -691,10 +691,10 @@
      - `\　　　三十三 <{filename}Section0026%zh-hant.rst#Sk33>`__
 
    * - `\　　　34 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk34>`__
-     - 　　　三十四
+     - `\　　　三十四 <{filename}Section0026%zh-hant.rst#Sk34>`__
 
    * - `\　　　35 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk35>`__
-     - 　　　三十五
+     - `\　　　三十五 <{filename}Section0026%zh-hant.rst#Sk35>`__
 
    * - `\　　　36 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk36>`__
      - 　　　三十六
