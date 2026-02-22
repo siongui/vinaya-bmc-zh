@@ -841,4 +841,75 @@
 .. _《應學》三三: #Sk33
 
 
+.. _Sk36:
+
+.. raw:: html
+
+   <span id="Sk36"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **36**
+     - **三十六**
+
+   * - .. container:: notification
+
+          *I will not hide bean curry and foods with rice out of a desire to get more: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不因為想要得到更多而以米飯隱藏豆咖哩和食物：應當學。*
+
+   * - Some donors, if they see that a bhikkhu has nothing but rice in his bowl, will go out of their way to provide him with extra food. This rule is to prevent bhikkhus from taking advantage of their kind intentions.
+
+     - 有些布施者，如果看到比丘缽裡只有米飯，就會不遺餘力地為他提供額外的食物。這條戒條是為了防止比丘們利用他們的善意。
+
+   * - According to the Vibhaṅga, there is no offense if donors cover the food in one’s bowl with rice, or if one covers it with rice oneself for some reason other than a desire for more.
+
+     - 根據《經分別》，如果施主將米飯蓋在缽中的食物上，或者如果出於某種原因（除了想要更多）而自己將米飯覆蓋在食物上，並沒有犯戒。
+
+   * - The Commentary takes special note of the fact that the Vibhaṅga gives no exception here for a bhikkhu who is ill.
+     - 《義註》特別指出，《經分別》在此對於生病的比丘沒有給予例外。
+
+
+.. _Sk37:
+
+.. raw:: html
+
+   <span id="Sk37"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **37**
+     - **三十七**
+
+   * - .. container:: notification
+
+          *Not being ill, I will not eat rice or bean curry that I have requested for my own sake: a training to be observed.*
+
+     - .. container:: notification
+
+          *無病，我將不吃為自己所要求的米飯或豆咖哩：應當學。*
+
+   * - The Commentary to `Pc 39`_ says that *rice or bean curry* here covers all foods not covered in that rule.
+     - `《波逸提》三九`_\ 的《義註》說，這裡的\ *米飯或豆咖哩*\ 涵蓋了該戒條中未涵蓋的所有食物。
+
+   * - There is no offense in requesting these foods from relatives, from people who have offered an invitation to request, or if one is ill (weak from hunger would be included here). There is also no offense in obtaining these foods by means of one’s own resources. The Sub-commentary raises the question of how the blanket Sekhiya exemptions for the bhikkhu acting “unintentionally” or “without mindfulness” apply to this rule, and comes up with the following example: A bhikkhu takes the food into his mouth and then, on feeling regret, spits it out in displeasure. A better example might be that of a bhikkhu who asks for these foods from a lay person and then eats them, having forgotten that the lay person’s invitation to ask for such foods has expired.
+
+     - 向親戚、已提出請求邀請者索取這些食物，或者有病（這裡包括因飢餓而虛弱）而索取這些食物並沒有犯戒。利用自己的資源獲得這些食物也沒有犯戒。《複註》提出了關於比丘「無意」或「無正念」行為的概括性《應學》豁免如何適用於這一戒條的問題，並提出了以下例子：比丘將食物放入口中，然後感到後悔，不高興地將其吐出。一個更好的例子可能是，一位比丘向在家人索取這些食物，然後吃了它們，卻忘記了向在家人索取這些食物的邀請已經過期。
+
+   * - The Meṇḍaka Allowance (`Mv.VI.34.21`_) permits a bhikkhu to search for provisions of husked rice, kidney beans, green gram (mung beans), salt, sugar, oil, and ghee when going on a journey through a wilderness area where almsfood will be hard to find. For details, see the discussion under `Pc 39`_.
+
+     - Meṇḍaka 開緣（\ `《大品》.六.34.21`_\ ）允許比丘在穿越難以找到施食的林野地區旅程時尋找稻米、腰豆、綠豆、鹽、糖、油和酥油的供應。細節請參閱\ `《波逸提》三九`_\ 下的討論。
+
+.. _Pc 39: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc39
+.. _《波逸提》三九: {filename}Section0019%zh-hant.rst#Pc39
+.. _Mv.VI.34.21: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.34.21
+.. _《大品》.六.34.21: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0321a02
+
+
 (未完待續)

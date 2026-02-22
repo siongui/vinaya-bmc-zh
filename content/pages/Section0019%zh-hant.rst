@@ -1827,8 +1827,7 @@
      - 另一個在任何文獻中都沒有討論的問題是，如果收到請求或知曉請求的人繼續提供所請求的該種食物，該怎麼辦？是否終身禁止再次接受他們提供的該種食物？解決這個問題的一個建議是藉用《義註》中關於撤銷驅出羯磨的處理（見\ `《僧殘》十三`_\ ）。這意味著，如果在最初提供食物之後，那些知曉請求的人繼續提供該種食物，必須告訴他們，由於可能帶來的懲罰，因此不能接受食物。如果他們無需進一步提示就說他們提供食物不是因為請求，而是出於他們自己的意願，那麼可以接受並食用。
 
 .. _Sk 37: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk37
-.. _《應學》三七: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk37
-.. TODO FIXME: replace link to 《應學》三七
+.. _《應學》三七: {filename}Section0026%zh-hant.rst#Sk37
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

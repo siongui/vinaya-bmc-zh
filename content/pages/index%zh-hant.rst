@@ -697,10 +697,10 @@
      - `\　　　三十五 <{filename}Section0026%zh-hant.rst#Sk35>`__
 
    * - `\　　　36 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk36>`__
-     - 　　　三十六
+     - `\　　　三十六 <{filename}Section0026%zh-hant.rst#Sk36>`__
 
    * - `\　　　37 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk37>`__
-     - 　　　三十七
+     - `\　　　三十七 <{filename}Section0026%zh-hant.rst#Sk37>`__
 
    * - `\　　　38 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk38>`__
      - 　　　三十八
