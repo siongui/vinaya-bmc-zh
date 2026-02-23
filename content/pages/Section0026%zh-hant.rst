@@ -912,4 +912,69 @@
 .. _《大品》.六.34.21: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0321a02
 
 
+.. _Sk38:
+
+.. raw:: html
+
+   <span id="Sk38"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **38**
+     - **三十八**
+
+   * - .. container:: notification
+
+          *I will not look at another’s bowl intent on finding fault: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不意圖找過錯而看他人的缽：應當學。*
+
+   * - The K/Commentary defines *finding fault* as taking note of the fact that the other bhikkhu or novice has something. What this probably means is that he has some especially nice food that he is not sharing. The Vinaya-mukha provides an alternative suggestion, that this rule refers to finding fault with another’s sloppy manner of eating. Sloppiness, though, is something about which bhikkhus may admonish one another, so the K/Commentary’s interpretation seems more to the point.
+
+     - K/《義註》將「\ *找過錯*\ 」定義為注意到其他比丘或沙彌擁有某物。這可能意指他有一些特別美味的食物卻不與人分享。《戒律入口》則提出了另一種解釋，認為這條戒條指的是對他人邋遢的進食方式找過錯。然而，邋遢是比丘之間可以互相勸誡的事情，因此K/《義註》的解釋似乎更為切題。
+
+   * - The Vibhaṅga states that there is no offense in looking at another’s bowl if one is not meaning to find fault or if one wants to provide him with whatever he may be lacking.
+
+     - 《經分別》指出，如果沒有找過錯的意思，或者想要提供他所缺乏的東西，那麼看他人的缽並沒有犯戒。
+
+   * - Here again, the Commentary notes that there is no exception for a bhikkhu who is ill.
+     - 《義註》此處再次指出，生病的比丘也沒有例外。
+
+
+.. _Sk39:
+
+.. raw:: html
+
+   <span id="Sk39"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **39**
+     - **三十九**
+
+   * - .. container:: notification
+
+          *I will not take an extra-large mouthful: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不拿取過大的一口[飯糰]：應當學。*
+
+   * - According to the Commentary, a mouthful the size of a peacock egg is too large, while one the size of a chicken egg is too small (!). One midway between these two sizes is just right. This seems hard to fathom unless chicken eggs in those days were much smaller than they are now.
+
+     - 根據《義註》，孔雀蛋大小的一口\ :small:`[飯糰]`\ 太大，而雞蛋大小的一口\ :small:`[飯糰]`\ 太小（！）。介於兩者之間的大小才剛剛好。這似乎難以理解，除非當時的雞蛋比現在小得多。
+
+   * - According to the Vibhaṅga, this rule does not cover fruits, solid foods such as roots, or special confections (sandwiches at present would fit here). Apparently, if these items are a little large, it is all right to stick them whole into the mouth, although if they are very large it would be better to take bites out of them (see `Sk 45`_).
+
+     - 根據《經分別》，這條戒條不適用於水果、根莖類等固體食物或特殊甜食（目前三明治就屬於此類）。顯然，如果這些食物只稍大一些，可以整個塞入口中；但如果非常大，最好咬幾口（參見\ `《應學》四五`_\ ）。
+
+.. _Sk 45: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk45
+.. _《應學》四五: #Sk45
+
 (未完待續)
