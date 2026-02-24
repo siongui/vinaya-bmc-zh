@@ -964,11 +964,11 @@
 
      - .. container:: notification
 
-          *我將不拿取過大的一口[飯糰]：應當學。*
+          *我將不拿取過大的一口[食物]：應當學。*
 
    * - According to the Commentary, a mouthful the size of a peacock egg is too large, while one the size of a chicken egg is too small (!). One midway between these two sizes is just right. This seems hard to fathom unless chicken eggs in those days were much smaller than they are now.
 
-     - 根據《義註》，孔雀蛋大小的一口\ :small:`[飯糰]`\ 太大，而雞蛋大小的一口\ :small:`[飯糰]`\ 太小（！）。介於兩者之間的大小才剛剛好。這似乎難以理解，除非當時的雞蛋比現在小得多。
+     - 根據《義註》，孔雀蛋大小的一口\ :small:`[食物]`\ 太大，而雞蛋大小的一口\ :small:`[食物]`\ 太小（！）。介於兩者之間的大小才剛剛好。這似乎難以理解，除非當時的雞蛋比現在小得多。
 
    * - According to the Vibhaṅga, this rule does not cover fruits, solid foods such as roots, or special confections (sandwiches at present would fit here). Apparently, if these items are a little large, it is all right to stick them whole into the mouth, although if they are very large it would be better to take bites out of them (see `Sk 45`_).
 
@@ -976,5 +976,86 @@
 
 .. _Sk 45: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk45
 .. _《應學》四五: #Sk45
+
+
+.. _Sk40:
+
+.. raw:: html
+
+   <span id="Sk40"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **40**
+     - **四十**
+
+   * - .. container:: notification
+
+          *I will make a rounded mouthful: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將做圓的一口[食物]：應當學。*
+
+   * - People at that time ate food with their hands, and formed mouthfuls of the food with their fingers before taking them to the mouth.
+     - 當時的人們用手進食，用手指捏成一口大小的食物，然後再送到嘴裡。
+
+   * - This rule, like the preceding one, does not cover fruits, solid foods such as roots, or special confections such as sandwiches. In other words, one does not have to mash these things up and form them into rounded mouthfuls before eating.
+
+     - 這條戒條和前一條一樣，不適用於水果、根莖類等固體食物，也不適用於三明治等特殊甜食。換句話說，吃這些東西之前不需要把它們搗碎捏成圓形。
+
+
+.. _Sk41:
+
+.. raw:: html
+
+   <span id="Sk41"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **41**
+     - **四十一**
+
+   * - .. container:: notification
+
+          *I will not open the mouth when the mouthful has yet to be brought to it: a training to be observed.*
+
+     - .. container:: notification
+
+          *在一口[食物]送到嘴巴之前我將不張開口：應當學。*
+
+
+.. _Sk42:
+
+.. raw:: html
+
+   <span id="Sk42"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **42**
+     - **四十二**
+
+   * - .. container:: notification
+
+          *I will not insert the whole hand into the mouth while eating: a training to be observed.*
+
+     - .. container:: notification
+
+          *在吃東西時我將不把整隻手放進嘴裡：應當學。*
+
+   * - The Commentary and K/Commentary are in agreement that this is the proper translation for this rule. The Sub-commentary insists that it should be “any part of the hand” rather than “the whole hand,” but according to the Commentary the act of sticking a finger in one’s mouth while eating comes under `Sk 52`_. Although there are people with small hands and large mouths who have actually succeeded in inserting their whole hands into their mouths, the rarity of this ability has given rise to alternative interpretations for this rule. For instance, although the verb in the rule clearly means “insert,” some have suggested that this rule forbids taking a handful of food in the palm of the hand and pushing the palm right up against the mouth. Others have suggested that it forbids inserting all five of one hand’s fingers into the mouth. However, even though these suggestions promote good manners, they do not fit the precise act mentioned in the rule, and so at most can be taken on an individual basis as wise policies to follow.
+
+     - 《義註》和 K/《義註》一致認為這是本戒條的適當翻譯。《複註》堅持應該是「手的任何部分」而不是「整隻手」，但根據《義註》，吃飯時把手指放進嘴裡的行為屬於\ `《應學》五二`_\ 的範疇。雖然有些人手小嘴大，確實能把整隻手放進嘴裡，但這種能力的罕見性導致了對這條戒條的其他解釋。例如，雖然戒條中的動詞明確意指「插入」，但有人認為這條戒條禁止用手掌抓一把食物，然後把手掌直接貼在嘴上。還有人認為這條戒條禁止把一隻手的五根手指都放進嘴裡。然而，儘管這些解釋都提倡良好的禮儀，但它們並不完全符合戒條中提到的具體行為，因此至多只能作為個人遵循的明智之舉。
+
+.. _Sk 52: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk52
+.. _《應學》五二: #Sk52
+
 
 (未完待續)

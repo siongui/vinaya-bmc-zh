@@ -2205,8 +2205,7 @@
 .. _NP 15.1.2: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
 .. _《捨墮》一五.1.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N01n0001_004/#0327a14
 .. _Sk 41: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk41
-.. _《應學》四一: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk41
-.. TODO FIXME: replace link to 《應學》四一
+.. _《應學》四一: {filename}Section0026%zh-hant.rst#Sk41
 .. _MN 140: https://www.dhammatalks.org/suttas/MN/MN140.html
 .. _《中部》140經: https://sutra.mobi/chilin/zhong/content/140.html
 .. _《自說》.三.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N26n0010_001/#0090a03

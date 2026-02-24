@@ -709,13 +709,13 @@
      - `\　　　三十九 <{filename}Section0026%zh-hant.rst#Sk39>`__
 
    * - `\　　　40 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk40>`__
-     - 　　　四十
+     - `\　　　四十 <{filename}Section0026%zh-hant.rst#Sk40>`__
 
    * - `\　　　41 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk41>`__
-     - 　　　四十一
+     - `\　　　四十一 <{filename}Section0026%zh-hant.rst#Sk41>`__
 
    * - `\　　　42 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk42>`__
-     - 　　　四十二
+     - `\　　　四十二 <{filename}Section0026%zh-hant.rst#Sk42>`__
 
    * - `\　　　43 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk43>`__
      - 　　　四十三
