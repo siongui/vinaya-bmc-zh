@@ -1058,4 +1058,29 @@
 .. _《應學》五二: #Sk52
 
 
+.. _Sk43:
+
+.. raw:: html
+
+   <span id="Sk43"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **43**
+     - **四十三**
+
+   * - .. container:: notification
+
+          *I will not speak with the mouth full of food: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不嘴裡塞滿食物說話：應當學。*
+
+   * - According to the Commentary, if the amount of food in one’s mouth is not enough to affect the clarity of one’s pronunciation, it is all right to speak.
+     - 根據《義註》，如果嘴裡的食物量不足以影響發音的清晰度，那麼說話是沒問題的。
+
+
 (未完待續)
