@@ -721,7 +721,7 @@
      - `\　　　四十三 <{filename}Section0026%zh-hant.rst#Sk43>`__
 
    * - `\　　　44 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk44>`__
-     - 　　　四十四
+     - `\　　　四十四 <{filename}Section0026%zh-hant.rst#Sk44>`__
 
    * - `\　　　45 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk45>`__
      - 　　　四十五

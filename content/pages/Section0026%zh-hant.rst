@@ -1083,4 +1083,34 @@
      - 根據《義註》，如果嘴裡的食物量不足以影響發音的清晰度，那麼說話是沒問題的。
 
 
+.. _Sk44:
+
+.. raw:: html
+
+   <span id="Sk44"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **44**
+     - **四十四**
+
+   * - .. container:: notification
+
+          *I will not eat from lifted balls of food: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不從被舉起的食物團球而食：應當學。*
+
+   * - What this means is that one should not lift food from the bowl in one hand and then use the other hand to take parts of that handful to put in the mouth. According to the Vibhaṅga, this rule does not cover fruits or solid foods. Thus, for example, it is all right to pick up a bunch of grapes in one hand and then take the grapes one by one with the other hand to put them in the mouth.
+
+     - 這指不應該用一隻手從缽裡舉起食物，然後再用另一隻手從這把食物中取出一部分放入口中。根據《經分別》，這條戒條不適用於水果或固體食物。因此，例如，可以用一隻手拿起一串葡萄，然後再用另一隻手一顆一顆地將葡萄放入口中。
+
+   * - This rule is often translated as, “I will not eat tossing up balls of food,” but it seems unlikely that there would be an allowance for tossing fruit, etc., into the air and catching it in the mouth. Because the Pali term *ukkhepa* can mean “lifting,” the above translation is probably more correct.
+
+     - 這條戒條通常被翻譯為「我不拋擲食物團球而食」，但似乎不太可能允許將水果等食物拋向空中再用嘴接住。由於巴利語詞彙 *ukkhepa* 可以表示「舉起」，因此上述翻譯可能更為準確。
+
+
 (未完待續)
