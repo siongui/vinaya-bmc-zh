@@ -1113,4 +1113,38 @@
      - 這條戒條通常被翻譯為「我不拋擲食物團球而食」，但似乎不太可能允許將水果等食物拋向空中再用嘴接住。由於巴利語詞彙 *ukkhepa* 可以表示「舉起」，因此上述翻譯可能更為準確。
 
 
+.. _Sk45:
+
+.. raw:: html
+
+   <span id="Sk45"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **45**
+     - **四十五**
+
+   * - .. container:: notification
+
+          *I will not eat nibbling at mouthfuls of food: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不咬斷食物團球而食：應當學。*
+
+   * - After forming a mouthful of food (see `Sk 39`_ & 40_), one should place it all into the mouth at one time, rather than biting it off bit by bit.
+     - 在做成一口食物之後（見\ `《應學》三九`_\ 及\ `《應學》四十`_\ ），應該一次全部放進嘴裡，而不是一點一點地咬。
+
+   * - Again, this rule does not cover fruits, solid foods, or special confections (§—these last two items are missing in the PTS edition of the Canon). In other words, there is nothing wrong in taking bites from any of these foods that are too large to fit into the mouth, although the etiquette in many Asian countries at present frowns on taking bites even out of things such as these.
+
+     - 再一次，這條戒條不適用於水果、固體食物或特殊甜食（§—後兩項在PTS版《聖典》中缺失）。換句話說，如果任何這些食物太大無法一口吞下，分幾口吃並沒有什麼不妥，儘管目前許多亞洲國家的禮儀對這類東西分幾口吃仍會皺眉頭。
+
+.. _Sk 39: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk39
+.. _40: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk40
+.. _《應學》三九: #Sk39
+.. _《應學》四十: #Sk40
+
+
 (未完待續)
