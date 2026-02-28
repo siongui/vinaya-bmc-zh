@@ -1147,4 +1147,124 @@
 .. _《應學》四十: #Sk40
 
 
+.. _Sk46:
+
+.. raw:: html
+
+   <span id="Sk46"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **46**
+     - **四十六**
+
+   * - .. container:: notification
+
+          *I will not eat stuffing out the cheeks: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不塞滿口而食：應當學。*
+
+   * - This is another rule that does not cover fruits, solid foods, or special confections. Apparently this allowance covers cases where the fruits, etc., would make up a mouthful a little on the large side, as defined under `Sk 39`_.
+
+     - 這條戒條不適用於水果、固體食物或特殊甜食。顯然，這項開緣適用於水果等would make up a mouthful a little on the large side \ :small:`[TODO: 譯者看不懂，要請教原作者]`\ 的情況，如\ `《應學》三九`_\ 所定義。
+
+
+.. _Sk47:
+
+.. raw:: html
+
+   <span id="Sk47"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **47**
+     - **四十七**
+
+   * - .. container:: notification
+
+          *I will not eat shaking (food off) the hand: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不甩手（將食物甩掉）而食：應當學。*
+
+   * - According to the Vibhaṅga, there is no offense in shaking the hand while throwing away scraps.
+     - 根據《經分別》的說法，在丟棄殘羹剩飯時甩手並無犯戒。
+
+
+.. _Sk48:
+
+.. raw:: html
+
+   <span id="Sk48"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **48**
+     - **四十八**
+
+   * - .. container:: notification
+
+          *I will not eat scattering lumps of rice about: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不散落一地的米粒而食：應當學。*
+
+   * - The Vibhaṅga states that there is no offense in throwing away lumps of rice while throwing away scraps.
+     - 《經分別》指出，在丟棄殘羹剩飯時丟棄米粒並無犯戒。
+
+
+.. _Sk49:
+
+.. raw:: html
+
+   <span id="Sk49"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **49**
+     - **四十九**
+
+   * - .. container:: notification
+
+          *I will not eat sticking out the tongue: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不伸舌頭而食：應當學。*
+
+
+.. _Sk50:
+
+.. raw:: html
+
+   <span id="Sk50"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **50**
+     - **五十**
+
+   * - .. container:: notification
+
+          *I will not eat smacking the lips: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不咂嘴脣[作喳噗喳噗聲]而食：應當學。*
+
+
 (未完待續)
