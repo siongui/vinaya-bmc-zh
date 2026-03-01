@@ -742,13 +742,13 @@
      - `\　　　五十 <{filename}Section0026%zh-hant.rst#Sk50>`__
 
    * - `\　　　51 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk51>`__
-     - 　　　五十一
+     - `\　　　五十一 <{filename}Section0026%zh-hant.rst#Sk51>`__
 
    * - `\　　　52 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk52>`__
-     - 　　　五十二
+     - `\　　　五十二 <{filename}Section0026%zh-hant.rst#Sk52>`__
 
    * - `\　　　53 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk53>`__
-     - 　　　五十三
+     - `\　　　五十三 <{filename}Section0026%zh-hant.rst#Sk53>`__
 
    * - `\　　　54 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk54>`__
      - 　　　五十四
