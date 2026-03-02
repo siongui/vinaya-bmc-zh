@@ -1354,4 +1354,56 @@
 .. _《波逸提》三五: {filename}Section0019%zh-hant.rst#Pc35
 
 
+.. _Sk54:
+
+.. raw:: html
+
+   <span id="Sk54"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **54**
+     - **五十四**
+
+   * - .. container:: notification
+
+          *I will not eat licking the lips: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不舔嘴唇而食：應當學。*
+
+
+.. _Sk55:
+
+.. raw:: html
+
+   <span id="Sk55"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **55**
+     - **五十五**
+
+   * - .. container:: notification
+
+          *I will not accept a water vessel with a hand soiled by food: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不以沾有食物的手接受盛水的容器：應當學。*
+
+   * - The Vibhaṅga says that if one’s hand is soiled, one may take the water vessel with the thought that, “I will wash it or get it washed (§),” although this allowance might be qualified with the consideration that one should try to get it washed before anyone else wants to use it.
+
+     - 《經分別》說，如果手髒了，可以拿著盛水的容器，心想「我會把它洗乾淨或者讓它被洗乾淨（§）」，儘管這種開緣可能會受到這樣的限制：在其他人想使用它之前，應該盡量把它洗乾淨。
+
+   * - According to the Commentary, this rule was formulated to prevent unclean habits, and so it changes the verb in the Pali—“accept” or “receive”—to “take” or “take hold of.” In other words, it applies this rule not only to situations where one is accepting the water vessel from someone else, but also to those in which one simply picks it up on one’s own. It adds that *water vessel* here applies to anything from which one would drink water, whether it belongs to oneself or to others. If one’s hand is partially soiled, it says, one may pick up a water vessel with the unsoiled part.
+
+     - 根據《義註》，這條戒條是為了防止不潔的習慣而制定的，因此將巴利語中的動詞——「接受」或「接收」——改為「拿取」或「抓住」。換句話說，它不僅將這條戒條適用於從他人接受盛水的容器的情況，也適用於自己拿起盛水的容器的情況。它還補充道，這裡的「\ *盛水的容器*\ 」適用於任何用來飲水的東西，無論它屬於自己還是他人。它說，如果手上部分骯髒，可以用乾淨的部分拿起盛水的容器。
+
+
 (未完待續)

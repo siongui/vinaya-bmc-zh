@@ -751,10 +751,10 @@
      - `\　　　五十三 <{filename}Section0026%zh-hant.rst#Sk53>`__
 
    * - `\　　　54 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk54>`__
-     - 　　　五十四
+     - `\　　　五十四 <{filename}Section0026%zh-hant.rst#Sk54>`__
 
    * - `\　　　55 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk55>`__
-     - 　　　五十五
+     - `\　　　五十五 <{filename}Section0026%zh-hant.rst#Sk55>`__
 
    * - `\　　　56 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk56>`__
      - 　　　五十六
