@@ -1406,4 +1406,47 @@
      - 根據《義註》，這條戒條是為了防止不潔的習慣而制定的，因此將巴利語中的動詞——「接受」或「接收」——改為「拿取」或「抓住」。換句話說，它不僅將這條戒條適用於從他人接受盛水的容器的情況，也適用於自己拿起盛水的容器的情況。它還補充道，這裡的「\ *盛水的容器*\ 」適用於任何用來飲水的東西，無論它屬於自己還是他人。它說，如果手上部分骯髒，可以用乾淨的部分拿起盛水的容器。
 
 
+.. _Sk56:
+
+.. raw:: html
+
+   <span id="Sk56"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **56**
+     - **五十六**
+
+   * - .. container:: notification
+
+          *I will not, in an inhabited area, throw away bowl-rinsing water that has grains of rice in it: a training to be observed.*
+
+     - .. container:: notification
+
+          *於俗家間，我將不倒掉含有米粒的洗缽水：應當學。*
+
+   * - The custom in those times, when bhikkhus were invited to eat at a lay person’s home, was for the donor to offer water to the bhikkhus to rinse out their bowls before the meal and again after it. In both cases, each bhikkhu was to hold his bowl in both hands, receive the water into the bowl, swish it around without scraping it (against the ground or floor), and pour it into a receptacle if there was one—or on the ground if not—taking care not to splash any nearby people or his own robes (`Cv.VIII.4.4-6`_).
+
+     - 當時的習俗是，當比丘受邀到在家人家中用餐時，施主會在餐前和餐後為比丘們提供清水，以便他們沖洗他們的缽。每次沖洗時，比丘都要雙手捧缽，接過清水到缽裡，輕輕晃動缽，但不要刮擦（地面或地板），然後將水倒入容器中（如果有容器），如果沒有容器，則倒到地上，注意不要濺到附近的人或自己的袈裟上（\ `《小品》.八.4.4-6`_\ ）。
+
+   * - This rule applies to the after-meal rinsing. The Vibhaṅga says that there is no offense in throwing away bowl-rinsing water if the rice grains are removed or if they are squashed so as to dissolve in the water. Different editions of the Canon have variant readings for the remaining non-offense clauses. According to the PTS edition, there is no offense “in having received or in having carried out,” but it is hard to tell what having received would mean here. According to the reading given in the Thai and Sri Lankan editions of the Canon, as well as the Commentary, there is no offense “in a receptacle (paṭiggahe) or in having carried out.” The reading “receptacle” here is supported by the Meal-hall Protocols in `Cv.VIII.4.6`_ (`BMC2, Chapter 9`_), and so is probably correct. Thus, as the Commentary explains, there is no offense in pouring the water with rice grains into a receptacle, nor is there an offense in carrying the bowl containing water with rice grains outside the inhabited area to throw it away there.
+
+     - 這條戒條適用於餐後沖洗。《經分別》指出，如果將缽中的米粒去除或碾碎至溶於水中，則倒掉洗缽水並無犯戒。不同版本的《聖典》對其餘不犯條款有不同的解讀。根據 PTS 版本，「已接受或已攜帶出去」並不構成犯戒，但此處什麼「已接受」的具體含義難以確定。根據泰國版和斯里蘭卡版《聖典》以及《義註》中的解讀，「在容器（paṭiggahe）中或已攜帶出去」並不構成犯戒。此處「容器」的解讀得到了\ `《小品》.八.4.6`_\ （\ `《佛教比丘戒律 第二冊》第九章`_\ ）中「食堂行儀」的支持，因此可能是正確的。因此，正如《義註》所解釋的那樣，將米粒水倒入容器中並無犯戒，將含有米粒水的缽帶到俗家間外扔掉也無犯戒。
+
+.. _Cv.VIII.4.4-6: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.4.3-6
+.. _《小品》.八.4.4-6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0292a08
+.. _Cv.VIII.4.6: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.4.3-6
+.. _《小品》.八.4.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0293a07
+.. _BMC2, Chapter 9: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
+.. _《佛教比丘戒律 第二冊》第九章: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第九章
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)

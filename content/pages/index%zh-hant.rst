@@ -757,7 +757,7 @@
      - `\　　　五十五 <{filename}Section0026%zh-hant.rst#Sk55>`__
 
    * - `\　　　56 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk56>`__
-     - 　　　五十六
+     - `\　　　五十六 <{filename}Section0026%zh-hant.rst#Sk56>`__
 
    * - `\　　Three: The 16 Dealing with Teaching Dhamma <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk_ChThree>`__
      - 　　第三 十六條關於說法
