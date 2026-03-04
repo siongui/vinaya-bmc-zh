@@ -1449,4 +1449,47 @@
    \*    \*    \*
 
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - In addition to the above rules, the duties observed on alms round and in eating at a lay person’s home include the following points of etiquette:
+     - 除了上述戒條外，在托缽乞食和在俗人家中用餐時應遵守的義務請包含以下禮儀要點：
+
+   * - .. container:: mx-2
+
+          *While on alms round.* One should go unhurriedly, and stand neither too close to nor too far from the donor (`Cv.VIII.5.2`_).
+
+     - .. container:: mx-2
+
+          *托缽乞食時。*\ 應不慌不忙地走，既不要站得離布施者太近，也不要離布施者太遠（\ `《小品》.八.5.2`_\ ）。
+
+   * - .. container:: mx-2
+
+          *While eating in a home.* One should select a seat that does not encroach on the senior bhikkhus’ spaces but that also does not preempt the seats of the junior ones (`Cv.VIII.4.3`_).
+
+     - .. container:: mx-2
+
+          *在家中用餐時。*\ 應選擇不侵占上座比丘空間，也不佔用下座比丘空間的座位（\ `《小品》.八.4.3`_\ ）。
+
+   * - .. container:: mx-2
+
+          If there are any special foods, the most senior bhikkhu should tell the donor to make sure that everyone gets equal portions. He should also not begin eating until everyone is served rice (`Cv.VIII.4.4`_), nor should he accept water for rinsing his bowl until everyone has finished eating (`Cv.VIII.4.6`_).
+
+     - .. container:: mx-2
+
+          如果有特殊的食物，戒臘最高的比丘應該告知布施者，確保每個人都能得到均等的份量。他也不應該在每個人都被供養米飯之前開始進食（\ `《小品》.八.4.4`_\ ），也不應該在每個人都吃完之前接受用來洗缽的水（\ `《小品》.八.4.6`_\ ）。
+
+   * - For more details, see `BMC2, Chapter 9`_.
+     - 更多詳情請參閱\ `《佛教比丘戒律 第二冊》第九章`_\ 。
+
+.. _Cv.VIII.4.4: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.4.3-6
+.. _《小品》.八.4.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0292a08
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
