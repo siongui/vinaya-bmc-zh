@@ -1454,7 +1454,7 @@
    :widths: auto
 
    * - In addition to the above rules, the duties observed on alms round and in eating at a lay person’s home include the following points of etiquette:
-     - 除了上述戒條外，在托缽乞食和在俗人家中用餐時應遵守的義務請包含以下禮儀要點：
+     - 除了上述戒條外，在托缽乞食和在俗人家中用餐時應遵守的義務包含以下禮儀要點：
 
    * - .. container:: mx-2
 
@@ -1490,6 +1490,46 @@
 .. container:: has-text-centered
 
    \*    \*    \*
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - The Vinaya-mukha notes that some of the rules and allowances in this section outline table manners that would be regarded as either excessively fussy or messy by polite modern standards. Thus wherever ancient and modern codes of etiquette are at variance, the wise policy would be to adhere to whichever code is more stringent on that particular point.
+
+     - 《戒律入口》指出，本部分的一些戒條和開緣，概述以現代禮貌標準來看會被認為過於講究或邋遢的餐桌禮儀。因此，凡是古代與現代禮儀規範存在衝突之處，明智之舉是遵循在該方面更為嚴格的規範。
+
+
+.. _Sk_ChThree:
+
+.. raw:: html
+
+   <span id="Sk_ChThree"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Three: The 16 Dealing with Teaching Dhamma**
+     - **第三 十六條關於說法**
+
+   * - `SN 6:2`_ records that the Buddha himself had the highest respect for the Dhamma he had discovered; that, as others might live under the guidance of a teacher, honoring and revering him, the Buddha lived under, honored, and revered the Dhamma. He enjoined his followers to show the same respect for the Dhamma not only when listening to it but also when teaching it, by refusing to teach it to a person who shows disrespect.
+
+     - `《相應部》6:2經`_\ 記載，佛陀本人對他所發現的法懷有最高的敬意；正如其他人會在老師的指導下生活，尊敬並敬仰老師一樣，佛陀也生活在法之下，尊敬並敬仰法。他告誡追隨者們，不僅在聆聽法時，而且在傳授法時，也要對法表現出同樣的敬意，拒絕向不敬法的人傳授之。
+
+   * - The following set of rules deals with situations in which a listener, in terms of the etiquette at that time, would be regarded as showing disrespect for a teacher or his teaching. As the Vinaya-mukha notes, a few of these cases—such as those concerning footwear—are not considered disrespectful under certain circumstances at present, although here the exceptions given for listeners who are ill might be stretched to cover any situation where the listener would feel inconvenienced or awkward if asked to comply with the etiquette of the Buddha’s time. On the other hand, there are many ways of showing disrespect at present that are not covered by these rules, and an argument could be made, reasoning from the Great Standards, that a bhikkhu should not teach Dhamma to a person who showed disrespect in any way.
+
+     - 以下的戒條集闡述了在當時的禮儀下，聽眾會被視為對老師或其教導不敬的情況。正如《戒律入口》所指出的，其中一些情況——例如關於鞋履的規定——在當今特定情況下並不被視為不敬。然而，此處針對生病聽眾的例外情況或許可以延伸至涵蓋任何聽眾若被要求遵守佛陀時代的禮儀而感到不便或尷尬的情況。另一方面，當今存在著許多不敬的行為，這些戒條並未涵蓋。根據《四大教示》，可以論證，比丘不應向任何表現出不敬之人宣講法。
+
+   * - *Dhamma* here is defined as any statement spoken by the Buddha, his disciples, seers, or devatās, connected with the teaching or with its goal. See `Pc 7`_ for a more detailed discussion of this point.
+
+     - 此處「\ *法*\ 」的定義是指佛陀、其弟子、先知或天人所言的任何與教義或其目標相關的陳述。有關這一點的更詳細討論，請參見\ `《波逸提》七`_\ 。
+
+.. _SN 6\:2: https://www.dhammatalks.org/suttas/SN/SN6_2.html
+.. _《相應部》6\:2經: https://sutra.mobi/chilin/xiangying/content/06.html#%E4%BA%8C%E6%95%AC%E9%87%8D
+.. _Pc 7: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
+.. _《波逸提》七: {filename}Section0016%zh-hant.rst#Pc7
 
 
 (未完待續)
