@@ -763,10 +763,10 @@
      - `\　　第三 十六條關於說法 <{filename}Section0026%zh-hant.rst#Sk_ChThree>`__
 
    * - `\　　　57 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk57>`__
-     - 　　　五十七
+     - `\　　　五十七 <{filename}Section0026%zh-hant.rst#Sk57>`__
 
    * - `\　　　58 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk58>`__
-     - 　　　五十八
+     - `\　　　五十八 <{filename}Section0026%zh-hant.rst#Sk58>`__
 
    * - `\　　　59 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk59>`__
      - 　　　五十九

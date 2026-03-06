@@ -1532,4 +1532,56 @@
 .. _《波逸提》七: {filename}Section0016%zh-hant.rst#Pc7
 
 
+.. _Sk57:
+
+.. raw:: html
+
+   <span id="Sk57"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **57**
+     - **五十七**
+
+   * - .. container:: notification
+
+          *I will not teach Dhamma to a person with an umbrella in his hand who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不對無病而手持傘者說法：應當學。*
+
+   * - An umbrella or sunshade, at that time, was considered a sign of rank. According to the Commentary, this rule applies regardless of whether the umbrella is open or closed, as long as one’s listener has his/her hand on it. If, however, the umbrella is on the listener’s lap, resting against his/her shoulder, or if someone else is holding it over the listener’s head, there is no offense in teaching him/her any Dhamma. This last point may have been offered as a concession to royalty at the time.
+
+     - 在當時，傘或遮陽物被視為身份的象徵。根據《義註》，無論傘是開著還是合著，只要聽者將手放在傘上，這條戒條都適用。然而，如果傘放在聽者的腿上、靠在肩上，或由他人舉在聽者的頭頂上，那麼其說法並無犯戒。最後這一點可能是當時對皇室做出的讓步。
+
+
+.. _Sk58:
+
+.. raw:: html
+
+   <span id="Sk58"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **58**
+     - **五十八**
+
+   * - .. container:: notification
+
+          *I will not teach Dhamma to a person with a staff in his hand who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不對無病而手持杖者說法：應當學。*
+
+   * - According to the Vibhaṅga, a *staff* is a pole two meters long. For some reason, any pole shorter or longer than that would not come under this rule—perhaps because a two-meter pole was used as a weapon, whereas other poles, such as walking sticks, were not.
+
+     - 根據《經分別》，\ *杖*\ 是指兩公尺長的桿子。不知何故，任何短於或長於兩米的桿子都不屬於本戒條的範疇——或許是因為兩米長的桿子曾被用作武器，而其他桿子，例如拐杖，則沒有這種用途。
+
+
 (未完待續)
