@@ -1584,4 +1584,91 @@
      - 根據《經分別》，\ *杖*\ 是指兩公尺長的桿子。不知何故，任何短於或長於兩米的桿子都不屬於本戒條的範疇——或許是因為兩米長的桿子曾被用作武器，而其他桿子，例如拐杖，則沒有這種用途。
 
 
+.. _Sk59:
+
+.. raw:: html
+
+   <span id="Sk59"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **59**
+     - **五十九**
+
+   * - .. container:: notification
+
+          *I will not teach Dhamma to a person with a knife in his hand who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不對無病而手持刀者說法：應當學。*
+
+   * - The term *knife* here includes anything with a blade. According to the Commentary, if the knife is not in the listener’s hand—e.g., it is in a sheath attached to a belt—there is no penalty in teaching him/her any Dhamma.
+
+     - 這裡所說的「\ *刀*\ 」指的是任何帶刃的物品。根據《義註》，如果刀不在聽者的手中——例如，刀放在繫在腰帶上的刀鞘裡——那麼向他/她說任何法都不會受到懲罰。
+
+
+.. _Sk60:
+
+.. raw:: html
+
+   <span id="Sk60"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **60**
+     - **六十**
+
+   * - .. container:: notification
+
+          *I will not teach Dhamma to a person with a weapon in his hand who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不對無病而手持武器者說法：應當學。*
+
+   * - The Vibhaṅga defines *weapon* as a bow, and the Commentary includes arrows here as well. The Vinaya-mukha adds guns; and in fact any weapon that does not have a blade would seem to fall under this rule.
+
+     - 《經分別》將\ *武器*\ 定義為弓，《義註》中在此也包含了箭。《戒律入口》則將槍械也納入其中；事實上，任何沒有刀刃的武器似乎都符合本戒條。
+
+   * - Again, if the weapon is not in the listener’s hand—e.g., it is in a holster attached to the belt—there is no penalty in teaching him/her any Dhamma.
+     - 再一次，如果武器不在聽者手中——例如，在繫於腰帶上的槍套裡——那麼向他/她說任何法都不會受到懲罰。
+
+
+.. _Sk61:
+
+.. raw:: html
+
+   <span id="Sk61"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **61 [62]**
+     - **六十一 [六十二]**
+
+   * - .. container:: notification
+
+          *I will not teach Dhamma to a person wearing non-leather [leather] footwear who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不對無病而穿非皮革[皮革]鞋者說法：應當學。*
+
+   * - The Pali terms for non-leather and leather footwear—\ *upāhanā* and *pādukā*\ —cover all forms of shoes, sandals, and boots (see `Mv.V.1.30-8.3`_).
+     - 巴利語中表示非皮革鞋和皮革鞋的術語——\ *upāhanā* 和 *pādukā*\ ——涵蓋了所有形式的鞋子、涼鞋和靴子（參見\ `《大品》.五.1.30-8.3`_\ ）。
+
+   * - *Wearing* means any one of three things: placing one’s feet on top of the footwear without inserting the toes; inserting the toes without fastening the footwear; or fastening the footwear with the toes inside.
+
+     - *穿*\ 指的是以下三種情況之一：將腳放在鞋子上但不伸入腳趾；伸入腳趾但不繫緊鞋子；或腳趾伸入鞋內繫緊鞋子。
+
+.. _Mv.V.1.30-8.3: https://www.dhammatalks.org/vinaya/bmc/Section0042.html#Mv.V.1.30
+.. _《大品》.五.1.30-8.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0249a02
+
+
 (未完待續)

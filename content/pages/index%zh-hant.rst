@@ -769,13 +769,13 @@
      - `\　　　五十八 <{filename}Section0026%zh-hant.rst#Sk58>`__
 
    * - `\　　　59 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk59>`__
-     - 　　　五十九
+     - `\　　　五十九 <{filename}Section0026%zh-hant.rst#Sk59>`__
 
    * - `\　　　60 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk60>`__
-     - 　　　六十
+     - `\　　　六十 <{filename}Section0026%zh-hant.rst#Sk60>`__
 
    * - `\　　　61 [62] <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk61>`__
-     - 　　　六十一 [六十二]
+     - `\　　　六十一 [六十二] <{filename}Section0026%zh-hant.rst#Sk61>`__
 
    * - `\　　　63 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk63>`__
      - 　　　六十三
