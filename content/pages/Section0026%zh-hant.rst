@@ -1671,4 +1671,30 @@
 .. _《大品》.五.1.30-8.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0249a02
 
 
+.. _Sk63:
+
+.. raw:: html
+
+   <span id="Sk63"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **63**
+     - **六十三**
+
+   * - .. container:: notification
+
+          *I will not teach Dhamma to a person in a vehicle who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不對無病而坐在車上者說法：應當學。*
+
+   * - The Commentary makes the point that if the vehicle is large enough to seat two or more, the bhikkhu may sit together with his listener and teach Dhamma without penalty. The same holds true if the bhikkhu and his listener are in separate vehicles, as long as the bhikkhu’s vehicle is the same height or higher than his listener’s and is not following along behind it.
+
+     - 《義註》指出，如果車輛夠大，可以容納兩人或兩人以上，比丘可以與聽者同坐並說法而不犯戒。如果比丘和聽者分別乘坐不同的車輛，只要比丘的車輛高度不低於聽者的車輛，且不跟隨在聽者的車輛後面，說法也不犯戒。
+
+
 (未完待續)

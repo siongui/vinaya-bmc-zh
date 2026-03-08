@@ -778,7 +778,7 @@
      - `\　　　六十一 [六十二] <{filename}Section0026%zh-hant.rst#Sk61>`__
 
    * - `\　　　63 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk63>`__
-     - 　　　六十三
+     - `\　　　六十三 <{filename}Section0026%zh-hant.rst#Sk63>`__
 
    * - `\　　　64 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk64>`__
      - 　　　六十四
