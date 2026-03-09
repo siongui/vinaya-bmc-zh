@@ -781,16 +781,16 @@
      - `\　　　六十三 <{filename}Section0026%zh-hant.rst#Sk63>`__
 
    * - `\　　　64 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk64>`__
-     - 　　　六十四
+     - `\　　　六十四 <{filename}Section0026%zh-hant.rst#Sk64>`__
 
    * - `\　　　65 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk65>`__
-     - 　　　六十五
+     - `\　　　六十五 <{filename}Section0026%zh-hant.rst#Sk65>`__
 
    * - `\　　　66 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk66>`__
-     - 　　　六十六
+     - `\　　　六十六 <{filename}Section0026%zh-hant.rst#Sk66>`__
 
    * - `\　　　67 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk67>`__
-     - 　　　六十七
+     - `\　　　六十七 <{filename}Section0026%zh-hant.rst#Sk67>`__
 
    * - `\　　　68 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk68>`__
      - 　　　六十八

@@ -1697,4 +1697,126 @@
      - 《義註》指出，如果車輛夠大，可以容納兩人或兩人以上，比丘可以與聽者同坐並說法而不犯戒。如果比丘和聽者分別乘坐不同的車輛，只要比丘的車輛高度不低於聽者的車輛，且不跟隨在聽者的車輛後面，說法也不犯戒。
 
 
+.. _Sk64:
+
+.. raw:: html
+
+   <span id="Sk64"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **64**
+     - **六十四**
+
+   * - .. container:: notification
+
+          *I will not teach Dhamma to a person lying down who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不對無病而躺臥者說法：應當學。*
+
+   * - The Commentary goes into great detail on this rule, listing the various permutations of the bhikkhu’s position and his listener’s, saying which ones are allowable and which ones not:
+
+     - 《義註》對此戒條進行了詳細闡述，列舉了比丘及其聽者的各種位置組合，並說明了哪些組合是允許的，哪些組合是不允許的：
+
+   * - A bhikkhu lying down may teach any listener who is standing or sitting down. He may also teach a listener lying down on a piece of furniture, a mat, or the ground, as long as the bhikkhu’s position is on an equal level or higher than his listener’s.
+
+     - 躺著的比丘可以為站立或坐著的聽者說法。他也可以為躺在家具、墊子或地上的聽者說法，只要比丘的姿勢與聽者的姿勢處於同一水平或比聽者更高即可。
+
+   * - A bhikkhu sitting down may teach a listener who is standing or sitting down (see also `Sk 68`_ & 69_), but not one who is lying down, unless the listener is ill.
+     - 坐著的比丘可以教導站著或坐著的聽者（參考\ `《應學》六八`_\ 和\ `《應學》六九`_\ ），但不能教導躺著的聽者，除非聽者有病。
+
+   * - A bhikkhu standing may teach a listener who is also standing, but not one who is sitting or lying down, again unless the listener is ill (see `Sk 70`_).
+     - 站著的比丘可以教導同樣站著的聽眾，但不能教導坐著或躺著的聽眾，除非聽眾有病（參見\ `《應學》七十`_\ ）。
+
+.. _Sk 68: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk68
+.. _69: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk69
+.. _《應學》六八: #Sk68
+.. _《應學》六九: #Sk69
+.. _Sk 70: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk70
+.. _《應學》七十: #Sk70
+
+
+.. _Sk65:
+
+.. raw:: html
+
+   <span id="Sk65"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **65**
+     - **六十五**
+
+   * - .. container:: notification
+
+          *I will not teach Dhamma to a person who sits clasping his knees and who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不對無病而抱膝坐著者說法：應當學。*
+
+   * - The position of *clasping the knees* is discussed in detail under `Sk 26`_.
+     - `《應學》二六`_\ 詳細討論了\ *抱膝*\ 的姿勢。
+
+.. _Sk 26: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk26
+.. _《應學》二六: #Sk26
+
+
+.. _Sk66:
+
+.. raw:: html
+
+   <span id="Sk66"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **66**
+     - **六十六**
+
+   * - .. container:: notification
+
+          *I will not teach Dhamma to a person wearing headgear who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不對無病而戴頭部穿戴物者說法：應當學。*
+
+   * - This rule applies only to headgear—such as turbans or hats—that hide all of the hair. If the hat/turban does not hide all of the hair, or if the listener adjusts it so as to expose some hair, it would not come under this rule.
+
+     - 這條戒條只適用於能完全遮蓋頭髮的頭部穿戴物，例如頭巾或帽子。如果帽子/頭巾無法完全遮蓋頭髮，或聽者調整帽子/頭巾使其露出部分頭髮，則不適用此戒條。
+
+
+.. _Sk67:
+
+.. raw:: html
+
+   <span id="Sk67"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **67**
+     - **六十七**
+
+   * - .. container:: notification
+
+          *I will not teach Dhamma to a person whose head is covered (with a robe or scarf) and who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不對無病而覆蓋頭部（用袈裟或圍巾）者說法：應當學。*
+
+   * - There is no offense in teaching if the listener adjusts the robe or scarf to uncover his/her head.
+     - 如果聽者調整袈裟或圍巾以露出其頭部，則說法並不犯戒。
+
+
 (未完待續)
