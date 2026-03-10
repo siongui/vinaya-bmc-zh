@@ -1940,4 +1940,44 @@
           *我將不走在路旁對無病而走在路中者說法：應當學。*
 
 
+.. _Sk_ChFour:
+
+.. raw:: html
+
+   <span id="Sk_ChFour"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Four: The 3 Miscellaneous Rules**
+     - **第四 三條雜戒**
+
+
+.. _Sk73:
+
+.. raw:: html
+
+   <span id="Sk73"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **73**
+     - **七十三**
+
+   * - .. container:: notification
+
+          *Not being ill, I will not defecate or urinate while standing: a training to be observed.*
+
+     - .. container:: notification
+
+          *無病我將不站著大便或小便：應當學。*
+
+   * - Arguing from the Commentary’s allowance under the following rule, it would seem that a bhikkhu who needs to urinate, finds himself in a public restroom, and can no longer hold himself in while waiting for a toilet, would qualify as “ill” here and so would be able to use a urinal without penalty.
+
+     - 根據《義註》中下一條戒條的開緣來論證，似乎一個需要小便的比丘，發現自己身處公共廁所，並且無法再憋住等待廁所的時間，就符合這裡的「生病」的定義，因此可以使用小便池而不會受到懲罰。
+
+
 (未完待續)

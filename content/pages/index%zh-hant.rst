@@ -808,10 +808,10 @@
      - `\　　　七十二 <{filename}Section0026%zh-hant.rst#Sk72>`__
 
    * - `\　　Four: The 3 Miscellaneous Rules <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk_ChFour>`__
-     - 　　第四 三條雜戒
+     - `\　　第四 三條雜戒 <{filename}Section0026%zh-hant.rst#Sk_ChFour>`__
 
    * - `\　　　73 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk73>`__
-     - 　　　七十三
+     - `\　　　七十三 <{filename}Section0026%zh-hant.rst#Sk73>`__
 
    * - `\　　　74 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk74>`__
      - 　　　七十四
