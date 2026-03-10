@@ -1819,4 +1819,125 @@
      - 如果聽者調整袈裟或圍巾以露出其頭部，則說法並不犯戒。
 
 
+.. _Sk68:
+
+.. raw:: html
+
+   <span id="Sk68"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **68**
+     - **六十八**
+
+   * - .. container:: notification
+
+          *Sitting on the ground, I will not teach Dhamma to a person sitting on a seat who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不坐在地上對無病而坐在座位者說法：應當學。*
+
+   * - According to the Commentary, a *seat* here includes even a piece of cloth or a pile of grass.
+     - 根據《義註》，這裡的\ *座位*\ 甚至包括一塊布或一堆草。
+
+
+.. _Sk69:
+
+.. raw:: html
+
+   <span id="Sk69"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **69**
+     - **六十九**
+
+   * - .. container:: notification
+
+          *Sitting on a low seat, I will not teach Dhamma to a person sitting on a high seat who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不坐在低座對無病而坐在高座者說法：應當學。*
+
+   * - The Commentary states that this rule also covers cases where the bhikkhu and his listener are both sitting on the ground but the listener is sitting on a higher piece of ground than the bhikkhu.
+
+     - 《義註》中指出，這條戒條也適用於比丘和聽者都坐在地上，但聽者坐在比比丘更高的地面上的情況。
+
+
+.. _Sk70:
+
+.. raw:: html
+
+   <span id="Sk70"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **70**
+     - **七十**
+
+   * - .. container:: notification
+
+          *Standing, I will not teach Dhamma to a person sitting who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不站著對無病而坐著者說法：應當學。*
+
+
+.. _Sk71:
+
+.. raw:: html
+
+   <span id="Sk71"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **71**
+     - **七十一**
+
+   * - .. container:: notification
+
+          *Walking behind, I will not teach Dhamma to a person walking ahead who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不走在後面對無病而走在前面者說法：應當學。*
+
+   * - There is no offense, the Commentary says, if the bhikkhu and his listener are walking side by side; or if two bhikkhus are walking along, one in front of the other, and they practice reciting a passage of Dhamma together.
+
+     - 《義註》說，如果比丘和他的聽者並肩而行；或者如果兩個比丘一前一後地走著，並且他們一起練習背誦一段佛法，都不犯戒。
+
+
+.. _Sk72:
+
+.. raw:: html
+
+   <span id="Sk72"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **72**
+     - **七十二**
+
+   * - .. container:: notification
+
+          *Walking beside a path, I will not teach Dhamma to a person walking on the path who is not ill: a training to be observed.*
+
+     - .. container:: notification
+
+          *我將不走在路旁對無病而走在路中者說法：應當學。*
+
+
 (未完待續)

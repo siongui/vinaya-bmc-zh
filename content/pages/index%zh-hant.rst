@@ -793,19 +793,19 @@
      - `\　　　六十七 <{filename}Section0026%zh-hant.rst#Sk67>`__
 
    * - `\　　　68 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk68>`__
-     - 　　　六十八
+     - `\　　　六十八 <{filename}Section0026%zh-hant.rst#Sk68>`__
 
    * - `\　　　69 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk69>`__
-     - 　　　六十九
+     - `\　　　六十九 <{filename}Section0026%zh-hant.rst#Sk69>`__
 
    * - `\　　　70 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk70>`__
-     - 　　　七十
+     - `\　　　七十 <{filename}Section0026%zh-hant.rst#Sk70>`__
 
    * - `\　　　71 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk71>`__
-     - 　　　七十一
+     - `\　　　七十一 <{filename}Section0026%zh-hant.rst#Sk71>`__
 
    * - `\　　　72 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk72>`__
-     - 　　　七十二
+     - `\　　　七十二 <{filename}Section0026%zh-hant.rst#Sk72>`__
 
    * - `\　　Four: The 3 Miscellaneous Rules <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk_ChFour>`__
      - 　　第四 三條雜戒
