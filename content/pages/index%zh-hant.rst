@@ -814,10 +814,10 @@
      - `\　　　七十三 <{filename}Section0026%zh-hant.rst#Sk73>`__
 
    * - `\　　　74 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk74>`__
-     - 　　　七十四
+     - `\　　　七十四 <{filename}Section0026%zh-hant.rst#Sk74>`__
 
    * - `\　　　75 <https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk75>`__
-     - 　　　七十五
+     - `\　　　七十五 <{filename}Section0026%zh-hant.rst#Sk75>`__
 
    * - `\　Adhikaraṇa-samatha <https://www.dhammatalks.org/vinaya/bmc/Section0027.html>`__
      - 　滅諍

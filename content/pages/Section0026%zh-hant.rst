@@ -1980,4 +1980,69 @@
      - 根據《義註》中下一條戒條的開緣來論證，似乎一個需要小便的比丘，發現自己身處公共廁所，並且無法再憋住等待廁所的時間，就符合這裡的「生病」的定義，因此可以使用小便池而不會受到懲罰。
 
 
+.. _Sk74:
+
+.. raw:: html
+
+   <span id="Sk74"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **74**
+     - **七十四**
+
+   * - .. container:: notification
+
+          *Not being ill, I will not defecate, urinate, or spit on living crops: a training to be observed.*
+
+     - .. container:: notification
+
+          *無病我將不在活的作物上大便、小便或吐痰：應當學。*
+
+   * - The Vinaya-mukha says that *crops* here includes all plants that are tended—such as in gardens, farms, or lawns—but not plants growing wild. The Commentary includes roots of living trees that appear above ground, in addition to green plants running along on top of the ground. It also notes that the Mahā Paccarī, one of the ancient commentaries on which it is based, includes blowing the nose under the term *spitting* in this rule and the next.
+
+     - 《戒律入口》指出，此處的「作物」包括所有人工栽培的植物，例如花園、農場或草坪上的植物，但不包括野生植物。《義註》中不僅包含了生長在地面上的綠色植物，還包括露出地面的活樹根系。此外，《義註》也指出，《Mahā Paccarī》（《義註》所依據的古代註釋書之一）在本戒條及下一條戒條中，將擤鼻涕歸入「\ *吐痰*\ 」的範疇。
+
+   * - According to the Vibhaṅga, there is no offense if—after defecating, urinating, or spitting on a place where there are no plants—the feces, urine, or saliva then spreads to a place where there are plants (§). The Commentary adds that if a bhikkhu looking for a place without crops to do his business can’t find one and is unable to hold himself in any longer, he would qualify as “ill” under this rule.
+
+     - 根據《經分別》，如果在沒有植物的地方大便、小便或吐痰後，糞便、尿液或唾液擴散到有植物的地方，則不犯戒（§）。《義註》補充道，如果比丘尋找沒有作物的地方方便，卻找不到，且無法再憋住，則根據此戒條，他會被認定為「有病」。
+
+
+.. _Sk75:
+
+.. raw:: html
+
+   <span id="Sk75"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **75**
+     - **七十五**
+
+   * - .. container:: notification
+
+          *Not being ill, I will not defecate, urinate, or spit in water: a training to be observed.*
+
+     - .. container:: notification
+
+          *無病我將不在水中大便、小便或吐痰：應當學。*
+
+   * - According to the Commentary, *water* here includes water fit for drinking or bathing, but not water unfit for such use—e.g., salt water, stagnant water, water already befouled with spit, urine, or feces—or water in a toilet. If there is a flood with no dry ground available, there is no offense in relieving oneself in the water.
+
+     - 根據註釋，此處所指的\ *水*\ 包括適於飲用或沐浴的水，但不包括不適於飲用或沐浴的水，例如鹽水、死水、已被唾液、尿液或糞便污染的水，或廁所裡的水。如果洪水氾濫且沒有可用的乾燥地面，那麼在水中方便並不犯戒。
+
+   * - As under the preceding rule, the Vibhaṅga says that there is no offense if—after defecating, urinating, or spitting on the ground—the feces, urine, or saliva then spreads into the water (§).
+
+     - 如同前一條戒條，《經分別》說，如果在地上大便、小便或吐痰後，糞便、尿液或唾液擴散到水中（§），不構成犯戒。
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
