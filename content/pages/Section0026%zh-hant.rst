@@ -2045,4 +2045,76 @@
    \*    \*    \*
 
 
-(未完待續)
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - `Cv.VIII.10`_ contains a series of rules on the etiquette in using a restroom. Among them:
+     - `《小品》.八.10`_ 包含一系列關於使用洗手間的禮儀規定。其中包括：
+
+   * - .. container:: mx-2
+
+          —The restroom should be used in order of arrival, rather than in order of seniority. (“Now at that time, bhikkhus used the restroom in order of seniority. Newly-ordained bhikkhus, having arrived first and having to wait, keeled over in a faint from holding themselves in.”)
+
+     - .. container:: mx-2
+
+          —使用洗手間的順序應依到達的先後順序，而非依戒臘順序。（「當時，比丘們按戒臘順序使用洗手間。新受戒的比丘們先到，卻不得不等待，結果憋不住，暈倒在地。」）
+
+   * - .. container:: mx-2
+
+          —One’s robes should be hung up on a line or rod before entering. This, according to the Vinaya-mukha, refers to one’s upper and outer robe (inasmuch as one is not to lift up one’s lower robe until astride the toilet—see below).
+
+     - .. container:: mx-2
+
+          —進入之前，應將袈裟掛在繩子或桿子上。根據《戒律入口》，這指的是上衣和外衣（因為在跨坐廁所之前，不能掀起下衣——見下文）。
+
+   * - .. container:: mx-2
+
+          —One should not go bursting into the restroom. Before entering, one should cough or clear one’s throat; if a bhikkhu is inside, he should cough or clear his throat in response.
+
+     - .. container:: mx-2
+
+          —不應貿然闖入洗手間。進入前應咳嗽或清喉嚨；若裡面有比丘，也應咳嗽或清喉嚨回應。
+
+   * - .. container:: mx-2
+
+          —One should not have one’s lower robe open or pulled up while entering, and instead should wait to pull up one’s robe only when astride the toilet.
+
+     - .. container:: mx-2
+
+          —進入廁所時，不應敞開或撩起下衣，而是應等到跨坐在廁所上時再撩起袈裟。
+
+   * - .. container:: mx-2
+
+          —One should not make grunting or groaning noises while relieving oneself.
+
+     - .. container:: mx-2
+
+          —如廁時不應發出哼哼或呻吟的噪音。
+
+   * - .. container:: mx-2
+
+          —If the toilet or restroom is dirty, one should clean it for the next person.
+
+     - .. container:: mx-2
+
+          —如果廁所或洗手間髒了，應該為下一個人打掃乾淨。
+
+   * - .. container:: mx-2
+
+          —One should not go bursting out of the restroom when finished—again, taking care not to have one’s lower robe pulled up or open.
+
+     - .. container:: mx-2
+
+          —用完洗手間後，不應該猛地衝出來－同樣地，要注意不要把下衣撩起來或敞開。
+
+   * - `Cv.VIII.9`_ adds that after one has defecated—inside a restroom or not—one should always rinse oneself if water is available.
+     - `《小品》.八.9`_ 補充說，在大便後，無論是否在洗手間裡，如果有水，就須沖洗自己。
+
+   * - For more details, see `BMC2, Chapter 9`_.
+     - 更多詳情請參閱\ `《佛教比丘戒律 第二冊》第九章`_\ 。
+
+.. _Cv.VIII.10: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.10.1
+.. _《小品》.八.10: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0301a02
+.. _Cv.VIII.9: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.9
+.. _《小品》.八.9: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0300a10
