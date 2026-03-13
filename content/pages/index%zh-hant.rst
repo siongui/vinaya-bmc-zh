@@ -820,10 +820,10 @@
      - `\　　　七十五 <{filename}Section0026%zh-hant.rst#Sk75>`__
 
    * - `\　Adhikaraṇa-samatha <https://www.dhammatalks.org/vinaya/bmc/Section0027.html>`__
-     - 　滅諍
+     - `\　滅諍 <{filename}Section0027%zh-hant.rst>`__
 
    * - `\　　1 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As1>`__
-     - 　　一
+     - `\　　一 <{filename}Section0027%zh-hant.rst#As1>`__
 
    * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As2>`__
      - 　　二
