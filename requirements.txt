@@ -1,4 +1,4 @@
 pelican
-pyScss
+pyScss @ git+https://github.com/Kronuz/pyScss.git
 pytz
 opencc

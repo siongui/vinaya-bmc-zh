@@ -7,7 +7,7 @@
 
 Development Tool: Pelican_ (static site generator written in Python)
 
-Development Environment: `Ubuntu 22.04`_
+Development Environment: `Ubuntu 24.04`_ (arm64_)
 
 
 First-time Setup
@@ -26,7 +26,7 @@ First-time Setup
    .. code-block:: bash
 
      $ sudo apt-get install git
-     $ sudo apt-get install python3-pip
+     $ sudo apt-get install python3-pip python3-venv
 
    From the `answer in Ask Ubuntu <https://askubuntu.com/a/1031733>`_,
    we can use python-is-python3 and prevent Python 2 from being installed
@@ -60,12 +60,16 @@ First-time Setup
      # or clone with full depth
      $ git clone https://github.com/siongui/vinaya-bmc-zh.git YOUR_REPO
 
-5. Install Python tools:
+5. Create a isolated virtual environment and install Python tools:
 
    .. code-block:: bash
 
      $ cd ~/dev/YOUR_REPO/
-     $ pip3 install -r requirements.txt
+     # create a isolated virtual environment
+     $ python3 -m venv bmc_env
+     # enter the virtual environment
+     $ source bmc_env/bin/activate
+     (bmc_env) $ pip3 install -r requirements.txt
 
 6. Install Pelican `i18n_subsites`_ plugin:
 
@@ -78,8 +82,14 @@ First-time Setup
 
    .. code-block:: bash
 
-     $ cd ~/dev/YOUR_REPO/
-     $ make scss
+     (bmc_env) $ cd ~/dev/YOUR_REPO/
+     (bmc_env) $ make scss
+
+8. To Leave the virtual environment:
+
+   .. code-block:: bash
+
+     (bmc_env) $ deactivate
 
 
 Daily Development
@@ -89,9 +99,13 @@ Daily Development
 
     # start edit and develope
     $ cd ~/dev/YOUR_REPO/
+    # enter the virtual environment
+    $ source bmc_env/bin/activate
     # re-generate the website and start dev server
-    $ make
+    (bmc_env) $ make
     # open your browser and preview the website at http://localhost:8000/
+    # after development finished, leave the virtual environment
+    (bmc_env) $ deactivate
 
 
 References
@@ -101,7 +115,8 @@ References
 
 
 .. _Pelican: https://blog.getpelican.com/
-.. _Ubuntu 22.04: https://releases.ubuntu.com/22.04/
+.. _Ubuntu 24.04: https://releases.ubuntu.com/24.04/
+.. _arm64: https://cdimage.ubuntu.com/releases/noble/release/
 .. _git: https://git-scm.com/
 .. _pip: https://pypi.python.org/pypi/pip
 .. _i18n_subsites: https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites
