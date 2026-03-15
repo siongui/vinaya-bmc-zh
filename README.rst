@@ -19,14 +19,14 @@ First-time Setup
 
    .. code-block:: bash
 
-     $ sudo apt-get update
+      $ sudo apt-get update
 
 2. Install git_ and pip_:
 
    .. code-block:: bash
 
-     $ sudo apt-get install git
-     $ sudo apt-get install python3-pip python3-venv
+      $ sudo apt-get install git
+      $ sudo apt-get install python3-pip python3-venv
 
    From the `answer in Ask Ubuntu <https://askubuntu.com/a/1031733>`_,
    we can use python-is-python3 and prevent Python 2 from being installed
@@ -34,17 +34,17 @@ First-time Setup
 
    .. code-block:: bash
 
-     $ sudo apt-get install python-is-python3
-     $ sudo apt-mark hold python2 python2-minimal python2.7 python2.7-minimal libpython2-stdlib libpython2.7-minimal libpython2.7-stdlib
+      $ sudo apt-get install python-is-python3
+      $ sudo apt-mark hold python2 python2-minimal python2.7 python2.7-minimal libpython2-stdlib libpython2.7-minimal libpython2.7-stdlib
 
 3. Install language packages to add locale (English, Traditional Chinese, and
    Thai in this example):
 
    .. code-block:: bash
 
-     $ sudo apt-get install language-pack-en
-     $ sudo apt-get install language-pack-zh-hant
-     $ sudo apt-get install language-pack-th
+      $ sudo apt-get install language-pack-en
+      $ sudo apt-get install language-pack-zh-hant
+      $ sudo apt-get install language-pack-th
 
    Or you can install languages in "Settings" -> "Region & Language", which
    installs more related packages such as fonts for languages.
@@ -53,43 +53,65 @@ First-time Setup
 
    .. code-block:: bash
 
-     $ cd
-     $ mkdir dev
-     $ cd ~/dev/
-     $ git clone https://github.com/siongui/vinaya-bmc-zh.git --depth=1
-     # or clone with full depth
-     $ git clone https://github.com/siongui/vinaya-bmc-zh.git YOUR_REPO
+      $ cd
+      $ mkdir dev
+      $ cd ~/dev/
+      $ git clone https://github.com/siongui/vinaya-bmc-zh.git --depth=1
+      # or clone with full depth
+      $ git clone https://github.com/siongui/vinaya-bmc-zh.git YOUR_REPO
 
 5. Create a isolated virtual environment and install Python tools:
 
    .. code-block:: bash
 
-     $ cd ~/dev/YOUR_REPO/
-     # create a isolated virtual environment
-     $ python3 -m venv bmc_env
-     # enter the virtual environment
-     $ source bmc_env/bin/activate
-     (bmc_env) $ pip3 install -r requirements.txt
+      $ cd ~/dev/YOUR_REPO/
+      # create a isolated virtual environment
+      $ python3 -m venv bmc_env
+      # enter the virtual environment
+      $ source bmc_env/bin/activate
+      (bmc_env) $ pip3 install -r requirements.txt
 
 6. Install Pelican `i18n_subsites`_ plugin:
 
    .. code-block:: bash
 
-     $ cd ~/dev/YOUR_REPO/
-     $ make download
+      $ cd ~/dev/YOUR_REPO/
+      $ make download
 
 7. Generate CSS file:
 
    .. code-block:: bash
 
-     (bmc_env) $ cd ~/dev/YOUR_REPO/
-     (bmc_env) $ make scss
+      (bmc_env) $ cd ~/dev/YOUR_REPO/
+      (bmc_env) $ make scss
 
 8. To Leave the virtual environment:
 
    .. code-block:: bash
 
-     (bmc_env) $ deactivate
+      (bmc_env) $ deactivate
+
+9. (optional) Install chewing input method:
+
+   .. code-block:: bash
+
+      $ sudo apt install ibus-chewing
+
+   Log out and log back in, or run `ibus restart` in the terminal.
+
+   Open **Settings** > **Keyboard** > **Input Sources**.
+
+   Click **+ Add Input Source...**
+
+   Choose **Chinese (Chewing)**
+
+10. (optional) Customize the hotkey to switch input method:
+
+    Open **Settings** > **Keyboard** > **Keyboard Shortcuts**
+
+    Click **View and Customize Shortcuts** > **Typing**
+
+    Look for "Switch to next input source" to change the hotkey.
 
 
 Daily Development
@@ -97,15 +119,15 @@ Daily Development
 
 .. code-block:: bash
 
-    # start edit and develope
-    $ cd ~/dev/YOUR_REPO/
-    # enter the virtual environment
-    $ source bmc_env/bin/activate
-    # re-generate the website and start dev server
-    (bmc_env) $ make
-    # open your browser and preview the website at http://localhost:8000/
-    # after development finished, leave the virtual environment
-    (bmc_env) $ deactivate
+   # start edit and develope
+   $ cd ~/dev/YOUR_REPO/
+   # enter the virtual environment
+   $ source bmc_env/bin/activate
+   # re-generate the website and start dev server
+   (bmc_env) $ make
+   # open your browser and preview the website at http://localhost:8000/
+   # after development finished, leave the virtual environment
+   (bmc_env) $ deactivate
 
 
 References
