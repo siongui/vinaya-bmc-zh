@@ -54,5 +54,18 @@
 
           *應該當面判決。*
 
+   * - This means that the transaction settling the issue must be carried out face-to-face with the Community, face-to-face with the individuals, and face-to-face with the Dhamma and Vinaya.
+
+     - 這意指解決爭議/諍論的羯磨必須與僧團面對面、與個人面對面、與法和律面對面執行。
+
+   * - *Face-to-face with the Community* means that the group of bhikkhus that has gathered is competent to carry out the transaction in question. In other words, it contains the minimum number of bhikkhus required, all the qualified bhikkhus in the valid territory *(sīmā)* in which the meeting is held either are present or have sent their consent, and none of the qualified bhikkhus in the meeting makes protest against having the matter settled by the group—although as we noticed under `Pc 80`_, if a transaction is being carried out against a bhikkhu, his protest does not invalidate the act; any protest made by any other member of the group, though, would invalidate it, even if he only informs the bhikkhu sitting next to him (`Mv.IX.4.8`_).
+
+     - *與僧團面對面*\ 意指聚集的比丘團體有資格執行相關羯磨。換言之，其包含的比丘人數達到最低要求，在會議舉行的界場\ *（sīmā）*\ 內所有符合資格的比丘都已到場或已送來他們的同意，且會議中沒有任何符合資格的比丘抗議由團體解決此事——儘管如我們在\ `《波逸提》八十`_\ 中所注意到，如果羯磨是針對某位比丘執行的，他的抗議並不會使該羯磨無效；然而，任何團體裡其他成員的抗議都會使該羯磨無效，即使他只是告知坐在他旁邊的比丘（\ `《大品》.九.4.8`_\ ）。
+
+.. _Pc 80: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc80
+.. _Mv.IX.4.8: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.IX.4.8
+.. _《波逸提》八十: {filename}Section0023%zh-hant.rst#Pc80
+.. _《大品》.九.4.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0416a05
+
 
 (未完待續)
