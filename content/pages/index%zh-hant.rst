@@ -826,7 +826,7 @@
      - `\　　一 <{filename}Section0027%zh-hant.rst#As1>`__
 
    * - `\　　2 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As2>`__
-     - 　　二
+     - `\　　二 <{filename}Section0027%zh-hant.rst#As2>`__
 
    * - `\　　3 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As3>`__
      - 　　三

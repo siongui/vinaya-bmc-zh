@@ -79,4 +79,76 @@
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二部份
 
 
+.. _As2:
+
+.. raw:: html
+
+   <span id="As2"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **2**
+     - **二**
+
+   * - .. container:: notification
+
+          *A verdict of mindfulness may be given.*
+
+     - .. container:: notification
+
+          *可給予正念判決。*
+
+   * - This is the verdict of innocence given in response to an accusation, based on the fact that the accused remembers fully that he did not commit the offense in question.
+
+     - 這是針對指控的無罪判決，依據事實是被指控者完全記得他沒有犯下所指控的罪行。
+
+   * - This verdict is valid only if—
+     - 只有在以下情況下，該判決才有效—
+
+   * - .. container:: mx-2
+
+          1\) The bhikkhu is pure and without offense.
+
+     - .. container:: mx-2
+
+          1）該比丘清淨無罪。
+
+   * - .. container:: mx-2
+
+          2\) He is accused of an offense.
+
+     - .. container:: mx-2
+
+          2）他被指控犯有罪行。
+
+   * - .. container:: mx-2
+
+          3\) He asks for the verdict.
+
+     - .. container:: mx-2
+
+          3）他要求判決。
+
+   * - .. container:: mx-2
+
+          4\) The Community gives him the verdict.
+
+     - .. container:: mx-2
+
+          4）僧團給予他判決。
+
+   * - .. container:: mx-2
+
+          5\) It is in accordance with the Dhamma, the assembly of bhikkhus being united and competent to give it (`Cv.IV.4.11`_).
+
+     - .. container:: mx-2
+
+          5）這是符合法的，比丘集眾和合，有能力給予之（\ `《小品》.四.4.11`_\ ）。
+
+.. _Cv.IV.4.11: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.4.11
+.. _《小品》.四.4.11: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0109a13
+
+
 (未完待續)
