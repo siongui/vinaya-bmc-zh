@@ -147,8 +147,19 @@
 
           5）這是符合法的，比丘集眾和合，有能力給予之（\ `《小品》.四.4.11`_\ ）。
 
+   * - According to the Commentary, factor (1) here—the bhikkhu is pure and without offense—applies only to arahants, but the Canon makes no mention of this point. There are other places in the Khandhakas where the phrase “pure and without offense” is used to refer to any bhikkhu who has not committed the offense of which he is accused (e.g., `Mv.IX.1.7`_; `Mv.IX.4.9`_), with nothing to indicate that he would have to be an arahant as well. If the Commentary’s interpretation were correct here, there would be no way that a bhikkhu in his right mind who is not an arahant could be declared innocent of an offense at all, for the only three verdicts that may settle an accusation-issue are this one, the verdict of past insanity (for a bhikkhu who was insane when he committed the offense in question), and the transaction for further punishment (literally, “making it worse for him,”) for a bhikkhu who committed the offense in question when he was in his right mind. The fourth rule below—acting in accordance with what is admitted—which is sometimes assumed to cover cases of innocence, actually applies only to cases where the bhikkhu admits to having committed an offense, and not to cases where he is innocent and asserts his innocence.
+
+     - 根據《義註》，此處的因素（1）——比丘清淨無罪——僅適用於阿羅漢，但《聖典》中並未提及這一點。在《犍度》的其他篇章中，「清淨無罪」一詞被用來指稱任何未犯下被指控罪行的比丘（例如，\ `《大品》.九.1.7`_\ ；\ `《大品》.九.4.9`_\ ），而沒有任何跡象表明他也必須是阿羅漢。如果《義註》的解釋在此正確，那麼一位神智健全但未證得阿羅漢的比丘就不可能被宣告無罪，因為只有三種判決可以解決教誡諍/覓諍：一是此判決；二是不癡判決（適用於在犯戒時處於精神錯亂狀態的比丘）；三是罪處所(覓罪相)羯磨（字面意思是「使其對他更糟」）適用於在犯戒時神智健全的比丘；下文第四條戒條——「按所承認的而行」——有時被認為涵蓋無罪的情況，但實際上僅適用於比丘承認犯戒的情況，而不適用於比丘無罪並堅稱自己無罪的情況。
+
+   * - Thus we will follow the general usage in the Khandhakas and say that the factor “pure and without offense” is fulfilled by any bhikkhu—arahant or not—who has not committed the offense in question.
+
+     - 因此，我們將遵循《犍度》中的一般用法，認為任何比丘——無論是否是阿羅漢——只要沒有犯下所討論的罪行，就滿足了「清淨無罪」的因素。
+
 .. _Cv.IV.4.11: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.4.11
 .. _《小品》.四.4.11: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0109a13
-
+.. _Mv.IX.1.7: https://www.dhammatalks.org/vinaya/Mv/MvIX.html#pts1_7
+.. _Mv.IX.4.9: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Mv.IX.4.9
+.. _《大品》.九.1.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0407a03
+.. _《大品》.九.4.9: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0416a08
 
 (未完待續)
