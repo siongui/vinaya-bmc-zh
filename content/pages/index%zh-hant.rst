@@ -832,7 +832,7 @@
      - `\　　三 <{filename}Section0027%zh-hant.rst#As3>`__
 
    * - `\　　4 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As4>`__
-     - 　　四
+     - `\　　四 <{filename}Section0027%zh-hant.rst#As4>`__
 
    * - `\　　5 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As5>`__
      - 　　五
