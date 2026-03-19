@@ -162,4 +162,61 @@
 .. _《大品》.九.1.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0407a03
 .. _《大品》.九.4.9: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0416a08
 
+
+.. _As3:
+
+.. raw:: html
+
+   <span id="As3"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **3**
+     - **三**
+
+   * - .. container:: notification
+
+          *A verdict of past insanity may be given.*
+
+     - .. container:: notification
+
+          *可給予不癡判決。*
+
+   * - This is another verdict of innocence given in an accusation, based on the fact that the accused was out of his mind when he committed the offense in question and so is absolved of any responsibility for it.
+
+     - 這是另一個在指控裡可以被給予的無罪判決，根據的事實是被指控者在犯相關戒時發狂，因此免除了對它的任何責任。
+
+   * - This verdict is valid only if given to a bhikkhu who:
+     - 只有在以下情況下的比丘，此判決才有效：
+
+   * - .. container:: mx-2
+
+          1\) does not remember what he did while insane;
+
+     - .. container:: mx-2
+
+          1）不記得自己在精神錯亂時做了什麼；
+
+   * - .. container:: mx-2
+
+          2\) remembers, but only as if in a dream; or
+
+     - .. container:: mx-2
+
+          2）記得，但感覺就像在做夢一樣；或者
+
+   * - .. container:: mx-2
+
+          3\) is still insane enough to believe that his behavior is proper. (“I act that way and so do you. It’s allowable for me and allowable for you!”) (`Cv.IV.6.2`_).
+
+     - .. container:: mx-2
+
+          3）仍然精神錯亂到認為自己的行為是恰當的。（「我這樣做，你也這樣做。我這樣做是允許的，你這樣做也是允許的！」）（\ `《小品》.四.6.2`_\ ）。
+
+.. _Cv.IV.6.2: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.6.2
+.. _《小品》.四.6.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0112a07
+
+
 (未完待續)

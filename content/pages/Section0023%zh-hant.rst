@@ -1082,8 +1082,7 @@
      - *4）努力：*\ 未經先給予同意，離開正在會議裡坐著的比丘們，超過伸手可及之處（1.25 公尺）。
 
 .. _As 1: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As1
-.. _《滅諍》一: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As1
-.. TODO FIXME: replace link to 《滅諍》一
+.. _《滅諍》一: {filename}Section0027%zh-hant.rst#As1
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
