@@ -244,5 +244,14 @@
 
      - 這指的是兩種情況。第一種是普通的懺悔罪行，不涉及正式審問。這種懺悔表白只有在與事實相符的情況下才有效，例如，比丘確實犯了《波逸提》，並如實懺悔表白之，而不是懺悔表白為更重或更輕的罪。如果他懺悔表白為《突吉羅》或《僧殘》，則無效。
 
+   * - The second situation is when, following on an accusation, the Community has met to interrogate the bhikkhu in question and he has admitted to doing the action in question (although he may still not see the action as an offense or, if he does, may still refuse to undergo the penalty for it). If he admits that it was an offense, he may be dealt with in line with the severity of the offense. For instance, if he committed a saṅghādisesa offense, they would have to at least tell him to prepare for his penance and probation, and later actually carry them out. This would count as “acting in accordance with what is admitted.” However, the accusation is still not settled. The Community must then impose an extra disciplinary action on him—at the very least, the “further-punishment” transaction described under `As 6`_, below—for having put the Community to the trouble of having to hold the interrogation to begin with. Only then is the issue settled. This is why `Cv.IV.14.27`_ does not list “acting in accordance with what is admitted” as a procedure for settling accusation-issues, because even though the bhikkhus must deal with the accused in line with what was admitted, the accusation-issue is not settled until the extra punishment has been applied.
+
+     - 第二種情況是，當在接到指控後，僧團召開會議審問涉事比丘，而他承認了所指控的行為（儘管他可能仍然不認為該行為是犯戒，或者即使認為是犯戒，也可能拒絕接受相應的懲罰）。如果他承認這是犯戒，則可以根據犯戒的嚴重程度來處理他。例如，如果他犯了《僧殘》罪，僧團至少要告知他準備進行摩那埵和別住，並在之後實際執行。這算作「按照所承認而行」。然而，指控仍尚未解決。僧團隨後必須對他施加額外的治罪處分——至少是下文\ `《滅諍》六`_\ 所述的「罪處所（覓罪相）」羯磨——因為他使僧團陷入了必須首先進行審問的麻煩。這樣，問題才能解決。這就是為什麼\ `《小品》.四.14.27`_\ 沒有將「按照所承認而行」列為解決教誡諍（覓諍）的程序，因為即使比丘們必須按照所承認的來處理被指控者，但在施加額外懲罰之前，教誡諍（覓諍）還沒有得到解決。
+
+.. _As 6: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As6
+.. _Cv.IV.14.27: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.27
+.. _《滅諍》六: #As6
+.. _《小品》.四.14.27: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0134a10
+
 
 (未完待續)
