@@ -254,4 +254,56 @@
 .. _《小品》.四.14.27: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0134a10
 
 
+.. _As5:
+
+.. raw:: html
+
+   <span id="As5"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **5**
+     - **五**
+
+   * - .. container:: notification
+
+          *Acting in accordance with the majority.*
+
+     - .. container:: notification
+
+          *按照多數而行。*
+
+   * - This refers to cases in which bhikkhus are unable to settle a dispute unanimously, even after all the proper procedures are followed, and—in the words of the Canon—are “wounding one another with weapons of the tongue.” In cases such as these, decisions can be made by majority vote.
+
+     - 這指的是比丘們即使遵循了所有正當程序，也無法一致解決爭端，並且——用《聖典》的話來說——「以言語的武器來互相傷害」的情況。在這種情況下，可以透過多數投票來做出決定。
+
+   * - Such a vote is valid only if—
+     - 這樣的投票只有在以下情況才有效——
+
+   * - .. container:: mx-2
+
+          1\) The issue is important.
+
+     - .. container:: mx-2
+
+          1）該爭議/諍論很重要。
+
+   * - .. container:: mx-2
+
+          2\) The face-to-face procedures have all been followed but have not succeeded in settling the issue. (The discussion in the Cullavagga indicates that at least two Communities have tried settling the issue; the Commentary recommends trying the normal procedures in at least two or three.)
+
+     - .. container:: mx-2
+
+          2）已遵循所有的面對面程序，但未能成功解決諍論。（《小品》中的討論表明，至少有兩個僧團已嘗試解決這個諍論；《義註》建議至少在兩到三個僧團嘗試正常的程序。）
+
+   * - .. container:: mx-2
+
+          3\) Both sides have been made to reflect on their position.
+
+     - .. container:: mx-2
+
+          3）雙方都已被迫反思自己的立場。
+
 (未完待續)
