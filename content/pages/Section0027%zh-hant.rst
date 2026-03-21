@@ -306,4 +306,64 @@
 
           3）雙方都已被迫反思自己的立場。
 
+   * - .. container:: mx-2
+
+          4\) The distributor of voting tickets knows that the majority sides with the Dhamma.
+
+     - .. container:: mx-2
+
+          4）分發選票者知道多數站在法這邊。
+
+   * - .. container:: mx-2
+
+          5\) He hopes (§) that the majority sides with the Dhamma (in other words, he himself is on the side of the Dhamma).
+
+     - .. container:: mx-2
+
+          5）他希望（§）多數站在法這邊（換句話說，他自己在法這邊）。
+
+   * - .. container:: mx-2
+
+          6\) The distributor of voting tickets knows that the procedure will not lead to a split in the Saṅgha.
+
+     - .. container:: mx-2
+
+          6）分發選票者知道，此程序不會導致僧伽分裂。
+
+   * - .. container:: mx-2
+
+          7\) He hopes (§) that the procedure will not lead to a split in the Saṅgha (again, this means that he himself does not want there to be a split).
+
+     - .. container:: mx-2
+
+          7）他希望（§）此程序不會導致僧伽分裂（再一次，這意指他自己不希望將會有分裂）。
+
+   * - .. container:: mx-2
+
+          8\) The tickets are taken in accordance with the Dhamma (according to the Commentary, this means that there is no cheating—e.g., one bhikkhu taking two tickets—and the Dhamma side wins).
+
+     - .. container:: mx-2
+
+          8）選票按照法來領取（根據《義註》，這意指沒有作弊行為——例如，一個比丘拿兩張票——而且法一方獲勝）。
+
+   * - .. container:: mx-2
+
+          9\) The assembly is complete.
+
+     - .. container:: mx-2
+
+          9）集眾是完整的。
+
+   * - .. container:: mx-2
+
+          10\) The bhikkhus take the tickets in accordance with their views (and not, for example, under fear of intimidation or coercion). (`Cv.IV.10`_)
+
+     - .. container:: mx-2
+
+          10）比丘們根據自己的見解領取選票（而不是，例如，在害怕恐嚇或脅迫的情況下）。（\ `《小品》.四.10`_\ ）
+
+.. _Cv.IV.10: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.10.1
+.. _《小品》.四.10: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0115a02
+
+
 (未完待續)
