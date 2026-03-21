@@ -838,7 +838,7 @@
      - `\　　五 <{filename}Section0027%zh-hant.rst#As5>`__
 
    * - `\　　6 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As6>`__
-     - 　　六
+     - `\　　六 <{filename}Section0027%zh-hant.rst#As6>`__
 
    * - `\　　7 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As7>`__
      - 　　七

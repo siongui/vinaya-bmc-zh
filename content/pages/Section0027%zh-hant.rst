@@ -366,4 +366,36 @@
 .. _《小品》.四.10: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0115a02
 
 
+.. _As6:
+
+.. raw:: html
+
+   <span id="As6"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **6**
+     - **六**
+
+   * - .. container:: notification
+
+          *Acting for his further punishment.*
+
+     - .. container:: notification
+
+          *為加重對他的處罰而行。*
+
+   * - This refers to cases where a bhikkhu admits to having committed the offense in question only after being formally interrogated about it. After getting him to disclose the offense, the Community is to carry out a “further-punishment” transaction against him for being so uncooperative as to require the formal interrogation in the first place.
+
+     - 這指的是比丘在被正式審問後才承認犯下相關罪行的情況。在使其坦白罪行後，僧團應因其最初不配合導致需要正式審問，而對其施以「罪處所(覓罪相)」羯磨。
+
+   * - The Cullavagga (IV.11.2-12.3) contains two separate discussions of the conditions that are necessary for the act to be valid. The discussions overlap, but can be summarized as follows:
+
+     - `《小品》（四.11.2-12.3）`_\ 包含了兩段關於此行事要有效的必要條件的獨立討論。這兩段討論有所重疊，但可以概括如下：
+
+.. _《小品》（四.11.2-12.3）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0116a01
+
+
 (未完待續)
