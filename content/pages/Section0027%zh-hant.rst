@@ -395,7 +395,65 @@
 
      - `《小品》（四.11.2-12.3）`_\ 包含了兩段關於此行事要有效的必要條件的獨立討論。這兩段討論有所重疊，但可以概括如下：
 
+   * - .. container:: mx-2
+
+          1\) The accused is impure (i.e., he actually did commit the offense, and it is an offense that requires confession).
+
+     - .. container:: mx-2
+
+          1）被指控者不清淨（即，他確實犯下了罪行，而且該罪行需要懺悔表白之）。
+
+   * - .. container:: mx-2
+
+          2\) He is unconscientious (i.e., he didn’t voluntarily confess the offense on his own in the first place).
+
+     - .. container:: mx-2
+
+          2）他缺乏良心（即，他一開始並沒有自願懺悔罪行）。
+
+   * - .. container:: mx-2
+
+          3\) He stands accused of the offense. (The Commentary translates this word—\ *sānuvāda*, “with an accusation”—as meaning “argumentative”—\ *sa-upavāda*\ —but in `Mv.IV.16.16`_ it clearly means that an apparently well-founded charge has been brought against the accused by a competent bhikkhu.)
+
+     - .. container:: mx-2
+
+          3）他被指控犯有該罪行。（《義註》將這個詞——\ *sānuvāda*\ ，「帶著指控」——翻譯為「好爭論的」——\ *sa-upavāda*\ ——但在\ `《大品》.四.16.16`_\ 中，它清楚地指一位稱職的比丘對被指控者提出了明顯有理有據的指控。
+
+   * - .. container:: mx-2
+
+          4\) A formal meeting has been called in which he is present and has been interrogated: charged with the offense and made to remember—i.e., to think back to the events in question.
+
+     - .. container:: mx-2
+
+          4）已召開正式會議，他出席並接受了審問：被指控犯有該罪行，並被迫回憶——即，回想相關事件。
+
+   * - .. container:: mx-2
+
+          5\) He discloses the offense—i.e., admits to having committed it.
+
+     - .. container:: mx-2
+
+          5）他披露了罪行－即承認自己犯下了該罪行。
+
+   * - .. container:: mx-2
+
+          6\) The Community carries out the transaction
+
+     - .. container:: mx-2
+
+          6）僧團執行羯磨
+
+   * - .. container:: mx-2
+
+          7\) in accordance with the Dhamma and Vinaya, and with a united assembly.
+
+     - .. container:: mx-2
+
+          7）依照法與律，並依照和合的集眾。
+
 .. _《小品》（四.11.2-12.3）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0116a01
+.. _Mv.IV.16.16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#Mv.IV.16.10-16
+.. _《大品》.四.16.16: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_004/#0230a13
 
 
 (未完待續)
