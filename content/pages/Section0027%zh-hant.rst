@@ -451,9 +451,15 @@
 
           7）依照法與律，並依照和合的集眾。
 
+   * - What makes this transaction special is that—unlike other disciplinary transactions, which the Community can impose or not at its discretion—this act *must* be imposed on a bhikkhu who has committed an offense that requires confession but does not admit to the action until having been formally interrogated (`Cv.IV.14.27`_). In addition, though, `Cv.IV.12.3`_ states that, if the Community wants to, it may also impose the act on a bhikkhu who:
+
+     - 這項羯磨的特殊之處在於－與其他僧團可自行決定是否執行的治罪羯磨不同－這項羯磨\ *必須*\ 施加於犯有需懺悔之罪卻在被正式審問前不承認該行為的比丘（\ `《小品》.四.14.27`_\ ）。此外，\ `《小品》.四.12.3`_\ 規定，如果僧團想要，也可以對以下比丘執行該羯磨：
+
 .. _《小品》（四.11.2-12.3）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0116a01
 .. _Mv.IV.16.16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#Mv.IV.16.10-16
 .. _《大品》.四.16.16: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_004/#0230a13
+.. _Cv.IV.12.3: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.12.3
+.. _《小品》.四.12.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0117a03
 
 
 (未完待續)
