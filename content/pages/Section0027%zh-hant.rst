@@ -455,11 +455,100 @@
 
      - 這項羯磨的特殊之處在於－與其他僧團可自行決定是否執行的治罪羯磨不同－這項羯磨\ *必須*\ 施加於犯有需懺悔之罪卻在被正式審問前不承認該行為的比丘（\ `《小品》.四.14.27`_\ ）。此外，\ `《小品》.四.12.3`_\ 規定，如果僧團想要，也可以對以下比丘執行該羯磨：
 
+   * - .. container:: mx-2
+
+          1\) is a maker of strife, quarrels, and dissension in the Community;
+
+     - .. container:: mx-2
+
+          1）是僧團內紛爭、爭吵和不和的製造者；
+
+   * - .. container:: mx-2
+
+          2\) is inexperienced, incompetent, indiscriminately (§) full of offenses; or
+
+     - .. container:: mx-2
+
+          2）缺乏經驗、能力不足、不加區分地（§）充滿罪行；或
+
+   * - .. container:: mx-2
+
+          3\) lives in unbecoming association with lay people.
+
+     - .. container:: mx-2
+
+          3）過著與在家人有不雅觀交往的生活。
+
+   * - However, if the Community wants to, it may also impose a censure transaction on the bhikkhu who meets either of these sets of qualifications (`Cv.I.2`_; `Cv.I.4`_). Given that the prohibitions imposed by both the censure and the further-punishment transactions are identical, it is hard to understand why there are two separate transactions that, for all intents and purposes, are essentially the same.
+
+     - 然而，如果僧團想要，也可以對符合上述任何一種條件的比丘施加呵責(苦切)羯磨（\ `《小品》.一.2`_\ ；\ `《小品》.一.4`_\ ）。鑑於呵責(苦切)羯磨和罪處所(覓罪相)羯磨所施加的禁令完全相同，就所有意圖和目的而言，很難理解為何會有兩種本質上相同的羯磨。
+
+   * - Once a further-punishment transaction has been carried out against a bhikkhu, he must observe the following prohibitions:
+
+     - 一旦對一名比丘執行了罪處所(覓罪相)羯磨，他必須遵守以下禁令：
+
+   * - .. container:: mx-2
+
+          1\) He may not act as preceptor or teacher for another bhikkhu, nor is he to have a novice attend to him.
+
+     - .. container:: mx-2
+
+          1）他不得擔任其他比丘的戒師或教授師，也不得讓沙彌侍奉他。
+
+   * - .. container:: mx-2
+
+          2\) He may not accept authorization to exhort bhikkhunīs; even if authorized, he is not to exhort them.
+
+     - .. container:: mx-2
+
+          2）他不得接受教誡比丘尼的授權；即使獲得授權，他也不得教誡比丘尼。
+
+   * - .. container:: mx-2
+
+          3\) He should not commit the offense for which he is being punished, a similar offense, or a worse one.
+
+     - .. container:: mx-2
+
+          3）他不應該犯下他正在受罰的罪行、類似的罪行，或更嚴重的罪行。
+
+   * - .. container:: mx-2
+
+          4\) He should not find fault with the transaction or with those who carried it out.
+
+     - .. container:: mx-2
+
+          4）他不應該對羯磨本身或執行羯磨者挑毛病。
+
+   * - .. container:: mx-2
+
+          5\) He should not accuse others of offenses or participate actively in any of the procedures involved in or leading up to a formal accusation—i.e., canceling another bhikkhu’s right to join in the Pāṭimokkha recitation, canceling his invitation at the end of the Rains, setting up an accusation, asking his leave to accuse him, charging him, interrogating him (literally, “making him remember”).
+
+     - .. container:: mx-2
+
+          5）他不應該指控他人犯戒，也不應該積極參與任何牽涉或導致正式指控的程序，例如取消另一位比丘參加誦《波羅提木叉》的權利、取消他在雨安居結束時的自恣、提出指控、請求他許可來指控他、控告他、審問他（字面意思是「讓他記住」）。
+
+   * - .. container:: mx-2
+
+          6\) He should not join bhikkhus in quarreling with other bhikkhus (following the Thai edition of the Canon, which reads, *“na bhikkhū bhikkhūhi sampayojetabbanti”*). (`Cv.IV.12.4`_).
+
+     - .. container:: mx-2
+
+          6）他不應參與比丘們與其他比丘爭吵（遵循泰國版《聖典》的原文，拼讀成：\ *「na bhikkhū bhikkhūhi sampayojetabbanti」*\ ）。（\ `《小品》.四.12.4`_\ ）。
+
+   * - If he abides by all these prohibitions, and the Community is satisfied that he has seen the error of his ways, they are to rescind the transaction and restore him to his former status as a full-fledged bhikkhu.
+
+     - 如果他遵守所有這些禁令，並且僧團對他已經認識到自己行事的錯誤感到滿意，他們就應該撤銷羯磨，並恢復他先前作為正式比丘的身份。
+
 .. _《小品》（四.11.2-12.3）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0116a01
 .. _Mv.IV.16.16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#Mv.IV.16.10-16
 .. _《大品》.四.16.16: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_004/#0230a13
 .. _Cv.IV.12.3: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.12.3
 .. _《小品》.四.12.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0117a03
-
+.. _Cv.I.2: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.2
+.. _Cv.I.4: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#Cv.I.4
+.. _《小品》.一.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0003a10
+.. _《小品》.一.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0005a13
+.. _Cv.IV.12.4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.12.4
+.. _《小品》.四.12.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0117a06
 
 (未完待續)
