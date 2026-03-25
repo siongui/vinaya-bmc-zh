@@ -551,4 +551,68 @@
 .. _Cv.IV.12.4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.12.4
 .. _《小品》.四.12.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0117a06
 
+
+.. _As7:
+
+.. raw:: html
+
+   <span id="As7"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **7**
+     - **七**
+
+   * - .. container:: notification
+
+          *Covering over as with grass.*
+
+     - .. container:: notification
+
+          *像草一樣覆蓋。*
+
+   * - This refers to situations in which both sides of a dispute realize that, in the course of their dispute, they have done much that is unworthy of a contemplative. If they were to deal with one another for their offenses, the result would be greater divisiveness, even to the point of schism. Thus if both sides agree, all the bhikkhus gather in one place. (According to the Commentary, this means that all bhikkhus in the territory must attend. No one should send his consent, and even sick bhikkhus must go.) A motion is made to the entire group that this procedure will be followed. One member of each side then makes a formal motion to the members of his faction that he will make a confession for them. When both sides are ready, the representative of each side addresses the entire group and makes the blanket confession, using the form of a motion and one proclamation *(ñatti-dutiya-kamma)*.
+
+     - 這指的是爭端雙方都意識到，在爭端過程中，他們做了許多不值得沙門應做的事。如果他們就各自的罪行互相處置，結果只會加劇分裂，甚至導致破和合僧。因此，如果雙方都同意，所有比丘就聚集到一處。（根據《義註》，這指該界場內所有比丘都必須參加。任何人都不得送來自己的同意，即使是生病的比丘也必須到場。）向全體比丘提出白文\ :small:`[動議]`\ ，宣布將遵循這一程序。然後，雙方各派一名成員向本派成員正式提出白文\ :small:`[動議]`\ ，表示他將會為他們懺悔罪行。當雙方都準備就緒後，雙方代表向全體比丘宣告，並做出總括的懺悔罪行，採用一白一羯磨（白二羯磨）\ :small:`[一次動議和一次宣告]`\ *（ñatti-dutiya-kamma）*\ 的形式。
+
+   * - This clears all offenses except for—
+     - 這將清除除以下情況外的所有罪行——
+
+   * - .. container:: mx-2
+
+          1\) any grave fault (pārājika or saṅghādisesa offense, says the Commentary) committed by anyone in the group;
+
+     - .. container:: mx-2
+
+          1）團體中任何人所犯的任何重罪（《波羅夷》或《僧殘》罪，《義註》說）；
+
+   * - .. container:: mx-2
+
+          2\) any offenses dealing with the laity;
+
+     - .. container:: mx-2
+
+          2）任何與在家人有關的罪行；
+
+   * - .. container:: mx-2
+
+          3\) any offenses of any member of either side who does not approve of the procedure; and
+
+     - .. container:: mx-2
+
+          3）任何一方的任何成員若不認可該程序，其任何罪行；以及
+
+   * - .. container:: mx-2
+
+          4\) any offenses of any bhikkhu who does not attend the meeting. (This is the reason for the Commentary’s statement that even sick bhikkhus must attend.) (`Cv.IV.13.4`_)
+
+     - .. container:: mx-2
+
+          4）任何未出席集會的比丘的任何罪行。（這就是《義註》中所說的，即使是生病的比丘也必須出席的原因。）（\ `《小品》.四.13.4`_\ ）
+
+.. _Cv.IV.13.4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.13.4
+.. _《小品》.四.13.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0119a08
+
 (未完待續)

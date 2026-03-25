@@ -841,7 +841,7 @@
      - `\　　六 <{filename}Section0027%zh-hant.rst#As6>`__
 
    * - `\　　7 <https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As7>`__
-     - 　　七
+     - `\　　七 <{filename}Section0027%zh-hant.rst#As7>`__
 
    * - `\　Appendices <https://www.dhammatalks.org/vinaya/bmc/Section0028.html>`__
      - 　附錄
