@@ -629,4 +629,21 @@
    \*    \*    \*
 
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - According to Cv.IV.14—sections 16_, 27_, 30_, and 34_\—the principle of “face-to-face” applies to all four types of issues: dispute-issues, accusation-issues, offense-issues, and duty-issues. In addition, dispute-issues must be settled “in accordance with the majority”; accusation-issues, either by a verdict of mindfulness, a verdict of past insanity, or an act of further punishment; and offense-issues, by acting in accordance with what is admitted or by covering them over as with grass.
+
+     - 根據\ `《小品》.四.14`_\ （第\ `16 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0128a01>`__\ 、\ `27 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0134a10>`__\ 、\ `30 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0137a13>`__\ 和\ `34 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0140a04>`__\ 條），「面對面」原則適用於所有四類諍事：言諍、教誡諍（覓諍）、犯罪諍（犯諍）和事諍。此外，言諍必須「依照多數」來解決；教誡諍（覓諍）必須透過正念判決、不癡判決或行罪處所(覓罪相)來解決；犯罪諍（犯諍）必須根據所承認而行，或者像用草掩蓋一樣掩蓋起來。
+
+   * - What follows is a more detailed discussion of how these principles and procedures apply in each of the four cases:
+     - 接下來將更詳細地討論這些原則和程序如何在這四個情況中應用：
+
+.. _16: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.16
+.. _27: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.27
+.. _30: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.30
+.. _34: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.34
+.. _《小品》.四.14: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0119a10
+
 (未完待續)
