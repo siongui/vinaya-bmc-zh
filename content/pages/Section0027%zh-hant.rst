@@ -612,7 +612,21 @@
 
           4）任何未出席集會的比丘的任何罪行。（這就是《義註》中所說的，即使是生病的比丘也必須出席的原因。）（\ `《小品》.四.13.4`_\ ）
 
+   * - Point (3) here is interesting. If any member of either side were to dissent, that would invalidate the whole procedure. This point is thus probably added as a reminder to any bhikkhu who might be vindictive enough to want to deal with his enemies case-by-case, that *his* offenses will have to be dealt with case-by-case as well. This might be enough to discourage him from dissenting.
+
+     - 此處第（3）點很有意思。如果任何一方的任何成員持異議，整個程序都將無效。因此，加入這一點可能是為了提醒那些心懷報復、想要逐案處理敵人的比丘，\ *他的*\ 罪行也將必須逐案處理。這或許足以讓他打消異議之念。
+
+   * - The Commentary explains the name of this procedure by comparing the offenses cleared in this way to excrement that has been so thoroughly covered with grass that it can no longer send an oppressive smell.
+
+     - 《義註》解釋了這一程序的名稱，它將以這種方式清除的罪行比作被草徹底覆蓋的糞便，以至於它不再散發出令人作嘔的氣味。
+
 .. _Cv.IV.13.4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.13.4
 .. _《小品》.四.13.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0119a08
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
