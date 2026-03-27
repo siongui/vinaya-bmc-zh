@@ -646,4 +646,130 @@
 .. _34: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.34
 .. _《小品》.四.14: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0119a10
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Disputes**
+     - **言諍**
+
+   * - Disputes are heated disagreements over what the Buddha did and did not teach, or—in the words of the Cullavagga—“when bhikkhus dispute, saying:
+
+     - 言諍是指對佛陀教導和未教導的內容的激烈分歧，或者——用《小品》的話來說——「當比丘們爭論時，說：
+
+   * - .. container:: mx-2
+
+          ‘It is Dhamma,’ or ‘It is not Dhamma;’
+
+     - .. container:: mx-2
+
+          『這是法』，或『這不是法』；
+
+   * - .. container:: mx-2
+
+          ‘It is Vinaya,’ or ‘It is not Vinaya;’
+
+     - .. container:: mx-2
+
+          『這是律』，或『這不是律』；
+
+   * - .. container:: mx-2
+
+          ‘It was spoken by the Tathāgata,’ or ‘It was not spoken by the Tathāgata;’
+
+     - .. container:: mx-2
+
+          『這是如來所說』或『這不是如來所說』；
+
+   * - .. container:: mx-2
+
+          ‘It was regularly practiced by the Tathāgata,’ or ‘It was not regularly practiced by the Tathāgata;’
+
+     - .. container:: mx-2
+
+          『這是如來之所常行』或『這不是如來之所常行』；
+
+   * - .. container:: mx-2
+
+          ‘It was formulated by the Tathāgata,’ or ‘It was not formulated by the Tathāgata;’
+
+     - .. container:: mx-2
+
+          『這是如來所製』，或『這不是如來所製』。
+
+   * - .. container:: mx-2
+
+          ‘It is an offense,’ or ‘It is not an offense;’
+
+     - .. container:: mx-2
+
+          『這是犯戒』，或『這不是犯戒』；
+
+   * - .. container:: mx-2
+
+          ‘It is a light offense,’ or ‘It is a heavy offense;’
+
+     - .. container:: mx-2
+
+          『這是輕罪』，或『這是重罪』；
+
+   * - .. container:: mx-2
+
+          ‘It is an offense leaving a remainder (§),’ or ‘It is an offense leaving no remainder (§);’
+
+     - .. container:: mx-2
+
+          『這是有餘罪（§）』，或『這是無餘罪（§）』；
+
+   * - .. container:: mx-2
+
+          ‘It is a serious offense,’ or ‘It is not a serious offense.’
+
+     - .. container:: mx-2
+
+          『這是粗罪』，或『這不是粗罪』；
+
+   * - .. container:: mx-2
+
+          “Any strife, quarreling, contention, dispute, differing opinions, opposing opinions, antagonistic words, abusiveness based on this is called a dispute-issue.”—Cv.IV.14.2
+
+     - .. container:: mx-2
+
+          『任何由此引起的紛爭、爭吵、爭論、糾紛、意見分歧、反對意見、敵對言辭、辱罵，稱為言諍。』——\ `《小品》.四.14.2`_
+
+   * - Thus not all disagreements on these matters are classed as issues. Friendly disagreements or differences of interpretation aren’t; heated and abusive disagreements are.
+
+     - 因此，並非所有關於這些問題的分歧都屬於爭議範疇。友善的分歧或解讀上的差異不算，而激烈的、帶有侮辱性的分歧則屬於爭議範疇。
+
+   * - The Cullavagga quotes the Buddha as recommending that a bhikkhu who wants to bring up such questions for discussion should first consider five points:
+
+     - 《小品》引述佛陀的建議，認為想要提出此類問題進行討論的比丘應該先考慮以下五點：
+
+   * - .. container:: mx-2
+
+          1\) whether it is the right time for such a discussion;
+
+     - .. container:: mx-2
+
+          1）是否是進行此類討論的合適時機；
+
+   * - .. container:: mx-2
+
+          2\) whether it concerns something true;
+
+     - .. container:: mx-2
+
+          2）是否與真實有關；
+
+   * - .. container:: mx-2
+
+          3\) whether it is connected with the goal;
+
+     - .. container:: mx-2
+
+          3）是否與目標有關；
+
+.. _《小品》.四.14.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0120a01
+
 (未完待續)
