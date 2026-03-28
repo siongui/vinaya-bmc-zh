@@ -770,6 +770,103 @@
 
           3）是否與目標有關；
 
+   * - .. container:: mx-2
+
+          4\) whether he will be able to get on his side bhikkhus who value the Dhamma and Vinaya; and
+
+     - .. container:: mx-2
+
+          4）他能否爭取那些珍惜法與律的比丘們的支持；而且
+
+   * - .. container:: mx-2
+
+          5\) whether the question will give rise to strife, quarreling, disputes, cracks and splits in the Community.
+
+     - .. container:: mx-2
+
+          5）該問題是否會在僧團內引起衝突、爭吵、糾紛、裂痕和分裂。
+
+   * - If the answer to the first four questions is Yes, and to the fifth question No (i.e., the discussion is not likely to lead to strife), he may then go ahead and start the discussion. Otherwise, he should let the matter rest for the time being (`Cv.IX.4`_).
+
+     - 如果前四個問題的答案是「是」，第五個問題的答案是「否」（即，討論不太可能導致衝突），那麼他就可以開始討論。否則，他應該暫時擱置此事（\ `《小品》.九.4`_\ ）。
+
+   * - The Cullavagga also quotes the Buddha as saying that two sorts of mental states—skillful and unskillful—can turn disputes into issues. The unskillful states are covetous, corrupt, or confused states of mind; the skillful ones, states of mind that are not covetous, not corrupt, and not confused. The Buddha adds, however, that six character traits can lead to issues arising from disputes that will act toward the detriment of many people. They are when a bhikkhu:
+
+     - 《小品》也引述佛陀的話說，兩種心境——善心和不善心——會使爭端演變成問題。不善心是貪婪、腐敗或迷惑的心境；善心是不貪婪、不腐敗、不迷惑的心境。然而，佛陀補充說，有六種性格特徵會導致爭端引發問題，從而損害許多人。這些特徵包括當一名比丘：
+
+   * - .. container:: mx-2
+
+          is easily angered and bears ill will,
+
+     - .. container:: mx-2
+
+          易怒且懷有惡意，
+
+   * - .. container:: mx-2
+
+          is mean and spiteful,
+
+     - .. container:: mx-2
+
+          卑鄙惡毒，
+
+   * - .. container:: mx-2
+
+          is jealous and possessive,
+
+     - .. container:: mx-2
+
+          嫉妒且擁有佔有欲。
+
+   * - .. container:: mx-2
+
+          is scheming and deceitful,
+
+     - .. container:: mx-2
+
+          陰險狡詐，
+
+   * - .. container:: mx-2
+
+          has evil desires and wrong views,
+
+     - .. container:: mx-2
+
+          有惡欲及邪見，
+
+   * - .. container:: mx-2
+
+          is attached to his own views, obstinate, unable to let them go.
+
+     - .. container:: mx-2
+
+          執著己見，頑固，不能放下。
+
+   * - Such a bhikkhu, he says, lives without deference or respect for the Buddha, the Dhamma, the Saṅgha, and does not complete the training. If one should see any of these traits within oneself or others, one should strive for their abandoning. If no such traits are present, one should make sure that they don’t arise in the future (`Cv.IV.14.3`_).
+
+     - 他說，這樣的比丘對佛、法、僧三寶缺乏敬畏之心，無法修行圓滿。如果發現自己或他人身上有這些缺點，就應該努力捨棄它們。如果沒有這些缺點，就應該確保將來不再生起（\ `《小品》.四.14.3`_\ ）。
+
+   * - Although the source of a dispute-issue may be in skillful or unskillful mind states, `Cv.IV.14.8`_ states that the actual conduct of the issue may be skillful, unskillful, or neutral—apparently, depending on the mind states of the bhikkhus as they get involved.
+
+     - 雖然言諍的根源可能在於善或不善的心態，但\ `《小品》.四.14.8`_\ 指出，爭端的實際處理方式可能是善的、不善的、或中立的\ :small:`[無記]`\ ——顯然，這取決於比丘們在介入時的心態。
+
+   * - As noted under `Sg 10`_, when a dispute is still small but threatens to become schismatic, a Community may use the procedures described under `Sg 10`_ & 11_. Once it has become a major issue, however, the procedures to follow are these:
+
+     - 如\ `《僧殘》十`_\ 所述，當爭端尚小但有演變為破和合僧的風險時，僧團可採用\ `《僧殘》十`_\ 和\ `十一`_\ 所述的程序。然而，一旦爭端演變為重大問題，則應遵循以下程序：
+
+   * - *Face-to-face—Step 1:*
+     - *面對面——第一步：*
+
 .. _《小品》.四.14.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0120a01
+.. _Cv.IX.4: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.4
+.. _《小品》.九.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_019/#0330a07
+.. _Cv.IV.14.3: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#Cv.IV.14.3
+.. _《小品》.四.14.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0120a11
+.. _Cv.IV.14.8: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.8
+.. _《小品》.四.14.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0123a09
+.. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
+.. _11: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11
+.. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
+.. _十一: {filename}Section0011%zh-hant.rst#Sg11
 
 (未完待續)
