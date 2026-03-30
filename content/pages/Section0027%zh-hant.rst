@@ -903,6 +903,90 @@
 
      - *第四步：*\ 如果他們無法以此方式解決爭端——正如《聖典》所言，「爭端不斷，單一語句的含義都無法辨別」——爭端雙方應以一白一羯磨\ :small:`[一次動議和一次宣告]`\ ，將此事移交專家小組（§）。（《義註》建議由十人組成專家小組。）\ `《小品》.四.14.19`_\ 規定，專家小組的每位成員必須符合十項資格要求，簡述如下：
 
+   * - .. container:: mx-2
+
+          1\) He is virtuous, abiding scrupulously by the rules of the Vinaya, seeing danger in the slightest faults.
+
+     - .. container:: mx-2
+
+          1）他品德高尚，一絲不苟地遵守律藏的戒條，見到最輕微的罪過裡的危險。
+
+   * - .. container:: mx-2
+
+          2\) He is learned in all teachings dealing with the complete celibate life, understanding them thoroughly.
+
+     - .. container:: mx-2
+
+          2）他精通所有與圓滿梵行生活相關的教義，並對其有透徹的理解。
+
+   * - .. container:: mx-2
+
+          3\) He has memorized both the Bhikkhu and the Bhikkhunī Pāṭimokkhas in detail, understanding them thoroughly.
+
+     - .. container:: mx-2
+
+          3）他詳細地背誦了比丘和比丘尼的《波羅提木叉》，並透徹地理解了它們。
+
+   * - .. container:: mx-2
+
+          4\) He is shrewd in his knowledge of the Vinaya and is not easily led off-track.
+
+     - .. container:: mx-2
+
+          4）他對律藏的了解非常透徹，不容易被誤導。
+
+   * - .. container:: mx-2
+
+          5\) He is competent at placating and reconciling both sides of a dispute.
+
+     - .. container:: mx-2
+
+          5）他能勝任安撫和調解爭端雙方。
+
+   * - .. container:: mx-2
+
+          6\) He is skilled at settling an issue.
+
+     - .. container:: mx-2
+
+          6）他擅長解決諍事。
+
+   * - .. container:: mx-2
+
+          7\) He knows what constitutes an issue.
+
+     - .. container:: mx-2
+
+          7）他知道什麼構成諍事。
+
+   * - .. container:: mx-2
+
+          8\) He knows the origination of an issue (i.e., through skillful or unskillful states of mind).
+
+     - .. container:: mx-2
+
+          8）他知道諍事的根源（即透過善或不善的心境）。
+
+   * - .. container:: mx-2
+
+          9\) He knows the cessation of an issue.
+
+     - .. container:: mx-2
+
+          9）他知道諍事之止息。
+
+   * - .. container:: mx-2
+
+          10\) He knows the way leading to the cessation of an issue. (Notice that these last four qualifications are similar in form to knowledge of the four noble truths.)
+
+     - .. container:: mx-2
+
+          10）他知道導致諍事止息之道。（請注意，最後這四項資格在形式上與對四聖諦的了知相似。）
+
+   * - The Commentary notes that while the panel is discussing the issue, none of the other bhikkhus is to speak. If the panel can settle the issue, it is properly settled and should not be reopened.
+
+     - 《義註》指出，在小組討論此事期間，其他比丘不得發言。如果小組能夠解決這個問題，那麼這個問題就已經得到了妥善解決，不應再重新討論。
+
 .. _《小品》.四.14.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0120a01
 .. _Cv.IX.4: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.4
 .. _《小品》.九.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_019/#0330a07
