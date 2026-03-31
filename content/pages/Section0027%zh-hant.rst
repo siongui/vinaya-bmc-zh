@@ -985,7 +985,51 @@
 
    * - The Commentary notes that while the panel is discussing the issue, none of the other bhikkhus is to speak. If the panel can settle the issue, it is properly settled and should not be reopened.
 
-     - 《義註》指出，在小組討論此事期間，其他比丘不得發言。如果小組能夠解決這個問題，那麼這個問題就已經得到了妥善解決，不應再重新討論。
+     - 《義註》指出，在小組討論此事期間，其他比丘不得發言。如果小組能夠解決這個諍事，那麼這個諍事就已經得到了妥善解決，不應再重新討論。
+
+   * - *Step 5:* If the panel has trouble settling the issue, and there are members of the panel who “hide the Dhamma under the shadow of the letter”—i.e., use the letter of the rules to go against the spirit—they may be removed from the panel through a formal motion. If the panel can then settle the issue, it is properly settled.
+
+     - *第五步：*\ 如果小組難以解決諍事，且小組中有成員「以字面意義掩蓋佛法」——即利用戒條的字面含義違背其精神——則可透過正式動議將其從小組中除名。如果小組隨後能夠解決諍事，則該諍事即得到妥善解決。
+
+   * - If not—and by this time, the Commentary says, at least two or three monasteries have become involved—the face-to-face procedures have been exhausted, and the dispute must go on to a settlement “in accordance with the majority.”
+
+     - 如果得不到解決——《義註》說，到那時至少有兩三個寺院捲入其中——面對面的程序已經用盡，爭端必須「按照多數」解決。
+
+   * - *In accordance with the majority:* A decision by majority vote is valid only when it meets the ten qualifying factors listed above, under `As 5`_. When these factors are all present, the group should first ask one of its members to act as a distributor of voting tickets. He should be free of the four kinds of bias (from desire, aversion, delusion, and fear), and know what does and does not constitute the proper taking of a voting ticket. Before accepting the role, he should reflect on whether the situation meets the ten qualifying factors, and accept only when it does. Once he accepts the role, he is to be authorized by means of a formal motion and one proclamation.
+
+     - *按照多數：*\ 多數決的決定只有在符合上述\ `《滅諍》五`_\ 所列的十項資格條件時才有效。當這些條件全部具備時，群體應先指定一名成員擔任選票分發者。該成員應無四種偏見（貪、嗔、癡和恐懼），並清楚什麼算和不算正確領取選票。在接受該角色之前，他應省思當前情況是否符合上述十項資格條件，只有在符合的情況下才能接受。一旦他接受該角色，則需透過正式一白一羯磨\ :small:`[一次動議和一次宣告]`\ 予以授權。
+
+   * - He is then to have voting tickets made—a different color for each side—and conduct the ballot in one of three ways: secretly, by whispering in the ear, or openly.
+
+     - 然後，他要製作選票——每方使用不同的顏色——並\ `以三種方式之一進行投票`_\ ：秘密投票、耳語投票、或公開投票。
+
+   * - .. container:: mx-2
+
+          In *secret* balloting, he is to tell each bhikkhu, “This color is for this side, and that color for that. Take one, but don’t show it to anyone.” According to the Commentary, this method is to be used when there are many unconscientious bhikkhus in the assembly.
+
+     - .. container:: mx-2
+
+          在\ *秘密*\ 投票時，他要告訴每位比丘：「這種顏色代表這一方，那種顏色代表另一方。拿一張，但不要給任何人看。」根據《義註》，這種方法用於集眾中有很多不負責任的比丘的情況。
+
+   * - .. container:: mx-2
+
+          In *“whispering in the ear”* balloting, he is to whisper to each bhikkhu, “This color is for this side, and that color for that. Take one, but don’t tell anyone.” This method, the Commentary says, is for assemblies in which there are many foolish or trouble-making bhikkhus.
+
+     - .. container:: mx-2
+
+          在\ *「耳語」*\ 投票時，他要悄悄告訴每個比丘：「這個顏色代表這一方，那個顏色代表另一方。拿一個，但不要告訴任何人。」《義註》中說，這種方法適用於有很多愚昧或製造麻煩的比丘們的集眾。
+
+   * - .. container:: mx-2
+
+          In *open* balloting, the bhikkhus are to take the voting tickets openly. This method is for assemblies where the distributor is certain that the conscientious bhikkhus are in the majority.
+
+     - .. container:: mx-2
+
+          在\ *公開*\ 投票時，比丘們要公開領取選票。這種方法適用於分發者確信盡責的比丘佔多數的集眾。
+
+   * - Once the vote is taken, the distributor is to assess the result before announcing it. If he sees that the anti-Dhamma side has won, he is to annul the balloting and take the vote all over again. According to the Commentary, he may take the vote up to three times. If the anti-Dhamma side is still in the majority, he should announce that the time is not right for a vote, adjourn the meeting, and try to find more bhikkhus on the side of the Dhamma to join the next meeting.
+
+     - 投票結束後，分發者在宣布前應先評估結果。如果他發現非法一方獲勝，則應宣布投票無效，重新進行投票。根據《義註》，他最多可以重新進行三次投票。如果非法一方仍然佔多數，他應宣布現在不宜投票，休會，並努力尋找更多正法一方的比丘參加下次會議。
 
 .. _《小品》.四.14.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0120a01
 .. _Cv.IX.4: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.4
@@ -1000,5 +1044,8 @@
 .. _十一: {filename}Section0011%zh-hant.rst#Sg11
 .. _Cv.IV.14.19: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.19-23
 .. _《小品》.四.14.19: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0130a03
+.. _As 5: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As5
+.. _《滅諍》五: #As5
+.. _以三種方式之一進行投票: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0133a14
 
 (未完待續)
