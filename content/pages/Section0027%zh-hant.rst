@@ -1062,4 +1062,35 @@
    \*    \*    \*
 
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Accusations**
+     - **教誡諍/覓諍**
+
+   * - When a bhikkhu has committed an offense, it is his responsibility to undergo the attendant penalty voluntarily so as to make amends for it. If his fellow bhikkhus see, hear, or suspect that he has committed an offense without undergoing the penalty, it is their duty to question and admonish him in private, in accordance with the procedures discussed under `Sg 8`_. The issue may be settled informally in one of three ways: (1) The accused admits to the act, sees it as an offense, and undergoes the penalty. (2) He is truly innocent, professes his innocence, and can convince his admonishers that their suspicions were ungrounded. (3) He committed the action in question but was insane at the time, and can convince his accusers that this was the case.
+
+     - 比丘犯戒後，有責任自願接受相應的懲罰以改正過失。如果他的同儕比丘們看到、聽到或懷疑他犯戒卻未接受懲罰，則他們有義務按照\ `《僧殘》八`_\ 所討論的程序私下詢問並教誡他。此諍事可透過以下三種方式非正式解決：（1）被指控者承認其行為，認為其為罪行，並接受懲罰。（2）他確實無辜，聲明自己無辜，並能說服教誡者他們的懷疑毫無根據。（3）他犯下了所涉行為，但當時精神失常，並能說服他的指控者們事實如此。
+
+   * - If both sides act in good faith and without prejudice, issues of this sort are relatively easy to settle informally in this way. If the issue can’t be settled informally, it should be taken to a meeting of the Community for a formal interrogation and verdict.
+
+     - 如果雙方本著誠意且不帶偏見地行事，這類諍事相對容易透過這種方式非正式地解決。如果諍事無法非正式地解決，則應提交僧團會議進行正式質詢和裁決。
+
+   * - When the Community meets, both the accuser (X) and the accused (Y) must be present. (If the original accuser is a lay person, one of the bhikkhus is to take up the accusation.) If they meet during the regular time for the Pāṭimokkha (see `BMC2, Chapter 15`_), the accusation must first be preceded by a formal period of questions and answers about Vinaya matters touching on the accusation (`Mv.II.15.6-11`_). This is to educate the group as a whole so that they will be ready to judge the case, inasmuch as the ultimate verdict has to be unanimous. This also gives Y the chance to speak up and confess the offense, if he is guilty of it, so as to eliminate the need for any further interrogation. However, `Mv.II.15.8`_ and `Mv.II.15.11`_ indicate that the bhikkhus who are to ask and answer Vinaya questions should first assess the assembly to see if it is safe and advisable to bring up the issue, for there may be bhikkhus present who might react violently if the matters under discussion touch too closely on their own misbehavior or that of their friends.
+
+     - 僧團聚會時，指控者（X）和被指控者（Y）都必須到場。（如果原指控者是居士，則由一位比丘接受該指控。）如果聚會時間安排在例行的《波羅提木叉》時間（參見\ `《佛教比丘戒律 第二冊》第十五章`_\ ），則在正式指控之前，必須先進行一段關於與指控相關的戒律問題的正式問答環節（\ `《大品》.二.15.6-11`_\ ）。這樣做是為了教育全體僧團成員，使他們能夠做好判斷案件的準備，因為最終的判決必須由全體僧團成員一致通過。這也讓 Y 有機會坦白並懺悔罪行（如果他確實犯了戒），從而消除進一步審訊的需要。然而，\ `《大品》.二.15.8`_\ 和\ `《大品》.二.15.11`_\ 指出，要提問和回答戒律問題的比丘們應該先評估集眾，看看提出這個諍事是否安全且明智，因為在場的比丘中，如果討論的事情過於密切地觸及他們自己或朋友的不當行為，他們可能會做出激烈的反應。
+
+.. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
+.. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. _《佛教比丘戒律 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十五章
+.. _Mv.II.15.6-11: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.15.6
+.. _Mv.II.15.8: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.15.8
+.. _Mv.II.15.11: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.15.11
+.. _《大品》.二.15.6-11: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0149a11
+.. _《大品》.二.15.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0150a03
+.. _《大品》.二.15.11: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0150a12
+
 (未完待續)
