@@ -1031,6 +1031,14 @@
 
      - 投票結束後，分發者在宣布前應先評估結果。如果他發現非法一方獲勝，則應宣布投票無效，重新進行投票。根據《義註》，他最多可以重新進行三次投票。如果非法一方仍然佔多數，他應宣布現在不宜投票，休會，並努力尋找更多正法一方的比丘參加下次會議。
 
+   * - These procedures make two interesting assumptions: One side of the dispute is clearly in the right, and the distributor must belong to the right side. If he belongs to the wrong side, the balloting is invalid and the issue may later be reopened without penalty. If neither side is clearly in the right, the compilers of the Cullavagga would probably consider the issue unimportant and not worthy of a vote in the first place. If this is true, then even if a vote is taken, it would not be a valid use of the procedure, and the results would not be binding.
+
+     - 這些程序基於兩個有趣的假設：爭議一方顯然是正確的，且分發者必須屬於正確的一方。如果他屬於錯誤的一方，則投票無效，該諍事可以稍後重新提出而不會受到懲罰。如果雙方都沒有明顯的正確性，《小品》的編纂者可能會認為這個諍事一開始就無關緊要，根本不值得投票表決。如果情況確實如此，那麼即使進行了投票，也並非有效行使該程序，結果也不具有約束力。
+
+   * - In all of these steps for settling dispute-issues, the important point to remember is that in no way is a group of bhikkhus to rewrite the Dhamma or Vinaya in line with their views. Even if they attempt it, following the procedures to the letter, the fact that their decision goes against the Buddha’s teachings invalidates their efforts, and the issue may be reopened at any time without penalty.
+
+     - 在解決言諍的所有這些步驟中，必須牢記一點：任何比丘們都不能按照自己的觀點改寫法或律。即使他們試圖這樣做，嚴格按照程序進行，但由於他們的決定違背了佛陀的教導的這個事實，使他們的努力成為無效，而且該諍事可以隨時重新提出，無需承擔任何懲罰。
+
 .. _《小品》.四.14.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0120a01
 .. _Cv.IX.4: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Cv.IX.4
 .. _《小品》.九.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_019/#0330a07
@@ -1047,5 +1055,11 @@
 .. _As 5: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As5
 .. _《滅諍》五: #As5
 .. _以三種方式之一進行投票: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0133a14
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
