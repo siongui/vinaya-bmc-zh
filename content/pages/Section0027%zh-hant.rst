@@ -1081,6 +1081,14 @@
 
      - 僧團聚會時，指控者（X）和被指控者（Y）都必須到場。（如果原指控者是居士，則由一位比丘接受該指控。）如果聚會時間安排在例行的《波羅提木叉》時間（參見\ `《佛教比丘戒律 第二冊》第十五章`_\ ），則在正式指控之前，必須先進行一段關於與指控相關的戒律問題的正式問答環節（\ `《大品》.二.15.6-11`_\ ）。這樣做是為了教育全體僧團成員，使他們能夠做好判斷案件的準備，因為最終的判決必須由全體僧團成員一致通過。這也讓 Y 有機會坦白並懺悔罪行（如果他確實犯了戒），從而消除進一步審訊的需要。然而，\ `《大品》.二.15.8`_\ 和\ `《大品》.二.15.11`_\ 指出，要提問和回答戒律問題的比丘們應該先評估集眾，看看提出這個諍事是否安全且明智，因為在場的比丘中，如果討論的事情過於密切地觸及他們自己或朋友的不當行為，他們可能會做出激烈的反應。
 
+   * - If, after the conclusion of the Vinaya questions and answers, Y has not confessed an offense, X—while the motion for the Pāṭimokkha is being recited—may interrupt it with the announcement that Y has an offense and that the Pāṭimokkha should not be recited in his presence (see `BMC2, Chapter 15`_, for the formal statement). Then, after assessing Y’s state of mind—to ensure that he won’t act in a threatening way if accused—X asks formal leave to speak to Y about the offense, saying, “May the venerable one give leave. I want to speak with you—\ *Karotu āyasmā okāsaṁ. Ahan-taṁ vattukāmo.*\ ” Y, after assessing his accuser and the assembly, may choose to give leave or not. (See the discussion of this point under `Sg 8`_ and Ay1.) If he chooses not to, the Pāṭimokkha will not be recited that day. The issue is left hanging for the time being and can be brought up at a later date.
+
+     - 若在律藏問答結束後，Y 仍未懺悔罪行，X 可以在誦讀《波羅提木叉》動議\ :small:`[白文]`\ 期間打斷誦讀，宣告 Y 有犯戒，不應在其面前誦讀《波羅提木叉》（正式羯磨文見\ `《佛教比丘戒律 第二冊》第十五章`_\ ）。然後，在評估Y的心境後——以確保他被指控時不會做出威脅性舉動—— X 請求正式許可與 Y 談論此罪行，說道：「請尊者許可。我想與您談談——\ *Karotu āyasmā okāsaṁ. Ahan-taṁ vattukāmo。*\ 」Y 在評估了其指控者和集眾後，可以選擇許可與否。（參見\ `《僧殘》八`_\ 和\ `《不定》一`_\ 對此的討論。）如果他選擇不許可，則當天不會誦讀《波羅提木叉》。此諍事暫時擱置，可在日後再提出。
+
+   * - If X brings up the issue during the Invitation (see `BMC2, Chapter 16`_), a similar process is followed, although this time there is no preliminary session of questions and answers. X can simply ask Y’s leave to speak about the accusation; if Y doesn’t give leave, X may cancel his invitation, and the Community has to look into the matter. If they know that X is incompetent or ignorant, they will override his cancelation and continue with the Invitation. Otherwise, they will question him about his planned accusation. Because Y in this case does *not* have the right to refuse to give leave, he is potentially open to an abusive or ill-willed accusation. Thus the Community has the responsibility of interrogating X thoroughly concerning his general knowledge about accusations and the particulars of his accusation against Y (see `Mv.IV.16.10-16`_; `BMC2, Chapter 16`_). If they find his answers ignorant and inconsistent, they can override the cancelation. If, however, they find his answers knowledgeable and consistent, they should turn to interrogate Y, as described below.
+
+     - 如果 X 在自恣時提出該諍事（請參閱\ `《佛教比丘戒律 第二冊》第十六章`_\ ），則遵循類似的流程，但這次沒有事先的問答環節。X 可以直接要求 Y 許可來談論指控；如果 Y 不許可，X 可以取消其自恣，僧團必須調查此事。如果僧團知道 X 不稱職或無知，則會推翻他的取消，繼續進行自恣。否則，他們會詢問他計劃提出的指控。由於在這種情況下 Y *沒有*\ 權利拒絕許可，他可能會受到濫用或惡意指控。因此，僧團有責任就 X 對指控的一般了解以及他對 Y 的指控的具體細節，對 X 進行徹底的詢問（參見\ `《大品》.四.16.10-16`_\ ；\ `《佛教比丘戒律 第二冊》第十六章`_\ ）。如果僧團發現他的回答無知且前後矛盾，則可以推翻該取消。但是，如果他們發現他的回答既有見地又前後一致，他們就應該按照下文所述轉而審問 Y。
+
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
 .. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
@@ -1092,5 +1100,11 @@
 .. _《大品》.二.15.6-11: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0149a11
 .. _《大品》.二.15.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0150a03
 .. _《大品》.二.15.11: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0150a12
+.. _《不定》一: {filename}Section0012%zh-hant.rst#Ay1
+.. _BMC2, Chapter 16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
+.. _《佛教比丘戒律 第二冊》第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十六章
+.. _Mv.IV.16.10-16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#Mv.IV.16.10-16
+.. _《大品》.四.16.10-16: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_004/#0229a02
 
 (未完待續)
