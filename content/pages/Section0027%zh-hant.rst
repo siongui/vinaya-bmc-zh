@@ -1089,6 +1089,14 @@
 
      - 如果 X 在自恣時提出該諍事（請參閱\ `《佛教比丘戒律 第二冊》第十六章`_\ ），則遵循類似的流程，但這次沒有事先的問答環節。X 可以直接要求 Y 許可來談論指控；如果 Y 不許可，X 可以取消其自恣，僧團必須調查此事。如果僧團知道 X 不稱職或無知，則會推翻他的取消，繼續進行自恣。否則，他們會詢問他計劃提出的指控。由於在這種情況下 Y *沒有*\ 權利拒絕許可，他可能會受到濫用或惡意指控。因此，僧團有責任就 X 對指控的一般了解以及他對 Y 的指控的具體細節，對 X 進行徹底的詢問（參見\ `《大品》.四.16.10-16`_\ ；\ `《佛教比丘戒律 第二冊》第十六章`_\ ）。如果僧團發現他的回答無知且前後矛盾，則可以推翻該取消。但是，如果他們發現他的回答既有見地又前後一致，他們就應該按照下文所述轉而審問 Y。
 
+   * - It is also possible to bring up an accusation in a Community meeting on a day other than that of the Pāṭimokkha or the Invitation, but the Canon does not prescribe any special preliminaries for this case. Given the need to have a well-informed assembly, it would be wise to follow the pattern for the Pāṭimokkha meeting and to begin the proceedings with a period of questions and answers about Vinaya rules touching on the proposed accusation.
+
+     - 在《波羅提木叉》聚會或自恣聚會以外的其他日子，也可以在僧團聚會上提出指控，但《聖典》並未對此情況規定任何特殊的程序。鑑於需要確保僧團成員\ :small:`[集眾]`\ 充分了解情況，明智的做法是遵循《波羅提木叉》聚會的模式，與被提出的指控相關的律藏戒條進行問答環節來開始訴訟程序。
+
+   * - If, in situations where Y has the right to refuse to give leave, he does give leave to X, the next step is for X formally to level his charge against Y, after which Y is interrogated—literally, “made to remember”—whether he can recall having committed the offense in question. Although he can be dealt with only in accordance with what he admits to having done (`Mv.IX.6.1-4`_), `Cv.IV.14.29`_ shows that the other bhikkhus are not to take his first statement at face value.
+
+     - 如果 Y 有權拒絕給予許可的情況下，卻仍然給予 X 許可，那麼下一步就是 X 正式向 Y 提出指控，之後 Y 會被盤問——字面意思是「讓其回憶」——他是否可以記得自己犯過所指控的罪行。雖然只能按照他承認所做者來處理之（\ `《大品》.九.6.1-4`_\ ），但\ `《小品》.四.14.29`_ 表明，其他比丘不應憑表面就相信他的第一次陳述。
+
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
 .. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
@@ -1106,5 +1114,9 @@
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十六章
 .. _Mv.IV.16.10-16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#Mv.IV.16.10-16
 .. _《大品》.四.16.10-16: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_004/#0229a02
+.. _Mv.IX.6.1-4: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.IX.6.3
+.. _Cv.IV.14.29: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.29
+.. _《大品》.九.6.1-4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0420a13
+.. _《小品》.四.14.29: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0136a09
 
 (未完待續)
