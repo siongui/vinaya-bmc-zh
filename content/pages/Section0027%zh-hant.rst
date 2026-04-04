@@ -1097,6 +1097,26 @@
 
      - 如果 Y 有權拒絕給予許可的情況下，卻仍然給予 X 許可，那麼下一步就是 X 正式向 Y 提出指控，之後 Y 會被盤問——字面意思是「讓其回憶」——他是否可以記得自己犯過所指控的罪行。雖然只能按照他承認所做者來處理之（\ `《大品》.九.6.1-4`_\ ），但\ `《小品》.四.14.29`_ 表明，其他比丘不應憑表面就相信他的第一次陳述。
 
+   * - .. container:: mx-2
+
+          “There is the case where a bhikkhu, in the midst of the Community, charges (another) bhikkhu with a heavy offense: ‘Does the venerable one recall having committed a heavy offense of this sort, a pārājika or bordering on a pārājika?’ He (the other) says, ‘No….’ He (the first) presses the one who denies this, ‘Please, venerable sir, very carefully ascertain whether you recall having committed a heavy offense of this sort, a pārājika or bordering on a pārājika.’ The second one says, ‘I don’t recall having committed a heavy offense of this sort… but I do remember having committed a trifling offense of this sort.’ The first one presses the one who denies this, ‘Please, venerable sir, very carefully ascertain whether you recall having committed a heavy offense of this sort, a pārājika or bordering on a pārājika.’ The second one says, ‘Look. Unasked, I have admitted to having committed a trifling offense. How would I, when asked, not admit to having committed a heavy offense…?’ The first one says, ‘\ *You* look, friend. (Before,) when you were unasked, you didn’t admit to having committed (your) trifling offense. So how would you, when unasked, admit to having committed a heavy offense?”
+
+     - .. container:: mx-2
+
+          「有這樣的情況：一位比丘在僧團中指控（另一位）比丘犯了重罪：『具壽，你是否記得犯過這種重罪，《波羅夷》或相似《波羅夷》？』他（另一位比丘）說：『沒有…』他（第一位比丘）追問否認者：『具壽，請仔細確認您是否記得自己曾經犯下這種重罪，《波羅夷》或相似《波羅夷》。』第二位比丘說：『我不記得犯過這種重罪……但我記得犯過這種輕微罪。』第一位比丘追問否認者：『具壽，請仔細確認您是否記得自己曾經犯下這種重罪，《波羅夷》或相似《波羅夷》。』第二位比丘說：『聽著，沒人問起，我就承認犯了輕微罪。當有人問起，我怎麼可能不承認犯了重罪呢…？』第一位比丘說：『\ *你*\ 看，朋友。（之前，）當沒人問你的時候，你連輕微罪都不承認。那麼，當被問到的時候，你又怎麼可能承認自己犯了重罪呢？」
+
+   * - The accuser should press and cross-examine the accused in this way until the Community is satisfied that the accused is telling the truth, and only then may they pass one of three verdicts:
+
+     - 指控者應以此方式對被指控者進行盤問和交叉詢問，直到僧團確信被指控者所言屬實，然後才能作出以下三種判決之一：
+
+   * - .. container:: mx-2
+
+          1\) If he is innocent of the offense and can convince the group of his innocence, he is to request a verdict of *mindfulness*\—expressing the request three times—and the Community is to give it to him by means of a formal motion with three proclamations. (See `Appendix IX`_.)
+
+     - .. container:: mx-2
+
+          1）如果他無罪，並且能夠說服團體相信他的清白，他應當請求正念判決——提出三次請求——僧團應當藉由一白三羯磨（白四羯磨）\ :small:`[一次正式動議和三次宣告]`\ 給予他正念判決。（參見\ `附錄九`_\ 。）
+
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
 .. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
@@ -1118,5 +1138,8 @@
 .. _Cv.IV.14.29: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.29
 .. _《大品》.九.6.1-4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0420a13
 .. _《小品》.四.14.29: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0136a09
+.. _Appendix IX: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
+.. _附錄九: {filename}Section0028%zh-hant.rst#appendixVIII
+.. TODO FIXME:到底是 附錄八 還是 附錄九？
 
 (未完待續)
