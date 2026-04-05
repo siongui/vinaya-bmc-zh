@@ -1117,6 +1117,26 @@
 
           1）如果他無罪，並且能夠說服團體相信他的清白，他應當請求正念判決——提出三次請求——僧團應當藉由一白三羯磨（白四羯磨）\ :small:`[一次正式動議和三次宣告]`\ 給予他正念判決。（參見\ `附錄九`_\ 。）
 
+   * - .. container:: mx-2
+
+          2\) If he committed the offense while insane or possessed, he should request a verdict of *past insanity*\ —again, expressing the request three times—and the Community is to give it to him by means of a formal motion with three proclamations. (See `Appendix VIII`_.)
+
+     - .. container:: mx-2
+
+          2）如果他是在精神錯亂或被附身的情況下犯戒，他應該請求\ *不癡*\ 判決——同樣，提出三次請求——僧團應當藉由一白三羯磨（白四羯磨）\ :small:`[一次正式動議和三次宣告]`\ 給予他不癡判決。（參見\ `附錄八`_\ 。）
+
+   * - .. container:: mx-2
+
+          3\) If he committed the offense while in his right mind but admits to it only after the interrogation has begun, the other bhikkhus—after getting him to disclose the offense—are to impose a *further-punishment* transaction on him by means of a formal motion with three proclamations. (See `BMC2, Appendix IV`_.)
+
+     - .. container:: mx-2
+
+          3）如果他在神智清醒的情況下犯戒，但直到審問開始後才承認，其他比丘在讓他坦白罪行後，應當藉由一白三羯磨（白四羯磨）\ :small:`[一次正式動議和三次宣告]`\ ，對他施加\ *罪處所(覓罪相)*\ 羯磨。（參見\ `《佛教比丘戒律 第二冊》附錄四`_\ 。）
+
+   * - With one set of exceptions, these verdicts must be unanimous. In other words, one of the conditions for a valid verdict is that the entire Community agree to it. This is why, if the accusation is made on a Pāṭimokkha day, it has to be preceded by a session of questions and answers on the Vinaya so that all the assembled bhikkhus will be conversant enough with the relevant rules to make an informed decision.
+
+     - 除一組例外情況外，這些判決必須全體一致通過。換言之，有效判決的條件之一是整個僧團達成共識。這就是為何若在《波羅提木叉》日提出指控，則必須先舉行律藏問答環節，以便所有在場的集眾比丘都能充分了解相關戒條，從而做出明智的決定。
+
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
 .. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
@@ -1141,5 +1161,10 @@
 .. _Appendix IX: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
 .. _附錄九: {filename}Section0028%zh-hant.rst#appendixVIII
 .. TODO FIXME:到底是 附錄八 還是 附錄九？
+.. _Appendix VIII: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII
+.. _附錄八: {filename}Section0028%zh-hant.rst#appendixVIII
+.. _BMC2, Appendix IV: https://www.dhammatalks.org/vinaya/bmc/Section0071.html#BMC2appendixFOUR
+.. _《佛教比丘戒律 第二冊》附錄四: https://www.dhammatalks.org/vinaya/bmc/Section0071.html#BMC2appendixFOUR
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》附錄四
 
 (未完待續)
