@@ -1137,6 +1137,34 @@
 
      - 除一組例外情況外，這些判決必須全體一致通過。換言之，有效判決的條件之一是整個僧團達成共識。這就是為何若在《波羅提木叉》日提出指控，則必須先舉行律藏問答環節，以便所有在場的集眾比丘都能充分了解相關戒條，從而做出明智的決定。
 
+   * - The set of exceptions applies to accusations made on an Invitation day. If on that day the accused ultimately admits to having committed a minor offense, but the members of the Community are divided as to what kind of offense it is—and their opinions range from a saṅghādisesa on down—then the knowledgeable members of the Community may take the accused to one side, away from the group; arrange for his confession of what they know to be the offense; and then return to the group, announcing that the Invitation may resume. The reason for this exception is apparently to save time and to make up for the fact that there is no preceding session of questions and answers on the Vinaya. For more details, see `BMC2, Chapter 16`_.
+
+     - 該組例外情況適用於在自恣日提出的指控。如果在該日被指控者最終承認犯了輕微的罪行，但僧團成員對罪行的種類存在分歧——他們的意見從《僧殘》到以下不等——那麼僧團中知識淵博的成員可以將被指控者帶到一邊，遠離群體；安排他懺悔他們所知的罪行；然後返回群體，宣布自恣可以繼續進行。這項例外情況的原因顯然是為了節省時間，並彌補先前沒有進行律藏問答環節的事實。更多詳情，請參閱\ `《佛教比丘戒律 第二冊》第十六章`_\ 。
+
+   * - As we noted above, another condition for a valid verdict is that it be in line with the truth. If it so happens that a guilty bhikkhu is given a verdict of mindfulness, a bhikkhu who committed the offense in question while he was in his right mind is given a verdict of past insanity, or an innocent bhikkhu receives a further-punishment transaction, the verdict is invalid even if unanimous. When new evidence surfaces, the case may be reopened and a new verdict given.
+
+     - 如前所述，有效判決的另一個條件是符合事實。如果有罪的比丘被給予正念判決，一位在神智清醒時犯下所涉罪行的比丘被給予不癡判決，或者一位無辜的比丘受到罪處所(覓罪相)羯磨，即使該判決是一致通過的，也是無效。當出現新的證據時，案件可以重新審理並做出新的判決。
+
+   * - There are, however, two situations in which none of these three verdicts applies, and the accusation-issue—at least for the time being—remains unsettled:
+
+     - 然而，有兩種情況，這三種判決均不適用，教誡諍/覓諍——至少暫時而言——仍未解決：
+
+   * - .. container:: mx-2
+
+          1\) If a bhikkhu, in the course of an interrogation, admits to an action that is an offense but either refuses to see it as an offense or refuses to make amends for it, he is subject to an act of suspension. Although this too may later be rescinded on the basis of good behavior—when he admits that his action was an offense and makes amends for it—it is a much stronger penalty than a further-punishment transaction.
+
+     - .. container:: mx-2
+
+          1）若比丘在審訊過程中承認自己做了犯戒的行為，卻拒絕認為其為犯戒或拒絕彌補之，則應處以舉罪處分。雖然之後若其行為良好——當其承認他的行為是犯戒並彌補之——舉罪處分亦可解除，但其處罰力度遠勝於罪處所(覓罪相)羯磨。
+
+   * - .. container:: mx-2
+
+          2\) If a bhikkhu denies having committed the act in question, and the bhikkhus are not convinced of his innocence, there are various ways of pressuring him to tell the truth: As noted above, the Cullavagga suggests intensive interrogation; the Commentary, long bouts of group chanting. If neither works, and the Community still has doubts about his innocence, the issue is to be abandoned for the time being as unsettled. The accused is neither to be punished nor declared innocent. As long as the issue remains unsettled, though, there will be no peace of mind either for the accused or for the Community as a whole.
+
+     - .. container:: mx-2
+
+          2）若一位比丘否認犯下所涉行為，而其他比丘們仍對其清白存疑，則有多種方法可迫使其說出真相：如前所述，《小品》建議密集審問；《義註》則建議長時間的集體念誦。若上述方法均無效，且僧團仍對其清白存疑，則應暫時擱置此事，視其為未解決。被指控者既不應受到懲罰，也不應被宣告無罪。然而，只要此事懸而未決，被指控者和整個僧團都不會有內心的平靜。
+
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
 .. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
@@ -1166,5 +1194,11 @@
 .. _BMC2, Appendix IV: https://www.dhammatalks.org/vinaya/bmc/Section0071.html#BMC2appendixFOUR
 .. _《佛教比丘戒律 第二冊》附錄四: https://www.dhammatalks.org/vinaya/bmc/Section0071.html#BMC2appendixFOUR
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》附錄四
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
