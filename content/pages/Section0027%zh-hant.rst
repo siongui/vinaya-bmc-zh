@@ -1201,4 +1201,37 @@
    \*    \*    \*
 
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Offenses**
+     - **犯罪諍/犯諍**
+
+   * - All offense-issues are settled by means of the principle of *face-to-face*. Most are also settled by means of the procedure of *in accordance with what is admitted*. Rare cases may be settled by *covering over as with grass*.
+
+     - 所有犯罪諍/犯諍均藉由\ *面對面*\ 的原則解決。大多數案件也藉由\ *按照所承認*\ 的程序解決。極少數案件可透過\ *像草一樣覆蓋*\ 解決。
+
+   * - *In accordance with what is admitted:* When a bhikkhu has committed an offense requiring confession and then confesses it truthfully in the presence of another bhikkhu, a group of bhikkhus, or a complete Community, that is called settling in accordance with what is admitted. It also counts as having been settled face-to-face with the Dhamma and Vinaya and the individuals—i.e., the bhikkhu making the confession and the bhikkhu(s) witnessing it.
+
+     - *按照所承認：*\ 當一位比丘犯了需要懺悔的罪行，並在另一位比丘、一群比丘或整個僧團面前如實懺悔之時，這被稱為按照所承認解決。這也算是和法與律以及個人（即作懺悔的比丘和見證懺悔的比丘）面對面解決。
+
+   * - If a bhikkhu has committed a saṅghādisesa offense, it is settled only after he has confessed it and undergone penance—and, if necessary, probation—both of which require further confessions. Only then, when a Community of at least 20 bhikkhus has met to lift the penalty from him, is the offense settled. Here, *face-to-face* would include not only the Dhamma, Vinaya, and individuals, but also the Community, when it imposes the penance and/or probation, and again when it lifts the penalty.
+
+     - 如果比丘犯了《僧殘》罪，只有在他懺悔之並接受摩那埵（必要時還需接受別住）之後，才能被解決——而這兩者都需要進一步的懺悔。只有當至少20位比丘組成的僧團聚在一起，解除對他的懲罰時，該罪行才被解決。這裡的「\ *面對面*\ 」，不僅包括法、律和個人，還包括在施加摩那埵和/或別住時，以及在解除懲罰時的僧團。
+
+   * - If a bhikkhu has committed a pārājika offense, it is settled only when he admits that he is no longer a bhikkhu and returns to lay life. Here, *face-to-face* would have the same factors as under confessable offenses, above.
+
+     - 如果比丘犯了《波羅夷》罪，只有當他承認自己不再是比丘並回歸世俗生活時，此事才被解決。此處，\ *面對面*\ 與上文可懺悔的罪行有相同的因素。
+
+   * - *Covering over as with grass:* This procedure has already been discussed in detail above. *Face-to-face*, here, means face-to-face with the Dhamma, the Vinaya, the individuals, and the Community. *Face-to-face with the individuals* means that those who make the blanket confession and those who witness it are present. *Face-to-face with the Community* means that enough bhikkhus for a quorum (four) have arrived, and the assembly is united: all the qualified bhikkhus in the territory have joined the meeting, and none of the bhikkhus, having met, makes protest.
+
+     - *像草一樣覆蓋：*\ 此程序已在前面詳細討論過。此處的「\ *面對面*\ 」指的是與法、律、個人、僧團面對面。\ *與個人面對面*\ 指的是做出總括懺悔者和見證懺悔者都在場。\ *與僧團面對面*\ 指的是達到足夠法定人數（四位）的比丘已經到場，並且集眾是團結的：界場內所有符合資格的比丘都參加了會議，並且聚會的比丘都沒有提出異議。
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
