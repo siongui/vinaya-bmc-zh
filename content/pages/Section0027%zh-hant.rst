@@ -1234,4 +1234,36 @@
    \*    \*    \*
 
 
-(未完待續)
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **Duty-issues**
+     - **事諍**
+
+   * - Duty-issues are settled *face-to-face*\—
+     - 事諍\ *面對面*\ 解決—
+
+   * - .. container:: mx-2
+
+          1\) if they are properly carried out in line with the procedures set out in the Dhamma and Vinaya,
+
+     - .. container:: mx-2
+
+          1）如果其依照法與律所規定的程序適當地執行，
+
+   * - .. container:: mx-2
+
+          2\) if the relevant individuals are present (e.g., the ordinand in an ordination, the bhikkhu-to-be-banished in a banishment transaction, etc.), and
+
+     - .. container:: mx-2
+
+          2）如果相關個人在場（例如，受具足戒裡的受戒者、驅出羯磨裡要被驅出的比丘等），而且
+
+   * - .. container:: mx-2
+
+          3\) if the Community that has met to carry them out forms a quorum and a complete assembly, with none of those present—except the bhikkhu against whom a transaction is to be carried out, if such is the case—makes protest.
+
+     - .. container:: mx-2
+
+          3）如果為了執行這些事項而聚集在一起的僧團達到了法定人數，並且是完整的集眾，那麼除了要對其執行羯磨的比丘（如果情況如此的話）之外，在場的任何人都沒有提出異議。
