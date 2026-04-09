@@ -1544,8 +1544,7 @@
      - 對於是否在非時或正確的時間進食的感知在這裡並不是一個減輕懲罰的因素（參見\ `《波逸提》四`_\ ）。
 
 .. _Appendix I: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
-.. _附錄一: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
-.. TODO FIXME: replace link to 附錄一
+.. _附錄一: {filename}Section0028%zh-hant.rst#appendixI
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

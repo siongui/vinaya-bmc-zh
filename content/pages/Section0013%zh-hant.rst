@@ -293,8 +293,7 @@
 
 .. _Appendix I: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
 .. _民用曙暮光: https://zh.wikipedia.org/wiki/%E6%9B%99%E6%9A%AE%E5%85%89
-.. _附錄一: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
-.. TODO FIXME: replace link to 附錄一
+.. _附錄一: {filename}Section0028%zh-hant.rst#appendixI
 .. _Mv.V.13.13: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.V.13.13
 .. _《大品》.五.13.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0263a11
 .. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2

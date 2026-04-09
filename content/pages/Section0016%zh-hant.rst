@@ -969,8 +969,7 @@
 .. _Appendix I: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
 .. _黎明（明相）: https://zh.wikisource.org/wiki/%E4%BD%9B%E5%AD%B8%E5%A4%A7%E8%BE%AD%E5%85%B8/%E6%98%8E%E7%9B%B8
 .. _民用曙暮光: https://zh.wikipedia.org/wiki/%E6%9B%99%E6%9A%AE%E5%85%89
-.. _附錄一: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI
-.. TODO FIXME: replace link to 附錄一
+.. _附錄一: {filename}Section0028%zh-hant.rst#appendixI
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

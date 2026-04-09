@@ -844,10 +844,10 @@
      - `\　　七 <{filename}Section0027%zh-hant.rst#As7>`__
 
    * - `\　Appendices <https://www.dhammatalks.org/vinaya/bmc/Section0028.html>`__
-     - 　附錄
+     - `\　附錄 <{filename}Section0028%zh-hant.rst>`__
 
    * - `\　　I. Controversial points: Dawn and dawnrise <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixI>`__
-     - 　　一、爭議點：明相及明相出
+     - `\　　一、爭議點：明相及明相出 <{filename}Section0028%zh-hant.rst#appendixI>`__
 
        ..
           Google Search: 拂曉 明相
