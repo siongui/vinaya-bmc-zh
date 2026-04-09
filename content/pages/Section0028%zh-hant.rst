@@ -35,6 +35,29 @@
 
      - **一、爭議點：明相及明相出**
 
+   * - In a number of rules where the boundary between two days is the line between an offense and a non-offense, the Vibhaṅga in some cases defines that boundary as dawn *(aruṇa)* and in others as dawnrise *(aruṇuggamana)*. Dawnrise is the boundary for `NP 1`_, 3_, 21_, 24_, & 29_; and for `Pc 37`_ & 85_. In the case of the NP rules, an item kept until dawnrise after the allowed number of days has to be forfeited. In the case of the Pc rules, dawnrise marks the end of the “wrong time” and the beginning of the “right time” for the activities discussed in those rules. The boundary for `Pc 5`_ & 49_, however, is dawn. If, under the situations covered by these rules, one gets up or leaves before dawn *(purāruṇā)*, the night ending in that dawn doesn’t count toward the offense. The Vibhaṅga to `NP 2`_ refers to both dawn and dawnrise in analyzing the offense under that rule: As with the other NP rules, a robe kept until dawnrise is to be forfeited. If, however, the robe is abandoned, etc., *anto aruṇe*\ —which can either mean “before dawn” (just as *anto pātarāse* means “before the morning meal”) or “during dawn” (just as *anto māse* under `NP 3`_ means “within the month”)—there is no offense.
+
+     - 在一些戒條中，兩日之間的界限是區分犯戒與不犯戒的分界線，《經分別》有時將該界限定義為\ `明相（黎明）`_\ *（aruṇa）*\ ，有時定義為明相出（黎明升起）\ *（aruṇuggamana）*\ 。明相出（黎明升起）是\ `《捨墮》一`_\ 、\ `三`_\ 、\ `二一`_\ 、\ `二四`_\ 和\ `二九`_\ ；以及\ `《波逸提》三七`_\ 和\ `八五`_\ 的界限。在《捨墮》戒條中，物品若在允許的天數之後仍保留至明相出（黎明升起），則必須捨出。在《波逸提》戒條中，明相出（黎明升起）標誌著這些戒條中所討論活動的「非時（錯誤時間）」的結束和「時（正確時間）」的開始。然而，\ `《波逸提》五`_\ 和\ `四九`_ 的界限是\ `明相（黎明）`_\ 。如果在這些戒條涵蓋的情況下，在明相（黎明）之前\ *（purāruṇā）*\ 起床或離開，則在該明相（黎明）結束的夜晚不計入犯戒。\ `《捨墮》二`_\ 的《經分別》在分析該戒條下的違犯時，同時提及了明相（黎明）和明相出（黎明升起）：與其他《捨墮》戒條一樣，保留至明相出（黎明升起）的袈裟應被捨出。然而，如果袈裟被放棄等等，在 *anto aruṇe* （既可指「明相（黎明）之前」，如同 *anto pātarāse* 指「早上餐食之前」，也可指「明相（黎明）時分」，如同\ `《捨墮》三`_\ 中的 *anto māse* 指「當月之內」），則不構成犯戒。
+
+.. _3: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
+.. _21: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
+.. _24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
+.. _29: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
+.. _Pc 37: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc37
+.. _85: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc85
+.. _Pc 5: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc5
+.. _49: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc49
+.. _明相（黎明）: https://zh.wikisource.org/wiki/%E4%BD%9B%E5%AD%B8%E5%A4%A7%E8%BE%AD%E5%85%B8/%E6%98%8E%E7%9B%B8
+.. _三: {filename}Section0013%zh-hant.rst#NP3
+.. _二一: {filename}Section0015%zh-hant.rst#NP21
+.. _二四: {filename}Section0015%zh-hant.rst#NP24
+.. _二九: {filename}Section0015%zh-hant.rst#NP29
+.. _《波逸提》三七: {filename}Section0019%zh-hant.rst#Pc37
+.. _八五: {filename}Section0024%zh-hant.rst#Pc85
+.. _《波逸提》五: {filename}Section0016%zh-hant.rst#Pc5
+.. _四九: {filename}Section0020%zh-hant.rst#Pc49
+
+
 (未完待續)
 
 
