@@ -73,6 +73,18 @@
 
      - 緬甸、斯里蘭卡和泰國的一些僧團遵循這種分析，彼此之間的差異僅在於對四個階段中哪一個才算明相出（黎明升起）。有些採取最初泛紅，此時除了地平線上微弱的光線外，天空仍然漆黑一片。然而，正如\ `《捨墮》一`_\ 下的討論中所述，名為《Vinayālaṅkāra》的子註釋採取最後泛白，而且遵循其定義也有充分的《聖典》依據。
 
+   * - `Pc 37`_ & 38_, taken together, require that a bhikkhu not accept alms before dawn. If he did go for alms before dawn, he would not be able to eat any of the food he accepted at that time, as `Pc 37`_ forbids him from eating before dawnrise, and `Pc 38`_ forbids him from eating food received on a previous day. A passage in `MN 66`_ states specifically that once the rules were established, one of their benefits was that they prevented bhikkhus from going for alms in the dark. This suggests that in the time of the Canon, the first faint light on the horizon did not count as dawnrise. The passage runs as follows:
+
+     - `《波逸提》三七`_\ 和\ `三八`_\ 合在一起，規定比丘不得在明相（黎明）前托缽。如果他真的在明相（黎明）前托缽，就不能食用當時所接受的任何食物，因為\ `《波逸提》三七`_\ 禁止他在明相出（黎明升起）前進食，而\ `《波逸提》三八`_\ 禁止他食用前一天所接受的食物。\ `《中部》66經`_\ 中有一段經文明確指出，這些戒條確立之後，其益處之一便是防止比丘在黑暗中托缽。這表明，在《聖典》所在的時期，地平線上的第一道微光並不被算是明相出（黎明升起）。該段經文如下：
+
+.. _38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
+.. _Pc 38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
+.. _MN 66: https://www.dhammatalks.org/suttas/MN/MN66.html
+.. _三八: {filename}Section0019%zh-hant.rst#Pc38
+.. _《波逸提》三八: {filename}Section0019%zh-hant.rst#Pc38
+.. _《中部》66經: https://sutra.mobi/chilin/zhong/content/066.html
+
+
 (未完待續)
 
 
