@@ -129,12 +129,25 @@
 
      - 這清楚地表明，一旦這些戒條生效，比丘們便免於在黑暗中托缽乞食的危險。這也進一步表明，明相出（黎明升起）不可能早於《Vinayālaṅkāra》所認定的時間。
 
+   * - As noted under `NP 1`_, the Vinayālaṅkāra’s definition of dawnrise corresponds in modern terminology to the onset of civil twilight. Although the Khuddakasikkhā states that this period of whitening occurs 24 minutes prior to sunrise, this figure would apply only to locations that, like Sri Lanka, lie near the equator. At other latitudes, the length of time from the onset of civil twilight to sunrise would vary widely according to season, with the variations most extreme at higher latitudes.
+
+     - 如\ `《捨墮》一`_\ 所述，《Vinayālaṅkāra》中對明相出（黎明升起）的定義，用現代術語來說，對應於\ `民用曙暮光`_\ 的開始。雖然《Khuddakasikkhā》指出，這段泛白出現的時間發生在日出前24分鐘，但這個數字只適用於像斯里蘭卡這樣位於赤道附近的地點。在其他緯度，從\ `民用曙暮光`_\ 開始到日出的時間長短會因季節而異，緯度越高，這種差異越顯著。
+
+   * - This leaves the question of how dawnrise is related to dawn. As mentioned above, *anto aruṇe* under `NP 2`_ can mean either “during dawn” or “before dawn.” The Vinayālaṅkāra defines this term as “before dawn-rising” *(aruṇodayato puretaram’eva);* another sub-commentary, the Namakkāra, in turn defines *aruṇodayato* as equivalent to *aruṇuggamana*, or dawnrise.
+
+     - 這就引出了一個問題：明相出（黎明升起）與明相（黎明）之間究竟有何關聯？如上所述，\ `《捨墮》二`_\ 下的 *anto aruṇe* 既可以指「明相（黎明）時分」，也可以指「明相（黎明）之前」。《Vinayālaṅkāra》將此術語定義為「明相（黎明）升起之前」\ *（aruṇodayato puretaram’eva）；*\ 而另一部子註釋《Namakkāra》又定義 *aruṇodayato* 等同於 *aruṇuggamana*\ ，即明相出（黎明升起）。
+
+   * - Some scholars, opting to translate anto aruṇe as “within dawn” or “during dawn,” have cited these passages to assert that dawn is a period of time preceding and ending with dawnrise.
+
+     - 一些學者選擇將 *anto aruṇe* 翻譯為「在明相（黎明）之內」或「在明相（黎明）期間」，並引用這些段落來斷言明相（黎明）是明相出（黎明升起）之前到結束的一個時段。
+
 .. _38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
 .. _Pc 38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
 .. _MN 66: https://www.dhammatalks.org/suttas/MN/MN66.html
 .. _三八: {filename}Section0019%zh-hant.rst#Pc38
 .. _《波逸提》三八: {filename}Section0019%zh-hant.rst#Pc38
 .. _《中部》66經: https://sutra.mobi/chilin/zhong/content/066.html
+.. _民用曙暮光: https://zh.wikipedia.org/wiki/%E6%9B%99%E6%9A%AE%E5%85%89
 
 
 (未完待續)
