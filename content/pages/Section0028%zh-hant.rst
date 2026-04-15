@@ -47,6 +47,7 @@
 .. _85: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc85
 .. _Pc 5: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc5
 .. _49: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc49
+.. _Pc 49: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc49
 .. _明相（黎明）: https://zh.wikisource.org/wiki/%E4%BD%9B%E5%AD%B8%E5%A4%A7%E8%BE%AD%E5%85%B8/%E6%98%8E%E7%9B%B8
 .. _三: {filename}Section0013%zh-hant.rst#NP3
 .. _二一: {filename}Section0015%zh-hant.rst#NP21
@@ -56,6 +57,7 @@
 .. _八五: {filename}Section0024%zh-hant.rst#Pc85
 .. _《波逸提》五: {filename}Section0016%zh-hant.rst#Pc5
 .. _四九: {filename}Section0020%zh-hant.rst#Pc49
+.. _《波逸提》四九: {filename}Section0020%zh-hant.rst#Pc49
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -141,6 +143,17 @@
 
      - 一些學者選擇將 *anto aruṇe* 翻譯為「在明相（黎明）之內」或「在明相（黎明）期間」，並引用這些段落來斷言明相（黎明）是明相出（黎明升起）之前到結束的一個時段。
 
+   * - This assertion, however, is dubious on several grounds. One obvious objection is that if the Vinayālaṅkāra had meant to define dawn as a distinct period of time, it would have mentioned not only the point at which dawn ends—at dawnrise—but also the point at which it begins. But it doesn’t. In fact, unless we assume that dawnrise is actually the beginning of dawn and not its end, none of the texts define a beginning for dawn. This leads to a severe practical problem, in that it would leave `Pc 5`_ and `Pc 49`_ with no clear line to define how to avoid an offense under those rules, where the beginning of dawn is the end of the non-offense period. If the compilers of the Vibhaṅga to those rules had meant to draw the line dividing an offense from a non-offense following a standard different from that in all the other rules in the Pāṭimokkha where the line between the end of night and the beginning of day is also relevant, they would have offered clear definitions to distinguish one standard from the other. But they don’t. This indicates that the assumption of a separate “dawn” preceding “dawnrise” must be mistaken.
+
+     - 然而，這種說法在幾個方面都值得懷疑。一個顯而易見的反對意見是，如果《Vinayālaṅkāra》意在將明相（黎明）定義為一個獨立的時間段，那麼它不僅會提及明相（黎明）結束的時刻——即明相出（黎明升起）——還會提及明相（黎明）開始的時刻。但事實並非如此。實際上，除非我們假定明相出（黎明升起）實際上是明相（黎明）的開始而非結束，否則沒有任何文獻定義明相（黎明）的開始。這導致了一個嚴重的實際問題，即\ `《波逸提》五`_\ 和\ `《波逸提》四九`_\ 將無法明確界定如何在這些戒條下避免犯戒，因為在這些戒條中，明相（黎明）的開始即為不犯期間的結束。如果那些戒條的《經分別》編纂者意圖以不同於《波羅提木叉》其他戒條的標準來劃分犯戒與不犯，而《波羅提木叉》中其他戒條夜晚結束和白晝開始之間的分界線也具有相關性，那麼他們理應提供清晰的定義來區分不同的標準。但他們並沒有這麼做。這表明，認為有一個單獨的「明相（黎明）」先於「明相出（黎明升起）」的假設必然是錯誤的。
+
+   * - A reading more consistent with the Canon’s casual treatment of the issue of dawn would be to translate *anto aruṇe* as “before dawn,” and to interpret *dawnrise (aruṇuggamana)* as the beginning of dawn, and not as its end. In other words, in all the rules where the line dividing the end of night from the beginning of day is the line between an offense and a non-offense, that line is marked by the onset of civil twilight, regardless of whether the Vibhaṅga refers to the period immediately preceding it as *anto aruṇe* or *purāruṇā*.
+
+     - 更符合《聖典》對明相（黎明）問題的隨意處理方式的解讀，是將 *anto aruṇe* 譯為「明相（黎明）之前」，並將\ *明相出（黎明升起）（aruṇuggamana）*\ 解釋為明相（黎明）的開始，而非結束。換言之，在所有以晝夜交替為界線，作為犯戒與不犯界線的戒條中，這條界線都以\ `民用曙暮光`_\ 的開始為標誌，無論《經分別》將緊接著其之前的期間稱為 *anto aruṇe* 還是 *purāruṇā*\ 。
+
+   * - This reading is also consistent with all the other uses of *dawn* and *dawnrise* in the Commentary and Sub-commentary.
+     - 這種解讀也與《義註》和《複註》中所有其他關於\ *明相（黎明）*\ 和\ *明相出（黎明升起）*\ 的用法一致。
+
 .. _38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
 .. _Pc 38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
 .. _MN 66: https://www.dhammatalks.org/suttas/MN/MN66.html
@@ -148,6 +161,11 @@
 .. _《波逸提》三八: {filename}Section0019%zh-hant.rst#Pc38
 .. _《中部》66經: https://sutra.mobi/chilin/zhong/content/066.html
 .. _民用曙暮光: https://zh.wikipedia.org/wiki/%E6%9B%99%E6%9A%AE%E5%85%89
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
 
 
 (未完待續)
