@@ -727,8 +727,7 @@
 .. _Cv.VI.2.4: https://www.dhammatalks.org/vinaya/bmc/Section0045.html#Cv.VI.2.4
 .. _《小品》.六.2.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0203a11
 .. _Appendix II: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixII
-.. _附錄二: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixII
-.. TODO FIXME: replace link to 附錄二
+.. _附錄二: {filename}Section0028%zh-hant.rst#appendixII
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

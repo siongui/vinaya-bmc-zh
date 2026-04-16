@@ -168,6 +168,38 @@
    \*    \*    \*
 
 
+.. _appendixII:
+
+.. raw:: html
+
+   <span id="appendixII"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **II. Controversial points: Sugata measures**
+
+     - **二、爭議點：善逝計量單位**
+
+   * - The Commentary to `Sg 6`_ states that the Buddha’s cubit—the distance from his bent elbow to the tips of his fingers—was three times that of a normal man. This puts all the sugata measures—based on the Buddha’s cubit, handspan, and breadth of his fingers—at three times normal length and makes the Buddha freakishly tall.
+
+     - `《僧殘》六`_\ 的《義註》指出，佛陀的肘長（即從彎曲的手肘到指尖的距離）是常人的三倍。這使得所有以佛陀肘長、手掌寬度和手指寬度為基礎的善逝計量單位都達到了常人的三倍，也使得佛陀顯得異常高大。
+
+   * - How the Commentary arrived at this figure is hard to say, for the Vinaya-mukha cites several passages from the Canon showing that the Buddha, though tall, was not abnormally so. The most telling passage is the one from `DN 2`_, in which King Ajātasattu visits the Buddha while the latter is sitting in an assembly of bhikkhus, and the king is unable to identify which member of the assembly the Buddha is. This, of course, is meant to indicate the king’s spiritual blindness, but if the Buddha had been remarkably tall it would have been part of his general reputation, and the king would not have had to ask.
+
+     - 《義註》是如何得出這個數字的，很難說，因為《戒律入口》從《聖典》中引用了多段經文，表明佛陀雖然身材高大，但並非異常高大。最能說明的經文是\ `《長部》2經`_\ 中的一則記載：阿闍世王拜訪佛陀，當時佛陀在一群比丘集眾裡坐著，國王卻無法辨認出佛陀是集眾中的哪一位成員。這當然意在顯示國王的靈性盲目，但如果佛陀真的身材高大，那這早已是他整體聲譽的一部分，國王也就無需詢問了。
+
+   * - The Vinaya-mukha then goes on to suggest a variety of ways of calculating the Buddha’s measurements, the most useful being to assume the Buddha’s cubit to be 50 cm. This, at least roughly, fits a number of passages from the Canon, as follows:
+
+     - 《戒律入口》接著建議了多種計算佛陀的尺寸的方法，其中最實用的方法是假設佛陀的肘長為 50 公分。這至少大致符合《聖典》中的一些段落，如下所示：
+
+.. _Sg 6: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg6
+.. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
+.. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
+.. _《長部》2經: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N06n0004_002/
+
+
 (未完待續)
 
 

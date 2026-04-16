@@ -858,7 +858,7 @@
           所謂明相出，即是能夠見到光明相時，在屋外伸手能夠辨別手紋時，便叫見明相，解釋成拂曉時分，比較切近。
 
    * - `\　　II. Controversial points: Sugata measures <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixII>`__
-     - 　　二、爭議點：善逝計量單位
+     - `\　　二、爭議點：善逝計量單位 <{filename}Section0028%zh-hant.rst#appendixII>`__
 
    * - `\　　III. Controversial points: Meals <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII>`__
      - 　　三、爭議點：進餐
