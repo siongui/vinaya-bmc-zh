@@ -194,11 +194,28 @@
 
      - 《戒律入口》接著建議了多種計算佛陀的尺寸的方法，其中最實用的方法是假設佛陀的肘長為 50 公分。這至少大致符合《聖典》中的一些段落，如下所示：
 
+   * - According to DN 30, the spread of the Buddha’s arms, outstretched, was equal to his height. Because a person’s cubit is one-fourth the spread of his outstretched arms, this would put the Buddha’s height at 2 meters, or approximately 6 feet 7 inches. The origin story to Pc 92 states that his half-brother, Nanda, was four fingerbreadths shorter than he, and that when bhikkhus saw him coming from afar, they would mistake him for the Buddha, partly on the basis of his tall height. One fingerbreadth is said to be 1/24 cubit, or a little more than 2 cm. by this reckoning, which would put Nanda at 1.92 meters, or approximately 6 feet 4 inches tall.
+
+     - 根據\ `《長部》30經`_\ ，佛陀雙臂伸展的寬度等於他的身高。由於一肘的長度是雙臂伸展寬度的四分之一，由此推算，佛陀的身高為2米，或約6英尺7英寸。而\ `《波逸提》九二`_\ 的\ `起源故事 <https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_005/#0233a14>`__\ 則講述了佛陀的同父異母兄弟難陀比他矮四指寬，當比丘們遠遠地看到他走過來時，會誤以為他是佛陀，部分原因在於難陀的身高很高。據說一指寬是 1/24 肘長，或略多於 2 公分，按此計算，難陀的身高為 1.92 公尺，或約6英尺4英寸高。
+
+   * - These figures would seem to fit the information in the Canon fairly well, in that they allow for both Nanda and the Buddha to be tall but not outlandishly so.
+
+     - 這些數字似乎與《聖典》中的資訊相當吻合，因為它們既能說明難陀和佛陀身材高大，又不會高得離譜。
+
+   * - Another pair of passages supporting these measurements is the ruling under `Pc 87`_ that the legs of a bhikkhu’s bed not be more than eight sugata fingerbreadths tall, taken together with the recommendation at `Cv.VIII.1.5`_ that one should grope under the bed with one’s hand to make sure that nothing is there before placing one’s bowl there. Our measurements would put the maximum height for the bed legs at 18 cm. If they were much taller than that, there would be no need to grope, for one could easily see under the bed with a glance. If they were much shorter than that, even a small bowl wouldn’t fit.
+
+     - 另外兩段經文支持這些測量結果，分別是\ `《波逸提》八七`_\ 的裁定，即比丘床腳的高度不得超過善逝八指寬，以及與\ `《小品》.八.1.5`_\ 的建議合在一起，即在放置自己的缽之前，應先用手摸索床下，確認無物。根據我們的測量，床腳的最大高度為18公分。如果床腳遠高於此，則無需摸索，因為只需瞥一眼就能輕易看到床下。如果床腳遠低於此，即使是小缽也無法放入。
+
 .. _Sg 6: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg6
 .. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
 .. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
 .. _《長部》2經: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N06n0004_002/
-
+.. _《長部》30經: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N08n0004_030/
+.. _《波逸提》九二: {filename}Section0024%zh-hant.rst#Pc92
+.. _Pc 87: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc87
+.. _Cv.VIII.1.5: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#Cv.VIII.1.2-5
+.. _《波逸提》八七: {filename}Section0024%zh-hant.rst#Pc87
+.. _《小品》.八.1.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0287a10
 
 (未完待續)
 
