@@ -206,6 +206,38 @@
 
      - 另外兩段經文支持這些測量結果，分別是\ `《波逸提》八七`_\ 的裁定，即比丘床腳的高度不得超過善逝八指寬，以及與\ `《小品》.八.1.5`_\ 的建議合在一起，即在放置自己的缽之前，應先用手摸索床下，確認無物。根據我們的測量，床腳的最大高度為18公分。如果床腳遠高於此，則無需摸索，因為只需瞥一眼就能輕易看到床下。如果床腳遠低於此，即使是小缽也無法放入。
 
+   * - Although there is no way of determining the sugata measures with 100% accuracy, the above considerations suggest that the following estimates are reasonable:
+
+     - 雖然無法 100% 準確地確定善逝計量單位，但上述考慮顯示以下估計是合理的：
+
+   * - .. container:: mx-2
+
+          The sugata cubit = 50 cm.
+
+     - .. container:: mx-2
+
+          善逝肘長 = 50 公分。
+
+   * - .. container:: mx-2
+
+          The sugata span = 25 cm.
+
+     - .. container:: mx-2
+
+          善逝張手 = 25 公分。
+
+   * - .. container:: mx-2
+
+          The sugata fingerbreadth = 2.08 cm.
+
+     - .. container:: mx-2
+
+          善逝指寬 = 2.08 公分。
+
+   * - Applied to the various rules, this would give us a hut 3 x 1.75 meters—small, but adequate; a rains-bathing cloth 1.5 x .625 meters—enough to cover one from the waist to the knees; and an skin-eruption covering cloth 1 x .5 meters—enough to cover one from the waist to just above the knees. All of these figures seem appropriate and so have been accepted for the purposes of this book.
+
+     - 套用到各項戒條，我們可以得到一個 3 × 1.75 公尺的小屋（孤邸）——雖小但足夠；一塊 1.5 × 0.625 公尺的雨浴衣——足以遮蓋腰部到膝蓋；以及一塊 1 × 0.5 公尺的覆瘡布——足以遮蓋腰部到膝蓋上方。所有這些尺寸似乎都合適，因此本書採用這些尺寸。
+
 .. _Sg 6: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg6
 .. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
 .. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
