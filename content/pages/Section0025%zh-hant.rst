@@ -562,8 +562,7 @@
      - *摘要：在正式指定為「學家」的住處接受主食或副食後食用之，而自己既沒有生病也沒有被邀請，是《應悔過》罪。*
 
 .. _Appendix III: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII
-.. _附錄三: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII
-.. TODO FIXME: replace link to 附錄三
+.. _附錄三: {filename}Section0028%zh-hant.rst#appendixIII
 
 
 .. container:: has-text-centered

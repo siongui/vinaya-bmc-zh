@@ -580,8 +580,7 @@
 .. _Cv.VI.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#Cv.VI.21.1
 .. _《小品》.六.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0237a09
 .. _Appendix III: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII
-.. _附錄三: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII
-.. TODO FIXME: replace link to 附錄三
+.. _附錄三: {filename}Section0028%zh-hant.rst#appendixIII
 .. _佛音: https://zh.wikipedia.org/wiki/%E8%A6%BA%E9%9F%B3
 .. _《小品》.七.3.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_017/#0268a04
 .. _46: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46

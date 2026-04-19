@@ -249,6 +249,46 @@
 .. _《波逸提》八七: {filename}Section0024%zh-hant.rst#Pc87
 .. _《小品》.八.1.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0287a10
 
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
+.. _appendixIII:
+
+.. raw:: html
+
+   <span id="appendixIII"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **III. Controversial points: Meals**
+
+     - **三、爭議點：餐食**
+
+   * - `Cv.VI.21.1`_ allows bhikkhus to accept seven kinds of specially arranged meals in addition to the meals they receive on alms round. The context for this allowance is as follows:
+
+     - `《小品》.六.21.1`_ 允許比丘們除了托缽乞食的餐食之外，接受七種特意安排的餐食。此項開緣的背景如下：
+
+   * - .. container:: mx-2
+
+          “Now at that time Rājagaha was short of food. People were not able to provide a meal for the Community, but they wanted to provide a designated meal, an invitational meal, a lottery meal, a meal on a day of the waxing or waning of the moon, on uposatha days, and on the day after each uposatha day. They told this matter to the Blessed One. He said, ‘I allow, bhikkhus, a Community meal, a designated meal, an invitational meal, a lottery meal, a meal on a day of the waxing or waning of the moon, on an uposatha day, and on the day after an uposatha day.’”
+
+     - .. container:: mx-2
+
+          「當時王舍城糧食短缺。人們無法為僧團提供餐食，但他們卻想提供指定食\ :small:`[譯註：古漢譯為「僧次請食」]`\ 、邀請食\ :small:`[譯註：古漢譯為「別請食」]`\ 、抽籤食\ :small:`[譯註：古漢譯為「行籌食」]`\ 、月盈月虧日食\ :small:`[譯註：古漢譯為「十五日食」]`\ 、布薩日食、以及每個布薩日後的次日食。他們將此事禀告世尊。他說：『比丘們，我允許僧團食、指定食、邀請食、抽籤食、月盈月虧日食、布薩日食、以及布薩日次日食。』」
+
+   * - Unfortunately, the Canon provides no detailed explanation of these terms. The Commentary explains Community meals as meals for the entire Community, and the other terms as follows:
+
+     - 可惜的是，《聖典》並未對這些術語提供詳細解釋。《義註》將「僧團食」解釋為供給整個僧團的餐食，其他術語的解釋如下：
+
+.. _Cv.VI.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#Cv.VI.21.1
+.. _《小品》.六.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0237a09
+
+
 (未完待續)
 
 

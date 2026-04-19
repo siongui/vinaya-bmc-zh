@@ -861,7 +861,7 @@
      - `\　　二、爭議點：善逝計量單位 <{filename}Section0028%zh-hant.rst#appendixII>`__
 
    * - `\　　III. Controversial points: Meals <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIII>`__
-     - 　　三、爭議點：進餐
+     - `\　　三、爭議點：餐食 <{filename}Section0028%zh-hant.rst#appendixIII>`__
 
    * - `\　　IV. Pali formulae: Determination <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIV>`__
      - 　　四、巴利公式：決意
