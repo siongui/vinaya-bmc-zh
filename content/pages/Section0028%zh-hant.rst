@@ -285,8 +285,23 @@
 
      - 可惜的是，《聖典》並未對這些術語提供詳細解釋。《義註》將「僧團食」解釋為供給整個僧團的餐食，其他術語的解釋如下：
 
+   * - .. container:: mx-2
+
+          “(Having said,) ‘Give one, two… ten bhikkhus designated from the Community,’ they wanted to provide a meal for the bhikkhus they got through that designation. Later, having decided on bhikkhus in the same way (i.e., one, two… ten bhikkhus), and having invited them, they wanted to provide a meal for them. Later, they wanted to provide a meal having decided on a lottery. Later, having fixed a date—the waxing or waning moons, the uposatha day, or the day after—they wanted to provide a meal for one, two… ten bhikkhus. This is the extent of the meals that fall under the terms ‘designated meals, invitational meals (the Sub-commentary adds an ‘etc.’ here.)’”
+
+     - .. container:: mx-2
+
+          「（已說，）『從僧團中指定一、二…十位比丘』，他們想為透過該指定獲得的比丘們提供餐食。後來，他們以同樣的方式（即一、二…十位比丘）選定比丘，並邀請他們，他們想為他們提供膳食。再後來，他們想要以抽籤\ :small:`[行籌]`\ 決定來提供餐食。再後來，以固定日期——月盈月虧，布薩日，或次日——他們想要提供餐食給一、二…十位比丘。這就是「指定食、邀請食（《複註》中在此處添加了『等等』）」這些術語所涵蓋的餐食範圍。」
+
+   * - These definitions seem fairly clear: a *designated meal* is one in which the donors do not specify which bhikkhus are to receive it, but simply ask for *x* number of bhikkhus from the Community, leaving it up to the meal designator—the Community official responsible for managing these various meals (see `BMC2, Chapter 18`_)—to designate who the recipients will be. An *invitational meal* is one in which the donors decide on the recipients themselves. A *lottery meal* is one in which the recipients are chosen by drawing lots, while the remaining meals—\ *periodic meals*\ —are given regularly to a rotating roster of *x* number of bhikkhus every time the specified date comes around.
+
+     - 這些定義似乎相當清楚：\ *指定食*\ :small:`[僧次請食]`\ 是指布施者不指定哪些比丘接受之，而是向僧團請求\ *若干*\ 比丘，由餐食指定人（即負責管理各類餐食的僧團執事，參見\ `《佛教比丘戒律 第二冊》第十八章`_\ ）來指定受請者。\ *邀請食*\ :small:`[別請食]`\ 是指布施者自行決定受請者。\ *抽籤食*\ :small:`[行籌食]`\ 是指透過抽籤決定受請者，而其餘的餐食——\ *週期食（定期食）*\ :small:`[常請食]`\ ——則每當指定日期到來時，都會規律地分配給輪換的\ *若干*\ 比丘。。
+
 .. _Cv.VI.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#Cv.VI.21.1
 .. _《小品》.六.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0237a09
+.. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. _《佛教比丘戒律 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十八章
 
 
 (未完待續)
