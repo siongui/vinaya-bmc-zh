@@ -297,6 +297,65 @@
 
      - 這些定義似乎相當清楚：\ *指定食*\ :small:`[僧次請食]`\ 是指布施者不指定哪些比丘接受之，而是向僧團請求\ *若干*\ 比丘，由餐食指定人（即負責管理各類餐食的僧團執事，參見\ `《佛教比丘戒律 第二冊》第十八章`_\ ）來指定受請者。\ *邀請食*\ :small:`[別請食]`\ 是指布施者自行決定受請者。\ *抽籤食*\ :small:`[行籌食]`\ 是指透過抽籤決定受請者，而其餘的餐食——\ *週期食（定期食）*\ :small:`[常請食]`\ ——則每當指定日期到來時，都會規律地分配給輪換的\ *若干*\ 比丘。。
 
+   * - However, the Commentary’s discussion of how the meal designator should manage these meals blurs the lines between the first three categories. It gives no detailed discussion of Community meals, but divides designated meals into the following two types:
+
+     - 然而，《義註》對餐食指定人應如何管理這些餐食的討論模糊了前三類之間的界限。它沒有對僧團食進行詳細討論，而是將指定食分為以下兩種類型：
+
+   * - .. container:: mx-2
+
+          1a\) Meals for which the number of bhikkhus to be designated is equal to the total number of bhikkhus in the Community.
+
+     - .. container:: mx-2
+
+          1a）指定比丘人數等於僧團比丘總數的餐食。
+
+   * - .. container:: mx-2
+
+          1b\) Meals for which the number of bhikkhus to be designated is less than the total number of bhikkhus in the Community.
+
+     - .. container:: mx-2
+
+          1b）指定比丘人數少於僧團比丘總數的餐食。
+
+   * - Invitational meals come in four types:
+     - 邀請食分為四種：
+
+   * - .. container:: mx-2
+
+          2a\) Meals to which the entire Community is invited.
+
+     - .. container:: mx-2
+
+          2a）整個僧團都被邀請的餐食。
+
+   * - .. container:: mx-2
+
+          2b\) Meals to which specific individuals or types of bhikkhus (e.g., no one but senior bhikkhus) are invited.
+
+     - .. container:: mx-2
+
+          2b）邀請特定個人或特定類型的比丘（例如，只邀請長老比丘）的餐食。
+
+   * - .. container:: mx-2
+
+          2c\) Meals to which one bhikkhu is invited and asked to bring *x* number of his friends.
+
+     - .. container:: mx-2
+
+          2c）一位比丘被邀請並被要求帶\ *若干*\ 位他的朋友的餐食。
+
+   * - .. container:: mx-2
+
+          2d\) Meals for which the donor simply asks for *x* number of bhikkhus, without specifying in any way who they should be.
+
+     - .. container:: mx-2
+
+          2d）布施者只要求\ *若干*\ 位比丘，而不以任何方式指定他們是誰的餐食。
+
+   * - This typology raises two questions. First, why aren’t types 1a and 2a grouped under Community meals? Is it because the donor uses the words *designated* and *invited* when announcing his/her plans for the meal? If so, how does one arrange for a Community meal that would not fall into these two types, in line with the fact that a Community meal is said to be a separate category?
+
+     - 這種分類引出了兩個問題。首先，為什麼類型 1a 和 2a 沒有被歸類在僧團食之下？是因為布施者在宣布其餐食計劃時使用了\ *被指定*\ 和\ *被邀請*\ 這樣的字眼嗎？如果是這樣，那麼如何安排一場僧團食，既不屬於這兩種類型，又符合僧團食應有的獨立類別呢？
+
 .. _Cv.VI.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#Cv.VI.21.1
 .. _《小品》.六.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0237a09
 .. _BMC2, Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
