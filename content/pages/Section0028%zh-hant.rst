@@ -381,6 +381,50 @@
 .. _《波逸提》三二: {filename}Section0019%zh-hant.rst#Pc32
 
 
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
+.. _appendixIV:
+
+.. raw:: html
+
+   <span id="appendixIV"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **IV. Pali formulae: Determination**
+
+     - **四、巴利公式：決意**
+
+   * - The articles a bhikkhu must determine for his use have already been mentioned under `NP 1`_, 21_, & 24_.
+     - 比丘必須決意自己使用的物品已在\ `《捨墮》一`_\ 、\ `二一`_\ 和\ `二四`_\ 中提及。
+
+   * - Determination, according to the Commentary, may be done in either of two ways: by body or by word. *To determine by body* means to grasp or touch the object in question with any part of the body and to determine in the mind that the object is for one’s own particular use, in line with the formula given below. *To determine by word* means to speak the formula out loud. In this case, if the object is within the reach of the hand, use the same formula as for determination with the body. If it is beyond the reach of the hand, alter the formula, changing *imaṁ*, “this,” to *etaṁ*, “that.’ Articles to be worn—i.e., robes, the rains-bathing cloth—must first be dyed the proper color and properly marked in accordance with `Pc 58`_.
+
+     - 決意，根據《義註》，可透過兩種方式之一完成：藉由身體或藉由言語。\ *藉由身體決意*\ 是指用身體的任何部位抓住或觸摸目標物，並遵循以下公式，在心中決意該物是供自己使用的。\ *藉由言語決意*\ 是指大聲說出公式。在這種情況下，如果該物在伸手可及的範圍內，則使用與以身體決意相同的公式。若該物超出伸手可及的範圍，則需修改公式，將「\ *imaṁ*\ 」（此）改為「\ *etaṁ*\ 」（彼）。穿著的物品——即袈裟、雨浴衣——必須依照\ `《波逸提》五八`_\ 先染成合適的顏色並適當地標記。
+
+   * - The Canon and commentaries make no mention of any formula to repeat while marking, but the tradition in Thailand is to repeat:
+     - 《聖典》及註釋書中並未提及任何標記時需要重複的公式，但泰國的傳統做法是重複：
+
+   * - *Imaṁ bindu-kappaṁ karomi,*
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “I make this properly marked.”
+
+     - .. container:: mx-2
+
+          意思是，「我將此適當地被標記」。
+
+.. _Pc 58: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
+.. _《波逸提》五八: {filename}Section0021%zh-hant.rst#Pc58
+
+
 (未完待續)
 
 

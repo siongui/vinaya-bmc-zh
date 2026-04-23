@@ -150,8 +150,7 @@
 
 .. _Appendices IV: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIV
 .. _V: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
-.. _附錄四: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIV
-.. TODO FIXME: replace link to 附錄四
+.. _附錄四: {filename}Section0028%zh-hant.rst#appendixIV
 .. _五: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
 .. TODO FIXME: replace link to 五
 

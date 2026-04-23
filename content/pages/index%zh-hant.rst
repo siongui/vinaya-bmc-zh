@@ -864,7 +864,7 @@
      - `\　　三、爭議點：餐食 <{filename}Section0028%zh-hant.rst#appendixIII>`__
 
    * - `\　　IV. Pali formulae: Determination <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIV>`__
-     - 　　四、巴利公式：決意
+     - `\　　四、巴利公式：決意 <{filename}Section0028%zh-hant.rst#appendixIV>`__
 
    * - `\　　V. Pali formulae: Shared ownership <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV>`__
      - 　　五、巴利公式：共享所有權
