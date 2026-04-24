@@ -219,7 +219,7 @@
 
      - .. container:: mx-2
 
-          *2）位置。*\ 在\ `郁多羅僧`_\ 或\ `僧伽黎`_\ 上，該洞距離較長邊至少一跨（25公分），距離較短邊至少八指寬；在\ `安陀會`_\ 上，距離較長邊至少一跨，距離較短邊至少四指寬。任何比這些測量值更靠近袈裟邊緣的洞都不會導致決意失效。
+          *2）位置。*\ 在\ `鬱多羅僧`_\ 或\ `僧伽黎`_\ 上，該洞距離較長邊至少一跨（25公分），距離較短邊至少八指寬；在\ `安陀會`_\ 上，距離較長邊至少一跨，距離較短邊至少四指寬。任何比這些測量值更靠近袈裟邊緣的洞都不會導致決意失效。
 
    * - Because of these stipulations, the Commentary notes that if one is patching a worn spot—not a hole as defined above—more than the maximum distance away from the edge of one’s robe, the determination lapses if one cuts out the worn spot before applying the patch, but not if one applies the patch before cutting out the worn spot. If the determination lapses, it is an easy matter to re-determine the robe, but one must be mindful to do it within the time span allotted by this rule.
 
@@ -254,7 +254,7 @@
 .. _五: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
 .. TODO FIXME: replace link to 五
 .. _僧伽黎: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
-.. _郁多羅僧: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
+.. _鬱多羅僧: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
 .. _安陀會: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
 
 .. list-table::
@@ -555,7 +555,7 @@
 
    * - Any one of the robes that a bhikkhu has determined as his basic set of three—the *antaravāsaka* (lower robe), *uttarāsaṅga* (upper robe), and *saṅghāṭi* (outer robe). This rule thus does not apply to spare robes or other cloth requisites.
 
-     - 比丘決意為基本三衣中的任何一件— `安陀會`_ *antaravāsaka* （下衣）、 `郁多羅僧`_ *uttarāsaṅga* （上衣）和 `僧伽黎`_ *saṅghāṭi* （外衣）。因此，本戒條不適用於備用袈裟或其他布料必需品。
+     - 比丘決意為基本三衣中的任何一件— `安陀會`_ *antaravāsaka* （下衣）、 `鬱多羅僧`_ *uttarāsaṅga* （上衣）和 `僧伽黎`_ *saṅghāṭi* （外衣）。因此，本戒條不適用於備用袈裟或其他布料必需品。
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

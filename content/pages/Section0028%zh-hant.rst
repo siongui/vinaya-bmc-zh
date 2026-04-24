@@ -421,6 +421,98 @@
 
           意思是，「我將此適當地被標記」。
 
+   * - The words for determination, taking the bowl as an example, are:
+     - 以缽為例，表示決意的字詞是：
+
+   * - *Imaṁ pattaṁ adhiṭṭhāmi,*
+     -
+
+   * - .. container:: mx-2
+
+          which means, “I determine this bowl” or “I determine this as a bowl.”
+
+     - .. container:: mx-2
+
+          意思是，「我決意此缽」或「我決意此為缽」。
+
+   * - To determine other requisites, replace the word *pattaṁ*, bowl, with the appropriate name, as follows:
+     - 要決意其他必需品，將單字 *pattaṁ*\ （缽）替換為適當的名稱，如下：
+
+       .. 比丘常用作持
+       .. http://www.dhammarain.org.tw/canon/vinaya/bhikkhu-caritta-Ven-Santagavesaka.htm#_Toc518465999
+
+   * - .. container:: mx-4
+
+          for the outer robe: *saṅghāṭiṁ*
+
+     - .. container:: mx-4
+
+          外衣\ :small:`[僧伽黎]`\ ：\ *saṅghāṭiṁ*
+
+   * - .. container:: mx-4
+
+          for the upper robe: *uttarāsaṅgaṁ*
+
+     - .. container:: mx-4
+
+          上衣\ :small:`[鬱多羅僧]`\ ：\ *uttarāsaṅgaṁ*
+
+   * - .. container:: mx-4
+
+          for the lower robe: *antaravāsakaṁ*
+
+     - .. container:: mx-4
+
+          下衣\ :small:`[安陀會]`\ ：\ *antaravāsakaṁ*
+
+   * - .. container:: mx-4
+
+          for the sitting cloth: *nisīdanaṁ*
+
+     - .. container:: mx-4
+
+          坐布\ :small:`[尼師壇]`\ ：\ *nisīdanaṁ*
+
+   * - .. container:: mx-4
+
+          for the skin-eruption cloth: *kaṇḍu-paṭicchādiṁ*
+
+     - .. container:: mx-4
+
+          覆瘡布：\ *kaṇḍu-paṭicchādiṁ*
+
+   * - .. container:: mx-4
+
+          for the rains-bathing cloth: *vassikasāṭikaṁ*
+
+     - .. container:: mx-4
+
+          雨浴衣：\ *vassikasāṭikaṁ*
+
+   * - .. container:: mx-4
+
+          for the sleeping cloth: *paccattharaṇaṁ*
+
+     - .. container:: mx-4
+
+          睡布\ :small:`[床單]`\ ：\ *paccattharaṇaṁ*
+
+   * - .. container:: mx-4
+
+          for the handkerchief: *mukha-puñchana-colaṁ*
+
+     - .. container:: mx-4
+
+          手帕\ :small:`[拭面巾]`\ ：\ *mukha-puñchana-colaṁ*
+
+   * - .. container:: mx-4
+
+          for other cloth requisites: *parikkhāra-colaṁ*
+
+     - .. container:: mx-4
+
+          其他布料必需品\ :small:`[雜用布]`\ ：\ *parikkhāra-colaṁ*
+
 .. _Pc 58: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
 .. _《波逸提》五八: {filename}Section0021%zh-hant.rst#Pc58
 
