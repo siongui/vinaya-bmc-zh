@@ -513,6 +513,50 @@
 
           其他布料必需品\ :small:`[雜用布]`\ ：\ *parikkhāra-colaṁ*
 
+   * - .. container:: mx-2
+
+          To determine many cloths of the same sort at the same time, use the plural forms: Change *imaṁ* to *imāni;* *etaṁ* to *etāni;* and the *–aṁ* ending for the name of the article to *-āni*. For example, to determine many miscellaneous cloth requisites within reach of the hand, the formula is:
+
+     - .. container:: mx-2
+
+          若要同時決意多件同類布料，使用複數形式：將 *imaṁ* 改為 *imāni*\；將 *etaṁ* 改為 *etāni*\；並將該物名稱的 *-aṁ* 詞尾改為 *-āni*\。例如，要決意伸手可及的多件雜用布，公式為：
+
+   * - .. container:: mx-4
+
+          *Imāni parikkhāra-colāni adhiṭṭhāmi.*
+
+     - 
+
+   * - .. container:: mx-2
+
+          A bhikkhu may determine only one of each of the following five items for use at any one time: the bowl, the basic set of three robes, and the sitting cloth. If he wishes to replace an old item with a new one, he must first withdraw the determination of the old item before determining the new one. The formula for withdrawal, again taking the bowl as an example, is:
+
+     - .. container:: mx-2
+
+          比丘在任何時候，在以下五種物品中的任一種，都只可決意一件使用：缽、基本的三衣、和坐布\ :small:`[尼師壇]`\ 。如果他想用新的物品取代舊的，必須先撤回對舊物品的決意，才能決意新物品。再次以缽為例，撤回決意的公式如下：
+
+   * - .. container:: mx-4
+
+          *Imaṁ pattaṁ paccuddharāmi,*
+
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “I relinquish this bowl.” To withdraw the determination of other items, replace the word *pattaṁ* with the appropriate name, as above.
+
+     - .. container:: mx-2
+
+          意思是「我放棄這個缽」。若要撤回其他物品的決意，將單字 *pattaṁ* 替換為適當的名稱，如上所述。
+
+   * - If an item has been snatched away, burnt, destroyed, lost, given away, or taken away on trust, its determination automatically lapses, and there is no need to withdraw the determination before determining a new item to replace it. The Commentary explains *destroyed* as meaning that the bowl or any of the three robes develops a hole of a certain size: for a clay bowl, a hole large enough for a millet grain to pass through; for an iron bowl, a hole large enough to let liquid pass through; for the robes, a complete break at least the size of the fingernail of the small finger, located at least one handspan in from the long edge of the robe, and four fingerbreadths from the short edge of the lower robe, or eight fingerbreadths from the short edge of the upper and outer robes.
+
+     - 若物品被奪走、被燒毀、損壞、遺失、被給予出去或基於信任拿走，其決意自動失效，無需撤回決意即可決意新的物品以替代之。《義註》中對「\ *損壞*\ 」的解釋是：缽或三衣中的任何一件出現一定大小的破洞：對於陶缽，破洞大小足以讓一粒小米穿過；對於鐵缽，破洞大小足以讓液體流過；對於袈裟，完整破損處至少有小指指甲大小，距離袈裟的長邊內側至少一張手寬，且距離下衣\ :small:`[安陀會]`\ 的短邊至少四指寬，或距離上衣\ :small:`[鬱多羅僧]`\ 及外衣\ :small:`[僧伽黎]`\ 的短邊至少八指寬。
+
+   * - Once the robe or bowl develops a hole of this sort, it reverts to the status of an extra robe or bowl. If the owner still wishes to use it, the hole must be mended and the article redetermined before ten days elapse. Otherwise, he is subject to the penalties imposed by `NP 1`_ or 21_.
+
+     - 一旦袈裟或缽出現此類破洞，它就還原成為額外袈裟或缽的狀態。如果所有者仍想使用它，則必須在十日內修補破洞並重新決意該物品。否則，他將受到\ `《捨墮》一`_\ 或\ `二一`_\ 規定的處罰。
+
 .. _Pc 58: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
 .. _《波逸提》五八: {filename}Section0021%zh-hant.rst#Pc58
 

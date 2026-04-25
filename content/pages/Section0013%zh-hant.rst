@@ -219,7 +219,7 @@
 
      - .. container:: mx-2
 
-          *2）位置。*\ 在\ `鬱多羅僧`_\ 或\ `僧伽黎`_\ 上，該洞距離較長邊至少一跨（25公分），距離較短邊至少八指寬；在\ `安陀會`_\ 上，距離較長邊至少一跨，距離較短邊至少四指寬。任何比這些測量值更靠近袈裟邊緣的洞都不會導致決意失效。
+          *2）位置。*\ 在\ `鬱多羅僧`_\ 或\ `僧伽黎`_\ 上，該洞距離較長邊至少一張手（25公分），距離較短邊至少八指寬；在\ `安陀會`_\ 上，距離較長邊至少一張手，距離較短邊至少四指寬。任何比這些測量值更靠近袈裟邊緣的洞都不會導致決意失效。
 
    * - Because of these stipulations, the Commentary notes that if one is patching a worn spot—not a hole as defined above—more than the maximum distance away from the edge of one’s robe, the determination lapses if one cuts out the worn spot before applying the patch, but not if one applies the patch before cutting out the worn spot. If the determination lapses, it is an easy matter to re-determine the robe, but one must be mindful to do it within the time span allotted by this rule.
 
