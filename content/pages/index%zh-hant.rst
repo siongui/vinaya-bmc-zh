@@ -867,7 +867,7 @@
      - `\　　四、巴利公式：決意 <{filename}Section0028%zh-hant.rst#appendixIV>`__
 
    * - `\　　V. Pali formulae: Shared ownership <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV>`__
-     - 　　五、巴利公式：共享所有權
+     - `\　　五、巴利公式：共享所有權 <{filename}Section0028%zh-hant.rst#appendixV>`__
 
    * - `\　　VI. Pali formulae: Forfeiture <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVI>`__
      - `\　　六、巴利公式：捨棄 <{filename}Section0028%zh-hant.rst#appendixVI>`__

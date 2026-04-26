@@ -1112,8 +1112,7 @@
 
 .. _Appendix V: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
 .. _Mv.I.74.1: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.I.74.1
-.. _附錄五: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
-.. TODO FIXME: replace link to 附錄五
+.. _附錄五: {filename}Section0028%zh-hant.rst#appendixV
 .. _《大品》.一.74.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0116a03
 .. _Mv.V.13.13: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.V.13.13
 .. _Mv.VIII.31.2-3: https://www.dhammatalks.org/vinaya/bmc/Section0063.html#Mv.VIII.31.2-3

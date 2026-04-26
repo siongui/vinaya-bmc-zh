@@ -561,8 +561,51 @@
 .. _《波逸提》五八: {filename}Section0021%zh-hant.rst#Pc58
 
 
-(未完待續)
+.. container:: has-text-centered
 
+   \*    \*    \*
+
+
+.. _appendixV:
+
+.. raw:: html
+
+   <span id="appendixV"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - **V. Pali formulae: Shared ownership**
+
+     - **五、巴利公式：共享所有權**
+
+   * - The topic of shared ownership, together with the various controversies connected with it, are discussed in detail under `Pc 59`_. Here we will simply give the formulae.
+
+     - 共享所有權的主題及其相關的各種爭議在\ `《波逸提》五九`_\ 中有詳細討論。這裡我們只給公式。
+
+   * - There are two formulae for sharing ownership in the presence of the second owner. The first—taking as an example a piece of robe-cloth within reach of the hand—is this:
+
+     - 在第二位所有者在場的情況下，有兩種共享所有權的公式。第一種方式——以伸手可及的一塊袈裟布為例——如下：
+
+   * - .. container:: mx-4
+
+          *Imaṁ cīvaraṁ tuyhaṁ vikappemi,*
+
+     - 
+
+   * - .. container:: mx-2
+
+          meaning, “I share ownership of this robe-cloth with you (plural).”
+
+     - .. container:: mx-2
+
+          意思是，「我與你們（複數）共享這件袈裟布的所有權。」
+
+.. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
+.. _《波逸提》五九: {filename}Section0021%zh-hant.rst#Pc59
+
+(未完待續)
 
 .. container:: has-text-centered
 

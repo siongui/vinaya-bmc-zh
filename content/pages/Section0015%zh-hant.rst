@@ -151,8 +151,7 @@
 .. _Appendices IV: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIV
 .. _V: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
 .. _附錄四: {filename}Section0028%zh-hant.rst#appendixIV
-.. _五: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
-.. TODO FIXME: replace link to 五
+.. _五: {filename}Section0028%zh-hant.rst#appendixV
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

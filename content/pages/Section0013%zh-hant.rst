@@ -251,8 +251,7 @@
 .. _Appendices IV: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIV
 .. _V: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
 .. _附錄四: {filename}Section0028%zh-hant.rst#appendixIV
-.. _五: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
-.. TODO FIXME: replace link to 五
+.. _五: {filename}Section0028%zh-hant.rst#appendixV
 .. _僧伽黎: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
 .. _鬱多羅僧: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
 .. _安陀會: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
