@@ -602,8 +602,44 @@
 
           意思是，「我與你們（複數）共享這件袈裟布的所有權。」
 
+   * - To place a bowl under shared ownership, change *cīvaraṁ* to *pattaṁ*. For more than one piece of cloth, change *imaṁ cīvaraṁ* to *imāni cīvarāni*. For more than one bowl, change *imaṁ pattaṁ* to *ime patte*. For articles beyond the reach of the hand, change *imaṁ* to *etaṁ*; *imāni* to *etāni*; and *ime* to *ete*.
+
+     - 要將一個缽置於共同所有權之下，將 *cīvaraṁ* 改為 *pattaṁ*\ 。要將多塊布置於共同所有權之下，將 *imaṁ cīvaraṁ* 改為 *imāni cīvarāni*\ 。要將多於一個缽置於共同所有權之下，請將 *imaṁ pattaṁ* 改為 *ime patte*\ 。要將超出伸手可及範圍的物品置於共同所有權之下，將 *imaṁ* 改為 *etaṁ*\ ； *imāni* 改為 *etāni*\ ； *ime* 改為 *ete*\ 。
+
+   * - The second formula—less formal than the first—is:
+     - 第二個公式——不如第一個正式——是：
+
+   * - .. container:: mx-4
+
+          *Imaṁ civaraṁ Itthannāmassa vikappemi,*
+
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “I share ownership of this robe-cloth with so-and-so.” Suppose, for example, that the person’s name is Nando. If he is one’s senior, change *Itthannāmassa* to *Āyasmato Nandassa*; if he is one’s junior, change it to *Nandassa Bhikkhuno*; if he is a novice, change it to *Nandassa Sāmaṇerassa*. If he is very much one’s senior, use the first formula, above. (`Mv.I.74.1`_ shows that the tradition in the Buddha’s time was not to use a very senior or respected person’s name when referring to him.)
+
+     - .. container:: mx-2
+
+          意思是，「我與某某共享這件袈裟布的所有權」。例如，假設此人名叫 Nando。如果他戒臘較高，將 *Itthannāmassa* 改為 *Āyasmato Nandassa* ；如果他戒臘較低，則改為 *Nandassa Bhikkhuno* ；如果他是沙彌，則改為 *Nandassa Sāmaṇerassa* 。如果他戒臘較自己高出非常多，則使用上述第一種公式。（\ `《大品》.一.74.1`_\ 表明，在佛陀時代的傳統是，在稱呼一位戒臘非常高或受人尊敬的人時，通常不使用其名字。）
+
+   * - To share a bowl in this way, change *cīvaraṁ* to *pattaṁ*. Other changes, as called for, may be inferred from the previous formulae.
+
+     - 以這種方式共享一個缽，將 *cīvaraṁ* 改為 *pattaṁ*\。其他需要的更改可從前面的公式推斷出來。
+
+   * - To place a piece of robe-cloth under shared ownership with two people who are absent, say to a witness:
+     - 要將一塊袈裟布置於兩名不在場者的共同所有權之下，對見證者說：
+
+   * - .. container:: mx-4
+
+          *Imaṁ cīvaraṁ vikappan’atthāya tuyhaṁ dammi,*
+
+     - 
+
 .. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
 .. _《波逸提》五九: {filename}Section0021%zh-hant.rst#Pc59
+.. _Mv.I.74.1: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.I.74.1
+.. _《大品》.一.74.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0116a03
 
 (未完待續)
 
