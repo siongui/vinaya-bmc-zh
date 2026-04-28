@@ -636,6 +636,59 @@
 
      - 
 
+   * - .. container:: mx-2
+
+          which means, “I give this robe-cloth to you to share.” The witness should ask the original owner the names of two bhikkhus or novices who are his friends or acquaintances. In Pali, this is:
+
+     - .. container:: mx-2
+
+          意思是「我把這件袈裟給你，與你共享」。見證者應該詢問原主人兩位比丘或沙彌的名字，這兩位比丘或沙彌是他的朋友或熟人。在巴利語中，這句話是：
+
+   * - .. container:: mx-4
+
+          *Ko te mitto vā sandiṭṭho vā.*
+
+     - 
+
+   * - .. container:: mx-2
+
+          After the original owner tells the names, the witness says:
+
+     - .. container:: mx-2
+
+          在原主人說出姓名後，見證者說：
+
+   * - .. container:: mx-4
+
+          *Ahaṁ tesaṁ dammi,*
+
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “I give it to them.”
+
+     - .. container:: mx-2
+
+          意思是，「我把它給他們。」
+
+   * - To rescind the shared ownership, the Vibhaṅga says that the witness in the last case should say,
+     - 《經分別》說，要撤銷共享所有權，最後一個情況裡的見證者應該說：
+
+   * - .. container:: mx-4
+
+          *Tesaṁ santakaṁ paribhuñja vā vissajjehi vā yathā-paccayaṁ vā karohi,*
+
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “Use what is theirs, give it away, or do as you like with it.”
+
+     - .. container:: mx-2
+
+          意思是，「用他們的東西，將其送出去，或隨你處置。」
+
 .. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
 .. _《波逸提》五九: {filename}Section0021%zh-hant.rst#Pc59
 .. _Mv.I.74.1: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.I.74.1
