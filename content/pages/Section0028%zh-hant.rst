@@ -687,14 +687,63 @@
 
      - .. container:: mx-2
 
-          意思是，「用他們的東西，將其送出去，或隨你處置。」
+          意思是，「使用屬於他們的東西，贈予出去，或按照你的意願處置它。」
+
+   * - As for cases in which the article is placed under shared ownership in the presence of the second owner, the Vibhaṅga gives no formula for rescinding the arrangement. The K/Commentary suggests that the second owner should say,
+
+     - 至於在第二位所有者在場的情況下，物品被置於共享所有權之下的情況，《經分別》並未給出撤銷該安排的公式。K/《義註》建議第二位所有者應該說：
+
+   * - .. container:: mx-4
+
+          *Mayhaṁ santakaṁ paribhuñja vā vissajjehi vā yathā-paccayaṁ vā karohi,*
+
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “Use what is mine, give it away, or do as you like with it.”
+
+     - .. container:: mx-2
+
+          意思是，「使用屬於我的東西，贈予出去，或按照你的意願處置它。」
+
+   * - The Pubbasikkhā-vaṇṇanā, though, suggests the following formula (for robe-cloth within reach, rescinded by a bhikkhu who is senior to the original owner):
+
+     - 《Pubbasikkhā-vaṇṇanā》卻提出了以下公式（適用於可及的袈裟布，由比原所有者戒臘更高的比丘撤銷）：
+
+   * - .. container:: mx-4
+
+          *Imaṁ cīvaraṁ mayhaṁ santakaṁ paribhuñja vā vissajjehi vā yathā-paccayaṁ vā karohi,*
+
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “Use this robe-cloth of mine, give it away, etc.” If the bhikkhu rescinding the shared ownership is junior to the original owner, the verb endings are more formal:
+
+     - .. container:: mx-2
+
+          意思是，「使用這件屬於我的袈裟布，贈予出去等等。」如果撤銷共享所有權的比丘戒臘低於原所有者，則動詞詞尾更正式：
+
+   * - .. container:: mx-4
+
+          *Imaṁ cīvaraṁ mayhaṁ santakaṁ paribhuñjatha vā vissajjetha vā yathā-paccayaṁ vā karotha.*
+
+     - 
+
+   * - .. container:: mx-2
+
+          For a bowl, change *cīvaraṁ* to *pattaṁ*. If more than one piece of cloth is involved, the formula begins, *Imāni cīvarāni mayhaṁ santakāni…*. If more than one bowl, *Ime patte mayhaṁ santake…*. Changes for articles outside the reach of the hand may be inferred from those for the earlier formulae.
+
+     - .. container:: mx-2
+
+          對於缽，將 *cīvaraṁ* 改為 *pattaṁ* 。如果涉及超過一塊布料，則公式以 *Imāni cīvarāni mayhaṁ santakāni…* 開頭。如果超過一個缽，則以 *Ime patte mayhaṁ santake…* 開頭。對於伸手不可及的物品，其變化可從前面的公式推斷。
 
 .. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
 .. _《波逸提》五九: {filename}Section0021%zh-hant.rst#Pc59
 .. _Mv.I.74.1: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Mv.I.74.1
 .. _《大品》.一.74.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0116a03
 
-(未完待續)
 
 .. container:: has-text-centered
 
