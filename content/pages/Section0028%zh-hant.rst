@@ -1320,8 +1320,32 @@
    :widths: auto
 
    * - **VII. Pali formulae: Confession**
-     - **七、巴利公式：懺悔罪過**
+     - **七、巴利公式：懺悔罪行**
 
+   * - Six types of offense may be absolved through confession: thullaccaya, nissaggiya pācittiya, pācittiya, pāṭidesanīya, dukkaṭa, and dubbhāsita.
+
+     - 六種罪可以透過懺悔罪行而得到赦免（清淨）：《偷蘭遮》(thullaccaya)、《尼薩耆波逸提》（nissaggiya pācittiya 《捨墮》）、《波逸提》(pācittiya)、《應悔過》(pāṭidesanīya)、《突吉羅》（dukkaṭa 惡作）和《惡說》(dubbhāsita)。
+
+   * - The formula for confessing a pāṭidesanīya is given in the training rules themselves:
+     - 懺悔《應悔過》的公式在其學處中已給出：
+
+   * - .. container:: mx-4
+
+          *Gārayhaṁ āvuso dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ. Taṁ paṭidesemi,*
+
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “Friend, I have committed a blameworthy, unsuitable act that ought to be acknowledged. I acknowledge it.”
+
+     - .. container:: mx-2
+
+          意思是，「朋友，我犯了應受譴責的不當行為，應當悔過。我悔過。」
+
+   * - The five remaining types of offenses are confessed as follows: One arranges one’s upper robe over the left shoulder, approaches another bhikkhu, kneels down and, with hands raised palm-to-palm over the heart, repeats the formula of confession. The bhikkhu to whom the offense is to be confessed must be part of the same affiliation—i.e., he does not belong to another affiliation and has not been suspended from one’s own affiliation—and he must not be guilty, without having made confession, of the same offense that one is confessing.
+
+     - 其餘五種罪行懺悔方法如下：將上衣\ :small:`[鬱多羅僧]`\ 偏袒右肩（覆蓋左肩），走到另一位比丘面前，跪下，雙手合十舉過心口，重複懺悔罪行的公式。對其懺悔的比丘必須是屬於共同羯磨的僧團——即他不屬於其他羯磨的僧團，且未被共同羯磨的僧團舉罪——並且他本人不得犯有與懺悔者所懺悔的相同罪行，卻仍未懺悔該罪行。
 
 (未完待續)
 

@@ -873,7 +873,7 @@
      - `\　　六、巴利公式：捨棄 <{filename}Section0028%zh-hant.rst#appendixVI>`__
 
    * - `\　　VII. Pali formulae: Confession <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVII>`__
-     - `\　　七、巴利公式：懺悔罪過 <{filename}Section0028%zh-hant.rst#appendixVII>`__
+     - `\　　七、巴利公式：懺悔罪行 <{filename}Section0028%zh-hant.rst#appendixVII>`__
 
    * - `\　　VIII. Pali formulae: Transaction Statements <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixVIII>`__
      - `\　　八、巴利公式：羯磨文 <{filename}Section0028%zh-hant.rst#appendixVIII>`__
@@ -1509,7 +1509,7 @@
      - 　　　　預備工作
 
    * - `\　　　　Confession <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_171>`__
-     - 　　　　懺悔罪過
+     - 　　　　懺悔罪行
 
    * - `\　　　　Reciting the Pāṭimokkha <https://www.dhammatalks.org/vinaya/bmc/Section0055.html#sigil_toc_id_172>`__
      - 　　　　誦波羅提木叉(四比丘以上)
