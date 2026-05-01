@@ -1347,6 +1347,86 @@
 
      - 其餘五種罪行懺悔方法如下：將上衣\ :small:`[鬱多羅僧]`\ 偏袒右肩（覆蓋左肩），走到另一位比丘面前，跪下，雙手合十舉過心口，重複懺悔罪行的公式。對其懺悔的比丘必須是屬於共同羯磨的僧團——即他不屬於其他羯磨的僧團，且未被共同羯磨的僧團舉罪——並且他本人不得犯有與懺悔者所懺悔的相同罪行，卻仍未懺悔該罪行。
 
+   * - If all the bhikkhus in a particular residence are guilty of the same offense, one of them must go to another residence to confess the offense and then return to let the remaining bhikkhus confess their offenses face-to-face with him, or one after another face-to-face with those who have already confessed. If this cannot be arranged, then on the day of the Pāṭimokkha recitation one of the bhikkhus should announce the fact of their common offense in the midst of the gathering. Only then may they go ahead with the recitation.
+
+     - 若某住處所有比丘皆犯同一罪行，則其中須有一人前往另一住處懺悔罪行，然後返回，讓其餘比丘對其當面懺悔罪行，或依次與已懺悔者當面懺悔罪行。若無法安排此事，則於念誦《波羅提木叉》之日，其中一位比丘應在聚集時公開其共同罪行，方可繼續誦戒。
+
+   * - As bhikkhus are supposed to be pure of unconfessed offenses before listening to the Pāṭimokkha, a bhikkhu who listens to the Pāṭimokkha knowing that he has an unconfessed offense must tell one of his neighboring bhikkhus of the offense when the recitation comes to the relevant rule. At the same time, he must promise that he will confess it when the recitation is over. Otherwise, if he tells no one, he incurs a dukkaṭa (`Mv.II.3.7`_).
+
+     - 比丘在聆聽《波羅提木叉》之前，應當清淨而無未懺悔的罪行。因此，若比丘明知自己有未懺悔的罪行，在聆聽《波羅提木叉》時，當誦讀到相關戒條時，必須告知鄰座比丘之一。同時，他必須承諾在誦戒結束時將懺悔之。否則，若他未告知任何人，犯《突吉羅》（\ `《大品》.二.3.7`_\ ）。
+
+   * - The Cullavagga (IV.14.30) gives a formula for confessing an offense face-to-face with another bhikkhu:
+     - `《小品》（四.14.30）`_\ 給了一個當面向另一位比丘懺悔罪行的公式：
+
+   * - .. container:: mx-4
+
+          *Ahaṁ āvuso itthannāmaṁ āpattiṁ āpanno. Taṁ paṭidesemi,*
+
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “Friend, I have fallen into an offense of such-and-such a name. I acknowledge it.”
+
+     - .. container:: mx-2
+
+          意思是，「朋友，我犯了某某罪，我承認懺悔之。」
+
+   * - The bhikkhu receiving the confession says,
+     - 接受懺悔的比丘說，
+
+   * - .. container:: mx-4
+
+          *Passasi?*
+
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “Do you see (the offense)?”
+
+     - .. container:: mx-2
+
+          意思是，「你見到（該罪）了嗎？」
+
+   * - The bhikkhu confessing the offense says,
+     - 懺悔的比丘說，
+
+   * - .. container:: mx-4
+
+          *Āma, passāmi,*
+
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “Yes, I see it.”
+
+     - .. container:: mx-2
+
+          意思是，「是的，我見到了。」
+
+   * - The bhikkhu receiving the confession then says,
+     - 接受懺悔的比丘接著說，
+
+   * - .. container:: mx-4
+
+          *Āyatiṁ saṁvareyyāsi,*
+
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “You should restrain yourself in the future.”
+
+     - .. container:: mx-2
+
+          意思是，「你以後應該克制自己。」
+
+.. _Mv.II.3.7: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.3.7
+.. _《大品》.二.3.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0138a06
+.. _《小品》（四.14.30）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0137a13
+
 (未完待續)
 
 
