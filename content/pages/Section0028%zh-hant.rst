@@ -1423,9 +1423,50 @@
 
           意思是，「你以後應該克制自己。」
 
+   * - MN 104 gives some variations on this formula. To begin with, it notes that if the bhikkhu confessing the offense is junior to the one receiving his confession, he should first arrange his upper robe over one shoulder, bow down to the senior bhikkhu, sit in a kneeling position with his hands palm-to-palm over his heart, and state his confession. At the conclusion of the formula, the senior bhikkhu should advise restraint by saying,
+
+     - `《中部》104經`_\ 給了一些關於此公式的變體。首先，它指出，如果懺悔的比丘比接受懺悔的比丘戒臘低，他應該先將上衣\ :small:`[鬱多羅僧]`\ 搭在一側肩膀上（偏袒右肩），向戒臘高的比丘頂禮，然後跪坐，雙手合十放在胸心口前，陳述他的懺悔。在公式的結論時，戒臘高的比丘應該勸誡他克制，說：
+
+   * - .. container:: mx-4
+
+          *Āyatiṁ saṁvaraṁ āpajjeyyāsi.*
+
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “You should achieve restraint in the future.”
+
+     - .. container:: mx-2
+
+          意思是，「你以後應該有所克制。」
+
+   * - The bhikkhu confessing the offense then replies,
+     - 懺悔罪行的比丘接著回答，
+
+   * - .. container:: mx-4
+
+          *Saṁvaraṁ āpajjissāmi.*
+
+     - 
+
+   * - .. container:: mx-2
+
+          which means, “I will achieve restraint.”
+
+     - .. container:: mx-2
+
+          意思是，「我將有所克制。」
+
+   * - The formula most generally used at present in Thailand is expanded from these patterns. Following MN 104, the confessant vows to exercise restraint at the end of the formula, but the vow is worded to follow the pattern set in Cv IV.14.30. Also, in his original confession, he includes the words “many” and “of various sorts” to qualify the word, “offenses.” This latter change is meant to streamline the confession. Rather than confessing each offense of a particular class separately, one gathers them into a single statement. As one is allowed to confess more offenses than one has actually committed, and as it is possible in some cases to commit offenses unknowingly, the current formula has been adopted to cover such unwitting offenses. In this context, the phrase, “I see,” in the confession means, “I see that I may have committed an offense unknowingly.” Thus it is not a lie.
+
+     - 目前泰國最常用的公式是在這些模式的基礎上擴展而來的。根據\ `《中部》104經`_\ ，懺悔者在公式結尾發誓要克制自己，但誓言的措辭遵循\ `《小品》 四.14.30`_ 的模式。此外，在他原本的懺悔中，他用「許多」和「各種各樣的」這兩個詞來限定「罪行」一詞。後一項改動旨在簡化懺悔。將它們合併成一份陳述，而非單獨懺悔某一類的每一個罪行。由於允許懺悔的罪行超過實際犯下的罪行，並且在某些情況下可能在不知情的情況下犯下罪行，目前的公式被採用來涵蓋了此類無意犯罪。在這種脈絡下，懺悔中的「我明白」的措辭意味著「我明白我可能在不知情的情況下犯下了罪行」。因此，這並非謊言。
+
 .. _Mv.II.3.7: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.3.7
 .. _《大品》.二.3.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0138a06
 .. _《小品》（四.14.30）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0137a13
+.. _《小品》 四.14.30: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0137a13
+.. _《中部》104經: https://sutra.mobi/chilin/zhong/content/104.html
 
 (未完待續)
 
