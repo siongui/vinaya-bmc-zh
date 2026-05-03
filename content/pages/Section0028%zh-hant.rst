@@ -1462,6 +1462,144 @@
 
      - 目前泰國最常用的公式是在這些模式的基礎上擴展而來的。根據\ `《中部》104經`_\ ，懺悔者在公式結尾發誓要克制自己，但誓言的措辭遵循\ `《小品》 四.14.30`_ 的模式。此外，在他原本的懺悔中，他用「許多」和「各種各樣的」這兩個詞來限定「罪行」一詞。後一項改動旨在簡化懺悔。將它們合併成一份陳述，而非單獨懺悔某一類的每一個罪行。由於允許懺悔的罪行超過實際犯下的罪行，並且在某些情況下可能在不知情的情況下犯下罪行，目前的公式被採用來涵蓋了此類無意犯罪。在這種脈絡下，懺悔中的「我明白」的措辭意味著「我明白我可能在不知情的情況下犯下了罪行」。因此，這並非謊言。
 
+   * - Because the formula is repeated by every bhikkhu before the recitation of the Pāṭimokkha, the procedure has become little more than a formality. The Vinaya-mukha thus recommends that a bhikkhu conscious of having committed a particular offense should mention it to the other bhikkhu in their own language before making use of the Pali formula.
+
+     - 由於每位比丘在誦《波羅提木叉》之前都要重複此公式，因此這項程序已淪為形式。《戒律入口》因此建議，意識到自己犯了某種罪行的比丘，在使用巴利公式之前，應用他們自己的語言告知另一位比丘。
+
+   * - If the bhikkhu making confession is junior to the one receiving the confession, the exchange is as follows (taking dukkaṭa offenses as an example):
+
+     - 如果懺悔的比丘戒臘比接受懺悔的比丘低，則替換如下（以《突吉羅》罪為例）：
+
+   * - .. container:: mx-4
+
+          Confessant: *Ahaṁ bhante sambahulā nānā-vatthukāyo dukkaṭāyo āpattiyo āpanno. Tā paṭidesemi.*
+
+     - .. container:: mx-4
+
+          懺悔者：\ *Ahaṁ bhante sambahulā nānā-vatthukāyo dukkaṭāyo āpattiyo āpanno. Tā paṭidesemi.*
+
+   * - .. container:: mx-4
+
+          Recipient: *Passasi āvuso?*
+
+     - .. container:: mx-4
+
+          接受者：\ *Passasi āvuso?*
+
+   * - .. container:: mx-4
+
+          C: *Āma bhante, passāmi.*
+
+     - .. container:: mx-4
+
+          懺：\ *Āma bhante, passāmi.*
+
+   * - .. container:: mx-4
+
+          R: *Āyatiṁ āvuso saṁvareyyāsi.*
+
+     - .. container:: mx-4
+
+          受：\ *Āyatiṁ āvuso saṁvareyyāsi.*
+
+   * - .. container:: mx-4
+
+          C: *Sādhu suṭṭhu bhante saṁvarissāmi. (Three times.)*
+
+     - .. container:: mx-4
+
+          懺：\ *Sādhu suṭṭhu bhante saṁvarissāmi. (三次)*
+
+   * - .. container:: mx-2
+
+          This last sentence means, *“Very well, venerable sir, I will be restrained,”* and is taken from the Commentary.
+
+     - .. container:: mx-2
+
+          最後這句話的意思是：「善哉，尊者，我會克制自己」，摘自《義註》。
+
+   * - If the bhikkhu making confession is senior to the other bhikkhu, the exchange is as follows:
+     - 如果懺悔的比丘戒臘比另一位比丘高，則替換如下：
+
+   * - .. container:: mx-4
+
+          C: *Ahaṁ āvuso sambahulā nānā-vatthukāyo dukkaṭāyo āpattiyo āpanno. Tā paṭidesemi.*
+
+     - .. container:: mx-4
+
+          懺：\ *Ahaṁ āvuso sambahulā nānā-vatthukāyo dukkaṭāyo āpattiyo āpanno. Tā paṭidesemi.*
+
+   * - .. container:: mx-4
+
+          R: *Passatha bhante?*
+
+     - .. container:: mx-4
+
+          受：\ *Passatha bhante?*
+
+   * - .. container:: mx-4
+
+          C: *Āma āvuso, passāmi.*
+
+     - .. container:: mx-4
+
+          懺：\ *Āma āvuso, passāmi.*
+
+   * - .. container:: mx-4
+
+          R: *Āyatiṁ bhante saṁvareyyātha.*
+
+     - .. container:: mx-4
+
+          受：\ *Āyatiṁ bhante saṁvareyyātha.*
+
+   * - .. container:: mx-4
+
+          C: *Sādhu suṭṭhu āvuso saṁvarissāmi. (Three times.)*
+
+     - .. container:: mx-4
+
+          懺：\ *Sādhu suṭṭhu āvuso saṁvarissāmi. (三次)*
+
+   * - .. container:: mx-2
+
+          For other categories of offenses, change *dukkaṭāyo* to
+
+     - .. container:: mx-2
+
+          對於其他類別的罪行，將 *dukkaṭāyo* 改為
+
+   * - .. container:: mx-4
+
+          *thullaccayāyo,*
+
+     - 
+
+   * - .. container:: mx-4
+
+          *nissaggiyāyo pācittiyāyo,*
+
+     - 
+
+   * - .. container:: mx-4
+
+          *pācittiyāyo,* or
+
+     - .. container:: mx-4
+
+          *pācittiyāyo,* 或
+
+
+   * - .. container:: mx-4
+
+          *dubbhāsitāyo,*
+
+     - 
+
+   * - as the case may be. In confessing dubbhāsita offenses, drop the word *nānā-vatthukāyo*, as there is only one rule in this class.
+
+     - 視情況而定。在懺悔《惡說》(dubbhāsita)罪時，省略「\ *nānā-vatthukāyo*\ 」一詞，因為此類別裡只有一條戒條。
+
 .. _Mv.II.3.7: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#Mv.II.3.7
 .. _《大品》.二.3.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0138a06
 .. _《小品》（四.14.30）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0137a13
