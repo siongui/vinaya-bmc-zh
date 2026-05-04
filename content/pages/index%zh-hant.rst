@@ -904,7 +904,7 @@
           VinsA.(pg. 391-413); VinlṬ.(pg. 2.0265-295)
 
    * - `\　　　Rebukes <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_25>`__
-     - 　　　訶責
+     - `\　　　訶責 <{filename}Section0028%zh-hant.rst#sigil_toc_id_25>`__
 
    * - `\　　　Verdicts <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_26>`__
      - 　　　判決

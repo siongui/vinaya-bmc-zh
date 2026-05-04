@@ -1589,7 +1589,6 @@
 
           *pācittiyāyo,* 或
 
-
    * - .. container:: mx-4
 
           *dubbhāsitāyo,*
@@ -1605,8 +1604,6 @@
 .. _《小品》（四.14.30）: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0137a13
 .. _《小品》 四.14.30: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0137a13
 .. _《中部》104經: https://sutra.mobi/chilin/zhong/content/104.html
-
-(未完待續)
 
 
 .. container:: has-text-centered
@@ -1627,5 +1624,53 @@
    * - **VIII. Pali formulae: Transaction Statements**
      - **八、巴利公式：羯磨文**
 
+   * - .. raw:: html
+
+          <span id="sigil_toc_id_25"></span>
+
+       .. container:: mx-2 is-italic has-text-weight-bold
+
+          Rebukes
+
+     - .. container:: mx-2 is-italic has-text-weight-bold
+
+          訶責
+
+   * - .. container:: mx-4 is-italic
+
+          `Sg 10`_: Agitating for a schism
+
+     - .. container:: mx-4
+
+          `《僧殘》十`_\：煽動破和合僧
+
+   * - .. container:: mx-2
+
+          Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu samaggassa saṅghassa bhedāya parakkamati. So taṁ vatthuṁ nappaṭinissajjati. Yadi saṅghassa pattakallaṁ, saṅgho Itthannāmaṁ bhikkhuṁ samanubhāseyya tassa vatthussa paṭinissaggāya. Esā ñatti.
+
+     - 
+
+   * - Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu samaggassa saṅghassa bhedāya parakkamati. So taṁ vatthuṁ nappaṭinissajjati. Saṅgho Itthannāmaṁ bhikkhuṁ samanubhāsati tassa vatthussa paṭinissaggāya. Yass’āyasmato khamati, Itthannāmassa bhikkhuno samanubhāsanā tassa vatthussa paṭinissaggāya, so tuṇh’assa. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Dutiyam-pi etam-atthaṁ vadāmi. Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu samaggassa saṅghassa bhedāya parakkamati. So taṁ vatthuṁ nappaṭinissajjati. Saṅgho Itthannāmaṁ bhikkhuṁ samanubhāsati tassa vatthussa paṭinissaggāya. Yass’āyasmato khamati, Itthannāmassa bhikkhuno samanubhāsanā tassa vatthussa paṭinissaggāya, so tuṇh’assa. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Tatiyam-pi etam-atthaṁ vadāmi… so bhāseyya.
+     - 
+
+   * - Samanubhaṭṭho saṅghena Itthannāmo bhikkhu tassa vatthussa paṭinissaggāya. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi.
+     - 
+
+   * - .. container:: mx-2
+
+          This means, *Venerable sirs, may the Community listen to me. This Bhikkhu (name) is agitating for a schism in a united Community. He does not relinquish that point. If the Community is ready, it should rebuke Bhikkhu (name) for the sake of relinquishing that point. This is the motion.*
+
+     - .. container:: mx-2
+
+          這個意思是，\ *諸位尊者，請僧團聽我說。這位比丘（姓名）正在和合的僧團裡煽動分裂，他不放棄這一點。如果僧團準備就緒，應該訶責這位比丘（姓名），讓他放棄這一點。這就是動議[表白]。*
+
+.. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
+.. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 
 (未完待續)
