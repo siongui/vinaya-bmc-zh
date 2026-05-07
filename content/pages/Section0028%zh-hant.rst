@@ -1640,7 +1640,7 @@
 
           `Sg 10`_: Agitating for a schism
 
-     - .. container:: mx-4
+     - .. container:: mx-4 is-italic
 
           `《僧殘》十`_\：煽動破和合僧
 
@@ -1686,7 +1686,7 @@
 
           `Sg 11`_: Following an agitator for a schism
 
-     - .. container:: mx-4
+     - .. container:: mx-4 is-italic
 
           `《僧殘》十一`_\：追隨煽動破和合僧者
 
@@ -1732,7 +1732,7 @@
 
           `Sg 12`_: Making oneself unadmonishable
 
-     - .. container:: mx-4
+     - .. container:: mx-4 is-italic
 
           `《僧殘》十二`_\：使自己不受勸誡
 
@@ -1754,11 +1754,79 @@
    * - Samanubhaṭṭho saṅghena Itthannāmo bhikkhu tassa vatthussa paṭinissaggāya. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi.
      - 
 
+   * - .. container:: mx-2
+
+          This means, *Venerable sirs, may the Community listen to me. This Bhikkhu (name), when legitimately admonished by the bhikkhus, makes himself unadmonishable. He does not relinquish that point. If the Community is ready, it should rebuke Bhikkhu (name) for the sake of relinquishing that point. This is the motion.*
+
+     - .. container:: mx-2
+
+          這個意思是，\ *諸位尊者，請僧團聽我說。這位比丘（姓名），當受到比丘們的正當勸誡時，使自己不受勸誡。他不放棄這一立場。如果僧團準備就緒，應該訶責比丘（姓名），以使其放棄這一立場。此為動議[表白]。*
+
+   * - *Venerable sirs, may the Community listen to me. This Bhikkhu (name), when legitimately admonished by the bhikkhus, makes himself unadmonishable. He does not relinquish that point. The Community rebukes Bhikkhu (name) for the sake of relinquishing that point. He to whom the rebuke of Bhikkhu (name) for the sake of relinquishing that point is agreeable should remain silent. He to whom it is not agreeable should speak.*
+
+     - *諸位尊者，請僧團聽我說。這位比丘（姓名），當受到比丘們的正當勸誡時，使自己不受勸誡。他不放棄這一立場。僧團為了使其放棄這一立場，訶責比丘（姓名）。凡同意為了使其放棄這一立場而訶責比丘（姓名）者，應保持沉默；凡不同意者，應發言。*
+
+   * - *A second time…. A third time I speak about this matter. Venerable sirs, may the Community listen to me…. He to whom it is not agreeable should speak.*
+
+     - *第二次……第三次，我談到此事。諸位尊者，請僧團聽我說……凡不同意者，應發言。*
+
+   * - *Bhikkhu (name) has been rebuked by the Community for the sake of relinquishing that point. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
+
+     - 為了使其放棄這一立場，比丘（姓名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。
+
+   * - .. container:: mx-4 is-italic
+
+          `Sg 13`_: Criticizing a banishment transaction
+
+     - .. container:: mx-4 is-italic
+
+          `《僧殘》十三`_\：批評驅出羯磨
+
+   * - .. container:: mx-2
+
+          Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu, saṅghena pabbājanīya-kammakato, bhikkhū chandagāmitā, dosagāmitā, mohagāmitā, bhayagāmitā pāpeti. So taṁ vatthuṁ nappaṭinissajjati. Yadi saṅghassa pattakallaṁ, saṅgho Itthannāmaṁ bhikkhuṁ samanubhāseyya tassa vatthussa paṭinissaggāya. Esā ñatti.
+
+     - 
+
+   * - Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu, saṅghena pabbājanīya-kammakato, bhikkhū chandagāmitā, dosagāmitā, mohagāmitā, bhayagāmitā pāpeti. So taṁ vatthuṁ nappaṭinissajjati. Saṅgho Itthannāmaṁ bhikkhuṁ samanubhāsati tassa vatthussa paṭinissaggāya. Yass’āyasmato khamati, Itthannāmassa bhikkhuno samanubhāsanā tassa vatthussa paṭinissaggāya, so tuṇh’assa. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Dutiyam-pi etam-atthaṁ vadāmi. Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu, saṅghena pabbājanīya-kammakato, bhikkhū chandagāmitā, dosagāmitā, mohagāmitā, bhayagāmitā pāpeti. So taṁ vatthuṁ nappaṭinissajjati. Saṅgho Itthannāmaṁ bhikkhuṁ samanubhāsati tassa vatthussa paṭinissaggāya. Yass’āyasmato khamati, Itthannāmassa bhikkhuno samanubhāsanā tassa vatthussa paṭinissaggāya, so tuṇh’assa. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Tatiyam-pi etam-atthaṁ vadāmi… so bhāseyya.
+     - 
+
+   * - Samanubhaṭṭho saṅghena Itthannāmo bhikkhu tassa vatthussa paṭinissaggāya. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi.
+     - 
+
+   * - .. container:: mx-2
+
+          This means, *Venerable sirs, may the Community listen to me. This Bhikkhu (name), on whom the Community has imposed a banishment transaction, defames the bhikkhus with a bias through desire, a bias through aversion, a bias through delusion, a bias through fear. He does not relinquish that point. If the Community is ready, it should rebuke Bhikkhu (name) for the sake of relinquishing that point. This is the motion.*
+
+     - .. container:: mx-2
+
+          這個意思是，\ *諸位尊者，請僧團聽我說。。這位比丘（姓名），被僧團施以驅出羯磨，卻透過貪欲的偏見、透過瞋恨的偏見、透過愚癡的偏見、透過恐懼的偏見而詆毀比丘。他不放棄這一立場。如果僧團準備就緒，應該訶責比丘（姓名），以使其放棄這一立場。此為動議[表白]。*
+
+   * - *Venerable sirs, may the Community listen to me. This Bhikkhu (name), on whom the Community has imposed a banishment transaction, defames the bhikkhus with a bias through desire, a bias through aversion, a bias through delusion, a bias through fear. He does not relinquish that point. The Community rebukes Bhikkhu (name) for the sake of relinquishing that point. He to whom the rebuke of Bhikkhu (name) for the sake of relinquishing that point is agreeable should remain silent. He to whom it is not agreeable should speak.*
+
+     - *諸位尊者，請僧團聽我說。這位比丘（姓名），被僧團施以驅出羯磨，卻透過貪欲的偏見、透過瞋恨的偏見、透過愚癡的偏見、透過恐懼的偏見而詆毀比丘。他不放棄這一立場。僧團為了使其放棄這一立場，訶責比丘（姓名）。凡同意為了使其放棄這一立場而訶責比丘（姓名）者，應保持沉默；凡不同意者，應發言。*
+
+   * - *A second time…. A third time I speak about this matter. Venerable sirs, may the Community listen to me…. He to whom it is not agreeable should speak.*
+
+     - *第二次……第三次，我談到此事。諸位尊者，請僧團聽我說……凡不同意者，應發言。*
+
+   * - *Bhikkhu (name) has been rebuked by the Community for the sake of relinquishing that point. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
+
+     - 為了使其放棄這一立場，比丘（姓名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。
+
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 .. _Sg 11: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11
 .. _《僧殘》十一: {filename}Section0011%zh-hant.rst#Sg11
 .. _Sg 12: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
 .. _《僧殘》十二: {filename}Section0011%zh-hant.rst#Sg12
+.. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
+.. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
 
 (未完待續)
