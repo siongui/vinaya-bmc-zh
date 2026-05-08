@@ -907,7 +907,7 @@
      - `\　　　訶責 <{filename}Section0028%zh-hant.rst#sigil_toc_id_25>`__
 
    * - `\　　　Verdicts <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_26>`__
-     - 　　　判決
+     - `\　　　判決 <{filename}Section0028%zh-hant.rst#sigil_toc_id_26>`__
 
    * - `\　　　Others <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_27>`__
      - 　　　其他

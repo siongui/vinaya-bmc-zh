@@ -1425,7 +1425,7 @@
 
    * - MN 104 gives some variations on this formula. To begin with, it notes that if the bhikkhu confessing the offense is junior to the one receiving his confession, he should first arrange his upper robe over one shoulder, bow down to the senior bhikkhu, sit in a kneeling position with his hands palm-to-palm over his heart, and state his confession. At the conclusion of the formula, the senior bhikkhu should advise restraint by saying,
 
-     - `《中部》104經`_\ 給了一些關於此公式的變體。首先，它指出，如果懺悔的比丘比接受懺悔的比丘戒臘低，他應該先將上衣\ :small:`[鬱多羅僧]`\ 搭在一側肩膀上（偏袒右肩），向戒臘高的比丘頂禮，然後跪坐，雙手合十放在胸心口前，陳述他的懺悔。在公式的結論時，戒臘高的比丘應該勸誡他克制，說：
+     - `《中部》104經`_\ 給了一些關於此公式的變體。首先，它指出，如果懺悔的比丘比接受懺悔的比丘戒臘低，他應該先將上衣\ :small:`[鬱多羅僧]`\ 搭在一側肩膀上（偏袒右肩），向戒臘高的比丘頂禮，然後跪坐，雙手合十放在心口前，陳述他的懺悔。在公式的結論時，戒臘高的比丘應該勸誡他克制，說：
 
    * - .. container:: mx-4
 
@@ -1876,5 +1876,51 @@
 .. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
 .. _Pc 68: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc68
 .. _《波逸提》六八: {filename}Section0022%zh-hant.rst#Pc68
+
+.. _sigil_toc_id_26:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_26"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2 is-italic has-text-weight-bold
+
+          Verdicts
+
+     - .. container:: mx-2 is-italic has-text-weight-bold
+
+          判決
+
+   * - .. container:: mx-4 is-italic
+
+          A\. A verdict of mindfulness
+
+     - .. container:: mx-4 is-italic
+
+          A\. 正念判決
+
+   * - .. container:: mx-2
+
+          To request this verdict, a bhikkhu should arrange his robe over one shoulder, approach the Community, bow down to the feet of the senior bhikkhus and, while kneeling with his hands palm-to-palm over his heart, say:
+
+     - .. container:: mx-2
+
+          請求此判決時，比丘應將其袈裟搭在一側肩上\ :small:`[偏袒右肩]`\ ，來到僧團面前，向上座比丘的腳頂禮，當跪下時，雙手合十放在心口前，說道：
+
+   * - .. container:: mx-2
+
+          Maṁ bhante bhikkhū amūlikāya sīla-vipattiyā anuddhaṁsenti. So’haṁ bhante sati-vepullappatto saṅghaṁ sati-vinayaṁ yācāmi.
+
+     - 
+
+   * - Maṁ bhante bhikkhū amūlikāya sīla-vipattiyā anuddhaṁsenti. So’haṁ sati-vepullappatto dutiyam-pi bhante saṅghaṁ sati-vinayaṁ yācāmi.
+     - 
+
+   * - Maṁ bhante bhikkhū amūlikāya sīla-vipattiyā anuddhaṁsenti. So’haṁ sati-vepullappatto tatiyam-pi bhante saṅghaṁ sati-vinayaṁ yācāmi.
+     - 
 
 (未完待續)
