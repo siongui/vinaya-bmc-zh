@@ -1820,6 +1820,52 @@
 
      - 為了使其放棄這一立場，比丘（姓名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。
 
+   * - .. container:: mx-4 is-italic
+
+          `Pc 68`_: Holding an evil view
+
+     - .. container:: mx-4 is-italic
+
+          `《波逸提》六八`_\：持邪見
+
+   * - .. container:: mx-2
+
+          Suṇātu me bhante saṅgho. Itthannāmassa bhikkhuno evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ, “Tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, yathā ye’me antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṁ antarāyāyā” ti. So taṁ diṭṭhiṁ nappaṭinissajjati. Yadi saṅghassa pattakallaṁ, saṅgho Itthannāmaṁ bhikkhuṁ samanubhāseyya tassā diṭṭhiyā paṭinissaggāya. Esā ñatti.
+
+     - 
+
+   * - Suṇātu me bhante saṅgho. Itthannāmassa bhikkhuno evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ, “Tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, yathā ye’me antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṁ antarāyāyā” ti. So taṁ diṭṭhiṁ nappaṭinissajjati. Saṅgho Itthannāmaṁ bhikkhuṁ samanubhāsati tassā diṭṭhiyā paṭinissaggāya. Yass’āyasmato khamati, Itthannāmassa bhikkhuno samanubhāsanā tassā diṭṭhiyā paṭinissaggāya, so tuṇh’assa. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Dutiyam-pi etam-atthaṁ vadāmi. Itthannāmassa bhikkhuno evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ, “Tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, yathā ye’me antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṁ antarāyāyā” ti. So taṁ diṭṭhiṁ nappaṭinissajjati. Saṅgho Itthannāmaṁ bhikkhuṁ samanubhāsati tassā diṭṭhiyā paṭinissaggāya. Yass’āyasmato khamati, Itthannāmassa bhikkhuno samanubhāsanā tassā diṭṭhiyā paṭinissaggāya, so tuṇh’assa. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Tatiyam-pi etam-atthaṁ vadāmi… so bhāseyya.
+     - 
+
+   * - Samanubhaṭṭho saṅghena Itthannāmo bhikkhu tassā diṭṭhiyā paṭinissaggāya. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi.
+     - 
+
+   * - .. container:: mx-2
+
+          This means, *Venerable sirs, may the Community listen to me. An evil viewpoint of this sort has arisen in Bhikkhu (name): “As I understand the Dhamma taught by the Blessed One, those acts the Blessed One says are obstructive, when engaged in are not genuine obstructions.” He does not relinquish that view. If the Community is ready, it should rebuke Bhikkhu (name) for the sake of relinquishing that view. This is the motion.*
+
+     - .. container:: mx-2
+
+          這個意思是，\ *諸位尊者，請僧團聽我說。比丘（名）了這樣一種邪見：「據我理解世尊所教導的佛法，世尊所說的那些障礙行為，去從事時並非真正的障礙。」他不放棄該見。如果僧團準備就緒，應該訶責比丘（姓名），以使其放棄該見。此為動議[表白]。*
+
+   * - *Venerable sirs, may the Community listen to me. An evil viewpoint of this sort has arisen in Bhikkhu (name): “As I understand the Dhamma taught by the Blessed One, those acts the Blessed One says are obstructive, when engaged in are not genuine obstructions.” He does not relinquish that view. The Community rebukes Bhikkhu (name) for the sake of relinquishing that view. He to whom the rebuke of Bhikkhu (name) for the sake of relinquishing that view is agreeable should remain silent. He to whom it is not agreeable should speak.*
+
+     - *諸位尊者，請僧團聽我說。比丘（名）了這樣一種邪見：「據我理解世尊所教導的佛法，世尊所說的那些障礙行為，去從事時並非真正的障礙。」他不放棄該見。僧團為了使其放棄該見，訶責比丘（名）。凡同意為了使其放棄該見而訶責比丘（名）者，應保持沉默；凡不同意者，應發言。*
+
+   * - *A second time…. A third time I speak about this matter. Venerable sirs, may the Community listen to me…. He to whom it is not agreeable should speak.*
+
+     - *第二次……第三次，我談到此事。諸位尊者，請僧團聽我說……凡不同意者，應發言。*
+
+   * - *Bhikkhu (name) has been rebuked by the Community for the sake of relinquishing that view. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
+
+     - 為了使其放棄該見，比丘（名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。
+
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 .. _Sg 11: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11
@@ -1828,5 +1874,7 @@
 .. _《僧殘》十二: {filename}Section0011%zh-hant.rst#Sg12
 .. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
 .. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
+.. _Pc 68: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc68
+.. _《波逸提》六八: {filename}Section0022%zh-hant.rst#Pc68
 
 (未完待續)
