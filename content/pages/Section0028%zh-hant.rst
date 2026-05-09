@@ -1923,4 +1923,67 @@
    * - Maṁ bhante bhikkhū amūlikāya sīla-vipattiyā anuddhaṁsenti. So’haṁ sati-vepullappatto tatiyam-pi bhante saṅghaṁ sati-vinayaṁ yācāmi.
      - 
 
+   * - .. container:: mx-2
+
+          This means, *Venerable sirs, bhikkhus have charged me groundlessly with a defect in virtue. I, having reached fullness of mindfulness, ask the Community for a verdict of mindfulness.*
+
+     - .. container:: mx-2
+
+          這個意思是，\ *諸位尊者，比丘們無端指責我戒行有缺陷。我，已達到正念圓滿，請求僧團正念判決。*
+
+   * - *Venerable sirs, bhikkhus have charged me groundlessly with a defect in virtue. I, having reached fullness of mindfulness, ask the Community a second time… a third time for a verdict of mindfulness.*
+
+     - *諸位尊者，比丘們無端指責我戒行有缺陷。我，已達到正念圓滿，第二次…第三次請求僧團正念判決。*
+
+   * - .. container:: mx-2
+
+          To give this verdict, an experienced and competent bhikkhu should inform the Community:
+
+     - .. container:: mx-2
+
+          要給予此判決，應該由一位經驗豐富且稱職的比丘告知僧團：
+
+   * - .. container:: mx-2
+
+          Suṇātu me bhante saṅgho. Bhikkhū Itthannāmaṁ bhikkhuṁ amūlikāya sīla-vipattiyā anuddaṁsenti. So sati-vepullappatto saṅghaṁ sati-vinayaṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho Itthannāmassa bhikkhuno sati-vepullappattassa sati-vinayaṁ dadeyya. Esā ñatti.
+
+     - 
+
+   * - Suṇātu me bhante saṅgho. Bhikkhū Itthannāmaṁ bhikkhuṁ amūlikāya sīla-vipattiyā anuddaṁsenti. So sati-vepullappatto saṅghaṁ sati-vinayaṁ yācati. Saṅgho Itthannāmassa bhikkhuno sati-vepullappattassa sati-vinayaṁ deti. Yass’āyasmato khamati, Itthannāmassa bhikkhuno sati-vepullappattassa sati-vinayassa dānaṁ, so tuṇh’assa. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Dutiyam-pi etam-atthaṁ vadāmi. Suṇātu me bhante saṅgho…. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Tatiyam-pi etam-atthaṁ vadāmi. Suṇātu me bhante saṅgho…. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Dinno saṅghena Itthannāmassa bhikkhuno sati-vepullappattassa sati-vinayo. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi. (`Cv.IV.4.10`_; `Cv.IV.14.27`_)
+     - Dinno saṅghena Itthannāmassa bhikkhuno sati-vepullappattassa sati-vinayo. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi. (`《小品》.四.4.10`_; `《小品》.四.14.27`_)
+
+   * - .. container:: mx-2
+
+          This means, *Venerable sirs, may the Community listen to me. Bhikkhus have charged Bhikkhu (name) groundlessly with a defect in virtue. He, having reached fullness of mindfulness, asks the Community for a verdict of mindfulness. If the Community is ready, it should grant Bhikkhu (name), who has reached fullness of mindfulness, a verdict of mindfulness. This is the motion.*
+
+     - .. container:: mx-2
+
+          這個意思是，\ *諸位尊者，請僧團聽我說。比丘們已無端指責比丘（名）戒行有缺陷。他，已達到正念圓滿，請求僧團正念判決。如果僧團準備就緒，應該准予已達到正念圓滿的比丘（名）正念判決。此為動議[表白]。*
+
+   * - *Venerable sirs, may the Community listen to me. Bhikkhus have charged Bhikkhu (name) groundlessly with a defect in virtue. He, having reached fullness of mindfulness, asks the Community for a verdict of mindfulness. The Community grants Bhikkhu (name), who has reached fullness of mindfulness, a verdict of mindfulness. He to whom the granting of a verdict of mindfulness to Bhikkhu (name), who has reached fullness of mindfulness, is agreeable should remain silent. He to whom it is not agreeable should speak.*
+
+     - *諸位尊者，請僧團聽我說。比丘們已無端指責比丘（名）戒行有缺陷。他，已達到正念圓滿，請求僧團正念判決。僧團准予已達到正念圓滿的比丘（名）正念判決。凡同意准予已達到正念圓滿的比丘（名）正念判決者，應保持沉默；凡不同意者，應發言。*
+
+   * - *A second time…. A third time I speak about this matter. Venerable sirs, may the Community listen to me…. He to whom it is not agreeable should speak.*
+
+     - *第二次……第三次，我談到此事。諸位尊者，請僧團聽我說……凡不同意者，應發言。*
+
+   * - *Bhikkhu (name), who has reached fullness of mindfulness, has been granted a verdict of mindfulness by the Community. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
+
+     - 已達到正念圓滿的比丘（名）已被僧團准予正念判決。僧團對此表示贊同，因此保持沉默。此事我如是持。
+
+.. _Cv.IV.4.10: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.4.10
+.. _《小品》.四.4.10: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0108a13
+.. _Cv.IV.14.27: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.27
+.. _《小品》.四.14.27: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0134a10
+
 (未完待續)
