@@ -1986,4 +1986,77 @@
 .. _Cv.IV.14.27: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.27
 .. _《小品》.四.14.27: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0134a10
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 is-italic
+
+          B\. A verdict of past insanity
+
+     - .. container:: mx-4 is-italic
+
+          B\. 不癡判決
+
+   * - .. container:: mx-2
+
+          To request this verdict, a bhikkhu should arrange his robe over one shoulder, approach the Community, bow down to the feet of the senior bhikkhus and, while kneeling with his hands palm-to-palm over his heart, say:
+
+     - .. container:: mx-2
+
+          請求此判決時，比丘應將其袈裟搭在一側肩上\ :small:`[偏袒右肩]`\ ，來到僧團面前，向上座比丘的腳頂禮，當跪下時，雙手合十放在心口前，說道：
+
+   * - .. container:: mx-2
+
+          Ahaṁ bhante ummattako ahosiṁ citta-vipariyāsakato. Tena me ummattakena citta-vipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsita-parikkantaṁ. Maṁ bhikkhū ummattakena citta-vipariyāsakatena ajjhāciṇṇena āpattiyā codenti, “Sarat’āyasmā evarūpiṁ āpattiṁ āpajjitāti.” Ty’āhaṁ evaṁ vadāmi, “Ahaṁ kho āvuso ummattako ahosiṁ citta-vipariyāsakato. Tena me ummattakena citta-vipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsita-parikkantaṁ. Nāhan’taṁ sarāmi. Mūḷhena me etaṁ katanti.” Evam-pi maṁ vuccamānā codent’eva, “Sarat’āyasmā evarūpiṁ āpattiṁ āpajjitāti.” So’haṁ bhante amūḷho saṅghaṁ amūḷha-vinayaṁ yācāmi.
+
+     - 
+
+   * - Ahaṁ bhante ummattako ahosiṁ…. So’haṁ amūḷho dutiyam-pi bhante saṅghaṁ amūḷha-vinayaṁ yācāmi.
+     - 
+
+   * - Ahaṁ bhante ummattako ahosiṁ…. So’haṁ bhante amūḷho tatiyam-pi bhante saṅghaṁ amūḷha-vinayaṁ yācāmi.
+     -
+
+   * - .. container:: mx-2
+
+          This means, *Venerable sirs, I have been mad, out of my mind. While I was mad, out of my mind, I committed much and prevaricated about much in a way that was unworthy of a contemplative. Bhikkhus charge me with an offense committed while I was mad, out of my mind: “Let the venerable one recall (§) having fallen into an offense of this sort.” I say to them, “Friends, I have been mad, out of my mind. While I was mad, out of my mind, I committed much and prevaricated about much in a way that was unworthy of a contemplative. I don’t recall that. It was done by me through insanity.” But even though I have told them this, they charge me as before: “Let the venerable one recall having fallen into an offense of this sort.” I, no longer insane, ask the Community for a verdict of past insanity.*
+
+     - .. container:: mx-2
+
+          這個意思是，\ *諸位尊者，我曾經處於瘋狂狀態，神智不清。在我瘋狂、神智不清之時，我犯下了許多罪行，也說了許多不實之言，有失一個沙門的身份。比丘們指責我瘋狂、神智不清時所犯的罪行：「尊者，請回想（§）曾犯下此類罪過。」我告訴他們：「朋友們，我曾處於瘋狂狀態，神智不清。在我瘋狂、神智不清之時，我犯下了許多罪行，也說了許多不實之言，有失一個沙門的身份。我不記得這件事了。那是我精神錯亂時做的事。」但即便我已經告訴他們這一點，他們仍像之前一樣指責我：「尊者，請回想（§）曾犯下此類罪過。」我已不再精神錯亂，請求僧團不癡判決。*
+
+   * - *Venerable sirs I have been mad, out of my mind… I, no longer insane, ask the Community a second time… a third time for a verdict of past insanity.*
+
+     - *諸位尊者，我曾經處於瘋狂狀態，神智不清…我，已不再精神錯亂，第二次…第三次請求僧團不癡判決。*
+
+   * - .. container:: mx-2
+
+          To give this verdict, an experienced and competent bhikkhu should inform the Community:
+
+     - .. container:: mx-2
+
+          要給予此判決，應該由一位經驗豐富且稱職的比丘告知僧團：
+
+   * - .. container:: mx-2
+
+          Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu ummattako ahosi citta-vipariyāsakato. Tena ummattakena citta-vipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsita-parikkantaṁ. Taṁ bhikkhū ummattakena citta-vipariyāsakatena ajjhāciṇṇena āpattiyā codenti, “Sarat’āyasmā evarūpiṁ āpattiṁ āpajjitāti.” So evaṁ vadeti, “Ahaṁ kho āvuso ummattako ahosiṁ citta-vipariyāsakato. Tena me ummattakena citta-vipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsita-parikkantaṁ. Nāhan’taṁ sarāmi, mūḷhena me etaṁ katanti.” Evam-pi naṁ vuccamānā codent’eva, “Sarat’āyasmā evarūpiṁ āpattiṁ āpajjitāti.” So amūḷho saṅghaṁ amūḷha-vinayaṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho Itthannāmassa bhikkhuno amūḷha-vinayaṁ dadeyya. Esā ñatti.
+     - 
+
+   * - Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu ummattako ahosi citta-vipariyāsakato, tena ummattakena citta-vipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsita-parikkantaṁ. Taṁ bhikkhū ummattakena citta-vipariyāsakatena ajjhāciṇṇena āpattiyā codenti, “Sarat’āyasmā evarūpiṁ āpattiṁ āpajjitāti.” So evaṁ vadeti, “Ahaṁ kho āvuso ummattako ahosiṁ citta-vipariyāsakato. Tena me ummattakena citta-vipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsita-parikkantaṁ. Nāhan’taṁ sarāmi. Mūḷhena me etaṁ katanti.” Evam-pi naṁ vuccamānā codent’eva, “Sarat’āyasmā evarūpiṁ āpattiṁ āpajjitāti.” So amūḷho saṅghaṁ amūḷha-vinayaṁ yācati. Saṅgho Itthannāmassa bhikkhuno amūḷhassa amūḷha-vinayaṁ deti. Yass’āyasmato khamati, Itthannāmassa bhikkhuno amūḷhassa amūḷha-vinayassa dānaṁ, so tuṇh’assa. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Dutiyam-pi etam-atthaṁ vadāmi. Suṇātu me bhante saṅgho…. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Tatiyam-pi etam-atthaṁ vadāmi. Suṇātu me bhante saṅgho…. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Dinno saṅghena Itthannāmassa bhikkhuno amūḷhassa amūḷha-vinayo. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi. (Cv. IV.5.2; `Cv.IV.14.28`_)
+     - Dinno saṅghena Itthannāmassa bhikkhuno amūḷhassa amūḷha-vinayo. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi. (`《小品》.四.5.2`_; `《小品》.四.14.28`_)
+
+.. _Cv.IV.14.28: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.28
+.. _《小品》.四.5.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0110a10
+.. _《小品》.四.14.28: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0135a11
+
 (未完待續)
