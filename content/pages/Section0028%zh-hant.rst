@@ -2079,4 +2079,74 @@
 .. _《小品》.四.5.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0110a10
 .. _《小品》.四.14.28: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0135a11
 
+.. _sigil_toc_id_27:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_27"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2 is-italic has-text-weight-bold
+
+          Others
+
+     - .. container:: mx-2 is-italic has-text-weight-bold
+
+          其他
+
+   * - .. container:: mx-4 is-italic
+
+          `NP 2`_: Authorization to be apart from one’s triple robe
+
+     - .. container:: mx-4 is-italic
+
+          `《捨墮》二`_\：授權與三衣分離
+
+   * - .. container:: mx-2
+
+          To request this authorization, a bhikkhu should arrange his robe over one shoulder, approach the Community, bow down to the feet of the senior bhikkhus and, while kneeling with his hands palm-to-palm over his heart, say:
+
+     - .. container:: mx-2
+
+          請求此授權時，比丘應將其袈裟搭在一側肩上\ :small:`[偏袒右肩]`\ ，來到僧團面前，向上座比丘的腳頂禮，當跪下時，雙手合十放在心口前，說道：
+
+   * - .. container:: mx-2
+
+          Ahaṁ bhante gilāno. Na sakkomi ticīvaramādāya pakkamituṁ. So’ham bhante saṅghaṁ ticīvarena avippavāsa-sammatiṁ yācāmi. (three times)
+
+     - .. container:: mx-2
+
+          Ahaṁ bhante gilāno. Na sakkomi ticīvaramādāya pakkamituṁ. So’ham bhante saṅghaṁ ticīvarena avippavāsa-sammatiṁ yācāmi. (三次)
+
+   * - .. container:: mx-2
+
+          This means, *Venerable sirs, I am ill. I am not able to leave taking my triple robe along. I ask the Community for an authorization (declaring me as) not dwelling apart from the triple robe.*
+
+     - .. container:: mx-2
+
+          這個意思是，\ *諸位尊者，我有病。我無法帶著我的三衣離開。我請求僧團授權（聲明）我不住與三衣分離。*
+
+   * - .. container:: mx-2
+
+          To give this authorization, an experienced and competent bhikkhu should inform the Community:
+
+     - .. container:: mx-2
+
+          要給予此授權，應該由一位經驗豐富且稱職的比丘告知僧團：
+
+   * - .. container:: mx-2
+
+          Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu gilāno. Na sakkoti ticīvaramādāya pakkamituṁ. So saṅghaṁ ticīvarena avippavāsa-sammatiṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho Itthannāmassa bhikkhuno ticīvarena avippavāsa-sammatiṁ dadeyya. Esā ñatti.
+
+     - 
+
+   * - Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu gilāno. Na sakkoti ticīvaramādāya pakkamituṁ. So saṅghaṁ ticīvarena avippavāsa-sammatiṁ yācati. Saṅgho Itthannāmassa bhikkhuno ticīvarena avippavāsa-sammatiṁ deti. Yass’āyasmato khamati, Itthannāmassa bhikkhuno ticīvarena avippavāsa-sammatiyā dānaṁ, so tuṇh’assa. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Dinnā saṅghena Itthannāmassa bhikkhuno ticīvarena avippavāsa-sammati. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi.
+     - 
+
 (未完待續)

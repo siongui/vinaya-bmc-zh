@@ -910,7 +910,7 @@
      - `\　　　判決 <{filename}Section0028%zh-hant.rst#sigil_toc_id_26>`__
 
    * - `\　　　Others <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_27>`__
-     - 　　　其他
+     - `\　　　其他 <{filename}Section0028%zh-hant.rst#sigil_toc_id_27>`__
 
    * - `\　　IX. Thullaccaya offenses <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIX>`__
      - 　　九、偷蘭遮罪
