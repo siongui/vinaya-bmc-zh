@@ -2055,6 +2055,26 @@
    * - Dinno saṅghena Itthannāmassa bhikkhuno amūḷhassa amūḷha-vinayo. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi. (Cv. IV.5.2; `Cv.IV.14.28`_)
      - Dinno saṅghena Itthannāmassa bhikkhuno amūḷhassa amūḷha-vinayo. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi. (`《小品》.四.5.2`_; `《小品》.四.14.28`_)
 
+   * - .. container:: mx-2
+
+          This means, *Venerable sirs, may the Community listen to me. This Bhikkhu (name) has been mad, out of his mind. While he was mad, out of his mind, he committed much and prevaricated about much in a way that was unworthy of a contemplative. Bhikkhus charge him with an offense committed while he was mad, out of his mind: “Let the venerable one recall having fallen into an offense of this sort.” He says to them, “Friends, I have been mad, out of my mind. While I was mad, out of my mind, I committed much and prevaricated about much in a way that was unworthy of a contemplative. I don’t recall that. It was done by me through insanity.” But even though he has told them this, they charge him as before: “Let the venerable one recall having fallen into an offense of this sort.” He, no longer insane, asks the Community for a verdict of past insanity. If the Community is ready, it should grant Bhikkhu (name), who is no longer insane, a verdict of past insanity. This is the motion.*
+
+     - .. container:: mx-2
+
+          這個意思是，\ *諸位尊者，請僧團聽我說。比丘（名）曾經處於瘋狂狀態，神智不清。在他瘋狂、神智不清之時，他犯下了許多罪行，也說了許多不實之言，有失一個沙門的身份。比丘們指責他瘋狂、神智不清時所犯的罪行：「尊者，請回想曾犯下此類罪過。」他告訴他們：「朋友們，我曾處於瘋狂狀態，神智不清。在我瘋狂、神智不清之時，我犯下了許多罪行，也說了許多不實之言，有失一個沙門的身份。我不記得這件事了。那是我精神錯亂時做的事。」但即便他已經告訴他們這一點，他們仍像之前一樣指責他：「尊者，請回想曾犯下此類罪過。」他，已不再精神錯亂，請求僧團正念判決。如果僧團準備就緒，應該准予已不再精神錯亂的比丘（名）不癡判決。此為動議[表白]。*
+
+   * - *Venerable sirs, may the Community listen to me. This Bhikkhu (name) has been mad, out of his mind. While he was mad, out of his mind, he committed much and prevaricated about much in a way that was unworthy of a contemplative…. He, no longer insane, asks the Community for a verdict of past insanity. The Community grants Bhikkhu (name), who is no longer insane, a verdict of past insanity. He to whom the granting of a verdict of past insanity to Bhikkhu (name), who is no longer insane, is agreeable should remain silent. He to whom it is not agreeable should speak.*
+
+     - *諸位尊者，請僧團聽我說。比丘（名）曾經處於瘋狂狀態，神智不清。在他瘋狂、神智不清之時，他犯下了許多罪行，也說了許多不實之言，有失一個沙門的身份…。他，已不再精神錯亂，請求僧團不癡判決。僧團准予已不再精神錯亂的比丘（名）不癡判決。凡同意准予已不再精神錯亂的比丘（名）不癡判決者，應保持沉默；凡不同意者，應發言。*
+
+   * - *A second time…. A third time I speak about this matter. Venerable sirs, may the Community listen to me…. He to whom it is not agreeable should speak.*
+
+     - *第二次……第三次，我談到此事。諸位尊者，請僧團聽我說……凡不同意者，應發言。*
+
+   * - *Bhikkhu (name), who is no longer insane, has been granted a verdict of past insanity by the Community. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
+
+     - 已不再精神錯亂的比丘（名）已被僧團准予不癡判決。僧團對此表示贊同，因此保持沉默。此事我如是持。
+
 .. _Cv.IV.14.28: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.28
 .. _《小品》.四.5.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0110a10
 .. _《小品》.四.14.28: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0135a11
