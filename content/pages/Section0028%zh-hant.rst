@@ -1680,7 +1680,7 @@
 
    * - *Bhikkhu (name) has been rebuked by the Community for the sake of relinquishing that point. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
 
-     - 為了使其放棄這一立場，比丘（姓名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。
+     - *為了使其放棄這一立場，比丘（姓名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。*
 
    * - .. container:: mx-4 is-italic
 
@@ -1726,7 +1726,7 @@
 
    * - *Bhikkhu (name) and Bhikkhu (name) have been rebuked by the Community for the sake of relinquishing that point. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
 
-     - 為了使其放棄這一立場，比丘（姓名）和比丘（姓名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。
+     - *為了使其放棄這一立場，比丘（姓名）和比丘（姓名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。*
 
    * - .. container:: mx-4 is-italic
 
@@ -1772,7 +1772,7 @@
 
    * - *Bhikkhu (name) has been rebuked by the Community for the sake of relinquishing that point. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
 
-     - 為了使其放棄這一立場，比丘（姓名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。
+     - *為了使其放棄這一立場，比丘（姓名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。*
 
    * - .. container:: mx-4 is-italic
 
@@ -1818,7 +1818,7 @@
 
    * - *Bhikkhu (name) has been rebuked by the Community for the sake of relinquishing that point. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
 
-     - 為了使其放棄這一立場，比丘（姓名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。
+     - *為了使其放棄這一立場，比丘（姓名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。*
 
    * - .. container:: mx-4 is-italic
 
@@ -1864,7 +1864,7 @@
 
    * - *Bhikkhu (name) has been rebuked by the Community for the sake of relinquishing that view. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
 
-     - 為了使其放棄該見，比丘（名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。
+     - *為了使其放棄該見，比丘（名）已受到僧團的訶責。僧團對此表示贊同，因此保持沉默。此事我如是持。*
 
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
@@ -1979,7 +1979,7 @@
 
    * - *Bhikkhu (name), who has reached fullness of mindfulness, has been granted a verdict of mindfulness by the Community. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
 
-     - 已達到正念圓滿的比丘（名）已被僧團准予正念判決。僧團對此表示贊同，因此保持沉默。此事我如是持。
+     - *已達到正念圓滿的比丘（名）已被僧團准予正念判決。僧團對此表示贊同，因此保持沉默。此事我如是持。*
 
 .. _Cv.IV.4.10: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.4.10
 .. _《小品》.四.4.10: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0108a13
@@ -2073,7 +2073,7 @@
 
    * - *Bhikkhu (name), who is no longer insane, has been granted a verdict of past insanity by the Community. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
 
-     - 已不再精神錯亂的比丘（名）已被僧團准予不癡判決。僧團對此表示贊同，因此保持沉默。此事我如是持。
+     - *已不再精神錯亂的比丘（名）已被僧團准予不癡判決。僧團對此表示贊同，因此保持沉默。此事我如是持。*
 
 .. _Cv.IV.14.28: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.28
 .. _《小品》.四.5.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/#0110a10
@@ -2148,5 +2148,64 @@
 
    * - Dinnā saṅghena Itthannāmassa bhikkhuno ticīvarena avippavāsa-sammati. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi.
      - 
+
+   * - .. container:: mx-2
+
+          This means, *Venerable sirs, may the Community listen to me. This Bhikkhu (name), is ill. He is not able to leave taking his triple robe along. He asks the Community for an authorization (declaring him as) not dwelling apart from the triple robe. If the Community is ready, it should grant Bhikkhu (name) an authorization (declaring him as) not dwelling apart from the triple robe. This is the motion.*
+
+     - .. container:: mx-2
+
+          這個意思是，\ *諸位尊者，請僧團聽我說。這位比丘（名）有病。他無法攜帶三衣離開。他請求僧團授權（聲明他為）不住與三衣分離。如果僧團準備就緒，應該准予比丘（名）的授權（聲明他為）不住與三衣分離。此為動議[表白]。*
+
+   * - *Venerable sirs, may the Community listen to me. This Bhikkhu (name) is ill. He is not able to leave taking his triple robe along. He asks the Community for an authorization (declaring him as) not dwelling apart from the triple robe. The Community is granting Bhikkhu (name) an authorization (declaring him as) not dwelling apart from the triple robe. He to whom the granting of an authorization (declaring him as) not dwelling apart from the triple robe to Bhikkhu (name) is agreeable should remain silent. He to whom it is not agreeable should speak.*
+
+     - *諸位尊者，請僧團聽我說。這位比丘（名）有病。他無法攜帶三衣離開。僧團正准予比丘（名）授權（聲明他為）不住與三衣分離。凡同意准予授權比丘（名）（聲明他為）不住與三衣分離者，應保持沉默；凡不同意者，應發言。*
+
+   * - *Bhikkhu (name) has been granted by the Community an authorization (declaring him as) not dwelling apart from the triple robe. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
+
+     - *比丘（名）已被僧團准予授權（聲明他為）不住與三衣分離。僧團對此表示贊同，因此保持沉默。此事我如是持。*
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 is-italic
+
+          `Pc 12`_: Evasion
+
+     - .. container:: mx-4 is-italic
+
+          `《波逸提》十二`_\：迴避
+
+   * - .. container:: mx-2
+
+          Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu saṅghamajjhe āpattiyā anuyuñjiyamāno aññenaññaṁ paṭicarati. Yadi saṅghassa pattakallaṁ, saṅgho Itthannāmassa bhikkhuno aññavādakaṁ ropeyya. Esā ñatti.
+
+     - 
+
+   * - Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu saṅghamajjhe āpattiyā anuyuñjiyamāno aññenaññaṁ paṭicarati. Saṅgho Itthannāmassa bhikkhuno aññavādakaṁ ropeti. Yass’āyasmato khamati, Itthannāmassa bhikkhuno aññavādakassa ropanā, so tuṇh’assa. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Ropitaṁ saṅghena Itthannāmassa bhikkhuno aññavādakaṁ. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi.
+     - 
+
+   * - .. container:: mx-2
+
+          This means, *Venerable sirs, may the Community listen to me. This Bhikkhu (name), when questioned in the midst of the Community about an offense, evades one question with another. If the Community is ready, it should make public Bhikkhu (name)’s evasive speech. This is the motion.*
+
+     - .. container:: mx-2
+
+          這個意思是，\ *諸位尊者，請僧團聽我說。這位比丘（名）在僧團中被問及罪行時，用另一個問題來迴避問題。如果僧團準備就緒，應該公開這位比丘（名）的迴避之言。此為動議[表白]。*
+
+   * - *Venerable sirs, may the Community listen to me. This Bhikkhu (name), when questioned in the midst of the Community about an offense, evades one question with another. The Community makes public Bhikkhu (name)’s evasive speech. He to whom the making public of Bhikkhu (name)’s evasive speech is agreeable should remain silent. He to whom it is not agreeable should speak.*
+
+     - *諸位尊者，請僧團聽我說。這位比丘（名）在僧團中被問及罪行時，用另一個問題來迴避問題。僧團公開這位比丘（名）的迴避之言。凡同意公開這位比丘（名）的迴避之言者，應保持沉默；凡不同意者，應發言。*
+
+   * - *Bhikkhu (name)’s evasive speech has been made public by the Community. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
+
+     - *比丘（名）的迴避之言已被僧團公開。僧團對此表示贊同，因此保持沉默。此事我如是持。*
+
+.. _Pc 12: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc12
+.. _《波逸提》十二: {filename}Section0017%zh-hant.rst#Pc12
 
 (未完待續)
