@@ -2208,4 +2208,89 @@
 .. _Pc 12: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc12
 .. _《波逸提》十二: {filename}Section0017%zh-hant.rst#Pc12
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 is-italic
+
+          `Pc 12`_: Frustrating the Community
+
+     - .. container:: mx-4 is-italic
+
+          `《波逸提》十二`_\：挫折僧團
+
+   * - .. container:: mx-2
+
+          Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu saṅghamajjhe āpattiyā anuyuñjiyamāno tuṇhībhūto saṅghaṁ viheseti. Yadi saṅghassa pattakallaṁ, saṅgho Itthannāmassa bhikkhuno vihesakaṁ ropeyya. Esā ñatti.
+
+     - 
+
+   * - Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu saṅghamajjhe āpattiyā anuyuñjiyamāno tuṇhībhūto saṅghaṁ viheseti. Saṅgho Itthannāmassa bhikkhuno vihesakaṁ ropeti. Yass’āyasmato khamati, Itthannāmassa bhikkhuno vihesakassa ropanā, so tuṇh’assa. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Ropitaṁ saṅghena Itthannāmassa bhikkhuno vihesakaṁ. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi.
+     - 
+
+   * - .. container:: mx-2
+
+          This means, *Venerable sirs, may the Community listen to me. This Bhikkhu (name), when questioned in the midst of the Community about an offense, frustrates the Community by remaining silent. If the Community is ready, it should make public Bhikkhu (name)’s act of causing frustration. This is the motion.*
+
+     - .. container:: mx-2
+
+          這個意思是，\ *諸位尊者，請僧團聽我說。這位比丘（名）在僧團中被問及罪行時，藉由保持沉默來挫折僧團。如果僧團準備就緒，應該公開這位比丘（名）造成挫折的行為。此為動議[表白]。*
+
+   * - *Venerable sirs, may the Community listen to me. This Bhikkhu (name), when questioned in the midst of the Community about an offense, frustrates the Community by remaining silent. The Community makes public Bhikkhu (name)’s act of causing frustration. He to whom the making public of Bhikkhu (name)’s act of causing frustration is agreeable should remain silent. He to whom it is not agreeable should speak.*
+
+     - *諸位尊者，請僧團聽我說。這位比丘（名）在僧團中被問及罪行時，藉由保持沉默來挫折僧團。僧團公開這位比丘（名）造成挫折的行為。凡同意公開這位比丘（名）造成挫折的行為者，應保持沉默；凡不同意者，應發言。*
+
+   * - *Bhikkhu (name)’s act of causing frustration has been made public by the Community. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
+
+     - *比丘（名）造成挫折的行為已被僧團公開。僧團對此表示贊同，因此保持沉默。此事我如是持。*
+
+   * - .. container:: mx-4 is-italic
+
+          `Pc 73`_: Deceit
+
+     - .. container:: mx-4 is-italic
+
+          `《波逸提》七三`_\：欺騙
+
+   * - .. container:: mx-2
+
+          Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu pāṭimokkhe uddissamāne na sādhukaṁ aṭṭhikatvā manasikaroti. Yadi saṅghassa pattakallaṁ, saṅgho Itthannāmassa bhikkhuno mohaṁ āropeyya. Esā ñatti.
+
+     - 
+
+   * - Suṇātu me bhante saṅgho. Ayaṁ Itthannāmo bhikkhu pāṭimokkhe uddissamāne na sādhukaṁ aṭṭhikatvā manasikaroti. Saṅgho Itthannāmassa bhikkhuno mohaṁ āropeti. Yass’āyasmato khamati, Itthannāmassa bhikkhuno mohassa āropanā, so tuṇh’assa. Yassa nakkhamati, so bhāseyya.
+     - 
+
+   * - Āropito saṅghena Itthannāmassa bhikkhuno moho. Khamati saṅghassa, tasmā tuṇhī. Evam-etaṁ dhārayāmi.
+     - 
+
+   * - .. container:: mx-2
+
+          This means, *Venerable sirs, may the Community listen to me. This Bhikkhu (name), when the Pāṭimokkha is being recited, does not pay attention, properly taking it to heart. If the Community is ready, it should expose Bhikkhu (name)’s deceit. This is the motion.*
+
+     - .. container:: mx-2
+
+          這個意思是，\ *諸位尊者，請僧團聽我說。這位比丘（名），在誦念《波羅提木叉》時，並未認真聆聽，未真正把它銘記於心。如果僧團準備就緒，應該揭露這位比丘（名）的欺騙行為。此為動議[表白]。*
+
+   * - *Venerable sirs, may the Community listen to me. This Bhikkhu (name), when the Pāṭimokkha is being recited, does not pay attention, properly taking it to heart. The Community exposes Bhikkhu (name)’s deceit. He to whom the exposing of Bhikkhu (name)’s deceit is agreeable should remain silent. He to whom it is not agreeable should speak.*
+
+     - *諸位尊者，請僧團聽我說。這位比丘（名），在誦念《波羅提木叉》時，並未認真聆聽，未真正把它銘記於心。僧團揭露比丘（名）的欺騙行為。凡同意揭露比丘（名）的欺騙行為者，應保持沉默；凡不同意者，應發言。*
+
+   * - *Bhikkhu (name)’s deceit has been exposed by the Community. This is agreeable to the Community, therefore it is silent. Thus do I hold it.*
+
+     - *比丘（名）的欺騙行為者已被僧團揭露。僧團對此表示贊同，因此保持沉默。此事我如是持。*
+
+.. _Pc 73: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc73
+.. _《波逸提》七三: {filename}Section0023%zh-hant.rst#Pc73
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
 (未完待續)
