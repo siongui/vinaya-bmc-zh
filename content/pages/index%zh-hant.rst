@@ -913,13 +913,13 @@
      - `\　　　其他 <{filename}Section0028%zh-hant.rst#sigil_toc_id_27>`__
 
    * - `\　　IX. Thullaccaya offenses <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIX>`__
-     - 　　九、偷蘭遮罪
+     - `\　　九、《偷蘭遮》罪 <{filename}Section0028%zh-hant.rst#appendixIX>`__
 
    * - `\　　　Thullaccayas in the Sutta Vibhaṅga <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_28>`__
-     - 　　　經分別裡的偷蘭遮罪
+     - 　　　《經分別》裡的《偷蘭遮》罪
 
    * - `\　　　Thullaccayas in the Khandhakas <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_29>`__
-     - 　　　犍度裡的偷蘭遮罪
+     - 　　　《犍度》裡的《偷蘭遮》罪
 
    * - `\　　X. A pupil’s duties as attendant to his mentor <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX>`__
      - 　　十、弟子作為導師侍者的職責

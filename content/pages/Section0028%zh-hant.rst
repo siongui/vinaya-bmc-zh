@@ -2293,4 +2293,26 @@
    \*    \*    \*
 
 
+.. _appendixIX:
+
+.. raw:: html
+
+   <span id="appendixIX"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: has-text-centered
+
+          **IX. Thullaccaya offenses**
+
+     - .. container:: has-text-centered
+
+          **九、《偷蘭遮》罪**
+
+   * - Rules entailing thullaccaya offenses are found in the Sutta Vibhaṅga as derivatives from pārājika and saṅghādisesa rules; in the Khandhakas, as stand-alone rules. The fact that they are scattered throughout the Canon with no special arrangement or section of their own makes it difficult to determine whether one has committed an offense of this class. To lessen this difficulty, they are gathered here. For thullaccayas in the Sutta Vibhaṅga, I have provided summaries in my own words. For those in the Khandhakas, I have given the rules in their original form, arranging them in the order in which they are found in BMC2.
+
+     - 《經分別》中收錄了與《偷蘭遮》相關的戒條，這些戒條衍生自於《波羅夷》和《僧殘》的戒條；《犍度》中的收錄則為獨立的戒條。由於這些戒條散見於整個《聖典》，沒有專門的章節或安排，因此難以確定是否犯了這類罪行。為了減輕這種困難，在此將其收集起來。對於《經分別》中的《偷蘭遮》，我用自己的語言提供了摘要。對於《犍度》中的《偷蘭遮》，我則提供了戒條的原文，並按照它們在《佛教比丘戒律 第二冊》中的順序排列。
+
 (未完待續)
