@@ -2315,4 +2315,68 @@
 
      - 《經分別》中收錄了與《偷蘭遮》相關的戒條，這些戒條衍生自於《波羅夷》和《僧殘》的戒條；《犍度》中的收錄則為獨立的戒條。由於這些戒條散見於整個《聖典》，沒有專門的章節或安排，因此難以確定是否犯了這類罪行。為了減輕這種困難，在此將其收集起來。對於《經分別》中的《偷蘭遮》，我用自己的語言提供了摘要。對於《犍度》中的《偷蘭遮》，我則提供了戒條的原文，並按照它們在《佛教比丘戒律 第二冊》中的順序排列。
 
+.. _sigil_toc_id_28:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_28"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2 is-italic
+
+          **Thullaccayas in the Sutta Vibhaṅga**
+
+     - .. container:: mx-2 is-italic
+
+          **《經分別》裡的《偷蘭遮》**
+
+   * - .. container:: mx-4 is-italic
+
+          Under `Pr 1`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《波羅夷》一`_\ 之下：
+
+   * - .. container:: mx-2
+
+          A bhikkhu inserts his penis into a wound on a corpse: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          比丘將陰莖插入屍體的傷口：《偷蘭遮》罪。
+
+   * - A bhikkhu attempts intercourse with the decomposed mouth, anus, or genitals of a corpse: a thullaccaya offense.
+     - 比丘試圖與屍體的腐爛的嘴、肛門或生殖器性交：《偷蘭遮》罪。
+
+   * - .. container:: mx-4 is-italic
+
+          Under `Pr 2`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《波羅夷》二`_\ 之下：
+
+   * - .. container:: mx-2
+
+          A bhikkhu steals an article worth more than one māsaka but less than five: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          比丘偷竊價值超過一摩沙迦但不足五摩沙迦的物品：《偷蘭遮》罪。
+
+   * - A bhikkhu gets an accomplice to agree to steal an article worth at least five māsakas: a thullaccaya offense.
+     - 比丘使同夥同意偷竊價值至少五摩沙迦的物品：《偷蘭遮》罪。
+
+   * - A bhikkhu performs any of the following steps in stealing an article worth at least five māsakas, defined by what constitutes moving the article:
+     - 比丘在偷竊價值至少五摩沙迦的物品時，執行了以下任何一種步驟，比丘執行以下任何步驟，這些步驟由什麼構成移動物品來定義：
+
+.. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
+.. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
+.. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
+.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
+
 (未完待續)
