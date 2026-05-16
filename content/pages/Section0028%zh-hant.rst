@@ -2374,6 +2374,94 @@
    * - A bhikkhu performs any of the following steps in stealing an article worth at least five māsakas, defined by what constitutes moving the article:
      - 比丘在偷竊價值至少五摩沙迦的物品時，執行了以下任何一種步驟，比丘執行以下任何步驟，這些步驟由什麼構成移動物品來定義：
 
+   * - .. container:: mx-2
+
+          *Moving the object from its place:* Making the object budge without fully moving it from its place: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          *將物體從其所在位置移動：*\ 挪動物體而不將其完全從其所在位置移開：《偷蘭遮》罪。
+
+   * - .. container:: mx-2
+
+          *“Cutting off” a fistful:* Making the object budge without fully cutting off a fistful: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          *「切掉」一把：*\ 挪動物體而不完全切掉一把：《偷蘭遮》罪。
+
+   * - .. container:: mx-2
+
+          *Sticking a vessel into a pool of liquid or pile of objects and causing some of the pool or pile to enter the vessel:* Making the pool or pile budge without fully getting five māsakas worth separated from the pool or pile and inside the vessel: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          *將容器插入液體池或物體堆中，使池中或物體堆中的某些部分進入容器：*\ 挪動池中或物體堆，但將價值未達五摩沙迦的液體或物體從池中或物體堆中完全分離出來並放入容器中：《偷蘭遮》罪。
+
+   * - .. container:: mx-2
+
+          *Removing entirely from the mouth of a container:* Lifting the object: a thullaccaya offense. Bringing it up to the level of the mouth of the container: another thullaccaya offense.
+
+     - .. container:: mx-2
+
+          *從容器口完全取出：*\ 提起物品：一次《偷蘭遮》罪。將其舉到容器口的高度：另一次《偷蘭遮》罪。
+
+   * - .. container:: mx-2
+
+          *Drinking liquid from a container:* Drinking between one and five māsakas’ worth of liquid: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          *飲用容器中液體：*\ 飲用價值相當於一到五個摩沙迦的液體：《偷蘭遮》罪。
+
+   * - .. container:: mx-2
+
+          *Moving the object from one part of one’s body to another or dropping it:* Moving it but not to the point of putting it on another part of the body or dropping it: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          *將物體從身體的一個部位移到另一個部位或將其丟棄：*\ 移動物體，但仍未達到將其放在身體的另一個部位或丟棄之：《偷蘭遮》罪。
+
+   * - .. container:: mx-2
+
+          *Causing a boat to move a hair-breadth upstream, downstream, or across a body of water:* Making the boat rock without causing it to move a hair-breadth upstream, downstream, or across a body of water: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          *讓船隻向上游、下游或橫跨水體移動一絲一毫：*\ 使船隻搖晃而不使其向上游、下游或橫跨水體移動一絲一毫：《偷蘭遮》罪。
+
+   * - .. container:: mx-2
+
+          *Breaking an embankment so that water flows out:* Letting between one and five māsakas’ worth of water flow out: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          *破壞堤壩，讓水流出：*\ 讓價值一到五摩沙迦的水流出：《偷蘭遮》罪。
+
+   * - .. container:: mx-2
+
+          *Causing an animal to move all its feet:* Getting it to move any of its feet prior to its moving its last foot: a thullaccaya offense for each step.
+
+     - .. container:: mx-2
+
+          *讓動物移動其所有腳：*\ 在它移動最後一隻腳之前讓它移動任何一隻腳：每一步都是一次《偷蘭遮》罪。
+
+   * - .. container:: mx-2
+
+          *Cutting down:* The next-to -last chop needed to cut the plant through: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          *砍伐：*\ 砍斷植物所需的倒數第二次砍伐：《偷蘭遮》罪。
+
+   * - .. container:: mx-2
+
+          *Causing the owner to give up efforts to regain possession of objects handed to one for safe keeping:* Inducing doubt in the owner’s mind as to whether he/she will get the object back: a thullaccaya offense. If the case goes to court and the bhikkhu loses: another thullaccaya offense.
+
+     - .. container:: mx-2
+
+          *使物主放棄追回委託自己保管的物品：*\ 使物主心中懷疑能否取回物品：一次《偷蘭遮》罪。如果案件訴諸法庭，而比丘敗訴：另一次《偷蘭遮》罪。
+
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
