@@ -2460,11 +2460,101 @@
 
      - .. container:: mx-2
 
-          *使物主放棄追回委託自己保管的物品：*\ 使物主心中懷疑能否取回物品：一次《偷蘭遮》罪。如果案件訴諸法庭，而比丘敗訴：另一次《偷蘭遮》罪。
+          *使所有者放棄追回交由自己保管的物品的努力：*\ 使所有者心中懷疑能否取回物品：一次《偷蘭遮》罪。如果案件訴諸法庭，而比丘敗訴：另一次《偷蘭遮》罪。
+
+   * - .. container:: mx-2
+
+          *Causing the owner to give up efforts to regain possession of land:* Inducing doubt in the owner’s mind as to whether he/she will lose the land: a thullaccaya offense. Again, if the case goes to court and the bhikkhu loses: another thullaccaya offense.
+
+     - .. container:: mx-2
+
+          *使所有者放棄收回土地的努力：*\ 使所有者心中懷疑自己是否會失去土地：一次《偷蘭遮》罪。同樣地，如果案件訴諸法庭，而比丘敗訴：另一次《偷蘭遮》罪。
+
+   * - .. container:: mx-2
+
+          *Shifting a boundary marker:* Any steps between removing the boundary marker from its original place and putting it in a new place: a thullaccaya offense for each step.
+
+     - .. container:: mx-2
+
+          *移動邊界標記：*\ 將邊界標記從其原來位置移除到將其放置在新位置之間的任何步驟：每一步都構成一次《偷蘭遮》罪。
+
+   * - .. container:: mx-2
+
+          *Taking a dutiable item through a customs area without paying duty:* Making the object move without fully moving it from the customs area: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          *攜帶應稅物品通過海關區域而不繳納關稅：*\ 使物品移動但未將其完全移出海關區域：《偷蘭遮》罪。
+
+   * - .. container:: mx-4 is-italic
+
+          Under `Pr 3`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《波羅夷》三`_\ 之下：
+
+   * - .. container:: mx-2
+
+          A bhikkhu kills a “non-human being”—a yakkha, nāga, or peta: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          比丘殺死「非人」——夜叉、龍、或鬼：《偷蘭遮》罪。
+
+   * - A bhikkhu causes a human being to experience pain or injury as a result of his efforts to kill him/her: a thullaccaya offense.
+     - 比丘因試圖殺死他人而導致其遭受痛苦或傷害：《偷蘭遮》罪。
+
+   * - A bhikkhu gets an accomplice to agree to kill a human being: a thullaccaya offense.
+     - 比丘使同夥同意殺人：《偷蘭遮》罪。
+
+   * - A bhikkhu tests a poison on a human being: a thullaccaya offense regardless of whether the human being dies.
+     - 比丘在人身上試驗毒藥：無論該人是否死亡，都犯了《偷蘭遮》罪。
+
+   * - .. container:: mx-4 is-italic
+
+          Under `Pr 4`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《波羅夷》四`_\ 之下：
+
+   * - .. container:: mx-2
+
+          A bhikkhu means to lay false claim to one superior human state but actually lays false claim to another, while not being alert to what he is saying: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          比丘本意是虛假地聲稱某種上人法，但實際上卻虛假地聲稱另一種，而且沒有意識到自己所說的話：《偷蘭遮》罪。
+
+   * - A bhikkhu lays false claim to a superior human state, explicitly mentioning the state but without explicitly mentioning himself, fully aware that he is making such a claim: a thullaccaya offense.
+     - 比丘虛假地聲稱某種上人法，明確提及該上人法，卻不明確提及自己，並且完全清楚自己正在做出這樣的聲稱：《偷蘭遮》罪。
+
+   * - .. container:: mx-4 is-italic
+
+          Under `Sg 1`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《僧殘》一`_\ 之下：
+
+   * - .. container:: mx-2
+
+          A bhikkhu makes an intentional effort to emit semen, but without reaching an emission: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          比丘做出努力有意射精，但尚未達到射精：：《偷蘭遮》罪。
 
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
 .. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
+.. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
+.. _《波羅夷》三: {filename}Section0010%zh-hant.rst#Pr3
+.. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
+.. _《波羅夷》四: {filename}Section0010%zh-hant.rst#Pr4
+.. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
+.. _《僧殘》一: {filename}Section0011%zh-hant.rst#Sg1
 
 (未完待續)
