@@ -2544,7 +2544,91 @@
 
      - .. container:: mx-2
 
-          比丘做出努力有意射精，但尚未達到射精：：《偷蘭遮》罪。
+          比丘做出努力有意射精，但尚未達到射精：《偷蘭遮》罪。
+
+   * - .. container:: mx-4 is-italic
+
+          Under `Sg 2`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《僧殘》二`_\ 之下：
+
+   * - .. container:: mx-2
+
+          Impelled by lust, a bhikkhu makes bodily contact with a *paṇḍaka*, a female yakkha, or a dead woman, perceiving his object correctly: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          受欲望驅使，比丘與\ *黃門*\ 、女夜叉或死去的女人發生身體接觸，並正確地感知到其對象：《偷蘭遮》罪。
+
+   * - Impelled by lust, a bhikkhu makes bodily contact with a woman while under the impression that she is something else—a paṇḍaka, a man, or an animal: a thullaccaya offense.
+
+     - 受欲望驅使，比丘與女人發生身體接觸，卻以為她是其他東西——黃門、男人、或動物：《偷蘭遮》罪。
+
+   * - Impelled by lust, a bhikkhu uses his body to make lustful contact with an article connected to a woman’s body: a thullaccaya offense.
+
+     - 受欲望驅使，比丘用自己的身體與女性身體上的物體進行淫欲接觸：《偷蘭遮》罪。
+
+   * - Impelled by lust, a bhikkhu uses an item connected with his body to make lustful contact with a woman’s body: a thullaccaya offense.
+
+     - 受欲望驅使，比丘使用與自己身體相連的物品與女人的身體進行淫欲接觸：《偷蘭遮》罪。
+
+   * - A woman whom a bhikkhu perceives to be a woman makes an effort at a bhikkhu’s body using something connected to her body. The bhikkhu desires contact, makes an effort, and detects contact: a thullaccaya offense.
+
+     - 一位比丘認為是女性的女人，用與她的身體相連的物品試圖接觸比丘的身體。比丘渴望接觸，做出努力，並察覺到了接觸：《偷蘭遮》罪。
+
+   * - A woman whom a bhikkhu perceives to be a woman makes an effort at something connected to the bhikkhu’s body using her body. The bhikkhu desires contact, makes an effort, and detects contact: a thullaccaya offense.
+
+     - 一位比丘認為是女性的女人，用她的身體去接觸與比丘身體相連的東西。比丘渴望接觸，做出努力，並察覺到了接觸：《偷蘭遮》罪。
+
+   * - .. container:: mx-4 is-italic
+
+          Under `Sg 3`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《僧殘》三`_\ 之下：
+
+   * - .. container:: mx-2
+
+          Impelled by lust, a bhikkhu speaks to a woman he perceives to be a woman and refers to parts of her body—aside from her private parts—below her collarbone and above her knees: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          受欲望驅使，一位比丘對他認為是女性的女人說話，並提及她鎖骨以下、膝蓋以上的身體部位（私處除外）：《偷蘭遮》罪。
+
+   * - Impelled by lust, a bhikkhu speaks to a paṇḍaka he perceives to be a paṇḍaka and refers lustfully to his (the paṇḍaka’s) private parts or performing sexual intercourse: a thullaccaya offense.
+
+     - 受欲望驅使，比丘對他認為是黃門的黃門說話，並淫念地提及黃門的私處或進行性交：《偷蘭遮》罪。
+
+   * - Impelled by lust, a bhikkhu speaking to a woman whom he perceives to be a paṇḍaka, a man, or an animal, refers to her genitals, anus, or performing sexual intercourse: a thullaccaya offense.
+
+     - 受欲望驅使，比丘對他認為是黃門、男人、或動物的女人說話，提及她的生殖器、肛門或進行性交：《偷蘭遮》罪。
+
+   * - Impelled by lust, a bhikkhu speaking to a woman makes direct reference to her genitals or anus, but the woman doesn’t immediately understand that he is referring to those things: a thullaccaya offense.
+
+     - 受欲望驅使，比丘與女人交談時直接提及她的生殖器或肛門，但該女人並未立即理解他指的是這些部位：《偷蘭遮》罪。
+
+   * - .. container:: mx-4 is-italic
+
+          Under `Sg 4`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《僧殘》四`_\ 之下：
+
+   * - .. container:: mx-2
+
+          Impelled by lust, a bhikkhu speaks to a paṇḍaka he perceives to be a paṇḍaka in praise of the paṇḍaka’s ministering to his (the bhikkhu’s) sensual needs, referring to sexual intercourse as a meritorious gift: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          受欲望驅使，比丘向他認為是黃門的黃門說話，讚揚黃門服侍他（比丘）的感官需求，稱性交是一種功德布施：《偷蘭遮》罪。
+
+   * - Impelled by lust, a bhikkhu makes such remarks to a woman he perceives to be a paṇḍaka, a man, or an animal: a thullaccaya offense.
+
+     - 受欲望驅使，比丘對他認為是黃門、男人、或動物的女人說出這樣的話：《偷蘭遮》罪。
 
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
@@ -2556,5 +2640,11 @@
 .. _《波羅夷》四: {filename}Section0010%zh-hant.rst#Pr4
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
 .. _《僧殘》一: {filename}Section0011%zh-hant.rst#Sg1
+.. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
+.. _《僧殘》二: {filename}Section0011%zh-hant.rst#Sg2
+.. _Sg 3: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
+.. _《僧殘》三: {filename}Section0011%zh-hant.rst#Sg3
+.. _Sg 4: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4
+.. _《僧殘》四: {filename}Section0011%zh-hant.rst#Sg4
 
 (未完待續)
