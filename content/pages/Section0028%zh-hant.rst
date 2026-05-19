@@ -2630,6 +2630,74 @@
 
      - 受欲望驅使，比丘對他認為是黃門、男人、或動物的女人說出這樣的話：《偷蘭遮》罪。
 
+   * - .. container:: mx-4 is-italic
+
+          Under `Sg 5`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《僧殘》五`_\ 之下：
+
+   * - .. container:: mx-2
+
+          A bhikkhu performs any two of the three steps in a go-between’s role—accepting, inquiring, reporting—or gets someone else to perform any two of the three: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          比丘作為中間人，執行了接受、詢問、報告這三個步驟中的任意兩個，或者讓其他人執行了這三個步驟中的任意兩個：《偷蘭遮》罪。
+
+   * - A bhikkhu performs all three steps in a go-between’s role for a paṇḍaka (reading paṇḍake as the locative singular, which is called for in the grammatical context of the sentence): a thullaccaya offense.
+
+     - 比丘作為中間人，為黃門（paṇḍaka）（將 paṇḍake 理解為方位格單數，這是句子的文法語境所需要的）履行了所有三個步驟：《偷蘭遮》罪。
+
+   * - .. container:: mx-4 is-italic
+
+          Under `Sg 6`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《僧殘》六`_\ 之下：
+
+   * - .. container:: mx-2
+
+          A bhikkhu performs the next-to-last act in building a hut for his own use—its materials acquired through begging—that is oversized or located on an unauthorized site: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          比丘執行為自己使用而建造小屋（孤邸）的倒數第二個動作——其材料是透過乞討獲得的——該小屋（孤邸）過大或位於未經授權的地點：《偷蘭遮》罪。
+
+   * - .. container:: mx-4 is-italic
+
+          Under `Sg 7`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《僧殘》七`_\ 之下：
+
+   * - .. container:: mx-2
+
+          A bhikkhu performs the next-to-last act in building a hut for his own use—financed by a sponsor—that is located on an unauthorized site: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          比丘執行為自己使用而建造小屋（孤邸）的倒數第二個動作——由贊助人資助——該小屋（孤邸）位於未經授權的地點：《偷蘭遮》罪。
+
+   * - .. container:: mx-4 is-italic
+
+          Under `Sg 10`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《僧殘》十`_\ 之下：
+
+   * - .. container:: mx-2
+
+          A bhikkhu persists in his intention to form a schismatic group or to take up a position that can lead to schism, up through the end of the second proclamation of a formal rebuke in a meeting of the Community: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          比丘堅持意圖要組成分裂團體或採取可能導致分裂（破和合僧）的立場，直到在僧團會議上正式訶責羯磨的第二次羯磨文宣讀（公告）結束：《偷蘭遮》罪。
+
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
@@ -2646,5 +2714,13 @@
 .. _《僧殘》三: {filename}Section0011%zh-hant.rst#Sg3
 .. _Sg 4: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4
 .. _《僧殘》四: {filename}Section0011%zh-hant.rst#Sg4
+.. _Sg 5: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg5
+.. _《僧殘》五: {filename}Section0011%zh-hant.rst#Sg5
+.. _Sg 6: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg6
+.. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
+.. _Sg 7: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg7
+.. _《僧殘》七: {filename}Section0011%zh-hant.rst#Sg7
+.. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
+.. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 
 (未完待續)
