@@ -919,7 +919,7 @@
      - `\　　　《經分別》裡的《偷蘭遮》 <{filename}Section0028%zh-hant.rst#sigil_toc_id_28>`__
 
    * - `\　　　Thullaccayas in the Khandhakas <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#sigil_toc_id_29>`__
-     - 　　　《犍度》裡的《偷蘭遮》
+     - `\　　　《犍度》裡的《偷蘭遮》 <{filename}Section0028%zh-hant.rst#sigil_toc_id_29>`__
 
    * - `\　　X. A pupil’s duties as attendant to his mentor <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX>`__
      - 　　十、弟子作為導師侍者的職責

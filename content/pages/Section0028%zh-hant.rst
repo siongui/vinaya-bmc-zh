@@ -2777,4 +2777,33 @@
 .. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
 .. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
 
+.. _sigil_toc_id_29:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_29"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2 is-italic
+
+          **Thullaccayas in the Khandhakas**
+
+     - .. container:: mx-2 is-italic
+
+          **《犍度》裡的《偷蘭遮》**
+
+   * - .. container:: mx-2
+
+          “Nakedness, a sectarian observance, should not be followed. Whoever should follow it: a thullaccaya offense.”—`Mv.VIII.28.1`_
+
+     - .. container:: mx-2
+
+          「赤身裸體（裸形），外道習俗，不應效法。凡效法者，《偷蘭遮》罪。」——`《大品》.八.28.1`_
+
+.. _Mv.VIII.28.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts28_1
+.. _《大品》.八.28.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0395a02
+
 (未完待續)
