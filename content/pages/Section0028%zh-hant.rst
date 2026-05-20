@@ -2698,6 +2698,54 @@
 
           比丘堅持意圖要組成分裂團體或採取可能導致分裂（破和合僧）的立場，直到在僧團會議上正式訶責羯磨的第二次羯磨文宣讀（公告）結束：《偷蘭遮》罪。
 
+   * - .. container:: mx-4 is-italic
+
+          Under `Sg 11`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《僧殘》十一`_\ 之下：
+
+   * - .. container:: mx-2
+
+          A bhikkhu persists in his intention to support a potential schismatic, up through the end of the second proclamation of a formal rebuke in a meeting of the Community: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          比丘堅持支持潛在的分裂者，直到在僧團會議上正式訶責羯磨的第二次羯磨文宣讀（公告）結束：《偷蘭遮》罪。
+
+   * - .. container:: mx-4 is-italic
+
+          Under `Sg 12`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《僧殘》十二`_\ 之下：
+
+   * - .. container:: mx-2
+
+          A bhikkhu persists in being difficult to admonish, up through the end of the second proclamation of a formal rebuke in a meeting of the Community: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          比丘堅持難以勸誡，直到在僧團會議上正式訶責羯磨的第二次羯磨文宣讀（公告）結束：《偷蘭遮》罪。
+
+   * - .. container:: mx-4 is-italic
+
+          Under `Sg 13`_:
+
+     - .. container:: mx-4 is-italic
+
+          `《僧殘》十三`_\ 之下：
+
+   * - .. container:: mx-2
+
+          A bhikkhu persists in criticizing an act of banishment performed against him, up through the end of the second proclamation of a formal rebuke in a meeting of the Community: a thullaccaya offense.
+
+     - .. container:: mx-2
+
+          比丘堅持批評對他實施的驅出行為，直到在僧團會議上正式訶責羯磨的第二次羯磨文宣讀（公告）結束：《偷蘭遮》罪。
+
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
@@ -2722,5 +2770,11 @@
 .. _《僧殘》七: {filename}Section0011%zh-hant.rst#Sg7
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
+.. _Sg 11: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11
+.. _《僧殘》十一: {filename}Section0011%zh-hant.rst#Sg11
+.. _Sg 12: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
+.. _《僧殘》十二: {filename}Section0011%zh-hant.rst#Sg12
+.. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
+.. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
 
 (未完待續)
