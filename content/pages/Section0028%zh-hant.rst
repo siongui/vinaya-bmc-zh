@@ -2803,7 +2803,37 @@
 
           「赤身裸體（裸形），外道習俗，不應效法。凡效法者，《偷蘭遮》罪。」——`《大品》.八.28.1`_
 
+   * - “A kusa-grass garment… a bark-fiber garment… a garment of bark pieces… a human hair blanket… a horse tail-hair blanket… owls’ wings… black antelope hide, (each of which is) a sectarian uniform, should not be worn. Whoever should wear one: a thullaccaya offense.”—`Mv.VIII.28.2`_
+
+     - 「拘賒草衣……樹皮纖維衣……樹皮碎片衣……人毛毯……馬尾毛毯……貓頭鷹翅膀……黑羚羊皮，（這些都是）外道的服飾，不應穿戴。凡穿戴者，《偷蘭遮》罪。」——`《大品》.八.28.2`_
+
+   * - “One should not consume human flesh. Whoever should do so: a thullaccaya offense.”—`Mv.VI.23.9`_
+     - 「不應食用人肉。凡食用人肉者，《偷蘭遮》罪。」——`《大品》.六.23.9`_
+
+   * - “One should not, with lustful thoughts, touch the sexual organs (of cattle). Whoever should touch (one): a thullaccaya offense.”—`Mv.V.9.3`_
+     - 「不應用淫念觸摸（牛的）性器官。凡觸摸者，《偷蘭遮》罪。」——`《大品》.五.9.3`_
+
+   * - “One’s own penis/genitals should not be cut off. Whoever should cut them off: a thullaccaya offense.”—Cv.V.7
+     - 「自己的陰莖/生殖器不應被割除。凡割除者，《偷蘭遮》罪。」——`《小品》.五.7`_
+
+   * - “Surgery should not be done in the crotch. Whoever should do it (have it done): a thullaccaya offense.”—`Mv.VI.22.3`_
+     - 「不應在腹股溝處進行手術。任何人若這樣做（接受這樣做），《偷蘭遮》罪。」——`《大品》.六.22.3`_
+
+   * - “Surgery and hemorrhoid removal (§) should not be done within the area two inches around the crotch. Whoever should do it (have it done): a thullaccaya offense.”—`Mv.VI.22.4`_
+     - 「手術和痔瘡切除術（§）不應在腹股溝周圍兩英寸的範圍內進行。任何人若這樣做（接受這樣做）：《偷蘭遮》罪。」——`《大品》.六.22.4`_
+
 .. _Mv.VIII.28.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts28_1
 .. _《大品》.八.28.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0395a02
+.. _Mv.VIII.28.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts28_2
+.. _《大品》.八.28.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0395a08
+.. _Mv.VI.23.9: https://www.dhammatalks.org/vinaya/bmc/Section0043.html#Mv.VI.23.9
+.. _《大品》.六.23.9: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0289a14
+.. _Mv.V.9.3: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Mv.V.9.3
+.. _《大品》.五.9.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0255a11
+.. _《小品》.五.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0150a08
+.. _Mv.VI.22.3: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts22_3
+.. _《大品》.六.22.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0286a14
+.. _Mv.VI.22.4: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts22_4
+.. _《大品》.六.22.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0287a04
 
 (未完待續)
