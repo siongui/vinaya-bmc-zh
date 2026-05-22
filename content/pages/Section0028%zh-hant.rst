@@ -2822,6 +2822,61 @@
    * - “Surgery and hemorrhoid removal (§) should not be done within the area two inches around the crotch. Whoever should do it (have it done): a thullaccaya offense.”—`Mv.VI.22.4`_
      - 「手術和痔瘡切除術（§）不應在腹股溝周圍兩英寸的範圍內進行。任何人若這樣做（接受這樣做）：《偷蘭遮》罪。」——`《大品》.六.22.4`_
 
+   * - “These five things not-to-be-given-out should not be given out by a Community, a group, or an individual. Even when they have been given out, they are not (to be considered as) given out. Whoever should give them out: a thullaccaya offense. Which five?
+
+     - 「這五樣不可給予的東西，僧團、群體還是個人都不應給予。即使給予了，其也不（視為）被給予。誰要是給予了，《偷蘭遮》罪。是哪五樣呢？
+
+   * - .. container:: mx-2
+
+          1\) A monastery, the land of a monastery (a site for a monastery). This is the first thing not to be given out….
+
+     - .. container:: mx-2
+
+          1）寺院，寺院的土地（寺院用地）。這是第一樣不可給予的東西…
+
+   * - .. container:: mx-2
+
+          2\) A dwelling, the land of a dwelling (a site for a dwelling). This is the second thing not to be given out….
+
+     - .. container:: mx-2
+
+          2）住處，以及住處土地（住宅用地）。這是第二樣不可給予的東西…
+
+   * - .. container:: mx-2
+
+          3\) A bed, bench, mattress, pillow. This is the third thing not to be given out….
+
+     - .. container:: mx-2
+
+          3）床、長椅、床墊、枕頭。這是第三樣不可給予的東西…
+
+   * - .. container:: mx-2
+
+          4\) A metal pot, a metal vessel, a metal jar/bottle, a metal frying pan/wok, a knife/machete, an axe, an adze, a hoe, a drill/chisel. This is the fourth thing not to be given out….
+
+     - .. container:: mx-2
+
+          4）金屬鍋、金屬容器、金屬罐/瓶、金屬煎鍋/炒鍋、刀/砍刀、斧頭、錛子、鋤頭、鑽頭/鑿子。這是第四樣不可給予的東西…
+
+   * - .. container:: mx-2
+
+          5\) Vines, bamboo, coarse grass, reeds, tiṇa-grass, clay (all of which can be used as building materials), wooden goods, clay goods. This is the fifth thing not to be given out….
+
+     - .. container:: mx-2
+
+          5）藤蔓、竹子、粗草、蘆葦、天南星草、黏土（均可當建築材料）、木製品、陶製品。這是第五樣不可給予的東西…
+
+   * - .. container:: mx-2
+
+          “These are the five things not-to-be-given-out that should not be given out by a Community, a group, or an individual. Even when they have been given out, they are not (to be considered as) given out. Whoever should give them out: a thullaccaya offense.”—Cv.VI.15.2
+
+     - .. container:: mx-2
+
+          「此為五樣不可給予的東西，僧團、群體、或個人都不應給予。即使被給予出去，其也不（視為）被給予。凡給予者，《偷蘭遮》罪。」——`《小品》.六.15.2`_
+
+   * - “These five things not-to-be-divided-up (not-to-be-distributed) (as above).”—Cv.VI.16.2
+     - 「這五樣東西不可分割（不可分發）（如上）。」——`《小品》.六.16.2`_
+
 .. _Mv.VIII.28.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts28_1
 .. _《大品》.八.28.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0395a02
 .. _Mv.VIII.28.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts28_2
@@ -2835,5 +2890,7 @@
 .. _《大品》.六.22.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0286a14
 .. _Mv.VI.22.4: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts22_4
 .. _《大品》.六.22.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0287a04
+.. _《小品》.六.15.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0231a01
+.. _《小品》.六.16.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0232a04
 
 (未完待續)
