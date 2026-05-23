@@ -2916,4 +2916,22 @@
    \*    \*    \*
 
 
+.. _appendixX:
+
+.. raw:: html
+
+   <span id="appendixX"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: has-text-centered
+
+          **X. A pupil’s duties as attendant to his mentor**
+
+     - .. container:: has-text-centered
+
+          **十、弟子作為其導師侍者的職責**
+
 (未完待續)

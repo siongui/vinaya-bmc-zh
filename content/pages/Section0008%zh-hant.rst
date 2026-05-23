@@ -236,7 +236,7 @@
      - 《義註》補充說，如果依止師已經有一名弟子對他履行這些職責，他可以告訴其餘的弟子不需要履行這些職責。這豁免他們不必履行它們。如果依止師疏忽沒有這樣做，履行職責的弟子可以通知他的同伴，他將負責照顧依止師。這也豁免了他們的職責。否則，他們會因疏忽履行的每一項職責而犯一次《突吉羅》。
 
 .. _Appendix X: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
-.. _附錄十: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
+.. _附錄十: {filename}Section0028%zh-hant.rst#appendixX
 .. _Mv.I.25: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.25.6
 .. _《大品》.一.25: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0062a03
 

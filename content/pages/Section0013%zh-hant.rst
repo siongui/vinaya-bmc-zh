@@ -501,8 +501,7 @@
 .. _Thag&16\:7: https://www.dhammatalks.org/suttas/KN/Thag/thag16_7.html
 .. _三衣: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A1%A3
 .. _《大品》.一.25.9: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0063a02
-.. _附錄十: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
-.. TODO FIXME: replace link to 附錄十
+.. _附錄十: {filename}Section0028%zh-hant.rst#appendixX
 .. _《大品》.七.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_007/#0333a03
 .. _《相應部》16\:8經: https://sutra.mobi/chilin/xiangying/content/16.html#%E5%85%AB%E6%95%99%E5%8C%96%E4%B9%8B%E4%B8%89
 .. _頭陀: https://zh.wikipedia.org/wiki/%E5%A4%B4%E9%99%80

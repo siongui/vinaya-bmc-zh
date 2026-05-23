@@ -922,7 +922,7 @@
      - `\　　　《犍度》裡的《偷蘭遮》 <{filename}Section0028%zh-hant.rst#sigil_toc_id_29>`__
 
    * - `\　　X. A pupil’s duties as attendant to his mentor <https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX>`__
-     - 　　十、弟子作為導師侍者的職責
+     - `\　　十、弟子作為其導師侍者的職責 <{filename}Section0028%zh-hant.rst#appendixX>`__
 
    * - `\　Glossary <https://www.dhammatalks.org/vinaya/bmc/Section0029.html>`__
      - 　詞彙表
