@@ -2877,6 +2877,18 @@
    * - “These five things not-to-be-divided-up (not-to-be-distributed) (as above).”—Cv.VI.16.2
      - 「這五樣東西不可分割（不可分發）（如上）。」——`《小品》.六.16.2`_
 
+   * - “There is the case where on the uposatha day in a certain residence, many resident bhikkhus gather, four or more. They know, ‘There are other resident bhikkhus who have not come yet.’ (Thinking,) ‘They are expelled. They are destroyed. Who has need of them? (§)’ they recite the Pāṭimokkha… : a thullaccaya offense—`Mv.II.32`_
+
+     - 「有這樣的情況：在某一住處的布薩日，許多常住比丘聚集在一起，四位或更多。他們知道，『還有其他常住比丘尚未到來。』（心想，）『他們已被驅逐。他們已被毀滅。誰需要他們呢？』（§）他們念誦《波羅提木叉》……：《偷蘭遮》罪——`《大品》.二.32`_
+
+   * - “(Incoming bhikkhus on the uposatha day,) being doubtful, search for resident bhikkhus. Searching for them, they see them. Seeing them, (thinking,) ‘They are expelled. They are destroyed. Who has need of them? (§)’ they perform the uposatha separately, aiming at schism: a thullaccaya offense.”—`Mv.II.34.5-6`_
+
+     - 「（客住比丘們在布薩日）心存疑慮，便尋找常住比丘。尋找之後，他們看見了。看見他們，（心想：）『他們已被驅逐。他們已被毀滅。誰還需要他們呢？』（§）於是他們各自舉行布薩，意圖破和合僧（分裂）：《偷蘭遮》罪。」——`《大品》.二.34.5-6`_
+
+   * - (With reference to the newly-ordained bhikkhus who had ignorantly followed Devadatta in a schism): “In that case, you should have the followers of the schismatic confess a thullaccaya offense.”—Cv.VII.4.4
+
+     - （針對那些無知地跟隨提婆達多分裂的新受戒比丘）：「在這種情況下，你們應該讓那些分裂者的追隨者懺悔《偷蘭遮》罪。」——`《小品》.七.4.4`_
+
 .. _Mv.VIII.28.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts28_1
 .. _《大品》.八.28.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0395a02
 .. _Mv.VIII.28.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts28_2
@@ -2892,5 +2904,16 @@
 .. _《大品》.六.22.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0287a04
 .. _《小品》.六.15.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0231a01
 .. _《小品》.六.16.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/#0232a04
+.. _Mv.II.32: https://www.dhammatalks.org/vinaya/Mv/MvII.html#pts32
+.. _《大品》.二.32: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0174a08
+.. _Mv.II.34.5-6: https://www.dhammatalks.org/vinaya/Mv/MvII.html#pts34_5
+.. _《大品》.二.34.5-6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0176a11
+.. _《小品》.七.4.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_017/#0274a04
+
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
 
 (未完待續)
