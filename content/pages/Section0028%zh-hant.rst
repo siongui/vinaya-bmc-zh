@@ -2934,4 +2934,21 @@
 
           **十、弟子作為其導師侍者的職責**
 
+   * - .. container:: is-indented
+
+          As mentioned in `Chapter 2`_, one is required to act as one’s mentor’s personal attendant if he does not already have one. There I sketched out these duties in general terms. What follows is a translation from `Mv.I.25.8-24`_, which lays them out in very specific terms. Some Communities have their members follow these duties to the letter; others have adapted them to fit in with what they see as changes in culture and technology (e.g., bathing practices now differ from what they were then). Even in the latter cases, though, it is useful to have the original standards down in writing as practical guides to mindful action in daily life and sensitivity to one’s mentor’s needs, for the role of attendant is an excellent opportunity for learning the Dhamma and Vinaya in action on a day-to-day basis. A bhikkhu who approaches this role with the proper attitude will benefit greatly from it, much as Ven. Ānanda benefited from the care and attention he brought to bear in attending to the Buddha.
+
+     - .. container:: is-indented
+
+          如\ `第二章`_\ 所述，若自己的導師沒有個人侍者，則須擔任其侍者。我在第二章已對這些職責作了概括性的概述。以下譯自\ `《大品》.一.25.8-24`_\ ，其中對其作了更具體的闡述。有些僧團要求其成員嚴格履行這些職責；而另一些僧團則根據文化和技術的變化對其進行了調整（例如，如今的沐浴習俗與過去有所不同）。即便在後一種情況下，將最初的標準以書面形式記錄下來仍然十分有益，它可以作為日常生活中正念行動和體察導師需求的實用指南。因為侍者的角色是學習法和律在日常生活中付諸實踐的絕佳機會。一位比丘若以正確的態度對待這一角色，必將從中獲益良多，正如阿難尊者在侍奉佛陀中給予的關懷和照顧讓他受益匪淺一樣。
+
+   * - In the following passages, statements in brackets are from the Commentary; statements in braces from the Sub-commentary; statements in parentheses are my own.
+
+     - 以下段落中，方括號內的語句來自《義註》；大括號內的語句來自《複註》；圓括號內的語句是我自己寫的。
+
+.. _Chapter 2: https://www.dhammatalks.org/vinaya/bmc/Section0008.html#BMC1chapter2
+.. _Mv.I.25.8-24: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.25.8-24
+.. _第二章: {filename}Section0008%zh-hant.rst#BMC1chapter2
+.. _《大品》.一.25.8-24: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0062a12
+
 (未完待續)

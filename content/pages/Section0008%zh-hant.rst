@@ -15,6 +15,26 @@
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
    :widths: auto
 
+   * - .. raw:: html
+
+          <span id="BMC1chapter2"></span>
+
+       .. container:: is-size-5
+
+          **CHAPTER TWO**
+
+     - .. container:: is-size-5
+
+          **第二章**
+
+   * - .. container:: is-size-1
+
+          *Nissaya*
+
+     - .. container:: is-size-1
+
+          *依止*
+
    * - The Dhamma and Vinaya impinge in such detail on so many areas of one’s life that no new bhikkhu can be expected to master them in a short time. For this reason, the Buddha arranged for a period of apprenticeship—called *nissaya*, or dependence—in which every newly ordained bhikkhu must train under the guidance of an experienced bhikkhu for at least five years before he can be considered competent to look after himself.
 
      - 法與律對一個人生活的許多方面都有非常詳細的影響，以至於不可能指望新比丘能在短時間內掌握它們。因此，佛陀安排了一段學徒期，稱為“\ *nissaya*\ ”或“依止”，每一位新出家的比丘必須在有經驗的比丘的指導下修行至少五年，才可以被認為有能力照顧自己。
