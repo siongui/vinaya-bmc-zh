@@ -2951,4 +2951,25 @@
 .. _第二章: {filename}Section0008%zh-hant.rst#BMC1chapter2
 .. _《大品》.一.25.8-24: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0062a12
 
+|
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-indented
+
+          “Having gotten up early, having taken off his sandals, having arranged his upper robe over one shoulder, the pupil should provide tooth wood (see `Pc 40`_) and water for washing the face/rinsing the mouth. [C: On the first three days when one is performing these services, one should provide the preceptor with three lengths of tooth wood—long, medium, and short—and notice which one he takes. If he takes the same length on all three days, provide him only with that length from then on. If he is not particular about the length, provide him with whatever length is available. A similar principle holds for the water: On the first three days, provide him with both warm and cold water. If he consistently takes either the warm or the cold, provide him only with that kind of water from then on. If not, provide him with whatever water is available.] (The Commentary suggests that in “providing” these things, one need only set them out, rather than hand them to the preceptor. Once they have been set out, one should proceed to sweep out the restroom and its surrounding area while the preceptor is using the tooth wood and water. Then, while the preceptor is using the restroom, one should proceed to the next step.)
+
+     - .. container:: is-indented
+
+          「早起後，脫下涼鞋，將上衣搭在一側肩上\ :small:`[譯註：偏袒右肩]`\ ，弟子應準備齒木（見\ `《波逸提》四十`_\ ）和洗臉/漱口的水。[《義註》：在前三天進行這些服務時，應向戒師提供三種長度的齒木——長、中、短——並觀察他使用哪一種。如果他三天都使用同一長度，那麼從那時起就只給他這個長度。如果他並在意長度，那就給他任何可得的長度。水也遵循類似的原則：前三天，提供他溫水和冷水。如果他總是喝溫水或冷水，從那時起就只給他那種水。否則，就給他任何可得的水。]（《義註》建議，在「提供」這些物品時，只需擺放好即可，無需親手交給戒師。一旦擺放好後，在戒師使用齒木和水時，應接著打掃洗手間及其周圍區域。然後，在戒師使用洗手間時，應接著進行下一步。）
+
+   * - “Arrange a seat. If there is conjey, then having washed a shallow bowl, offer the conjey to the preceptor. When he has drunk the conjey, then having given him water, having received the bowl, having lowered it (so as not to let the washing water wet one’s robes), wash it carefully without scraping it [C: knocking it against the floor] and then put it away. When the preceptor has gotten up, take up the seat. If the place is dirty, sweep it.
+
+     - 「安排座位。如有粥，洗淨淺缽後，將粥呈給戒師。當他飲下粥後，接著給他水，接過缽，將缽放低（以免洗滌水濺溼自己的袈裟上），小心清洗，不要刮傷[《義註》：不要把它對地板敲打]，然後收起來。當戒師起身後，拿起座位。如果地方髒污，打掃之。」
+
+.. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
+.. _《波逸提》四十: {filename}Section0019%zh-hant.rst#Pc40
+
 (未完待續)
