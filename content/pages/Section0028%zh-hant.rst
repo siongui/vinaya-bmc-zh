@@ -2977,9 +2977,21 @@
 
      - 「如果戒師想要侍者，應穿著下衣，遮蓋住周圍的三輪（見\ `《應學》一及二`_\ ）。繫好腰帶，將上衣鋪排作為外衣的襯裡，穿好後，繫好（下）釦子，洗好並拿取缽，做戒師的侍者。不要走在他身後太遠；也不要走得太近。[《義註》：在他身後一到兩步是適當的。]接過戒師缽中的內容物。[《義註》：如果戒師的缽很重或摸起來很燙，拿過他的缽，把自己的缽作為交換（想必比較輕或摸起來比較涼）給他。]（若所在僧團，缽在托缽乞食時放在缽袋裡，則可以接過戒師的缽。）
 
+   * - “Do not interrupt the preceptor when he is speaking. If he is bordering on an offense [C: e.g., `Pc 4`_ or `Sg 3`_], one should stop him. [C: Speak in an indirect way so as to call him to his senses. These two protocols apply everywhere, not only on alms round.] {SC: Unlike the other protocols toward one’s preceptor, these must also be observed even when one is ill.}
+
+     - 「當戒師講話時，不要打斷他。如果他將犯戒時[《義註》：例如，\ `《波逸提》四`_\ 或\ `《應學》三`_\ ]，應該制止他。[《義註》：用委婉的方式提醒他。這兩個行儀適用於任何場合，不僅限於托缽乞食。]{《複註》：與其他對待戒師的行儀不同，即使生病，也必須遵守這些。}
+
+   * - “Returning ahead of the preceptor, one should arrange a seat. Put out washing water for the feet, a foot stand, and a pebble foot wiper. Having gone to meet him, receive his bowl and robe. Give him his spare lower robe; receive the lower robe [C: that he has been wearing] in return. If the upper and outer robes are damp with perspiration, dry them for a short time in the sun’s warmth, but do not leave them in the sun’s warmth for long. Fold up the robes {SC: separately}, keeping the edges four fingerbreadths apart so that neither robe becomes creased in the middle. (This, the Vinaya-mukha notes, helps extend the life of the cloth.) Place the waistband in the fold of the robe. (From these statements it would appear that when bhikkhus were in their dwelling places they wore only their lower robes, even while eating.)
+
+     - 「先於戒師返回，安排座位。擺放洗腳水、腳凳和鵝卵石擦腳器。上前迎接戒師，接過他的缽和袈裟。將備用的下衣交給他；接過[《義註》：他正在穿著]的下衣作為交換。如果上衣和外衣被汗水浸濕，將其在陽光下曬乾一小會兒，但不要長時間放在陽光下。將袈裟折起來{《複註》：分別地}，邊緣留出四指寬的距離，以免任一袈裟中間出現褶皺。（《戒律入口》指出，這樣做有助於延長布的使用壽命。）將腰帶放入袈裟的折疊處。（從這些陳述來看，比丘們在住處時，即使在用餐時，也只穿著下衣。）
+
 .. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. _《波逸提》四十: {filename}Section0019%zh-hant.rst#Pc40
 .. _Sk 1 & 2: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk1
 .. _《應學》一及二: {filename}Section0026%zh-hant.rst#Sk1
+.. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
+.. _Sg 3: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
+.. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
+.. _《應學》三: {filename}Section0026%zh-hant.rst#Sk3
 
 (未完待續)
