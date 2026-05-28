@@ -2985,6 +2985,18 @@
 
      - 「先於戒師返回，安排座位。擺放洗腳水、腳凳和鵝卵石擦腳器。上前迎接戒師，接過他的缽和袈裟。將備用的下衣交給他；接過[《義註》：他正在穿著]的下衣作為交換。如果上衣和外衣被汗水浸濕，將其在陽光下曬乾一小會兒，但不要長時間放在陽光下。將袈裟折起來{《複註》：分別地}，邊緣留出四指寬的距離，以免任一袈裟中間出現褶皺。（《戒律入口》指出，這樣做有助於延長布的使用壽命。）將腰帶放入袈裟的折疊處。（從這些陳述來看，比丘們在住處時，即使在用餐時，也只穿著下衣。）
 
+   * - “If there is almsfood, and the preceptor wishes to eat, give him water and offer the almsfood to him. Ask if he wants drinking water. [C: If there is enough time before noon, one should wait by the preceptor while he is eating, in order to offer him drinking water, and eat one’s own meal only when he is finished. If there is not enough time for this, one should simply set out the water and proceed to one’s own meal.]
+
+     - 「如果有缽食，而戒師想要進食，給他水，並將缽食提供給他。詢問他是否想要飲用水。[《義註》：如果中午之前時間足夠，應在戒師進食時在其身旁等候，以便提供給他飲用水，待他完畢後再用餐。如果時間不夠這樣做，則只需擺放好水，然後就開始自己的用餐。]
+
+   * - “When he has finished his meal, then having given him water, receive the bowl, lower it, and wash it carefully without scraping it. Then, having dried it, set it out for a short time in the sun’s warmth, but do not leave it in the sun’s warmth for long.
+
+     - 「當他用餐完畢後，給他水，接過缽，放低它，小心清洗，不要刮傷它。擦乾後，放在陽光下曬一會兒，但不要長時間放在陽光下。」
+
+   * -  “Put away his bowl and robes. When putting away the bowl, one should take the bowl in one hand, run one’s hand under the bed or bench with the other hand (to check for things on the floor that would harm the bowl), and put away the bowl (there), but should not put it away on the bare ground [C: any place where it will get soiled]. When putting away the robe, one should take the robe with one hand, stroke the other hand along the rod or cord for the robes [C: to check for any rough spots or splinters on the cord or rod that will rip the cloth], and put away the robe (over the cord or rod) with the edges away from one and the fold toward one. [C: The fold shouldn’t be placed on the side of the wall, for if there is a splinter in the wall, it may rip the robe in the middle (making its determination lapse).]
+
+     - 「收好他的缽和袈裟。收缽時，一手拿缽，另一手探入床底或凳底（檢查地板上是否有會損壞缽的東西），將缽收好（在那裡），不應該把它放在裸露的地面上[《義註》：任何容易被弄髒的地方]。收袈裟時，應一手拿袈裟，用另一隻手沿著袈裟的桿子或繩子撫摸[《義註》：檢查繩子或桿子上是否有粗糙的地方或碎片，以免撕裂布料。]，將袈裟（掛在繩子或桿子上）收起來，邊緣朝外，褶皺朝內。[《義註》：褶皺不宜靠牆邊，因為如果牆上有碎片，可能會從中間撕破袈裟（使其決意失效）。]
+
 .. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. _《波逸提》四十: {filename}Section0019%zh-hant.rst#Pc40
 .. _Sk 1 & 2: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk1
