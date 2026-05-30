@@ -3021,6 +3021,14 @@
 
      - 「如果戒師想要自己背誦[《義註》：記憶法或律的段落]，就應該背誦。如果他想要審問自己[《義註》：審問段落的含義]，就應該回答他的審問。
 
+   * - “If the place where the preceptor is staying is dirty, the pupil should clean it if he is able to. First taking out the bowl and robes, he should lay them to one side. Taking out the sitting cloth and sheet, he should lay them to one side. Taking out the mattress and pillow, he should lay them to one side. Having lowered the bed, he should take it out carefully, without scraping it [C: along the floor] or knocking it against the door or doorposts, and then lay it to one side. Having lowered the bench, he should take it out carefully, without scraping it [C: along the floor] or knocking it against the door or doorposts, and then lay it to one side. Taking out the spittoon… the leaning board, he should lay them to one side.
+
+     - 「如果戒師的住處髒亂，弟子若有能力，應當打掃乾淨。首先，取出缽和袈裟，放在一邊。取出坐布和床單，放在一邊。取出床墊和枕頭，放在一邊。放下床後，小心地將其取出，不要刮傷它[《義註》：沿著地板]，或撞到門或門框，然後放在一邊。放下長凳後，他應該小心地把它拿出來，不要刮傷它[《義註》：沿著地板]，或撞到門或門框，然後放在一邊。取出痰盂……斜倚靠板，他應該把它們放在一邊。
+
+   * - “If there are cobwebs in the dwelling, he should remove them, starting first with the ceiling covering-cloth (§) (and working down). He should wipe areas around the window frames and the corners (of the room) (§). If the wall has been treated with ochre and has become moldy (§), he should moisten a rag, wring it out, and wipe it clean. If the floor of the room is treated with blackening (polished) and has become moldy (§), he should moisten a rag, wring it out, and wipe it clean. If the floor is bare ground, he should sprinkle it all over with water before sweeping it, (with the thought,) ‘May the dust not fly up and soil the room.’ He should look for any rubbish and throw it away to one side.
+
+     - 「如果住處內有蜘蛛網，他應該清除乾淨，先從天花板的遮布開始（§）（然後向下清除）。他應該擦拭窗框周圍和（房間的）角落（§）。如果牆壁塗過赭石並發霉了（§），他應該弄濕一塊抹布，擰乾，然後擦拭乾淨。如果房間的地板經過黑化（拋光過）處理，並且已經發黴（§），他應該弄濕一塊抹布，擰乾，然後擦拭乾淨。如果地面是裸露的泥土，他應該在清掃之前先用水灑滿地面，（想著）：「願灰塵不要飛揚，弄髒房間。」他應該檢查是否有垃圾，並將其扔到一邊。
+
 .. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. _《波逸提》四十: {filename}Section0019%zh-hant.rst#Pc40
 .. _Sk 1 & 2: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk1
