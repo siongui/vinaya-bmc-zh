@@ -3037,6 +3037,18 @@
 
      - 「他應當收起他的缽和袈裟。收缽時，一手拿缽，另一手伸到床或凳子底下，把缽收好（在那裡），但不應放在裸露的地面上。當收袈裟時，一手拿袈裟，另一手沿著袈裟的桿子或繩子撫摸，把袈裟（搭在桿子或繩子上）收好，邊緣遠離他，褶皺朝向他。」
 
+   * - “If dusty winds blow from the east, he should close the eastern windows. If from the west, he should close the western windows. If from the north, he should close the northern windows. If from the south, he should close the southern windows. If the weather is cool, he should open the windows by day and close them at night. If the weather is hot, he should close them by day and open them at night.
+
+     - 「如果塵土飛揚的風從東邊吹來，他應該關上東邊的窗戶；如果從西邊吹來，他應該關上西邊的窗戶；如果從北邊吹來，他應該關上北邊的窗戶；如果從南邊吹來，他應該關上南邊的窗戶。如果天氣涼爽，他應該白天開窗，晚上關窗；如果天氣炎熱，他應該白天關窗，晚上開窗。」
+
+   * - “If the surrounding area (§) is dirty, he should sweep it. If the porch… assembly hall… fire hall… restroom is dirty, he should sweep it. If there is no drinking water, he should set it out. If there is no washing water, he should set it out. If there is no water in the pot for rinsing (in the restroom), he should pour it into the pot.
+
+     - 「如果周圍環境（§）髒了，他應該打掃。如果門廊……集會堂……消防站……洗手間髒了，他應該打掃。如果沒有飲用水，他應該設置飲用水。如果沒有洗滌用水，他應該設置洗滌用水。如果（洗手間裡）沖洗盆裡沒有水，他應該把水倒進盆裡。」
+
+   * - “If dissatisfaction (with the holy life) arises in the preceptor, one should allay it or get someone else to allay it or one should give him a Dhamma talk. If anxiety (over his conduct with regard to the rules) arises in the preceptor, one should dispel it or get someone else to dispel it or one should give him a Dhamma talk. If a viewpoint (*diṭṭhigata*, usually a fixed opinion with regard to a question not worth asking—see `MN 72`_) arises in the preceptor, one should pry it away or get someone else to pry it away or one should give him a Dhamma talk.
+
+     - 「如果戒師（對梵行生活）生起不滿，應當平息他的不滿，或請他人平息他的不滿，或應向他開示佛法。如果戒師（對他與戒條相關的行為）生起焦慮，應消除他的焦慮，或請他人消除他的焦慮，或應向他開示佛法。如果戒師生起某種見（\ *diṭṭhigata*\ ，通常指對不值得問的問題的固定意見——參見\ `《中部》72經`_\ ），就應該想辦法把它驅除，或者讓別人來想辦法把它驅除，或應向他開示佛法。
+
 .. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. _《波逸提》四十: {filename}Section0019%zh-hant.rst#Pc40
 .. _Sk 1 & 2: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk1
@@ -3045,5 +3057,7 @@
 .. _Sg 3: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
 .. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
 .. _《應學》三: {filename}Section0026%zh-hant.rst#Sk3
+.. _MN 72: https://www.dhammatalks.org/suttas/MN/MN72.html
+.. _《中部》72經: https://sutra.mobi/chilin/zhong/content/072.html
 
 (未完待續)
