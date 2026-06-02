@@ -3049,6 +3049,14 @@
 
      - 「如果戒師（對梵行生活）生起不滿，應當平息他的不滿，或請他人平息他的不滿，或應向他開示佛法。如果戒師（對他與戒條相關的行為）生起焦慮，應消除他的焦慮，或請他人消除他的焦慮，或應向他開示佛法。如果戒師生起某種見（\ *diṭṭhigata*\ ，通常指對不值得問的問題的固定意見——參見\ `《中部》72經`_\ ），就應該想辦法把它驅除，或者讓別人來想辦法把它驅除，或應向他開示佛法。
 
+   * - “If the preceptor has committed an offense against a heavy (saṅghādisesa) rule and deserves probation, the pupil should make an effort, (thinking,) “How can the Community grant my preceptor probation?” If the preceptor deserves to be sent back to the beginning… deserves penance… deserves rehabilitation, the pupil should make an effort, (thinking,) “How can the Community grant my preceptor rehabilitation?”
+
+     - 「如果戒師犯了重（《僧殘》）戒，應受到別住(波利婆沙)，弟子應當努力，（想著）：『僧團如何才能給予我的戒師別住？』如果戒師應本日治……應摩那埵……應出罪清淨，弟子應當努力，（想著）：『僧團如何才能給予我的戒師出罪清淨？』
+
+   * - “If the Community wants to carry out a transaction against the preceptor—censure, demotion, banishment, reconciliation, or suspension—the pupil should make an effort, (thinking,) ‘How can the Community not carry out that transaction against my preceptor or else change it to a lighter one?’ But if the transaction—censure… suspension—is carried out against him, the pupil should make an effort, (thinking,) ‘How can my preceptor behave properly, lower his hackles, mend his ways, so that the Community will rescind that transaction?’
+
+     - 「如果僧團想要對戒師執行羯磨——呵責(苦切)、依止、驅出、下意(遮不至白衣家)或舉罪——弟子應該努力，（想著：）『僧團如何才能不對我的戒師執行羯磨，或者將其改為較輕者？』但如果羯磨——呵責……舉罪——已經對他執行了，弟子應該努力，（想著：）『我的戒師如何能舉止得體，放下他的怒氣，改過自新，才能讓僧團撤銷該羯磨？』
+
 .. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. _《波逸提》四十: {filename}Section0019%zh-hant.rst#Pc40
 .. _Sk 1 & 2: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk1
