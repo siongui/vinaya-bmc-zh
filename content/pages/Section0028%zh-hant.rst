@@ -3065,6 +3065,14 @@
 
      - 「未經戒師許可，弟子不應向任何人[《義註》：與戒師關係不好]給予缽或從其接受缽。他不應給其袈裟布或從其接受袈裟布；不應給其必需品或從其接受必需品。他不應剪其頭髮或讓其給自己剪頭髮。他不應為其服務或讓其為自己服務。他不應作其淨人或讓其作自己的淨人。他不應做其侍者或讓其做自己的侍者。他不應為其帶回缽食或讓其為自己帶回缽食。
 
+   * - “Without having taken the preceptor’s leave, he shouldn’t enter a town, shouldn’t go to a cemetery, shouldn’t leave the district. (`Mv.II.21.1`_ adds (translating from the Burmese edition): “There is the case where a number of inexperienced, incompetent bhikkhus, traveling to distant locations, ask leave of their teachers and preceptors. They should be asked by their teachers and preceptors, ‘Where will you go? With whom will you go?’ If those inexperienced, incompetent bhikkhus name other inexperienced, incompetent bhikkhus, the teachers and preceptors should not give them permission. If they give permission: an offense of wrong doing. And if those inexperienced, incompetent bhikkhus, not having received permission, go anyway: an offense of wrong doing (for them).)
+
+     - 「未經戒師許可，不應入城鎮，不得去墓地，不應離開本地區。（\ `《大品》.二.21.1`_\ （從緬甸版本翻譯）補充：「有這樣的情況：有些比丘缺乏經驗、能力不足，前往遠方，向他們的老師和戒師請假。老師和戒師應當問他們：『你們要去哪裡？與誰同行？』如果那些缺乏經驗、能力不足的比丘說與其他缺乏經驗、能力不足的比丘同行，老師和戒師不應准許他們。如果准許，《惡作》罪。如果那些缺乏經驗、能力不足的比丘在沒有得到許可的情況下就去：（對他們而言）《惡作》罪。）
+
+   * - “If the preceptor is ill, he (the pupil) should tend to him as long as life lasts; he should stay with him until he recovers.”
+
+     - 「如果戒師生病了，他（弟子）應該終生照顧他，應和他待在一起直到他康復。」
+
 .. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. _《波逸提》四十: {filename}Section0019%zh-hant.rst#Pc40
 .. _Sk 1 & 2: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk1
@@ -3075,5 +3083,19 @@
 .. _《應學》三: {filename}Section0026%zh-hant.rst#Sk3
 .. _MN 72: https://www.dhammatalks.org/suttas/MN/MN72.html
 .. _《中部》72經: https://sutra.mobi/chilin/zhong/content/072.html
+.. _Mv.II.21.1: https://www.dhammatalks.org/vinaya/Mv/MvII.html#pts21_1
+.. _《大品》.二.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_002/#0157a10
 
-(未完待續)
+
+.. container:: has-text-centered
+
+   \*    \*    \*
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - As noted in `Chapter 2`_, a pupil who is not ill is expected to perform these services for his mentor unless the mentor tells him that he already has another pupil acting as his attendant or the other pupil says that he will accept responsibility for them. On the other hand, if the pupil is ill, the mentor is expected to perform these services for the pupil until the latter recovers. This reflects the Buddha’s statement that the pupil should regard the mentor as his father; and the mentor, the pupil as his son. If both bear this relationship in mind, they are sure to prosper in the practice of the Dhamma-Vinaya.
+
+     - 如\ `第二章`_\ 所述，未生病的弟子應為其導師提供這些服務，除非導師告知他已有其他弟子擔任侍者，或其他弟子表示願意為他們承擔職責。另一方面，若弟子生病，導師應為弟子提供這些服務，直至弟子康復。這體現了佛陀的教誨：弟子應視導師如父，導師視弟子如子。若雙方都能牢記此關係，他們必能在修持法與律裡興盛。
