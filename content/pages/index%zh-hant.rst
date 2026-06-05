@@ -925,7 +925,7 @@
      - `\　　十、弟子作為其導師侍者的職責 <{filename}Section0028%zh-hant.rst#appendixX>`__
 
    * - `\　Glossary <https://www.dhammatalks.org/vinaya/bmc/Section0029.html>`__
-     - 　詞彙表
+     - `\　詞彙表 <{filename}Section0029%zh-hant.rst>`__
 
    * - `\　Rule Index <https://www.dhammatalks.org/vinaya/bmc/Section0030.html>`__
      - 　戒條索引
