@@ -134,8 +134,7 @@
 .. _《滅諍》四: {filename}Section0027%zh-hant.rst#As4
 .. _《大品》.九.3.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0410a01
 .. _Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
-.. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
-.. TODO FIXME: replace link to 第十一章
+.. _第十一章: {filename}Section0027%zh-hant.rst#BMC1chapter11
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _Cv.IV.14.27-29: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#Cv.IV.14.27
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8

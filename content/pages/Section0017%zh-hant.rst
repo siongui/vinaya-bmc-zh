@@ -482,8 +482,7 @@
 .. _《小品》.一.1-8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/#0001a09
 .. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
-.. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
-.. TODO FIXME: replace link to 第十一章
+.. _第十一章: {filename}Section0027%zh-hant.rst#BMC1chapter11
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile

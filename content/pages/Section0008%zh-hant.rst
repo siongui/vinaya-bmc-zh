@@ -568,10 +568,6 @@
 
      - 如果這些要素適用於一位比丘，以至於僧團「厭倦了給予他別住、本日治、摩那埵、以及出罪」——這些術語指的是一個比丘屢次犯下《僧殘》罪的處理程序。（見\ `第五章`_\ ）－那麼僧團就有理由實施降級（或依止）羯磨（見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）。 這類似於本書\ `第十一章`_\ 將要討論的「覓罪相」羯磨，具有相同的懲罰，但多了額外的懲罰是，只要羯磨有效，比丘就必須依止其依止師而住。如果他改正自己的方式讓僧團滿意，僧團可解除羯磨並恢復他的獨立。
 
-       .. TODO FIXME: replace link to 第五章
-       .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
-       .. TODO FIXME: replace link to 第十一章
-
    * - .. container:: has-text-centered
 
           \*    \*    \*
@@ -586,6 +582,7 @@
 .. _Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#BMC1chapter5
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. _Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
-.. _第五章: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#BMC1chapter5
+.. _第五章: {filename}Section0011%zh-hant.rst#BMC1chapter5
 .. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
-.. _第十一章: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#BMC1chapter11
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
+.. _第十一章: {filename}Section0027%zh-hant.rst#BMC1chapter11

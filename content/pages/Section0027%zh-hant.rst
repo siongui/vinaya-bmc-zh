@@ -15,11 +15,25 @@
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
    :widths: auto
 
-   * - **CHAPTER ELEVEN**
-     - **第十一章**
+   * - .. raw:: html
 
-   * - *Adhikaraṇa-samatha*
-     - *滅諍*
+          <span id="BMC1chapter11"></span>
+
+       .. container:: is-size-5
+
+          **CHAPTER ELEVEN**
+
+     - .. container:: is-size-5
+
+          **第十一章**
+
+   * - .. container:: is-size-1
+
+          *Adhikaraṇa-samatha*
+
+     - .. container:: is-size-1
+
+          *滅諍*
 
    * - This term means “the settling of issues.” The seven rules in this section are actually principles and procedures for settling the four sorts of issues mentioned under `Pc 63`_: dispute-issues *(vivādādhikaraṇa)*, accusation-issues *(anuvādādhikaraṇa)*, offense-issues *(āpattādhikaraṇa)*, and duty-issues *(kiccādhikaraṇa)*. The Canon’s explanations of these procedures are given not in the Vibhaṅga but in Cullavagga IV, which starts with a sketch of the procedures, followed by a detailed discussion of how to apply them to each of the four types of issues. We will follow the same mode of presentation here.
 
