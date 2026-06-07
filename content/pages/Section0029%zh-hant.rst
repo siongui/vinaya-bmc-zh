@@ -39,6 +39,18 @@
    * - *Adhikaraṇa:* issue. See `Pc 63`_, `Chapter 11`_, and `BMC2, Chapter 12`_.
      - *Adhikaraṇa：*\ `諍事 <https://dictionary.sutta.org/browse/a/adhikara%E1%B9%87a/>`__\ 。請參閱\ `《波逸提》六三`_\ ，\ `第十一章`_\ 和\ `《佛教比丘戒律 第二冊》第十二章`_\ 。
 
+   * - *Adhiṭṭhāna:* determining for use. See `NP 1`_, `3 <https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3>`__, `21 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21>`__, & `24 <https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24>`__ and `Appendix IV`_.
+     - *Adhiṭṭhāna：* （\ `決意 <https://dictionary.sutta.org/browse/a/adhi%E1%B9%AD%E1%B9%ADh%C4%81na/>`__\ ） 決意使用。參見\ `《捨墮》一`_\ 、\ `三 <{filename}Section0013%zh-hant.rst#NP3>`__\ 、\ `二一 <{filename}Section0015%zh-hant.rst#NP21>`__\ 和\ `二四 <{filename}Section0015%zh-hant.rst#NP24>`__\ 以及\ `附錄四`_\ 。
+
+   * - *Akkosa-vatthu:* a topic for abuse. See `Pc 2`_ & `3 <https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc3>`__.
+     - *Akkosa-vatthu：* （\ `akkosa <https://dictionary.sutta.org/browse/a/akkosa/>`__\ ） 辱罵主題。請參閱\ `《波逸提》二`_\ 和\ `三 <{filename}Section0016%zh-hant.rst#Pc3>`__\ 。
+
+   * - *Anupasampanna:* anyone who has not received full Acceptance (ordination). Under some rules, this includes bhikkhunīs; under others, it doesn’t.
+     - *Anupasampanna：* （\ `未具足的 <https://dictionary.sutta.org/browse/a/anupasampanna/>`__\ ） 指任何尚未受完整具足戒者。在某些戒條，這包括比丘尼；在另一些戒條，不包括比丘尼。
+
+   * - *Apalokana:* announcement; the simplest form for a Community transaction, in which a decision is proposed to the Community in the announcer’s own words. See `BMC2, Chapter 12`_.
+     - *Apalokana：* （\ `求聽 <https://dictionary.sutta.org/browse/a/apalokana/>`__\ ） 公告；是僧團羯磨中最簡單的形式，公告者以自己的語言向僧團提出一項決定。參見\ `《佛教比丘戒律 第二冊》第十二章`_\ 。
+
 .. _Chapter 2: https://www.dhammatalks.org/vinaya/bmc/Section0008.html#BMC1chapter2
 .. _Appendix X: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
 .. _第二章: {filename}Section0008%zh-hant.rst#BMC1chapter2
@@ -50,5 +62,11 @@
 .. _第十一章: {filename}Section0027%zh-hant.rst#BMC1chapter11
 .. _《佛教比丘戒律 第二冊》第十二章: https://www.dhammatalks.org/vinaya/bmc/Section0052.html#BMC2chapter12
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十二章
+.. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. _Appendix IV: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIV
+.. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
+.. _附錄四: {filename}Section0028%zh-hant.rst#appendixIV
+.. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
+.. _《波逸提》二: {filename}Section0016%zh-hant.rst#Pc2
 
 (未完待續)
