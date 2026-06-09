@@ -57,6 +57,9 @@
    * - *Bhikkhu:* a male mendicant ordained in the Bhikkhu Saṅgha, subject to the training rules of the Bhikkhu Pāṭimokkha and the Khandhakas (the Mahāvagga and Cullavagga).
      - *Bhikkhu：*\ [譯註：\ `比丘 <https://dictionary.sutta.org/browse/b/bhikkhu/>`__] 在比丘僧團受具足戒的男性托缽修行者，須遵守比丘《波羅提木叉》和《犍度》（《大品》和《小品》）的學處。
 
+   * - *Bhikkhunī:* a female mendicant ordained by both the Bhikkhunī and the Bhikkhu Saṅghas, subject to the training rules of the Bhikkhunī Pāṭimokkha and the eight rules of respect *(garu-dhamma)*. See `Pc 21`_ and `BMC2, Chapter 23`_.
+     - *Bhikkhunī：*\ [譯註：\ `比丘尼 <https://dictionary.sutta.org/browse/b/bhikkhun%C4%AB/>`__] 由比丘尼僧團和比丘僧團共同授具足戒的女性托缽修行者，須遵守比丘尼《波羅提木叉》的學處和八敬法\ *（garu-dhamma）*\ 。參見\ `《波逸提》二一`_\ 和\ `《佛教比丘戒律 第二冊》第二十三章`_\ 。
+
 .. _Chapter 2: https://www.dhammatalks.org/vinaya/bmc/Section0008.html#BMC1chapter2
 .. _Appendix X: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixX
 .. _第二章: {filename}Section0008%zh-hant.rst#BMC1chapter2
@@ -81,5 +84,27 @@
 .. _附錄三: {filename}Section0028%zh-hant.rst#appendixIII
 .. _《佛教比丘戒律 第二冊》第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十八章
+.. _Pc 21: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc21
+.. _BMC2, Chapter 23: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
+.. _《波逸提》二一: {filename}Section0018%zh-hant.rst#Pc21
+.. _《佛教比丘戒律 第二冊》第二十三章: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十三章
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Bhojana/Bhojaniya:* staple food. See the introduction to the `Food Chapter`_ in `Chapter 8`_.
+     - *Bhojana/Bhojaniya：*\ [譯註：\ `噉食 <https://dictionary.sutta.org/browse/b/bhojaniya/>`__] 主食。請參閱\ `第八章`_\ 的\ `食物品`_\ 的介紹。
+
+   * - *Bhūtagāma:* a living plant in its place. See `Pc 11`_.
+     - *Bhūtagāma：*\ [譯註：\ `bhūta <https://dictionary.sutta.org/browse/b/bh%C5%ABta/>`__] 在其位置的活植物。參見\ `《波逸提》十一`_\ 。
+
+.. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
+.. _Chapter 8: https://www.dhammatalks.org/vinaya/bmc/Section0019.html
+.. _食物品: {filename}Section0019%zh-hant.rst#Pc_ChFour
+.. _第八章: {filename}Section0019%zh-hant.rst
+.. _Pc 11: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
+.. _《波逸提》十一: {filename}Section0017%zh-hant.rst#Pc11
 
 (未完待續)
