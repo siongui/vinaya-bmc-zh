@@ -98,7 +98,22 @@
      - *Bhojana/Bhojaniya：*\ [譯註：\ `噉食 <https://dictionary.sutta.org/browse/b/bhojaniya/>`__] 主食。請參閱\ `第八章`_\ 的\ `食物品`_\ 的介紹。
 
    * - *Bhūtagāma:* a living plant in its place. See `Pc 11`_.
-     - *Bhūtagāma：*\ [譯註：\ `bhūta <https://dictionary.sutta.org/browse/b/bh%C5%ABta/>`__] 在其位置的活植物。參見\ `《波逸提》十一`_\ 。
+     - *Bhūtagāma：*\ [譯註：\ `bhūta <https://dictionary.sutta.org/browse/b/bh%C5%ABta/>`__ + `gāma <https://dictionary.sutta.org/browse/g/g%C4%81ma/>`__] 在其原位置的活植物。參見\ `《波逸提》十一`_\ 。
+
+   * - *Bījagāma:* a plant or part of a plant removed from its place but capable of growing again if replanted. See `Pc 11`_.
+     - *Bījagāma：*\ [譯註：\ `bīja <https://dictionary.sutta.org/browse/b/b%C4%ABja/>`__ + `gāma <https://dictionary.sutta.org/browse/g/g%C4%81ma/>`__] 指從原地移除但重新栽種後仍能再次生長的植物或植物的一部分。參見\ `《波逸提》十一`_\ 。
+
+   * - *Chanda:* consent by proxy. See `Pc 79`_.
+     - *Chanda：*\ [譯註：\ `欲 <https://dictionary.sutta.org/browse/c/chanda/>`__] 代理同意。參見\ `《波逸提》七九`_\ 。
+
+   * - *Deva (devatā):* literally, a “shining one”—a terrestrial spirit or celestial being.
+     - *Deva（devatā）：*\ [譯註：\ `天 <https://dictionary.sutta.org/browse/d/deva/>`__] 字面意思是「閃耀者」——指陸地神靈或天上眾生。
+
+   * - *Dubbhāsita:* wrong speech. See `Pc 2`_.
+     - *Dubbhāsita：*\ [譯註：\ `惡說 <https://dictionary.sutta.org/browse/d/dubbh%C4%81sita/>`__] 錯誤的言語。參見 Pc 2。
+
+   * - *Dukkaṭa:* wrong doing, the lightest penalty.
+     - *Dukkaṭa：*\ [譯註：\ `惡作/突吉羅 <https://dictionary.sutta.org/browse/d/dukka%E1%B9%ADa/>`__] 錯誤行為，最輕的懲罰。
 
 .. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
 .. _Chapter 8: https://www.dhammatalks.org/vinaya/bmc/Section0019.html
@@ -106,5 +121,9 @@
 .. _第八章: {filename}Section0019%zh-hant.rst
 .. _Pc 11: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
 .. _《波逸提》十一: {filename}Section0017%zh-hant.rst#Pc11
+.. _Pc 79: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc79
+.. _《波逸提》七九: {filename}Section0023%zh-hant.rst#Pc79
+.. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
+.. _《波逸提》二: {filename}Section0016%zh-hant.rst#Pc2
 
 (未完待續)
