@@ -115,6 +115,13 @@
    * - *Dukkaṭa:* wrong doing, the lightest penalty.
      - *Dukkaṭa：*\ [譯註：\ `惡作/突吉羅 <https://dictionary.sutta.org/browse/d/dukka%E1%B9%ADa/>`__] 錯誤行為，最輕的懲罰。
 
+   * - *Garu-bhaṇḍa:* a heavy or expensive article. Garu-bhaṇḍa belonging to the Saṅgha includes monasteries and monastery land; dwellings, land on which dwellings are built; furnishings such as beds, chairs, and mattresses; metal vessels and tools; building materials, including such things as rushes, reeds, grass, and clay; and articles made of pottery or wood. See `Pr 2`_, `Sg 6`_, `Pc 81`_, and `BMC2, Chapter 7`_.
+
+     - *Garu-bhaṇḍa：*\ [譯註：\ `garu <https://dictionary.sutta.org/browse/g/garu/>`__ + `bhaṇḍa <https://dictionary.sutta.org/browse/b/bha%E1%B9%87%E1%B8%8Da/>`__] 指重或昂貴的物品。僧伽所有的 Garu-bhaṇḍa 包括寺院及其土地；住處及其建造之土地；諸如床、椅、床墊等家具；金屬器皿和工具；建築材料，包含例如燈心草、蘆葦、草、黏土等；以及陶器或木製品。參見\ `《波羅夷》二`_\ 、\ `《僧殘》六`_\ 、\ `《波逸提》八一`_\ 、以及\ `《佛教比丘戒律 第二冊》第七章`_\ 。
+
+   * - *Garu-dhamma:* any of eight rules of respect observed by bhikkhunīs. See `Pc 21`_ and `BMC2, Chapter 23`_.
+     - *Garu-dhamma：*\ [譯註：\ `八敬法 <https://zh.wikipedia.org/wiki/%E5%85%AB%E6%95%AC%E6%B3%95>`__] 比丘尼所遵守的八敬法。參見\ `《波逸提》二一`_\ 和\ `《佛教比丘戒律 第二冊》第二十三章`_\ 。
+
 .. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
 .. _Chapter 8: https://www.dhammatalks.org/vinaya/bmc/Section0019.html
 .. _食物品: {filename}Section0019%zh-hant.rst#Pc_ChFour
@@ -125,5 +132,13 @@
 .. _《波逸提》七九: {filename}Section0023%zh-hant.rst#Pc79
 .. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
 .. _《波逸提》二: {filename}Section0016%zh-hant.rst#Pc2
+.. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
+.. _Sg 6: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg6
+.. _Pc 81: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc81
+.. _BMC2, Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
+.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
+.. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
+.. _《波逸提》八一: {filename}Section0023%zh-hant.rst#Pc81
+.. _《佛教比丘戒律 第二冊》第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
 
 (未完待續)
