@@ -122,6 +122,15 @@
    * - *Garu-dhamma:* any of eight rules of respect observed by bhikkhunīs. See `Pc 21`_ and `BMC2, Chapter 23`_.
      - *Garu-dhamma：*\ [譯註：\ `八敬法 <https://zh.wikipedia.org/wiki/%E5%85%AB%E6%95%AC%E6%B3%95>`__] 比丘尼所遵守的八敬法。參見\ `《波逸提》二一`_\ 和\ `《佛教比丘戒律 第二冊》第二十三章`_\ 。
 
+   * - *Hatthapāsa:* a distance of 2 ½ cubits, or 1.25 meters.
+     - *Hatthapāsa：*\ [譯註：\ `伸手可及 <https://dictionary.sutta.org/browse/h/hatthap%C4%81sa/>`__\ ， `hattha <https://dictionary.sutta.org/browse/h/hattha/>`__ + `pāsa <https://dictionary.sutta.org/browse/p/p%C4%81sa/>`__] 2 ½ 肘尺，或 1.25 公尺。
+
+   * - *Jhāna:* mental absorption. See `Pr 4`_.
+     - *Jhāna：*\ [譯註：\ `禪定/禪那 <https://dictionary.sutta.org/browse/j/jh%C4%81na/>`__] 心意集中。參見\ `《波羅夷》四`_\ 。
+
+   * - *Kappiya-vohāra:* a proper expression, i.e., a way of expressing a hint or desire allowable in the context of a rule where an outright command would be a breach of the rule.
+     - *Kappiya-vohāra：*\ [譯註：\ `kappiya <https://dictionary.sutta.org/browse/k/kappiya/>`__ + `vohāra <https://dictionary.sutta.org/browse/v/voh%C4%81ra/>`__] 一種恰當的表達方式，即在戒條的背景下，表達暗示或願望的一種允許方式，而直接命令則會違反戒條。
+
 .. _Food Chapter: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc_ChFour
 .. _Chapter 8: https://www.dhammatalks.org/vinaya/bmc/Section0019.html
 .. _食物品: {filename}Section0019%zh-hant.rst#Pc_ChFour
@@ -140,5 +149,7 @@
 .. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
 .. _《波逸提》八一: {filename}Section0023%zh-hant.rst#Pc81
 .. _《佛教比丘戒律 第二冊》第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
+.. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
+.. _《波羅夷》四: {filename}Section0010%zh-hant.rst#Pr4
 
 (未完待續)
