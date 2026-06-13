@@ -149,7 +149,37 @@
 .. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
 .. _《波逸提》八一: {filename}Section0023%zh-hant.rst#Pc81
 .. _《佛教比丘戒律 第二冊》第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第七章
 .. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
 .. _《波羅夷》四: {filename}Section0010%zh-hant.rst#Pr4
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Kaṭhina:* a ceremony, held in the fourth month of the rainy season, in which a Community of bhikkhus receives a gift of cloth from a donor or donors, bestows it on one of their members, and then makes it into a robe before dawn of the following day. See `NP 1-3`_, `Pc 81`_, and `BMC2, Chapter 17`_.
+
+     - *Kaṭhina：*\ [譯註：\ `功德衣/迦絺那 <https://dictionary.sutta.org/browse/k/ka%E1%B9%ADhina/>`__] 在雨季第四個月舉行的儀式，比丘僧團接受布施者贈予的布料，將其授予一位僧團成員，並在次日黎明\ :small:`[明相]`\ 前將其製成袈裟。參見\ `《捨墮》一至三`_\ 、\ `《波逸提》八一`_\ ，以及\ `《佛教比丘戒律 第二冊》第十七章`_\ 。
+
+   * - *Khādaniya:* non-staple food. See the introduction to the `Food Chapter`_ in `Chapter 8`_.
+     - *Khādaniya：*\ [譯註：\ `嚼食 <https://dictionary.sutta.org/browse/k/kh%C4%81daniya/>`__] 副食。參見\ `第八章`_\ 裡\ `食物品`_\ 的引言。
+
+   * - *Lahu-bhaṇḍa:* a light or inexpensive article. Lahu-bhaṇḍa of the Saṅgha includes such things as cloth, food, and medicine; and small personal accessories such as scissors, sandals, and water strainers. See `Pr 2`_, `Sg 6`_, and `Pc 81`_.
+
+     - *Lahu-bhaṇḍa：*\ [譯註：\ `lahu <https://dictionary.sutta.org/browse/l/lahu/>`__ + `bhaṇḍa <https://dictionary.sutta.org/browse/b/bha%E1%B9%87%E1%B8%8Da/>`__] 指輕或非貴重之物。僧伽的 lahu-bhaṇḍa 包括諸如布料、食物、藥品；以及如剪刀、涼鞋、濾水器等小型個人用品。參見\ `《波羅夷》二`_\ 、\ `《僧殘》六`_\ 、以及\ `《波逸提》八一`_\ 。
+
+   * - *Leḍḍupāta:* the distance a man of average height can toss a clod of dirt underarm—approximately 18 meters.
+     - *Leḍḍupāta：*\ [譯註：\ `擲石所及所 <https://dictionary.sutta.org/browse/l/le%E1%B8%8D%E1%B8%8Du/>`__] 一個中等身高的男子手部低於肩膀拋擲一團泥土的距離——大約 18 公尺。
+
+   * - *Loka-vajja:* acts criticized by people in general. See `Chapter 1`_.
+     - *Loka-vajja：*\ [譯註：世間罪 `loka <https://dictionary.sutta.org/browse/l/loka/>`__ + `vajja <https://dictionary.sutta.org/browse/v/vajja/>`__] 指普遍受到人們批評的行為。參見\ `第一章`_\ 。
+
+.. _NP 1-3: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. _BMC2, Chapter 17: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
+.. _《捨墮》一至三: {filename}Section0013%zh-hant.rst#NP1
+.. _《佛教比丘戒律 第二冊》第十七章: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十七章
+.. _Chapter 1: https://www.dhammatalks.org/vinaya/bmc/Section0007.html#BMC1chapter1
+.. _第一章: {filename}Section0007%zh-hant.rst#BMC1chapter1
 
 (未完待續)
