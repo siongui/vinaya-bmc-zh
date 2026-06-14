@@ -174,6 +174,15 @@
    * - *Loka-vajja:* acts criticized by people in general. See `Chapter 1`_.
      - *Loka-vajja：*\ [譯註：世間罪 `loka <https://dictionary.sutta.org/browse/l/loka/>`__ + `vajja <https://dictionary.sutta.org/browse/v/vajja/>`__] 指普遍受到人們批評的行為。參見\ `第一章`_\ 。
 
+   * - *Lokuttara-dhamma:* a transcendent state. See `Pr 4`_.
+     - *Lokuttara-dhamma：*\ [譯註：\ 出世間法 `lokuttara <https://dictionary.sutta.org/browse/l/lokuttara/>`__ + `dhamma <https://dictionary.sutta.org/browse/d/dhamma/>`__] 一種超越的狀態。參見\ `《波羅夷》四`_\ 。
+
+   * - *Mahāpadesa:* Great Standard for deciding what is and is not in line with the Dhamma and Vinaya. See `Chapter 1`_.
+     - *Mahāpadesa：*\ [譯註：《四大教示》/四大教法 `padesa <https://dictionary.sutta.org/browse/p/padesa/>`__] 決定什麼是或不是符合法與律的偉大標準。參見\ `第一章`_\ 。
+
+   * - *Mānatta:* penance. See the `conclusion to Chapter 5`_ and `BMC2, Chapter 19`_ and `Chapter 23`_.
+     - *Mānatta：*\ [譯註：\ `摩那埵 <https://dictionary.sutta.org/browse/m/m%C4%81natta/>`__] 贖罪。參見\ `第五章的結論`_\ 以及\ `《佛教比丘戒律 第二冊》第十九章`_\ 和\ `第二十三章`_\ 。
+
 .. _NP 1-3: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
 .. _BMC2, Chapter 17: https://www.dhammatalks.org/vinaya/bmc/Section0057.html#BMC2chapter17
 .. _《捨墮》一至三: {filename}Section0013%zh-hant.rst#NP1
@@ -181,5 +190,13 @@
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十七章
 .. _Chapter 1: https://www.dhammatalks.org/vinaya/bmc/Section0007.html#BMC1chapter1
 .. _第一章: {filename}Section0007%zh-hant.rst#BMC1chapter1
+.. _conclusion to Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#SgConclusion
+.. _BMC2, Chapter 19: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#BMC2chapter19
+.. _Chapter 23: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
+.. _第五章的結論: {filename}Section0015%zh-hant.rst#SgConclusion
+.. _《佛教比丘戒律 第二冊》第十九章: https://www.dhammatalks.org/vinaya/bmc/Section0059.html#BMC2chapter19
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十九章
+.. _第二十三章: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十三章
 
 (未完待續)
