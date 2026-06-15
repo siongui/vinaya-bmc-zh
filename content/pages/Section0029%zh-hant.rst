@@ -199,4 +199,28 @@
 .. _第二十三章: https://www.dhammatalks.org/vinaya/bmc/Section0065.html#BMC2chapter23
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十三章
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Nāga:* a special kind of serpent, classed as a common animal but having magical powers, including the ability to assume human appearance. Nāgas have long been regarded as protectors of the Buddha’s teachings. See `BMC2, Chapter 14`_.
+
+     - *Nāga：*\ [譯註：\ `龍 <https://dictionary.sutta.org/browse/n/n%C4%81ga/>`__] 一種特殊的蛇，被歸類為普通動物，卻擁有神奇的力量，包括化身為人的能力。Nāga 長期以來就被視為佛陀教法的守護者。參見\ `《佛教比丘戒律 第二冊》第十四章`_\ 。
+
+   * - *Ñatti-kamma:* a form for a Community transaction in which a decision is proposed to the Community in a motion following a set wording. See `BMC2, Chapter 12`_.
+
+     - *Ñatti-kamma：*\ [譯註：\ `單白羯磨 <https://dictionary.sutta.org/browse/%C3%B1/%C3%B1atti/>`__] 一種僧團羯磨的形式，在此形式中，透過一次動議的形式按照既定措辭向僧團提交決定。參見\ `《佛教比丘戒律 第二冊》第十二章`_\ 。
+
+   * - *Ñatti-dutiya-kamma:* a form for a Community transaction in which a decision is proposed to the Community in a motion and one proclamation. See `BMC2, Chapter 12`_.
+
+     - *Ñatti-dutiya-kamma：*\ [譯註：\ `白二羯磨 <https://dictionary.sutta.org/browse/%C3%B1/%C3%B1atti/>`__] 一種僧團羯磨形式，在此形式中，透過一次動議和一次公告的形式向僧團提交決定。參見\ `《佛教比丘戒律 第二冊》第十二章`_\ 。
+
+   * - *Ñatti-catuttha-kamma:* a form for a Community transaction in which a decision is proposed to the Community in a motion and three proclamations. See `BMC2, Chapter 12`_.
+
+     - *Ñatti-catuttha-kamma：*\ [譯註：\ `白四羯磨 <https://dictionary.sutta.org/browse/%C3%B1/%C3%B1atti/>`__] 一種僧團羯磨形式，在此形式中，透過一次動議和三次公告的形式向僧團提交決定。參見\ `《佛教比丘戒律 第二冊》第十二章`_\ 。
+
+.. _BMC2, Chapter 14: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
+.. _《佛教比丘戒律 第二冊》第十四章: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十四章
+
 (未完待續)
