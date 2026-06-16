@@ -219,8 +219,29 @@
 
      - *Ñatti-catuttha-kamma：*\ [譯註：\ `白四羯磨 <https://dictionary.sutta.org/browse/%C3%B1/%C3%B1atti/>`__] 一種僧團羯磨形式，在此形式中，透過一次動議和三次公告的形式向僧團提交決定。參見\ `《佛教比丘戒律 第二冊》第十二章`_\ 。
 
+   * - *Niyasa-kamma:* demotion (also called *nissaya-kamma*, an act of dependence)—a transaction whereby a bhikkhu released from dependence is required to return to dependence under a mentor until he mends his ways. See `Chapter 2`_ and `BMC2, Chapter 20`_.
+
+     - *Niyasa-kamma：*\ [譯註：\ `依止羯磨 <https://dictionary.sutta.org/browse/n/nissaya/>`__] 降級（也稱為 *nissaya-kamma* ，意為依止行為）——一種羯磨，指已脫離依止的比丘必須重新依止於一位導師，直至其改過自新。參見\ `第二章`_\ 及\ `《佛教比丘戒律 第二冊》第二十章`_\ 。
+
+   * - *Pabbājanīya-kamma:* banishment—a transaction whereby a bhikkhu is denied membership in a particular Community until he mends his ways. See `Sg 13`_ and `BMC2, Chapter 20`_.
+
+     - *Pabbājanīya-kamma：*\ [譯註：\ `驅出羯磨 <https://dictionary.sutta.org/browse/p/pabb%C4%81janiya/>`__] 驅逐——一種羯磨，即拒絕一名比丘在某個特定的僧團裡的成員資格，直到他改過自新為止。參見\ `《僧殘》十三`_\ 和\ `《佛教比丘戒律 第二冊》第二十章`_\ 。
+
+   * - *Pabbajjā:* Going-forth—ordination as a sāmaṇera or sāmaṇerī. See `BMC2, Chapters 14`_ and `24 <https://www.dhammatalks.org/vinaya/bmc/Section0066.html#BMC2chapter24>`__.
+
+     - *Pabbajjā：*\ `出家 <https://dictionary.sutta.org/browse/p/pabbajj%C4%81/>`_——受戒成為沙彌（sāmaṇera）或沙彌尼（sāmaṇerī）。參見\ `《佛教比丘戒律 第二冊》第十四章`_\ 和\ `第二十四章`_\ 。
+
 .. _BMC2, Chapter 14: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
 .. _《佛教比丘戒律 第二冊》第十四章: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十四章
+.. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十章
+.. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
+.. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
+.. _第二十四章: https://www.dhammatalks.org/vinaya/bmc/Section0066.html#BMC2chapter24
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十四章
+.. _BMC2, Chapters 14: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
+.. TODO FIXME: Chapter多了一個s？？？
 
 (未完待續)
