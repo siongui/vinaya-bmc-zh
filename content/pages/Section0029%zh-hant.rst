@@ -231,6 +231,18 @@
 
      - *Pabbajjā：*\ `出家 <https://dictionary.sutta.org/browse/p/pabbajj%C4%81/>`_——受戒成為沙彌（sāmaṇera）或沙彌尼（sāmaṇerī）。參見\ `《佛教比丘戒律 第二冊》第十四章`_\ 和\ `第二十四章`_\ 。
 
+   * - *Paccuddharaṇa:* rescinding from use. See `Appendix IV`_.
+     - *Paccuddharaṇa：*\ [譯註：\ `paccuddharaṇa <https://dictionary.sutta.org/browse/p/paccuddhara%E1%B9%87a/>`__] 撤銷使用。參見\ `附錄四`_\ 。
+
+   * - *Palibodha:* constraint. See `NP 1`_.
+     - *Palibodha：*\ [譯註：\ `障礙 <https://dictionary.sutta.org/browse/p/palibodha/>`__] 約束。參見\ `《捨墮》一`_\ 。
+
+   * - *Pāna:* juice drink. See the introduction to the `Food Chapter`_ in `Chapter 8`_, and `Pc 38`_.
+     - *Pāna：*\ [譯註：\ `pāna <https://dictionary.sutta.org/browse/p/p%C4%81na/>`__] 果汁飲料。參見\ `第八章`_\ 的\ `食物品`_\ 的引言和\ `《波逸提》三八`_\ 。
+
+   * - *Paṇḍaka:* a eunuch or person born neuter. See `Sg 2`_.
+     - *Paṇḍaka：*\ [譯註：\ `黃門 <https://dictionary.sutta.org/browse/p/pa%E1%B9%87%E1%B8%8Daka/>`__] 閹人或生來為中性的人。參見\ `《僧殘》二`_\ 。
+
 .. _BMC2, Chapter 14: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
 .. _《佛教比丘戒律 第二冊》第十四章: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十四章
@@ -243,5 +255,9 @@
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十四章
 .. _BMC2, Chapters 14: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
 .. TODO FIXME: Chapter多了一個s？？？
+.. _Pc 38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
+.. _《波逸提》三八: {filename}Section0019%zh-hant.rst#Pc38
+.. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
+.. _《僧殘》二: {filename}Section0011%zh-hant.rst#Sg2
 
 (未完待續)
