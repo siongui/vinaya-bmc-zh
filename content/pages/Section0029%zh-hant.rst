@@ -243,6 +243,12 @@
    * - *Paṇḍaka:* a eunuch or person born neuter. See `Sg 2`_.
      - *Paṇḍaka：*\ [譯註：\ `黃門 <https://dictionary.sutta.org/browse/p/pa%E1%B9%87%E1%B8%8Daka/>`__] 閹人或生來為中性的人。參見\ `《僧殘》二`_\ 。
 
+   * - *Paṇṇatti-vajja:* acts criticized by the training rules. See `Chapter 1`_.
+     - *Paṇṇatti-vajja：*\ [譯註：\ `paṇṇatti <https://dictionary.sutta.org/browse/p/pa%E1%B9%87%E1%B9%87atti/>`__ + `vajja <https://dictionary.sutta.org/browse/v/vajja/>`__] 受學處批評的行為。參見\ `第一章`_\ 。
+
+   * - *Parivāsa:* probation. See the `conclusion to Chapter 5`_ and `BMC2, Chapter 19`_.
+     - *Parivāsa：*\ `別住 <https://dictionary.sutta.org/browse/p/pariv%C4%81sa/>`__\ 。參見\ `第五章的結論`_\ 以及\ `《佛教比丘戒律 第二冊》第十九章`_\ 。
+
 .. _BMC2, Chapter 14: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
 .. _《佛教比丘戒律 第二冊》第十四章: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十四章
