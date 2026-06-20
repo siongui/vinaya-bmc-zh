@@ -249,6 +249,10 @@
    * - *Parivāsa:* probation. See the `conclusion to Chapter 5`_ and `BMC2, Chapter 19`_.
      - *Parivāsa：*\ `別住 <https://dictionary.sutta.org/browse/p/pariv%C4%81sa/>`__\ 。參見\ `第五章的結論`_\ 以及\ `《佛教比丘戒律 第二冊》第十九章`_\ 。
 
+   * - *Pavāraṇā:* (1) an invitation whereby a donor gives permission to a bhikkhu or a Community of bhikkhus to ask for requisites. See `Pc 47`_. (2) A ceremony, held at the end of the Rains-residence (see *vassa*), in which each bhikkhu invites the rest of the Community to confront him with any transgressions they may have seen, heard, or suspected that he has committed. See `BMC2, Chapter 16`_.
+
+     - *Pavāraṇā：*\ [譯註：\ `自恣 <https://dictionary.sutta.org/browse/p/pav%C4%81ra%E1%B9%87%C4%81/>`__] （1）一種邀請，布施者允許比丘或比丘僧團請求必需品。參見\ `《波逸提》四七`_\ 。（2）雨安居（參見 *vassa* ）結束時舉行的儀式，每位比丘邀請其他僧團成員當面指出他們所見、所聞或所懷疑的任何自己所作的過犯。參見\ `《佛教比丘戒律 第二冊》第十六章`_\ 。
+
 .. _BMC2, Chapter 14: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
 .. _《佛教比丘戒律 第二冊》第十四章: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十四章
@@ -265,5 +269,10 @@
 .. _《波逸提》三八: {filename}Section0019%zh-hant.rst#Pc38
 .. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
 .. _《僧殘》二: {filename}Section0011%zh-hant.rst#Sg2
+.. _Pc 47: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47
+.. _《波逸提》四七: {filename}Section0020%zh-hant.rst#Pc47
+.. _BMC2, Chapter 16: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
+.. _《佛教比丘戒律 第二冊》第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十六章
 
 (未完待續)
