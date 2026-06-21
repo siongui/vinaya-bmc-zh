@@ -275,4 +275,21 @@
 .. _《佛教比丘戒律 第二冊》第十六章: https://www.dhammatalks.org/vinaya/bmc/Section0056.html#BMC2chapter16
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十六章
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Peta:* (1) a hungry ghost—one of a class of beings in the lower realms, sometimes capable of appearing to human beings. (2) A corpse.
+     - *Peta：*\ （1）\ `餓鬼 <https://dictionary.sutta.org/browse/p/peta/>`__\ ——低等域界的一種眾生，有時能顯現於人類面前。（2）屍體。
+
+   * - *Pubbayoga:* a preliminary effort leading up to the commission of an offense.
+     - *Pubbayoga：*\ [譯註：\ `pubba <https://dictionary.sutta.org/browse/p/pubba/>`__ + `yoga <https://dictionary.sutta.org/browse/y/yoga/>`__] 實施犯戒前的初步努力。
+
+   * - *Sacittaka:* a class of offenses that carry a penalty only when committed intentionally and with correct perception.
+     - *Sacittaka：*\ [譯註：\ `sa <https://dictionary.sutta.org/browse/s/sa/>`__ + `citta <https://dictionary.sutta.org/browse/c/citta/>`__] 一類只有在故意且具有正確感知的情況下違犯才會受到懲罰的罪行。
+
+   * - *Samaṇa:* contemplative; monk. This word is derived from the adjective *sama*, which means “in tune” or “in harmony.” The samaṇas in ancient India were wanderers who tried through direct contemplation to find the true nature of reality—as opposed to the conventions taught in the Vedas—and to live in tune or in harmony with that reality. Buddhism is one of several samaṇa movements. Others included Jainism, Ājivakan fatalism, and Lokāyata, or hedonism.
+
+     - *Samaṇa：*\ `沙門 <https://dictionary.sutta.org/browse/s/sama%E1%B9%87a/>`__\ ；比丘。這個字源自於形容詞 *sama* ，意為「協調的」或「和諧的」。古印度的沙門是遊方者，他們試圖透過直接冥想來探索現實的真正本質——而非吠陀經所教導的習俗——並與現實和諧共處，或者順應現實。佛教是眾多沙門運動之一。其他運動也包括耆那教、阿耆婆教（\ `邪命外道 <https://dictionary.sutta.org/browse/%C4%81/%C4%81j%C4%ABvika/>`__\ ）的宿命論以及\ `順世外道 <https://dictionary.sutta.org/browse/l/lok%C4%81yata/>`__，或稱享樂主義。
+
 (未完待續)
