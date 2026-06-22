@@ -292,4 +292,27 @@
 
      - *Samaṇa：*\ `沙門 <https://dictionary.sutta.org/browse/s/sama%E1%B9%87a/>`__\ ；比丘。這個字源自於形容詞 *sama* ，意為「協調的」或「和諧的」。古印度的沙門是遊方者，他們試圖透過直接冥想來探索現實的真正本質——而非吠陀經所教導的習俗——並與現實和諧共處，或者順應現實。佛教是眾多沙門運動之一。其他運動也包括耆那教、阿耆婆教（\ `邪命外道 <https://dictionary.sutta.org/browse/%C4%81/%C4%81j%C4%ABvika/>`__\ ）的宿命論以及\ `順世外道 <https://dictionary.sutta.org/browse/l/lok%C4%81yata/>`__，或稱享樂主義。
 
+   * - *Sāmaṇera:* literally, a small samaṇa—a novice monk observing ten precepts. See `Pc 70`_.
+     - *Sāmaṇera：*\ 字面意思是小沙門——指遵守十戒的\ `沙彌 <https://dictionary.sutta.org/browse/s/s%C4%81ma%E1%B9%87era/>`__\ 。參見\ `《波逸提》七十`_\ 。
+
+   * - *Saṅgha:* Community. This may refer to the entire Community of bhikkhus or of bhikkhunīs, or to the Community living in a particular location. In this book I have tried to distinguish between the two by calling the first *Saṅgha*, and the second *Community*, but there are some contexts where it is difficult to draw a clear line between the two.
+
+     - *Saṅgha：*\ `僧伽/僧團 <https://dictionary.sutta.org/browse/s/sa%E1%B9%85gha/>`__\ 。可以指整個比丘或比丘尼僧團，也可以指居住在特定地點的僧團。本書中，我嘗試區分二者，將前者稱為\ *僧伽*\ ，後者稱為\ *僧團*\ ，但在某些情況脈絡下，二者之間的界線難以明確劃分。
+
+   * - *Saṅgha-bheda:* a schism in the Saṅgha. See `Sg 10`_ & `11 <https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11>`__ and `BMC2, Chapter 21`_ and `Appendix V`_.
+     - *Saṅgha-bheda：*\ [譯註：\ `破僧 <https://dictionary.sutta.org/browse/s/sa%E1%B9%85gha/>`__] 僧伽分裂。參見\ `《僧殘》十`_\ 和\ `十一 <{filename}Section0011%zh-hant.rst#Sg11>`__\ 以及\ `《佛教比丘戒律 第二冊》第二十一章`_\ 和\ `附錄五`_\ 。
+
+   * - *Saṅgha-rāji:* a crack in the Saṅgha. See `Sg 10`_.
+     - *Saṅgha-rāji：*\ `僧不和合 <https://dictionary.sutta.org/browse/s/sa%E1%B9%85gha/>`__\ 。參見\ `《僧殘》十`_\ 。
+
+.. _Pc 70: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc70
+.. _《波逸提》七十: {filename}Section0022%zh-hant.rst#Pc70
+.. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
+.. _BMC2, Chapter 21: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
+.. _Appendix V: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixV
+.. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
+.. _《佛教比丘戒律 第二冊》第二十一章: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十一章
+.. _附錄五: {filename}Section0028%zh-hant.rst#appendixV
+
 (未完待續)
