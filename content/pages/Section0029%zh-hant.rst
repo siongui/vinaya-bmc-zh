@@ -305,6 +305,15 @@
    * - *Saṅgha-rāji:* a crack in the Saṅgha. See `Sg 10`_.
      - *Saṅgha-rāji：*\ `僧不和合 <https://dictionary.sutta.org/browse/s/sa%E1%B9%85gha/>`__\ 。參見\ `《僧殘》十`_\ 。
 
+   * - *Sīmā:* a territory related to the performance of Community transactions. See `Pc 79`_ and `BMC2, Chapter 13`_.
+     - *Sīmā：*\ [譯註：\ `界場 <https://dictionary.sutta.org/browse/s/s%C4%ABm%C4%81/>`__] 與僧團羯磨相關的結界。請參閱\ `《波逸提》七九`_\ 和\ `《佛教比丘戒律 第二冊》第十三章`_\ 。
+
+   * - *Sugata:* Well-gone, an epithet for the Buddha. Sugata measures are discussed in `Appendix II`_.
+     - *Sugata：*\ `善逝 <https://dictionary.sutta.org/browse/s/sugata/>`__，佛陀的稱號。善逝計量單位在\ `附錄二`_\ 討論。
+
+   * - *Sutta (suttanta):* discourse.
+     - *Sutta（suttanta）：*\ `經 <https://dictionary.sutta.org/browse/s/sutta/>`__。
+
 .. _Pc 70: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc70
 .. _《波逸提》七十: {filename}Section0022%zh-hant.rst#Pc70
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
@@ -314,5 +323,10 @@
 .. _《佛教比丘戒律 第二冊》第二十一章: https://www.dhammatalks.org/vinaya/bmc/Section0061.html#BMC2chapter21
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二十一章
 .. _附錄五: {filename}Section0028%zh-hant.rst#appendixV
+.. _BMC2, Chapter 13: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
+.. _《佛教比丘戒律 第二冊》第十三章: https://www.dhammatalks.org/vinaya/bmc/Section0053.html#BMC2chapter13
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十三章
+.. _Appendix II: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixII
+.. _附錄二: {filename}Section0028%zh-hant.rst#appendixII
 
 (未完待續)
