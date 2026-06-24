@@ -329,4 +329,30 @@
 .. _Appendix II: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixII
 .. _附錄二: {filename}Section0028%zh-hant.rst#appendixII
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - *Tajjanīya-kamma:* censure, a transaction whereby a Community strips a bhikkhu of some of his communal rights if he is a maker of strife; if he is defective in virtue, conduct, or views; or if he criticizes the Buddha, Dhamma, or Saṅgha. If he mends his ways, the act may be repealed. See `Sg 8`_, `Ay 1`_, `Chapter 11`_, and `BMC2, Chapter 19`_.
+
+     - *Tajjanīya-kamma：*\ `呵責(苦切) <https://dictionary.sutta.org/browse/t/tajjaniya/>`__ :small:`[譯註：有些版本將 tajjanīya 拼寫成 tajjaniya]`\ ，指僧團剝奪比丘部分僧團權利的羯磨，若其為紛爭製造者；又或戒行、行為或觀點有缺陷；又或批評佛、法、僧。若其改過自新，該處分可解除。參見\ `《僧殘》八`_\ ，\ `《不定》一`_\ ，\ `第十一章`_\ ，以及\ `《佛教比丘戒律 第二冊》第十九章`_\ 。
+
+   * - *Thullaccaya:* grave offense, the most serious derived offense and the most serious offense not included in the Pāṭimokkha rules. See `Appendix IX`_.
+
+     - *Thullaccaya：*\ [譯註：\ `《偷蘭遮》 <https://dictionary.sutta.org/browse/t/thullaccaya/>`__] 粗罪，最嚴重的衍生罪，也是《波羅提木叉》戒條中未包含的最嚴重罪。參見\ `附錄九`_\。
+
+   * - *Tiracchāna-kathā:* “animal talk,” topics of conversation inappropriate for bhikkhus. See `Pc 46`_ & 85_.
+     - *Tiracchāna-kathā：*\ [譯註：\ `畜生論 <https://dictionary.sutta.org/browse/t/tiracch%C4%81na/>`__] 「動物談話」，指不適合比丘談論的話題。參見\ `《波逸提》四六`_\ 和\ `八五`_\ 。
+
+.. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. _Ay 1: https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay1
+.. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
+.. _《不定》一: {filename}Section0012%zh-hant.rst#Ay1
+.. _Appendix IX: https://www.dhammatalks.org/vinaya/bmc/Section0028.html#appendixIX
+.. _附錄九: {filename}Section0028%zh-hant.rst#appendixIX
+.. _Pc 46: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc46
+.. _85: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc85
+.. _《波逸提》四六: {filename}Section0020%zh-hant.rst#Pc46
+.. _八五: {filename}Section0024%zh-hant.rst#Pc85
+
 (未完待續)
