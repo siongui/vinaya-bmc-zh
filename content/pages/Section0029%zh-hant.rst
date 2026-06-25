@@ -344,6 +344,17 @@
    * - *Tiracchāna-kathā:* “animal talk,” topics of conversation inappropriate for bhikkhus. See `Pc 46`_ & 85_.
      - *Tiracchāna-kathā：*\ [譯註：\ `畜生論 <https://dictionary.sutta.org/browse/t/tiracch%C4%81na/>`__] 「動物談話」，指不適合比丘談論的話題。參見\ `《波逸提》四六`_\ 和\ `八五`_\ 。
 
+   * - *Tiracchāna-vijjā:* “animal knowledge,” occult abilities or other traditional skills inappropriate for bhikkhus to study or practice. See `Pr 4`_ and `BMC2, Chapter 10`_.
+
+     - *Tiracchāna-vijjā：*\ [譯註：\ `畜生明 <https://dictionary.sutta.org/browse/t/tiracch%C4%81na/>`__] 「動物知識」、神秘能力或其他不適合比丘學習或修習的傳統技藝。參見\ `《波羅夷》四`_\ 和\ `《佛教比丘戒律 第二冊》第十章`_\ 。
+
+   * - *Ukkhepanīya-kamma:* suspension—a transaction whereby a Community deprives a bhikkhu of his right to associate with the Saṅgha as a whole until he mends his ways. See `Pc 68`_ & 69_ and `BMC2, Chapter 19`_.
+
+     - *Ukkhepanīya-kamma：*\ [譯註：\ `舉罪 <https://dictionary.sutta.org/browse/u/ukkhepaniya/>`__] :small:`[譯註：有些版本將 ukkhepanīya 拼寫成 ukkhepaniya]`\ 暫時停權——一種僧團剝奪比丘與僧伽整體聯繫在一起的權利的羯磨，直到其改過自新。參見\ `《波逸提》六八`_\ 和\ `六九`_\ 以及\ `《佛教比丘戒律 第二冊》第十九章`_\ 。
+
+   * - *Upajjhāya:* preceptor (literally, “supervisor” or “overseer”). See `Chapter 2`_, `Appendix X`_, and `BMC2, Chapter 14`_.
+     - *Upajjhāya：*\ `戒師 <https://dictionary.sutta.org/browse/u/upajjh%C4%81ya/>`__ :small:`[譯註：古漢譯為和尚或親教師]`\ （字面意思是「監督者」或「督導者」）。參見\ `第二章`_\ 、\ `附錄十`_\ 和\ `《佛教比丘戒律 第二冊》第十四章`_\ 。
+
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _Ay 1: https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay1
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
@@ -354,5 +365,12 @@
 .. _85: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc85
 .. _《波逸提》四六: {filename}Section0020%zh-hant.rst#Pc46
 .. _八五: {filename}Section0024%zh-hant.rst#Pc85
+.. _BMC2, Chapter 10: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
+.. _《佛教比丘戒律 第二冊》第十章: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十章
+.. _Pc 68: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc68
+.. _69: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc69
+.. _《波逸提》六八: {filename}Section0022%zh-hant.rst#Pc68
+.. _六九: {filename}Section0022%zh-hant.rst#Pc69
 
 (未完待續)
