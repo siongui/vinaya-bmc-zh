@@ -355,6 +355,17 @@
    * - *Upajjhāya:* preceptor (literally, “supervisor” or “overseer”). See `Chapter 2`_, `Appendix X`_, and `BMC2, Chapter 14`_.
      - *Upajjhāya：*\ `戒師 <https://dictionary.sutta.org/browse/u/upajjh%C4%81ya/>`__ :small:`[譯註：古漢譯為和尚或親教師]`\ （字面意思是「監督者」或「督導者」）。參見\ `第二章`_\ 、\ `附錄十`_\ 和\ `《佛教比丘戒律 第二冊》第十四章`_\ 。
 
+   * - *Upasampadā:* Full Acceptance—ordination as a bhikkhu or bhikkhunī. See `BMC2, Chapter 14`_.
+     - *Upasampadā：*\ [譯註：\ `具足 <https://dictionary.sutta.org/browse/u/upasampad%C4%81/>`__] 完全接受——受具足戒成為比丘或比丘尼。參見\ `《佛教比丘戒律 第二冊》第十四章`_\ 。
+
+   * - *Uposatha:* Observance day, the day of the new and of the full moon; traditionally, in India, a time of special spiritual practices. The Buddha adopted this as the day for reciting the Pāṭimokkha. See `BMC2, Chapter 15`_.
+
+     - *Uposatha：*\ [譯註：\ `布薩 <https://dictionary.sutta.org/browse/u/uposatha/>`__] 持齋戒日，即新月與滿月之日；在印度傳統上，這是進行特殊靈性修行的日子。佛陀將此日定為誦《波羅提木叉》的日子。參見\ `《佛教比丘戒律 第二冊》第十五章`_\ 。
+
+   * - *Vassa:* Rains-residence—a three-month period, generally beginning the day after the full moon in July (or the second, if there are two), during which certain restrictions are placed on the bhikkhus’ wanderings; usually considered a time to accelerate one’s efforts in study or practice. See `BMC2, Chapter 11`_.
+
+     - *Vassa：*\ `雨安居 <https://dictionary.sutta.org/browse/v/vassa/>`__\ ——為期三個月，通常從七月滿月後的次日開始（如果七月有兩個滿月，則從第二個滿月後的次日開始），在此期間，比丘們的遊方受到一定的限制；通常被認為是加速努力學習或修行的時期。參見\ `《佛教比丘戒律 第二冊》第十一章`_\ 。
+
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _Ay 1: https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay1
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
@@ -372,5 +383,10 @@
 .. _69: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc69
 .. _《波逸提》六八: {filename}Section0022%zh-hant.rst#Pc68
 .. _六九: {filename}Section0022%zh-hant.rst#Pc69
+.. _BMC2, Chapter 15: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. _《佛教比丘戒律 第二冊》第十五章: https://www.dhammatalks.org/vinaya/bmc/Section0055.html#BMC2chapter15
+.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十五章
+.. _BMC2, Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#BMC2chapter11
+.. _《佛教比丘戒律 第二冊》第十一章: {filename}Section0050%zh-hant.rst#BMC2chapter11
 
 (未完待續)
