@@ -366,6 +366,45 @@
 
      - *Vassa：*\ `雨安居 <https://dictionary.sutta.org/browse/v/vassa/>`__\ ——為期三個月，通常從七月滿月後的次日開始（如果七月有兩個滿月，則從第二個滿月後的次日開始），在此期間，比丘們的遊方受到一定的限制；通常被認為是加速努力學習或修行的時期。參見\ `《佛教比丘戒律 第二冊》第十一章`_\ 。
 
+   * - *Vikappana:* an arrangement whereby an item not in use is placed under shared ownership. See `NP 1`_, `Pc 59`_, and `Appendix V`_.
+
+     - *Vikappana：*\ [譯註：\ `說淨 <https://dictionary.sutta.org/browse/v/vikappana/>`__\ ，北傳漢譯律藏為說淨、淨施、作淨、分別等語譯之] 一種將未使用物品置於共享所有權下的安排。參見\ `《捨墮》一`_\ 、\ `《波逸提》五九`_\ 和\ `附錄五`_\ 。
+
+       ..
+          https://www.google.com/search?q=Vikappana+%E4%B8%AD%E6%96%87
+
+          AI Overview
+
+          Vikappana（巴利语）在佛教术语中常被汉译为“说净”、“净施”、“作净”或“分别”。它专指上座部佛教（南传佛教）戒律（毗奈耶/Vinaya）中，比丘或比丘尼为了妥善处理和合法保管多余物品（尤其是衣物）所必须进行的一种合法化声明仪式。
+
+          核心背景与规则
+
+          为什么要说净（Vikappana）？
+
+          根据佛教戒律，出家人对财物有严格的限制（如“持长衣戒”）。如果比丘获得多余的衣物，必须在特定时间内（通常是十天内）处理掉，否则会犯“舍堕”罪。
+
+          如何执行？
+
+          “说净”是一种形式上的授与仪式。比丘通过口头声明，将物品转为与自己相识的另一位修行者（知友比丘）所有，但物品仍由原比丘本人代为保管。通过这一仪式，这件物品的性质就变成了“共有”或“借用”，原比丘便能合法地继续使用该物品而不会破戒。
+
+          出处参考
+
+          该仪式的具体规矩和相关戒条（如单堕戒、舍堕戒），可查阅 Buddhist Monastic Code 或 SuttaCentral 律藏文献 的详细说明。
+
+          出處: http://www.dhammarain.org.tw/canon/vinaya/Vinaya-1-Han-Yuan-Hen.html
+
+          3 vikappanupagapacchimam之vikappana ，北傳漢譯律藏為說淨、淨施、作淨、分別等語譯
+          之。比丘得過分之衣時，行儀式轉施一知友比丘，成為其比丘之物，而自己保管之，於必要
+          時可使用。所以是形式的授與儀式。但，真實施與時，有時亦有說淨。說淨有二種（參照單
+          墮五十九戒）。今所謂長衣，係指應說淨之最下量以上之衣（財），其以下之衣雖有剩餘者，
+          不成為長衣。其量如何？覺音註云：長二?手、寬一?手，即佛之八指和四指之量。
+          此語亦出於大品八· 二十一· 一，Rhys Davids 以此譯為The limit for size of a robe up
+          to which it ought to be habded over to another Bhikkhu.（校勘者註：日譯所引覺音註係
+          指衣大小之量，應說多少件數之量為適合文義。）
+
+   * - *Vissāsa:* trust between friends. See `Pr 2`_ and `Pc 59`_.
+     - *Vissāsa：*\ [譯註：\ `親厚 <https://dictionary.sutta.org/browse/v/viss%C4%81sa/>`__] 朋友之間的信任。參見\ `《波羅夷》二`_\ 和\ `《波逸提》五九`_\ 。
+
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _Ay 1: https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay1
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
@@ -388,5 +427,7 @@
 .. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第十五章
 .. _BMC2, Chapter 11: https://www.dhammatalks.org/vinaya/bmc/Section0050.html#BMC2chapter11
 .. _《佛教比丘戒律 第二冊》第十一章: {filename}Section0050%zh-hant.rst#BMC2chapter11
+.. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
+.. _《波逸提》五九: {filename}Section0021%zh-hant.rst#Pc59
 
 (未完待續)
