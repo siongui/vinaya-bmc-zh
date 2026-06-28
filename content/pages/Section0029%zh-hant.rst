@@ -405,6 +405,13 @@
    * - *Vissāsa:* trust between friends. See `Pr 2`_ and `Pc 59`_.
      - *Vissāsa：*\ [譯註：\ `親厚 <https://dictionary.sutta.org/browse/v/viss%C4%81sa/>`__] 朋友之間的信任。參見\ `《波羅夷》二`_\ 和\ `《波逸提》五九`_\ 。
 
+   * - *Yakkha:* one of a class of powerful “non-human” beings—sometimes kindly, sometimes murderous and cruel—corresponding roughly to the fairies and ogres of Western fairy tales. The female *(yakkhinī)* is generally considered more treacherous than the male.
+
+     - *Yakkha：*\ [譯註：\ `夜叉 <https://dictionary.sutta.org/browse/y/yakkha/>`__] 一類強大的「非人」眾生——有時仁慈，有時殘暴嗜殺——大致相當於西方童話故事中的仙女和食人魔。雌性\ *（yakkhinī）*\ 通常被認為比雄性更奸詐。
+
+   * - *Yojana:* a distance of approximately ten miles or sixteen kilometers.
+     - *Yojana：*\ [譯註：\ `由旬 <https://dictionary.sutta.org/browse/y/yojana/>`__] 大約十英里或十六公里的距離。
+
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _Ay 1: https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay1
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
@@ -429,5 +436,3 @@
 .. _《佛教比丘戒律 第二冊》第十一章: {filename}Section0050%zh-hant.rst#BMC2chapter11
 .. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
 .. _《波逸提》五九: {filename}Section0021%zh-hant.rst#Pc59
-
-(未完待續)
