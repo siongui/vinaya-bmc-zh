@@ -40,4 +40,61 @@
 .. _《波逸提》四六: {filename}Section0020%zh-hant.rst#Pc46
 .. _八五: {filename}Section0024%zh-hant.rst#Pc85
 
+.. _sigil_toc_id_30:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_30"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2 is-italic has-text-weight-bold
+
+          Right Speech
+
+     - .. container:: mx-2 is-italic has-text-weight-bold
+
+          正語
+
+   * - .. container:: mx-2
+
+          `MN 117`_ defines *wrong speech* as lying, divisive speech, abusive speech, and idle chatter.
+
+     - .. container:: mx-2
+
+          `《中部》117經`_\ 將\ *錯誤言語*\ :small:`[邪語]`\ 定義為說謊\ :small:`[妄語]`\ 、分裂言論\ :small:`[兩舌]`\ 、辱罵言論\ :small:`[惡口]`\ 和閒聊\ :small:`[綺語]`\ 。
+
+.. _sigil_toc_id_31:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_31"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          Lying
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          妄語\ :small:`[說謊]`
+
+   * - .. container:: mx-2 is-italic
+
+          Making an unfounded charge to a bhikkhu that he has committed a pārājika offense, in hopes of having him disrobed, is a saṅghādisesa offense. (`Sg 8`_)
+
+     - .. container:: mx-2 is-italic
+
+          毫無根據地指控比丘犯了《波羅夷》罪，希望令其還俗，是《僧殘》罪。（\ `《僧殘》八`_\ ）
+
+.. _MN 117: https://www.dhammatalks.org/suttas/MN/MN117.html
+.. _《中部》117經: https://sutra.mobi/chilin/zhong/content/117.html
+.. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
+.. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
+
 (未完待續)

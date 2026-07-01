@@ -931,10 +931,10 @@
      - `\　戒條索引 <{filename}Section0030%zh-hant.rst>`__
 
    * - `\　　Right Speech <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_30>`__
-     - 　　正語
+     - `\　　正語 <{filename}Section0030%zh-hant.rst#sigil_toc_id_30>`__
 
    * - `\　　　Lying <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_31>`__
-     - 　　　妄語
+     - `\　　　妄語 <{filename}Section0030%zh-hant.rst#sigil_toc_id_31>`__
 
    * - `\　　　Divisive speech <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_32>`__
      - 　　　兩舌
