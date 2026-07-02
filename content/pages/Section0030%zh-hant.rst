@@ -92,9 +92,39 @@
 
           毫無根據地指控比丘犯了《波羅夷》罪，希望令其還俗，是《僧殘》罪。（\ `《僧殘》八`_\ ）
 
+   * - .. container:: is-italic
+
+          Distorting the evidence while accusing a bhikkhu of having committed a pārājika offense, in hopes of having him disrobed, is a saṅghādisesa offense. (`Sg 9`_)
+
+     - .. container:: is-italic
+
+          扭曲證據指控比丘犯了《波羅夷》罪，希望令其還俗，是《僧殘》罪。（\ `《僧殘》九`_\ ）
+
+   * - .. container:: is-italic
+
+          The intentional effort to misrepresent the truth to another individual is a pācittiya offense. (`Pc 1`_)
+
+     - .. container:: is-italic
+
+          故意向他人歪曲事實是《波逸提》罪。（\ `《波逸提》一`_\ ）
+
+   * - .. container:: is-italic
+
+          Making an unfounded charge to a bhikkhu—or getting someone else to make the charge to him—that he is guilty of a saṅghādisesa offense is a pācittiya offense. (`Pc 76`_)
+
+     - .. container:: is-italic
+
+          無根據指控比丘犯了《僧殘》罪——或令他人指控之——是《波逸提》罪。（\ `《波逸提》七六`_\ ）
+
 .. _MN 117: https://www.dhammatalks.org/suttas/MN/MN117.html
 .. _《中部》117經: https://sutra.mobi/chilin/zhong/content/117.html
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _《僧殘》八: {filename}Section0011%zh-hant.rst#Sg8
+.. _Sg 9: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg9
+.. _《僧殘》九: {filename}Section0011%zh-hant.rst#Sg9
+.. _Pc 1: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc1
+.. _《波逸提》一: {filename}Section0016%zh-hant.rst#Pc1
+.. _Pc 76: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
+.. _《波逸提》七六: {filename}Section0023%zh-hant.rst#Pc76
 
 (未完待續)
