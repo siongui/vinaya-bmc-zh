@@ -64,7 +64,7 @@
 
      - .. container:: mx-2
 
-          `《中部》117經`_\ 將\ *錯誤言語*\ :small:`[邪語]`\ 定義為說謊\ :small:`[妄語]`\ 、分裂言論\ :small:`[兩舌]`\ 、辱罵言論\ :small:`[惡口]`\ 和閒聊\ :small:`[綺語]`\ 。
+          `《中部》117經`_\ 將\ *錯誤言語*\ :small:`[邪語]`\ 定義為說謊\ :small:`[妄語]`\ 、分裂言語\ :small:`[兩舌]`\ 、辱罵言語\ :small:`[惡口]`\ 和閒聊\ :small:`[綺語]`\ 。
 
 .. _sigil_toc_id_31:
 
@@ -126,5 +126,63 @@
 .. _《波逸提》一: {filename}Section0016%zh-hant.rst#Pc1
 .. _Pc 76: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc76
 .. _《波逸提》七六: {filename}Section0023%zh-hant.rst#Pc76
+
+.. _sigil_toc_id_32:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_32"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          Divisive speech
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          兩舌\ :small:`[分裂言語]`
+
+   * - .. container:: mx-2 is-italic
+
+          Telling a bhikkhu about insulting remarks made by another bhikkhu—in hopes of winning favor or causing a rift—is a pācittiya offense. (`Pc 3`_)
+
+     - .. container:: mx-2 is-italic
+
+          向一位比丘告知另一位比丘的侮辱性言論——希望以此博取好感或造成裂痕——是《波逸提》罪。（\ `《波逸提》三`_\ ）
+
+.. _Pc 3: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc3
+.. _《波逸提》三: {filename}Section0016%zh-hant.rst#Pc3
+
+.. _sigil_toc_id_33:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_33"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          Abusive speech
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          惡口\ :small:`[辱罵言語]`
+
+   * - .. container:: mx-2 is-italic
+
+          An insult made with malicious intent to another bhikkhu is a pācittiya offense. (`Pc 2`_)
+
+     - .. container:: mx-2 is-italic
+
+          惡意侮辱其他比丘是犯《波逸提》罪。（\ `《波逸提》二`_\ ）
+
+.. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
+.. _《波逸提》二: {filename}Section0016%zh-hant.rst#Pc2
 
 (未完待續)
