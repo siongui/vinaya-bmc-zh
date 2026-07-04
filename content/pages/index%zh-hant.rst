@@ -946,7 +946,7 @@
      - `\　　　綺語 <{filename}Section0030%zh-hant.rst#sigil_toc_id_34>`__
 
    * - `\　　Right Action <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_35>`__
-     - 　　正業
+     - `\　　正業 <{filename}Section0030%zh-hant.rst#sigil_toc_id_35>`__
 
    * - `\　　　Killing <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_36>`__
      - 　　　殺生

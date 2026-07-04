@@ -222,4 +222,30 @@
 .. _Pc 85: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc85
 .. _《波逸提》八五: {filename}Section0024%zh-hant.rst#Pc85
 
+.. _sigil_toc_id_35:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_35"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2 is-italic has-text-weight-bold
+
+          Right Action
+
+     - .. container:: mx-2 is-italic has-text-weight-bold
+
+          正業
+
+   * - .. container:: mx-2
+
+          `MN 117`_ defines *wrong action* as killing living beings, taking what is not given, and engaging in sexual misconduct.
+
+     - .. container:: mx-2
+
+          `《中部》117經`_\ 將\ *錯誤行為*\ :small:`[邪業]`\ 定義為殺生、不與取\ :small:`[拿取未被給予之物]`\ 、和邪淫\ :small:`[從事不端性行為]`\ 。
+
 (未完待續)
