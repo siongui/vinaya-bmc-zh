@@ -185,4 +185,41 @@
 .. _Pc 2: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc2
 .. _《波逸提》二: {filename}Section0016%zh-hant.rst#Pc2
 
+.. _sigil_toc_id_34:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_34"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          Idle chatter
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          綺語\ :small:`[閒聊]`
+
+   * - .. container:: mx-2 is-italic
+
+          Visiting lay families—without having informed an available bhikkhu—before or after a meal to which one has been invited is a pācittiya offense except during the robe season or any time one is making a robe. (`Pc 46`_)
+
+     - .. container:: mx-2 is-italic
+
+          在餐食前或餐食後拜訪受邀赴餐食的俗家——有比丘在而未告知——除了袈裟季節或製作袈裟期間外，是《波逸提》罪。（\ `《波逸提》四六`_\ ）
+
+   * - .. container:: is-italic
+
+          Entering a village, town, or city during the period after noon until the following dawn, without having taken leave of an available bhikkhu—unless there is an emergency—is a pācittiya offense. (`Pc 85`_)
+
+     - .. container:: is-italic
+
+          在中午之後至隔天黎明之間，有比丘在而未告假，進入村莊、城鎮或城市——除非有緊急情況——是《波逸提》罪。（\ `《波逸提》八五`_\ ）
+
+.. _Pc 85: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc85
+.. _《波逸提》八五: {filename}Section0024%zh-hant.rst#Pc85
+
 (未完待續)

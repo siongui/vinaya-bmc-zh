@@ -943,7 +943,7 @@
      - `\　　　惡口 <{filename}Section0030%zh-hant.rst#sigil_toc_id_33>`__
 
    * - `\　　　Idle chatter <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_34>`__
-     - 　　　綺語
+     - `\　　　綺語 <{filename}Section0030%zh-hant.rst#sigil_toc_id_34>`__
 
    * - `\　　Right Action <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_35>`__
      - 　　正業
