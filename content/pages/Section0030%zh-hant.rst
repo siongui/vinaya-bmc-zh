@@ -248,4 +248,63 @@
 
           `《中部》117經`_\ 將\ *錯誤行為*\ :small:`[邪業]`\ 定義為殺生、不與取\ :small:`[拿取未被給予之物]`\ 、和邪淫\ :small:`[從事不端性行為]`\ 。
 
+.. _sigil_toc_id_36:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_36"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          Killing
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          殺生
+
+   * - .. container:: mx-2 is-italic
+
+          Intentionally bringing about the death of a human being, even if it is still an embryo—whether by killing the person, arranging for an assassin to kill the person, inciting the person to die, or describing the advantages of death—is a pārājika offense. (`Pr 3`_)
+
+     - .. container:: mx-2 is-italic
+
+          故意導致人類死亡，即使其還是胚胎——無論是親自殺死該人、安排刺客殺死該人、煽動該人死亡，還是描述死亡的好處——是《波羅夷》罪。（\ `《波羅夷》三`_\ ）
+
+   * - .. container:: is-italic
+
+          Pouring water that one knows to contain living beings—or having it poured—on grass or clay is a pācittiya offense. Pouring anything that would kill the beings into such water—or having it poured—is also a pācittiya offense. (`Pc 20`_)
+
+     - .. container:: is-italic
+
+          明知水中含有生物，卻將之傾倒在草地或泥土上，或讓其被傾倒，是《波逸提》罪。將任何能殺死該生物之物傾倒在這樣的水中，或讓其被傾倒，亦是《波逸提》罪。（\ `《波逸提》二十`_\ ）
+
+   * - .. container:: is-italic
+
+          Deliberately killing an animal—or having it killed—is a pācittiya offense. (`Pc 61`_)
+
+     - .. container:: is-italic
+
+          故意殺死動物——或讓其被殺死——是《波逸提》罪。（\ `《波逸提》六一`_\ ）
+
+   * - .. container:: is-italic
+
+          Using water knowing that it contains living beings that will die from that use is a pācittiya offense. (`Pc 62`_)
+
+     - .. container:: is-italic
+
+          明知水中含有會因使用而死亡的生物，仍繼續使用，是《波逸提》罪。（\ `《波逸提》六二`_\ ）
+
+.. _Pr 3: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr3
+.. _《波羅夷》三: {filename}Section0010%zh-hant.rst#Pr3
+.. _Pc 20: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc20
+.. _《波逸提》二十: {filename}Section0017%zh-hant.rst#Pc20
+.. _Pc 61: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc61
+.. _《波逸提》六一: {filename}Section0022%zh-hant.rst#Pc61
+.. _Pc 62: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc62
+.. _《波逸提》六二: {filename}Section0022%zh-hant.rst#Pc62
+
 (未完待續)

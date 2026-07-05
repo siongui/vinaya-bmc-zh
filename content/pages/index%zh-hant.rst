@@ -949,7 +949,7 @@
      - `\　　正業 <{filename}Section0030%zh-hant.rst#sigil_toc_id_35>`__
 
    * - `\　　　Killing <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_36>`__
-     - 　　　殺生
+     - `\　　　殺生 <{filename}Section0030%zh-hant.rst#sigil_toc_id_36>`__
 
    * - `\　　　Taking what is not given <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_37>`__
      - 　　　不與取(偷盜)
