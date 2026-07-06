@@ -307,4 +307,53 @@
 .. _Pc 62: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc62
 .. _《波逸提》六二: {filename}Section0022%zh-hant.rst#Pc62
 
+.. _sigil_toc_id_37:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_37"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          Taking what is not given
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          不與取\ :small:`[偷盜]`
+
+   * - .. container:: mx-2 is-italic
+
+          The theft of anything worth 1/24 ounce troy of gold or more is a pārājika offense. (`Pr 2`_)
+
+     - .. container:: mx-2 is-italic
+
+          竊盜價值 1/24 金衡盎司的黃金以上的任何物品，是《波羅夷》罪。（\ `《波羅夷》二`_\ ）
+
+   * - .. container:: is-italic
+
+          Having given another bhikkhu a robe on a condition and then—angry and displeased—snatching it back or having it snatched back is a nissaggiya pācittiya offense. (`NP 25`_)
+
+     - .. container:: is-italic
+
+          以某種因緣將袈裟給予另一位比丘，然後因憤怒和不滿而將其奪回，或讓其被奪回，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》二五`_\ ）
+
+   * - .. container:: is-italic
+
+          Making use of cloth or a bowl stored under shared ownership—unless the shared ownership has been rescinded or one is taking the item on trust—is a pācittiya offense. (`Pc 59`_)
+
+     - .. container:: is-italic
+
+          使用置於共享所有權下的布料或缽——除非共享所有權已被撤銷或基於信任而拿取該物品——是《波逸提》罪。（\ `《波逸提》五九`_\ ）
+
+.. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
+.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
+.. _NP 25: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP25
+.. _《捨墮》二五: {filename}Section0015%zh-hant.rst#NP25
+.. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
+.. _《波逸提》五九: {filename}Section0021%zh-hant.rst#Pc59
+
 (未完待續)
