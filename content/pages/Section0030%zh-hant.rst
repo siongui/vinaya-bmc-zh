@@ -356,4 +356,73 @@
 .. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
 .. _《波逸提》五九: {filename}Section0021%zh-hant.rst#Pc59
 
+.. _sigil_toc_id_38:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_38"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          Sexual Misconduct
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          邪淫\ :small:`[性行為不端]`
+
+   * - .. container:: mx-2 is-italic
+
+          Voluntary sexual intercourse—genital, anal, or oral—with a human being, non-human being, or common animal is a pārājika offense. (`Pr 1`_)
+
+     - .. container:: mx-2 is-italic
+
+          與人、非人或普通動物進行自願性交——包括生殖器性交、肛交或口交——是《波羅夷》罪。（\ `《波羅夷》一`_\ ）
+
+   * - .. container:: is-italic
+
+          Intentionally causing oneself to emit semen, or getting someone else to cause one to emit semen—except during a dream—is a saṅghādisesa offense. (`Sg 1`_)
+
+     - .. container:: is-italic
+
+          故意使自己射精，或讓他人使自己射精——夢境除外——是《僧殘》罪。（\ `《僧殘》一`_\ ）
+
+   * - .. container:: is-italic
+
+          Lustful bodily contact with a woman whom one perceives to be a woman is a saṅghādisesa offense. (`Sg 2`_)
+
+     - .. container:: is-italic
+
+          與自己感知為女性的女人進行淫欲的身體接觸，是《僧殘》罪。（\ `《僧殘》二`_\ ）
+
+   * - .. container:: is-italic
+
+          Making a lustful remark to a woman about her genitals, anus or about performing sexual intercourse is a saṅghādisesa offense. (`Sg 3`_)
+
+     - .. container:: is-italic
+
+          對女性發表關於其生殖器、肛門或性交的淫穢言論，是《僧殘》罪。（\ `《僧殘》三`_\ ）
+
+   * - .. container:: is-italic
+
+          Telling a woman that having sexual intercourse with a bhikkhu would be beneficial is a saṅghādisesa offense. (`Sg 4`_)
+
+     - .. container:: is-italic
+
+          告訴女人與比丘發生性關係會有益處，是《僧殘》罪。（\ `《僧殘》四`_\ ）
+
+.. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
+.. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
+.. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
+.. _《僧殘》一: {filename}Section0011%zh-hant.rst#Sg1
+.. _Sg 2: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg2
+.. _《僧殘》二: {filename}Section0011%zh-hant.rst#Sg2
+.. _Sg 3: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg3
+.. _《僧殘》三: {filename}Section0011%zh-hant.rst#Sg3
+.. _Sg 4: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4
+.. _《僧殘》四: {filename}Section0011%zh-hant.rst#Sg4
+
 (未完待續)

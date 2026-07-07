@@ -955,7 +955,7 @@
      - `\　　　不與取(偷盜) <{filename}Section0030%zh-hant.rst#sigil_toc_id_37>`__
 
    * - `\　　　Sexual Misconduct <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_38>`__
-     - 　　　邪淫
+     - `\　　　邪淫 <{filename}Section0030%zh-hant.rst#sigil_toc_id_38>`__
 
    * - `\　　Right Livelihood <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_39>`__
      - 　　正命
