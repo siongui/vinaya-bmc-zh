@@ -414,6 +414,38 @@
 
           告訴女人與比丘發生性關係會有益處，是《僧殘》罪。（\ `《僧殘》四`_\ ）
 
+   * - .. container:: is-italic
+
+          Getting an unrelated bhikkhunī to wash, dye, or beat a robe that has been used at least once is a nissaggiya pācittiya offense. (`NP 4`_)
+
+     - .. container:: is-italic
+
+          讓與自己沒有血緣關係的比丘尼清洗、染色或捶打至少使用過一次的袈裟，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》四`_\ ）
+
+   * - .. container:: is-italic
+
+          Getting an unrelated bhikkhunī to wash, dye, or card wool that has not been made into cloth or yarn is a nissaggiya pācittiya offense. (`NP 17`_)
+
+     - .. container:: is-italic
+
+          讓與自己沒有血緣關係的比丘尼清洗、染色或梳理尚未製成布匹或紗線的羊毛，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》一七`_\ ）
+
+   * - .. container:: is-italic
+
+          Lying down at the same time in the same lodging with a woman is a pācittiya offense. (`Pc 6`_)
+
+     - .. container:: is-italic
+
+          與女性同時躺在同一住處內是《波逸提》罪。（\ `《波逸提》六`_\ ）
+
+   * - .. container:: is-italic
+
+          Teaching more than six sentences of Dhamma to a woman, except in response to a question, is a pācittiya offense unless a knowledgeable man is present. (`Pc 7`_)
+
+     - .. container:: is-italic
+
+          除非是回答問題，否則向女性講授超過六句佛法，若無知識淵博之男人在場，是《波逸提》罪。（\ `《波逸提》七`_\ ）
+
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
@@ -424,5 +456,13 @@
 .. _《僧殘》三: {filename}Section0011%zh-hant.rst#Sg3
 .. _Sg 4: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg4
 .. _《僧殘》四: {filename}Section0011%zh-hant.rst#Sg4
+.. _NP 4: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP4
+.. _《捨墮》四: {filename}Section0013%zh-hant.rst#NP4
+.. _NP 17: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP17
+.. _《捨墮》一七: {filename}Section0014%zh-hant.rst#NP17
+.. _Pc 6: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc6
+.. _《波逸提》六: {filename}Section0016%zh-hant.rst#Pc6
+.. _Pc 7: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
+.. _《波逸提》七: {filename}Section0016%zh-hant.rst#Pc7
 
 (未完待續)
