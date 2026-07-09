@@ -446,6 +446,46 @@
 
           除非是回答問題，否則向女性講授超過六句佛法，若無知識淵博之男人在場，是《波逸提》罪。（\ `《波逸提》七`_\ ）
 
+   * - .. container:: is-italic
+
+          Exhorting a bhikkhunī about the eight vows of respect—except when one has been authorized to do so by the Community or asked a question by a bhikkhunī—is a pācittiya offense. (`Pc 21`_)
+
+     - .. container:: is-italic
+
+          未經僧團授權或受比丘尼詢問，教誡比丘尼八敬法是《波逸提》罪。（\ `《波逸提》二一`_\ ）
+
+   * - .. container:: is-italic
+
+          Exhorting a bhikkhunī on any topic at all after sunset—except when she requests it—is a pācittiya offense. (`Pc 22`_)
+
+     - .. container:: is-italic
+
+          日落後，對比丘尼教誡任何主題——除非她請求——是《波逸提》罪。（\ `《波逸提》二二`_\ ）
+
+   * - .. container:: is-italic
+
+          Going to the bhikkhunīs’ quarters and exhorting a bhikkhunī about the eight vows of respect—except when she is ill or has requested the instruction—is a pācittiya offense. (`Pc 23`_)
+
+     - .. container:: is-italic
+
+          前往比丘尼的住所，教誡比丘尼八敬法——除非她生病或請求指示——是《波逸提》罪。（\ `《波逸提》二三`_\ ）
+
+   * - .. container:: is-italic
+
+          Giving robe-cloth to an unrelated bhikkhunī without receiving anything in exchange is a pācittiya offense. (`Pc 25`_)
+
+     - .. container:: is-italic
+
+          給予無血緣關係的比丘尼袈裟布而沒有收到任何東西作為交換，是《波逸提》罪。（\ `《波逸提》二五`_\ ）
+
+   * - .. container:: is-italic
+
+          Sewing a robe—or having it sewn—for an unrelated bhikkhunī is a pācittiya offense. (`Pc 26`_)
+
+     - .. container:: is-italic
+
+          為無血緣關係的比丘尼縫製袈裟，或令其被縫製，是《波逸提》罪。（\ `《波逸提》二六`_\ ）
+
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
@@ -464,5 +504,15 @@
 .. _《波逸提》六: {filename}Section0016%zh-hant.rst#Pc6
 .. _Pc 7: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc7
 .. _《波逸提》七: {filename}Section0016%zh-hant.rst#Pc7
+.. _Pc 21: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc21
+.. _《波逸提》二一: {filename}Section0018%zh-hant.rst#Pc21
+.. _Pc 22: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc22
+.. _《波逸提》二二: {filename}Section0018%zh-hant.rst#Pc22
+.. _Pc 23: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc23
+.. _《波逸提》二三: {filename}Section0018%zh-hant.rst#Pc23
+.. _Pc 25: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc25
+.. _《波逸提》二五: {filename}Section0018%zh-hant.rst#Pc25
+.. _Pc 26: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc26
+.. _《波逸提》二六: {filename}Section0018%zh-hant.rst#Pc26
 
 (未完待續)
