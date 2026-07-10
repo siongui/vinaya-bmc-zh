@@ -486,6 +486,54 @@
 
           為無血緣關係的比丘尼縫製袈裟，或令其被縫製，是《波逸提》罪。（\ `《波逸提》二六`_\ ）
 
+   * - .. container:: is-italic
+
+          Traveling by arrangement with a bhikkhunī from one village to another—except when the road is risky or there are other dangers—is a pācittiya offense. (`Pc 27`_)
+
+     - .. container:: is-italic
+
+          除非道路危險或有其他危險，否則與比丘尼約定從一個村莊前往另一個同行是《波逸提》罪。（\ `《波逸提》二七`_\ ）
+
+   * - .. container:: is-italic
+
+          Traveling by arrangement with a bhikkhunī upriver or downriver in the same boat—except when crossing a river—is a pācittiya offense. (`Pc 28`_)
+
+     - .. container:: is-italic
+
+          與比丘尼約定同乘一艘船沿河而上或而下——橫渡過河除外——是《波逸提》罪。（\ `《波逸提》二八`_\ ）
+
+   * - .. container:: is-italic
+
+          When aiming at privacy, sitting or lying down alone with a bhikkhunī in an unsecluded but private place is a pācittiya offense. (`Pc 30`_)
+
+     - .. container:: is-italic
+
+          當目的是為了隱私時，與比丘尼單獨在非僻靜但私密的地方坐著或躺下，是《波逸提》罪。（\ `《波逸提》三十`_\ ）
+
+   * - .. container:: is-italic
+
+          When aiming at privacy, sitting or lying down with a woman or women in a private, secluded place with no other man present is a pācittiya offense. (`Pc 44`_)
+
+     - .. container:: is-italic
+
+          當目的是為了隱私時，在沒有其他男性在場的私密僻靜之處，與一名或多名女性坐著或躺下，是《波逸提》罪。（\ `《波逸提》四四`_\ ）
+
+   * - .. container:: is-italic
+
+          When aiming at privacy, sitting or lying down alone with a woman in an unsecluded but private place is a pācittiya offense. (`Pc 45`_)
+
+     - .. container:: is-italic
+
+          當目的是為了隱私時，與女性單獨在非僻靜但私密之處坐著或躺下，是《波逸提》罪。（\ `《波逸提》四五`_\ ）
+
+   * - .. container:: is-italic
+
+          Traveling by arrangement with a woman from one village to another is a pācittiya offense. (`Pc 67`_)
+
+     - .. container:: is-italic
+
+          與女性約定同行從一個村莊前往另一個，是《波逸提》罪。（\ `《波逸提》六七`_\ ）
+
 .. _Pr 1: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr1
 .. _《波羅夷》一: {filename}Section0010%zh-hant.rst#Pr1
 .. _Sg 1: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg1
@@ -514,5 +562,17 @@
 .. _《波逸提》二五: {filename}Section0018%zh-hant.rst#Pc25
 .. _Pc 26: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc26
 .. _《波逸提》二六: {filename}Section0018%zh-hant.rst#Pc26
+.. _Pc 27: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc27
+.. _《波逸提》二七: {filename}Section0018%zh-hant.rst#Pc27
+.. _Pc 28: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc28
+.. _《波逸提》二八: {filename}Section0018%zh-hant.rst#Pc28
+.. _Pc 30: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc30
+.. _《波逸提》三十: {filename}Section0018%zh-hant.rst#Pc30
+.. _Pc 44: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc44
+.. _《波逸提》四四: {filename}Section0020%zh-hant.rst#Pc44
+.. _Pc 45: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc45
+.. _《波逸提》四五: {filename}Section0020%zh-hant.rst#Pc45
+.. _Pc 67: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
+.. _《波逸提》六七: {filename}Section0022%zh-hant.rst#Pc67
 
 (未完待續)
