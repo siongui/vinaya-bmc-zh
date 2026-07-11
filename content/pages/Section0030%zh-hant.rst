@@ -575,4 +575,69 @@
 .. _Pc 67: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc67
 .. _《波逸提》六七: {filename}Section0022%zh-hant.rst#Pc67
 
+.. _sigil_toc_id_39:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_39"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2 is-italic has-text-weight-bold
+
+          Right Livelihood
+
+     - .. container:: mx-2 is-italic has-text-weight-bold
+
+          正命
+
+   * - .. container:: mx-2
+
+          `MN 117`_ defines *wrong livelihood* as scheming, persuading, hinting, belittling, and pursuing gain with gain.
+
+     - .. container:: mx-2
+
+          `《中部》117經`_\ 將\ *錯誤的謀生方式*\ :small:`[邪命]`\ 定義為陰謀詭計、勸誘、暗示、貶低和以利謀利。
+
+.. _sigil_toc_id_40:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_40"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          General
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          概要
+
+   * - .. container:: mx-2 is-italic
+
+          Deliberately lying to another person that one has attained a superior human state is a pārājika offense. (`Pr 4`_)
+
+     - .. container:: mx-2 is-italic
+
+          故意向他人謊稱自己已達上人法，是《波羅夷》罪。（\ `《波羅夷》四`_\ ）
+
+   * - .. container:: is-italic
+
+          Acting as a go-between to arrange a marriage, an affair, or a date between a man and a woman not married to each other is a saṅghādisesa offense. (`Sg 5`_)
+
+     - .. container:: is-italic
+
+          為彼此未婚的男女牽線搭橋，安排婚姻、婚外情或約會，是《僧殘》罪。（\ `《僧殘》五`_\ ）
+
+.. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
+.. _《波羅夷》四: {filename}Section0010%zh-hant.rst#Pr4
+.. _Sg 5: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg5
+.. _《僧殘》五: {filename}Section0011%zh-hant.rst#Sg5
+
 (未完待續)

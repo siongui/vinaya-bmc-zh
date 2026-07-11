@@ -958,10 +958,10 @@
      - `\　　　邪淫 <{filename}Section0030%zh-hant.rst#sigil_toc_id_38>`__
 
    * - `\　　Right Livelihood <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_39>`__
-     - 　　正命
+     - `\　　正命 <{filename}Section0030%zh-hant.rst#sigil_toc_id_39>`__
 
    * - `\　　　General <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_40>`__
-     - 　　　概要
+     - `\　　　概要 <{filename}Section0030%zh-hant.rst#sigil_toc_id_40>`__
 
    * - `\　　　Robes <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_41>`__
      - 　　　袈裟
