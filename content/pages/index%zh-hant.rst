@@ -964,7 +964,7 @@
      - `\　　　概要 <{filename}Section0030%zh-hant.rst#sigil_toc_id_40>`__
 
    * - `\　　　Robes <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_41>`__
-     - 　　　袈裟
+     - `\　　　袈裟 <{filename}Section0030%zh-hant.rst#sigil_toc_id_41>`__
 
    * - `\　　　Food <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_42>`__
      - 　　　食物

@@ -680,4 +680,33 @@
 .. _Pc 82: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
 .. _《波逸提》八二: {filename}Section0023%zh-hant.rst#Pc82
 
+.. _sigil_toc_id_41:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_41"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          Robes
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          袈裟
+
+   * - .. container:: mx-2 is-italic
+
+          Keeping a piece of robe-cloth for more than ten days without determining it for use or placing it under shared ownership—except when the robe-season or kathina privileges are in effect—is a nissaggiya pācittiya offense. (`NP 1`_)
+
+     - .. container:: mx-2 is-italic
+
+          未經決意使用或未置於共享所有權之下，將一件袈裟布存放超過十天——除非正值袈裟季節或功德衣方便利益仍有效時——是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》一`_\ ）
+
+.. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
+
 (未完待續)
