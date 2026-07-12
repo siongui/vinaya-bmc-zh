@@ -635,9 +635,49 @@
 
           為彼此未婚的男女牽線搭橋，安排婚姻、婚外情或約會，是《僧殘》罪。（\ `《僧殘》五`_\ ）
 
+   * - .. container:: is-italic
+
+          Engaging in trade with anyone except one’s co-religionists is a nissaggiya pācittiya offense. (`NP 20`_)
+
+     - .. container:: is-italic
+
+          與同宗教以外的任何人進行貿易是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》二十`_\ ）
+
+   * - .. container:: is-italic
+
+          Persuading a donor to give a gift to oneself, knowing that he or she had planned to give it to a Community, is a nissaggiya pācittiya offense. (`NP 30`_)
+
+     - .. container:: is-italic
+
+          明知布施者原本打算將布施給僧團，卻說服其布施與自己，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》三十`_\ ）
+
+   * - .. container:: is-italic
+
+          Telling an unordained person of one’s actual superior human attainments is a pācittiya offense. (`Pc 8`_)
+
+     - .. container:: is-italic
+
+          告知未受具戒者自己的真實上人成就，是《波逸提》罪。（\ `《波逸提》八`_\ ）
+
+   * - .. container:: is-italic
+
+          Persuading a donor to give to another individual a gift that he or she had planned to give to a Community—when one knows that it was intended for the Community—is a pācittiya offense. (`Pc 82`_)
+
+     - .. container:: is-italic
+
+          說服布施者將原本計劃給予僧團的布施轉而給予他人——當明知該布施原本是打算給僧團的——是《波逸提》罪。（\ `《波逸提》八二`_\ ）
+
 .. _Pr 4: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr4
 .. _《波羅夷》四: {filename}Section0010%zh-hant.rst#Pr4
 .. _Sg 5: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg5
 .. _《僧殘》五: {filename}Section0011%zh-hant.rst#Sg5
+.. _NP 20: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP20
+.. _《捨墮》二十: {filename}Section0014%zh-hant.rst#NP20
+.. _NP 30: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP30
+.. _《捨墮》三十: {filename}Section0015%zh-hant.rst#NP30
+.. _Pc 8: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc8
+.. _《波逸提》八: {filename}Section0016%zh-hant.rst#Pc8
+.. _Pc 82: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc82
+.. _《波逸提》八二: {filename}Section0023%zh-hant.rst#Pc82
 
 (未完待續)
