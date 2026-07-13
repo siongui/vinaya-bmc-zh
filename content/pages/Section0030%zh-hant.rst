@@ -706,7 +706,37 @@
 
           未經決意使用或未置於共享所有權之下，將一件袈裟布存放超過十天——除非正值袈裟季節或功德衣方便利益仍有效時——是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》一`_\ ）
 
+   * - .. container:: is-italic
+
+          Being in a separate zone from any of one’s three robes at dawn—except when one’s kathina privileges are in effect or one has received formal authorization from the Community—is a nissaggiya pācittiya offense. (`NP 2`_)
+
+     - .. container:: is-italic
+
+          黎明\ :small:`[明相]`\ 時分，若身處與自身三衣任一件不同的區域——除非其功德衣方便利益仍有效或已獲得僧團的正式授權——是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》二`_\ ）
+
+   * - .. container:: is-italic
+
+          Keeping out-of-season robe-cloth for more than 30 days when it is not enough to make a requisite and one has expectation for more—except when the robe-season and kathina privileges are in effect—is a nissaggiya pācittiya offense. (`NP 3`_)
+
+     - .. container:: is-italic
+
+          當非當季袈裟布數量不足以製作必需品，並且期望更多，將其存放超過30天，除非正值袈裟季節且功德衣方便利益仍有效外，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》三`_\ ）
+
+   * - .. container:: is-italic
+
+          Accepting robe-cloth from an unrelated bhikkhunī without giving her anything in exchange is a nissaggiya pācittiya offense. (`NP 5`_)
+
+     - .. container:: is-italic
+
+          接受與自己沒有血緣關係的比丘尼的袈裟布而不給予其任何東西作為交換，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》五`_\ ）
+
 .. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
 .. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
+.. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
+.. _《捨墮》二: {filename}Section0013%zh-hant.rst#NP2
+.. _NP 3: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
+.. _《捨墮》三: {filename}Section0013%zh-hant.rst#NP3
+.. _NP 5: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
+.. _《捨墮》五: {filename}Section0013%zh-hant.rst#NP5
 
 (未完待續)
