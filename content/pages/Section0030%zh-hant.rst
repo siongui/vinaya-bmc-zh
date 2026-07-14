@@ -730,6 +730,46 @@
 
           接受與自己沒有血緣關係的比丘尼的袈裟布而不給予其任何東西作為交換，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》五`_\ ）
 
+   * - .. container:: is-italic
+
+          Asking for and receiving robe-cloth from an unrelated lay person, except when one’s robes have been snatched away or destroyed, is a nissaggiya pācittiya offense. (`NP 6`_)
+
+     - .. container:: is-italic
+
+          除非袈裟被奪走或毀壞，向與自己沒有血緣關係的在家人索取並接受袈裟布，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》六`_\ ）
+
+   * - .. container:: is-italic
+
+          Asking for and receiving excess robe-cloth from unrelated lay people when one’s robes have been snatched away or destroyed is a nissaggiya pācittiya offense. (`NP 7`_)
+
+     - .. container:: is-italic
+
+          當袈裟被奪走或毀壞後，向與自己沒有血緣關係的在家人索取並接受過量的袈裟布，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》七`_\ ）
+
+   * - .. container:: is-italic
+
+          When a lay person who is not a relative is planning to get robe-cloth for one but has yet to ask one what kind of cloth one wants: Receiving the cloth after making a request that would improve it is a nissaggiya pācittiya offense. (`NP 8`_)
+
+     - .. container:: is-italic
+
+          當無血緣關係的在家人打算為自己弄得袈裟布，但尚未詢問自己想要何種布料時：在提出能改善布料的要求後接受布料，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》八`_\ ）
+
+   * - .. container:: is-italic
+
+          When two or more lay people who are not one’s relatives are planning to get separate pieces of robe-cloth for one but have yet to ask one what kind of cloth one wants: Receiving cloth from them after asking them to pool their funds to get one piece of cloth—out of a desire for something fine—is a nissaggiya pācittiya offense. (`NP 9`_)
+
+     - .. container:: is-italic
+
+          當兩位以上無血緣關係的在家人計劃為自己弄得不同件的袈裟布，但尚未詢問自己想要何種布料時：出於欲求美好之物而要求他們湊集淨資弄得一塊布料之後，從他們那裡接受布料，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》九`_\ ）
+
+   * - .. container:: is-italic
+
+          Making a felt blanket/rug with silk mixed in it for one’s own use—or having it made—is a nissaggiya pācittiya offense. (`NP 11`_)
+
+     - .. container:: is-italic
+
+          為自己使用而製作混有絲綢的絲綢，或令其被製作，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》十一`_\ ）
+
 .. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
 .. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
 .. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
@@ -738,5 +778,15 @@
 .. _《捨墮》三: {filename}Section0013%zh-hant.rst#NP3
 .. _NP 5: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
 .. _《捨墮》五: {filename}Section0013%zh-hant.rst#NP5
+.. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
+.. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
+.. _NP 7: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
+.. _《捨墮》七: {filename}Section0013%zh-hant.rst#NP7
+.. _NP 8: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP8
+.. _《捨墮》八: {filename}Section0013%zh-hant.rst#NP8
+.. _NP 9: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP9
+.. _《捨墮》九: {filename}Section0013%zh-hant.rst#NP9
+.. _NP 11: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP11
+.. _《捨墮》十一: {filename}Section0014%zh-hant.rst#NP11
 
 (未完待續)
