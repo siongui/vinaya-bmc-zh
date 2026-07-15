@@ -768,7 +768,31 @@
 
      - .. container:: is-italic
 
-          為自己使用而製作混有絲綢的絲綢，或令其被製作，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》十一`_\ ）
+          為自己使用而製作混有絲綢的敷具，或令其被製作，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》十一`_\ ）
+
+   * - .. container:: is-italic
+
+          Making a felt blanket/rug entirely of black wool for one’s own use—or having it made—is a nissaggiya pācittiya offense. (`NP 12`_)
+
+     - .. container:: is-italic
+
+          為自己使用而製作完全由黑色羊毛製成的敷具，或令其被製作，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》十二`_\ ）
+
+   * - .. container:: is-italic
+
+          Making a felt blanket/rug that is more than one-half black wool for one’s own use—or having it made—is a nissaggiya pācittiya offense. (`NP 13`_)
+
+     - .. container:: is-italic
+
+          為自己使用而製作超過一半黑色羊毛的敷具，或令其被製作，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》十三`_\ ）
+
+   * - .. container:: is-italic
+
+          Unless one has received authorization to do so from the Community, making a felt blanket/rug for one’s own use—or having it made—less than six years after one’s last one was made is a nissaggiya pācittiya offense. (`NP 14`_)
+
+     - .. container:: is-italic
+
+          除非獲得僧團的授權，否則在上次製作敷具後不到六年內為自己使用而製作敷具，或令其被製作，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》十四`_\ ）
 
 .. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
 .. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
@@ -788,5 +812,11 @@
 .. _《捨墮》九: {filename}Section0013%zh-hant.rst#NP9
 .. _NP 11: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP11
 .. _《捨墮》十一: {filename}Section0014%zh-hant.rst#NP11
+.. _NP 12: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP12
+.. _《捨墮》十二: {filename}Section0014%zh-hant.rst#NP12
+.. _NP 13: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP13
+.. _《捨墮》十三: {filename}Section0014%zh-hant.rst#NP13
+.. _NP 14: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP14
+.. _《捨墮》十四: {filename}Section0014%zh-hant.rst#NP14
 
 (未完待續)
