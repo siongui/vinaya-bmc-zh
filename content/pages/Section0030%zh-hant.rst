@@ -794,6 +794,30 @@
 
           除非獲得僧團的授權，否則在上次製作敷具後不到六年內為自己使用而製作敷具，或令其被製作，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》十四`_\ ）
 
+   * - .. container:: is-italic
+
+          Making a felt sitting rug for one’s own use—or having it made—without incorporating a one-span piece of old felt is a nissaggiya pācittiya offense. (`NP 15`_)
+
+     - .. container:: is-italic
+
+          為自己使用而製作敷具坐墊（尼師壇）——或令其被製作——而不加入一塊一張手的舊敷具，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》十五`_\ ）
+
+   * - .. container:: is-italic
+
+          Seeking and receiving a rains-bathing cloth before the fourth month of the hot season is a nissaggiya pācittiya offense. Using a rains-bathing cloth before the last two weeks of the fourth month of the hot season is also a nissaggiya pācittiya offense. (`NP 24`_)
+
+     - .. container:: is-italic
+
+          在熱季第四個月之前尋求並接受雨浴衣是《尼薩耆波逸提》（《捨墮》）罪。在熱季第四個月最後兩週之前使用雨浴衣也是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》二四`_\ ）
+
+   * - .. container:: is-italic
+
+          Taking thread that one has asked for improperly and getting weavers to weave cloth from it—when they are unrelated and have not made a previous offer to weave—is a nissaggiya pācittiya offense. (`NP 26`_)
+
+     - .. container:: is-italic
+
+          未適當地索取線材，並讓無血緣關係且事先未提出織布供養的織匠用該線材織布，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》二六`_\ ）
+
 .. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
 .. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
 .. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
@@ -818,5 +842,11 @@
 .. _《捨墮》十三: {filename}Section0014%zh-hant.rst#NP13
 .. _NP 14: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP14
 .. _《捨墮》十四: {filename}Section0014%zh-hant.rst#NP14
+.. _NP 15: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
+.. _《捨墮》十五: {filename}Section0014%zh-hant.rst#NP15
+.. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
+.. _《捨墮》二四: {filename}Section0015%zh-hant.rst#NP24
+.. _NP 26: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP26
+.. _《捨墮》二六: {filename}Section0015%zh-hant.rst#NP26
 
 (未完待續)
