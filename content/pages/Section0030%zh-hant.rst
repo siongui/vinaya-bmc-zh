@@ -849,4 +849,49 @@
 .. _NP 26: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP26
 .. _《捨墮》二六: {filename}Section0015%zh-hant.rst#NP26
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-italic
+
+          When donors who are not relatives—and have not invited one to ask—have arranged for weavers to weave robe-cloth intended for one: Receiving the cloth after getting the weavers to improve it is a nissaggiya pācittiya offense. (`NP 27`_)
+
+     - .. container:: is-italic
+
+          當布施者無血緣關係——且未邀請自己索要——安排織匠織造供給自己的袈裟布時：讓織匠對其進行改善後接受該布料，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》二七`_\ ）
+
+   * - .. container:: is-italic
+
+          Keeping robe-cloth offered in urgency past the end of the robe season after having accepted it during the last eleven days of the Rains-residence is a nissaggiya pācittiya offense. (`NP 28`_)
+
+     - .. container:: is-italic
+
+          在雨安居最後十一天接受緊急供養的袈裟布後，將其保留到袈裟季節結束之後，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》二八`_\ ）
+
+   * - .. container:: is-italic
+
+          When one is living in a dangerous wilderness abode during the month after the Rains-residence and has left one of one’s robes in the village where one normally goes for alms: Being away from the abode and the village for more than six nights at a stretch—except when authorized by the Community—is a nissaggiya pācittiya offense. (`NP 29`_)
+
+     - .. container:: is-italic
+
+          雨安居過後的該月期間，當居住在危險的林野住所，並將其中一件袈裟留在平時托缽的村莊：除非得到僧團的授權，否則離開住所和村莊超過連續六夜，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》二九`_\ ）
+
+   * - .. container:: is-italic
+
+          Wearing an unmarked robe is a pācittiya offense. (`Pc 58`_)
+
+     - .. container:: is-italic
+
+          穿著未標記的袈裟是《波逸提》罪。（\ `《波逸提》五八`_\ ）
+
+.. _NP 27: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP27
+.. _《捨墮》二七: {filename}Section0015%zh-hant.rst#NP27
+.. _NP 28: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28
+.. _《捨墮》二八: {filename}Section0015%zh-hant.rst#NP28
+.. _NP 29: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP29
+.. _《捨墮》二九: {filename}Section0015%zh-hant.rst#NP29
+.. _Pc 58: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
+.. _《波逸提》五八: {filename}Section0021%zh-hant.rst#Pc58
+
 (未完待續)
