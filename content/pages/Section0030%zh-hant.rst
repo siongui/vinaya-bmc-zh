@@ -885,6 +885,38 @@
 
           穿著未標記的袈裟是《波逸提》罪。（\ `《波逸提》五八`_\ ）
 
+   * - .. container:: is-italic
+
+          Obtaining an overly large sitting cloth after making it—or having it made—for one’s own use is a pācittiya offense requiring that one cut the cloth down to size before confessing the offense. (`Pc 89`_)
+
+     - .. container:: is-italic
+
+          為自己使用而製作——或令其被製作——過大的坐布後而獲得之，是《波逸提》罪，須在懺悔罪行前將該布裁剪至合適尺寸。（\ `《波逸提》八九`_\ ）
+
+   * - .. container:: is-italic
+
+          Obtaining an overly large skin-eruption covering cloth after making it—or having it made—for one’s own use is a pācittiya offense requiring that one cut the cloth down to size before confessing the offense. (`Pc 90`_)
+
+     - .. container:: is-italic
+
+          為自己使用而製作——或令其被製作——過大的覆瘡布後而獲得之，是《波逸提》罪，須在懺悔罪行前將該布裁剪至合適尺寸。（\ `《波逸提》九十`_\ ）
+
+   * - .. container:: is-italic
+
+          Obtaining an overly large rains-bathing cloth after making it—or having it made—for one’s own use is a pācittiya offense requiring that one cut the cloth down to size before confessing the offense. (`Pc 91`_)
+
+     - .. container:: is-italic
+
+          為自己使用而製作——或令其被製作——過大的雨浴衣後而獲得之，是《波逸提》罪，須在懺悔罪行前將該衣裁剪至合適尺寸。（\ `《波逸提》九一`_\ ）
+
+   * - .. container:: is-italic
+
+          Obtaining an overly large robe after making it—or having it made—for one’s own use is a pācittiya offense requiring that one cut the robe down to size before confessing the offense. (`Pc 92`_)
+
+     - .. container:: is-italic
+
+          為自己使用而製作——或令其被製作——過大的袈裟後而獲得之，是《波逸提》罪，須在懺悔罪行前將該袈裟裁剪至合適尺寸。（\ `《波逸提》九二`_\ ）
+
 .. _NP 27: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP27
 .. _《捨墮》二七: {filename}Section0015%zh-hant.rst#NP27
 .. _NP 28: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28
@@ -893,5 +925,13 @@
 .. _《捨墮》二九: {filename}Section0015%zh-hant.rst#NP29
 .. _Pc 58: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc58
 .. _《波逸提》五八: {filename}Section0021%zh-hant.rst#Pc58
+.. _Pc 89: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
+.. _《波逸提》八九: {filename}Section0024%zh-hant.rst#Pc89
+.. _Pc 90: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc90
+.. _《波逸提》九十: {filename}Section0024%zh-hant.rst#Pc90
+.. _Pc 91: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc91
+.. _《波逸提》九一: {filename}Section0024%zh-hant.rst#Pc91
+.. _Pc 92: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc92
+.. _《波逸提》九二: {filename}Section0024%zh-hant.rst#Pc92
 
 (未完待續)
