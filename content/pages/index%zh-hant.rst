@@ -967,7 +967,7 @@
      - `\　　　袈裟 <{filename}Section0030%zh-hant.rst#sigil_toc_id_41>`__
 
    * - `\　　　Food <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_42>`__
-     - 　　　食物
+     - `\　　　食物 <{filename}Section0030%zh-hant.rst#sigil_toc_id_42>`__
 
    * - `\　　　Lodgings <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_43>`__
      - 　　　住所

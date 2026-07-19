@@ -818,41 +818,6 @@
 
           未適當地索取線材，並讓無血緣關係且事先未提出織布供養的織匠用該線材織布，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》二六`_\ ）
 
-.. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
-.. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
-.. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
-.. _《捨墮》二: {filename}Section0013%zh-hant.rst#NP2
-.. _NP 3: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
-.. _《捨墮》三: {filename}Section0013%zh-hant.rst#NP3
-.. _NP 5: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
-.. _《捨墮》五: {filename}Section0013%zh-hant.rst#NP5
-.. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
-.. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
-.. _NP 7: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
-.. _《捨墮》七: {filename}Section0013%zh-hant.rst#NP7
-.. _NP 8: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP8
-.. _《捨墮》八: {filename}Section0013%zh-hant.rst#NP8
-.. _NP 9: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP9
-.. _《捨墮》九: {filename}Section0013%zh-hant.rst#NP9
-.. _NP 11: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP11
-.. _《捨墮》十一: {filename}Section0014%zh-hant.rst#NP11
-.. _NP 12: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP12
-.. _《捨墮》十二: {filename}Section0014%zh-hant.rst#NP12
-.. _NP 13: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP13
-.. _《捨墮》十三: {filename}Section0014%zh-hant.rst#NP13
-.. _NP 14: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP14
-.. _《捨墮》十四: {filename}Section0014%zh-hant.rst#NP14
-.. _NP 15: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
-.. _《捨墮》十五: {filename}Section0014%zh-hant.rst#NP15
-.. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
-.. _《捨墮》二四: {filename}Section0015%zh-hant.rst#NP24
-.. _NP 26: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP26
-.. _《捨墮》二六: {filename}Section0015%zh-hant.rst#NP26
-
-.. list-table::
-   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
-   :widths: auto
-
    * - .. container:: is-italic
 
           When donors who are not relatives—and have not invited one to ask—have arranged for weavers to weave robe-cloth intended for one: Receiving the cloth after getting the weavers to improve it is a nissaggiya pācittiya offense. (`NP 27`_)
@@ -917,6 +882,36 @@
 
           為自己使用而製作——或令其被製作——過大的袈裟後而獲得之，是《波逸提》罪，須在懺悔罪行前將該袈裟裁剪至合適尺寸。（\ `《波逸提》九二`_\ ）
 
+.. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
+.. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
+.. _《捨墮》二: {filename}Section0013%zh-hant.rst#NP2
+.. _NP 3: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
+.. _《捨墮》三: {filename}Section0013%zh-hant.rst#NP3
+.. _NP 5: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP5
+.. _《捨墮》五: {filename}Section0013%zh-hant.rst#NP5
+.. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
+.. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
+.. _NP 7: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP7
+.. _《捨墮》七: {filename}Section0013%zh-hant.rst#NP7
+.. _NP 8: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP8
+.. _《捨墮》八: {filename}Section0013%zh-hant.rst#NP8
+.. _NP 9: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP9
+.. _《捨墮》九: {filename}Section0013%zh-hant.rst#NP9
+.. _NP 11: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP11
+.. _《捨墮》十一: {filename}Section0014%zh-hant.rst#NP11
+.. _NP 12: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP12
+.. _《捨墮》十二: {filename}Section0014%zh-hant.rst#NP12
+.. _NP 13: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP13
+.. _《捨墮》十三: {filename}Section0014%zh-hant.rst#NP13
+.. _NP 14: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP14
+.. _《捨墮》十四: {filename}Section0014%zh-hant.rst#NP14
+.. _NP 15: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP15
+.. _《捨墮》十五: {filename}Section0014%zh-hant.rst#NP15
+.. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
+.. _《捨墮》二四: {filename}Section0015%zh-hant.rst#NP24
+.. _NP 26: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP26
+.. _《捨墮》二六: {filename}Section0015%zh-hant.rst#NP26
 .. _NP 27: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP27
 .. _《捨墮》二七: {filename}Section0015%zh-hant.rst#NP27
 .. _NP 28: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28
@@ -933,5 +928,54 @@
 .. _《波逸提》九一: {filename}Section0024%zh-hant.rst#Pc91
 .. _Pc 92: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc92
 .. _《波逸提》九二: {filename}Section0024%zh-hant.rst#Pc92
+
+.. _sigil_toc_id_42:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_42"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          Food
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          食物
+
+   * - .. container:: mx-2 is-italic
+
+          Eating any of the five staple foods that a lay person has offered as the result of a bhikkhunī’s prompting—unless the lay person was already planning to offer the food before her prompting—is a pācittiya offense. (`Pc 29`_)
+
+     - .. container:: mx-2 is-italic
+
+          食用在家人因比丘尼的勸導而供養五種主食之任一種——除非該在家人在比丘尼勸導前已計劃供養該食物——是《波逸提》罪。（\ `《波逸提》二九`_\ ）
+
+   * - .. container:: is-italic
+
+          Eating food obtained from the same public alms center two days running—without leaving in the interim—unless one is too ill to leave the center, is a pācittiya offense. (`Pc 31`_)
+
+     - .. container:: is-italic
+
+          連續兩天從同一公共施捨中心獲得食物並食用之，且期間未離開——除非病重無法離開該中心——是《波逸提》罪。（\ `《波逸提》三一`_\ ）
+
+   * - .. container:: is-italic
+
+          Eating a meal to which four or more individual bhikkhus have been specifically invited—except on special occasions—is a pācittiya offense. (`Pc 32`_)
+
+     - .. container:: is-italic
+
+          除特殊場合外，食用四位或四位以上被特定邀請的比丘的餐食，是《波逸提》罪。（\ `《波逸提》三二`_\ ）
+
+.. _Pc 29: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc29
+.. _《波逸提》二九: {filename}Section0018%zh-hant.rst#Pc29
+.. _Pc 31: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc31
+.. _《波逸提》三一: {filename}Section0019%zh-hant.rst#Pc31
+.. _Pc 32: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
+.. _《波逸提》三二: {filename}Section0019%zh-hant.rst#Pc32
 
 (未完待續)
