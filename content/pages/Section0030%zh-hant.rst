@@ -971,11 +971,81 @@
 
           除特殊場合外，食用四位或四位以上被特定邀請的比丘的餐食，是《波逸提》罪。（\ `《波逸提》三二`_\ ）
 
+   * - .. container:: is-italic
+
+          Eating a meal before going to another meal to which one was invited, or accepting an invitation to one meal and eating elsewhere instead, is a pācittiya offense except when one is ill or during the time of giving cloth or making robes. (`Pc 33`_)
+
+     - .. container:: is-italic
+
+          在赴受邀請的另一餐食之前先用餐食，或接受一頓餐食的邀請卻在別處用餐，是《波逸提》罪，但生病或者給予布料或製作袈裟時除外。（\ `《波逸提》三三`_\ ）
+
+   * - .. container:: is-italic
+
+          Accepting more than three bowlfuls of food that the donors prepared for their own use as presents or as provisions for a journey is a pācittiya offense. (`Pc 34`_)
+
+     - .. container:: is-italic
+
+          接受布施者為他們自己準備的、超過三缽的食物作為禮物或旅途補給，是《波逸提》罪。（\ `《波逸提》三四`_\ ）
+
+   * - .. container:: is-italic
+
+          Eating staple or non-staple food that is not left-over, after having earlier in the day finished a meal during which one turned down an offer to eat further staple food, is a pācittiya offense. (`Pc 35`_)
+
+     - .. container:: is-italic
+
+          如果在當天早些時候已經吃過一頓餐食，並且在該餐中拒絕了食用更多主食的供養，之後又食用非剩菜的主食或副食，是《波逸提》罪。（\ `《波逸提》三五`_\ ）
+
+   * - .. container:: is-italic
+
+          Eating staple or non-staple food in the period from noon till the next dawn is a pācittiya offense. (`Pc 37`_)
+
+     - .. container:: is-italic
+
+          從中午至隔天黎明\ :small:`[明相]`\ 期間食用主食或副食，是《波逸提》罪。（\ `《波逸提》三七`_\ ）
+
+   * - .. container:: is-italic
+
+          Eating food that a bhikkhu—oneself or another—formally received on a previous day is a pācittiya offense. (`Pc 38`_)
+
+     - .. container:: is-italic
+
+          食用比丘（無論是自己或他人）前一天正式接受的食物，是《波逸提》罪。（\ `《波逸提》三八`_\ ）
+
+   * - .. container:: is-italic
+
+          Eating finer staple foods, after having asked for them for one’s own sake—except when ill—is a pācittiya offense. (`Pc 39`_)
+
+     - .. container:: is-italic
+
+          除生病外，食用為自己要求的較精緻主食，是《波逸提》罪。（\ `《波逸提》三九`_\ ）
+
+   * - .. container:: is-italic
+
+          Eating food that has not been formally given is a pācittiya offense. (`Pc 40`_)
+
+     - .. container:: is-italic
+
+          食用未經正式給予的食物，是《波逸提》罪。（\ `《波逸提》四十`_\ ）
+
 .. _Pc 29: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc29
 .. _《波逸提》二九: {filename}Section0018%zh-hant.rst#Pc29
 .. _Pc 31: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc31
 .. _《波逸提》三一: {filename}Section0019%zh-hant.rst#Pc31
 .. _Pc 32: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc32
 .. _《波逸提》三二: {filename}Section0019%zh-hant.rst#Pc32
+.. _Pc 33: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc33
+.. _《波逸提》三三: {filename}Section0019%zh-hant.rst#Pc33
+.. _Pc 34: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc34
+.. _《波逸提》三四: {filename}Section0019%zh-hant.rst#Pc34
+.. _Pc 35: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc35
+.. _《波逸提》三五: {filename}Section0019%zh-hant.rst#Pc35
+.. _Pc 37: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc37
+.. _《波逸提》三七: {filename}Section0019%zh-hant.rst#Pc37
+.. _Pc 38: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc38
+.. _《波逸提》三八: {filename}Section0019%zh-hant.rst#Pc38
+.. _Pc 39: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc39
+.. _《波逸提》三九: {filename}Section0019%zh-hant.rst#Pc39
+.. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
+.. _《波逸提》四十: {filename}Section0019%zh-hant.rst#Pc40
 
 (未完待續)
