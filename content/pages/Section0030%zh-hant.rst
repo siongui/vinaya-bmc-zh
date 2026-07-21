@@ -1027,6 +1027,38 @@
 
           食用未經正式給予的食物，是《波逸提》罪。（\ `《波逸提》四十`_\ ）
 
+   * - .. container:: is-italic
+
+          Eating staple or non-staple food, after having accepted it from the hand of an unrelated bhikkhunī in a village area, is a pāṭidesanīya offense. (`Pd 1`_)
+
+     - .. container:: is-italic
+
+          在村莊地區，從無血緣關係的比丘尼手中接受主食或副食後食用之，是《應悔過》罪。（\ `《應悔過》一`_\ ）
+
+   * - .. container:: is-italic
+
+          Eating staple food accepted at a meal to which one has been invited and where a bhikkhunī has given directions, based on favoritism, as to which bhikkhu should get which food, and none of the bhikkhus have dismissed her, is a pāṭidesanīya offense. (`Pd 2`_)
+
+     - .. container:: is-italic
+
+          在受邀請的餐食上，比丘尼出於偏愛，指示哪位比丘應該得到哪一種食物，且沒有比丘開口請她離開，那麼食用接受的主食是《應悔過》罪。（\ `《應悔過》二`_\ ）
+
+   * - .. container:: is-italic
+
+          Eating staple or non-staple food, after accepting it—when one is neither ill nor invited—at the home of a family formally designated as “in training,” is a pāṭidesanīya offense. (`Pd 3`_)
+
+     - .. container:: is-italic
+
+          在既非生病也非受邀請的情況下，在被正式指定為「學家」的家中接受主食或副食後並食用之，是《應悔過》罪。（\ `《應悔過》三`_\ ）
+
+   * - .. container:: is-italic
+
+          Eating an unannounced gift of staple or non-staple food after accepting it in a dangerous wilderness abode when one is not ill is a pāṭidesanīya offense. (`Pd 4`_)
+
+     - .. container:: is-italic
+
+          在危險的林野住所中，接受事先未告知的主食或副食的布施後，在未生病的情況下食用之，是《應悔過》罪。（\ `《應悔過》四`_\ ）
+
 .. _Pc 29: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc29
 .. _《波逸提》二九: {filename}Section0018%zh-hant.rst#Pc29
 .. _Pc 31: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc31
@@ -1047,5 +1079,13 @@
 .. _《波逸提》三九: {filename}Section0019%zh-hant.rst#Pc39
 .. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. _《波逸提》四十: {filename}Section0019%zh-hant.rst#Pc40
+.. _Pd 1: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd1
+.. _《應悔過》一: {filename}Section0025%zh-hant.rst#Pd1
+.. _Pd 2: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd2
+.. _《應悔過》二: {filename}Section0025%zh-hant.rst#Pd2
+.. _Pd 3: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd3
+.. _《應悔過》三: {filename}Section0025%zh-hant.rst#Pd3
+.. _Pd 4: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd4
+.. _《應悔過》四: {filename}Section0025%zh-hant.rst#Pd4
 
 (未完待續)
