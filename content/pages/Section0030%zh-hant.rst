@@ -1088,4 +1088,53 @@
 .. _Pd 4: https://www.dhammatalks.org/vinaya/bmc/Section0025.html#Pd4
 .. _《應悔過》四: {filename}Section0025%zh-hant.rst#Pd4
 
+.. _sigil_toc_id_43:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_43"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          Lodgings
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          住所
+
+   * - .. container:: mx-2 is-italic
+
+          Building a plastered hut—or having it built— without a sponsor, destined for one’s own use, without having obtained the Community’s approval, is a saṅghādisesa offense. Building a plastered hut—or having it built—without a sponsor, destined for one’s own use, exceeding the standard measurements, is also a saṅghādisesa offense. (`Sg 6`_)
+
+     - .. container:: mx-2 is-italic
+
+          沒有資助者，專供自己使用，沒有獲得僧團批准，建造抹灰小屋，或令其被建造，是《僧殘》罪。沒有資助者，專供自己使用，超出標準尺寸，建造抹灰小屋，或令其被建造，也是《僧殘》罪。（\ `《僧殘》六`_\ ）
+
+   * - .. container:: is-italic
+
+          Building a hut with a sponsor—or having it built—destined for one’s own use, without having obtained the Community’s approval, is a saṅghādisesa offense. (`Sg 7`_)
+
+     - .. container:: is-italic
+
+          專供自己使用，沒有獲得僧團批准，有資助者建造小屋，或令其被建造，是《僧殘》罪。（\ `《僧殘》七`_\ ）
+
+   * - .. container:: is-italic
+
+          When a bhikkhu is building or repairing a large dwelling for his own use, using resources donated by another, he may not reinforce the window or door frames with more than three layers of roofing material or plaster. To exceed this is a pācittiya offense. (`Pc 19`_)
+
+     - .. container:: is-italic
+
+          比丘用他人布施的資源為自己建造或修繕大住所時，加固門窗框時，不得使用超過三層屋頂材料或灰泥。超過此限者是《波逸提》罪。（\ `《波逸提》十九`_\ ）
+
+.. _Sg 6: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg6
+.. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
+.. _Sg 7: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg7
+.. _《僧殘》七: {filename}Section0011%zh-hant.rst#Sg7
+.. _Pc 19: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc19
+.. _《波逸提》十九: {filename}Section0017%zh-hant.rst#Pc19
+
 (未完待續)

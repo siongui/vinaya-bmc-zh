@@ -970,7 +970,7 @@
      - `\　　　食物 <{filename}Section0030%zh-hant.rst#sigil_toc_id_42>`__
 
    * - `\　　　Lodgings <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_43>`__
-     - 　　　住所
+     - `\　　　住所 <{filename}Section0030%zh-hant.rst#sigil_toc_id_43>`__
 
    * - `\　　　Medicine <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_44>`__
      - 　　　醫藥
