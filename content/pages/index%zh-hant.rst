@@ -973,7 +973,7 @@
      - `\　　　住所 <{filename}Section0030%zh-hant.rst#sigil_toc_id_43>`__
 
    * - `\　　　Medicine <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_44>`__
-     - 　　　醫藥
+     - `\　　　醫藥 <{filename}Section0030%zh-hant.rst#sigil_toc_id_44>`__
 
    * - `\　　　Money <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_45>`__
      - 　　　金錢

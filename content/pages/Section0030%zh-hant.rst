@@ -1157,4 +1157,43 @@
 .. _Pc 88: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc88
 .. _《波逸提》八八: {filename}Section0024%zh-hant.rst#Pc88
 
+.. _sigil_toc_id_44:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_44"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          Medicine
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          醫藥
+
+   * - .. container:: mx-2 is-italic
+
+          Keeping any of the five tonics—ghee, fresh butter, oil, honey, or sugar/molasses—for more than seven days, unless one determines to use them only externally, is a nissaggiya pācittiya offense. (`NP 23`_)
+
+     - .. container:: mx-2 is-italic
+
+          將五種補品——酥油、新鮮奶油、油、蜂蜜或糖/糖蜜——中的任何一種存放超過七天，除非決意僅用於外用，否則是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》二三`_\ ）
+
+   * - .. container:: is-italic
+
+          When a supporter has made an offer to supply medicines to the Community: Asking him/her for medicine outside of the terms of the offer when one is not ill is a pācittiya offense. (`Pc 47`_)
+
+     - .. container:: is-italic
+
+          當支持者提出向僧團提供醫藥時：當自己無病卻在其承諾範圍之外向其索要醫藥，是《波逸提》罪。（\ `《波逸提》四七`_\ ）
+
+.. _NP 23: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP23
+.. _《捨墮》二三: {filename}Section0015%zh-hant.rst#NP23
+.. _Pc 47: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47
+.. _《波逸提》四七: {filename}Section0020%zh-hant.rst#Pc47
+
 (未完待續)
