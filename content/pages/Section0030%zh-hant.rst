@@ -1130,11 +1130,31 @@
 
           比丘用他人布施的資源為自己建造或修繕大住所時，加固門窗框時，不得使用超過三層屋頂材料或灰泥。超過此限者是《波逸提》罪。（\ `《波逸提》十九`_\ ）
 
+   * - .. container:: is-italic
+
+          Obtaining a bed or bench with legs longer than eight sugata fingerbreadths after making it—or having it made—for one’s own use is a pācittiya offense requiring that one cut the legs down before confessing the offense. (`Pc 87`_)
+
+     - .. container:: is-italic
+
+          為自己使用而製作——或令其被製作——腳長超過八個善逝指寬的床或凳子後並獲得之，是《波逸提》罪，須在懺悔罪行前將腳鋸短。（\ `《波逸提》八七`_\ ）
+
+   * - .. container:: is-italic
+
+          Obtaining a bed or bench stuffed with cotton down after making it—or having it made—for one’s own use is a pācittiya offense requiring that one remove the stuffing before confessing the offense. (`Pc 88`_)
+
+     - .. container:: is-italic
+
+          為自己使用而製作——或令其被製作——用棉絨填充的床或凳子後並獲得之，是《波逸提》罪，須在懺悔罪行前移除填充物。（\ `《波逸提》八八`_\ ）
+
 .. _Sg 6: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg6
 .. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
 .. _Sg 7: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg7
 .. _《僧殘》七: {filename}Section0011%zh-hant.rst#Sg7
 .. _Pc 19: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc19
 .. _《波逸提》十九: {filename}Section0017%zh-hant.rst#Pc19
+.. _Pc 87: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc87
+.. _《波逸提》八七: {filename}Section0024%zh-hant.rst#Pc87
+.. _Pc 88: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc88
+.. _《波逸提》八八: {filename}Section0024%zh-hant.rst#Pc88
 
 (未完待續)
