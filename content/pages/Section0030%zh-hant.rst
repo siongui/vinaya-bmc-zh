@@ -1196,4 +1196,53 @@
 .. _Pc 47: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47
 .. _《波逸提》四七: {filename}Section0020%zh-hant.rst#Pc47
 
+.. _sigil_toc_id_45:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_45"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          Money
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          金錢
+
+   * - .. container:: mx-2 is-italic
+
+          When a fund for one’s individual use has been set up with a steward, obtaining an article from the fund as a result of having prompted the steward more than the allowable number of times is a nissaggiya pācittiya offense. (`NP 10`_)
+
+     - .. container:: mx-2 is-italic
+
+          當設立了供自己個人使用的資金並指定了淨人時，因催促淨人的次數超過了允許的次數，而從資金獲得物品，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》十`_\ ）
+
+   * - .. container:: is-italic
+
+          Accepting gold or money, having someone else accept it, or consenting to its being placed down as a gift for oneself, is a nissaggiya pācittiya offense. (`NP 18`_)
+
+     - .. container:: is-italic
+
+          接受黃金或金錢，讓他人接受，或同意其作為給自己的布施而被放置，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》十八`_\ ）
+
+   * - .. container:: is-italic
+
+          Obtaining gold or money through trade is a nissaggiya pācittiya offense. (`NP 19`_)
+
+     - .. container:: is-italic
+
+          透過交易獲取黃金或金錢是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》十九`_\ ）
+
+.. _NP 10: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP10
+.. _《捨墮》十: {filename}Section0013%zh-hant.rst#NP10
+.. _NP 18: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18
+.. _《捨墮》十八: {filename}Section0014%zh-hant.rst#NP18
+.. _NP 19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
+.. _《捨墮》十九: {filename}Section0014%zh-hant.rst#NP19
+
 (未完待續)

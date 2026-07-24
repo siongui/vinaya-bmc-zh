@@ -976,7 +976,7 @@
      - `\　　　醫藥 <{filename}Section0030%zh-hant.rst#sigil_toc_id_44>`__
 
    * - `\　　　Money <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_45>`__
-     - 　　　金錢
+     - `\　　　金錢 <{filename}Section0030%zh-hant.rst#sigil_toc_id_45>`__
 
    * - `\　　　Bowls and other requisites <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_46>`__
      - 　　　缽及其他必需品
