@@ -979,7 +979,7 @@
      - `\　　　金錢 <{filename}Section0030%zh-hant.rst#sigil_toc_id_45>`__
 
    * - `\　　　Bowls and other requisites <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_46>`__
-     - 　　　缽及其他必需品
+     - `\　　　缽及其他必需品 <{filename}Section0030%zh-hant.rst#sigil_toc_id_46>`__
 
    * - `\　　Communal Harmony <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_47>`__
      - 　　和合僧

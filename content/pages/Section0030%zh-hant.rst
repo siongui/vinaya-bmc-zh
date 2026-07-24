@@ -1245,4 +1245,43 @@
 .. _NP 19: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP19
 .. _《捨墮》十九: {filename}Section0014%zh-hant.rst#NP19
 
+.. _sigil_toc_id_46:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_46"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-4 has-text-weight-bold
+
+          Bowls and other requisites
+
+     - .. container:: mx-4 has-text-weight-bold
+
+          缽及其他必需品
+
+   * - .. container:: mx-2 is-italic
+
+          Carrying wool that has not been made into cloth or yarn for more than three yojanas is a nissaggiya pācittiya offense. (`NP 16`_)
+
+     - .. container:: mx-2 is-italic
+
+          攜帶未製成布料或紗線的羊毛超過三由旬的距離，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》十六`_\ ）
+
+   * - .. container:: is-italic
+
+          Keeping an alms bowl for more than ten days without determining it for use or placing it under shared ownership is a nissaggiya pācittiya offense. (`NP 21`_)
+
+     - .. container:: is-italic
+
+          未經決意使用或置於共享所有權之下，將缽存放超過十天，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》二一`_\ ）
+
+.. _NP 16: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP16
+.. _《捨墮》十六: {filename}Section0014%zh-hant.rst#NP16
+.. _NP 21: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
+.. _《捨墮》二一: {filename}Section0015%zh-hant.rst#NP21
+
 (未完待續)
