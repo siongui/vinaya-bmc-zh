@@ -2625,7 +2625,7 @@
      - 這一切都顯示了為什麼破和合僧被如此嚴肅地對待：正如佛陀在關於未來危險的第二次開示中所說的那樣（\ `《增支部》5:78經`_\ ），當僧團捲入這樣的爭議時，很難找到時間去修行。
 
    * - *Summary: To persist—after the third proclamation of a formal rebuke in the Community—in trying to form a schismatic group or in taking up a position that can lead to schism is a saṅghādisesa offense.*
-     - *摘要：在僧團中第三次正式訶責之後，繼續試圖形成分裂團體或採取可能導致分裂的立場是《僧殘》罪。*
+     - *摘要：在僧團中正式訶責的第三次羯磨文之後，仍執意試圖形成分裂團體或採取可能導致分裂的立場是《僧殘》罪。*
 
 .. _BMC2, Chapter 20: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20
 .. _《佛教比丘戒律 第二冊》第二十章: https://www.dhammatalks.org/vinaya/bmc/Section0060.html#BMC2chapter20

@@ -1304,4 +1304,33 @@
 .. _Pc 86: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
 .. _《波逸提》八六: {filename}Section0024%zh-hant.rst#Pc86
 
+.. _sigil_toc_id_47:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_47"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2 is-italic has-text-weight-bold
+
+          Communal Harmony
+
+     - .. container:: mx-2 is-italic has-text-weight-bold
+
+          和合僧
+
+   * - .. container:: mx-2 is-italic
+
+          To persist—after the third proclamation of a formal rebuke in the Community—in trying to form a schismatic group or in taking up a position that can lead to schism is a saṅghādisesa offense. (`Sg 10`_)
+
+     - .. container:: mx-2 is-italic
+
+          在僧團中正式訶責的第三次羯磨文之後，仍執意試圖組成分裂團體或採取可能導致分裂的立場，是《僧殘》罪。（\ `《僧殘》十`_\ ）
+
+.. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
+.. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
+
 (未完待續)
