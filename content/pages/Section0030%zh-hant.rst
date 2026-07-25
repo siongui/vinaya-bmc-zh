@@ -1279,9 +1279,29 @@
 
           未經決意使用或置於共享所有權之下，將缽存放超過十天，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》二一`_\ ）
 
+   * - .. container:: is-italic
+
+          Asking for and receiving a new alms bowl when one’s current bowl is not beyond repair is a nissaggiya pācittiya offense. (`NP 22`_)
+
+     - .. container:: is-italic
+
+          如果自己目前的缽並非無法修復，卻又向人索取並接受了新的缽，是《尼薩耆波逸提》（《捨墮》）罪。（\ `《捨墮》二二`_\ ）
+
+   * - .. container:: is-italic
+
+          Obtaining a needle box made of bone, ivory, or horn after making it—or having it made—for one’s own use is a pācittiya offense requiring that one break the box before confessing the offense. (`Pc 86`_)
+
+     - .. container:: is-italic
+
+          為自己使用而製作——或令其被製作——用骨頭、象牙或角製成的針盒後而獲得之，是《波逸提》罪，須在懺悔罪行前將該盒打碎。（\ `《波逸提》八六`_\ ）
+
 .. _NP 16: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP16
 .. _《捨墮》十六: {filename}Section0014%zh-hant.rst#NP16
 .. _NP 21: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP21
 .. _《捨墮》二一: {filename}Section0015%zh-hant.rst#NP21
+.. _NP 22: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP22
+.. _《捨墮》二二: {filename}Section0015%zh-hant.rst#NP22
+.. _Pc 86: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
+.. _《波逸提》八六: {filename}Section0024%zh-hant.rst#Pc86
 
 (未完待續)
