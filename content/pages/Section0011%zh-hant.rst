@@ -2688,7 +2688,7 @@
      - 如前一戒條所述，一旦破和合僧者成功製造破和合僧，應遵循的程序將在\ `《佛教比丘戒律 第二冊》第二十一章`_\ 中討論。
 
    * - *Summary: To persist—after the third proclamation of a formal rebuke in the Community—in supporting a potential schismatic is a saṅghādisesa offense.*
-     - *摘要：在僧團中第三次正式訶責羯磨文之後，繼續支持潛在的破和合僧者是《僧殘》罪。*
+     - *摘要：在僧團中正式訶責的第三次羯磨文之後，仍執意支持潛在的破和合僧者是《僧殘》罪。*
 
 .. _Mv.IX.2: https://www.dhammatalks.org/vinaya/Mv/MvIX.html#pts2
 .. _《大品》.九.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/#0408a07
@@ -2754,7 +2754,7 @@
      - 如果難以教誡的比丘繼續像以前一樣，即使在根據本戒條受到全額懲罰之後，僧團可以對他進行驅出羯磨\ *（pabbājanīya-kamma）*\ ，因為他發表了誹謗僧團的言論（\ `《小品》.一.13`_-見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）。如果他拒絕承認自己犯了《僧殘》罪行或接受懲罰，僧團可以禁止他參加《波羅提木叉》和自恣儀式（\ `《大品》.四.16.2`_\ ；\ `《小品》.九.2`_ — 參見\ `《佛教比丘戒律 第二冊》第十五章`_\ 和\ `第十六章`_\ ）或暫停他在整個僧伽中的資格（\ `《小品》.一.26`_\ ；\ `《小品》.一.31`_\ ——見\ `《佛教比丘戒律 第二冊》第二十章`_\ ）。
 
    * - *Summary: To persist—after the third proclamation of a formal rebuke in the Community—in being difficult to admonish is a saṅghādisesa offense.*
-     - *摘要：在僧團中第三次正式訶責羯磨文之後，仍堅持難以教誡是《僧殘》罪。*
+     - *摘要：在僧團中正式訶責的第三次羯磨文之後，仍堅持難以教誡是《僧殘》罪。*
 
 .. _Sg 8: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg8
 .. _《僧殘》八: #Sg8
@@ -2883,7 +2883,7 @@
      - 其中兩項職責是他不得批評驅出行為或執行該行為的人。如果他不遵守這兩條規則中的任何一條，他就受本戒條的約束。處理他所遵循的程序——私下斥責他，在僧團的正式會議上教誡和訶責他——與\ `《僧殘》十`_\ 中的相同，首先是一位比丘聽到比丘 X 批評驅出行為，如果他不斥責 X ，就會犯《突吉羅》。感知和不犯問題也與該戒條下的相同。\ `附錄八`_\ 給了訶責的公式。與前三條戒條一樣，如果犯戒者沒有對訶責作出回應，或者沒有認識到他有必須改正的《僧殘》罪，那麼僧團也有理由舉罪他。
 
    * - *Summary: To persist—after the third proclamation of a formal rebuke in the Community—in criticizing a banishment transaction performed against oneself is a saṅghādisesa offense.*
-     - *摘要：在僧團中第三次正式訶責羯磨文之後，仍堅持批評針對自己進行的驅出羯磨是《僧殘》罪。*
+     - *摘要：在僧團中正式訶責的第三次羯磨文之後，仍堅持批評針對自己執行的驅出羯磨是《僧殘》罪。*
 
 .. _BMC2, Chapter 10: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
 .. _Cv.V.36: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#Cv.V.36

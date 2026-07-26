@@ -1330,7 +1330,37 @@
 
           在僧團中正式訶責的第三次羯磨文之後，仍執意試圖組成分裂團體或採取可能導致分裂的立場，是《僧殘》罪。（\ `《僧殘》十`_\ ）
 
+   * - .. container:: is-italic
+
+          To persist—after the third proclamation of a formal rebuke in the Community—in supporting a potential schismatic is a saṅghādisesa offense. (`Sg 11`_)
+
+     - .. container:: is-italic
+
+          在僧團中正式訶責的第三次羯磨文之後，仍執意支持潛在的破和合僧者，是《僧殘》罪。（\ `《僧殘》十一`_\ ）
+
+   * - .. container:: is-italic
+
+          To persist—after the third proclamation of a formal rebuke in the Community—in being difficult to admonish is a saṅghādisesa offense. (`Sg 12`_)
+
+     - .. container:: is-italic
+
+          在僧團中正式訶責的第三次羯磨文之後，仍堅持難以教誡，是《僧殘》罪。（\ `《僧殘》十二`_\ ）
+
+   * - .. container:: is-italic
+
+          To persist—after the third proclamation of a formal rebuke in the Community—in criticizing a banishment transaction performed against oneself is a saṅghādisesa offense. (`Sg 13`_)
+
+     - .. container:: is-italic
+
+          在僧團中正式訶責的第三次羯磨文之後，仍堅持批評針對自己執行的驅出羯磨，是《僧殘》罪。（\ `《僧殘》十三`_\ ）
+
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
+.. _Sg 11: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11
+.. _《僧殘》十一: {filename}Section0011%zh-hant.rst#Sg11
+.. _Sg 12: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
+.. _《僧殘》十二: {filename}Section0011%zh-hant.rst#Sg12
+.. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
+.. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
 
 (未完待續)
