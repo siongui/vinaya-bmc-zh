@@ -1354,6 +1354,30 @@
 
           在僧團中正式訶責的第三次羯磨文之後，仍堅持批評針對自己執行的驅出羯磨，是《僧殘》罪。（\ `《僧殘》十三`_\ ）
 
+   * - .. container:: is-italic
+
+          When a trustworthy female lay follower accuses a bhikkhu of having committed a pārājika, saṅghādisesa, or pācittiya offense while sitting alone with a woman in a private, secluded place, the Community should investigate the charge and deal with the bhikkhu in accordance with whatever he admits to having done. (`Ay 1`_)
+
+     - .. container:: is-italic
+
+          當值得信賴的女在家人指控比丘在與一名女人於私密、僻靜之處單獨坐時犯了《波羅夷》、《僧殘》或《波逸提》罪，僧團應調查此指控，並根據比丘所承認的行為予以處置之。（\ `《不定》一`_\ ）
+
+   * - .. container:: is-italic
+
+          When a trustworthy female lay follower accuses a bhikkhu of having committed a saṅghādisesa or pācittiya offense while sitting alone with a woman in an unsecluded but private place, the Community should investigate the charge and deal with the bhikkhu in accordance with whatever he admits to having done. (`Ay 2`_)
+
+     - .. container:: is-italic
+
+          當值得信賴的女在家人指控比丘在與一名女人於非僻靜但私密之處單獨坐時犯了《僧殘》或《波逸提》罪，僧團應調查此指控，並根據比丘所承認的行為予以處置之。（\ `《不定》二`_\ ）
+
+   * - .. container:: is-italic
+
+          Telling an unordained person of another bhikkhu’s serious offense—unless one is authorized by the Community to do so—is a pācittiya offense. (`Pc 9`_)
+
+     - .. container:: is-italic
+
+          除非得到僧團的授權如此做，否則向未受具足戒者透露另一位比丘的嚴重罪行是《波逸提》罪。（\ `《波逸提》九`_\ ）
+
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 .. _Sg 11: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11
@@ -1362,5 +1386,11 @@
 .. _《僧殘》十二: {filename}Section0011%zh-hant.rst#Sg12
 .. _Sg 13: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
 .. _《僧殘》十三: {filename}Section0011%zh-hant.rst#Sg13
+.. _Ay 1: https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay1
+.. _《不定》一: {filename}Section0012%zh-hant.rst#Ay1
+.. _Ay 2: https://www.dhammatalks.org/vinaya/bmc/Section0012.html#Ay2
+.. _《不定》二: {filename}Section0012%zh-hant.rst#Ay2
+.. _Pc 9: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
+.. _《波逸提》九: {filename}Section0016%zh-hant.rst#Pc9
 
 (未完待續)
