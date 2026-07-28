@@ -1378,6 +1378,38 @@
 
           除非得到僧團的授權如此做，否則向未受具足戒者透露另一位比丘的嚴重罪行是《波逸提》罪。（\ `《波逸提》九`_\ ）
 
+   * - .. container:: is-italic
+
+          Persistently replying evasively or keeping silent in order to conceal one’s own offenses when being questioned in a meeting of the Community—after a formal charge of evasive speech or being frustrating has been brought against one—is a pācittiya offense. (`Pc 12`_)
+
+     - .. container:: is-italic
+
+          於僧團會議上被質問時，在已被正式指控為迴避言論或令人感到挫折後，仍堅持含糊其辭地回答或保持沉默以掩蓋自己的罪行，是《波逸提》罪。（\ `《波逸提》十二`_\ ）
+
+   * - .. container:: is-italic
+
+          If a Community official is innocent of bias: Criticizing him within earshot of another bhikkhu is a pācittiya offense. (`Pc 13`_)
+
+     - .. container:: is-italic
+
+          如果僧團執事沒有偏見：在另一位比丘聽力可及範圍內批評他，是《波逸提》罪。（\ `《波逸提》十三`_\ ）
+
+   * - .. container:: is-italic
+
+          When one has set a bed, bench, mattress, or stool belonging to the Community out in the open: Leaving its immediate vicinity without putting it away, arranging to have it put away, or taking leave is a pācittiya offense. (`Pc 14`_)
+
+     - .. container:: is-italic
+
+          將屬於僧團的床、長凳、床墊或凳子放置在露天場所時：離開其附近而未將其收起來、安排其被收起來，或告別，是《波逸提》罪。（\ `《波逸提》十四`_\ ）
+
+   * - .. container:: is-italic
+
+          When one has spread bedding out in a dwelling belonging to the Community: Departing from the monastery without putting it away, arranging to have it put away, or taking leave is a pācittiya offense. (`Pc 15`_)
+
+     - .. container:: is-italic
+
+          在屬於僧團的住所內鋪好寢具後：離開寺院而未將其收起來、安排其被收起來，或告別，是《波逸提》罪。（\ `《波逸提》十五`_\ ）
+
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 .. _Sg 11: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11
@@ -1392,5 +1424,13 @@
 .. _《不定》二: {filename}Section0012%zh-hant.rst#Ay2
 .. _Pc 9: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc9
 .. _《波逸提》九: {filename}Section0016%zh-hant.rst#Pc9
+.. _Pc 12: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc12
+.. _《波逸提》十二: {filename}Section0017%zh-hant.rst#Pc12
+.. _Pc 13: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc13
+.. _《波逸提》十三: {filename}Section0017%zh-hant.rst#Pc13
+.. _Pc 14: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc14
+.. _《波逸提》十四: {filename}Section0017%zh-hant.rst#Pc14
+.. _Pc 15: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc15
+.. _《波逸提》十五: {filename}Section0017%zh-hant.rst#Pc15
 
 (未完待續)
