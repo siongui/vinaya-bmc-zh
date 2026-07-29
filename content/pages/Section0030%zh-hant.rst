@@ -1410,6 +1410,46 @@
 
           在屬於僧團的住所內鋪好寢具後：離開寺院而未將其收起來、安排其被收起來，或告別，是《波逸提》罪。（\ `《波逸提》十五`_\ ）
 
+   * - .. container:: is-italic
+
+          Intruding on another bhikkhu’s sleeping or sitting place in a dwelling belonging to the Community, with the sole purpose of making him uncomfortable and forcing him to leave, is a pācittiya offense. (`Pc 16`_)
+
+     - .. container:: is-italic
+
+          侵入屬於僧團的住所內的另一位比丘的坐臥處，唯一的目的就是使其感到不舒服，迫使其離開，是《波逸提》罪。（\ `《波逸提》十六`_\ ）
+
+   * - .. container:: is-italic
+
+          Causing a bhikkhu to be evicted from a dwelling belonging to the Community—when one’s primary impulse is anger—is a pācittiya offense. (`Pc 17`_)
+
+     - .. container:: is-italic
+
+          當主要衝動是憤怒時，導致比丘被驅逐出屬於僧團的住所，是《波逸提》罪。（\ `《波逸提》十七`_\ ）
+
+   * - .. container:: is-italic
+
+          Sitting or lying down on a bed or bench with detachable legs on an unplanked loft in a dwelling belonging to the Community, is a pācittiya offense. (`Pc 18`_)
+
+     - .. container:: is-italic
+
+          在屬於僧團的住所中未鋪設地板的閣樓上，坐或躺使用可拆卸腳的床或長凳，是《波逸提》罪。（\ `《波逸提》十八`_\ ）
+
+   * - .. container:: is-italic
+
+          Saying that a properly authorized bhikkhu exhorts the bhikkhunīs for the sake of worldly gain—when in fact that is not the case—is a pācittiya offense. (`Pc 24`_)
+
+     - .. container:: is-italic
+
+          說獲得適當授權的比丘為了世俗利益而教誡比丘尼——而事實並非如此——是《波逸提》罪。（\ `《波逸提》二四`_\ ）
+
+   * - .. container:: is-italic
+
+          Deliberately tricking another bhikkhu into breaking Pācittiya 35, in hopes of finding fault with him, is a pācittiya offense. (`Pc 36`_)
+
+     - .. container:: is-italic
+
+          故意誘使另一位比丘違反\ `《波逸提》三五`_\ ，以期找其過錯，是《波逸提》罪。（\ `《波逸提》三六`_\ ）
+
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 .. _Sg 11: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11
@@ -1432,5 +1472,16 @@
 .. _《波逸提》十四: {filename}Section0017%zh-hant.rst#Pc14
 .. _Pc 15: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc15
 .. _《波逸提》十五: {filename}Section0017%zh-hant.rst#Pc15
+.. _Pc 16: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc16
+.. _《波逸提》十六: {filename}Section0017%zh-hant.rst#Pc16
+.. _Pc 17: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc17
+.. _《波逸提》十七: {filename}Section0017%zh-hant.rst#Pc17
+.. _Pc 18: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc18
+.. _《波逸提》十八: {filename}Section0017%zh-hant.rst#Pc18
+.. _Pc 24: https://www.dhammatalks.org/vinaya/bmc/Section0018.html#Pc24
+.. _《波逸提》二四: {filename}Section0018%zh-hant.rst#Pc24
+.. _Pc 36: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc36
+.. _《波逸提》三五: {filename}Section0019%zh-hant.rst#Pc35
+.. _《波逸提》三六: {filename}Section0019%zh-hant.rst#Pc36
 
 (未完待續)
