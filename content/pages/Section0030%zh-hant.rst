@@ -1450,6 +1450,62 @@
 
           故意誘使另一位比丘違反\ `《波逸提》三五`_\ ，以期找其過錯，是《波逸提》罪。（\ `《波逸提》三六`_\ ）
 
+   * - .. container:: is-italic
+
+          Speaking or acting disrespectfully after having been admonished by another bhikkhu for a breach of the training rules is a pācittiya offense. (`Pc 54`_)
+
+     - .. container:: is-italic
+
+          因違反學處而被另一位比丘訓誡後，言語或行為不尊重，是《波逸提》罪。（\ `《波逸提》五四`_\ ）
+
+   * - .. container:: is-italic
+
+          Agitating to re-open an issue, knowing that it was properly dealt with, is a pācittiya offense. (`Pc 63`_)
+
+     - .. container:: is-italic
+
+          明知諍事已妥善處理，仍鼓動重新提起之，是《波逸提》罪。（\ `《波逸提》六三`_\ ）
+
+   * - .. container:: is-italic
+
+          Not informing another bhikkhu of a serious offense that one knows a third bhikkhu has committed—out of a desire to protect the third bhikkhu either from having to undergo the penalty or from the jeering remarks of other bhikkhus—is a pācittiya offense. (`Pc 64`_)
+
+     - .. container:: is-italic
+
+          明知第三位比丘犯了嚴重罪行，卻為了保護第三位比丘免遭懲罰或免受其他比丘的嘲笑，而未將此事告知另一位比丘，是《波逸提》罪。（\ `《波逸提》六四`_\ ）
+
+   * - .. container:: is-italic
+
+          Acting as the preceptor in the full Acceptance (ordination) of a person one knows to be less than 20 years old is a pācittiya offense. (`Pc 65`_)
+
+     - .. container:: is-italic
+
+          明知某人未滿20歲，仍在受具足戒中擔任其戒師，是《波逸提》罪。（\ `《波逸提》六五`_\ ）
+
+   * - .. container:: is-italic
+
+          Refusing—after the third proclamation of a formal rebuke in a meeting of the Community—to relinquish the evil view that there is nothing wrong in intentionally transgressing the Buddha’s ordinances is a pācittiya offense. (`Pc 68`_)
+
+     - .. container:: is-italic
+
+          在僧團會議中正式訶責的第三次羯磨文之後，仍拒絕放棄「故意違反佛陀的戒律並無不妥」的邪見，是《波逸提》罪。（\ `《波逸提》六八`_\ ）
+
+   * - .. container:: is-italic
+
+          Communing, affiliating, or lying down under the same roof with a bhikkhu who has been suspended and not been restored—knowing that such is the case—is a pācittiya offense. (`Pc 69`_)
+
+     - .. container:: is-italic
+
+          明知比丘已被舉罪且尚未恢復，仍與其交往、共羯磨或在同一屋頂躺下，是《波逸提》罪。（\ `《波逸提》六九`_\ ）
+
+   * - .. container:: is-italic
+
+          Befriending, receiving services from, communing, or lying down under the same roof with an expelled novice—knowing that he has been expelled—is a pācittiya offense. (`Pc 70`_)
+
+     - .. container:: is-italic
+
+          明知沙彌已被驅擯，仍與其交友、接受其服務、與其交往、或在同一屋頂躺下，是《波逸提》罪。（\ `《波逸提》七十`_\ ）
+
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 .. _Sg 11: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11
@@ -1483,5 +1539,19 @@
 .. _Pc 36: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc36
 .. _《波逸提》三五: {filename}Section0019%zh-hant.rst#Pc35
 .. _《波逸提》三六: {filename}Section0019%zh-hant.rst#Pc36
+.. _Pc 54: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc54
+.. _《波逸提》五四: {filename}Section0021%zh-hant.rst#Pc54
+.. _Pc 63: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc63
+.. _《波逸提》六三: {filename}Section0022%zh-hant.rst#Pc63
+.. _Pc 64: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc64
+.. _《波逸提》六四: {filename}Section0022%zh-hant.rst#Pc64
+.. _Pc 65: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc65
+.. _《波逸提》六五: {filename}Section0022%zh-hant.rst#Pc65
+.. _Pc 68: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc68
+.. _《波逸提》六八: {filename}Section0022%zh-hant.rst#Pc68
+.. _Pc 69: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc69
+.. _《波逸提》六九: {filename}Section0022%zh-hant.rst#Pc69
+.. _Pc 70: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc70
+.. _《波逸提》七十: {filename}Section0022%zh-hant.rst#Pc70
 
 (未完待續)
