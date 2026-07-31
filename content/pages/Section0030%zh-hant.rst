@@ -1506,6 +1506,30 @@
 
           明知沙彌已被驅擯，仍與其交友、接受其服務、與其交往、或在同一屋頂躺下，是《波逸提》罪。（\ `《波逸提》七十`_\ ）
 
+   * - .. container:: is-italic
+
+          When being admonished by another bhikkhu with regard to a training rule formulated in the Vinaya, saying something as a ploy to excuse oneself from training under the rule is a pācittiya offense. (`Pc 71`_)
+
+     - .. container:: is-italic
+
+          當被另一位比丘就律藏中所制定的學處訓誡時，說某些話耍手段以藉口逃避該戒條的訓練，是《波逸提》罪。（\ `《波逸提》七一`_\ ）
+
+   * - .. container:: is-italic
+
+          Criticizing the discipline in the presence of another bhikkhu, in hopes of preventing its study, is a pācittiya offense. (`Pc 72`_)
+
+     - .. container:: is-italic
+
+          當著另一位比丘的面批評戒律，希望阻止其學習，是《波逸提》罪。（\ `《波逸提》七二`_\ ）
+
+   * - .. container:: is-italic
+
+          Using half-truths to deceive others into believing that one is ignorant of the rules in the Pāṭimokkha—after one has already heard the Pāṭimokkha in full three times, and a transaction exposing one’s deceit has been brought against one—is a pācittiya offense. (`Pc 73`_)
+
+     - .. container:: is-italic
+
+          在已完整聽過《波羅提木叉》三遍，且羯磨被執行以揭露自己的欺騙行為之後，仍以半真半假之言欺騙他人相信自己對《波羅提木叉》的戒條無知，是《波逸提》罪。（\ `《波逸提》七三`_\ ）
+
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 .. _Sg 11: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11
@@ -1553,5 +1577,11 @@
 .. _《波逸提》六九: {filename}Section0022%zh-hant.rst#Pc69
 .. _Pc 70: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc70
 .. _《波逸提》七十: {filename}Section0022%zh-hant.rst#Pc70
+.. _Pc 71: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc71
+.. _《波逸提》七一: {filename}Section0023%zh-hant.rst#Pc71
+.. _Pc 72: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc72
+.. _《波逸提》七二: {filename}Section0023%zh-hant.rst#Pc72
+.. _Pc 73: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc73
+.. _《波逸提》七三: {filename}Section0023%zh-hant.rst#Pc73
 
 (未完待續)
