@@ -1530,6 +1530,46 @@
 
           在已完整聽過《波羅提木叉》三遍，且羯磨被執行以揭露自己的欺騙行為之後，仍以半真半假之言欺騙他人相信自己對《波羅提木叉》的戒條無知，是《波逸提》罪。（\ `《波逸提》七三`_\ ）
 
+   * - .. container:: is-italic
+
+          Giving a blow to another bhikkhu when impelled by anger—except in self-defense—is a pācittiya offense. (`Pc 74`_)
+
+     - .. container:: is-italic
+
+          出於憤怒而擊打另一位比丘——自衛除外——是《波逸提》罪。（\ `《波逸提》七四`_\ ）
+
+   * - .. container:: is-italic
+
+          Making a threatening gesture against another bhikkhu when impelled by anger—except in self-defense—is a pācittiya offense. (`Pc 75`_)
+
+     - .. container:: is-italic
+
+          出於憤怒而對另一位比丘做出威脅性手勢——自衛除外——是《波逸提》罪。（\ `《波逸提》七五`_\ ）
+
+   * - .. container:: is-italic
+
+          Intentionally provoking anxiety in another bhikkhu that he may have broken a rule, when one has no other purpose in mind, is a pācittiya offense. (`Pc 77`_)
+
+     - .. container:: is-italic
+
+          故意使另一位比丘因擔心自己可能違反戒律而感到焦慮，而並無其他目的，是《波逸提》罪。（\ `《波逸提》七七`_\ ）
+
+   * - .. container:: is-italic
+
+          Eavesdropping on bhikkhus involved in an argument over an issue—with the intention of using what they say against them—is a pācittiya offense. (`Pc 78`_)
+
+     - .. container:: is-italic
+
+          偷聽比丘們就某個問題進行爭論，並意圖利用他們所說來攻擊他們，是《波逸提》罪。（\ `《波逸提》七八`_\ ）
+
+   * - .. container:: is-italic
+
+          Complaining about a Community transaction to which one gave one’s consent—if one perceives the transaction as having been carried out in accordance with the rule—is a pācittiya offense. (`Pc 79`_)
+
+     - .. container:: is-italic
+
+          抱怨自己給予同意的僧團羯磨——如果自己認為該羯磨是按照戒條執行的——是《波逸提》罪。（\ `《波逸提》七九`_\ ）
+
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 .. _Sg 11: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11
@@ -1583,5 +1623,15 @@
 .. _《波逸提》七二: {filename}Section0023%zh-hant.rst#Pc72
 .. _Pc 73: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc73
 .. _《波逸提》七三: {filename}Section0023%zh-hant.rst#Pc73
+.. _Pc 74: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc74
+.. _《波逸提》七四: {filename}Section0023%zh-hant.rst#Pc74
+.. _Pc 75: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc75
+.. _《波逸提》七五: {filename}Section0023%zh-hant.rst#Pc75
+.. _Pc 77: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc77
+.. _《波逸提》七七: {filename}Section0023%zh-hant.rst#Pc77
+.. _Pc 78: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc78
+.. _《波逸提》七八: {filename}Section0023%zh-hant.rst#Pc78
+.. _Pc 79: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc79
+.. _《波逸提》七九: {filename}Section0023%zh-hant.rst#Pc79
 
 (未完待續)
