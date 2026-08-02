@@ -1570,6 +1570,38 @@
 
           抱怨自己給予同意的僧團羯磨——如果自己認為該羯磨是按照戒條執行的——是《波逸提》罪。（\ `《波逸提》七九`_\ ）
 
+   * - .. container:: is-italic
+
+          Getting up and leaving a meeting of the Community in the midst of a valid transaction that one knows to be valid—without having first given one’s consent to the transaction and with the intention of invalidating it—is a pācittiya offense. (`Pc 80`_)
+
+     - .. container:: is-italic
+
+          在明知一有效羯磨為有效的過程中，起身離開僧團會議，且未事先同意該羯磨，意圖使其無效，是《波逸提》罪。（\ `《波逸提》八十`_\ ）
+
+   * - .. container:: is-italic
+
+          After participating in a Community transaction giving robe-cloth to a Community official: Complaining that the Community acted out of favoritism is a pācittiya offense. (`Pc 81`_)
+
+     - .. container:: is-italic
+
+          在參與給予僧團執事袈裟布的僧團羯磨後：抱怨僧團出於偏袒而行事。，是《波逸提》罪。（\ `《波逸提》八一`_\ ）
+
+   * - .. container:: is-italic
+
+          When the Community is dealing formally with an issue, the full Community must be present, as must all the individuals involved in the issue; the proceedings must follow the patterns set out in the Dhamma and Vinaya. (`As 1`_)
+
+     - .. container:: is-italic
+
+          當僧團正式處理一項諍論時，全體僧團必須到場，所有與該諍論相關的人員也必須到場；處理程序必須遵循法與律中規定的模式。（\ `《滅諍》一`_\ ）
+
+   * - .. container:: is-italic
+
+          If the Community unanimously believes that a bhikkhu is innocent of a charge made against him, they may issue a transaction declaring him innocent on the basis of his memory of the events. (`As 2`_)
+
+     - .. container:: is-italic
+
+          如果僧團一致認為比丘對所受指控無罪，可以根據比丘對事件的記憶，做出宣告其無罪的羯磨。（\ `《滅諍》二`_\ ）
+
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 .. _Sg 11: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11
@@ -1633,5 +1665,13 @@
 .. _《波逸提》七八: {filename}Section0023%zh-hant.rst#Pc78
 .. _Pc 79: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc79
 .. _《波逸提》七九: {filename}Section0023%zh-hant.rst#Pc79
+.. _Pc 80: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc80
+.. _《波逸提》八十: {filename}Section0023%zh-hant.rst#Pc80
+.. _Pc 81: https://www.dhammatalks.org/vinaya/bmc/Section0023.html#Pc81
+.. _《波逸提》八一: {filename}Section0023%zh-hant.rst#Pc81
+.. _As 1: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As1
+.. _《滅諍》一: {filename}Section0027%zh-hant.rst#As1
+.. _As 2: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As2
+.. _《滅諍》二: {filename}Section0027%zh-hant.rst#As2
 
 (未完待續)
