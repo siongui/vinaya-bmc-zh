@@ -1602,6 +1602,46 @@
 
           如果僧團一致認為比丘對所受指控無罪，可以根據比丘對事件的記憶，做出宣告其無罪的羯磨。（\ `《滅諍》二`_\ ）
 
+   * - .. container:: is-italic
+
+          If the Community unanimously believes that a bhikkhu was insane while committing offenses against the rules, they may issue a transaction absolving him of any responsibility for the offenses. (`As 3`_)
+
+     - .. container:: is-italic
+
+          如果僧團一致認為比丘在犯戒時神智不清，可以做出羯磨，免除其罪行的責任。（\ `《滅諍》三`_\ ）
+
+   * - .. container:: is-italic
+
+          If a bhikkhu commits an offense, he should willingly undergo the appropriate penalty in line with what he actually did and the actual seriousness of the offense. (`As 4`_)
+
+     - .. container:: is-italic
+
+          比丘若犯了戒，應自願接受與其實際所為及罪行實際嚴重程度相符的適當懲罰。（\ `《滅諍》四`_\ ）
+
+   * - .. container:: is-italic
+
+          If an important dispute cannot be settled by a unanimous decision, it should be submitted to a vote. The opinion of the majority, if in accord with the Dhamma and Vinaya, is then considered decisive. (`As 5`_)
+
+     - .. container:: is-italic
+
+          如果重大諍論無法透過一致決定解決，則應提交表決。多數人的意見，如果符合法與律，則視為決定性意見。（\ `《滅諍》五`_\ ）
+
+   * - .. container:: is-italic
+
+          If a bhikkhu admits to an offense only after being interrogated in a formal meeting, the Community should carry out a further-punishment transaction against him, rescinding it only when he has mended his ways. (`As 6`_)
+
+     - .. container:: is-italic
+
+          若比丘在正式會議上經審問後才承認罪行，僧團應對其施以罪處所(覓罪相)羯磨，只有在其改過自新後方可撤銷。（\ `《滅諍》六`_\ ）
+
+   * - .. container:: is-italic
+
+          If, in the course of a dispute, both sides act in ways unworthy of contemplatives, and the sorting out of the penalties would only prolong the dispute, the Community as a whole may make a blanket confession of its light offenses. (`As 7`_)
+
+     - .. container:: is-italic
+
+          如果在諍論過程中，雙方的行為都不符合沙門所行，而解決懲罰問題只會延長諍論，那麼整體僧團可以對其輕微的罪行作出全面總括的懺悔。（\ `《滅諍》七`_\ ）
+
 .. _Sg 10: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg10
 .. _《僧殘》十: {filename}Section0011%zh-hant.rst#Sg10
 .. _Sg 11: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg11
@@ -1673,5 +1713,15 @@
 .. _《滅諍》一: {filename}Section0027%zh-hant.rst#As1
 .. _As 2: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As2
 .. _《滅諍》二: {filename}Section0027%zh-hant.rst#As2
+.. _As 3: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As3
+.. _《滅諍》三: {filename}Section0027%zh-hant.rst#As3
+.. _As 4: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As4
+.. _《滅諍》四: {filename}Section0027%zh-hant.rst#As4
+.. _As 5: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As5
+.. _《滅諍》五: {filename}Section0027%zh-hant.rst#As5
+.. _As 6: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As6
+.. _《滅諍》六: {filename}Section0027%zh-hant.rst#As6
+.. _As 7: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As7
+.. _《滅諍》七: {filename}Section0027%zh-hant.rst#As7
 
 (未完待續)
