@@ -985,7 +985,7 @@
      - `\　　和合僧 <{filename}Section0030%zh-hant.rst#sigil_toc_id_47>`__
 
    * - `\　　The Etiquette of a Contemplative <https://www.dhammatalks.org/vinaya/bmc/Section0030.html#sigil_toc_id_48>`__
-     - 　　沙門威儀
+     - `\　　沙門威儀 <{filename}Section0030%zh-hant.rst#sigil_toc_id_48>`__
 
    * - `\　Select Bibliography <https://www.dhammatalks.org/vinaya/bmc/Section0031.html>`__
      - 　選擇參考書目

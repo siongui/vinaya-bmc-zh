@@ -1724,4 +1724,63 @@
 .. _As 7: https://www.dhammatalks.org/vinaya/bmc/Section0027.html#As7
 .. _《滅諍》七: {filename}Section0027%zh-hant.rst#As7
 
+.. _sigil_toc_id_48:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_48"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2 is-italic has-text-weight-bold
+
+          The Etiquette of a Contemplative
+
+     - .. container:: mx-2 is-italic has-text-weight-bold
+
+          沙門威儀
+
+   * - .. container:: mx-2 is-italic
+
+          Training a novice or lay person to recite passages of Dhamma by rote is a pācittiya offense. (`Pc 4`_)
+
+     - .. container:: mx-2 is-italic
+
+          訓練沙彌或在家人死記硬背佛法段落，是《波逸提》罪。（\ `《波逸提》四`_\ ）
+
+   * - .. container:: is-italic
+
+          Lying down at the same time, in the same lodging, with a novice or layman for more than three nights running is a pācittiya offense. (`Pc 5`_)
+
+     - .. container:: is-italic
+
+          與沙彌或在家男人在同一住處連續三晚以上同時躺下，是《波逸提》罪。（\ `《波逸提》五`_\ ）
+
+   * - .. container:: is-italic
+
+          Digging soil or commanding that it be dug is a pācittiya offense. (`Pc 10`_)
+
+     - .. container:: is-italic
+
+          挖掘土壤或命令土壤被挖掘，是《波逸提》罪。（\ `《波逸提》十`_\ ）
+
+   * - .. container:: is-italic
+
+          Intentionally cutting, burning, or killing a living plant is a pācittiya offense. (`Pc 11`_)
+
+     - .. container:: is-italic
+
+          故意砍伐、焚燒或殺死活體植物，是《波逸提》罪。（\ `《波逸提》十一`_\ ）
+
+.. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
+.. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
+.. _Pc 5: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc5
+.. _《波逸提》五: {filename}Section0016%zh-hant.rst#Pc5
+.. _Pc 10: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc10
+.. _《波逸提》十: {filename}Section0016%zh-hant.rst#Pc10
+.. _Pc 11: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
+.. _《波逸提》十一: {filename}Section0017%zh-hant.rst#Pc11
+
 (未完待續)
