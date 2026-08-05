@@ -1774,6 +1774,54 @@
 
           故意砍伐、焚燒或殺死活體植物，是《波逸提》罪。（\ `《波逸提》十一`_\ ）
 
+   * - .. container:: is-italic
+
+          Handing food or medicine to a person ordained in another religion is a pācittiya offense. (`Pc 41`_)
+
+     - .. container:: is-italic
+
+          向其他宗教的受戒者親手提供食物或藥物，是《波逸提》罪。（\ `《波逸提》四一`_\ ）
+
+   * - .. container:: is-italic
+
+          Sending another bhikkhu away so that he won’t witness any misconduct one is planning to indulge in is a pācittiya offense. (`Pc 42`_)
+
+     - .. container:: is-italic
+
+          為避免另一位比丘目睹自己計劃沉溺的不當行為而將其遣走，是《波逸提》罪。（\ `《波逸提》四二`_\ ）
+
+   * - .. container:: is-italic
+
+          To sit down intruding on a man and a woman in their private quarters—when one or both are sexually aroused, and when another bhikkhu is not present—is a pācittiya offense. (`Pc 43`_)
+
+     - .. container:: is-italic
+
+          當一男一女中一人或兩人處於性興奮狀態，且沒有另一位比丘在場時，闖入他們的私人住所坐下，是《波逸提》罪。（\ `《波逸提》四三`_\ ）
+
+   * - .. container:: is-italic
+
+          Watching a field army—or similar large military force—on active duty, unless there is a suitable reason, is a pācittiya offense. (`Pc 48`_)
+
+     - .. container:: is-italic
+
+          觀看野戰軍或類似的大型軍事力量值勤，除非有適當理由，是《波逸提》罪。（\ `《波逸提》四八`_\ ）
+
+   * - .. container:: is-italic
+
+          Staying more than three consecutive nights with an army on active duty—even when one has a suitable reason to be there—is a pācittiya offense. (`Pc 49`_)
+
+     - .. container:: is-italic
+
+          即使有正當理由，在值勤的軍隊中連續逗留超過三個晚上，是《波逸提》罪。（\ `《波逸提》四九`_\ ）
+
+   * - .. container:: is-italic
+
+          Going to a battlefield, a roll call, an array of the troops in battle formation, or to see a review of the battle units while one is staying with an army is a pācittiya offense. (`Pc 50`_)
+
+     - .. container:: is-italic
+
+          待在軍隊期間，前往戰場、點名、列隊作戰的部隊、或觀看戰鬥部隊檢閱，是《波逸提》罪。（\ `《波逸提》五十`_\ ）
+
 .. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
 .. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
 .. _Pc 5: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc5
@@ -1782,5 +1830,17 @@
 .. _《波逸提》十: {filename}Section0016%zh-hant.rst#Pc10
 .. _Pc 11: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc11
 .. _《波逸提》十一: {filename}Section0017%zh-hant.rst#Pc11
+.. _Pc 41: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc41
+.. _《波逸提》四一: {filename}Section0020%zh-hant.rst#Pc41
+.. _Pc 42: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc42
+.. _《波逸提》四二: {filename}Section0020%zh-hant.rst#Pc42
+.. _Pc 43: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc43
+.. _《波逸提》四三: {filename}Section0020%zh-hant.rst#Pc43
+.. _Pc 48: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc48
+.. _《波逸提》四八: {filename}Section0020%zh-hant.rst#Pc48
+.. _Pc 49: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc49
+.. _《波逸提》四九: {filename}Section0020%zh-hant.rst#Pc49
+.. _Pc 50: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc50
+.. _《波逸提》五十: {filename}Section0020%zh-hant.rst#Pc50
 
 (未完待續)
