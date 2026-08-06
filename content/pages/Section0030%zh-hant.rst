@@ -1822,6 +1822,54 @@
 
           待在軍隊期間，前往戰場、點名、列隊作戰的部隊、或觀看戰鬥部隊檢閱，是《波逸提》罪。（\ `《波逸提》五十`_\ ）
 
+   * - .. container:: is-italic
+
+          Taking an intoxicant is a pācittiya offense regardless of whether one is aware that it is an intoxicant. (`Pc 51`_)
+
+     - .. container:: is-italic
+
+          無論是否知道所服用的是麻醉品，服用麻醉品是《波逸提》罪。（\ `《波逸提》五一`_\ ）
+
+   * - .. container:: is-italic
+
+          Tickling another bhikkhu is a pācittiya offense. (`Pc 52`_)
+
+     - .. container:: is-italic
+
+          搔另一位比丘的癢是《波逸提》罪。（\ `《波逸提》五二`_\ ）
+
+   * - .. container:: is-italic
+
+          Jumping and swimming in the water for fun is a pācittiya offense. (`Pc 53`_)
+
+     - .. container:: is-italic
+
+          為了好玩而在水中跳躍和游泳是《波逸提》罪。（\ `《波逸提》五三`_\ ）
+
+   * - .. container:: is-italic
+
+          Attempting to frighten another bhikkhu is a pācittiya offense. (`Pc 55`_)
+
+     - .. container:: is-italic
+
+          試圖驚嚇另一位比丘是《波逸提》罪。（\ `《波逸提》五五`_\ ）
+
+   * - .. container:: is-italic
+
+          Lighting a fire to warm oneself—or having it lit—when one does not need the warmth for one’s health is a pācittiya offense. (`Pc 56`_)
+
+     - .. container:: is-italic
+
+          在自身並不需要取暖保持健康的情況下，為了取暖而生火或讓人生火，是《波逸提》罪。（\ `《波逸提》五六`_\ ）
+
+   * - .. container:: is-italic
+
+          Bathing more frequently than once a fortnight when residing in the middle Ganges Valley, except on certain occasions, is a pācittiya offense. (`Pc 57`_)
+
+     - .. container:: is-italic
+
+          居住在恆河中游地區時，除特定情況外，每半月沐浴超過一次，是《波逸提》罪。（\ `《波逸提》五七`_\ ）
+
 .. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
 .. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
 .. _Pc 5: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc5
@@ -1842,5 +1890,17 @@
 .. _《波逸提》四九: {filename}Section0020%zh-hant.rst#Pc49
 .. _Pc 50: https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc50
 .. _《波逸提》五十: {filename}Section0020%zh-hant.rst#Pc50
+.. _Pc 51: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc51
+.. _《波逸提》五一: {filename}Section0021%zh-hant.rst#Pc51
+.. _Pc 52: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc52
+.. _《波逸提》五二: {filename}Section0021%zh-hant.rst#Pc52
+.. _Pc 53: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc53
+.. _《波逸提》五三: {filename}Section0021%zh-hant.rst#Pc53
+.. _Pc 55: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc55
+.. _《波逸提》五五: {filename}Section0021%zh-hant.rst#Pc55
+.. _Pc 56: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc56
+.. _《波逸提》五六: {filename}Section0021%zh-hant.rst#Pc56
+.. _Pc 57: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57
+.. _《波逸提》五七: {filename}Section0021%zh-hant.rst#Pc57
 
 (未完待續)
