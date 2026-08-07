@@ -1870,6 +1870,38 @@
 
           居住在恆河中游地區時，除特定情況外，每半月沐浴超過一次，是《波逸提》罪。（\ `《波逸提》五七`_\ ）
 
+   * - .. container:: is-italic
+
+          Hiding another bhikkhu’s bowl, robe, sitting cloth, needle case, or belt—or having it hidden—either as a joke or with the purpose of annoying him, is a pācittiya offense. (`Pc 60`_)
+
+     - .. container:: is-italic
+
+          故意藏匿另一位比丘的缽、袈裟、坐布、針線盒或腰帶，或使其被藏匿，無論是出於玩笑還是為了惹惱他，是《波逸提》罪。（\ `《波逸提》六十`_\ ）
+
+   * - .. container:: is-italic
+
+          Traveling by arrangement with a group of thieves from one village to another—knowing that they are thieves—is a pācittiya offense. (`Pc 66`_)
+
+     - .. container:: is-italic
+
+          明知對方是盜賊，仍與他們安排同行從一個村莊前往另一個村莊，是《波逸提》罪。（\ `《波逸提》六六`_\ ）
+
+   * - .. container:: is-italic
+
+          Entering a king’s sleeping chamber unannounced, when both the king and queen are in the chamber, is a pācittiya offense. (`Pc 83`_)
+
+     - .. container:: is-italic
+
+          未經告知進入國王的寢宮，且國王和王后都在其內，是《波逸提》罪。（\ `《波逸提》八三`_\ ）
+
+   * - .. container:: is-italic
+
+          Picking up a valuable, or having it picked up, with the intention of putting it in safe keeping for the owner—except when one finds it in a monastery or in a dwelling one is visiting—is a pācittiya offense. (`Pc 84`_)
+
+     - .. container:: is-italic
+
+          拾取貴重物品，或令其被拾取，意圖將其妥善保管以歸還失主——除非是在寺院或所拜訪的住所中發現——是《波逸提》罪。（\ `《波逸提》八四`_\ ）
+
 .. _Pc 4: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc4
 .. _《波逸提》四: {filename}Section0016%zh-hant.rst#Pc4
 .. _Pc 5: https://www.dhammatalks.org/vinaya/bmc/Section0016.html#Pc5
@@ -1902,5 +1934,11 @@
 .. _《波逸提》五六: {filename}Section0021%zh-hant.rst#Pc56
 .. _Pc 57: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57
 .. _《波逸提》五七: {filename}Section0021%zh-hant.rst#Pc57
-
-(未完待續)
+.. _Pc 60: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc60
+.. _《波逸提》六十: {filename}Section0021%zh-hant.rst#Pc60
+.. _Pc 66: https://www.dhammatalks.org/vinaya/bmc/Section0022.html#Pc66
+.. _《波逸提》六六: {filename}Section0022%zh-hant.rst#Pc66
+.. _Pc 83: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc83
+.. _《波逸提》八三: {filename}Section0024%zh-hant.rst#Pc83
+.. _Pc 84: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc84
+.. _《波逸提》八四: {filename}Section0024%zh-hant.rst#Pc84
