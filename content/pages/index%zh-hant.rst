@@ -988,7 +988,7 @@
      - `\　　沙門威儀 <{filename}Section0030%zh-hant.rst#sigil_toc_id_48>`__
 
    * - `\　Select Bibliography <https://www.dhammatalks.org/vinaya/bmc/Section0031.html>`__
-     - 　選擇參考書目
+     - `\　選擇參考書目 <{filename}Section0031%zh-hant.rst>`__
 
    * - `\　Addendum <https://www.dhammatalks.org/vinaya/bmc/Section0032.html>`__
      - 　補遺
