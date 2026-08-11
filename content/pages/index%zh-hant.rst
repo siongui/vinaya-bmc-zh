@@ -991,7 +991,7 @@
      - `\　選擇參考書目 <{filename}Section0031%zh-hant.rst>`__
 
    * - `\　Addendum <https://www.dhammatalks.org/vinaya/bmc/Section0032.html>`__
-     - 　補遺
+     - `\　補遺 <{filename}Section0032%zh-hant.rst>`__
 
    * - `BMC II: The Khandhaka Rules <https://www.dhammatalks.org/vinaya/bmc/Section0034.html>`__
      - 佛教比丘戒律 第二冊：犍度 戒條
