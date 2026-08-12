@@ -55,7 +55,85 @@
 
           b）即使在正確執行的僧團羯磨中被訶責三次。
 
+   * - .. container:: has-text-weight-bold
+
+          `Sg 13:`_
+
+     - .. container:: has-text-weight-bold
+
+          `《僧殘》十三：`_
+
+   * - .. container:: mx-2
+
+          *1) Effort:* a) One criticizes a valid act of banishment imposed on oneself or one criticizes those who imposed it
+
+     - .. container:: mx-2
+
+          1）努力：a）批評施加於自身的有效驅出行為，或批評那些施加其者。
+
+   * - .. container:: mx-2
+
+          b\) even when rebuked three times in a properly performed Community transaction.
+
+     - .. container:: mx-2
+
+          b）即使在正確執行的僧團羯磨中被訶責三次。
+
+   * - .. container:: has-text-weight-bold
+
+          `Pc 19:`_
+
+     - .. container:: has-text-weight-bold
+
+          `《波逸提》十九：`_
+
+   * - .. container:: mx-2
+
+          *1) Object:* a large dwelling, having a sponsor and intended for oneself.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 大住所，有贊助者，為自己準備。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One has more than three layers of roofing material applied (directing the work, or doing it oneself).
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 鋪設了三層以上的屋頂材料（指導施工，或親自施工）。
+
+   * - .. container:: has-text-weight-bold
+
+          `Pc 31:`_
+
+     - .. container:: has-text-weight-bold
+
+          `《波逸提》三一：`_
+
+   * - .. container:: mx-2
+
+          *1) Object:* any one of the five staple foods.
+
+     - .. container:: mx-2
+
+          *1）對象：*\ 五種主食中的任何一種。
+
+   * - .. container:: mx-2
+
+          *2) Effort:* One eats such food at a public alms center when one is not ill, or when any of the other conditions listed in the non-offense clauses do not apply.
+
+     - .. container:: mx-2
+
+          *2）努力：*\ 當沒有生病，或不犯條款中列出的任何其他條件均不適用時，在公共施捨處吃這種食物。
+
 .. _Sg 12\:: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg12
 .. _《僧殘》十二：: {filename}Section0011%zh-hant.rst#Sg12
+.. _Sg 13\:: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg13
+.. _《僧殘》十三：: {filename}Section0011%zh-hant.rst#Sg13
+.. _Pc 19\:: https://www.dhammatalks.org/vinaya/bmc/Section0017.html#Pc19
+.. _《波逸提》十九：: {filename}Section0017%zh-hant.rst#Pc19
+.. _Pc 31\:: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc31
+.. _《波逸提》三一：: {filename}Section0019%zh-hant.rst#Pc31
 
 (未完待續)
