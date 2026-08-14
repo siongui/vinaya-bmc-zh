@@ -1000,7 +1000,7 @@
      - `\　封面 <https://www.dhammatalks.org/vinaya/bmc/Section0033.html>`__
 
    * - `\　Copyright <https://www.dhammatalks.org/vinaya/bmc/Section0035.html>`__
-     - 　版權
+     - `\　版權 <{filename}Section0035%zh-hant.rst>`__
 
    * - `\　Abbreviations <https://www.dhammatalks.org/vinaya/bmc/Section0036.html>`__
      - 　縮寫
