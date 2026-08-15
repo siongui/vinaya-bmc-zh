@@ -1003,7 +1003,7 @@
      - `\　版權 <{filename}Section0035%zh-hant.rst>`__
 
    * - `\　Abbreviations <https://www.dhammatalks.org/vinaya/bmc/Section0036.html>`__
-     - 　縮寫
+     - `\　縮寫 <{filename}Section0036%zh-hant.rst>`__
 
    * - `\　Preface <https://www.dhammatalks.org/vinaya/bmc/Section0037.html>`__
      - 　前言
