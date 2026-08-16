@@ -1006,7 +1006,7 @@
      - `\　縮寫 <{filename}Section0036%zh-hant.rst>`__
 
    * - `\　Preface <https://www.dhammatalks.org/vinaya/bmc/Section0037.html>`__
-     - 　前言
+     - `\　前言 <{filename}Section0037%zh-hant.rst>`__
 
    * - `\　The Khandhakas <https://www.dhammatalks.org/vinaya/bmc/Section0038.html>`__
      - 　犍度
