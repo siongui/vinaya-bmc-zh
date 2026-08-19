@@ -1009,7 +1009,7 @@
      - `\　前言 <{filename}Section0037%zh-hant.rst>`__
 
    * - `\　The Khandhakas <https://www.dhammatalks.org/vinaya/bmc/Section0038.html>`__
-     - 　犍度
+     - `\　犍度 <{filename}Section0038%zh-hant.rst>`__
 
    * - `\　　Format <https://www.dhammatalks.org/vinaya/bmc/Section0038.html#sigil_toc_id_49>`__
      - 　　格式
