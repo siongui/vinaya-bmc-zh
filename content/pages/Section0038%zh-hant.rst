@@ -130,4 +130,117 @@
 .. _《大品》.九: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_009/
 .. _《大品》.十: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_010/
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2
+
+          Cv.I—Disciplinary Transactions
+
+     - .. container:: mx-2
+
+          `《小品》.一`_\ —治罪羯磨
+
+   * - .. container:: mx-2
+
+          Cv.II—Penance & Probation
+
+     - .. container:: mx-2
+
+          `《小品》.二`_\ —贖罪(摩那埵) & 別住(波利婆沙)
+
+   * - .. container:: mx-2
+
+          Cv.III—Imposing Penance & Probation
+
+     - .. container:: mx-2
+
+          `《小品》.三`_\ —施加贖罪(摩那埵) & 別住(波利婆沙)
+
+   * - .. container:: mx-2
+
+          Cv.IV—Settling Issues
+
+     - .. container:: mx-2
+
+          `《小品》.四`_\ —滅諍
+
+   * - .. container:: mx-2
+
+          Cv.V—Miscellany
+
+     - .. container:: mx-2
+
+          `《小品》.五`_\ —雜項
+
+   * - .. container:: mx-2
+
+          Cv.VI—Lodgings
+
+     - .. container:: mx-2
+
+          `《小品》.六`_\ —住宿
+
+   * - .. container:: mx-2
+
+          Cv.VII—Schism
+
+     - .. container:: mx-2
+
+          `《小品》.七`_\ —分裂
+
+   * - .. container:: mx-2
+
+          Cv.VIII—Protocols
+
+     - .. container:: mx-2
+
+          `《小品》.八`_\ —行儀
+
+   * - .. container:: mx-2
+
+          Cv.IX—Canceling the Pāṭimokkha
+
+     - .. container:: mx-2
+
+          `《小品》.九`_\ —取消《波羅提木叉》
+
+   * - .. container:: mx-2
+
+          Cv.X—Bhikkhunīs
+
+     - .. container:: mx-2
+
+          `《小品》.十`_\ —比丘尼
+
+   * - .. container:: mx-2
+
+          Cv.XI—The First Council
+
+     - .. container:: mx-2
+
+          `《小品》.十一`_\ —第一次結集
+
+   * - .. container:: mx-2
+
+          Cv.XII—The Second Council
+
+     - .. container:: mx-2
+
+          `《小品》.十二`_\ —第二次結集
+
+.. _《小品》.一: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_011/
+.. _《小品》.二: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_012/
+.. _《小品》.三: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_013/
+.. _《小品》.四: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_014/
+.. _《小品》.五: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/
+.. _《小品》.六: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_016/
+.. _《小品》.七: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_017/
+.. _《小品》.八: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/
+.. _《小品》.九: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_019/
+.. _《小品》.十: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_020/
+.. _《小品》.十一: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_021/
+.. _《小品》.十二: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_022/
+
 (未完待續)
