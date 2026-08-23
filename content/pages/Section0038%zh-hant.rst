@@ -243,4 +243,20 @@
 .. _《小品》.十一: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_021/
 .. _《小品》.十二: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_022/
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2
+
+          Aside from their opening and closing narratives, there seems little overall plan to the Khandhakas’ arrangement. The first Khandhaka opens with a narrative of the events beginning with the Buddha’s Awakening; continuing through the conversion of his two major disciples, Vens. Sāriputta and Moggallāna; and concluding with the Buddha’s authorization of the Saṅgha to accept new members into its fold.
+
+     - .. container:: mx-2
+
+          除了開頭和結尾的敘述之外，《犍度》的整體結構似乎並無太多規劃。第一部《犍度》以佛陀覺悟的敘述開篇，接著講述了佛陀兩位主要弟子舍利弗尊者和目犍連尊者的皈依，最後以佛陀授權僧團接納新成員而告終。
+
+   * - The account of the Awakening and the Buddha’s success in leading others to Awakening establishes his legitimacy as a lawgiver, the source of all the rules the Khandhakas contain.
+
+     - 覺悟的記載以及佛陀成功引導他人覺悟的事蹟，確立了他作為立法者的合法性，也是《犍度》中所包含的一切戒條的來源。
+
 (未完待續)
