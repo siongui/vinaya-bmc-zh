@@ -271,4 +271,15 @@
 
      - 透過這種方式，開頭的敘述確立了比丘僧伽的合法性，以及比丘訓練的合法性，這種合法性體現在《犍度》和整個《律藏》中。
 
+   * - As for the closing narratives, both the Mahāvagga and Cullavagga end with accounts that juxtapose misbehaving city bhikkhus with well-behaved wilderness bhikkhus. The placement of these accounts seems intended to make a point: that the survival of the Dhamma-Vinaya will depend on bhikkhus who practice in the wilderness. This is in keeping with a passage from the discourses (`AN 7:21`_) that “as long as the bhikkhus see their own benefit in wilderness dwellings, their growth can be expected, not their decline.”
+
+     - 至於結尾的敘述，《大品》和《小品》都以對比城鎮行為不端的比丘和行為良好的林野比丘的記載作為結尾。這些記載的放置似乎意在強調一個觀點：法與律的存續將取決於在林野修行的比丘。這與經文（\ `《增支部》7:21經`_\ ）中的一段話相符：「只要比丘們見到在林野居處對他們自身有益，他們的增長是可預期的，而非衰落。」
+
+   * - Between these framing narratives, however, the Khandhakas seem randomly ordered, and the internal arrangement of individual Khandhakas is often even more haphazard. This lack of clear organization creates a problem for any bhikkhu who wants to train by the Khandhaka rules, as rules related in practice are often scattered in widely different spots of the text. The purpose of this volume is to bring related rules together in a coherent way that will make them easier to understand and put into practice.
+
+     - 然而，在這些框架敘事之間，《犍度》的順序似乎雜亂無章，而單一《犍度》內部的安排更是如此。這種缺乏清晰的組織性，為任何想要按照《犍度》戒條訓練的比丘都帶來了問題，因為修行中相關的戒條往往散落在文本的截然不同的位置。本冊的目的在於將相關的戒條以一種連貫的方式匯集在一起，使之更容易理解和付諸於實踐。
+
+.. _AN 7\:21: https://www.dhammatalks.org/suttas/AN/AN7_21.html
+.. _《增支部》7\:21經: https://sutra.mobi/chilin/zengzhi/content/07.html#%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AF%94%E4%B8%98
+
 (未完待續)
