@@ -496,8 +496,6 @@
 
      - `《大品》.一.53`_\ 的《義註》在解釋「\ *博學*\ 」時，參考了\ `《波逸提》二一`_\ 的《義註》給出的術語定義，它說博學的比丘必須背誦：
 
-       .. TODO FIXME: replace link to 《波逸提》二一
-
    * - 1. Both Pāṭimokkhas (for the bhikkhus and bhikkhunīs).
 
      - 1. 兩部《波羅提木叉》（比丘和比丘尼）。
