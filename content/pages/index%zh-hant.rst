@@ -1015,7 +1015,7 @@
      - `\　　格式 <{filename}Section0038%zh-hant.rst#sigil_toc_id_49>`__
 
    * - `\　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0038.html#sigil_toc_id_50>`__
-     - 　　戒條
+     - `\　　戒條 <{filename}Section0038%zh-hant.rst#sigil_toc_id_50>`__
 
    * - `\　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0038.html#sigil_toc_id_51>`__
      - 　　討論

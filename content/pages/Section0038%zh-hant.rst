@@ -312,4 +312,37 @@
 .. _第九章: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
 .. TODO FIXME: replace link to 第九章
 
+.. _sigil_toc_id_50:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_50"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2 has-text-weight-bold
+
+          Rules
+
+     - .. container:: mx-2 has-text-weight-bold
+
+          戒條
+
+   * - .. container:: mx-2
+
+          Formally, the rules in the Khandhakas are of three sorts: prohibitions, allowances, and directives. Most of the directives are *de facto* prohibitions: If a bhikkhu does not do as directed, he incurs a penalty. However, some of the directives—such as the protocols (`Chapter 9`_) and the directions on how not to wear one’s robes—give more room for leeway. If a bhikkhu has good reason to deviate from them, he incurs no penalty in doing so. The penalty applies only when he deviates from them out of disrespect. Throughout this volume, the reader should assume all directives to be *de facto* prohibitions unless otherwise noted.
+
+     - .. container:: mx-2
+
+          從形式上看，《犍度》中的戒條分為三類：禁止、許可和指示。大多數指示\ *實際上*\ 是禁止：比丘若不遵從指示，將受到懲罰。然而，有些指示——例如行儀（\ `第九章`_\ ）和關於如何避免錯誤地穿著袈裟的指示——則給予了更大的迴旋餘地。如果比丘有好理由偏離這些指示，則這樣做不會受到懲罰。只有當比丘出於不敬而偏離這些指示時，才會受到懲罰。除非另有說明，否則在本冊中，讀者應假定所有指示\ *實際上*\ 都是禁止。
+
+   * - In terms of their seriousness, the vast majority of rules in the Khandhakas involve dukkaṭas (offenses of wrong doing), with a small number of thullaccayas (grave offenses) scattered among them. The text makes occasional references to the rules in the Pāṭimokkha, and—as anyone who has read `BMC1`_ will have noted—these references play an important role in determining the range of those rules. In this volume, where the seriousness of a particular offense is not mentioned, the reader should assume it to be a dukkaṭa. Other grades of offenses will be specifically noted.
+
+     - 就嚴重程度而言，《犍度》中的絕大多數戒律都屬於《突吉羅》（惡作罪），其中穿插著少量《偷蘭遮》（重罪）。文本中偶爾會提及《波羅提木叉》中的戒條，而任何讀過\ `《佛教比丘戒律 第一冊》`_\ 的人都會注意到，這些提及對於確定戒條的範圍起著重要作用。在本冊中，如果未明確指出某項罪行的嚴重程度，讀者應假定其為《突吉羅》。其他等級的罪行將會特別註明。
+
+.. _BMC1: https://www.dhammatalks.org/vinaya/bmc/Cover.html
+.. _《佛教比丘戒律 第一冊》: {filename}Section0003%zh-hant.rst
+
 (未完待續)
