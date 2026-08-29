@@ -1018,7 +1018,7 @@
      - `\　　戒條 <{filename}Section0038%zh-hant.rst#sigil_toc_id_50>`__
 
    * - `\　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0038.html#sigil_toc_id_51>`__
-     - 　　討論
+     - `\　　討論 <{filename}Section0038%zh-hant.rst#sigil_toc_id_51>`__
 
    * - `\　General <https://www.dhammatalks.org/vinaya/bmc/Section0039.html>`__
      - 　概要

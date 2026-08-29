@@ -354,4 +354,33 @@
 .. _《佛教比丘戒律 第一冊》: {filename}Section0003%zh-hant.rst
 .. _Mv.I: https://www.dhammatalks.org/vinaya/Mv/MvI.html
 
+
+.. _sigil_toc_id_51:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_51"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2 has-text-weight-bold
+
+          Discussions
+
+     - .. container:: mx-2 has-text-weight-bold
+
+          討論
+
+   * - .. container:: mx-2
+
+          Unlike its treatment of the Pāṭimokkha rules, the Canon does not provide word-commentaries for the Khandhaka rules. And, although it does provide an origin story for each rule, there are unfortunately very few cases where the story actually helps to explain the rule. In some cases, the origin story is terse, adding little information to what is in the rule. In others, the origin story is extremely long (the English translation of the origin story to the first rule in `Mv.I`_ takes up 51 pages in BD) and yet has very little to do with the rule it introduces. For instance, the origin story to the rule permitting bhikkhus to accept gifts of robe-cloth from lay donors tells the life story of Jīvaka Komārabhacca, the first lay person to give such a gift to the Buddha. Although Jīvaka’s story is fascinating in and of itself, providing many interesting insights into attitudes in the early Saṅgha, it is largely irrelevant to the rule at hand.
+
+     - .. container:: mx-2
+
+          與《波羅提木叉》戒條的處理不同，《聖典》並未對《犍度》戒條提供文字註釋。而且，儘管每條戒條都有其起源故事，但遺憾的是，這些故事真正有助於解釋戒條的情況卻寥寥無幾。有些起源故事過於簡略，對戒條本身的內容幾乎沒有補充。另一些起源故事則極為冗長（\ `《大品》.一`_\ 中第一條戒條的起源故事的英文翻譯在《戒律書》中佔了51頁），卻與它所引出的戒條幾乎毫無關聯。例如，允許比丘接受在家施主布施袈裟布的戒條起源故事，講述了\ `耆婆`_\ （Jīvaka Komārabhacca）的生平，他是第一位向佛陀布施的在家人。雖然耆婆的故事本身引人入勝，為我們了解早期僧團的態度提供了許多有趣的視角，但它與該戒條本身幾乎毫無關聯。
+
+.. _耆婆: https://zh.wikipedia.org/wiki/%E8%80%86%E5%A9%86
+
 (未完待續)
