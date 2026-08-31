@@ -1024,7 +1024,7 @@
      - 　概要
 
    * - `\　　Personal Grooming <https://www.dhammatalks.org/vinaya/bmc/Section0040.html>`__
-     - 　　個人儀容儀表
+     - `\　　個人儀容儀表 <{filename}Section0040%zh-hant.rst>`__
 
    * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_52>`__
      - 　　　討論
