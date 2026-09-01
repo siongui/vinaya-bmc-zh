@@ -1027,10 +1027,10 @@
      - `\　　個人儀容儀表 <{filename}Section0040%zh-hant.rst>`__
 
    * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_52>`__
-     - 　　　討論
+     - `\　　　討論 <{filename}Section0040%zh-hant.rst#sigil_toc_id_52>`__
 
    * - `\　　　　Bathing <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_53>`__
-     - 　　　　沐浴
+     - `\　　　　沐浴 <{filename}Section0040%zh-hant.rst#sigil_toc_id_53>`__
 
    * - `\　　　　Care of the teeth <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_54>`__
      - 　　　　牙齒照料
