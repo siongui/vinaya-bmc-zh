@@ -73,6 +73,14 @@
 
      - 在佛陀時代，人們會在河中、浴池、桑拿\ :small:`[三溫暖]`\ 或淋浴處沐浴。那時人們不用肥皂，而是使用一種名為「朱南」（chunam）的無氣味粉末，加水揉搓成像麵團狀。比丘被明確允許使用糞便粉末、黏土或染料殘渣；根據《義註》，普通的朱南就屬於「染料殘渣」的範疇。如果比丘身上有搔癢的皮疹、小癤子或流膿的傷口，或者體味難聞（用《義註》的話來說，「體味像馬一樣」），可以使用有香味的粉末。如今，《四大教示》在黏土的開緣之下允許肥皂，並且對於體味濃重的比丘，在有氣味粉末的開緣之下允許有氣味的肥皂或除臭劑。否則，使用有氣味物被列入\ `《小品》.五.36`_\ （參見\ `第十章`_\ ）所禁止的不良習慣之中。
 
+   * - The etiquette when bathing in a group is that a junior bhikkhu should not bathe in front of an elder bhikkhu or, if bathing in a river, upstream from him. If one is able and willing (and, of course, if the elder bhikkhus are amenable), one may look after the needs of elder bhikkhus while they are bathing. An example of this, given in the Commentary, is scrubbing them. When scrubbing another or oneself, one may use one’s hand or a rope or pad of cloth. Sponges, which apparently were not known in the time of the Buddha, would probably be included under *pad of cloth*.
+
+     - 集體沐浴的禮儀是，戒臘低的比丘不應在戒臘高的比丘面前沐浴，或者，如果是在河裡沐浴，也不應在他的上游沐浴。如果力所能及且願意（當然，前提是戒臘高的比丘也肯接受），可以在戒臘高的比丘沐浴時照顧他們的需要。《義註》中所給的這樣的一個例子是為他們擦洗。無論是為他人或自己擦洗時，都可以用手、繩子或布墊。海綿在佛陀時代顯然還不為人知，它可能被包括在\ *布墊*\ 之下。
+
+   * - One is not allowed to rub one’s body with a wooden hand, a string of red powder beads—according to the Commentary, this means bathing powder mixed with powdered stone (cinnabar?) and formed into beads—or with a scrubber incised with a “dragon-teeth” pattern. A bhikkhu who is ill, however, may use an unincised scrubber. In the time of the Buddha, young men while bathing would rub their bodies against trees, against walls, against one another (this was called a “fully immersed massage”), or against rubbing posts *(aṭṭhāna,* which according to the Commentary, took their name from their being incised with a pattern like a chess board *(aṭṭhapada)*) in order to toughen their muscles. Bhikkhus are explicitly forbidden from rubbing their bodies in any of these ways. However, they are allowed to massage themselves and one another with their hands.
+
+     - 不允許用木手、一串紅色粉末珠子（根據《義註》，這指的是將沐浴粉與石頭粉（硃砂？）混合製成珠子）或雕刻有「龍牙」紋樣的擦洗器來擦洗身體。但生病的比丘可以使用未被雕刻的擦洗器。在佛陀時代，年輕男子沐浴時會用身體摩擦樹木、牆壁、彼此（這被稱為「全身按摩」）或摩擦柱\ *（aṭṭhāna，*\ 根據《義註》，因其雕刻有類似棋盤\ *（aṭṭhapada）*\ 的圖案而得名。）來強健肌肉。比丘被明確禁止以這些方式的任一種來擦洗身體。但是，他們被允許用手按摩自己和彼此按摩。
+
 .. _Pc 57: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57
 .. _《波逸提》五七: {filename}Section0021%zh-hant.rst#Pc57
 .. _Mv.V.13: https://www.dhammatalks.org/vinaya/Mv/MvV.html#pts13
