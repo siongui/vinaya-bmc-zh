@@ -81,6 +81,17 @@
 
      - 不允許用木手、一串紅色粉末珠子（根據《義註》，這指的是將沐浴粉與石頭粉（硃砂？）混合製成珠子）或雕刻有「龍牙」紋樣的擦洗器來擦洗身體。但生病的比丘可以使用未被雕刻的擦洗器。在佛陀時代，年輕男子沐浴時會用身體摩擦樹木、牆壁、彼此（這被稱為「全身按摩」）或摩擦柱\ *（aṭṭhāna，*\ 根據《義註》，因其雕刻有類似棋盤\ *（aṭṭhapada）*\ 的圖案而得名。）來強健肌肉。比丘被明確禁止以這些方式的任一種來擦洗身體。但是，他們被允許用手按摩自己和彼此按摩。
 
+   * - In another context—cleaning one’s feet before entering a dwelling—one is allowed to step on foot wipers made of stone, stone fragments, and pumice (“sea-foam stone”), so it would seem reasonable that the use of pumice or other stones to scrub off stubborn dirt while bathing would also be permitted.
+
+     - 在另一個情境——進入住所前清潔雙腳——允許踩在由石頭、碎石和浮石（「海泡石」）製成的擦腳器上，因此，在沐浴時也允許使用浮石或其他石頭擦掉頑固污垢似乎是合理的。
+
+   * - When leaving the water after bathing, one should make way for those entering the water.
+     - 沐浴後離開水面時，應為要下水的人讓路。
+
+   * - One is allowed to dry oneself with a water wiper—which the non-offense clauses for `Pc 86`_ say may be made of ivory, horn, or wood—or with a piece of cloth.
+
+     - 允許用擦水物擦乾身體——\ `《波逸提》八六`_\ 的不犯條款說，擦水物可以由象牙、角或木頭製成——或者用一塊布。
+
 .. _Pc 57: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc57
 .. _《波逸提》五七: {filename}Section0021%zh-hant.rst#Pc57
 .. _Mv.V.13: https://www.dhammatalks.org/vinaya/Mv/MvV.html#pts13
@@ -90,5 +101,7 @@
 .. _《小品》.五.36: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0190a11
 .. _第十章: https://www.dhammatalks.org/vinaya/bmc/Section0049.html#BMC2chapter10
 .. TODO FIXME: 第十章
+.. _Pc 86: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
+.. _《波逸提》八六: {filename}Section0024%zh-hant.rst#Pc86
 
 (未完待續)
