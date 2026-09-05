@@ -104,4 +104,33 @@
 .. _Pc 86: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
 .. _《波逸提》八六: {filename}Section0024%zh-hant.rst#Pc86
 
+.. _sigil_toc_id_54:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_54"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: mx-2 is-size-5 has-text-weight-bold
+
+          Care of the teeth
+
+     - .. container:: mx-2 is-size-5 has-text-weight-bold
+
+          牙齒照料
+
+   * - .. container:: mx-2
+
+          Toothbrushes, dental floss, toothpaste, and tooth powders were unknown in the time of the Buddha. However, there is an allowance for tooth wood, which is the same thing as the tooth-cleaning stick discussed under `Pc 40`_. The Buddha extolled the virtues of using tooth wood as follows: “There are five advantages in chewing tooth wood: It is good for the eyes, the mouth does not smell foul, the taste buds are cleaned, bile and phlegm do not coat one’s food, one enjoys one’s food.” At present, toothbrushes and dental floss would come under the allowance for tooth wood. Because tooth wood should not be less than four fingerbreadths long, many Communities extend this prohibition to include toothpicks less than four fingerbreadths as well. Toothpaste and tooth powder, because they are composed of mineral salts, would come under the allowance of salts for medicine.
+
+     - .. container:: mx-2
+
+          佛陀時代，牙刷、牙線、牙膏和牙粉都不存在。然而，當時允許使用齒木，這與\ `《波逸提》四十`_\ 中討論到的潔牙棒是相同的東西。佛陀曾讚揚使用齒木的功德如下：「咀嚼齒木有五大益處：有益於眼睛，口無異味，清潔味蕾，膽汁和痰液不會覆蓋住食物，盡情享用食物。」如今，牙刷和牙線也屬於齒木的開緣範疇。由於齒木的長度不應少於四指寬，許多僧團也將此禁令擴展至長度少於四指寬的牙籤。牙膏和牙粉因為是由礦物鹽組成，因此屬於藥物用鹽的開緣範疇。
+
+.. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
+.. _《波逸提》四十: {filename}Section0019%zh-hant.rst#Pc40
+
 (未完待續)

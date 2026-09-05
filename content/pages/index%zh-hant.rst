@@ -1033,7 +1033,7 @@
      - `\　　　　沐浴 <{filename}Section0040%zh-hant.rst#sigil_toc_id_53>`__
 
    * - `\　　　　Care of the teeth <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_54>`__
-     - 　　　　牙齒照料
+     - `\　　　　牙齒照料 <{filename}Section0040%zh-hant.rst#sigil_toc_id_54>`__
 
    * - `\　　　　Hair of the head <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_55>`__
      - 　　　　頭部的頭髮
