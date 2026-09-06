@@ -133,4 +133,33 @@
 .. _Pc 40: https://www.dhammatalks.org/vinaya/bmc/Section0019.html#Pc40
 .. _《波逸提》四十: {filename}Section0019%zh-hant.rst#Pc40
 
+.. _sigil_toc_id_55:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_55"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Hair of the head
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          頭部的頭髮
+
+   * - The hair of the head should not be worn long. It should be shaved at least every two months or when the hair has grown to a length of two fingerbreadths—whichever occurs first, says the Commentary. In Thailand there is the custom that all bhikkhus shave their heads on the same day, the day before the full moon, so that the Community can present a uniform appearance. Although this is not obligatory, a bhikkhu who does not follow the custom tends to stand out from his fellows.
+
+     - 頭髮不宜留長。至少每兩個月剃一次，或頭髮長到兩指寬時剃——以先到者為準，《義註》中如此寫道。在泰國，有習俗是所有比丘在同一天，即滿月前一天剃頭，以便僧團保持統一的形象。雖然這不是強制性的，但不遵守此習俗的比丘，往往會顯得與眾不同。
+
+   * - A razor is one of a bhikkhu’s eight basic requisites. He is also allowed a whetstone, a razor case, a piece of felt (to wrap the razor in), and all razor accessories (such as a strop). At present, this allowance would cover all types of safety razors as well. The Commentary to Pr 2 insists that the razor case not be multicolored.
+
+     - 剃刀是比丘八種基本必需品之一。此外，比丘還被允許擁有磨刀石、剃刀盒、氈布（用於包裹剃刀）以及所有剃刀配件（例如磨刀皮帶）。目前，這項開緣也涵蓋所有類型的安全剃刀。\ `《波羅夷》二`_\ 的《義註》強調，剃刀盒不得為彩色。
+
+.. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
+.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
+
 (未完待續)

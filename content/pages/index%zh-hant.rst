@@ -1036,7 +1036,7 @@
      - `\　　　　牙齒照料 <{filename}Section0040%zh-hant.rst#sigil_toc_id_54>`__
 
    * - `\　　　　Hair of the head <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_55>`__
-     - 　　　　頭部的頭髮
+     - `\　　　　頭部的頭髮 <{filename}Section0040%zh-hant.rst#sigil_toc_id_55>`__
 
    * - `\　　　　Beard <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_56>`__
      - 　　　　鬍鬚
