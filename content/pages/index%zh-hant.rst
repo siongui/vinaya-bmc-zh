@@ -1042,7 +1042,7 @@
      - `\　　　　鬍鬚 <{filename}Section0040%zh-hant.rst#sigil_toc_id_56>`__
 
    * - `\　　　　Face <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_57>`__
-     - 　　　　臉
+     - `\　　　　臉 <{filename}Section0040%zh-hant.rst#sigil_toc_id_57>`__
 
    * - `\　　　　Hair of the body <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_58>`__
      - 　　　　體毛

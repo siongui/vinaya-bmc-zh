@@ -192,4 +192,26 @@
 
      - 鬍鬚不宜留長，但與頭髮不同，鬍鬚長度沒有明確的上限，除非「兩個月/兩指寬」的戒條也適用於此處。不得將鬍鬚修剪成山羊鬍、矩形或其他任何形狀。鼻子跟嘴唇之間的鬍子（上唇鬍鬚）也不得修剪，例如使其末端豎起。由於沒有禁止使用剪刀修剪鬍鬚，因此電動刮鬍刀顯然可以用於剃臉。
 
+.. _sigil_toc_id_57:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_57"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Face
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          臉
+
+   * - One may not gaze at the reflection of one’s face in a mirror or bowl of water unless the face has a wound or a disease. According to the Commentary, *mirror* here covers any reflective surface; *bowl of water*, any liquid surface. The Commentary also gives permission to look at one’s reflection to check for any signs of aging to be used in meditating on the theme of impermanence. The Vinaya-mukha, noting that the prohibition against using a mirror comes in the context of rules against beautifying the face, argues that looking at one’s reflection for other purposes—for example, as an aid in shaving the head or the beard—should be allowed. Alternatively, it might be argued that the use of a mirror while shaving would lessen the danger of wounding oneself with the razor, and so should be allowed under the exemption made for “disease.”
+
+     - 除非臉部有傷或生病，否則不得凝視鏡子或水碗中自己的臉部倒影。根據《義註》，此處的\ *鏡子*\ 涵蓋任何反射表面；\ *水碗*\ 涵蓋任何液體表面。《義註》也允許觀看自己倒影以檢查是否有衰老跡象，用於禪修無常的主題。《戒律入口》指出，禁止使用鏡子是在禁止美化臉部的戒條背景下提出的，因此論證說，出於其他目的（例如，輔助剃頭或鬍鬚）觀看自己的倒影應該被允許。或者，也可以論證說，在剃的時候使用鏡子可以減少被剃刀劃傷的風險，因此應該根據「生病」的例外情況予以允許。
+
 (未完待續)
