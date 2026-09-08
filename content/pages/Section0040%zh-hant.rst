@@ -170,4 +170,26 @@
 .. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
 .. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
 
+.. _sigil_toc_id_56:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_56"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Beard
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          鬍鬚
+
+   * - The beard should not be grown long, although—unlike the hair of the head—there is no explicit maximum length, unless the two month/two fingerbreadth rule is meant to apply here as well. One may not dress the beard as a goatee, a rectangle, or in any other design. The moustache may not be dressed, e.g., by making its ends stand up. Because there is no prohibition against using scissors to cut the beard, electric razors are clearly allowed in shaving the face.
+
+     - 鬍鬚不宜留長，但與頭髮不同，鬍鬚長度沒有明確的上限，除非「兩個月/兩指寬」的戒條也適用於此處。不得將鬍鬚修剪成山羊鬍、矩形或其他任何形狀。鼻子跟嘴唇之間的鬍子（上唇鬍鬚）也不得修剪，例如使其末端豎起。由於沒有禁止使用剪刀修剪鬍鬚，因此電動刮鬍刀顯然可以用於剃臉。
+
 (未完待續)

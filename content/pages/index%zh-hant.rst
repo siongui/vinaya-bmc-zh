@@ -1039,7 +1039,7 @@
      - `\　　　　頭部的頭髮 <{filename}Section0040%zh-hant.rst#sigil_toc_id_55>`__
 
    * - `\　　　　Beard <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_56>`__
-     - 　　　　鬍鬚
+     - `\　　　　鬍鬚 <{filename}Section0040%zh-hant.rst#sigil_toc_id_56>`__
 
    * - `\　　　　Face <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_57>`__
      - 　　　　臉
