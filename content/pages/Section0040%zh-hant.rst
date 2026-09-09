@@ -214,4 +214,18 @@
 
      - 除非臉部有傷或生病，否則不得凝視鏡子或水碗中自己的臉部倒影。根據《義註》，此處的\ *鏡子*\ 涵蓋任何反射表面；\ *水碗*\ 涵蓋任何液體表面。《義註》也允許觀看自己倒影以檢查是否有衰老跡象，用於禪修無常的主題。《戒律入口》指出，禁止使用鏡子是在禁止美化臉部的戒條背景下提出的，因此論證說，出於其他目的（例如，輔助剃頭或鬍鬚）觀看自己的倒影應該被允許。或者，也可以論證說，在剃的時候使用鏡子可以減少被剃刀劃傷的風險，因此應該根據「生病」的例外情況予以允許。
 
+   * - Except in the case of an illness, one should not apply lotions, powders, or pastes to the face. The reference here is apparently to beautifying lotions, etc. Medicinal lotions, powders, and pastes are allowable (see `Chapter 5`_). There is also a prohibition against applying a mark to the face (such as a caste mark or auspicious mark) with red arsenic. The Commentary interprets *red arsenic* as covering any coloring agent. The face and body are also not to be painted or dyed (e.g., with cosmetics, henna, or greasepaint). This rule would prohibit a bhikkhu from having his body tattooed as well, although any tattoos done before his ordination would not have to be removed (see `Chapter 14`_).
+
+     - 除非因患病需要，否則不應在臉上塗抹乳液、粉末或膏劑。此處所指顯然是用於美容的乳液等；藥用乳液、粉末及膏劑則是允許的（見\ `第五章`_\ ）。此外，亦禁止使用紅砷在臉上繪製標記（如種姓標記或吉祥紋飾）。《義註》將\ *紅砷*\ 解釋為泛指任何著色劑。臉部和身體也不得進行繪畫或染色（例如使用化妝品、指甲花染料或油彩）。此戒條也禁止比丘在身上紋身（刺青），不過受具足戒前已有的紋身（刺青）則無需去除（見\ `第十四章`_\ ）。
+
+   * - Although medicinal eye ointments are allowed, the above rules would prohibit eye cosmetics as well.
+     - 儘管允許使用醫用眼膏，但上述戒條同樣禁止使用眼部化妝品。
+
+.. _Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
+.. _Chapter 14: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
+.. _第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
+.. TODO FIXME: 第五章
+.. _第十四章: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
+.. TODO FIXME: 第十四章
+
 (未完待續)
