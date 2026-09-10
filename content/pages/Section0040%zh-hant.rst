@@ -149,7 +149,7 @@
 
      - .. container:: is-size-5 has-text-weight-bold
 
-          頭部的頭髮
+          頭髮
 
    * - The hair of the head should not be worn long. It should be shaved at least every two months or when the hair has grown to a length of two fingerbreadths—whichever occurs first, says the Commentary. In Thailand there is the custom that all bhikkhus shave their heads on the same day, the day before the full moon, so that the Community can present a uniform appearance. Although this is not obligatory, a bhikkhu who does not follow the custom tends to stand out from his fellows.
 
@@ -227,5 +227,33 @@
 .. TODO FIXME: 第五章
 .. _第十四章: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#BMC2chapter14
 .. TODO FIXME: 第十四章
+
+.. _sigil_toc_id_58:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_58"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Hair of the body
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          體毛
+
+   * - Nasal hairs should not be grown long. (In the origin story to this rule, people objected to bhikkhus with long nasal hairs “like goblins”). Tweezers are allowed for pulling them out; by extension, scissors should also be allowed for trimming them. The Vinaya-mukha notes that nasal hair performs a useful function in keeping dust out of the lungs, and so interprets this rule as applying only to nasal hairs so long that they grow outside the nostrils.
+
+     - 鼻毛不應留長。（關於此戒條的起源故事，人們對鼻毛很長、「像妖魔」的比丘表示反感。）允許用鑷子拔除鼻毛，推而廣之，也應允許用剪刀修剪。《戒律入口》指出，鼻毛具有阻擋灰塵進入肺部的有用功能，因此將此戒條解讀為僅適用於那些長出鼻孔之外的鼻毛。
+
+   * - The hair of the chest or stomach should not be dressed. Hair in a “confining” region—which the Vibhaṅga to the bhikkhunī’s parallel rule, their Pc 2, identifies as the armpits and the pubic area—should not be removed unless there is a sore in those areas and a need to apply medicine.
+
+     - 胸部或腹部的體毛不應修整。至於「隱密部位」的體毛－比丘尼戒條中與此對應的條目（即\ `她們的《波逸提》二`_\ ）的《經分別》將這些部位界定為腋下和陰部——除非該處生瘡需要敷藥，否則不應將其除去。
+
+.. _她們的《波逸提》二: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_012/#0357a09
 
 (未完待續)
