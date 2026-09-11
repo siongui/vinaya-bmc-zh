@@ -256,4 +256,77 @@
 
 .. _她們的《波逸提》二: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N02n0001_012/#0357a09
 
+.. _sigil_toc_id_59:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_59"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Nails
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          指甲
+
+   * - Fingernails and toenails are not to be grown long.
+     - 手指甲和腳趾甲不得留長。
+
+   * - .. container:: mx-2
+
+          Now on that occasion a certain bhikkhu with long nails was going for alms. A certain woman, on seeing him, said to him, ‘Come, venerable sir. Engage in sexual intercourse.’
+
+     - .. container:: mx-2
+
+          當時，有一位留著長指甲的比丘正在托缽。一位女子見到他，對他說：『來吧，大德，與我行淫。』
+
+   * - .. container:: mx-2
+
+          “Enough, sister. That isn’t allowable.”
+
+     - .. container:: mx-2
+
+          「夠了，姐妹。那是不允許的。」
+
+   * - .. container:: mx-2
+
+          “But, venerable sir, if you don’t engage (in sexual intercourse), I’ll scratch my limbs now with my own nails and make a fuss: ‘I’ve been wronged by this bhikkhu!’”
+
+     - .. container:: mx-2
+
+          「但是，大德，如果您不從事（淫行），我將會用指甲抓傷自己的肢體，然後大聲喧嚷：『我被這位比丘欺負非禮了！』」
+
+   * - .. container:: mx-2
+
+          “Do you know (what you’re doing) (§), sister?”
+
+     - .. container:: mx-2
+
+          「你知道（自己在做什麼）嗎（§），姐妹？」
+
+   * - .. container:: mx-2
+
+          Then the woman, having scratched her limbs with her own nails, made a fuss: “I’ve been wronged by this bhikkhu!”
+
+     - .. container:: mx-2
+
+          於是，那女子用自己的指甲抓傷了肢體，大聲喧嚷道：「我被這位比丘欺負非禮了！」
+
+   * - .. container:: mx-2
+
+          People, rushing up, grabbed hold of the bhikkhu. But they saw skin and blood on the woman’s nails. On seeing this, (and saying,) “This was done by this woman herself. The bhikkhu is innocent,” they let him go.
+
+     - .. container:: mx-2
+
+          人們衝上前去，抓住了那位比丘。但他們看見那女人的指甲上沾有皮肉和血跡。見此情景，（便說）：「這是那女人自己幹的，這位比丘是清白的」，他們隨即放了他。
+
+   * - The nails should be cut even with the flesh—a nail clipper is allowed for this purpose—and may be polished only to the extent of removing dirt and stains. The Commentary interprets this last point as an allowance also to remove the dirt under the nails.
+
+     - 指甲應修剪至與指肉齊平——允許用指甲刀進行修剪——且僅可進行用於去除污垢和污漬程度的打磨。《義註》將最後這一點解讀為同時也允許清除指甲縫中的污垢。
+
 (未完待續)

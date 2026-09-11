@@ -1048,7 +1048,7 @@
      - `\　　　　體毛 <{filename}Section0040%zh-hant.rst#sigil_toc_id_58>`__
 
    * - `\　　　　Nails <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_59>`__
-     - 　　　　指甲
+     - `\　　　　指甲 <{filename}Section0040%zh-hant.rst#sigil_toc_id_59>`__
 
    * - `\　　　　Ears <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_60>`__
      - 　　　　耳朵
