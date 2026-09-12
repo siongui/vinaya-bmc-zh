@@ -329,4 +329,48 @@
 
      - 指甲應修剪至與指肉齊平——允許用指甲刀進行修剪——且僅可進行用於去除污垢和污漬程度的打磨。《義註》將最後這一點解讀為同時也允許清除指甲縫中的污垢。
 
+.. _sigil_toc_id_60:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_60"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Ears
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          耳朵
+
+   * - Instruments for removing dirt from the ears are allowed but may not be made of fancy materials. Allowable materials are bone, ivory, horn, reed, bamboo, wood, lac (resin), fruit (§) (e.g., coconut shell), copper (metal), or conch-shell. Under the Great Standards, plastic would currently come under this list as well. This list of ten items should be memorized, as it recurs frequently in the Khandhakas.
+
+     - 允許使用清理耳垢的器具，但不得由奢華材質製成。允許使用的材質包括：骨、象牙、角、蘆葦、竹、木、蟲膠（樹脂）、果實（如椰子殼）、銅（金屬）或海螺殼。依據《四大教示》，塑膠目前也歸入此列。這十項列表應當背起來，因為它們在《犍度》中頻繁出現。
+
+.. _sigil_toc_id_61:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_61"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Ornamentation
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          裝飾物
+
+   * - The following ornaments are not to be worn (the Pali word for *wear* here—\ *dharati*\ —also means to keep or to own): an ear ornament (according to the Commentary, this includes any decoration of the ear, even a palm leaf), a chain, a necklace, an ornament for the waist (even a thread, says the Commentary), an ornamental girdle, an armlet, a bracelet, and a finger ring. None of these rules make an exception when one’s motivation is other than ornamentation. Thus a wristwatch worn for practical purposes, a copper bracelet worn for reasons of health, or mala beads worn for meditative purposes would all be forbidden under these rules.
+
+     - 以下裝飾物不得佩戴（此處「\ *佩戴*\ 」一詞對應的巴利語 *dharati* 亦有「持有」或「擁有」之意）：耳飾（根據《義註》，這包括任何耳部裝飾，即使是一片棕櫚葉）、鏈飾、項鍊、腰飾（《義註》指出，即使只是一條線也包括在內）、裝飾性腰帶、臂鐲、手鐲以及戒指。即便動機並非為了裝飾，這些戒條也不設例外。因此，出於實用目的佩戴的手錶、因健康原因佩戴的銅手鐲，或是為禪修目的佩戴的念珠，均在這些戒條的禁止之列。
+
 (未完待續)

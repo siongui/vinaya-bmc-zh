@@ -1051,10 +1051,10 @@
      - `\　　　　指甲 <{filename}Section0040%zh-hant.rst#sigil_toc_id_59>`__
 
    * - `\　　　　Ears <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_60>`__
-     - 　　　　耳朵
+     - `\　　　　耳朵 <{filename}Section0040%zh-hant.rst#sigil_toc_id_60>`__
 
    * - `\　　　　Ornamentation <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_61>`__
-     - 　　　　裝飾物
+     - `\　　　　裝飾物 <{filename}Section0040%zh-hant.rst#sigil_toc_id_61>`__
 
    * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_62>`__
      - 　　　戒條
