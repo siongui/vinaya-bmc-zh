@@ -373,4 +373,45 @@
 
      - 以下裝飾物不得佩戴（此處「\ *佩戴*\ 」一詞對應的巴利語 *dharati* 亦有「持有」或「擁有」之意）：耳飾（根據《義註》，這包括任何耳部裝飾，即使是一片棕櫚葉）、鏈飾、項鍊、腰飾（《義註》指出，即使只是一條線也包括在內）、裝飾性腰帶、臂鐲、手鐲以及戒指。即便動機並非為了裝飾，這些戒條也不設例外。因此，出於實用目的佩戴的手錶、因健康原因佩戴的銅手鐲，或是為禪修目的佩戴的念珠，均在這些戒條的禁止之列。
 
+.. _sigil_toc_id_62:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_62"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-3 has-text-weight-bold
+
+          Rules
+
+     - .. container:: is-size-3 has-text-weight-bold
+
+          戒條
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Bathing
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          沐浴
+
+   * - “I allow powders as medicines for one who has an itch, a small boil, a running sore, or an affliction of thick scabs; or for one whose body smells bad. I allow (powdered) dung, clay, and dye-dregs for one who is not ill. I allow a pestle and mortar.”
+
+       .. container:: has-text-right
+
+          —  `Mv.VI.9.2`_
+
+     - 「對於患有瘙癢、小癤腫、流膿瘡口或厚痂病症者，我允許粉末作為藥物；或體味難聞者。對於無病者，我允許使用（粉末狀的）糞便、粘土和染料殘渣。我允許研缽與研杵。」
+
+       .. container:: has-text-right
+
+          —  `《大品》.六.9.2`_
+
+.. _Mv.VI.9.2: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts9_2
+.. _《大品》.六.9.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0270a14
+
 (未完待續)

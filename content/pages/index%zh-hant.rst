@@ -1057,7 +1057,7 @@
      - `\　　　　裝飾物 <{filename}Section0040%zh-hant.rst#sigil_toc_id_61>`__
 
    * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0040.html#sigil_toc_id_62>`__
-     - 　　　戒條
+     - `\　　　戒條 <{filename}Section0040%zh-hant.rst#sigil_toc_id_62>`__
 
    * - `\　　Cloth Requisites <https://www.dhammatalks.org/vinaya/bmc/Section0041.html>`__
      - 　　衣要求
