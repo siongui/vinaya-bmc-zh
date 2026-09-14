@@ -401,17 +401,56 @@
 
    * - “I allow powders as medicines for one who has an itch, a small boil, a running sore, or an affliction of thick scabs; or for one whose body smells bad. I allow (powdered) dung, clay, and dye-dregs for one who is not ill. I allow a pestle and mortar.”
 
-       .. container:: has-text-right
+       .. container:: is-italic has-text-right
 
           —  `Mv.VI.9.2`_
 
      - 「對於患有瘙癢、小癤腫、流膿瘡口或厚痂病症者，我允許粉末作為藥物；或體味難聞者。對於無病者，我允許使用（粉末狀的）糞便、粘土和染料殘渣。我允許研缽與研杵。」
 
-       .. container:: has-text-right
+       .. container:: is-italic has-text-right
 
           —  `《大品》.六.9.2`_
 
+   * - “The body is not to be rubbed against a tree by a bhikkhu who is bathing. Whoever should rub it (in such a way): an offense of wrong doing.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.1.1
+
+     - 「比丘在沐浴時，不得將身體在樹上摩擦。若（以此方式）摩擦身體：《惡作》（《突吉羅》）罪。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.1.1`_
+
+   * - “The body is not to be rubbed against a wall by a bhikkhu who is bathing. Whoever should rub it (in such a way): an offense of wrong doing.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.1.1
+
+     - 「比丘在沐浴時，不得將身體在牆壁上摩擦。若（以此方式）摩擦身體：《惡作》（《突吉羅》）罪。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.1.2`_
+
+   * - “One should not bathe at a rubbing post. Whoever should bathe (there): an offense of wrong doing”…. “One should not bathe with a wooden hand. Whoever should bathe (with one): an offense of wrong doing”…. “One should not bathe with a string of cinnabar-powder beads. Whoever should bathe (with one): an offense of wrong doing.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.1.3
+
+     - 「不應在擦身柱處沐浴。若（於該處）沐浴者：《惡作》（《突吉羅》）罪」…「不應使用木製手沐浴。若（使用該物）沐浴者：《惡作》（《突吉羅》）罪」…「不應使用硃砂粉珠串沐浴。若（使用該物）沐浴者：《惡作》（《突吉羅》）罪。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.1.3`_
+
 .. _Mv.VI.9.2: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts9_2
 .. _《大品》.六.9.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0270a14
+.. _《小品》.五.1.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0143a03
+.. _《小品》.五.1.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0143a11
+.. _《小品》.五.1.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0143a13
 
 (未完待續)
