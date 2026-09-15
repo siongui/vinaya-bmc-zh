@@ -447,10 +447,51 @@
 
           —  `《小品》.五.1.3`_
 
+   * - “One should not have a ‘fully immersed’ massage made [C: rubbing one’s body up against another person’s body]. Whoever should do so: an offense of wrong doing”…. “One should not bathe with a scrubber incised like dragon teeth. Whoever should do so: an offense of wrong doing”…. “I allow an unincised scrubber for one who is ill.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.1.4
+
+     - 「不應進行『完全沉浸式』按摩 [《義註》：即自己身體與他人身體相互摩擦]。若這樣做，《惡作》（《突吉羅》）罪」…「不應使用雕刻如龍牙般的擦洗器來沐浴。若這樣做，《惡作》（《突吉羅》）罪」…「我允許有病者使用未雕刻的擦洗器。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.1.4`_
+
+   * - “I allow a pad of cloth (or: a rope of cloth) (for scrubbing the body)”…. “I allow ordinary hand [C: massaging].”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.1.5
+
+     - 「我允許布墊（或：布繩）（用於擦洗身體）」…「我允許普通的手 [《義註》：進行按摩]。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.1.5`_
+
+   * - “I allow three kinds of foot-wipers: stone, stone fragment(s), pumice (literally, ‘sea-foam stone’) (§).”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.22.1
+
+     - 「我允許使用三種擦腳物：石頭、石塊以及浮石（字面意思為『海泡石』）(§)。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.22.1`_
+
 .. _Mv.VI.9.2: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts9_2
 .. _《大品》.六.9.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0270a14
 .. _《小品》.五.1.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0143a03
 .. _《小品》.五.1.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0143a11
 .. _《小品》.五.1.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0143a13
+.. _《小品》.五.1.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0144a07
+.. _《小品》.五.1.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0144a13
+.. _《小品》.五.22.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0174a04
+.. _《小品》.五.17.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0165a12
+.. _《小品》.八.8.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0300a01
 
 (未完待續)
