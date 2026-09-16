@@ -483,6 +483,30 @@
 
           —  `《小品》.五.22.1`_
 
+   * - “I allow a water wiper, and to wipe oneself dry even with a cloth.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.17.1
+
+     - 「我允許擦水物，即使是用布把身體擦乾。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.17.1`_
+
+   * - “If one is able/willing, one may perform a service for the elder bhikkhus even in the water. One should not bathe in front of the elder bhikkhus or upstream from them. When coming out of the water after bathing, make way for those entering the water.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.VIII.8.2
+
+     - 「若有能力或意願，即便在水中也可為長老比丘提供服務。不應在長老比丘面前或其上游處沐浴。沐浴完畢離開水中時，應為正入水者讓路。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.八.8.2`_
+
 .. _Mv.VI.9.2: https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts9_2
 .. _《大品》.六.9.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0270a14
 .. _《小品》.五.1.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0143a03
@@ -493,5 +517,44 @@
 .. _《小品》.五.22.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0174a04
 .. _《小品》.五.17.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0165a12
 .. _《小品》.八.8.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_018/#0300a01
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Care of the Teeth
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          牙齒照料
+
+   * - “There are five advantages in chewing tooth wood: It is good for the eyes (§), the mouth does not smell foul, the taste buds are cleaned, bile and phlegm do not coat one’s food, one enjoys one’s food. I allow tooth wood.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.31.1
+
+     - 「咀嚼齒木有五種益處：有益眼睛（§），口腔無異味，清潔味蕾，防止膽汁與痰液附著於食物，令人食欲舒暢。我允許齒木。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.31.1`_
+
+   * - “A long piece of tooth wood is not to be chewed. Whoever should chew one: an offense of wrong doing. I allow tooth wood eight fingerbreadths long at most. And novices are not to be flicked with it. Whoever should do so: an offense of wrong doing”…. “An overly short piece of tooth wood is not to be chewed. Whoever should chew one: an offense of wrong doing. I allow tooth wood four fingerbreadths long at the very least.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.31.2
+
+     - 「不得咀嚼過長的齒木。若咀嚼者，《惡作》（《突吉羅》）罪。我允許齒木，最長為八指寬。亦不得用齒木擊打沙彌。若這樣做者，《惡作》（《突吉羅》）罪。」…「不得咀嚼過短的齒木。若咀嚼者，《惡作》（《突吉羅》）罪。我允許齒木，最短為四指寬。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.31.2`_
+
+.. _《小品》.五.31.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0184a10
+.. _《小品》.五.31.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0185a01
 
 (未完待續)
