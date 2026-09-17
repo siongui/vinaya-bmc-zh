@@ -557,4 +557,69 @@
 .. _《小品》.五.31.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0184a10
 .. _《小品》.五.31.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0185a01
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Hair of the Head
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          頭髮
+
+   * - “The hair of the head should not be worn long. Whoever should do so: an offense of wrong doing. I allow two-month (growth) or two fingerbreadths.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.2.2
+
+     - 「頭髮不應留長。若這樣做者，《惡作》（《突吉羅》）罪。我允許兩個月（的長度），或兩指寬。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.2.2`_
+
+   * - “I allow a razor, a whetstone, a razor case, a piece of felt, and all razor accessories.
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.27.3
+
+     - 「我允許剃刀、磨刀石、剃刀盒、氈布以及所有剃刀配件。
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.27.3`_
+
+   * - “One should not have the hair of the head cut with scissors. Whoever should do so: an offense of wrong doing. I allow that you have the hair of the head cut with scissors in the case of illness (origin story: a bhikkhu had a sore on his head and couldn’t shave)”…. “Hair of the nostrils should not be worn long. Whoever should do so: an offense of wrong doing”…. “I allow tweezers”…. “One should not have gray hairs taken out. Whoever should do so: an offense of wrong doing.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.27.5
+
+     - 「不應用剪刀剪去頭髮。若這樣做者，《惡作》（《突吉羅》）罪。我允許在患病的情況下用剪刀剪頭髮（起源故事：某比丘頭上生瘡，無法剃髮）」…。「鼻毛不應留長。若這樣做者，《惡作》（《突吉羅》）罪。」…。「我允許鑷子」…。「不應拔除灰髮。若這樣做者，《惡作》（《突吉羅》）罪。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.27.5`_
+
+   * - “One should not arrange the hair of the head with a brush… with a comb… with the fingers used as a comb… with beeswax mixed with oil… with water mixed with oil. Whoever should do so: an offense of wrong doing.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.2.3
+
+     - 「不應使用刷子、梳子、充當梳子的手指、油與蜂蠟的混合物，或油與水的混合物來整理頭髮。若這樣做者，《惡作》（《突吉羅》）罪。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.2.3`_
+
+.. _《小品》.五.2.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0145a06
+.. _《小品》.五.27.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0179a11
+.. _《小品》.五.27.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0180a07
+.. _《小品》.五.2.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0145a08
+
 (未完待續)
