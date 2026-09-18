@@ -622,4 +622,30 @@
 .. _《小品》.五.27.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0180a07
 .. _《小品》.五.2.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0145a08
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Beard & Hair of the Body
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          鬍鬚以及體毛
+
+   * - “The beard is not to be dressed. The beard is not to grown long. It is not to be dressed as a goatee. It is not to be trimmed as a rectangle. The hair of the chest is not to be dressed. The hair of the stomach is not to be dressed. (The translation of these last two statements follows the Commentary. An alternative translation, not supported by the Commentary, reads them as prohibitions connected with facial hair, in which the first one *(parimukhaṁ)* could be read as “moustache” and the second *(aḍḍharukaṁ* or *aḍḍhadukaṁ)* as “a mutton-chop beard.”) Whiskers are not to be arranged (made to stand up). Hair in a confining region is not to be removed. Whoever should do so: an offense of wrong doing”…. “I allow that hair in a confining region be removed in the case of illness.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.27.4
+
+     - 「不得修飾鬍鬚。不得蓄長鬍鬚。不得修剪成山羊鬍式樣。不得修剪成長方形。不得修飾胸毛。不得修飾腹毛。（後兩項的譯法依據的是《義註》。另一種不被《義註》支持的譯法將其理解為與面部毛髮有關的禁止，其中第一項 *（parimukhaṁ）* 可解讀「長在上唇的小鬍子」，第二項\ *（aḍḍharukaṁ*或 *aḍḍhadukaṁ）*\ 可解讀為「羊排絡腮鬍」。）不得修整（豎起）鬚髮；不得去除隱秘部位的體毛。若這樣做者，《惡作》（《突吉羅》）罪…」「我允許在患病情況下去除隱秘部位的體毛。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.27.4`_
+
+.. _《小品》.五.27.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0179a14
+
 (未完待續)
