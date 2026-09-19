@@ -648,4 +648,43 @@
 
 .. _《小品》.五.27.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0179a14
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Face
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          臉
+
+   * - “One should not gaze at the reflection of one’s face in a mirror or in a bowl of water. Whoever should do so: an offense of wrong doing”…. “I allow that, on account of a disease, one gaze at the reflection of one’s face in a mirror or in a bowl of water.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.2.4
+
+     - 「不應注視鏡中或水缽中自己面孔的倒影。若這樣做者：《惡作》（《突吉羅》）罪」…。「我允許因疾病緣故，注視鏡中或水缽中自己面孔的倒影。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.2.4`_
+
+   * - “The face is not to be smeared (with lotion). The face is not to be rubbed with paste. The face is not to be powdered. The face is not to be marked with red arsenic. The limbs are not to be painted/dyed. The face is not to be painted/dyed. The limbs and face are not to be painted/dyed. Whoever should do so: an offense of wrong doing”…. “I allow that, on account of a disease, the face be smeared (with lotion).”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.2.5
+
+     - 「不得在臉上塗抹（乳液）。不得在臉上塗擦糊狀物。不得在臉上敷粉。不得在臉上塗畫紅砷。不得給四肢著色或染色。不得給面部著色或染色。不得給四肢和面部著色或染色。若這樣做者：《惡作》（《突吉羅》）罪」…。「我允許因疾病之故，在臉上塗抹（乳液）。
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.2.5`_
+
+.. _《小品》.五.2.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0145a12
+.. _《小品》.五.2.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0146a03
+
 (未完待續)
