@@ -687,4 +687,43 @@
 .. _《小品》.五.2.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0145a12
 .. _《小品》.五.2.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0146a03
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Nails
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          指甲
+
+   * - “Nails are not to be worn long. Whoever should do so: an offense of wrong doing.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.27.1
+
+     - 「指甲不得留長。若這樣做者：《惡作》（《突吉羅》）罪。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.27.1`_
+
+   * - “I allow a nail-clipper”…. “I allow that the nails be cut down to the extent of the flesh”…. “One’s 20 nails should not be polished. Whoever should do so: an offense of wrong doing. I allow them to be polished away to the extent of dirt/stains.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.27.2
+
+     - 「我允許指甲刀」…「我允許將指甲修剪至與肉齊平的程度」…「不應打磨二十個指甲。若這樣做者：《惡作》（《突吉羅》）罪。我允許為了去除污垢或污漬而打磨指甲。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.27.2`_
+
+.. _《小品》.五.27.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0178a11
+.. _《小品》.五.27.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0179a05
+
 (未完待續)
