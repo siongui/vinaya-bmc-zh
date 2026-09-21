@@ -726,4 +726,54 @@
 .. _《小品》.五.27.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0178a11
 .. _《小品》.五.27.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0179a05
 
-(未完待續)
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Ears
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          耳朵
+
+   * - “I allow an instrument for removing dirt from the ears”…. “One should not use fancy instruments for removing dirt from the ears. Whoever should use one: an offense of wrong doing. I allow that they be made of bone, ivory, horn, reed, bamboo, wood, lac (resin), fruit (§) (e.g., coconut shell), copper (metal), or conch-shell.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.27.6
+
+     - 「我允許清除耳垢的器具」…「不應使用精緻考究的器具來清除耳垢。若使用此類器具：《惡作》（《突吉羅》）罪。我允許由骨、象牙、角、蘆葦、竹、木、蟲膠（樹脂）、果實（§）（如椰子殼）、銅（金屬）或海螺殼製成的器具。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.27.6`_
+
+.. _《小品》.五.27.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0181a03
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Ornamentation
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          裝飾物
+
+   * - “An ear ornament should not be worn. A chain should not be worn. A necklace… an ornament for the waist… an ornamental girdle (§)… an armlet… a bracelet… a finger ring should not be worn. Whoever should wear one: an offense of wrong doing.”
+
+       .. container:: is-italic has-text-right
+
+          — Cv.V.2.1
+
+     - 「不應佩戴耳飾。不應佩戴鍊飾。不應佩戴項鍊、腰飾、裝飾性腰帶（§）、臂環、手鐲或戒指。若佩戴者：《惡作》（《突吉羅》）罪。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.2.1`_
+
+.. _《小品》.五.2.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0145a03
