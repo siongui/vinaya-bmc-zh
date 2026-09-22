@@ -239,8 +239,7 @@
 .. _尼龍: https://zh.wikipedia.org/wiki/%E5%B0%BC%E9%BE%99
 .. _人造絲: https://zh.wikipedia.org/wiki/%E5%AB%98%E7%B8%88
 .. _《大品》.八.28: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0395a02
-.. _《佛教比丘戒律 第二冊》第二章: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#BMC2chapter2
-.. TODO FIXME: replace link to 《佛教比丘戒律 第二冊》第二章
+.. _《佛教比丘戒律 第二冊》第二章: {filename}Section0041%zh-hant.rst#BMC2chapter2
 .. _《大品》.八.29: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0396a06
 .. _Mv.VIII.21.1: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.21.1
 .. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59

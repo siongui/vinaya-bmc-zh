@@ -1060,10 +1060,10 @@
      - `\　　　戒條 <{filename}Section0040%zh-hant.rst#sigil_toc_id_62>`__
 
    * - `\　　Cloth Requisites <https://www.dhammatalks.org/vinaya/bmc/Section0041.html>`__
-     - 　　衣要求
+     - `\　　衣資具 <{filename}Section0041%zh-hant.rst>`__
 
    * - `\　　　Discussions <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_63>`__
-     - 　　　討論
+     - `\　　　討論 <{filename}Section0041%zh-hant.rst#sigil_toc_id_63>`__
 
    * - `\　　　　Robe material <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_64>`__
      - 　　　　袈裟材質
@@ -1084,7 +1084,7 @@
      - 　　　　洗袈裟
 
    * - `\　　　　Other Cloth Requisites <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_70>`__
-     - 　　　　其他衣要求
+     - 　　　　其他衣資具
 
    * - `\　　　　Dressing <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_71>`__
      - 　　　　穿著
