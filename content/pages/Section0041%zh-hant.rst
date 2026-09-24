@@ -45,7 +45,7 @@
 
      - .. container:: mx-2
 
-          「那麼，透過使用而應棄除的煩惱\ :small:`[漏]`\ 有哪些呢？即：比丘如理省察，使用衣物僅僅是為了抵禦寒冷、炎熱，抵禦蚊蠅、風、陽光及爬蟲的侵擾；僅僅是為了遮蔽身體羞恥部位。
+          「那麼，透過使用而捨棄的煩惱\ :small:`[漏]`\ 有哪些呢？即：比丘如理省察，使用衣物僅僅是為了抵禦寒冷、炎熱，抵禦蚊蠅、風、陽光及爬蟲的侵擾；僅僅是為了遮蔽身體羞恥部位。
 
    * - .. container:: mx-2
 
@@ -62,5 +62,34 @@
      - .. container:: mx-2
 
           「如理省察，他使用住處僅是為了抵禦寒暑，防避蚊蠅、風吹、日曬及爬蟲的侵擾；僅是為了抵禦惡劣天氣，並享受隱居獨處之樂。
+
+   * - .. container:: mx-2
+
+          “Reflecting appropriately, he uses medicinal requisites for curing the sick simply to counteract any pains of illness that have arisen and for maximum freedom from disease.
+
+     - .. container:: mx-2
+
+          「如理省察，他使用醫藥資具來治療疾病，只是為了消除已生起的病痛，並力求最大限度地擺脫疾病。
+
+   * - .. container:: mx-2
+
+          “The effluents, vexation, or fever that would arise if he were not to use these things (in this way) do not arise for him when he uses them (in this way). These are called the effluents to be abandoned by using.”—`MN 2`_
+
+     - .. container:: mx-2
+
+          「若他不（以這種方式）使用這些事物而會生起漏、煩惱或狂熱，當他（以這種方式）使用它們時，便不會生起。這些被稱為『通過使用而捨棄的漏』。」——\ `《中部》2經`_
+
+   * - .. container:: mx-2
+
+          “And how is a bhikkhu content? Just as a bird, wherever it goes, flies with its wings as its only burden, so too is he content with a set of robes to provide for his body and almsfood to provide for his hunger. Wherever he goes, he takes only his barest necessities along. This is how a bhikkhu is content.”—`DN 2`_
+
+     - .. container:: mx-2
+
+          「比丘如何知足呢？就像鳥兒無論飛往何處，唯一的負擔便是雙翼；同樣地，他以一套袈裟蔽體、以托缽所得之食充飢，便感到滿足。無論去往何處，他只攜帶最基本的生活必需品\ :small:`[資具]`\ 。這就是比丘如何知足。」——`《長部》2經`_
+
+.. _MN 2: https://www.dhammatalks.org/suttas/MN/MN2.html
+.. _《中部》2經: https://sutra.mobi/chilin/zhong/content/002.html
+.. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
+.. _《長部》2經: https://sutra.mobi/chilin/chang/content/02.html
 
 (未完待續)
