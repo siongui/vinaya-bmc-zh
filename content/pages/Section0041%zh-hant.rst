@@ -87,9 +87,33 @@
 
           「比丘如何知足呢？就像鳥兒無論飛往何處，唯一的負擔便是雙翼；同樣地，他以一套袈裟蔽體、以托缽所得之食充飢，便感到滿足。無論去往何處，他只攜帶最基本的生活必需品\ :small:`[資具]`\ 。這就是比丘如何知足。」——`《長部》2經`_
 
+   * - .. container:: mx-2
+
+          “‘This Dhamma is for one who is content, not for one who is discontent.’ Thus was it said. With reference to what was it said? There is the case where a bhikkhu is content with any old robe-cloth at all, any old almsfood, any old lodging, any old medicinal requisites for curing the sick at all. ‘This Dhamma is for one who is content, not for one who is discontent.’ Thus was it said. And with reference to this was it said.”
+
+          .. container:: has-text-right
+
+             — `AN 8:30`_
+
+     - .. container:: mx-2
+
+          「『此法是為知足者而設，非為不知足者而設。』這是如此所說的。這是針對什麼而說的呢？有此情況，比丘對於任何種類衣料、任何種類托缽所得之食、任何種類住所、任何種類治療疾病的醫藥資具，皆能知足。『此法是為知足者而設，非為不知足者而設。』這是如此所說的。這是針對如此而說的。」
+
+          .. container:: has-text-right
+
+             — `《增支部》8:30經`_
+
+   * - Furthermore, for a bhikkhu truly to embody the traditions of the noble ones, he should not only be reflective and content in his use of the requisites, but he should make sure that his reflection and contentment do not lead to pride.
+
+     - 此外，比丘若要真正體現聖者的傳統，不僅在受用資具時應保持省察與知足，還須確保這種省察與知足不致引發傲慢。
+
 .. _MN 2: https://www.dhammatalks.org/suttas/MN/MN2.html
 .. _《中部》2經: https://sutra.mobi/chilin/zhong/content/002.html
 .. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
 .. _《長部》2經: https://sutra.mobi/chilin/chang/content/02.html
+.. _AN 8\:30: https://www.dhammatalks.org/suttas/AN/AN8_30.html
+.. _《增支部》8\:30經: https://sutra.mobi/zcj/zengzhi/content/1387.html
+.. _AN 4\:28: https://www.dhammatalks.org/suttas/AN/AN4_28.html
+.. _《增支部》4\:28經: https://sutra.mobi/zcj/zengzhi/content/0610.html
 
 (未完待續)
