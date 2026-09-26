@@ -107,6 +107,26 @@
 
      - 此外，比丘若要真正體現聖者的傳統，不僅在受用資具時應保持省察與知足，還須確保這種省察與知足不致引發傲慢。
 
+   * - .. container:: mx-2
+
+          “There is the case where a bhikkhu is content with any old robe-cloth… any old almsfood… any old lodging at all. He does not, for the sake of robe-cloth… almsfood… lodging, do anything unseemly or inappropriate. Not getting robe-cloth… almsfood… lodging, he is not agitated. Getting robe-cloth… almsfood… lodging, he uses it unattached to it, uninfatuated, guiltless, seeing the drawbacks (of attachment to it), and discerning the escape from them. He does not, on account of his contentment with any old robe-cloth… almsfood… lodging at all, exalt himself or disparage others. In this he is diligent, deft, alert, & mindful. This is said to be a bhikkhu standing firm in the ancient, original traditions of the noble ones.”
+
+          .. container:: has-text-right
+
+             — `AN 4:28`_
+
+     - .. container:: mx-2
+
+          「有這樣一種情形，比丘對任何衣料…任何托缽所得的食物…任何住所都感到知足。他不會為了衣料…托缽食物…住所而做出任何不體面或不恰當的行為。若未得到衣料…托缽食物…住所，他不會心生煩惱；若得到了衣料…托缽食物…住所，他在受用時也不生執著或迷戀，而是清白無咎，既能洞見（因執著而產生的）過患，又能明辨解脫其之道。由於對任何舊的衣料、乞食所得的食物以及住所都感到滿足，他既不抬高自己，也不貶低他人。在這方面，他精進、善巧、警覺且保持正念。這就是所謂的堅定地恪守聖者們古老而原始傳統的比丘。」
+
+          .. container:: has-text-right
+
+             — `《增支部》4:28經`_
+
+   * - In this way, the requisites fulfill their intended purpose—as aids, rather than obstacles, to the training of the mind.
+
+     - 如此一來，這些資具都能實現其既定目的——即作為修行心的輔助工具，而非障礙。
+
 .. _MN 2: https://www.dhammatalks.org/suttas/MN/MN2.html
 .. _《中部》2經: https://sutra.mobi/chilin/zhong/content/002.html
 .. _DN 2: https://www.dhammatalks.org/suttas/DN/DN02.html
