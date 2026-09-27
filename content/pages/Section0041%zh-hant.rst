@@ -136,4 +136,39 @@
 .. _AN 4\:28: https://www.dhammatalks.org/suttas/AN/AN4_28.html
 .. _《增支部》4\:28經: https://sutra.mobi/zcj/zengzhi/content/0610.html
 
+.. _sigil_toc_id_64:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_64"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Robe material
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          袈裟材質
+
+   * - A candidate for ordination must have a set of robes before he can be admitted to the Community as a bhikkhu (Mv.I.70.2). Once ordained he is expected to keep his robes in good repair and to replace them when they get worn beyond use.
+
+     - 受具足戒者人選必須備妥一套袈裟，方能獲准加入僧團成為比丘（\ `《大品》.一.70.2`_\ ）。受具足戒之後，他須妥善維護袈裟，若袈裟破損至無法使用，則須予以更換。
+
+   * - The robes may be made from any of six types of robe material: linen, cotton, silk, wool, jute, or hemp (`Mv.VIII.2.1`_). As noted under the discussion of `NP 1`_, the Sub-commentary to that rule includes mixtures of any or all of these types of cloth under “hemp.” There are separate allowances for cloaks, silk cloaks, woolen shawls, and woolen cloth (`Mv.VIII.1.36-2.1`_), but these apparently predated and should be subsumed under the list of six. Nylon, rayon, and other synthetic fabrics are now accepted under the Great Standards.
+
+     - 袈裟可由六種材質中的任一種製成：亞麻、棉、絲、羊毛、黃麻或大麻（\ `《大品》.八.2.1`_\ ）。如同在討論\ `《捨墮》一`_\ 時所指出的，該戒條的《複註》將上述各種織物（無論是其中一種還是多種的混合）均歸入「大麻」這一類別。雖然針對斗篷、絲製斗篷、羊毛披肩及羊毛織物另有單獨的開緣（\ `《大品》.八.1.36-2.1`_\ ），但這些開緣顯然早於上述六種材質的分類，且應被納入該六類之中。依據《四大教示》，尼龍、人造絲及其他合成纖維織物現已被接受。
+
+.. _Mv.I.70.2: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.70.2
+.. _《大品》.一.70.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0112a11
+.. _Mv.VIII.2.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#burmese211
+.. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. _Mv.VIII.1.36-2.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts1_36
+.. _《大品》.八.2.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0367a09
+.. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
+.. _《大品》.八.1.36-2.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0367a05
+
 (未完待續)

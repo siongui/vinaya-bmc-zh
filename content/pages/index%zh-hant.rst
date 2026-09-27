@@ -1066,7 +1066,7 @@
      - `\　　　討論 <{filename}Section0041%zh-hant.rst#sigil_toc_id_63>`__
 
    * - `\　　　　Robe material <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_64>`__
-     - 　　　　袈裟材質
+     - `\　　　　袈裟材質 <{filename}Section0041%zh-hant.rst#sigil_toc_id_64>`__
 
    * - `\　　　　Making Robes: Sewing Instructions <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_65>`__
      - 　　　　製作袈裟：縫紉說明
