@@ -162,6 +162,14 @@
 
      - 袈裟可由六種材質中的任一種製成：亞麻、棉、絲、羊毛、黃麻或大麻（\ `《大品》.八.2.1`_\ ）。如同在討論\ `《捨墮》一`_\ 時所指出的，該戒條的《複註》將上述各種織物（無論是其中一種還是多種的混合）均歸入「大麻」這一類別。雖然針對斗篷、絲製斗篷、羊毛披肩及羊毛織物另有單獨的開緣（\ `《大品》.八.1.36-2.1`_\ ），但這些開緣顯然早於上述六種材質的分類，且應被納入該六類之中。依據《四大教示》，尼龍、人造絲及其他合成纖維織物現已被接受。
 
+   * - A bhikkhu may obtain cloth by collecting cast-off cloth, accepting gifts of cloth from householders, or both. The Buddha commended being content with either (`Mv.VIII.32`_).
+
+     - 比丘可以拾取廢棄布料、接受在家居士布施的布料，或兼採這兩種方式來獲取布料。佛陀讚許對這兩種方式中的任一種感到知足（\ `《大品》.八.32`_\ ）。
+
+   * - Robes made from cast-off cloth are one of the four supports, or *nissaya*, of which a new bhikkhu is informed immediately after ordination. Keeping to this support is one of the thirteen dhutaṅga practices (`Thag&16:7`_). `Mv.VIII.4`_ contains a series of stories concerning groups of bhikkhus who, traveling together, stop and enter a charnel ground to gather cast-off cloth from the corpses there. The resulting rules: If a group goes in together, the members of the group who obtain cloth should give portions to those who don’t. If some of the bhikkhus enter the charnel ground while their fellows stay outside or go in afterward, those who enter (or enter first) don’t have to share any of the cloth they obtain with those who come in afterwards or stay outside and don’t wait for them. However, they must share portions of the cloth they obtain if their fellows do wait or if they have made an agreement beforehand that all are to share in the cloth obtained. The Commentary to `Pr 2`_ discusses the etiquette for taking a piece of cloth from a corpse: Wait until the corpse is cold, to ensure that the spirit of the dead person is no longer in the body.
+
+     - 由廢棄布料製成的袈裟，是新比丘在受具足戒後立即被告知的四種「依止」（\ *nissaya*\ ）之一；堅持這一依止也是十三種「頭陀行」（\ *dhutaṅga*\ ）之一（\ `《長老偈》16:7`_\ ）。\ `《大品》.八.4`_ 包含了一系列關於比丘群體結伴同行時，進入\ `棄屍林`_\ （charnel ground）從屍體上拾取廢棄布料的故事。由此確立的戒條如下：若群體一同進入，獲得布料的群體成員應將部分布料分給未獲布料者；若部分比丘進入棄屍林，而同伴留在林外或隨後才進入，則進入者（或率先進入者）無需與隨後進入或留在林外且未等候他們的人分享所獲布料。然而，若同伴確實在等候，或眾人事先約定共同分享所獲布料，則必須分享部份所得布料。\ `《波羅夷》二`_\ 的《義註》探討了從屍體上取布的行儀：須等到屍體變冷，以確保死者的神識已不在軀體。
+
 .. _Mv.I.70.2: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.70.2
 .. _《大品》.一.70.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0112a11
 .. _Mv.VIII.2.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#burmese211
@@ -170,5 +178,14 @@
 .. _《大品》.八.2.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0367a09
 .. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
 .. _《大品》.八.1.36-2.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0367a05
+.. _Mv.VIII.32: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#32_ContentmentWithBoth
+.. _《大品》.八.32: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0400a03
+.. _Thag&16\:7: https://www.dhammatalks.org/suttas/KN/Thag/thag16_7.html
+.. _Mv.VIII.4: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Mv.VIII.4.1
+.. _Pr 2: https://www.dhammatalks.org/vinaya/bmc/Section0010.html#Pr2
+.. _《長老偈》16\:7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N28n0015_001/#0189a08
+.. _《大品》.八.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0368a07
+.. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
+.. _棄屍林: https://zh.wikipedia.org/wiki/%E5%B1%8D%E9%99%80%E6%9E%97
 
 (未完待續)
