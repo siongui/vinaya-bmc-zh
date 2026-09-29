@@ -170,6 +170,73 @@
 
      - 由廢棄布料製成的袈裟，是新比丘在受具足戒後立即被告知的四種「依止」（\ *nissaya*\ ）之一；堅持這一依止也是十三種「頭陀行」（\ *dhutaṅga*\ ）之一（\ `《長老偈》16:7`_\ ）。\ `《大品》.八.4`_ 包含了一系列關於比丘群體結伴同行時，進入\ `棄屍林`_\ （charnel ground）從屍體上拾取廢棄布料的故事。由此確立的戒條如下：若群體一同進入，獲得布料的群體成員應將部分布料分給未獲布料者；若部分比丘進入棄屍林，而同伴留在林外或隨後才進入，則進入者（或率先進入者）無需與隨後進入或留在林外且未等候他們的人分享所獲布料。然而，若同伴確實在等候，或眾人事先約定共同分享所獲布料，則必須分享部份所得布料。\ `《波羅夷》二`_\ 的《義註》探討了從屍體上取布的行儀：須等到屍體變冷，以確保死者的神識已不在軀體。
 
+   * - As for gifts of robe-cloth, `Mv.VIII.32`_ lists eight ways in which a donor may direct his/her gift of cloth:
+     - 至於衣料布施，\ `《大品》.八.32`_\ ）列舉了布施者可指定其衣料布施用途的八種方式：
+
+   * - .. container:: mx-2
+
+          1\. within the territory,
+
+     - .. container:: mx-2
+
+          1\. 界場內，
+
+   * - .. container:: mx-2
+
+          2\. within an agreement,
+
+     - .. container:: mx-2
+
+          2\. 在協議範圍內，
+
+   * - .. container:: mx-2
+
+          3\. where food is prepared,
+
+     - .. container:: mx-2
+
+          3\. 準備食物的地方，
+
+   * - .. container:: mx-2
+
+          4\. to the Community,
+
+     - .. container:: mx-2
+
+          4\. 給僧團，
+
+   * - .. container:: mx-2
+
+          5\. to both sides of the Community,
+
+     - .. container:: mx-2
+
+          5\. 給兩邊僧團，
+
+   * - .. container:: mx-2
+
+          6\. to the Community that has spent the Rains,
+
+     - .. container:: mx-2
+
+          6\. 給度過雨安居的僧團，
+
+   * - .. container:: mx-2
+
+          7\. having designated it, and
+
+     - .. container:: mx-2
+
+          7\. 指定之，以及
+
+   * - .. container:: mx-2
+
+          8\. to an individual.
+
+     - .. container:: mx-2
+
+          8\. 給個人。
+
 .. _Mv.I.70.2: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.70.2
 .. _《大品》.一.70.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0112a11
 .. _Mv.VIII.2.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#burmese211
