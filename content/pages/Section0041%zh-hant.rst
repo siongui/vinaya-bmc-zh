@@ -237,6 +237,14 @@
 
           8\. 給個人。
 
+   * - There are complex stipulations governing the ways in which each of these types of gifts is to be handled. Because they are primarily the responsibility of the robe-cloth-distributor, they will be discussed in `Chapter 18`_. However, when bhikkhus are living alone or in small groups without an authorized robe-cloth-distributor, they would be wise to inform themselves of those stipulations, so that they can handle gifts of robe-cloth properly and without offense.
+
+     - 對於每一種類型的布施，都有複雜的規定來規範處理方式。由於這些規定主要由袈裟衣料分配者負責，因此將在\ `第十八章`_\ 中討論。然而，當比丘獨居或在小群體裡，沒有被授權的袈裟衣料分配者時，他們最好了解這些規定，以便妥善處理布施的袈裟衣料，避免犯戒。
+
+   * - Once a bhikkhu has obtained cloth, he should determine it or place it under shared ownership as discussed under `NP 1`_, `NP 3`_, and `Pc 59`_.
+
+     - 比丘一旦獲得布料，就應依照\ `《捨墮》一`_\ 、\ `《捨墮》三`_\ 和\ `《波逸提》五九`_\ 裡的討論，決意布料或將其置於共享所有權之下。
+
 .. _Mv.I.70.2: https://www.dhammatalks.org/vinaya/bmc/Section0054.html#Mv.I.70.2
 .. _《大品》.一.70.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_001/#0112a11
 .. _Mv.VIII.2.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#burmese211
@@ -254,5 +262,14 @@
 .. _《大品》.八.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0368a07
 .. _《波羅夷》二: {filename}Section0010%zh-hant.rst#Pr2
 .. _棄屍林: https://zh.wikipedia.org/wiki/%E5%B1%8D%E9%99%80%E6%9E%97
+.. _Chapter 18: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. _第十八章: https://www.dhammatalks.org/vinaya/bmc/Section0058.html#BMC2chapter18
+.. TODO FIXME: 第十八章
+.. _NP 1: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP1
+.. _NP 3: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
+.. _Pc 59: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc59
+.. _《捨墮》一: {filename}Section0013%zh-hant.rst#NP1
+.. _《捨墮》三: {filename}Section0013%zh-hant.rst#NP3
+.. _《波逸提》五九: {filename}Section0021%zh-hant.rst#Pc59
 
 (未完待續)
