@@ -272,4 +272,26 @@
 .. _《捨墮》三: {filename}Section0013%zh-hant.rst#NP3
 .. _《波逸提》五九: {filename}Section0021%zh-hant.rst#Pc59
 
+.. _sigil_toc_id_65:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_65"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Making Robes: Sewing Instructions
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          製作袈裟：縫紉說明
+
+   * - The basic set of robes is three: a double-layer outer robe, a single-layer upper robe, a single-layer lower robe. Up to two of these robes may be made of uncut cloth with a cut border (an *anuvāta*\ —see below). Robes without cut borders may not be worn; the same holds true for robes with long borders, floral borders, or snakes’ hood borders. If one obtains a robe without cut borders or with long borders, one may add the missing borders or cut the long borders to an acceptable size and then wear them.
+
+     - 基本的袈裟組合包含三件：一件雙層外衣、一件單層上衣和一件單層下衣。其中最多兩件袈裟可採用「帶裁切邊的未裁切布料」（即 *anuvāta* ，見下文）的形製。不得穿著未裁切邊的袈裟；帶有長邊、花邊或蛇頸部皮褶邊的袈裟亦不得穿著。若獲得未裁切邊或長邊的袈裟，可補縫缺失的邊條，或將過長的邊條修剪至合規尺寸，方可穿著。
+
 (未完待續)
