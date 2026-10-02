@@ -294,4 +294,17 @@
 
      - 基本的袈裟組合包含三件：一件雙層外衣、一件單層上衣和一件單層下衣。其中最多兩件袈裟可採用「帶裁切邊的未裁切布料」（即 *anuvāta* ，見下文）的形製。不得穿著未裁切邊的袈裟；帶有長邊、花邊或蛇頸部皮褶邊的袈裟亦不得穿著。若獲得未裁切邊或長邊的袈裟，可補縫缺失的邊條，或將過長的邊條修剪至合規尺寸，方可穿著。
 
+   * - At least one of the robes, however, must be cut. The standard pattern, “like the rice fields of Magadha,” was first devised by Ven. Ānanda at the Buddha’s suggestion. There is no penalty for not following the standard pattern, but keeping to the standard ensures that rag cloth robes will look uniform throughout the Community. It also encourages that large pieces of cloth will get cut, thus reducing the monetary value of any robes made from them and making them less likely to be stolen. See the accompanying diagram.
+
+     - 然而，至少必須裁剪其中一件袈裟。標準的裁剪樣式，「如同\ `摩揭陀`_\ 的稻田」，最初是由阿難尊者在佛陀的建議下設計的。不遵循標準樣式並無懲罰，但遵守標準可以確保僧團內的破布袈裟看起來一致。此外，它還鼓勵裁剪大塊布料，從而降低用這些布料製成的袈裟的價值，並減少被盜的可能性。請參閱\ `附圖`_\ 。
+
+.. _附圖: #robe-diagram
+
+.. _摩揭陀: https://zh.wikipedia.org/wiki/%E6%91%A9%E6%8F%AD%E9%99%80
+
 (未完待續)
+
+.. _robe-diagram:
+
+.. image:: {static}robe.jpg
+   :alt: robe diagram
