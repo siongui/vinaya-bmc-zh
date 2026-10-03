@@ -298,9 +298,17 @@
 
      - 然而，至少必須裁剪其中一件袈裟。標準的裁剪樣式，「如同\ `摩揭陀`_\ 的稻田」，最初是由阿難尊者在佛陀的建議下設計的。不遵循標準樣式並無懲罰，但遵守標準可以確保僧團內的破布袈裟看起來一致。此外，它還鼓勵裁剪大塊布料，從而降低用這些布料製成的袈裟的價值，並減少被盜的可能性。請參閱\ `附圖`_\ 。
 
-.. _附圖: #robe-diagram
+   * - Each cut robe made to the standard pattern has at least five sections, called *khaṇḍas*. Although more than five khaṇḍas are allowed, only odd numbers should be used, and not even. The Canon lists names for the parts of the cut robe without explanation. The Commentary interprets them as follows: Each khaṇḍa is composed of a larger piece of cloth, called a *maṇḍala* (field-plot), and a smaller piece, called an *aḍḍhamaṇḍala* (half-plot), separated by a small strip, like the dike in a rice field, called an *aḍḍhakusi* (half-dike). Between each khaṇḍa is a long strip, again like the dike in a rice field, called a *kusi* (dike). None of the texts mention this point, but it is customary that if the maṇḍala is in the upper part of its khaṇḍa, the maṇḍalas in the neighboring khaṇḍas will be in the lower part of theirs, and vice versa. The central khaṇḍa is called the *vivaṭṭa* (turning-back); the two khaṇḍas on either side of it, the *anuvivaṭṭas*; and the remaining khaṇḍas, *bāhantas* (armpieces), as they wrap around the arms. An alternative interpretation, which the Commentary attributes to the Mahā Aṭṭhakathā, is that all khaṇḍas between the vivaṭṭa and the outermost khaṇḍas are called anuvivaṭṭas, while only the outermost khaṇḍas are called bāhantas. The entire robe is surrounded by a border, called an *anuvāta*.
+
+     - 每件依照標準式裁切的袈裟至少包含五個部分，稱為 *khaṇḍa* 。雖然允許使用超過五個 `khaṇḍa`_ ，但只應使用奇數，而不應使用偶數。《聖典》列出了裁切的袈裟各部分的名稱，但沒有解釋。《義註》的解釋如下：每個 khaṇḍa 由一塊較大的布料，稱為 *maṇḍala* （田地）和一塊較小的布料，稱為 *aḍḍhamaṇḍala* （半田地）組成，兩者之間用一個小條隔開，如同稻田裡的溝渠，稱為 *aḍḍhakusi* （半溝渠）。每個 khaṇḍa 之間都有一個長條，同樣如同稻田裡的溝渠，稱為 *kusi* （溝渠）。沒有文獻提及這一點，但通常情況下，如果 `maṇḍala`_ 位於其 `khaṇḍa`_ 的上半部，則相鄰 `khaṇḍa`_ 中的 `maṇḍala`_ 便位於其下半部，反之亦然。中央 `khaṇḍa`_ 稱為 *vivaṭṭa* （迴轉）；其兩側的 `khaṇḍa`_ 稱為 *anuvivaṭṭa* ；其餘 `khaṇḍa`_ 則稱為 *bāhanta* （手臂部份），因為它們環繞著手臂。另一種解釋（據《義註》記載出自《Mahā Aṭṭhakathā》）是，所有介於 `vivaṭṭa`_ 和最外面的 `khaṇḍa`_ 之間的 `khaṇḍa`_ 都稱為 `anuvivaṭṭa`_ ，而只有最外面的 `khaṇḍa`_ 才稱為 `bāhanta`_ 。整件袈裟環繞著一圈邊框，稱為 *anuvāta* 。
 
 .. _摩揭陀: https://zh.wikipedia.org/wiki/%E6%91%A9%E6%8F%AD%E9%99%80
+.. _附圖: #robe-diagram
+.. _khaṇḍa: https://dictionary.sutta.org/browse/k/kha%E1%B9%87%E1%B8%8Da/
+.. _maṇḍala: https://dictionary.sutta.org/browse/m/ma%E1%B9%87%E1%B8%8Dala/
+.. _vivaṭṭa: https://dictionary.sutta.org/browse/v/viva%E1%B9%AD%E1%B9%ADa/
+.. _anuvivaṭṭa: https://dictionary.sutta.org/browse/a/anuviva%E1%B9%AD%E1%B9%ADa/
+.. _bāhanta: https://dictionary.sutta.org/browse/b/b%C4%81hanta/
 
 (未完待續)
 
