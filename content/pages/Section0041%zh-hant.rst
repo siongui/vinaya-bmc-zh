@@ -302,6 +302,10 @@
 
      - 每件依照標準式裁切的袈裟至少包含五個部分，稱為 *khaṇḍa* 。雖然允許使用超過五個 `khaṇḍa`_ ，但只應使用奇數，而不應使用偶數。《聖典》列出了裁切的袈裟各部分的名稱，但沒有解釋。《義註》的解釋如下：每個 khaṇḍa 由一塊較大的布料，稱為 *maṇḍala* （田地）和一塊較小的布料，稱為 *aḍḍhamaṇḍala* （半田地）組成，兩者之間用一個小條隔開，如同稻田裡的溝渠，稱為 *aḍḍhakusi* （半溝渠）。每個 khaṇḍa 之間都有一個長條，同樣如同稻田裡的溝渠，稱為 *kusi* （溝渠）。沒有文獻提及這一點，但通常情況下，如果 `maṇḍala`_ 位於其 `khaṇḍa`_ 的上半部，則相鄰 `khaṇḍa`_ 中的 `maṇḍala`_ 便位於其下半部，反之亦然。中央 `khaṇḍa`_ 稱為 *vivaṭṭa* （迴轉）；其兩側的 `khaṇḍa`_ 稱為 *anuvivaṭṭa* ；其餘 `khaṇḍa`_ 則稱為 *bāhanta* （手臂部份），因為它們環繞著手臂。另一種解釋（據《義註》記載出自《Mahā Aṭṭhakathā》）是，所有介於 `vivaṭṭa`_ 和最外面的 `khaṇḍa`_ 之間的 `khaṇḍa`_ 都稱為 `anuvivaṭṭa`_ ，而只有最外面的 `khaṇḍa`_ 才稱為 `bāhanta`_ 。整件袈裟環繞著一圈邊框，稱為 *anuvāta* 。
 
+   * - Two remaining pieces are mentioned in the Canon, the *gīveyyaka* (throat-piece) and the *jaṅgheyyaka* (calf-piece). The Commentary gives two interpretations of these names. The first, which it prefers, is that these are extra layers of cloth, sewn respectively onto the upper robe at the anuvāta wrapping around the neck and onto the lower robe at the anuvāta rubbing against the calves, to protect the robes from the extra wear and tear they tend to get in those places. With the current large size of the upper robe, a jaṅgheyyaka is useful on its lower anuvāta as well. The second interpretation, which for some reason the Vinaya-mukha prefers, is that these pieces are, respectively, the vivaṭṭa and the anuvaṭṭas in the upper robe.
+
+     - 《聖典》中還提到了剩餘的兩個部件，分別是 *gīveyyaka* （喉嚨部件）和 *jaṅgheyyaka* （小腿肚部件）。《義註》對這兩個名稱給了兩種解釋。第一種解釋，也是《義註》偏好的解釋，認為，這些是額外的布料層，分別縫在上衣環繞頸部的 `anuvāta`_ 和下衣摩擦小腿處的 `anuvāta`_ 上，以保護袈裟免受那些地方容易造成的額外磨損。鑑於目前上衣尺寸較大，在其下方 `anuvāta`_ 上的 `jaṅgheyyaka`_ 也是有用的。第二種解釋（不知何故，《戒律入口》偏好這種解釋）認為，這些部件分別是上衣的 `vivaṭṭa`_ 和 anuvaṭṭa\ :small:`[譯註：似乎為打字錯誤，應該是 anuvivaṭṭa ]` 。
+
 .. _摩揭陀: https://zh.wikipedia.org/wiki/%E6%91%A9%E6%8F%AD%E9%99%80
 .. _附圖: #robe-diagram
 .. _khaṇḍa: https://dictionary.sutta.org/browse/k/kha%E1%B9%87%E1%B8%8Da/
@@ -309,6 +313,8 @@
 .. _vivaṭṭa: https://dictionary.sutta.org/browse/v/viva%E1%B9%AD%E1%B9%ADa/
 .. _anuvivaṭṭa: https://dictionary.sutta.org/browse/a/anuviva%E1%B9%AD%E1%B9%ADa/
 .. _bāhanta: https://dictionary.sutta.org/browse/b/b%C4%81hanta/
+.. _anuvāta: https://dictionary.sutta.org/browse/a/anuv%C4%81ta/
+.. _jaṅgheyyaka: https://dictionary.sutta.org/browse/j/ja%E1%B9%85gheyyaka/
 
 (未完待續)
 
