@@ -306,6 +306,17 @@
 
      - 《聖典》中還提到了剩餘的兩個部件，分別是 *gīveyyaka* （喉嚨部件）和 *jaṅgheyyaka* （小腿肚部件）。《義註》對這兩個名稱給了兩種解釋。第一種解釋，也是《義註》偏好的解釋，認為，這些是額外的布料層，分別縫在上衣環繞頸部的 `anuvāta`_ 和下衣摩擦小腿處的 `anuvāta`_ 上，以保護袈裟免受那些地方容易造成的額外磨損。鑑於目前上衣尺寸較大，在其下方 `anuvāta`_ 上的 `jaṅgheyyaka`_ 也是有用的。第二種解釋（不知何故，《戒律入口》偏好這種解釋）認為，這些部件分別是上衣的 `vivaṭṭa`_ 和 anuvaṭṭa\ :small:`[譯註：似乎為打字錯誤，應該是 anuvivaṭṭa ]` 。
 
+   * - If one needs to make a cut robe but the amount of cloth available is enough only for an uncut robe (i.e., folding the edges of the cut pieces to make a proper seam would use up too much of the cloth), one may use a seam-strip to connect the pieces. This is apparently a long narrow strip of material to which one could stitch the cut pieces without folding them.
+
+     - 如果需要製作一件裁剪的袈裟，但布料數量只夠做一件未裁剪的袈裟（也就是說，如果把裁剪好的布片邊緣折疊縫合，會用掉太多布料），可以使用縫合條來連接布片。縫合條明顯地是一條細長的材料條，可以將裁剪好的布片縫合在上面，而無需折疊。
+
+   * - `Pc 92`_ sets the maximum size for robes at 6x9 sugata spans. See the discussion under that rule.
+     - `《波逸提》九二`_\ 將家的最大尺寸設定為 6x9 善逝張手。請參閱該戒條下的討論。
+
+   * - A fastener paired with a cloth/thread loop to hold the fasteners may be added to the robe at the neck, and another fastener-loop pair at the lower corners. The fasteners should not be made of fancy materials. Allowable materials are the standard list of ten (mentioned under “Ears” in the preceding chapter) plus thread or cord (tied into a knot). Cloth backings for the fasteners and loops are allowed, to strengthen them. For the fasteners and loops connecting the lower corners of the robe, the cloth backing for the fastener should be put at the edge of the robe, and the cloth backing for the tying loops seven or eight fingerbreadths in from the edge at the other corner.
+
+     - 袈裟頸部處可加上搭扣並配上用於固定搭扣的布/線環圈；下方角落也可加上另一對搭扣及環圈。搭扣不應使用精美的材料。允許使用的材料為前一章「耳朵」部分所述的十種標準材料，外加線或繩（打成一個結）。允許在搭扣和環圈處用底布以增強其強度。連接袈裟下方角落的搭扣及環圈，搭扣的底布應位於袈裟邊緣，而在另一角落繫搭扣的環圈的底布則應位於距離邊緣七八指寬的位置。
+
 .. _摩揭陀: https://zh.wikipedia.org/wiki/%E6%91%A9%E6%8F%AD%E9%99%80
 .. _附圖: #robe-diagram
 .. _khaṇḍa: https://dictionary.sutta.org/browse/k/kha%E1%B9%87%E1%B8%8Da/
@@ -315,6 +326,8 @@
 .. _bāhanta: https://dictionary.sutta.org/browse/b/b%C4%81hanta/
 .. _anuvāta: https://dictionary.sutta.org/browse/a/anuv%C4%81ta/
 .. _jaṅgheyyaka: https://dictionary.sutta.org/browse/j/ja%E1%B9%85gheyyaka/
+.. _Pc 92: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc92
+.. _《波逸提》九二: {filename}Section0024%zh-hant.rst#Pc92
 
 (未完待續)
 
