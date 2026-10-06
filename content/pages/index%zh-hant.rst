@@ -1072,7 +1072,7 @@
      - `\　　　　製作袈裟：縫紉說明 <{filename}Section0041%zh-hant.rst#sigil_toc_id_65>`__
 
    * - `\　　　　Repairing Robes <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_66>`__
-     - 　　　　修補袈裟
+     - `\　　　　修補袈裟 <{filename}Section0041%zh-hant.rst#sigil_toc_id_66>`__
 
    * - `\　　　　Making Robes: Sewing Equipment <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_67>`__
      - 　　　　製作袈裟：縫紉設備
