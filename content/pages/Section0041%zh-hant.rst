@@ -356,6 +356,33 @@
 .. _《大品》.八.14.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0377a07
 .. _《大品》.八.21.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0385a09
 
+.. _sigil_toc_id_67:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_67"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Making Robes: Sewing Equipment
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          製作袈裟：縫紉設備
+
+   * - One is allowed to cut cloth with a small knife with or without a handle. According to the Commentary, folding knives come under “knife with a handle,” and scissors would probably come here as well. Needles and thimbles may be used in sewing. At present, sewing machines have been accepted under the Great Standards. Knife-handles and thimbles may not be made of fancy materials. Allowable materials are the standard list of ten. To protect these items, one is allowed a piece of felt to wrap the knife and a needle tube for the needles; `Pc 60`_ also indicates that a needle box would be one of a bhikkhu’s standard requisites, although none of the texts explain the difference between the box and the tube. Because `Pc 86`_ forbids needle boxes made of bone, ivory, or horn, both the tube and the box could apparently be made of any of the seven remaining materials in the standard list of ten.
+
+     - 允許使用有帶柄或沒有帶柄的小刀裁剪布料。根據《義註》，折疊刀屬於「帶柄刀」的範疇，剪刀也可能屬於此類。針和頂針可用於縫紉。目前，縫紉機根據《四大教示》已被接受。刀柄和頂針不得使用華麗的材質製成。允許使用的材料是十種標準材料列表。為了保護這些物品，允許使用一塊氈布來包裹刀，並使用針管存放針；\ `《波逸提》六十`_\ 還顯示，針盒是比丘的標準必需品之一，儘管沒有任何文獻解釋針盒和針管之間的區別。由於\ `《波逸提》八六`_\ 禁止使用骨頭、象牙或角製成的針盒，因此針管和針盒顯然都可以使用十種標準材料列表中剩餘的七種材料中的任何一種來製成。
+
+.. _Pc 60: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc60
+.. _Pc 86: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
+.. _《波逸提》六十: {filename}Section0021%zh-hant.rst#Pc60
+.. _《波逸提》八六: {filename}Section0024%zh-hant.rst#Pc86
+
 (未完待續)
 
 .. _robe-diagram:
