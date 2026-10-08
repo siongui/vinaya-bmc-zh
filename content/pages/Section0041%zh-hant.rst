@@ -378,10 +378,20 @@
 
      - 允許使用有帶柄或沒有帶柄的小刀裁剪布料。根據《義註》，折疊刀屬於「帶柄刀」的範疇，剪刀也可能屬於此類。針和頂針可用於縫紉。目前，縫紉機根據《四大教示》已被接受。刀柄和頂針不得使用華麗的材質製成。允許使用的材料是十種標準材料列表。為了保護這些物品，允許使用一塊氈布來包裹刀，並使用針管存放針；\ `《波逸提》六十`_\ 還顯示，針盒是比丘的標準必需品之一，儘管沒有任何文獻解釋針盒和針管之間的區別。由於\ `《波逸提》八六`_\ 禁止使用骨頭、象牙或角製成的針盒，因此針管和針盒顯然都可以使用十種標準材料列表中剩餘的七種材料中的任何一種來製成。
 
+   * - `Cv.V.11.2`_ reports that various substances were used without success to keep needles from rusting—filling the needle tube with yeast, with dried meal, with powdered stone—and the bhikkhus finally settled on powdered stone pounded with beeswax. The Commentary reports that dried meal mixed with turmeric is also an effective rust deterrent. To keep the powdered stone mixture from cracking, one may encase it in a cloth smeared with beeswax. The Commentary reports that the Kurundī includes any cloth-case under “cloth smeared with beeswax,” while the Commentary itself also includes knife-sheaths under this allowance.
+
+     - `《小品》.五.11.2`_ 記載，各種物質曾被使用來防止針生鏽，例如在針管內填充酵母、乾麵粉和石粉，但都沒有成功。最終，比丘們選擇了用蜂蠟搗碎的石粉。《義註》中記載，乾粗磨粉與薑黃混合也是一種有效的防鏽劑。為了防止石粉混合物開裂，可以將其包裹在塗抹了蜂蠟的布中。《義註》中提到，《Kurundī》將任何布套都歸入「塗抹了蜂蠟的布」的範疇，而《義註》本身也將刀鞘也歸入此開緣。
+
+   * - To keep these items from getting lost, one is allowed small containers for storing them. To keep the containers orderly, one is allowed a bag for thimbles, with a cord for tying the mouth of the bag that, when the mouth of the bag is closed, can be used as a carrying strap.
+
+     - 為了防止這些物品遺失，允許使用小容器存放它們。為了保持容器整齊有序，允許使用頂針袋，袋子上帶有一條繩子，用於繫緊袋口；袋口閉合時，該繩子可用作提把手。
+
 .. _Pc 60: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc60
 .. _Pc 86: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
 .. _《波逸提》六十: {filename}Section0021%zh-hant.rst#Pc60
 .. _《波逸提》八六: {filename}Section0024%zh-hant.rst#Pc86
+.. _Cv.V.11.2: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Cv.V.11.2
+.. _《小品》.五.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a01
 
 (未完待續)
 
