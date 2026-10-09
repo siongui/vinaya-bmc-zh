@@ -386,12 +386,23 @@
 
      - 為了防止這些物品遺失，允許使用小容器存放它們。為了保持容器整齊有序，允許使用頂針袋，袋子上帶有一條繩子，用於繫緊袋口；袋口閉合時，該繩子可用作提把手。
 
+   * - To keep cloth aligned while sewing it, one is allowed to use a frame, called a *kaṭhina*, attached with strings for tying down the pieces of cloth to be sewn together. According to the Commentary, these strings are especially useful in sewing a double-layer robe. Apparently, a Community would have a common frame used by all the bhikkhus, as there are many rules covering its proper use and care. It is not to be set up on uneven ground. A grass mat may be placed under it to keep it from getting worn; and if the edges of the frame do wear out, a binding may be wrapped around them to protect them. If the frame is too big for the robe to be made, one may add extra sticks within the frame to make a smaller frame to the right size. There are also allowances for cords to tie the smaller frame to the larger frame, for threads to tie the cloth to the smaller frame, and for slips of wood to be placed between two layers of cloth. One may also fold back the mat to fit the smaller frame. A ruler or other similar measuring device is allowed to help keep the stitches equidistant; and a marking thread—a thread smeared with turmeric, similar to the graphite string used by carpenters, says the Commentary—to help keep them straight.
+
+     - 為了在縫製過程中保持布料對齊，可以使用一種稱為「\ *kaṭhina*\ 」的框架，框架上繫有繩子，用來捆綁待縫製在一起的布片。根據《義註》，這些繩子在縫製雙層袈裟時尤其有用。顯然，一個僧團會有一個所有比丘共用的框架，因為有許多關於框架正確使用和保養的戒條。框架不能架設在不平坦的地面上。可以在框架下舖一塊草蓆，以防止磨損；如果框架邊緣磨損，可以用滾邊包起來保護。如果框架太大，無法縫製袈裟，可以在框架內添加額外的棍子，將其縮小到合適的尺寸。此外，還允許使用繩子將小框架連接到大框架上，用線將布料固定在小框架上，以及在兩層布料之間放置木條。也可以將蓆子折疊起來，使其適合較小的框架。允許尺或其他類似的測量工具來幫助保持針腳等距；也可以使用標記線（一種塗有薑黃的線，類似於木匠使用的石墨線，《義註》中如此寫道）來幫助保持針腳筆直。
+
+   * - There is a dukkaṭa for stepping on the frame with unwashed feet, wet feet, or shod feet. This indicates that the frame is meant to be placed horizontally on the ground when in use. The frame is apparently jointed, for when not in use it may be rolled or folded up around a rod, tied with a cord, and hung from a peg in the wall or an elephant-tusk peg. A special hall or pavilion may be built for storing and using the frame. This is discussed in `Chapter 7`_.
+
+     - 用未洗的腳、濕腳或穿鞋的腳踩踏框架，犯《突吉羅》。這表明框架在使用時應水平放置在地面上。框架顯然是接合式的，因此不用時可以捲起或折疊起來，繞在桿子上，用繩子捆紮，然後掛在牆上的釘子或象牙釘上。可以建造專門的廳堂或亭子來存放和使用框架。這在\ `第七章`_\ 中有討論。
+
 .. _Pc 60: https://www.dhammatalks.org/vinaya/bmc/Section0021.html#Pc60
 .. _Pc 86: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc86
 .. _《波逸提》六十: {filename}Section0021%zh-hant.rst#Pc60
 .. _《波逸提》八六: {filename}Section0024%zh-hant.rst#Pc86
 .. _Cv.V.11.2: https://www.dhammatalks.org/vinaya/bmc/Section0041.html#Cv.V.11.2
 .. _《小品》.五.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a01
+.. _Chapter 7: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
+.. _第七章: https://www.dhammatalks.org/vinaya/bmc/Section0046.html#BMC2chapter7
+.. TODO FIXME: 第七章
 
 (未完待續)
 
