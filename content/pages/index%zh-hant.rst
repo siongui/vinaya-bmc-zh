@@ -1078,7 +1078,7 @@
      - `\　　　　製作袈裟：縫紉設備 <{filename}Section0041%zh-hant.rst#sigil_toc_id_67>`__
 
    * - `\　　　　Making Robes: Dyeing <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_68>`__
-     - 　　　　製作袈裟：染色
+     - `\　　　　製作袈裟：染色 <{filename}Section0041%zh-hant.rst#sigil_toc_id_68>`__
 
    * - `\　　　　Washing Robes <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_69>`__
      - 　　　　洗袈裟
