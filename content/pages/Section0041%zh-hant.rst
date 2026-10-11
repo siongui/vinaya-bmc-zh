@@ -426,6 +426,19 @@
 
      - 以下顏色的袈裟不應穿著：純藍色（或綠色——《義註》指出這指的是亞麻藍，但《聖典》中 *nīla* 該顏色涵蓋了所有藍色和綠色色調）、純黃色、純血紅色、純深紅色、純黑色、純橙色或純米色（根據《義註》，最後一種是「枯葉的顏色」）。顯然，這些顏色的淺色版本——「黑色」下的灰色，以及「深紅色」下的紫色、粉紅色或洋紅色——也是被禁止的。由於白色是居士服裝的標準顏色，而比丘被禁止穿著得像居士，因此白色袈裟也是被禁止的。同樣的道理也適用於由有圖案的布料製成的袈裟，儘管《戒律入口》允許一些細微的圖案，例如泰國人有時會在絲綢上織入的被稱為「松鼠尾」的波紋圖案。《義註》指出，如果收到不被允許的顏色的布料，如果可以去除顏色，則應去除顏色並將布料染成合適的顏色。這樣，布料就允許使用了。如果顏色無法去除，則應將布料用於其他用途，或將其作為第三層縫入雙層袈裟中。
 
+   * - The standard color for robes is brown, although this may shade into reddish, yellow-, or orange-brown. In an origin story, bhikkhus dyed their robes with dung and yellow clay, and the robes came out looking wretched. So the Buddha allowed six kinds of dye: root-dye, stem (wood) dye, bark-dye, leaf-dye, flower-dye, fruit-dye. The Commentary notes, however, that these six categories contain a number of dyes that should not be used. Under root dyes, it advises against turmeric because it fades quickly; under bark dyes, *Symplocos racemosa* and *Mucuna pruritis* because they are the wrong color; under wood dyes, *Rubia munjista* and *Rottleria tinctora* for the same reason; under leaf dyes, *Curculigo orchidoidis* and indigo for the same reason—although it also recommends that cloth already worn by lay people should be dyed once in *Curculigo orchidoidis*. Under flower-dyes, it advises against coral tree *(Butea frondosa)* and safflower because they are too red. Because the purpose of these dye allowances is that the bhikkhus use dyes giving a fast, even color, commercial chemical dyes are now accepted under the Great Standards.
+
+     - 袈裟的標準顏色是棕色，但也可能呈現偏紅、偏黃或偏橙的棕色調。在起源故事裡，比丘們用糞便和黃黏土來染袈裟，結果染出來的袈裟看起來糟透了。於是，佛陀准許使用六類染料：根、莖（木）、樹皮、葉、花、果實。然而，《義註》指出，這六類包含一些不應使用的染料。在根類染料中，因薑黃（turmeric）易褪色而不予推薦；在樹皮類染料中，因顏色不當而不推薦使用\ `珠仔樹`_\ （\ *Symplocos racemosa*\ ）和\ `黧豆`_\ （\ *Mucuna pruritis*\ ）；在木材類染料，因同樣原因而不推薦\ `梵茜草`_\ （\ *Rubia munjista*\ ）和\ `粗糠柴`_\ （\ *Rottleria tinctora*\ ）；在葉類染料中，因同樣原因而不推薦\ `仙茅`_\ （\ *Curculigo orchidoidis*\ ）和\ `靛藍`_\ （indigo）——儘管《義註》也建議，對於在家居士穿過的布料，應先用仙茅染過一次。在花類染料中，因顏色過紅而不建議使用\ `紫礦`_\ （\ *Butea frondosa*\ ）和\ `紅花`_\ （safflower）。因為允許這些染料的目的是讓比丘們使用能染出堅固且均勻顏色的染料，如今根據《四大教示》，商業化學染料也被接受。
+
+.. _珠仔樹: https://zh.wikipedia.org/wiki/%E7%8F%A0%E4%BB%94%E6%A0%91
+.. _黧豆: https://www.google.com/search?q=Mucuna+pruritis+%E4%B8%AD%E6%96%87
+.. _梵茜草: https://www.google.com/search?q=Rubia+munjista+%E4%B8%AD%E6%96%87
+.. _粗糠柴: https://www.google.com/search?q=Rottleria+tinctora+%E4%B8%AD%E6%96%87
+.. _仙茅: https://www.google.com/search?q=Curculigo+orchidoidis+%E4%B8%AD%E6%96%87
+.. _靛藍: https://www.google.com/search?q=indigo+%E4%B8%AD%E6%96%87
+.. _紫礦: https://www.google.com/search?q=Butea+frondosa+%E4%B8%AD%E6%96%87
+.. _紅花: https://www.google.com/search?q=safflower+%E4%B8%AD%E6%96%87
+
 (未完待續)
 
 .. _robe-diagram:
