@@ -430,6 +430,14 @@
 
      - 袈裟的標準顏色是棕色，但也可能呈現偏紅、偏黃或偏橙的棕色調。在起源故事裡，比丘們用糞便和黃黏土來染袈裟，結果染出來的袈裟看起來糟透了。於是，佛陀准許使用六類染料：根、莖（木）、樹皮、葉、花、果實。然而，《義註》指出，這六類包含一些不應使用的染料。在根類染料中，因薑黃（turmeric）易褪色而不予推薦；在樹皮類染料中，因顏色不當而不推薦使用\ `珠仔樹`_\ （\ *Symplocos racemosa*\ ）和\ `黧豆`_\ （\ *Mucuna pruritis*\ ）；在木材類染料，因同樣原因而不推薦\ `梵茜草`_\ （\ *Rubia munjista*\ ）和\ `粗糠柴`_\ （\ *Rottleria tinctora*\ ）；在葉類染料中，因同樣原因而不推薦\ `仙茅`_\ （\ *Curculigo orchidoidis*\ ）和\ `靛藍`_\ （indigo）——儘管《義註》也建議，對於在家居士穿過的布料，應先用仙茅染過一次。在花類染料中，因顏色過紅而不建議使用\ `紫礦`_\ （\ *Butea frondosa*\ ）和\ `紅花`_\ （safflower）。因為允許這些染料的目的是讓比丘們使用能染出堅固且均勻顏色的染料，如今根據《四大教示》，商業化學染料也被接受。
 
+   * - The following dyeing equipment is allowed: a small dye-pot in which to boil the dye, a collar to tie around the pot just under its mouth to prevent it from boiling over, scoops and ladles, and a basin, pot, or trough for dyeing the cloth. Once the cloth has been dyed, it may be dried by spreading it out on grass matting, hung over a pole or a line, or hung from strings tied to its corners.
+
+     - 允許下列的染色用具：一個用於煮染料的小染鍋、一個綁在鍋口下方以防止染料溢出的項圈、勺子和長柄勺，以及一個用於染布的盆、罐或槽。染好的布料可以攤在草蓆上晾乾，也可以掛在桿子或繩子上晾乾，或是用繩子綁在布料的角落晾乾。
+
+   * - The following dyeing techniques are recommended. When the dye is being boiled, one may test to see if it’s fully boiled by placing a drop in clear water or on the back of one’s fingernail. If fully boiled, the Commentary notes, the dye will spread slowly. Once the cloth is hung up to dry, one should turn it upside down repeatedly on the line so that the dye does not run all to one side. One should not leave the cloth unattended until the drips have become discontinuous. If the cloth, once dry, feels stiff, one may soak it in water; if harsh or rough, one may beat it with the hand.
+
+     - 推薦下列的染色技巧。煮染料時，可滴一滴在清水中或指甲背面，以測試是否煮沸。《義註》指出，如果已完全煮沸，則會緩慢擴散。一旦把布掛起來晾乾，應在繩上反覆翻轉，以免染料全部流向一側。在染料滴落不再連續之前，不應讓布料無人看管。如果布料晾乾後感覺僵硬，可將其浸泡在水中；如果感覺粗糙或生硬，可用手拍打。
+
 .. _珠仔樹: https://zh.wikipedia.org/wiki/%E7%8F%A0%E4%BB%94%E6%A0%91
 .. _黧豆: https://www.google.com/search?q=Mucuna+pruritis+%E4%B8%AD%E6%96%87
 .. _梵茜草: https://www.google.com/search?q=Rubia+munjista+%E4%B8%AD%E6%96%87
