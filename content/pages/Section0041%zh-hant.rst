@@ -469,6 +469,40 @@
 
      - `《波羅夷》二`_\ 的《義註》指出，洗袈裟時，不應在水中加入香水、油或封蠟。這自然引出了有香味的洗滌劑的問題。由於無香味的洗滌劑往往難以取得，比丘應被允許使用現有可得之物。若洗滌劑香味濃厚，洗後應盡力沖洗乾淨。
 
+.. _sigil_toc_id_70:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_70"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Other Cloth Requisites
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          其他衣資具
+
+   * - In addition to one’s basic set of three robes, one is allowed the following cloth requisites: a felt sitting rug (see `NP 11-15`_); a sitting cloth (see `Pc 89`_); a skin-eruption covering cloth (see `Pc 90`_); and a rains-bathing cloth (see `Pc 91`_). The following articles are also allowed and may be made as large as one likes: a sheet; a handkerchief (literally, a cloth for wiping the face/mouth); requisite-cloth; bags for medicine, sandals, thimbles, etc., with a cord for tying the mouth of the bag as a carrying strap; bandages (listed in the Rules section of `Chapter 5`_); and knee straps. The Canon makes no mention of the shoulder cloth *(aṁsa)* that many bhikkhus wear at present. It would apparently come under the allowance for requisite-cloths *(parikkhāra-cola)*.
+
+     - 除了基本的「三衣」之外，比丘還被允許使用以下衣資具：毛氈坐具\ :small:`[敷具]`\ （參閱\ `《捨墮》十一至十五`_\ ）、坐布\ :small:`[坐具]`\ （參閱\ `《波逸提》八九`_\ ）、覆瘡布（參閱\ `《波逸提》九十`_\ ）以及雨浴衣（參閱\ `《波逸提》九一`_\ ）。此外，以下物品亦允許製作，且尺寸可根據喜好製作得任意大：床單；手巾（字面意為擦臉或擦嘴的布）；資具布；用於盛裝藥物、涼鞋、頂針等物品的袋子，有繩子繫袋口，可用作提帶；繃帶（列於\ `第五章`_\ 「戒條」部分）；以及護膝帶。《聖典》中未提及當今許多比丘所穿戴的「肩衣」（aṁsa）；它顯然應歸入「資具布」\ :small:`[雜用布]`\ *（parikkhāra-cola）*\ 的允許範圍。
+
+.. _NP 11-15: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP11
+.. _Pc 89: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
+.. _Pc 90: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc90
+.. _Pc 91: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc91
+.. _Chapter 5: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
+.. _《捨墮》十一至十五: {filename}Section0014%zh-hant.rst#NP11
+.. _《波逸提》八九: {filename}Section0024%zh-hant.rst#Pc89
+.. _《波逸提》九十: {filename}Section0024%zh-hant.rst#Pc90
+.. _《波逸提》九一: {filename}Section0024%zh-hant.rst#Pc91
+.. _第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
+.. TODO FIXME: 第五章
+
 (未完待續)
 
 .. _robe-diagram:
