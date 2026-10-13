@@ -1081,7 +1081,7 @@
      - `\　　　　製作袈裟：染色 <{filename}Section0041%zh-hant.rst#sigil_toc_id_68>`__
 
    * - `\　　　　Washing Robes <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_69>`__
-     - 　　　　洗袈裟
+     - `\　　　　洗袈裟 <{filename}Section0041%zh-hant.rst#sigil_toc_id_69>`__
 
    * - `\　　　　Other Cloth Requisites <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_70>`__
      - 　　　　其他衣資具

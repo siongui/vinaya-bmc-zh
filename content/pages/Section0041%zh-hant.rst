@@ -447,6 +447,28 @@
 .. _紫礦: https://www.google.com/search?q=Butea+frondosa+%E4%B8%AD%E6%96%87
 .. _紅花: https://www.google.com/search?q=safflower+%E4%B8%AD%E6%96%87
 
+.. _sigil_toc_id_69:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_69"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Washing Robes
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          洗袈裟
+
+   * - The Commentary to `Pr 2`_ notes that, when washing robes, one should not put perfume, oil, or sealing wax in the water. This, of course, raises the question of scented detergent. Because unscented detergents are often hard to find, a bhikkhu should be allowed to make use of what is available. If the detergent has a strong scent, he should do his best to rinse it out after washing.
+
+     - `《波羅夷》二`_\ 的《義註》指出，洗袈裟時，不應在水中加入香水、油或封蠟。這自然引出了有香味的洗滌劑的問題。由於無香味的洗滌劑往往難以取得，比丘應被允許使用現有可得之物。若洗滌劑香味濃厚，洗後應盡力沖洗乾淨。
+
 (未完待續)
 
 .. _robe-diagram:
