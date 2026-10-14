@@ -491,6 +491,14 @@
 
      - 除了基本的「三衣」之外，比丘還被允許使用以下衣資具：毛氈坐具\ :small:`[敷具]`\ （參閱\ `《捨墮》十一至十五`_\ ）、坐布\ :small:`[坐具]`\ （參閱\ `《波逸提》八九`_\ ）、覆瘡布（參閱\ `《波逸提》九十`_\ ）以及雨浴衣（參閱\ `《波逸提》九一`_\ ）。此外，以下物品亦允許製作，且尺寸可根據喜好製作得任意大：床單；手巾（字面意為擦臉或擦嘴的布）；資具布；用於盛裝藥物、涼鞋、頂針等物品的袋子，有繩子繫袋口，可用作提帶；繃帶（列於\ `第五章`_\ 「戒條」部分）；以及護膝帶。《聖典》中未提及當今許多比丘所穿戴的「肩衣」（aṁsa）；它顯然應歸入「資具布」\ :small:`[雜用布]`\ *（parikkhāra-cola）*\ 的允許範圍。
 
+   * - According to the Commentary, the color restrictions applying to robes do not apply to sheets, handkerchiefs, or other cloth requisites. However, they do apply at present to shoulder cloths.
+
+     - 根據《義註》，適用於袈裟的顏色限制並不適用於床單、手巾或其他衣資具。但是，目前這些限制確實適用於肩衣。
+
+   * - There is some disagreement about which cloth items should be included under “requisite-cloth.” The Commentary allows that spare robes be determined as “requisite-cloth,” but these should be made to the standard size and follow the color restrictions for the basic set of three robes. The Vinaya-mukha prefers to limit the category of requisite-cloth to small cloth items such as bags, water strainers, etc. See the discussion of spare robes under `NP 1`_.
+
+     - 關於哪些布製品應歸入「必需布料」（requisite-cloth）範疇，存在一些分歧。《義註》允許將備用袈裟決意為「必需布料」，但這些備用袈裟必須符合標準尺寸，並遵循適用於基本三衣的顏色限制。《戒律入口》則傾向於將「必需布料」的範圍限定諸如像袋子、濾水器等小型布製品。請參閱\ `《捨墮》一`_\ 條目下關於備用袈裟的討論。
+
 .. _NP 11-15: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP11
 .. _Pc 89: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
 .. _Pc 90: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc90
