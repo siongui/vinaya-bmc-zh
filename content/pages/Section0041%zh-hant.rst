@@ -489,7 +489,7 @@
 
    * - In addition to one’s basic set of three robes, one is allowed the following cloth requisites: a felt sitting rug (see `NP 11-15`_); a sitting cloth (see `Pc 89`_); a skin-eruption covering cloth (see `Pc 90`_); and a rains-bathing cloth (see `Pc 91`_). The following articles are also allowed and may be made as large as one likes: a sheet; a handkerchief (literally, a cloth for wiping the face/mouth); requisite-cloth; bags for medicine, sandals, thimbles, etc., with a cord for tying the mouth of the bag as a carrying strap; bandages (listed in the Rules section of `Chapter 5`_); and knee straps. The Canon makes no mention of the shoulder cloth *(aṁsa)* that many bhikkhus wear at present. It would apparently come under the allowance for requisite-cloths *(parikkhāra-cola)*.
 
-     - 除了基本的「三衣」之外，比丘還被允許使用以下衣資具：毛氈坐具\ :small:`[敷具]`\ （參閱\ `《捨墮》十一至十五`_\ ）、坐布\ :small:`[坐具]`\ （參閱\ `《波逸提》八九`_\ ）、覆瘡布（參閱\ `《波逸提》九十`_\ ）以及雨浴衣（參閱\ `《波逸提》九一`_\ ）。此外，以下物品亦允許製作，且尺寸可根據喜好製作得任意大：床單；手巾（字面意為擦臉或擦嘴的布）；資具布；用於盛裝藥物、涼鞋、頂針等物品的袋子，有繩子繫袋口，可用作提帶；繃帶（列於\ `第五章`_\ 「戒條」部分）；以及護膝帶。《聖典》中未提及當今許多比丘所穿戴的「肩衣」（aṁsa）；它顯然應歸入「資具布」\ :small:`[雜用布]`\ *（parikkhāra-cola）*\ 的允許範圍。
+     - 除了基本的「三衣」之外，比丘還被允許使用以下衣資具：毛氈坐具\ :small:`[敷具]`\ （參閱\ `《捨墮》十一至十五`_\ ）、坐布\ :small:`[坐具]`\ （參閱\ `《波逸提》八九`_\ ）、覆瘡布（參閱\ `《波逸提》九十`_\ ）以及雨浴衣（參閱\ `《波逸提》九一`_\ ）。此外，以下物品亦允許製作，且尺寸可根據喜好製作得任意大：床單；手巾（字面意為擦臉或擦嘴的布）；資具布；用於盛裝藥物、涼鞋、頂針等物品的袋子，有繩子繫袋口，可用作提帶；繃帶（列於\ `第五章`_\ 「戒條」部分）；以及膝帶。《聖典》中未提及當今許多比丘所穿戴的「肩衣」（aṁsa）；它顯然應歸入「資具布」\ :small:`[雜用布]`\ *（parikkhāra-cola）*\ 的允許範圍。
 
    * - According to the Commentary, the color restrictions applying to robes do not apply to sheets, handkerchiefs, or other cloth requisites. However, they do apply at present to shoulder cloths.
 
@@ -498,6 +498,14 @@
    * - There is some disagreement about which cloth items should be included under “requisite-cloth.” The Commentary allows that spare robes be determined as “requisite-cloth,” but these should be made to the standard size and follow the color restrictions for the basic set of three robes. The Vinaya-mukha prefers to limit the category of requisite-cloth to small cloth items such as bags, water strainers, etc. See the discussion of spare robes under `NP 1`_.
 
      - 關於哪些布製品應歸入「必需布料」（requisite-cloth）範疇，存在一些分歧。《義註》允許將備用袈裟決意為「必需布料」，但這些備用袈裟必須符合標準尺寸，並遵循適用於基本三衣的顏色限制。《戒律入口》則傾向於將「必需布料」的範圍限定諸如像袋子、濾水器等小型布製品。請參閱\ `《捨墮》一`_\ 條目下關於備用袈裟的討論。
+
+   * - The knee strap is a strip of cloth to help keep the body erect while sitting cross-legged. It is worn around the torso and looped around one or both knees. There is a prohibition against using the outer robe in this manner (see the origin story to `Sg 6`_); and even if the strap is of an allowable sort, only an ill bhikkhu may use it while in an inhabited area (see `Sk 26`_). To make knee straps, bhikkhus are allowed a loom, shuttles, strings, tickets, and all accessories for a loom.
+
+     - 「膝帶」是一種布帶，用來幫助在盤腿而坐時保持軀幹挺直。使用時，將其圍在軀幹上，並套住單側或雙側膝蓋。戒條禁止將外衣當作膝帶使用（參見\ `《僧殘》六`_\ 的起源故事）；即便所用的帶子符合規定，也僅限有病的比丘方可在俗家間使用（參見\ `《應學》二六`_\ ）。為了製作膝帶，比丘被允許擁有織布機、梭子、線繩、標籤以及織布機所需的一切配件。
+
+   * - Two styles of waistband are allowed: cloth strips and “pig entrails.” According to the Commentary, the cloth strip may be made of an ordinary weave or a fish-bone weave; other weaves, such as those with large open spaces, are not allowed; a “pig-entrails” waistband is like a single-strand rope with one end woven back in the shape of a key-loop (apparently for inserting the other end of the waistband); a single-strand rope without the hole and other round belts are also allowed. The Canon forbids the following types of waistbands: those with many strands, those like a water-snake head, those braided like a tambourine frame, those like chains.
+
+     - 允許使用兩種款式的腰帶：布條式和「豬內臟」式。根據《義註》，布條式腰帶可採用普通織法或魚骨織法；不允許使用其他織法（如帶有大孔隙的織法）。「豬內臟」式腰帶形似單股繩索，其一端編織回形成一個鑰匙環形狀（顯然是為了穿入腰帶的另一端）；不帶孔的單股繩索以及其他圓形帶狀物也被允許。《聖典》禁止以下類型的腰帶：多股編織的腰帶、如同水蛇頭的腰帶、編織得如同鈴鼓框的腰帶，如同鏈條的腰帶。
 
 .. _NP 11-15: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP11
 .. _Pc 89: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
@@ -510,6 +518,10 @@
 .. _《波逸提》九一: {filename}Section0024%zh-hant.rst#Pc91
 .. _第五章: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#BMC2chapter5
 .. TODO FIXME: 第五章
+.. _Sg 6: https://www.dhammatalks.org/vinaya/bmc/Section0011.html#Sg6
+.. _Sk 26: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk26
+.. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
+.. _《應學》二六: {filename}Section0026%zh-hant.rst#Sk26
 
 (未完待續)
 
