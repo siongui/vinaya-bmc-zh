@@ -1087,7 +1087,7 @@
      - `\　　　　其他衣資具 <{filename}Section0041%zh-hant.rst#sigil_toc_id_70>`__
 
    * - `\　　　　Dressing <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_71>`__
-     - 　　　　穿著
+     - `\　　　　穿著 <{filename}Section0041%zh-hant.rst#sigil_toc_id_71>`__
 
    * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_72>`__
      - 　　　戒條

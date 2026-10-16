@@ -527,6 +527,28 @@
 .. _《僧殘》六: {filename}Section0011%zh-hant.rst#Sg6
 .. _《應學》二六: {filename}Section0026%zh-hant.rst#Sk26
 
+.. _sigil_toc_id_71:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_71"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Dressing
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          穿著
+
+   * - There are rules concerning garments that may not be worn at any time, as well as rules concerning garments that must be worn when entering an inhabited area.
+
+     - 對於任何時候都不得穿著的服裝，以及進入俗家間時必須穿著的服裝，都有相關的戒條。
+
 (未完待續)
 
 .. _robe-diagram:
