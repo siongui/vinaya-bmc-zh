@@ -507,6 +507,10 @@
 
      - 允許使用兩種款式的腰帶：布條式和「豬內臟」式。根據《義註》，布條式腰帶可採用普通織法或魚骨織法；不允許使用其他織法（如帶有大孔隙的織法）。「豬內臟」式腰帶形似單股繩索，其一端編織回形成一個鑰匙環形狀（顯然是為了穿入腰帶的另一端）；不帶孔的單股繩索以及其他圓形帶狀物也被允許。《聖典》禁止以下類型的腰帶：多股編織的腰帶、如同水蛇頭的腰帶、編織得如同鈴鼓框的腰帶，如同鏈條的腰帶。
 
+   * - If the border of the waistband wears out, one may braid the border like a tambourine frame or a chain. If the ends wear out, one may sew them back and knot them in a loop. If the loops wear out, one is allowed a belt fastener, which must be made of one of the allowable materials in the standard list of ten. The Commentary to `Pr 2`_ notes that the fastener should not be made in unusual shapes or incised with decorative patterns, letters, or pictures.
+
+     - 如果腰帶邊緣磨損，可以像編織鈴鼓框或鏈條一樣將其編織起來。如果末端磨損，可以將其縫合回來並打結成環狀。如果環狀部分磨損，則允許腰帶扣，腰帶扣必須由標準列表中允許使用的十種材料之一製成。\ `《波羅夷》二`_\ 的《義註》指出，腰帶扣不應做成奇特的形狀，也不應刻有裝飾圖案、字母或圖畫。
+
 .. _NP 11-15: https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP11
 .. _Pc 89: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
 .. _Pc 90: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc90
