@@ -549,6 +549,18 @@
 
      - 對於任何時候都不得穿著的服裝，以及進入俗家間時必須穿著的服裝，都有相關的戒條。
 
+   * - .. container:: is-size-6 has-text-weight-bold
+
+          *Forbidden garments*
+
+     - .. container:: is-size-6 has-text-weight-bold
+
+          禁止的服裝
+
+   * - A bhikkhu who wears any of the following garments, which were the uniform of non-Buddhist sectarians in the Buddha’s time, incurs a thullaccaya: a kusa-grass garment, a bark-fiber garment, a garment of bark pieces, a human-hair blanket, a horse tail-hair blanket, owls’ wings, black antelope hide. The prohibition against black antelope hides covers other animal hides as well.
+
+     - 比丘若穿著以下任何一種服飾（這些服飾在佛陀時代是非佛教宗派人士的裝束），犯《偷蘭遮》：茅草衣、樹皮纖維衣、樹皮碎片衣、人毛毯、馬尾毛毯、貓頭鷹翅膀、黑羚羊皮。禁止使用黑羚羊皮也適用於其他動物皮毛。
+
 (未完待續)
 
 .. _robe-diagram:
