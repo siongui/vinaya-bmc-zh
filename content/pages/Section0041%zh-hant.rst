@@ -561,6 +561,16 @@
 
      - 比丘若穿著以下任何一種服飾（這些服飾在佛陀時代是非佛教宗派人士的裝束），犯《偷蘭遮》：茅草衣、樹皮纖維衣、樹皮碎片衣、人毛毯、馬尾毛毯、貓頭鷹翅膀、黑羚羊皮。禁止使用黑羚羊皮也適用於其他動物皮毛。
 
+   * - A bhikkhu who adopts nakedness as an observance also incurs a thullaccaya. If he goes naked for other reasons—as when his robes are stolen—the Vibhaṅga to `NP 6`_ states that he incurs a dukkaṭa. Three kinds of covering are said to count as covering one’s nakedness: a cloth-covering, a sauna-covering, and a water-covering. In other words, there is no offense in being uncovered by cloth in a sauna or in the water (as while bathing). Because saunas in the Buddha’s time were also bathing places, the allowance for sauna-covering would extend to include modern bathrooms as well. In other situations, one should wear at least one’s lower robe. `Chapter 8`_ lists the normally allowable activities that are not allowed while one is naked.
+
+     - 比丘將裸體作為修行準則，也犯《偷蘭遮》。若他因其他原因（如衣物被竊）而裸體，\ `《捨墮》六`_\ 的《經分別》說他犯《突吉羅》。所謂「遮蔽裸體」，有三種遮蔽形式：以布遮蔽、以蒸汽浴環境遮蔽，以及以水遮蔽。換言之，若在蒸氣浴或水中（如沐浴時）未以布料遮身，並不構成犯戒。由於佛陀時代的蒸氣浴場所亦兼作沐浴之處，因此「以蒸氣浴環境遮蔽」的開緣，同樣也延伸適用於現代的浴室環境。在其他情況下，至少應穿戴下衣。\ `第八章`_\ 列舉了在通常情況下被允許、但在裸體狀態下則被禁止進行的活動。
+
+.. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
+.. _Chapter 8: https://www.dhammatalks.org/vinaya/bmc/Section0047.html#BMC2chapter8
+.. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
+.. _第八章: https://www.dhammatalks.org/vinaya/bmc/Section0047.html#BMC2chapter8
+.. TODO FIXME: 第八章
+
 (未完待續)
 
 .. _robe-diagram:
