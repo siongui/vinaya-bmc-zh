@@ -565,11 +565,24 @@
 
      - 比丘將裸體作為修行準則，也犯《偷蘭遮》。若他因其他原因（如衣物被竊）而裸體，\ `《捨墮》六`_\ 的《經分別》說他犯《突吉羅》。所謂「遮蔽裸體」，有三種遮蔽形式：以布遮蔽、以蒸汽浴環境遮蔽，以及以水遮蔽。換言之，若在蒸氣浴或水中（如沐浴時）未以布料遮身，並不構成犯戒。由於佛陀時代的蒸氣浴場所亦兼作沐浴之處，因此「以蒸氣浴環境遮蔽」的開緣，同樣也延伸適用於現代的浴室環境。在其他情況下，至少應穿戴下衣。\ `第八章`_\ 列舉了在通常情況下被允許、但在裸體狀態下則被禁止進行的活動。
 
+   * - To wear any of the following garments incurs a dukkaṭa: a garment made of swallow-wort *(Calotropis gigantea)* stalks, a garment made of makaci fiber, jackets or corsets, tirīta-tree *(Symplocos racemosa)* garments, turbans, woolen cloth with the fleece on the outside, and loincloths. The Commentary states that jackets/ corsets and turbans may be taken apart and the remaining cloth used for robes; that tirīta-tree garments can be used as foot wipers; and that woolen cloth with the fleece inside is allowable. As for loincloths, it says that these are not allowed even when one is ill.
+
+     - 穿戴以下任何一種衣物都會犯《突吉羅》：用\ `牛角瓜`_\ *（Calotropis gigantea）*\ 莖稈製成的衣物、用摩迦支纖維製成的衣物、夾克或束身衣、用\ `珠仔樹`_\ *（Symplocos racemosa）*\ 製成的衣物、包頭巾、毛面朝外的毛織物，以及腰布。《義註》說，夾克/束身衣和包頭巾可以拆開，剩餘的布料可以用來做袈裟；\ `珠仔樹`_\ 製成的衣物可以用來擦腳；毛面朝內的毛織物是允許的。至於腰布，《義註》說，即使生病了也不允許。
+
+       ..
+          佛教巴利语文献（最精准的历史语义）
+
+          在巴利语（Pāli）佛教经典中，makaci 是一种用来制作弓弦或粗布的植物（类似大麻或亚麻）。
+          • 中文翻译：摩迦支纤维 或 麻皮纤维。
+          • 背景：在律藏（Vinaya）中，常提到用这种纤维制作的粗布衣服（巴利语：makacivattha 或 potthaka），佛陀曾因其质地类似外道苦行僧的穿着而禁止比丘饮用或穿戴某些此类材质。
+
 .. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
 .. _Chapter 8: https://www.dhammatalks.org/vinaya/bmc/Section0047.html#BMC2chapter8
 .. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
 .. _第八章: https://www.dhammatalks.org/vinaya/bmc/Section0047.html#BMC2chapter8
 .. TODO FIXME: 第八章
+.. _牛角瓜: https://zh.wikipedia.org/wiki/%E7%89%9B%E8%A7%92%E7%93%9C
+.. _珠仔樹: https://zh.wikipedia.org/wiki/%E7%8F%A0%E4%BB%94%E6%A0%91
 
 (未完待續)
 
