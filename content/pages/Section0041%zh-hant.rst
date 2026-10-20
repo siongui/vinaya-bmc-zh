@@ -576,6 +576,14 @@
           • 中文翻译：摩迦支纤维 或 麻皮纤维。
           • 背景：在律藏（Vinaya）中，常提到用这种纤维制作的粗布衣服（巴利语：makacivattha 或 potthaka），佛陀曾因其质地类似外道苦行僧的穿着而禁止比丘饮用或穿戴某些此类材质。
 
+   * - One is also not allowed to wear householder’s upper or lower garments. This refers both to garments tailored in styles worn by householders—such as shirts and trousers—as well as folding or wrapping one’s robes around oneself in styles typical of householders in countries where the basic householder’s garments are, like the bhikkhu’s upper and lower robes, simply rectangular pieces of cloth. According to the Commentary, the prohibition against householder’s upper garments also covers white cloth, no matter how it is worn.
+
+     - 此外，也不允許穿著居士的上衣或下衣。這既指仿照居士穿著的款式製作的服裝——例如襯衫和褲子——也指將袈裟折疊或裹在身上，如同某些國家居士的典型穿法，因為在這些國家，居士的基本服裝，如同比丘的上衣和下衣一樣，僅僅是長方形的布料。根據《義註》，禁止穿著居士上衣也包括白色布料，無論其穿著方式如何。
+
+   * - Householder’s ways of wearing the lower garment mentioned in the Canon are the “elephant’s trunk” [C: a roll of cloth hanging down from the navel], the “fish’s tail” [C: the upper corners tied in a knot with two “tails” to either side], the four corners hanging down, the “palmyra-leaf fan” arrangement, the “100 pleats” arrangement. According to the Commentary, one or two pleats in the lower robe when worn in the normal way are acceptable.
+
+     - 《聖典》中提到的居士穿著下衣的方式有：「象鼻式」（《義註》：從肚臍垂下的一捲布料）、「魚尾式」（《義註》：指將上角落打結，兩邊各垂下兩根「尾巴」）、四角垂下、「棕櫚葉扇式」和「百褶式」。根據《義註》，下衣正常穿著時，有一兩褶是可以接受的。
+
 .. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
 .. _Chapter 8: https://www.dhammatalks.org/vinaya/bmc/Section0047.html#BMC2chapter8
 .. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
