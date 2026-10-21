@@ -584,6 +584,25 @@
 
      - 《聖典》中提到的居士穿著下衣的方式有：「象鼻式」（《義註》：從肚臍垂下的一捲布料）、「魚尾式」（《義註》：指將上角落打結，兩邊各垂下兩根「尾巴」）、四角垂下、「棕櫚葉扇式」和「百褶式」。根據《義註》，下衣正常穿著時，有一兩褶是可以接受的。
 
+   * - The Canon does not mention specific householder ways of wearing an upper garment, but the Commentary lists the following:
+     - 《聖典》中並未提及居士穿著上衣的具體方式，但《義註》列出了以下幾種：
+
+   * - .. container:: mx-2
+
+          1\) “like a wanderer” with the chest exposed and the robe thrown back over both shoulders
+
+     - .. container:: mx-2
+
+          1）「像個流浪者」，暴露胸膛，袈裟披在雙肩上
+
+   * - .. container:: mx-2
+
+          2\) as a cape, covering the back and bringing the two corners over the shoulders to the front;
+
+     - .. container:: mx-2
+
+          2）像披風一樣，遮住背部，並將兩個角搭在肩膀上到前面；
+
 .. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
 .. _Chapter 8: https://www.dhammatalks.org/vinaya/bmc/Section0047.html#BMC2chapter8
 .. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
