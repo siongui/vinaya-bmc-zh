@@ -593,7 +593,7 @@
 
      - .. container:: mx-2
 
-          1）「像個流浪者」，暴露胸膛，袈裟披在雙肩上
+          1）「像流浪者」，暴露胸膛，袈裟披在雙肩上
 
    * - .. container:: mx-2
 
@@ -602,6 +602,54 @@
      - .. container:: mx-2
 
           2）像披風一樣，遮住背部，並將兩個角搭在肩膀上到前面；
+
+   * - .. container:: mx-2
+
+          3\) “like drinkers” as a scarf, with the robe wrapped around the neck with two ends hanging down in front over the stomach or thrown over the back;
+
+     - .. container:: mx-2
+
+          3）「像飲酒者」像圍巾一樣，袈裟圍在脖子上，兩端垂在前面蓋住肚子或披在背上；
+
+   * - .. container:: mx-2
+
+          4\) “like a palace lady” covering the head and exposing only the area around the eyes;
+
+     - .. container:: mx-2
+
+          4）「像宮女」遮住頭部，只露出眼睛周圍的區域；
+
+   * - .. container:: mx-2
+
+          5\) “like wealthy householders” with the robe cut long so that one end can wrap around the whole body;
+
+     - .. container:: mx-2
+
+          5）「像富裕的居士」，袈裟裁剪得很長，一端可以裹住整個身體；
+
+   * - .. container:: mx-2
+
+          6\) “like plowmen in a hut” with the robe tucked under one armpit and the rest thrown over the body like a blanket;
+
+     - .. container:: mx-2
+
+          6）「像茅屋裡的農夫」，袈裟掖在腋下，其餘部分像毯子一樣披在身上；
+
+   * - .. container:: mx-2
+
+          7\) “like brahmans” with the robe worn as a sash around the back, brought around front under the armpits, with the ends thrown over shoulders;
+
+     - .. container:: mx-2
+
+          7）「像婆羅門」，袈裟像腰帶一樣繫在背後，從前面繞到腋窩下，末端披在肩上；
+
+   * - .. container:: mx-2
+
+          8\) “like text-copying bhikkhus” with the right shoulder exposed, and the robe draped over the left shoulder, exposing the left arm.
+
+     - .. container:: mx-2
+
+          8）「像抄文獻的比丘」，右肩露在外面，袈裟披在左肩上，露出左臂。
 
 .. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
 .. _Chapter 8: https://www.dhammatalks.org/vinaya/bmc/Section0047.html#BMC2chapter8
