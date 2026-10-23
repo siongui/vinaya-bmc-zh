@@ -651,6 +651,10 @@
 
           8）「像抄文獻的比丘」，右肩露在外面，袈裟披在左肩上，露出左臂。
 
+   * - To wear the robe in any of these ways out of disrespect, in a monastery or out, it says, entails a dukkaṭa. However, if one has a practical reason to wear the robe in any of these ways—say, as a scarf while sweeping the monastery grounds in cool weather, or “like a palace lady” in a dust storm or under blisteringly hot sun—there should be no offense. The wilderness protocol (`Chapter 9`_) indicates that bhikkhus in the Buddha’s time, while going through the wilderness, wore their upper robe and outer robe folded on or over their heads, and that they did not necessarily have their navels or kneecaps covered with the lower robe.
+
+     - 《義註》說，若出於不敬，無論是在寺院內或出外，以這些方式穿著袈裟，均構成《突吉羅》。然而，若有實際理由而以這些方式穿著——例如在天氣涼爽時，清掃寺院地面時將袈裟當作圍巾；又如在沙塵暴或烈日曝曬下，將袈裟「像宮女」一樣穿著——則不應視為犯戒。「林野行儀/行止」（\ `第九章`_\ ）表明，佛陀時代的比丘在穿越林野時，會將上衣與外衣折疊起來置於頭頂或披在頭上；此外，他們也未必會用下衣遮蓋住肚臍或膝蓋。
+
 .. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
 .. _Chapter 8: https://www.dhammatalks.org/vinaya/bmc/Section0047.html#BMC2chapter8
 .. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
@@ -658,6 +662,9 @@
 .. TODO FIXME: 第八章
 .. _牛角瓜: https://zh.wikipedia.org/wiki/%E7%89%9B%E8%A7%92%E7%93%9C
 .. _珠仔樹: https://zh.wikipedia.org/wiki/%E7%8F%A0%E4%BB%94%E6%A0%91
+.. _Chapter 9: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
+.. _第九章: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
+.. TODO FIXME: 第九章
 
 (未完待續)
 
