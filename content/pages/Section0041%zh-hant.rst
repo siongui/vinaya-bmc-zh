@@ -655,6 +655,10 @@
 
      - 《義註》說，若出於不敬，無論是在寺院內或出外，以這些方式穿著袈裟，均構成《突吉羅》。然而，若有實際理由而以這些方式穿著——例如在天氣涼爽時，清掃寺院地面時將袈裟當作圍巾；又如在沙塵暴或烈日曝曬下，將袈裟「像宮女」一樣穿著——則不應視為犯戒。「林野行儀/行止」（\ `第九章`_\ ）表明，佛陀時代的比丘在穿越林野時，會將上衣與外衣折疊起來置於頭頂或披在頭上；此外，他們也未必會用下衣遮蓋住肚臍或膝蓋。
 
+   * - It was also common, when in the wilderness or in a monastery, to spread out the outer robe, folded, as a groundsheet or sitting cloth (see `DN 16`_, SN 16:11). However, the protocols for eating in a meal hall (`Chapter 9`_) state that there is an offense in spreading out the outer robe and sitting on it in an inhabited area. Some Communities (and the Vinaya-mukha) interpret this as a prohibition against sitting on the outer robe in inhabited areas even when wearing it around the body. This not only creates an awkward situation when visiting a lay person’s house but is also a misinterpretation of the rule.
+
+     - 在林野或寺院中，也常將折疊好的外衣鋪開，用作地墊或坐布（參見\ `《長部》16經`_\ ，\ `《相應部》16:11經`_\ ）。然而，食堂用餐行儀（\ `第九章`_\ ）陳述，在俗家間鋪開外衣並坐在上面是犯戒的。有些僧團（以及《戒律入口》）將此解釋為即使穿著外衣在身上，在俗家間也禁止坐在外衣上。這不僅會在拜訪居士家時造成尷尬的局面，也是對戒條的誤解。
+
 .. _NP 6: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP6
 .. _Chapter 8: https://www.dhammatalks.org/vinaya/bmc/Section0047.html#BMC2chapter8
 .. _《捨墮》六: {filename}Section0013%zh-hant.rst#NP6
@@ -665,6 +669,21 @@
 .. _Chapter 9: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
 .. _第九章: https://www.dhammatalks.org/vinaya/bmc/Section0048.html#BMC2chapter9
 .. TODO FIXME: 第九章
+.. _DN 16: https://www.dhammatalks.org/suttas/DN/DN16.html
+.. _《長部》16經: {filename}reference/external-link%zh-hant.rst#dn16
+.. _《相應部》16\:11經: https://sutra.mobi/chilin/xiangying/content/16.html#%E5%8D%81%E4%B8%80%E8%A1%A3
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-6 has-text-weight-bold
+
+          *Required garments*
+
+     - .. container:: is-size-6 has-text-weight-bold
+
+          所需的服裝
 
 (未完待續)
 
