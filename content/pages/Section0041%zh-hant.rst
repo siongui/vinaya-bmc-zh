@@ -685,6 +685,13 @@
 
           所需的服裝
 
+   * - Except on certain occasions, a bhikkhu entering an inhabited area must wear his full set of three robes and take along his rains-bathing cloth. The purpose here is to help protect his robes from being stolen: Any robes left behind could easily fall prey to thieves. Valid reasons for not wearing any of the basic set of three robes while entering an inhabited area are: One is ill, there is sign of rain, one is crossing a river, one’s dwelling is protected with a latch, or the kaṭhina has been spread. Valid reasons for not taking along the rains-bathing cloth are: One is ill, one is going outside the “territory,” one is crossing a river, the dwelling is protected with a latch, the rains-bathing cloth is not made or is unfinished. According to the Commentary, *ill* here means too sick to carry or wear the robe. *Sign of rain* refers solely to the four months of the rains. (Some Communities disagree with this definition, and interpret *sign of rain* as when there is actual rain or sign of approaching rain during any time of the year.) None of the commentaries discuss why “going outside the territory” should be a valid reason for not taking along one’s rains-bathing cloth. If *territory* (or *boundary—sīmā*) here means a physical territory, such as the territory of a monastery’s grounds, the allowance makes no sense. If, however, it means a temporal territory—i.e., a set period of time—then it makes perfect sense: If one is traveling outside the four and a half months during which one is allowed to determine and use a rains-bathing cloth (see `NP 24`_), one need not take it along.
+
+     - 除非在特定情況下，比丘進入俗家間時，必須穿著全套三衣，並隨身攜帶雨浴衣。這樣做的目的是為了防止衣物被偷：遺留的衣物很容易被竊。進入俗家間時，若因故未能穿戴全套三衣，其正當理由包括：有病、有降雨跡象、正在渡河、住所由門閂保護，或者功德衣已鋪展。未攜帶雨浴衣的正當理由：有病、正前往「界場」之外、正在渡河、住所由門閂保護，未製作雨浴衣或尚未製作完成。根據《義註》，「\ *有病*\ 」在此指病情嚴重，以致無法攜帶或穿著衣物；「\ *有降雨跡象*\ 」則專指雨季的四個月期間。（部分僧團對此定義持異議，認為「\ *有降雨跡象*\ 」是指一年中任何時候，只要正在下雨或有即將下雨的徵兆即可。）沒有任何註釋書探討為何「前往界場之外」可作為不攜帶雨浴衣的正當理由。若此處的「界場」（即\ *「邊界」－sīmā*\ ）是指物理空間上的區域（如寺院的界場範圍），那麼這項開緣就顯得毫無道理。然而，若將其理解為「時間上的界限」（即一段特定的時期），則完全合乎邏輯：若比丘在允許決意並使用雨浴衣的那四個半月（參見\ `《捨墮》二四`_\ ）之外出行，便無需隨身攜帶此衣。
+
+.. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
+.. _《捨墮》二四: {filename}Section0015%zh-hant.rst#NP24
+
 (未完待續)
 
 .. _robe-diagram:
