@@ -689,8 +689,14 @@
 
      - 除非在特定情況下，比丘進入俗家間時，必須穿著全套三衣，並隨身攜帶雨浴衣。這樣做的目的是為了防止衣物被偷：遺留的衣物很容易被竊。進入俗家間時，若因故未能穿戴全套三衣，其正當理由包括：有病、有降雨跡象、正在渡河、住所由門閂保護，或者功德衣已鋪展。未攜帶雨浴衣的正當理由：有病、正前往「界場」之外、正在渡河、住所由門閂保護，未製作雨浴衣或尚未製作完成。根據《義註》，「\ *有病*\ 」在此指病情嚴重，以致無法攜帶或穿著衣物；「\ *有降雨跡象*\ 」則專指雨季的四個月期間。（部分僧團對此定義持異議，認為「\ *有降雨跡象*\ 」是指一年中任何時候，只要正在下雨或有即將下雨的徵兆即可。）沒有任何註釋書探討為何「前往界場之外」可作為不攜帶雨浴衣的正當理由。若此處的「界場」（即\ *「邊界」－sīmā*\ ）是指物理空間上的區域（如寺院的界場範圍），那麼這項開緣就顯得毫無道理。然而，若將其理解為「時間上的界限」（即一段特定的時期），則完全合乎邏輯：若比丘在允許決意並使用雨浴衣的那四個半月（參見\ `《捨墮》二四`_\ ）之外出行，便無需隨身攜帶此衣。
 
+   * - Strangely, the Commentary goes on to say that, aside from the allowance to go without one’s full set of robes after the kaṭhina has been spread (see `NP 2`_), only one of the allowances here really counts: that the robes are protected by a latch. In the wilderness, it says, even a latch is not enough. One should put the robe in a container and hide it well in a rock crevice or tree hollow. This may be good practical advice, but because the other allowances are in the Canon they still stand.
+
+     - 奇怪的是，《義註》接著指出，除了允許在功德衣已鋪展後不帶全套三衣出行（見\ `《捨墮》二`_\ ）之外，這裡只有一項開緣真正算數：袈裟必須用由門閂保護。《義註》說，在林野中，即使有門閂也不夠。應該把袈裟放在容器裡，藏在岩縫或樹洞裡。這或許是個不錯的實用建議，但由於其他開緣都在《聖典》內，所以仍然有效。
+
 .. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
 .. _《捨墮》二四: {filename}Section0015%zh-hant.rst#NP24
+.. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
+.. _《捨墮》二: {filename}Section0013%zh-hant.rst#NP2
 
 (未完待續)
 
