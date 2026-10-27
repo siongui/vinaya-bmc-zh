@@ -693,10 +693,30 @@
 
      - 奇怪的是，《義註》接著指出，除了允許在功德衣已鋪展後不帶全套三衣出行（見\ `《捨墮》二`_\ ）之外，這裡只有一項開緣真正算數：袈裟必須用由門閂保護。《義註》說，在林野中，即使有門閂也不夠。應該把袈裟放在容器裡，藏在岩縫或樹洞裡。這或許是個不錯的實用建議，但由於其他開緣都在《聖典》內，所以仍然有效。
 
+   * - The proper way to wear one’s robes in an inhabited area is discussed under `Sk 1 & 2`_: Both the upper and lower robes should be wrapped even all around, and one should be well-covered when entering inhabited areas. These rules provide room for a wide variety of ways of wearing the robe. Some of the possibilities are pictured in the Vinaya-mukha. This, though, is another area where the wisest policy is to adhere to the customs of one’s Community.
+
+     - 在\ `《應學》一及二`_\ 中討論了在俗家間穿著袈裟的適當方式：上下衣都應均勻地包裹全身，進入俗家間時應善披覆。這些戒條提供袈裟有多種不同穿著方式的空間。《戒律入口》中描繪了一些可能的穿著方式。然而，在這方面，最明智的做法是遵循自己所在僧團的習俗。
+
+   * - Finally, one may not enter an inhabited area without wearing a waistband.
+     - 最後，進入俗家間必須穿腰帶。
+
+   * - .. container:: mx-2
+
+          Now at that time a certain bhikkhu, not wearing a waistband, entered a village for alms. Along the road, his lower robe fell off. People, seeing this, hooted and hollered. The bhikkhu was abashed.
+
+     - .. container:: mx-2
+
+          當時，有一位比丘，未穿腰帶，進入村莊托缽。在路上，他的下衣滑落。村民見狀，紛紛起哄叫喊。比丘十分羞愧。
+
+   * - According to the Sub-commentary, breaking this rule incurs an offense even when done unintentionally.
+     - 根據《複註》，即使是無意地違反此戒條也構成犯戒。
+
 .. _NP 24: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP24
 .. _《捨墮》二四: {filename}Section0015%zh-hant.rst#NP24
 .. _NP 2: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP2
 .. _《捨墮》二: {filename}Section0013%zh-hant.rst#NP2
+.. _Sk 1 & 2: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk1
+.. _《應學》一及二: {filename}Section0026%zh-hant.rst#Sk1
 
 (未完待續)
 
