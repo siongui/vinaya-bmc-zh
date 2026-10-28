@@ -1090,7 +1090,7 @@
      - `\　　　　穿著 <{filename}Section0041%zh-hant.rst#sigil_toc_id_71>`__
 
    * - `\　　　Rules <https://www.dhammatalks.org/vinaya/bmc/Section0041.html#sigil_toc_id_72>`__
-     - 　　　戒條
+     - `\　　　戒條 <{filename}Section0041%zh-hant.rst#sigil_toc_id_72>`__
 
    * - `\　　Alms Bowls & Other Accessories <https://www.dhammatalks.org/vinaya/bmc/Section0042.html>`__
      - 　　缽及其他附屬物

@@ -718,6 +718,59 @@
 .. _Sk 1 & 2: https://www.dhammatalks.org/vinaya/bmc/Section0026.html#Sk1
 .. _《應學》一及二: {filename}Section0026%zh-hant.rst#Sk1
 
+.. _sigil_toc_id_72:
+
+.. raw:: html
+
+   <span id="sigil_toc_id_72"></span>
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-3 has-text-weight-bold
+
+          Rules
+
+     - .. container:: is-size-3 has-text-weight-bold
+
+          戒條
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Types of Cloth
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          布料種類
+
+   * - “I allow a cloak… I allow a silk cloak… I allow a woolen shawl (§).”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.1.36`_
+
+     - 「我允許披風……我允許絲綢披風……我允許羊毛披肩（§）。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.1.36`_
+
+   * - “I allow woolen cloth.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.2.1`_
+
+     - 「我允許羊毛布料。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.2.1`_
+
+.. _Mv.VIII.1.36: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts1_36
+.. _《大品》.八.1.36: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0367a05
+
 (未完待續)
 
 .. _robe-diagram:
