@@ -768,8 +768,22 @@
 
           —  `《大品》.八.2.1`_
 
+   * - “I allow six kinds of robe-cloth: linen, cotton, silk, wool, jute (§), and hemp (§).”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.3.1`_
+
+     - 「我允許六種袈裟布料：亞麻布、棉花、絲綢、羊毛、黃麻（§）、麻（§）。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.3.1`_
+
 .. _Mv.VIII.1.36: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts1_36
 .. _《大品》.八.1.36: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0367a05
+.. _Mv.VIII.3.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts3_1
+.. _《大品》.八.3.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0368a01
 
 (未完待續)
 
