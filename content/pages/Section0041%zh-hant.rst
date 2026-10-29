@@ -785,6 +785,33 @@
 .. _Mv.VIII.3.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts3_1
 .. _《大品》.八.3.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0368a01
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Obtaining Cloth
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          取得布料
+
+   * - “I allow householder robe-cloth. Whoever wants to, may be a rag-robe man. Whoever wants to, may consent to householder robe-cloth. And I commend contentment with whatever is readily available (§).”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.1.35`_
+
+     - 「我允許居士的袈裟布。任何人，只要願意，都可以穿破爛的袈裟\ :small:`[糞掃衣]`\ 。任何人，只要願意，都可以接受居士的袈裟布。我讚揚對任何現有之物感到滿足（§）。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.1.35`_
+
+.. _Mv.VIII.1.35: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts1_35
+.. _《大品》.八.1.35: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0366a13
+
 (未完待續)
 
 .. _robe-diagram:
