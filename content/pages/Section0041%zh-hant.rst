@@ -803,14 +803,46 @@
 
           —  `Mv.VIII.1.35`_
 
-     - 「我允許居士的袈裟布。任何人，只要願意，都可以穿破爛的袈裟\ :small:`[糞掃衣]`\ 。任何人，只要願意，都可以接受居士的袈裟布。我讚揚對任何現有之物感到滿足（§）。」
+     - 「我允許居士的袈裟布。任何人，只要願意，都可以穿糞掃衣。任何人，只要願意，都可以接受居士的袈裟布。我讚揚對任何現有之物感到滿足（§）。」
 
        .. container:: is-italic has-text-right
 
           —  `《大品》.八.1.35`_
 
+   * - “I allow that one who consents to householder robe-cloth may also consent to rag robes. And I commend contentment with both.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.3.2`_
+
+     - 「我允許接受居士袈裟布者也可以接受糞掃衣。我讚嘆對兩者都感到滿足。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.3.2`_
+
+   * - “And there is the case where people give robe-cloth for bhikkhus who have gone outside the (monastery) territory, (saying,), ‘I give this robe-cloth for so-and-so.” I allow that one consent to it, and there is no counting of the time-span as long as it has not come to his hand (see `NP 1`_, 3_, & 28_).”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.V.13.13`_
+
+     - 「此外，若有人為已離開（寺院）界限的比丘布施衣料，（言明）：『我將此衣料布施給某某。』我允許接受此布施；在衣料尚未真正交到他手中之前，\ :small:`[相關的]`\ 時限並不開始計算（參見\ `《捨墮》一`_\ 、\ `三`_ 、以及\ `二八`_\ ）。
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.五.13.13`_
+
 .. _Mv.VIII.1.35: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts1_35
 .. _《大品》.八.1.35: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0366a13
+.. _Mv.VIII.3.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts3_2
+.. _《大品》.八.3.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0368a04
+.. _Mv.V.13.13: https://www.dhammatalks.org/vinaya/Mv/MvV.html#pts13_13
+.. _《大品》.五.13.13: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_005/#0263a11
+.. _3: https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP3
+.. _28: https://www.dhammatalks.org/vinaya/bmc/Section0015.html#NP28
+.. _三: {filename}Section0013%zh-hant.rst#NP3
+.. _二八: {filename}Section0015%zh-hant.rst#NP28
 
 (未完待續)
 
