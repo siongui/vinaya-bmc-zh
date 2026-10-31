@@ -844,6 +844,65 @@
 .. _三: {filename}Section0013%zh-hant.rst#NP3
 .. _二八: {filename}Section0015%zh-hant.rst#NP28
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Gathering Rag-robes in Cemeteries
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          在墓地收集糞掃衣
+
+   * - “I allow you, if you don’t want to, not to give a portion to those who do not wait.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.4.1`_
+
+     - 「我允許你們，如果不願意，不把一部分分給不等待的人。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.4.1`_
+
+   * - “I allow, (even) if you don’t want to, that a portion be given to those who wait.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.4.2`_
+
+     - 「我允許，（即使）你們不願意，也要把一部分分給那些等待的人。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.4.2`_
+
+   * - “I allow you, if you don’t want to, not to give a portion to those who go in afterwards.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.4.3`_
+
+     - 「我允許你們，如果不願意，不把一部分分給那些後來進去的人。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.4.3`_
+
+.. _Mv.VIII.4.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts4_1
+.. _《大品》.八.4.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0368a07
+.. _Mv.VIII.4.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts4_2
+.. _《大品》.八.4.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0368a11
+.. _Mv.VIII.4.3: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts4_3
+.. _《大品》.八.4.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0369a01
+.. _Mv.VIII.4.4: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts4_4
+.. _《大品》.八.4.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0369a05
+.. _Mv.VIII.4.5: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts4_5
+.. _《大品》.八.4.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0369a09
+
 (未完待續)
 
 .. _robe-diagram:
