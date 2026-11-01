@@ -892,6 +892,30 @@
 
           —  `《大品》.八.4.3`_
 
+   * - “I allow, (even) if you don’t want to, that a portion be given to those who go in together.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.4.4`_
+
+     - 「我允許，（即使）你們不願意，也要把一部分分給那些一同進去的人。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.4.4`_
+
+   * - “I allow, when an agreement has been made, that—(even) if you don’t want to—a portion be given to those who go in.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.4.5`_
+
+     - 「我允許，當達成協議後，（即使）你們不願意，也要把一部分分給那些進去的人。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.4.5`_
+
 .. _Mv.VIII.4.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts4_1
 .. _《大品》.八.4.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0368a07
 .. _Mv.VIII.4.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts4_2
