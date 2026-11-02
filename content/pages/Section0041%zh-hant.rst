@@ -927,6 +927,33 @@
 .. _Mv.VIII.4.5: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts4_5
 .. _《大品》.八.4.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0369a09
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Determining/Shared Ownership
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          決意/共享所有權
+
+   * - “I allow that the three robes be determined but not placed under shared ownership; that the rains-bathing cloth be determined for the four months of the rains, and afterwards placed under shared ownership; that the sitting cloth be determined, not placed under shared ownership; that the sheet be determined, not placed under shared ownership; that the skin-eruption cover cloth be determined as long as one is sick, and afterwards placed under shared ownership; that the handkerchief be determined, not placed under shared ownership; that requisite-cloth be determined, not placed under shared ownership.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.20.2`_
+
+     - 「我允許決意三衣，但不置於共享所有權之下；雨浴衣在四個月的雨季期間決意，之後置於共享所有權之下；決意坐布，但不置於共享所有權之下；決意床單，但不置於共享所有權之下；覆瘡布在生病期間決意，之後置於共享所有權之下；決意手帕，但不置於共享所有權之下；決意資具布料，但不置於共享所有權之下。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.20.2`_
+
+.. _Mv.VIII.20.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts20_2
+.. _《大品》.八.20.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0385a04
+
 (未完待續)
 
 .. _robe-diagram:
