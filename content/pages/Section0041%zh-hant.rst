@@ -951,6 +951,18 @@
 
           —  `《大品》.八.20.2`_
 
+   * - “I allow you to place under shared ownership a cloth at least eight fingerbreadths in length, using the sugata-fingerbreadth, and four fingerbreadths in width.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.21.1 <https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts21_1>`__
+
+     - 「我允許你們將布料——按善逝指寬計算，至少長達八指寬、寬達四指寬——置於共享所有權之下。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.21.1`_
+
 .. _Mv.VIII.20.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts20_2
 .. _《大品》.八.20.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0385a04
 
