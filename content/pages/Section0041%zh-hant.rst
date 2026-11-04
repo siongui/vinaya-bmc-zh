@@ -966,6 +966,61 @@
 .. _Mv.VIII.20.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts20_2
 .. _《大品》.八.20.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0385a04
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Extra Robe-cloth
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          額外的袈裟布料
+
+   * - “Extra robe-cloth (a spare robe) should not be kept/worn. Whoever should keep/wear it is to be dealt with in accordance with the rule (`NP 1`_).”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.13.6`_
+
+     - 「不應留存或穿著額外的袈裟布料（備用袈裟）。留存或穿著者應按戒條（\ `《捨墮》一`_\ ）予以處置。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.13.6`_
+
+   * - “I allow that extra robe-cloth (a spare robe) be kept/worn for ten days at most.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.13.7`_
+
+     - 「我允許留存或穿著額外的袈裟布料（備用袈裟），期限最長為十天。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.13.7`_
+
+   * - “I allow that extra robe-cloth (a spare robe) be placed under shared ownership.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.13.8`_
+
+     - 「我允許額外的袈裟布料（備用袈裟）置於共享所有權之下。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.13.8`_
+
+.. _Mv.VIII.13.6: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts13_6
+.. _《大品》.八.13.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0376a06
+.. _Mv.VIII.13.7: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts13_7
+.. _《大品》.八.13.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0376a10
+.. _Mv.VIII.13.8: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts13_8
+.. _《大品》.八.13.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0377a01
+
 (未完待續)
 
 .. _robe-diagram:
