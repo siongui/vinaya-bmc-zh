@@ -1021,6 +1021,47 @@
 .. _Mv.VIII.13.8: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts13_8
 .. _《大品》.八.13.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0377a01
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Making Robes: Sewing Instructions
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          製作袈裟：縫紉說明
+
+   * - “I allow three robes: a double-layer outer robe, a single-layer upper robe, a single-layer lower robe.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.13.5`_
+
+     - 「我允許三衣：一件雙層外衣、一件單層上衣、一件單層下衣。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.13.5`_
+
+   * - “I allow a cut-up outer robe, a cut-up upper robe, a cut-up lower robe.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.12.2`_
+
+     - 「我允許由布塊拼縫而成的外衣、由布塊拼縫而成的上衣、由布塊拼縫而成的下衣。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.12.2`_
+
+.. _Mv.VIII.13.5: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts13_5
+.. _《大品》.八.13.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0375a14
+.. _Mv.VIII.12.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts12_2
+.. _《大品》.八.12.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0374a10
+
 (未完待續)
 
 .. _robe-diagram:
