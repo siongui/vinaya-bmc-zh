@@ -1057,6 +1057,18 @@
 
           —  `《大品》.八.12.2`_
 
+   * - “When the cloths are undamaged, or their damage is repaired, I allow a double-layer outer robe, a single-layer upper robe, a single-layer lower robe; when the cloths are weathered [C: ragged from being kept a long time] and worn, a four-layer outer robe, a double-layer upper robe, a double-layer lower robe. An effort may be made, as much as you need, with regard to cast-off cloth and shop-remnant cloth. I allow a patch [C: a patch after cutting out old, damaged cloth], stitching, folding, sealing (§), reinforcing [C: a patch without removing old damaged cloth] (§).”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.14.2 <https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts14_2>`__
+
+     - 「若布料完好無損，或已修補妥當，我允許雙層外衣、單層上衣及單層下衣；當布料歷經風化 [《義註》：因存放過久而變得破舊] 及磨損時，則允許四層外衣、雙層上衣及雙層下衣。對於廢棄布料或布店的零碎布料，可根據實際需要做出努力\ :small:`[而得]`\ 。我允許進行補綴 [《義註》：在剪除舊損布料後加補丁]、縫合、折疊、密封（§）以及加固 [《義註》：在不去除舊損布料的情況下加補丁]（§）。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.14.2`_
+
 .. _Mv.VIII.13.5: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts13_5
 .. _《大品》.八.13.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0375a14
 .. _Mv.VIII.12.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts12_2
