@@ -1069,10 +1069,36 @@
 
           —  `《大品》.八.14.2`_
 
+   * - “I allow that a thread patch (darning) be made .… I allow that the uneven edge be removed .… I allow that a border and a binding (for the edge of the border) be put on.... I allow that a network [of stitches] be made.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.21.1 <https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts21_1>`__
+
+     - 「我允許進行線修補（織補）……我允許移除不平整的邊緣……我允許加上邊框及包邊（用於邊框邊緣）……我允許製作網狀（縫線）。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.21.1`_
+
+   * - “One should not wear robes that have not been cut up. Whoever should wear one: an offense of wrong doing.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.11.2`_
+
+     - 「不應穿著未經剪裁的袈裟。若穿著者，《惡作》（《突吉羅》）罪。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.11.2`_
+
 .. _Mv.VIII.13.5: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts13_5
 .. _《大品》.八.13.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0375a14
 .. _Mv.VIII.12.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts12_2
 .. _《大品》.八.12.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0374a10
+.. _Mv.VIII.11.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts11_2
+.. _《大品》.八.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0374a01
 
 (未完待續)
 
