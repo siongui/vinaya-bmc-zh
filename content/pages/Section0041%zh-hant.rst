@@ -1093,12 +1093,39 @@
 
           —  `《大品》.八.11.2`_
 
+   * - “I allow two cut-up robes, one not cut up… I allow two robes not cut up, one cut up… I allow that a seam-strip (§) be added. But a completely uncut-up (set of robes) should not be worn. Whoever should wear it: an offense of wrong doing.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.21.2`_
+
+     - 「我允許兩件剪裁過的袈裟，一件未剪裁的……我允許兩件未剪裁過的袈裟，一件剪裁過的……我允許加接縫條（§）。但完全未剪裁過的（一套袈裟）不應穿著。凡穿著者，《惡作》（《突吉羅》）罪。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.21.2`_
+
+   * - “I allow a fastener (for the robe), a loop to tie it with”… “One should not use fancy robe fasteners. Whoever should use one: an offense of wrong doing. I allow that they be made of bone, ivory, horn, reed, bamboo, wood, lac (resin), fruit (§) (e.g., coconut shell), copper (metal), conch-shell, or thread”…. “I allow a cloth backing for the fastener, a cloth backing for the tying loop”… “I allow that the cloth backing for the fasteners be put at the edge of the robe; the cloth backing for the tying loops, seven or eight fingerbreadths in from the edge.”
+
+       .. container:: is-italic has-text-right
+
+          —  Cv.V.29.3
+
+     - 「我允許（袈裟上）有搭扣及環圈，以及用於繫搭扣的環圈」…「不應使用華麗的袈裟搭扣。凡使用者，《惡作》（《突吉羅》）罪。我允許搭扣由骨頭、象牙、角、蘆葦、竹子、木頭、漆（樹脂）、水果實（§）（例如椰子殼）、銅（金屬）、海螺殼或線製成」…「我允許搭扣有布料襯裡，繫搭扣的環圈有布料襯裡」…「我允許搭扣的布料襯裡置於袈裟邊緣；繫搭扣的環圈的布料襯裡置於距邊緣七八指寬處。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.29.3`_
+
 .. _Mv.VIII.13.5: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts13_5
 .. _《大品》.八.13.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0375a14
 .. _Mv.VIII.12.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts12_2
 .. _《大品》.八.12.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0374a10
 .. _Mv.VIII.11.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts11_2
 .. _《大品》.八.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0374a01
+.. _Mv.VIII.21.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts21_2
+.. _《大品》.八.21.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0386a01
+.. _《小品》.五.29.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0183a04
 
 (未完待續)
 
