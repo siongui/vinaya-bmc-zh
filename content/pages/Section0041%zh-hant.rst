@@ -1127,6 +1127,47 @@
 .. _《大品》.八.21.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0386a01
 .. _《小品》.五.29.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0183a04
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Making Other Cloth Requisites
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          製作其他衣資具
+
+   * - “I allow rains-bathing cloths.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.15.15`_
+
+     - 「我允許雨浴衣。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.15.15`_
+
+   * - “I allow a sitting cloth for protecting the body, protecting one’s robes, protecting the lodging.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.16.1`_
+
+     - 「我允許坐布，以保護身體、保護袈裟，保護住處。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.16.1`_
+
+.. _Mv.VIII.15.15: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts15_15
+.. _《大品》.八.15.15: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0382a11
+.. _Mv.VIII.16.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts16_1
+.. _《大品》.八.16.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0382a14
+
 (未完待續)
 
 .. _robe-diagram:
