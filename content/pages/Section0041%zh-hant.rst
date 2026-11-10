@@ -1163,10 +1163,35 @@
 
           —  `《大品》.八.16.1`_
 
+   * - | Is a sitting cloth without a border permissible?
+       | That is not permissible.
+       | Where is it objected to?
+       | In Sāvatthī, in the Sutta Vibhaṅga (`Pc 89`_)
+       | What offense is committed?
+       | A pācittiya involving cutting down.
+
+       .. container:: is-italic has-text-right
+
+          —  Cv.XII.2.8
+
+     - | 沒有邊框的坐布允許嗎？
+       | 那是不允許。
+       | 在哪裡被禁止？
+       | 在舍衛城，在《經分別》（\ `《波逸提》八九`_\ ）
+       | 犯何罪？
+       | 涉及裁掉的《波逸提》
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.十二.2.8`_
+
 .. _Mv.VIII.15.15: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts15_15
 .. _《大品》.八.15.15: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0382a11
 .. _Mv.VIII.16.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts16_1
 .. _《大品》.八.16.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0382a14
+.. _Pc 89: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
+.. _《波逸提》八九: {filename}Section0024%zh-hant.rst#Pc89
+.. _《小品》.十二.2.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_022/#0408a14
 
 (未完待續)
 
