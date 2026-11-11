@@ -1185,6 +1185,42 @@
 
           —  `《小品》.十二.2.8`_
 
+   * - “I allow felt”…. “Felt is neither to be determined nor placed under shared ownership.”
+
+       .. container:: is-italic has-text-right
+
+          —  Cv.V.19.1
+
+     - 「我允許敷具」……。「敷具既不能被決意，也不能被置於共享所有權之下。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.19.1`_
+
+   * - “One should not be without (separated from) a sitting cloth for four months. Whoever should do so: an offense of wrong doing.”
+
+       .. container:: is-italic has-text-right
+
+          —  Cv.V.18
+
+     - 「不應連續四個月沒有（分離）坐布。凡如此做者，《惡作》（《突吉羅》）罪。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.18`_
+
+   * - “I allow that a sheet be made as large as one wants.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.16.4`_
+
+     - 「“我允許床單做成任何想要的大小。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.16.4`_
+
 .. _Mv.VIII.15.15: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts15_15
 .. _《大品》.八.15.15: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0382a11
 .. _Mv.VIII.16.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts16_1
@@ -1192,6 +1228,10 @@
 .. _Pc 89: https://www.dhammatalks.org/vinaya/bmc/Section0024.html#Pc89
 .. _《波逸提》八九: {filename}Section0024%zh-hant.rst#Pc89
 .. _《小品》.十二.2.8: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_022/#0408a14
+.. _《小品》.五.19.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0167a05
+.. _《小品》.五.18: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0166a12
+.. _Mv.VIII.16.4: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts16_4
+.. _《大品》.八.16.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0383a14
 
 (未完待續)
 
