@@ -1215,11 +1215,47 @@
 
           —  `Mv.VIII.16.4`_
 
-     - 「“我允許床單做成任何想要的大小。」
+     - 「我允許床單做成任何想要的大小。」
 
        .. container:: is-italic has-text-right
 
           —  `《大品》.八.16.4`_
+
+   * - “I allow a skin-eruption covering cloth for anyone with rashes, pustules, running sores, or thick scab diseases.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.17`_
+
+     - 「對於患有皮疹、膿皰、流膿性傷口或厚痂疾病的人，我允許覆瘡布。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.17`_
+
+   * - “I allow a bandage.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VI.14.5`_
+
+     - 「我允許繃帶。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.六.14.5`_
+
+   * - “I allow a handkerchief (cloth for wiping the face/mouth).”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.18`_
+
+     - 「我允許手帕（用於擦臉/嘴的布）。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.18`_
 
 .. _Mv.VIII.15.15: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts15_15
 .. _《大品》.八.15.15: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0382a11
@@ -1232,6 +1268,12 @@
 .. _《小品》.五.18: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0166a12
 .. _Mv.VIII.16.4: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts16_4
 .. _《大品》.八.16.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0383a14
+.. _Mv.VIII.17: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts17
+.. _《大品》.八.17: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0384a02
+.. _Mv.VI.14.5: https://www.dhammatalks.org/vinaya/bmc/Section0044.html#Mv.VI.14.5
+.. _《大品》.六.14.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0274a11
+.. _Mv.VIII.18: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts18
+.. _《大品》.八.18: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0384a07
 
 (未完待續)
 
