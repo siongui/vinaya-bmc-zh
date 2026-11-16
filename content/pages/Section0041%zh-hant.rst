@@ -1257,6 +1257,18 @@
 
           —  `《大品》.八.18`_
 
+   * - “I allow requisite-cloth.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.20.1`_
+
+     - 「我允許資具布。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.20.1`_
+
 .. _Mv.VIII.15.15: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts15_15
 .. _《大品》.八.15.15: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0382a11
 .. _Mv.VIII.16.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts16_1
@@ -1274,6 +1286,8 @@
 .. _《大品》.六.14.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_006/#0274a11
 .. _Mv.VIII.18: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts18
 .. _《大品》.八.18: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0384a07
+.. _Mv.VIII.20.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts20_1
+.. _《大品》.八.20.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0385a02
 
 (未完待續)
 
