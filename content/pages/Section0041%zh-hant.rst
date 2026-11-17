@@ -1269,6 +1269,30 @@
 
           —  `《大品》.八.20.1`_
 
+   * - “I allow a bag for medicine.” “I allow a thread for tying the mouth of the bag as a carrying strap (§).” “I allow a bag for sandals.” “I allow a thread for tying the mouth of the bag as a carrying strap.”
+
+       .. container:: is-italic has-text-right
+
+          —  Cv.V.12
+
+     - 「我允許藥袋。」「我允許繩子來繫住袋口，並將其作為提帶（§）。」「我允許涼鞋袋。」「我允許繩子來繫住袋口，並將其作為提帶。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.12`_
+
+   * - “I allow a knee strap (§) for one who is ill”…. (How it is to be made:) “I allow a loom, shuttles, strings, tickets, and all accessories for a loom.”
+
+       .. container:: is-italic has-text-right
+
+          —  Cv.V.28.2
+
+     - 「我允許有病者使用膝帶（§）」……。（應如何製作：）「我允許織布機、梭子、線繩、織片以及織布機所需的一切配件。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.28.2`_
+
 .. _Mv.VIII.15.15: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts15_15
 .. _《大品》.八.15.15: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0382a11
 .. _Mv.VIII.16.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts16_1
@@ -1288,6 +1312,8 @@
 .. _《大品》.八.18: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0384a07
 .. _Mv.VIII.20.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts20_1
 .. _《大品》.八.20.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0385a02
+.. _《小品》.五.12: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0159a09
+.. _《小品》.五.28.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0181a12
 
 (未完待續)
 
