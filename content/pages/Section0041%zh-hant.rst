@@ -1315,6 +1315,32 @@
 .. _《小品》.五.12: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0159a09
 .. _《小品》.五.28.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0181a12
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Making Robes: Sewing Equipment
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          製作袈裟：縫紉設備
+
+   * - “I allow a small knife (a blade), a piece of felt (to wrap around it)”… “I allow a small knife with a handle”… “One should not use fancy small-knife-handles (§). Whoever should use one: an offense of wrong doing. I allow that they be made of bone, ivory, horn, reed, bamboo, wood, lac (resin), fruit (e.g., coconut shell), copper (metal), or conch-shell.”
+
+       .. container:: is-italic has-text-right
+
+          —  Cv.V.11.1
+
+     - 「我允許小刀（刀刃），以及一塊（用來包裹它的）氈布」……「我允許帶有刀柄的小刀」……「不應使用華麗的小刀柄（§）。若使用者：《惡作》（《突吉羅》）罪。我允許刀柄採用以下材質製作：骨、象牙、角、蘆葦、竹、木、漆（樹脂）、果實（例如椰子殼）、銅（金屬）或海螺殼。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.11.1`_
+
+.. _《小品》.五.11.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0156a08
+
 (未完待續)
 
 .. _robe-diagram:
