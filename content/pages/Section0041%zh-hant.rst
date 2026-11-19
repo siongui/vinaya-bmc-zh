@@ -1339,7 +1339,25 @@
 
           —  `《小品》.五.11.1`_
 
+   * - “I allow a needle”…. “I allow a needle-tube”…. The needles got rusty. “I allow that (the tube) be filled with yeast”…. “I allow that (the tube) be filled with dried meal”…. “I allow powdered stone”…. “I allow that it (the powdered stone) be pounded with beeswax”…. The powdered stone cracked. “I allow a cloth smeared with beeswax for tying up the powdered stone.”
+
+       .. container:: is-italic has-text-right
+
+          —  Cv.V.11.2
+
+     - 「我允許針」……「我允許針管」……。針生鏽了。「我允許（管子）填充酵母」……「我允許（管子）填充乾糧粉」……「我允許石粉」……「我允許（石粉）與蜂蠟搗合在一起」……石粉裂開了。「我允許用一塊塗了蜂蠟的布，將石粉包紮起來。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.11.2`_
+
 .. _《小品》.五.11.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0156a08
+.. _《小品》.五.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a01
+.. _《小品》.五.11.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a06
+.. _《小品》.五.11.4: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a12
+.. _《小品》.五.11.5: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0158a03
+.. _《小品》.五.11.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0158a11
+.. _《小品》.五.11.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0159a04
 
 (未完待續)
 
