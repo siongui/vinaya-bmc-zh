@@ -1351,6 +1351,18 @@
 
           —  `《小品》.五.11.2`_
 
+   * - “I allow a thimble”…. “One should not use fancy thimbles. Whoever should use one: an offense of wrong doing. I allow that they be made of bone, ivory, horn, reed, bamboo, wood, lac (resin), fruit (e.g., coconut shell), copper (metal), or conch-shell.” Needles, small knives, thimbles got lost. “I allow a small container (for storing these things). The small containers got disordered. “I allow a bag for thimbles.” “I allow thread for tying the mouth of the bag as a carrying strap (§).”
+
+       .. container:: is-italic has-text-right
+
+          —  Cv.V.11.5
+
+     - 「我允許使用頂針」……。「不應使用華麗的頂針。若使用者：《惡作》（《突吉羅》）罪。我允許使用骨、象牙、角、蘆葦、竹、木、漆（樹脂）、果實（例如椰子殼）、銅（金屬）或海螺殼製成的頂針。」針、小刀和頂針遺失。「我允許使用小容器（來儲存這些物品）。」小容器變得雜亂無章。「我允許頂針袋。」「我允許使用繩線繫住袋口，並作為提帶（§）。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.11.5`_
+
 .. _《小品》.五.11.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0156a08
 .. _《小品》.五.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a01
 .. _《小品》.五.11.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a06
