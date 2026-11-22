@@ -1363,6 +1363,18 @@
 
           —  `《小品》.五.11.5`_
 
+   * - “I allow a kaṭhina frame, cords for the kaṭhina frame, and that a robe be sewn having tied it down at intervals there.” [C: “Kaṭhina frame” includes mats, etc., to be spread on top of the frame. “Cords” = strings used to tie cloth to the frame when sewing a double-layer robe.]…. “A kaṭhina frame should not be set up on an uneven place. Whoever should do so: an offense of wrong doing”…. “I allow a grass mat (to be placed under the kaṭhina frame)”…. The frame got worn. “I allow a binding for the edge (§)”…. The frame was not the right size (§) [C: too big for the robe being made]. “I allow a stick-frame, a ‘splitting’ (§) [C: folding the edges of the mat to a double thickness to put them in line with the smaller frame], a slip of wood [C: for placing between two layers of cloth], and, having tied the tying cords [C: for tying a smaller frame to a larger frame] and tying threads [C: for tying the cloth to the smaller frame], that a robe be sewn”…. The spaces between the threads were unequal… “I allow a ruler (§).” The stitching was crooked… “I allow a marking thread.”
+
+       .. container:: is-italic has-text-right
+
+          —  Cv.V.11.3
+
+     - 「我允許功德衣框架、功德衣框架的繩索，及被縫製的袈裟在該處間隔著將其繫牢。」[《義註》：所謂「功德衣框架」，包含鋪在框架上的墊子等物。「繩索」指縫製雙層袈裟時，用來將布料綁在框架上的繩子。]……「不應將功德衣框架設置在不平坦的地方。若這麼做者：《惡作》（《突吉羅》）罪。」……「我允許草墊（置於功德衣框架下方）。」……框架磨損了。「我允許在邊緣加上包邊。」……框架尺寸不合 [《義註》：對於要縫製的袈裟而言太大]。「我允許棍子框架、『分拆』[《義註》：將墊子邊緣摺疊成雙層厚度，將其與較小的框架對齊]、木片 [《義註》：置於兩層布料之間]，並透過捆綁的繩索 [《義註》：將較小的框架捆綁在較大的框架上] 與綁線 [註：將布料捆綁在較小的框架上]，來縫製袈裟。」……線與線之間的間距不均……「我允許尺（§）。」縫線歪斜……「我允許標記線。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.11.3`_
+
 .. _《小品》.五.11.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0156a08
 .. _《小品》.五.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a01
 .. _《小品》.五.11.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a06
