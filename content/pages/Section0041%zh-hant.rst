@@ -1375,6 +1375,18 @@
 
           —  `《小品》.五.11.3`_
 
+   * - “A kaṭhina frame is not to be stepped on with unwashed feet. Whoever should do so: an offense of wrong doing. A kaṭhina frame is not to be stepped on with wet feet. Whoever should do so: an offense of wrong doing. A kaṭhina frame is not to be stepped on with sandaled (feet). Whoever should do so: an offense of wrong doing.”
+
+       .. container:: is-italic has-text-right
+
+          —  Cv.V.11.4
+
+     - 不可用未洗的雙腳踩踏功德衣框架。若這麼做者：《惡作》（《突吉羅》）罪。不可用潮濕的雙腳踩踏功德衣框架。若這麼做者：《惡作》（《突吉羅》）罪。不可穿著涼鞋（的腳）踩踏功德衣框架。若這麼做者：《惡作》（《突吉羅》）罪。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.11.4`_
+
 .. _《小品》.五.11.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0156a08
 .. _《小品》.五.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a01
 .. _《小品》.五.11.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a06
