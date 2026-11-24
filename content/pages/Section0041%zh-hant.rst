@@ -1381,11 +1381,23 @@
 
           —  Cv.V.11.4
 
-     - 不可用未洗的雙腳踩踏功德衣框架。若這麼做者：《惡作》（《突吉羅》）罪。不可用潮濕的雙腳踩踏功德衣框架。若這麼做者：《惡作》（《突吉羅》）罪。不可穿著涼鞋（的腳）踩踏功德衣框架。若這麼做者：《惡作》（《突吉羅》）罪。」
+     - 「不可用未洗的雙腳踩踏功德衣框架。若這麼做者：《惡作》（《突吉羅》）罪。不可用潮濕的雙腳踩踏功德衣框架。若這麼做者：《惡作》（《突吉羅》）罪。不可穿著涼鞋（的腳）踩踏功德衣框架。若這麼做者：《惡作》（《突吉羅》）罪。」
 
        .. container:: is-italic has-text-right
 
           —  `《小品》.五.11.4`_
+
+   * - “I allow a hall for the kaṭhina-frame, a building for the kaṭhina-frame”…. “I allow that it be made high off the ground”…. “I allow three kinds of pilings to be put up: made of brick, made of stone, made of wood”…. “I allow three kinds of staircases: a staircase made of brick, made of stone, made of wood”…. “I allow a stair railing”…. “I allow that, having lashed on (a roof), it be plastered inside and out with plaster—white, black, or ochre (§)—with garland designs, creeper designs, dragon-teeth designs, five-petaled designs (§), a pole for hanging up robe material (or robes), a cord for hanging up robe material (or robes).”
+
+       .. container:: is-italic has-text-right
+
+          —  Cv.V.11.6
+
+     - 「我允許功德衣框架的廳堂，功德衣框架的建築物」……「我允許將其架高，使其離地」……「我允許設置三種支柱：磚造、石造或木造」……「我允許三種階梯：磚造階梯、石造或木造」……「我允許樓梯扶手」……「我允許在（屋頂）架設完成後，其內外抹上灰泥——白色、黑色或赭色（§）——帶有花環紋樣、藤蔓紋樣、龍齒紋樣、五瓣花紋樣（§）；用來懸掛袈裟材料（或袈裟）的桿子，用來懸掛袈裟材料（或袈裟）的繩子。。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.11.6`_
 
 .. _《小品》.五.11.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0156a08
 .. _《小品》.五.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a01
