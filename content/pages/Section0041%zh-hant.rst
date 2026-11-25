@@ -1399,6 +1399,18 @@
 
           —  `《小品》.五.11.6`_
 
+   * - “I allow that the kaṭhina frame be folded (rolled) up”…. “I allow that the kaṭhina frame be rolled up around a stick”…. “I allow a cord for tying it up”…. “I allow that it be hung from a peg in the wall or an elephant-tusk peg.”
+
+       .. container:: is-italic has-text-right
+
+          —  Cv.V.11.7
+
+     - 「我允許將功德衣框架摺疊（或捲起）」……。「我允許將功德衣框架捲在棍子上」……。「我允許繩子將其捆綁」……。「我允許將其懸掛在牆上的掛釘，或是象牙掛釘上。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.11.7`_
+
 .. _《小品》.五.11.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0156a08
 .. _《小品》.五.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a01
 .. _《小品》.五.11.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0157a06
