@@ -1419,6 +1419,33 @@
 .. _《小品》.五.11.6: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0158a11
 .. _《小品》.五.11.7: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0159a04
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Making Robes: Dyeing
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          製作袈裟：染色
+
+   * - “I allow six kinds of dye: root-dye, stem (wood) dye, bark-dye, leaf-dye, flower-dye, fruit-dye.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.10.1`_
+
+     - 「我允許六種染料：根染料、莖（木）染料、樹皮染料、葉染料、花染料、果實染料。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.10.1`_
+
+.. _Mv.VIII.10.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts10_1
+.. _《大品》.八.10.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0372a12
+
 (未完待續)
 
 .. _robe-diagram:
