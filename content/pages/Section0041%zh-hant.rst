@@ -1443,8 +1443,36 @@
 
           —  `《大品》.八.10.1`_
 
+   * - “I allow a little dye-pot in which to boil the dye… I allow that a collar (§) be tied on to prevent boiling over… I allow that a drop be placed in water or on the back of the fingernail (to test whether the dye is fully boiled or not).”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.10.2`_
+
+     - 「我允許小染鍋來煮染料……我允許繫上一個套環（§），以防沸騰溢出……我允許將一滴液體滴入水中，或是滴在指甲背上（藉此測試染料是否已完全煮透）。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.10.2`_
+
+   * - “I allow a dye-scoop, a ladle with a handle… I allow a dyeing basin, a dyeing pot… I allow a dyeing trough.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.10.3`_
+
+     - 「我允許染料勺，帶有柄的大勺子……我允許染盆、染鍋……我允許染槽。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.10.3`_
+
 .. _Mv.VIII.10.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts10_1
 .. _《大品》.八.10.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0372a12
+.. _Mv.VIII.10.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts10_2
+.. _《大品》.八.10.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0373a01
+.. _Mv.VIII.10.3: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts10_3
+.. _《大品》.八.10.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0373a05
 
 (未完待續)
 
