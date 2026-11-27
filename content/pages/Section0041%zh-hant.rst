@@ -1467,12 +1467,40 @@
 
           —  `《大品》.八.10.3`_
 
+   * - “I allow a grass matting (on which to dry dyed cloth)… I allow a pole for the robe, a cord (clothesline) for the robe… I allow that it (the cloth) be tied at the corners… I allow a thread/string for tying the corners”… The dye dripped to one side. “I allow that it take the dye being turned back and forth, and that one not leave until the drips have become discontinuous (§).”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.11.1`_
+
+     - 「我允許使用草蓆（在其上將染過的布弄乾）……我允許使用掛袈裟的竿子，掛袈裟的繩子（晾衣繩）……我允許將其（布）的角落綁起來……我允許線/繩來綁住角落」……染液滴落到了一側。「我允許透過反覆翻轉布料來進行染色，且在染液滴落尚未變得斷斷續續之前，不得離開（§）。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.11.1`_
+
+   * - “I allow that (stiff dyed cloth) be soaked in water… I allow that (harsh dyed cloth) be beaten with the hand.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.11.2`_
+
+     - 「我允許將（硬挺的染色布）浸泡在水中……我允許用手捶打（粗硬的染色布）。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.11.2`_
+
 .. _Mv.VIII.10.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts10_1
 .. _《大品》.八.10.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0372a12
 .. _Mv.VIII.10.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts10_2
 .. _《大品》.八.10.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0373a01
 .. _Mv.VIII.10.3: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts10_3
 .. _《大品》.八.10.3: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0373a05
+.. _Mv.VIII.11.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts11_1
+.. _《大品》.八.11.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0373a09
+.. _Mv.VIII.11.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts11_2
+.. _《大品》.八.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0374a01
 
 (未完待續)
 
