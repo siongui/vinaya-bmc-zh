@@ -1502,6 +1502,47 @@
 .. _Mv.VIII.11.2: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts11_2
 .. _《大品》.八.11.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0374a01
 
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - .. container:: is-size-5 has-text-weight-bold
+
+          Dressing
+
+     - .. container:: is-size-5 has-text-weight-bold
+
+          穿著
+
+   * - “Nakedness, a sectarian observance, is not to be followed. Whoever follows it: a grave offense.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Mv.VIII.28.1`_
+
+     - 「赤身裸體——外道之行——不應效法。凡效法者：重罪（《偷蘭遮》）。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《大品》.八.28.1`_
+
+   * - “I allow three kinds of covering (to count as covering for the body): sauna-covering, water-covering, cloth-covering.”
+
+       .. container:: is-italic has-text-right
+
+          —  `Cv.V.16.2`_
+
+     - 「我允許三種披覆方式（可視為對身體的遮蔽）：桑拿（暖房）的覆蓋、水的覆蓋，以及布料的覆蓋。」
+
+       .. container:: is-italic has-text-right
+
+          —  `《小品》.五.16.2`_
+
+.. _Mv.VIII.28.1: https://www.dhammatalks.org/vinaya/Mv/MvVIII.html#pts28_1
+.. _《大品》.八.28.1: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N03n0002_008/#0395a02
+.. _Cv.V.16.2: https://www.dhammatalks.org/vinaya/bmc/Section0047.html#Cv.V.16.2
+.. _《小品》.五.16.2: https://siongui.github.io/yht-tipitaka/extra/tripitaka.cbeta.org/mobile/N04n0002_015/#0165a01
+
 (未完待續)
 
 .. _robe-diagram:
